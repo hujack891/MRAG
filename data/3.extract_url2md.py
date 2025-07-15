@@ -118,16 +118,8 @@ def url_to_markdown(url):
             logger.error(f"请求失败，状态码: {response.status_code}, URL: {url}")
             return None
 
-
-        print(response.text)
         # 解析网页结构
         soup = BeautifulSoup(response.text, 'html.parser')
-        for img in soup.find_all("img"):
-            data_src = img.get("data-src")
-            if data_src:
-                img["src"] = data_src
-
-
         logger.debug(f"网页标题: {soup.title.string if soup.title else 'No title'}")
 
         # 提取文章主内容区域
@@ -139,7 +131,6 @@ def url_to_markdown(url):
             return None
 
         logger.debug(f"找到主内容区域，长度: {len(str(main_content))}")
-
         
         # 转换为 Markdown
         h = html2text.HTML2Text()
@@ -271,6 +262,7 @@ def remove_markdown_hr(content: str) -> str:
 
     return '\n'.join(cleaned_lines)
 
+
 # Normalize filename
 def clean_filename(filename: str) -> str:
     """
@@ -315,7 +307,7 @@ def main():
     clean_folder(output_folder)
     logger.info(f"Folder cleaned: {output_folder}")
 
-    md_file_path = "./data/ign_sidebar_bk.md"
+    md_file_path = "data\minecraft_ign_sidebar.md"
     texts, urls = extract_links_from_markdown(md_file_path)
 
     for url, text in zip(urls, texts):
