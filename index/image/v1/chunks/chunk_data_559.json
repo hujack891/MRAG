@@ -1,0 +1,32 @@
+{
+    "chunk_id": 988050407482,
+    "source_file": "Heart_of_Stone.md",
+    "h1_title": "Heart of Stone",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Heart_of_Stone.jpg",
+    "alt_text": "Heart of Stone.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Heart of Stone\nHeart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Heart_of_Stone.md', located under Heart of Stone.\n\n                Metadata:\n                - Document Title: Heart of Stone\n                - Alt Text: Heart of Stone.jpg\n\n                Context:\n                - Preceding Text: \"# Heart of Stone\nHeart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Heart_of_Stone.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the in-game inventory screen from *Black Myth: Wukong*, showcasing the \"Heart of Stone,\" a rare special crafting material. The item description highlights its lore, stating it belonged to someone who renounced faith and slaughtered the divine, and emphasizes its utility in crafting weapons. This material is integral to creating unique gear, such as the Cloud-Patterned Stone Staff, as mentioned in the preceding text. The visual presentation includes the item's detailed design and its placement within the inventory interface.",
+    "embedding_prompt": "This is an image from the file 'Heart_of_Stone.md', This is the 0th image in the document, located in the main section titled 'Heart of Stone'. The preceding text of this image is: # Heart of Stone\nHeart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.,The following text of this image is: ,The summary of this picture is:The image depicts the in-game inventory screen from *Black Myth: Wukong*, showcasing the \"Heart of Stone,\" a rare special crafting material. The item description highlights its lore, stating it belonged to someone who renounced faith and slaughtered the divine, and emphasizes its utility in crafting weapons. This material is integral to creating unique gear, such as the Cloud-Patterned Stone Staff, as mentioned in the preceding text. The visual presentation includes the item's detailed design and its placement within the inventory interface."
+}

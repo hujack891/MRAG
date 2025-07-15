@@ -1,0 +1,32 @@
+{
+    "chunk_id": 589035319103,
+    "source_file": "Goat_Skull.md",
+    "h1_title": "Goat Skull",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Goat_Skull_3.jpg",
+    "alt_text": "Goat Skull 3.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Goat Skull\nGoat Skull is one of the Soaks for your Gourds that can be found throughout Black Myth: Wukong. It can be quite easy to miss if you aren't exploring thoroughly. But, the buff it offers is definitely useful for those looking for a pick-me-up in the middle of a fight.\nWith the Goat Skull equipped, using the Gourd moderately increases maximum health for a short duration. This duration is rather brief, but in the middle of a fight or when at low health, it can give you an extra buffer beyond your regular health to either be more aggressive, or flee and take out an enemy or two on the way.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Goat_Skull.md', located under Goat Skull.\n\n                Metadata:\n                - Document Title: Goat Skull\n                - Alt Text: Goat Skull 3.jpg\n\n                Context:\n                - Preceding Text: \"# Goat Skull\nGoat Skull is one of the Soaks for your Gourds that can be found throughout Black Myth: Wukong. It can be quite easy to miss if you aren't exploring thoroughly. But, the buff it offers is definitely useful for those looking for a pick-me-up in the middle of a fight.\nWith the Goat Skull equipped, using the Gourd moderately increases maximum health for a short duration. This duration is rather brief, but in the middle of a fight or when at low health, it can give you an extra buffer beyond your regular health to either be more aggressive, or flee and take out an enemy or two on the way.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Goat_Skull_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the inventory screen from the game \"Black Myth: Wukong,\" showcasing the Goat Skull item. The Goat Skull is categorized as a rare soak and is used to moderately increase maximum health for a short duration when equipped and using the gourd. This temporary health boost can be crucial during fights, providing players with an extra buffer to be more aggressive or retreat strategically. The item is part of the \"Drinks and Soaks\" section in the inventory.",
+    "embedding_prompt": "This is an image from the file 'Goat_Skull.md', This is the 0th image in the document, located in the main section titled 'Goat Skull'. The preceding text of this image is: # Goat Skull\nGoat Skull is one of the Soaks for your Gourds that can be found throughout Black Myth: Wukong. It can be quite easy to miss if you aren't exploring thoroughly. But, the buff it offers is definitely useful for those looking for a pick-me-up in the middle of a fight.\nWith the Goat Skull equipped, using the Gourd moderately increases maximum health for a short duration. This duration is rather brief, but in the middle of a fight or when at low health, it can give you an extra buffer beyond your regular health to either be more aggressive, or flee and take out an enemy or two on the way.,The following text of this image is: ,The summary of this picture is:The image depicts the inventory screen from the game \"Black Myth: Wukong,\" showcasing the Goat Skull item. The Goat Skull is categorized as a rare soak and is used to moderately increase maximum health for a short duration when equipped and using the gourd. This temporary health boost can be crucial during fights, providing players with an extra buffer to be more aggressive or retreat strategically. The item is part of the \"Drinks and Soaks\" section in the inventory."
+}

@@ -1,0 +1,32 @@
+{
+    "chunk_id": 533763226678,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "h1_title": "Secret Bosses in Chapter 1",
+    "h2_title": "Elder Jinchi",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Black_Myth_Wukong_Secrets_.png",
+    "alt_text": "Black Myth Wukong Secrets .png",
+    "position_desc": 0,
+    "img_above_text": "# Secret Bosses in Chapter 1\nChapter 1 has two secret bosses for you to take on. The first can be found in the chapter's secret area Secret: Ancient Guanyin Temple; the second, you'll find behind a waterfall, but only after collecting the Loong Scales from Chapter 2.\n## Elder Jinchi",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', located under Elder Jinchi.\n\n                Metadata:\n                - Document Title: Secret Bosses in Chapter 1\n                - Section Title: Elder Jinchi\n                - Alt Text: Black Myth Wukong Secrets .png\n\n                Context:\n                - Preceding Text: \"# Secret Bosses in Chapter 1\nChapter 1 has two secret bosses for you to take on. The first can be found in the chapter's secret area Secret: Ancient Guanyin Temple; the second, you'll find behind a waterfall, but only after collecting the Loong Scales from Chapter 2.\n## Elder Jinchi\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Black_Myth_Wukong_Secrets_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts Elder Jinchi, one of the secret bosses in Chapter 1 of \"Black Myth: Wukong.\" Elder Jinchi is found in the Ancient Guanyin Temple, a hidden area within the chapter. The background suggests a dark, mystical setting, enhancing the mysterious and challenging nature of this encounter.",
+    "embedding_prompt": "This is an image from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', This is the 0th image in the document, located in the main section titled 'Secret Bosses in Chapter 1'. The sub-section is titled 'Elder Jinchi', The preceding text of this image is: # Secret Bosses in Chapter 1\nChapter 1 has two secret bosses for you to take on. The first can be found in the chapter's secret area Secret: Ancient Guanyin Temple; the second, you'll find behind a waterfall, but only after collecting the Loong Scales from Chapter 2.\n## Elder Jinchi,The following text of this image is: ,The summary of this picture is:The image depicts Elder Jinchi, one of the secret bosses in Chapter 1 of \"Black Myth: Wukong.\" Elder Jinchi is found in the Ancient Guanyin Temple, a hidden area within the chapter. The background suggests a dark, mystical setting, enhancing the mysterious and challenging nature of this encounter."
+}

@@ -1,0 +1,32 @@
+{
+    "chunk_id": 840528043955,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "h1_title": "Prologue",
+    "h2_title": "Boss Fight - Erlang, the Sacred Divinity",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg",
+    "alt_text": "Wukong Prologue 5.jpg",
+    "position_desc": 4,
+    "img_above_text": "# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 4 from the file 'Forest_of_Wolves_Walkthrough.md', located under Boss Fight - Erlang, the Sacred Divinity.\n\n                Metadata:\n                - Document Title: Prologue\n                - Section Title: Boss Fight - Erlang, the Sacred Divinity\n                - Alt Text: Wukong Prologue 5.jpg\n\n                Context:\n                - Preceding Text: \"# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic moment from a boss fight against Erlang, the Sacred Divinity, in a game walkthrough. Erlang is shown mid-air, likely executing a powerful attack, with a dramatic red background emphasizing the intensity of the battle. The health bar at the bottom indicates the progression of the fight, aligning with the preceding text that describes Erlang's increased speed and defensive tactics after losing a fourth of his health. This visual serves to illustrate the challenging and fast-paced nature of the encounter.",
+    "embedding_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 4th image in the document, located in the main section titled 'Prologue'. The sub-section is titled 'Boss Fight - Erlang, the Sacred Divinity', The preceding text of this image is: # Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.,The following text of this image is: ,The summary of this picture is:The image depicts a dynamic moment from a boss fight against Erlang, the Sacred Divinity, in a game walkthrough. Erlang is shown mid-air, likely executing a powerful attack, with a dramatic red background emphasizing the intensity of the battle. The health bar at the bottom indicates the progression of the fight, aligning with the preceding text that describes Erlang's increased speed and defensive tactics after losing a fourth of his health. This visual serves to illustrate the challenging and fast-paced nature of the encounter."
+}

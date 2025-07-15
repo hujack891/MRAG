@@ -1,0 +1,32 @@
+{
+    "chunk_id": 85100995235,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "h1_title": "The Forest of Wolves",
+    "h2_title": "Outside the Forest",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_Wolves_29.jpg",
+    "alt_text": "Wukong Wolves 29.jpg",
+    "position_desc": 35,
+    "img_above_text": "# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.\n\nThere’s more optional things to explore in this wide area however, starting by taking the path to the left past the first two Wolves near the Shrine. Past several fallen trees, some **Purple Lingzhi** and **Aged Ginseng** , you can reach a small peak with broken pillars and a Wolf guarding some pots to break for Will.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 35 from the file 'Forest_of_Wolves_Walkthrough.md', located under Outside the Forest.\n\n                Metadata:\n                - Document Title: The Forest of Wolves\n                - Section Title: Outside the Forest\n                - Alt Text: Wukong Wolves 29.jpg\n\n                Context:\n                - Preceding Text: \"# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.\n\nThere’s more optional things to explore in this wide area however, starting by taking the path to the left past the first two Wolves near the Shrine. Past several fallen trees, some **Purple Lingzhi** and **Aged Ginseng** , you can reach a small peak with broken pillars and a Wolf guarding some pots to break for Will.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_Wolves_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from \"The Forest of Wolves,\" specifically within the section titled \"Outside the Forest.\" It shows a character, likely the Destined One, navigating a forest path. The character is facing a creature, possibly a Wolf Guai, which appears to be guarding a chest marked with a red outline. This setting aligns with the narrative of exploring dangers and opportunities outside the Shrine, as mentioned in the preceding text. The image serves to illustrate the challenges and exploration elements in this area, emphasizing the need for caution and strategic planning as the character progresses through the forest.",
+    "embedding_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 35th image in the document, located in the main section titled 'The Forest of Wolves'. The sub-section is titled 'Outside the Forest', The preceding text of this image is: # The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.\n\nThere’s more optional things to explore in this wide area however, starting by taking the path to the left past the first two Wolves near the Shrine. Past several fallen trees, some **Purple Lingzhi** and **Aged Ginseng** , you can reach a small peak with broken pillars and a Wolf guarding some pots to break for Will.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from \"The Forest of Wolves,\" specifically within the section titled \"Outside the Forest.\" It shows a character, likely the Destined One, navigating a forest path. The character is facing a creature, possibly a Wolf Guai, which appears to be guarding a chest marked with a red outline. This setting aligns with the narrative of exploring dangers and opportunities outside the Shrine, as mentioned in the preceding text. The image serves to illustrate the challenges and exploration elements in this area, emphasizing the need for caution and strategic planning as the character progresses through the forest."
+}

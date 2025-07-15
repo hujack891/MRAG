@@ -1,0 +1,32 @@
+{
+    "chunk_id": 386471052499,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Upper Pagoda (Level 3)",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Pagoda_49.jpg",
+    "alt_text": "Wukong Pagoda 49.jpg",
+    "position_desc": 48,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\n* Level 2 - On the path to the right after climbing the stairs, look for the first cell door on the right guarded by a Cyan Bat. Inside is an Abomination in the corner, as well as an empowered Enslaved Yaksha you can defeat to gain the Enslaved Yaksha Spirit. Defeat them both and help yourself to a **Treasure Chest** in the corner full of materials.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 48 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 3).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 3)\n                - Alt Text: Wukong Pagoda 49.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\n* Level 2 - On the path to the right after climbing the stairs, look for the first cell door on the right guarded by a Cyan Bat. Inside is an Abomination in the corner, as well as an empowered Enslaved Yaksha you can defeat to gain the Enslaved Yaksha Spirit. Defeat them both and help yourself to a **Treasure Chest** in the corner full of materials.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Pagoda_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the Upper Pagoda (Level 3) in the document titled \"The Beguiling Chant of the Pagoda Realm.\" It shows a character approaching a treasure chest in a dimly lit, rocky environment. Above the character, a bat-like creature is hanging from the ceiling, suggesting a potential threat or obstacle. This image aligns with the preceding text, which describes the journey through the pagoda and the challenges faced, including encountering creatures and finding treasure.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 48th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 3)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\n* Level 2 - On the path to the right after climbing the stairs, look for the first cell door on the right guarded by a Cyan Bat. Inside is an Abomination in the corner, as well as an empowered Enslaved Yaksha you can defeat to gain the Enslaved Yaksha Spirit. Defeat them both and help yourself to a **Treasure Chest** in the corner full of materials.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the Upper Pagoda (Level 3) in the document titled \"The Beguiling Chant of the Pagoda Realm.\" It shows a character approaching a treasure chest in a dimly lit, rocky environment. Above the character, a bat-like creature is hanging from the ceiling, suggesting a potential threat or obstacle. This image aligns with the preceding text, which describes the journey through the pagoda and the challenges faced, including encountering creatures and finding treasure."
+}

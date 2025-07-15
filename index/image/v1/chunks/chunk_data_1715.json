@@ -1,0 +1,32 @@
+{
+    "chunk_id": 619874469404,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "h1_title": "Chapter 4 Secrets",
+    "h2_title": "The Scorpionlord Boss - Purple Cloud Mountain",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Secrets_Black_Myth_Wukong_.png",
+    "alt_text": "Secrets Black Myth Wukong .png",
+    "position_desc": 17,
+    "img_above_text": "# Chapter 4 Secrets\n## The Scorpionlord Boss - Purple Cloud Mountain\n\nYou'll need to beat the Venom Daoist twice in Chapter 4 to gain access to Purple Cloud Mountain. You can first fight him in the Webbed Hollow, and then fight him again in the Temple of Yellow Flowers. After this fight, a wall will appear that will allow you to go to Purple Cloud Mountain.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 17 from the file 'Secrets_in_Black_Myth_Wukong.md', located under The Scorpionlord Boss - Purple Cloud Mountain.\n\n                Metadata:\n                - Document Title: Chapter 4 Secrets\n                - Section Title: The Scorpionlord Boss - Purple Cloud Mountain\n                - Alt Text: Secrets Black Myth Wukong .png\n\n                Context:\n                - Preceding Text: \"# Chapter 4 Secrets\n## The Scorpionlord Boss - Purple Cloud Mountain\n\nYou'll need to beat the Venom Daoist twice in Chapter 4 to gain access to Purple Cloud Mountain. You can first fight him in the Webbed Hollow, and then fight him again in the Temple of Yellow Flowers. After this fight, a wall will appear that will allow you to go to Purple Cloud Mountain.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Secrets_Black_Myth_Wukong_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a menacing creature, likely the Scorpionlord, set against the backdrop of a traditional temple surrounded by autumn foliage. This scene is part of Chapter 4 in the document titled \"Secrets in Black Myth Wukong,\" specifically under the section \"The Scorpionlord Boss - Purple Cloud Mountain.\" The preceding text describes the player's journey to Purple Cloud Mountain after defeating the Venom Daoist twice, suggesting that this image illustrates the climactic encounter with the Scorpionlord boss.",
+    "embedding_prompt": "This is an image from the file 'Secrets_in_Black_Myth_Wukong.md', This is the 17th image in the document, located in the main section titled 'Chapter 4 Secrets'. The sub-section is titled 'The Scorpionlord Boss - Purple Cloud Mountain', The preceding text of this image is: # Chapter 4 Secrets\n## The Scorpionlord Boss - Purple Cloud Mountain\n\nYou'll need to beat the Venom Daoist twice in Chapter 4 to gain access to Purple Cloud Mountain. You can first fight him in the Webbed Hollow, and then fight him again in the Temple of Yellow Flowers. After this fight, a wall will appear that will allow you to go to Purple Cloud Mountain.,The following text of this image is: ,The summary of this picture is:The image depicts a menacing creature, likely the Scorpionlord, set against the backdrop of a traditional temple surrounded by autumn foliage. This scene is part of Chapter 4 in the document titled \"Secrets in Black Myth Wukong,\" specifically under the section \"The Scorpionlord Boss - Purple Cloud Mountain.\" The preceding text describes the player's journey to Purple Cloud Mountain after defeating the Venom Daoist twice, suggesting that this image illustrates the climactic encounter with the Scorpionlord boss."
+}

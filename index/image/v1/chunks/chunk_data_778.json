@@ -1,0 +1,32 @@
+{
+    "chunk_id": 72000433803,
+    "source_file": "Jade_Fang.md",
+    "h1_title": "Jade Fang",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Bamboo_42.jpg",
+    "alt_text": "Wukong Bamboo 42.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Jade Fang\nJade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.\n\nTo obtain the Jade Fang, you need to defeat Whiteclad Noble in Bamboo Grove in Black Wind Mountain.",
+    "img_below_text": "For even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations and Armor and Gear locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Jade_Fang.md', located under Jade Fang.\n\n                Metadata:\n                - Document Title: Jade Fang\n                - Alt Text: Wukong Bamboo 42.jpg\n\n                Context:\n                - Preceding Text: \"# Jade Fang\nJade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.\n\nTo obtain the Jade Fang, you need to defeat Whiteclad Noble in Bamboo Grove in Black Wind Mountain.\"\n                - Following Text: \"For even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations and Armor and Gear locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Bamboo_42.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character named Whiteclad Noble in a combat scenario, likely in the Bamboo Grove area of Black Wind Mountain. This visual is related to the process of obtaining the Jade Fang, a unique material used for crafting special gear like the Twin Serpents Staff. The preceding and following text provide context on the importance of defeating Whiteclad Noble to acquire the Jade Fang and suggest further guides for finding various items in the game.",
+    "embedding_prompt": "This is an image from the file 'Jade_Fang.md', This is the 1th image in the document, located in the main section titled 'Jade Fang'. The preceding text of this image is: # Jade Fang\nJade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.\n\nTo obtain the Jade Fang, you need to defeat Whiteclad Noble in Bamboo Grove in Black Wind Mountain.,The following text of this image is: For even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations and Armor and Gear locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.,The summary of this picture is:The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character named Whiteclad Noble in a combat scenario, likely in the Bamboo Grove area of Black Wind Mountain. This visual is related to the process of obtaining the Jade Fang, a unique material used for crafting special gear like the Twin Serpents Staff. The preceding and following text provide context on the importance of defeating Whiteclad Noble to acquire the Jade Fang and suggest further guides for finding various items in the game."
+}

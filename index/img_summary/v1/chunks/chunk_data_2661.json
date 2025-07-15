@@ -1,0 +1,31 @@
+{
+    "chunk_id": 723413507417,
+    "source_file": "Snow_Fox_Questline.md",
+    "h1_title": "Snow Fox Questline",
+    "h2_title": "Where to Find the Snow Fox",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
+    "alt_text": "Snow Fox Questline .png",
+    "position_desc": 2,
+    "img_above_text": "# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'Snow_Fox_Questline.md', located under Where to Find the Snow Fox.\n\n                Metadata:\n                - Document Title: Snow Fox Questline\n                - Section Title: Where to Find the Snow Fox\n                - Alt Text: Snow Fox Questline .png\n\n                Context:\n                - Preceding Text: \"# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy scene with a fox approaching a body lying near a wooden structure with torches. This visual aligns with the narrative from the \"Snow Fox Questline\" document, specifically the section \"Where to Find the Snow Fox.\" The preceding text describes the interaction with the fox guai's soul residing in the body, revealing a story of revenge against a scholar-turned-monk. The image likely illustrates the initial encounter with the fox guai, setting the stage for the quest's unfolding story."
+}

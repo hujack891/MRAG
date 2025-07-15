@@ -1,0 +1,32 @@
+{
+    "chunk_id": 762464328755,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Upper Pagoda (Level 3)",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
+    "alt_text": "Wukong Pagoda 57.jpg",
+    "position_desc": 53,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 53 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 3).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 3)\n                - Alt Text: Wukong Pagoda 57.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game, specifically from the \"Upper Pagoda (Level 3)\" section of a walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" The character, armed with a glowing staff, is navigating through a dimly lit, rocky tunnel. The image likely illustrates the player's journey through the cell tunnel mentioned in the preceding text, where they are approaching a Red-Haired Yaksha guarding a green Wisp, which is crucial for replenishing the healing gourd. The visual aids in understanding the environment and challenges faced at this stage of the game.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 53th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 3)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from a video game, specifically from the \"Upper Pagoda (Level 3)\" section of a walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" The character, armed with a glowing staff, is navigating through a dimly lit, rocky tunnel. The image likely illustrates the player's journey through the cell tunnel mentioned in the preceding text, where they are approaching a Red-Haired Yaksha guarding a green Wisp, which is crucial for replenishing the healing gourd. The visual aids in understanding the environment and challenges faced at this stage of the game."
+}

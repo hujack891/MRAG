@@ -1,0 +1,32 @@
+{
+    "chunk_id": 695512869446,
+    "source_file": "Fuban.md",
+    "h1_title": "Fuban",
+    "h2_title": "Fuban Boss Fight and Guide",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
+    "alt_text": "Wukong Sahali 36.jpg",
+    "position_desc": 19,
+    "img_above_text": "# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 19 from the file 'Fuban.md', located under Fuban Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Fuban\n                - Section Title: Fuban Boss Fight and Guide\n                - Alt Text: Wukong Sahali 36.jpg\n\n                Context:\n                - Preceding Text: \"# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the Fuban boss fight in the game Black Myth Wukong. It shows a character evading an attack from Fuban, a large creature emerging from the sand, causing an explosion of debris. This visual illustrates the described strategy of using the Pillar Stance to avoid damage from Fuban's upward horn attack during the encounter in the Kingdom of Sahali.",
+    "embedding_prompt": "This is an image from the file 'Fuban.md', This is the 19th image in the document, located in the main section titled 'Fuban'. The sub-section is titled 'Fuban Boss Fight and Guide', The preceding text of this image is: # Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the Fuban boss fight in the game Black Myth Wukong. It shows a character evading an attack from Fuban, a large creature emerging from the sand, causing an explosion of debris. This visual illustrates the described strategy of using the Pillar Stance to avoid damage from Fuban's upward horn attack during the encounter in the Kingdom of Sahali."
+}

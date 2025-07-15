@@ -1,0 +1,32 @@
+{
+    "chunk_id": 678070823544,
+    "source_file": "Xu_Dog_Questline.md",
+    "h1_title": "Xu Dog Questline",
+    "h2_title": "In the Sandgate Village",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_9.jpg",
+    "alt_text": "Wukong Sandgate 9.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Xu Dog Questline\nThe Xu Dog is a friendly character and merchant you can meet in Chapter 2 of Black Myth Wukong. This character will teach you the art of crafting consumable medicine, and eventually allow you to invest in passive buffs.\n## In the Sandgate Village",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Xu_Dog_Questline.md', located under In the Sandgate Village.\n\n                Metadata:\n                - Document Title: Xu Dog Questline\n                - Section Title: In the Sandgate Village\n                - Alt Text: Wukong Sandgate 9.jpg\n\n                Context:\n                - Preceding Text: \"# Xu Dog Questline\nThe Xu Dog is a friendly character and merchant you can meet in Chapter 2 of Black Myth Wukong. This character will teach you the art of crafting consumable medicine, and eventually allow you to invest in passive buffs.\n## In the Sandgate Village\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the Xu Dog Questline in the Sandgate Village section. It shows a character standing on a rocky ledge overlooking a sandy, arid area with sparse vegetation. The character appears to be observing or preparing to engage with creatures or enemies below. The setting is likely part of a quest where the Xu Dog, a friendly character and merchant, teaches the player about crafting consumable medicine and investing in passive buffs. The image captures the environment and potential challenges the player might face in this questline.",
+    "embedding_prompt": "This is an image from the file 'Xu_Dog_Questline.md', This is the 0th image in the document, located in the main section titled 'Xu Dog Questline'. The sub-section is titled 'In the Sandgate Village', The preceding text of this image is: # Xu Dog Questline\nThe Xu Dog is a friendly character and merchant you can meet in Chapter 2 of Black Myth Wukong. This character will teach you the art of crafting consumable medicine, and eventually allow you to invest in passive buffs.\n## In the Sandgate Village,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the Xu Dog Questline in the Sandgate Village section. It shows a character standing on a rocky ledge overlooking a sandy, arid area with sparse vegetation. The character appears to be observing or preparing to engage with creatures or enemies below. The setting is likely part of a quest where the Xu Dog, a friendly character and merchant, teaches the player about crafting consumable medicine and investing in passive buffs. The image captures the environment and potential challenges the player might face in this questline."
+}

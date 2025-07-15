@@ -1,0 +1,32 @@
+{
+    "chunk_id": 374053797156,
+    "source_file": "Man-in-Stone_Questline.md",
+    "h1_title": "Man-in-Stone Questline",
+    "h2_title": "Where to Find the Man-in-Stone",
+    "h3_title": "Yaoguai Chief Miniboss - Mother of Stone",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg",
+    "alt_text": "Wukong Fright 29.jpg",
+    "position_desc": 6,
+    "img_above_text": "# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n### Yaoguai Chief Miniboss - Mother of Stone\n\nThis boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 6 from the file 'Man-in-Stone_Questline.md', located under Yaoguai Chief Miniboss - Mother of Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone Questline\n                - Section Title: Where to Find the Man-in-Stone\n                - Sub-Section Title: Yaoguai Chief Miniboss - Mother of Stone\n                - Alt Text: Wukong Fright 29.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n### Yaoguai Chief Miniboss - Mother of Stone\n\nThis boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the \"Man-in-Stone Questline\" under the section \"Yaoguai Chief Miniboss - Mother of Stone.\" The image shows a large, crystal-embedded statue-like creature, identified as the \"Mother of Stones,\" which is a miniboss in the game. The creature appears to be stationary with a health bar displayed at the bottom, indicating a boss battle. The preceding text explains that this boss does not move but has a significant amount of health, making the battle unique.",
+    "embedding_prompt": "This is an image from the file 'Man-in-Stone_Questline.md', This is the 6th image in the document, located in the main section titled 'Man-in-Stone Questline'. The sub-section is titled 'Where to Find the Man-in-Stone', The preceding text of this image is: # Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n### Yaoguai Chief Miniboss - Mother of Stone\n\nThis boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the \"Man-in-Stone Questline\" under the section \"Yaoguai Chief Miniboss - Mother of Stone.\" The image shows a large, crystal-embedded statue-like creature, identified as the \"Mother of Stones,\" which is a miniboss in the game. The creature appears to be stationary with a health bar displayed at the bottom, indicating a boss battle. The preceding text explains that this boss does not move but has a significant amount of health, making the battle unique."
+}

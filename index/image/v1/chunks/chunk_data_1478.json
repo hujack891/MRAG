@@ -1,0 +1,32 @@
+{
+    "chunk_id": 629706801006,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Outside the Wheel",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg",
+    "alt_text": "Wukong Pagoda 103.jpg",
+    "position_desc": 98,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nClear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 98 from the file 'Pagoda_Realm_Walkthrough.md', located under Outside the Wheel.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Outside the Wheel\n                - Alt Text: Wukong Pagoda 103.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nClear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character ascending a dark, stone staircase lined with statues, leading towards a bright exit at the top. The character is holding a glowing staff, suggesting a sense of readiness for combat or exploration. This scene aligns with the preceding text from \"The Beguiling Chant of the Pagoda Realm,\" specifically the \"Outside the Wheel\" section, where the player is navigating through a narrow gorge and encountering enemies like the Frozen Corpses and a Yaksha Patroller. The image visually represents the challenging journey and the atmospheric setting described in the walkthrough.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 98th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Outside the Wheel', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nClear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.,The following text of this image is: ,The summary of this picture is:The image depicts a character ascending a dark, stone staircase lined with statues, leading towards a bright exit at the top. The character is holding a glowing staff, suggesting a sense of readiness for combat or exploration. This scene aligns with the preceding text from \"The Beguiling Chant of the Pagoda Realm,\" specifically the \"Outside the Wheel\" section, where the player is navigating through a narrow gorge and encountering enemies like the Frozen Corpses and a Yaksha Patroller. The image visually represents the challenging journey and the atmospheric setting described in the walkthrough."
+}

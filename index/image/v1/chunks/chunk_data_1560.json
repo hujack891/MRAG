@@ -1,0 +1,32 @@
+{
+    "chunk_id": 355914388276,
+    "source_file": "Rat_Sage_Staff.md",
+    "h1_title": "Rat Sage Staff",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Rat_Sage_Staff_2.jpg",
+    "alt_text": "Rat Sage Staff 2.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Rat Sage Staff\nThe Rat Sage Staff Staff is an Epic weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\nThe weapon comes with a respectable 66 damage, and the unique effect of making the fourth move of a light attack combo and the mobile staff spin stir up a whirlwind of sands, increasing attack range and damage.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Rat_Sage_Staff.md', located under Rat Sage Staff.\n\n                Metadata:\n                - Document Title: Rat Sage Staff\n                - Alt Text: Rat Sage Staff 2.jpg\n\n                Context:\n                - Preceding Text: \"# Rat Sage Staff\nThe Rat Sage Staff Staff is an Epic weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\nThe weapon comes with a respectable 66 damage, and the unique effect of making the fourth move of a light attack combo and the mobile staff spin stir up a whirlwind of sands, increasing attack range and damage.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Rat_Sage_Staff_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the Rat Sage Staff, an Epic weapon in the game Black Myth: Wukong. The staff has an attack power of 66 and a critical hit chance of 7%. Its unique effect enhances the fourth move of a light attack combo and the mobile staff spin, creating a whirlwind of sands that increases attack range and damage. The image serves to illustrate the weapon's stats and special abilities as described in the preceding text.",
+    "embedding_prompt": "This is an image from the file 'Rat_Sage_Staff.md', This is the 0th image in the document, located in the main section titled 'Rat Sage Staff'. The preceding text of this image is: # Rat Sage Staff\nThe Rat Sage Staff Staff is an Epic weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\nThe weapon comes with a respectable 66 damage, and the unique effect of making the fourth move of a light attack combo and the mobile staff spin stir up a whirlwind of sands, increasing attack range and damage.,The following text of this image is: ,The summary of this picture is:The image displays the Rat Sage Staff, an Epic weapon in the game Black Myth: Wukong. The staff has an attack power of 66 and a critical hit chance of 7%. Its unique effect enhances the fourth move of a light attack combo and the mobile staff spin, creating a whirlwind of sands that increases attack range and damage. The image serves to illustrate the weapon's stats and special abilities as described in the preceding text."
+}

@@ -1,0 +1,32 @@
+{
+    "chunk_id": 601462015470,
+    "source_file": "Earth_Wolf.md",
+    "h1_title": "Earth Wolf",
+    "h2_title": "Earth Wolf Miniboss Fight and Guide",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg",
+    "alt_text": "Wukong Sandgate 44.jpg",
+    "position_desc": 5,
+    "img_above_text": "# Earth Wolf\nThe Earth Wolf is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this enemy to gain their Spirit power by defeating them inside the Sandgate Village.\n* Rewards: Earth Wolf Spirit\n## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.\n\nThe Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 5 from the file 'Earth_Wolf.md', located under Earth Wolf Miniboss Fight and Guide.\n\n                Metadata:\n                - Document Title: Earth Wolf\n                - Section Title: Earth Wolf Miniboss Fight and Guide\n                - Alt Text: Wukong Sandgate 44.jpg\n\n                Context:\n                - Preceding Text: \"# Earth Wolf\nThe Earth Wolf is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this enemy to gain their Spirit power by defeating them inside the Sandgate Village.\n* Rewards: Earth Wolf Spirit\n## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.\n\nThe Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game Black Myth Wukong, specifically featuring the Earth Wolf miniboss fight in Sandgate Village. The player character is engaged in combat with the Earth Wolf, showcasing the creature's aggressive attack patterns. The environment is a desolate village with eerie, twisted trees and dilapidated structures, enhancing the ominous atmosphere of the fight. The image serves to illustrate the challenging nature of the Earth Wolf encounter, as described in the guide.",
+    "embedding_prompt": "This is an image from the file 'Earth_Wolf.md', This is the 5th image in the document, located in the main section titled 'Earth Wolf'. The sub-section is titled 'Earth Wolf Miniboss Fight and Guide', The preceding text of this image is: # Earth Wolf\nThe Earth Wolf is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this enemy to gain their Spirit power by defeating them inside the Sandgate Village.\n* Rewards: Earth Wolf Spirit\n## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.\n\nThe Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.,The following text of this image is: ,The summary of this picture is:The image depicts an intense battle scene from the game Black Myth Wukong, specifically featuring the Earth Wolf miniboss fight in Sandgate Village. The player character is engaged in combat with the Earth Wolf, showcasing the creature's aggressive attack patterns. The environment is a desolate village with eerie, twisted trees and dilapidated structures, enhancing the ominous atmosphere of the fight. The image serves to illustrate the challenging nature of the Earth Wolf encounter, as described in the guide."
+}

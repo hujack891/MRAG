@@ -1,0 +1,32 @@
+{
+    "chunk_id": 458997923848,
+    "source_file": "First_Prince_of_Flowing_Sands.md",
+    "h1_title": "First Prince of Flowing Sands",
+    "h2_title": "Where to Find First Prince of Flowing Sands",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+    "alt_text": "Wukong Sandgate 63.jpg",
+    "position_desc": 0,
+    "img_above_text": "# First Prince of Flowing Sands\nThe First Prince of Flowing Sands is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this boss just past the Sandgate Village in a large valley cave, and will need to defeat him to unlock more than one secret boss.\n* Rewards: Arhat Hold Piece, Silk x2, Yarn x2, 1102 Experience, 1020 Will\n## Where to Find First Prince of Flowing Sands",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'First_Prince_of_Flowing_Sands.md', located under Where to Find First Prince of Flowing Sands.\n\n                Metadata:\n                - Document Title: First Prince of Flowing Sands\n                - Section Title: Where to Find First Prince of Flowing Sands\n                - Alt Text: Wukong Sandgate 63.jpg\n\n                Context:\n                - Preceding Text: \"# First Prince of Flowing Sands\nThe First Prince of Flowing Sands is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this boss just past the Sandgate Village in a large valley cave, and will need to defeat him to unlock more than one secret boss.\n* Rewards: Arhat Hold Piece, Silk x2, Yarn x2, 1102 Experience, 1020 Will\n## Where to Find First Prince of Flowing Sands\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character in *Black Myth: Wukong* approaching a rocky, desolate area near Sandgate Village, likely en route to the location of the optional miniboss, the First Prince of Flowing Sands. The environment features dry grass, rugged terrain, and a cave entrance in the background, suggesting the valley cave mentioned in the preceding text. The image serves to visually guide players to the miniboss's location, aligning with the section \"Where to Find First Prince of Flowing Sands\" in the document.",
+    "embedding_prompt": "This is an image from the file 'First_Prince_of_Flowing_Sands.md', This is the 0th image in the document, located in the main section titled 'First Prince of Flowing Sands'. The sub-section is titled 'Where to Find First Prince of Flowing Sands', The preceding text of this image is: # First Prince of Flowing Sands\nThe First Prince of Flowing Sands is an optional Yaoguai Chief miniboss that you can encounter in Chapter 2 of Black Myth Wukong. As an optional foe, you can seek out this boss just past the Sandgate Village in a large valley cave, and will need to defeat him to unlock more than one secret boss.\n* Rewards: Arhat Hold Piece, Silk x2, Yarn x2, 1102 Experience, 1020 Will\n## Where to Find First Prince of Flowing Sands,The following text of this image is: ,The summary of this picture is:The image depicts a player character in *Black Myth: Wukong* approaching a rocky, desolate area near Sandgate Village, likely en route to the location of the optional miniboss, the First Prince of Flowing Sands. The environment features dry grass, rugged terrain, and a cave entrance in the background, suggesting the valley cave mentioned in the preceding text. The image serves to visually guide players to the miniboss's location, aligning with the section \"Where to Find First Prince of Flowing Sands\" in the document."
+}

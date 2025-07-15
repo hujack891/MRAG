@@ -1,0 +1,32 @@
+{
+    "chunk_id": 456851625054,
+    "source_file": "Azure_Dust.md",
+    "h1_title": "Azure Dust",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg",
+    "alt_text": "Black-myth-wukong-azure-dust-2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Azure Dust\nAzure Dust is one of the more hidden Transformation Spells in Black Myth: Wukong. Unlike some of the other Transformations, Azure Dust doesn't have much flexibility in how you use it. But, it has some powerful attacks even the Transformation is hard to control.\nThe Transformation allows you to transform into a rock guai, immune to all Four Banes. Azure Dust also builds up Might when hit. Azure Dust's moveset is as follows:\n* **Light Attack: Earth Shatter - Strike the enemy three times with your heavy head**. This is a powerful slam on the ground with your head that can be repeated.\n\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Azure_Dust.md', located under Azure Dust.\n\n                Metadata:\n                - Document Title: Azure Dust\n                - Alt Text: Black-myth-wukong-azure-dust-2.jpg\n\n                Context:\n                - Preceding Text: \"# Azure Dust\nAzure Dust is one of the more hidden Transformation Spells in Black Myth: Wukong. Unlike some of the other Transformations, Azure Dust doesn't have much flexibility in how you use it. But, it has some powerful attacks even the Transformation is hard to control.\nThe Transformation allows you to transform into a rock guai, immune to all Four Banes. Azure Dust also builds up Might when hit. Azure Dust's moveset is as follows:\n* **Light Attack: Earth Shatter - Strike the enemy three times with your heavy head**. This is a powerful slam on the ground with your head that can be repeated.\n\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image from the document \"Azure Dust\" depicts a scene from the game Black Myth: Wukong, showcasing the Azure Dust transformation spell. In this transformation, the player character appears as a rock guai, emphasizing its immunity to all Four Banes and ability to build up Might when hit. The image highlights the moveset associated with Azure Dust, featuring the \"Earth Shatter\" light attack and \"Mountain Splitter\" heavy attack, which are powerful but challenging to control. The visual setting is a rugged, rocky landscape, reinforcing the theme of strength and resilience inherent in the transformation.",
+    "embedding_prompt": "This is an image from the file 'Azure_Dust.md', This is the 1th image in the document, located in the main section titled 'Azure Dust'. The preceding text of this image is: # Azure Dust\nAzure Dust is one of the more hidden Transformation Spells in Black Myth: Wukong. Unlike some of the other Transformations, Azure Dust doesn't have much flexibility in how you use it. But, it has some powerful attacks even the Transformation is hard to control.\nThe Transformation allows you to transform into a rock guai, immune to all Four Banes. Azure Dust also builds up Might when hit. Azure Dust's moveset is as follows:\n* **Light Attack: Earth Shatter - Strike the enemy three times with your heavy head**. This is a powerful slam on the ground with your head that can be repeated.\n\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.,The following text of this image is: ,The summary of this picture is:The image from the document \"Azure Dust\" depicts a scene from the game Black Myth: Wukong, showcasing the Azure Dust transformation spell. In this transformation, the player character appears as a rock guai, emphasizing its immunity to all Four Banes and ability to build up Might when hit. The image highlights the moveset associated with Azure Dust, featuring the \"Earth Shatter\" light attack and \"Mountain Splitter\" heavy attack, which are powerful but challenging to control. The visual setting is a rugged, rocky landscape, reinforcing the theme of strength and resilience inherent in the transformation."
+}

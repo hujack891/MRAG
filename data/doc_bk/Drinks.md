@@ -1,0 +1,25 @@
+# Drinks
+
+Black Myth: Wukong has a selection of different Drinks you can equip that change the Gourd’s behavior. From restoring your health quickly, restoring it over time, or in alternative ways, the drink options allow you to pick an option that suits your style. 
+
+These Gourd Drinks are rare in the game, and there are only a few different options to be found, mostly through exploration. You can also find individual Gourds and Soaks that provide additional perks. 
+
+## Black Myth: Wukong Drinks Locations
+
+### Best Black Myth Wukong Gourd Drinks
+
+### Best Black Myth Wukong Gourd Drinks
+
+Below you can find a full list of the Drinks in the game and where they can be found. Additionally, you can check each one off as you find them. Each link will take you to a dedicated page for each Drink, or you can use our walkthrough. 
+
+Image | Drink | Rarity | Effect | Location | Collected   
+---|---|---|---|---|---  
+![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine  
+![Lambrew .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg)| Lambrew| Rare | Each sip instantly recovers 20% of maximum health. For a brief moment after, slowly recovers 25% of maximum health | Found behind the Sandgate Village - Village Entrance Shrine, where you first begin Chapter 2 - Yellow Wind RidgeIt is located up the hill on your right from where you spawn in at the beginning of the chapter | Lambrew  
+![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance  
+![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence  
+![Black-myth-wukong-pinebrew.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Black-myth-wukong-pinebrew.jpg)| Pinebrew| Epic | Each sip recovers 35% of Maximum Health When Health is below half, using the gourd grants a considerable amount of Focus | Purchased from the Shen Monkey Vendor from the start of Chapter 4 onwards | Pinebrew  
+![Black-myth-wukong-worryfree-brew.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-worryfree-brew.jpg)| Worryfree Brew| Legendary | Each sip recovers 24% of Maximum Health When at Critical Health, massively increases the recovery | Found in The Verdure Bridge in The Webbed Hollow, drop down at the bridge by the Shrine to the lower path Continue deeper into the area, following the flames and head up the stairs on the left Continue upwards, past the hut and follow the path to the right till you see some cocoons blocking a hut entrance Destroy them to find the Drink | Worryfree Brew  
+![Black-myth-wukong-sunset-of-the-nine-skies.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-sunset-of-the-nine-skies.jpg)| Sunset of the Nine Skies| Legendary | Each sip recovers 35% of Maximum Health Grants a considerable amount of Qi | Found in Temple of the Yellow Flowers, Court of Illumination in The Webbed HollowPass the two Doaist enemies at the entrance and follow the path through the cliffside Once you reach a tree trunk ahead, take a left up some more stairs and follow the path to the end, to find a hut with the Drink | Sunset of the Nine Skies  
+![Black-myth-wukong-loong-balm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Black-myth-wukong-loong-balm.jpg)| Loong Balm| Mythical | Each sip recovers 30% of Maximum Health Considerably increases Damage executed by the next attack | Found in The Emerald Hall in Furnace Valley in Flaming Mountains, up the stairs and towards the large hall with the throne Sitting on the throne in the hall | Loong Balm  
+![Black-myth-wukong-a-thousand-days-inebriation.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Black-myth-wukong-a-thousand-days-inebriation.jpg)| A Thousand Days Inebriation| Mythical | Each sip recovers 60% of maximum health, but for a brief moment, inebriation impairs movement | Purchased from the Shen Monkey Vendor from the start of Chapter 6 onwards | A Thousand Days Inebriation

@@ -1,0 +1,31 @@
+{
+    "chunk_id": 862076261055,
+    "source_file": "Stone_Essence.md",
+    "h1_title": "Stone Essence",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg",
+    "alt_text": "Stone Essence 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Stone Essence\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.\n\nThe Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Stone_Essence.md', located under Stone Essence.\n\n                Metadata:\n                - Document Title: Stone Essence\n                - Alt Text: Stone Essence 1.jpg\n\n                Context:\n                - Preceding Text: \"# Stone Essence\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.\n\nThe Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image from the document \"Stone Essence\" titled \"Stone Essence 1.jpg\" depicts a scene from the game Black Myth: Wukong. It shows a character standing in a dimly lit cave, holding a staff, with fire torches illuminating the surroundings. This setting is likely the cave at Fright Cliff - Rockrest Flat, where players encounter the secret boss, the Mother of Stones, who drops the Stone Essence. The image visually represents the in-game location where players can find this hidden key item."
+}

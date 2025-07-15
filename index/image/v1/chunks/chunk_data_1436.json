@@ -1,0 +1,32 @@
+{
+    "chunk_id": 324789884608,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Upper Pagoda (Level 4)",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_63.jpg",
+    "alt_text": "Wukong Pagoda 63.jpg",
+    "position_desc": 60,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nThe cell beyond will require you to have beaten Captain Lotus-Vision to unlock, and holds a **Treasure Chest** with materials in addition to the Wisp on the ledge, guarded by another Red-Haired Yaksha.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 60 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 4).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 4)\n                - Alt Text: Wukong Pagoda 63.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nThe cell beyond will require you to have beaten Captain Lotus-Vision to unlock, and holds a **Treasure Chest** with materials in addition to the Wisp on the ledge, guarded by another Red-Haired Yaksha.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_63.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, cavernous area within the Upper Pagoda (Level 4) of the Pagoda Realm, as described in the document \"The Beguiling Chant of the Pagoda Realm.\" A character, likely the player, is seen approaching a dimly lit cell that requires defeating Captain Lotus-Vision to unlock. The cell contains a treasure chest with materials and a Wisp on a ledge, guarded by a Red-Haired Yaksha. The setting is atmospheric, with torches providing minimal light, enhancing the mysterious and challenging ambiance of this level.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 60th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 4)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nThe cell beyond will require you to have beaten Captain Lotus-Vision to unlock, and holds a **Treasure Chest** with materials in addition to the Wisp on the ledge, guarded by another Red-Haired Yaksha.,The following text of this image is: ,The summary of this picture is:The image depicts a dark, cavernous area within the Upper Pagoda (Level 4) of the Pagoda Realm, as described in the document \"The Beguiling Chant of the Pagoda Realm.\" A character, likely the player, is seen approaching a dimly lit cell that requires defeating Captain Lotus-Vision to unlock. The cell contains a treasure chest with materials and a Wisp on a ledge, guarded by a Red-Haired Yaksha. The setting is atmospheric, with torches providing minimal light, enhancing the mysterious and challenging ambiance of this level."
+}

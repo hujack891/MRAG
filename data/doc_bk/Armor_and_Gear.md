@@ -1,0 +1,101 @@
+# Armor and Gear
+
+Armor and Gear form the core of your defence in Black Myth: Wukong. The defense buffs and extra buffs are vital for suvival as you progress through the game's chapters in our Walkthrough. Armor and Gear sets also come with set bonuses that are unlocked upon equipping several pieces of gear within the same set. 
+
+Most Armor and Gear can be crafted after you beat specific bosses or enemies. However, some have to be found throughout the game's open world. 
+
+## Black Myth: Wukong Armor and Gear Locations
+
+### Best Black Myth Wukong Armor Sets
+
+### Best Black Myth Wukong Armor Sets
+
+In this guide you can find a breakdown of each set, their unique effects, stats, and where to find them. You can also click on each individual link over time to get more information on how to unlock them, alongside checking them off using the checkboxes below as you find them. 
+
+Chapter 1: Black Cloud, Red Fire Map
+
+Gear Set/Gear Pieces | Rarity | Defense | Special Stat | Unique Effect | Set Bonus | Unlock Requirement | Crafting Ingredients Needed | Collected   
+---|---|---|---|---|---|---|---|---  
+Default Set:  
+• Tiger Hide Loincloth (body) • Cotton Wriswraps (arms) • Cotton Legwraps (legs) | Common | • 5 (body)  
+• 2 (arms)  
+• 3 (legs) | N/A | N/A | N/A | Default armor set at the beginning of Chapter 1 | Not craftable | Default Set  
+Folk Set: • Folk Opera Mask (headgear) • Folk Opera Almsgiving Armor (body) • Folk Opera Leather Bracers (arms) • Folk Opera, Buskins (legs) | Uncommon | • 7 (headgear)  
+• 14 (body)  
+• 5 (arms)  
+• 8 (legs) | N/A | N/A | Every Bit Counts - Moderately increases the Will gained from defeating the enemy (4 pieces equipped) | Deluxe Edition exclusive Armor Set. Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain| Not craftable | Folk Set  
+Pilgrim Set: • Pilgrim's Headband (headgear) • Pilgrim's Garb (body) • Pilgrim's Wristwraps (arms) • Pilgrim's Legwraps (legs) | Uncommon | • 8 (headgear)  
+• 16 (body)  
+• 6 (arms)  
+• 10 (legs) | N/A | Allows using the Gourd while sprinting (headgear) | Swift Pilgrim - Moderately increases sprint speed (2 pieces equipped) When Sprinting, each second moderately increases attack. This effect can stack up to 10 times. (4 pieces equipped) | Craftable upon reaching the Forest of Wolves - Guanyin Temple Shrine in Black Wind Mountain| • 5 Yarn, 1,200 Will (body) • 1 Yarn, 500 Will (arms) • 2 Yarn, 640 Will (legs) | Pilgrim Set  
+• Gray Wolf Mask| Uncommon | • 10 (headgear) | N/A | Inflicts Considerably More Damage Bonus on enemies at critical health | N/A | Defeat Lingxuzi in the Forest of Wolves - Guanyin Temple in Black Wind Mountain| Not craftable | Gray Wolf Mask  
+Serpentscale Set: • Serpentscale Battlerobe (body) • Serpentscale Bracers (arms) • Serpentscale Gaiters (legs) | Uncommon | • 18 (body)  
+• 7 (arms)  
+• 11 (legs) | • 3% Poison Resistance (arms)  
+• 2% Poison Resistance (legs) | When health is low, slowly recovers a small amount of health; if in water, the effect is enhanced (body) | Wave Rider - Massively reduces stamina cost when in water (3 pieces equipped) | Craftable upon defeating Whiteclad Noble in Bamboo Grove - Marsh of White Mist in Black Wind Mountain| • 5 Yarn, 1,350 Will (body) • 1 Yarn, 720 Will (arms) • 2 Yarn, 720 Will (legs) | Serpentscale Set  
+• Guanyin's Prayer Beads| Uncommon | • 10 (arms) | N/A | After absorbing the lingering will, moderately increase maximum health and mana for a long duration | N/A | Found in a chest within the Secret: Ancient Guanyin Temple area in Black Wind Mountain (requires you to ring all three bells in Black Wind Mountain)| Not craftable | Guanyin's Prayer Beads  
+Bronze Set: • Bronze Monkey Mask (headgear) • Bronze Brocade Battlerobe (body) • Bronze armguard (arms) • Bronze Buskins (legs) | Rare | • 16 (headgear)  
+• 29 (body)  
+• 12 (arms)  
+• 17 (legs) | • 3% Burn Resistance (headgear), • 4% Burn Resistance (arms) | Performing light attack folling Evanescene directly triggers the finisher of light attack combo (arms) | Evil Crasher - Deals addition damage to the enemy upon crashing their immobilization (2 pieces equipped) Upon crashing the immobilization of the enemy, massively reduces the cooldown for Immobilize spell (4 pieces equipped) | Craftable upon defeating Elder Jinchi at the Secret: Ancient Guanyin Temple location in Black Wind Mountain (requires you to ring all three bells in Black Wind Mountain)| • 4 Yarn, 1 Silk, 810 Will (headgear) • 5 Yarn, 2 Silk, 2,000 Will (body) • 1 Yarn, 1 Silk, 810 Will (arms) • 2 Yarn, 1 Silk, 1,080 Will (legs) | Bronze Set  
+Ebongold Set: • Ebongold Silk Robe (body) • Ebongold Armguard (arms) • Ebongold Gaiters (legs) | Rare | • 31 (body)  
+• 13 (arms)  
+• 19 (legs) | • 4% Burn Resistance (arms) | After a moment in Cloud Step, considerably increases Unveiling Strike damage (legs) | Dance of the Black Wind: In Cloud Step, shrouding black wind will attack enemies nearby the Destined One and the decoy continuously (4 pieces required, unsure if fourth piece of armor is glitched) | Defeat Black Bear Guai in Black Wind Cave at the end of Chapter 1 in Black Wind Mountain| • 5 Yarn, 2 Silk, 1,800 Will (body) • 1 Yarn, 1 Silk, 810 Will (arms) • 4 Yarn, 2 Silk, 1,080 Will (legs) | Ebongold Set  
+Galeguard Set: • Galeguard Beast Mask (headgear) • Galeguard Beastmaw Armor (body) • Galeguard Bracers (arms) • Galeguard Greaves (legs) | Rare | • 18 (headgear)  
+• 35 (body)  
+• 14 (arms)  
+• 21 (legs) | • 4% Shock Resistance (body) | Performing 3 conseutive perfect dodges within a brief moment recovers a moderate amount of Mana (legs) | Gale Guardian: Upon perfect dodges, grants considerable additional focus (2 pieces equipped). Perfect dodges slightly reduces cooldown for all spells (4 pieces equipped) | Craftable upon defeating the Stone Vanguard in Fright Cliff - Rockrest Flat in Yellow Wind Ridge| • 4 Yarn, 2 Silk, 1,080 Will (headgear) • 5 Yarn, 2 Silk, 2,000 Will (body) • 1 Yarn, 1 Silk, 1,000 Will (arms) • 2 Yarn, 1 Silk, 1,200 Will (legs) | Galeguard Set  
+Ochre Set: • Ochre Battlerobe (body) • Ochre Armguard (arms) • Ochre Greaves (legs) | Epic | • 48 (body)  
+• 19 (arms)  
+• 29 (legs) | • 4% Chill Resistance (arms)  
+• 3% Chill Resistance (legs) | Upon consuming a Focus Point, moderately increases critical hit chance for a short duration (arms) | Raging Sandstorm: Decoy and Duplicates are cloaked in Yellow Wind, granting them considerable damage reduction (3 pieces equipped) | Craftable upon defeating the Yellow Wind Sage at the end of Chapter 2 in Yellow Sand Formation in Yellow Wind Ridge| • 5 Silk, 2 Cold Iron Leaves, 4,200 Will (body) • 2 Silk, 1 Cold Iron Leaves, 1,800 Will (arms) • 2 Silk, 1 Cold Iron Leaves, 2,400 Will (legs) | Ochre Set  
+• Snout Mask| Rare | • 17 (headgear) | N/A | For a short duration after using the gourd, moderately increases attack Refraining from using Gourd for a relatively long duration moderately reduces attack on the contrary | N/A | [ https://www.ign.com/videos/black-myth-wukong-how-to-unlock-the-secret-area-in-chapter-2 Defeat the boar man in Fright Cliff - Rockrest Flat in Yellow Wind Ridge, after handing him the Sobering Stone, Arhat Gold Piece, and Jade Lotus")| Not craftable | Snout Mask  
+Insect Set: • Monastic Insect Hat (headgear) • Insect Spike Bracers (arms) • Insect Spike Gaiters (legs) | Epic | • 22 (headgear)  
+• 18 (arms)  
+• 26 (legs) | N/A | N/A | Fuban Strength: Upon taking medicines, grants considerable Focus (2 pieces equipped) Moderately increases the duration of all medicinal effects (4 pieces equipped) | Craftable upon defeating Fuban in Secret: Kingdom of Sahali after completing the boar mans questline in Fright Cliff - Rockrest Flat in Yellow Wind Ridge| • 4 Silk, 2 Cold Iron Leaves, 3,600 Will (headgear) • 1 Silk, 1 Cold Iron Leaves, 2,100 Will (arms) • 2 Silk, 1 Cold Iron Leaves, 3,000 Will (legs) | Insect Set  
+Loongscale Set: • Loongscale Battlerobe (body) • Loongscale Armguard (arms) • Loongscale Greaves (legs) | Epic | • 53 (body)  
+• 21 (arms)  
+• 32 (legs) | • 5% Shock Resistance (arms)  
+• 3% Shock Resistance (legs) | Vengeful Mirage will inflict Thunder Bane (body) | Thunder Veins - Massively reduces the duration of Shocked state Moderately increases Thunder damage (3 pieces equipped) | Craftable upon defeating Kang-Jin Star in Bitter Lake - Turtle Island in The New West| • 5 Silk, 2 Cold Iron Leaves, 4,500 Will (body) • 1 Silk, 1 Cold Iron Leaves, 2,000 Will (arms) • 2 Silk, 1 Cold Iron Leaves, 2,700 Will (legs) | Loongscale Set  
+Iron Set: • Iron Horned Helm (headgear) • Iron-Tough Armor (body) • Iron-Tough Gauntlets (arms) • Iron-Tough Greaves (legs) | Legendary | • 32 (headgear)  
+• 65 (body)  
+• 26 (arms)  
+• 39 (legs) | N/A | After a successful deflection with Rock Solid Rock Solid, significantly increases damage executed by the next attack within a brief moment (arms) | Iron Will - Upon successful Rock Solid deflections, massively increases Focus gained by Nick of Time (2 pieces) Upon successful Rock Solid deflections, considerably reduces its cooldown (4 pieces) | Craftable upon defeating Yin Tiger in Zodiac Village in The New West| • 4 Cold Iron Leaves, 2 Fine Gold Thread, 1 The Duskveil's Horn, 6,400 Will (headgear) • 5 Cold Iron Leaves, 2 Fine Gold Thread, 8,000 Will (body) • 1 Cold Iron Leaves, 1 Fine Gold Thread, 4,800 Will (arms) • 2 Cold Iron Leaves, 1 Fine Gold Thread, 4,500 Will (legs) | Iron Set  
+• Skull of Turtle Treasure| Epic | • 30 (headgear) | N/A | Moderately increase the chance of obtaining materials upon killing an enemy | N/A | Randomly dropped from Turtle Treasure enemies in The New West, around Valley of Ecstasy | Not craftable | Skull of Turtle Treasure  
+• Ginseng Cape| Epic | • 48 (body) | • 8% Chill Resistance | For a short duration after using the gourd, moderately increases Maximum Stamina | N/A | Dropped from Old Ginseng Guai in The New West, at Valley of Ecstasy in Towers of Karma | Not craftable | Ginseng Cape  
+• See No Evil| Epic | • 25 (headgear) | N/A | More easily triggers Perfect Dodge | N/A | Randomly dropped from Overseeing Monks in The New West, around New Thunderclap Temple | Not craftable | See No Evil  
+• Vajra Armguard| Epic | • 20 (arms) | N/A | Moderately reduces cooldown of all mysticism spells | N/A | Randomly dropped from Clay Vajra in The New West, around New Thunderclap Temple | Not craftable | Vajra Armguard  
+Golden Set: • Golden Mask of Fury (headgear) • Golden Embroidered Shirt (body) • Golden Armguard (arms) • Golden Greaves (legs) | Legendary | • 32 (headgear)  
+• 65 (body)  
+• 26 (arms)  
+• 39 (legs) | • 5% Chill Resistance (arms) | Upon successful hits from Spirit skills, grants massive Focus upon reverting (headgear) | Gilded Radiance - For a short duration after performing a spirit skill or using a Vessel considerably increases attack (2 pieces) Upon critical hits and defeats grants a small amount of Qi (4 pieces) | Craftable upon finishing Chapter 3 | • 4 Cold Iron Leaves, 2 Fine Gold Thread, 6,600 Will (headgear) • 5 Cold Iron Leaves, 2 Fine Gold Thread, 8,000 Will (body) • 1 Cold Iron Leaves, 1 Fine Gold Thread, 3,600 Will (arms) • 2 Cold Iron Leaves, 1 Fine Gold Thread, 4,800 Will (legs) | Golden Set  
+Non-Pure Set: • Non-Pure Broken Mask (headgear) • Non-Pure Armor of Soiling Loong (body) • Non-Pure Gauntlets (arms) • Non-Pure Greaves (legs) | Legendary | • 40 (headgear)  
+• 79 (body)  
+• 32 (arms)  
+• 48 (legs) | • 4% Poison Resistance (arms)  
+• 4% Poison Resistance (legs) | For a brief moment after de-transforming and exiting spirit skills, all actions cost no stamina (legs) | From Mud To Lotus - Mud that stains upon de-transformation and exiting spirit skills grants considerable damage reduction for a short duration (2 pieces) When stained with mud, increases Might recovery rate Dodges and perfect dodges also recover a small amount of additional Might (4 pieces) | Craftable upon defeating Zhu Bajie") in The Webbed Hollow| • 4 Cold Iron Leaves, 2 Fine Gold Thread, 7,200 Will (headgear) • 5 Cold Iron Leaves, 2 Fine Gold Thread, 8,100 Will (body) • 1 Cold Iron Leaves, 1 Fine Gold Thread, 3,600 Will (arms) • 2 Cold Iron Leaves, 1 Fine Gold Thread, 5,400 Will (legs) | Non-Pure Set  
+• Venomous Armguard| Epic | • 30 (arms) | • 3% Critical Hit Chance | Upon landing a critical hit, inflicts the enemy with Poison Bane | N/A | In the first fight with the Venom Daoist in Pool of Shattered Jade in The Webbed Hollow destroy all four of his back arms (not the top two) Highly missible, item granted after fight | Not craftable | Venomous Armguard  
+• Locust Antennae Mask| Epic | • 24 (headgear) | N/A | Considerably increases power of all jump attacks | N/A | Randomly dropped from Grasshopper Guai in The Webbed Hollow, around The Verdure Bridge | Not craftable | Locust Antennae Mask  
+Centipede Set: • Centipede Hat of Transcendence (headgear) • Centipede Qiang-Jin Armor (body) • Centipede Spiked Armguard (arms) • Centipede Gaiters of Transcendence (legs) | Legendary | • 43 (headgear)  
+• 86 (body)  
+• 35 (arms)  
+• 52 (legs) | • 5% Poison Resistance (arms)  
+• 5% Poison Resistance (legs) | For a short duration after defeating an enemy, moderately increases attack (body) | Poison Ward - For a short duration after defeating an enemy, moderately increases attack (2 pieces) Significantly increases attack while suffering from Poisoned State (4 pieces) | Craftable upon finishing Chapter 4 | • 4 Cold Iron Leaves, 2 Fine Gold Thread, 7,500 Will (headgear) • 5 Cold Iron Leaves, 2 Fine Gold Thread, 8,400 Will (body) • 1 Cold Iron Leaves, 1 Fine Gold Thread, 4,000 Will (arms) • 2 Cold Iron Leaves, 1 Fine Gold Thread, 6,000 Will (legs) | Centipede Set  
+• Yin-Yang Daoist Robe| Legendary | • 36 (body) | N/A | When health is above half, the Destined One is in Yang state, which moderately reduces damage taken, but disables critical hits. When health is below half, the Destined One shifts to Yin state, which massively increases critical hit chance but massively increases damage taken | N/A | Dropped upon defeating Keeper of Flaming Mountains") in Flaming Mountains | Not craftable | Yin-Yang Daoist Robe  
+• Earth Spirit Cap| Epic | • 26 (headgear) | • 15% Poison Resistance | Slowly loses health, but massively increases health recovery when using Gourd | N/A | Dropped upon defeating Nine-Capped Lingzhi Guai in Flaming Mountains | Not craftable | Earth Spirit Cap  
+Bull King's Set: • Bull King's Mask (headgear) • Bull King's Shan Wen Armor (body) • Bull King's Bracers (arms) • Bull King's Greaves (legs) | Mythical | • 80 (headgear)  
+• 160 (body)  
+• 64 (arms)  
+• 96 (legs) | • 4% Chill Resistance and 4% Burn Resistance (arms)  
+• 4% Chill Resistance and 4% Burn Resistance (legs) | Grants moderate Focus upon taking damage If the Destined One is staggered, grants more Focus (headgear) | Unyielding Resolve - Upon taking damage, temporarily grants moderate defense (2 pieces) Disables perfect dodges but grants Tenacity when health is below half (4 pieces) | Craftable upon defeating Bishui Golden-Eyed Beast in Bishui Cave in Flaming Mountains | • 2 The Bull King's Iron Horn, 2 Celestial Ribbon, 2 Fine Gold Thread, 9,999 Will (headgear) • 2 The Bull King's Iron Horn, 2 Celestial Ribbon, 4 Fine Gold Thread, 12,000 Will (body) • 1 The Bull King's Iron Horn, 1 Celestial Ribbon, 2 Fine Gold Thread, 6,000 Will (arms) • 1 The Bull King's Iron Horn, 1 Celestial Ribbon, 2 Fine Gold Thread, 7,200 Will (legs) | Bull King's Set  
+Yaksha Outrage Set: • Yaksha Mask of Outrage (headgear) • Embroidered Shirt of Outrage (body) • Yaksha Bracers of Outrage (arms) • Yaskha Greaves of Outrage (legs) | Legendary | • 47 (headgear)  
+• 94 (body)  
+• 37 (arms)  
+• 56 (legs) | • 5% Burn Resistance (body)  
+• 5% Burn Resistance (arms) | Significantly increases attack when health is low (headgear) | Outrage - Pillar Stance varied combos, Sweeping Gale, and Churning Gale deal additional damage (2 pieces) Unleash the rage within, significantly increasing damage both dealt and taken (4 pieces) | Craftable upon finishing Chapter 5 | • 4 Cold Iron Leaves, 2 Fine Gold Thread, 8,100 Will (headgear)  
+• 5 Cold Iron Leaves, 2 Fine Gold Thread, 9,000 Will (body) • 1 Cold Iron Leaves, 1 Fine Gold Thread, 4,800 Will (arms) • 2 Cold Iron Leaves, 1 Fine Gold Thread, 7,200 Will (legs) | Yaksha Outrage Set  
+Monkey King Set: • Golden Feng-Tail Crown (headgear) • Gold Suozi Armor (body) • Dian-Cui Loong-Soaring Bracers (arms) • Lotus Silk Cloudtreaders (legs) | Mythical | • 60 (headgear)  
+• 120 (body)  
+• 48 (arms)  
+• 72 (legs) | • 60 Maximum Mana (headgear), • 30 Maximum Health (body)  
+• 4% Critical Hit Chance (arms), • 30 Maximum Stamina (legs) | N/A | Heaven's Equal - For a short duration after casting a spell, moderately increases critical hit chance (3 pieces) Upon critical hit, slightly reduces cooldown for all spells (5 pieces) | Defeat Feng-Tail General, Gold Armored Rhino, Emerald-Armed Mantis, and Cloudtreading Deer in Mount Huaguo | Not craftable | Monkey King Set

@@ -1,0 +1,32 @@
+{
+    "chunk_id": 282258026707,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "h1_title": "Secret Bosses in Chapter 6",
+    "h2_title": "Giant Shigandang",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
+    "alt_text": "Five Skandhas \\(26\\).png",
+    "position_desc": 17,
+    "img_above_text": "# Secret Bosses in Chapter 6\n## Giant Shigandang\n\nThe last of the bosses in Bishui Cave is the Bishui Golden-Eyed Beast beyond the corridor of Fire and Ice.\n\nBishui Golden-Eyed Beast",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 17 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', located under Giant Shigandang.\n\n                Metadata:\n                - Document Title: Secret Bosses in Chapter 6\n                - Section Title: Giant Shigandang\n                - Alt Text: Five Skandhas \\(26\\).png\n\n                Context:\n                - Preceding Text: \"# Secret Bosses in Chapter 6\n## Giant Shigandang\n\nThe last of the bosses in Bishui Cave is the Bishui Golden-Eyed Beast beyond the corridor of Fire and Ice.\n\nBishui Golden-Eyed Beast\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene featuring a towering, arch-shaped rock formation in a dark, foreboding landscape. A lone figure, clad in ornate armor and wielding a staff-like weapon, stands in the foreground, facing the imposing structure. This visual likely represents a key moment in the narrative of *Black Myth: Wukong*, specifically within the \"Giant Shigandang\" section of Chapter 6. The preceding text mentions the Bishui Golden-Eyed Beast, suggesting the image sets the stage for an encounter with this secret boss in Bishui Cave, emphasizing the game's atmospheric tension and epic scale.",
+    "embedding_prompt": "This is an image from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', This is the 17th image in the document, located in the main section titled 'Secret Bosses in Chapter 6'. The sub-section is titled 'Giant Shigandang', The preceding text of this image is: # Secret Bosses in Chapter 6\n## Giant Shigandang\n\nThe last of the bosses in Bishui Cave is the Bishui Golden-Eyed Beast beyond the corridor of Fire and Ice.\n\nBishui Golden-Eyed Beast,The following text of this image is: ,The summary of this picture is:The image depicts a dramatic scene featuring a towering, arch-shaped rock formation in a dark, foreboding landscape. A lone figure, clad in ornate armor and wielding a staff-like weapon, stands in the foreground, facing the imposing structure. This visual likely represents a key moment in the narrative of *Black Myth: Wukong*, specifically within the \"Giant Shigandang\" section of Chapter 6. The preceding text mentions the Bishui Golden-Eyed Beast, suggesting the image sets the stage for an encounter with this secret boss in Bishui Cave, emphasizing the game's atmospheric tension and epic scale."
+}

@@ -1,0 +1,32 @@
+{
+    "chunk_id": 32573811396,
+    "source_file": "Frostsprout_Twig.md",
+    "h1_title": "Frostsprout Twig",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Frostspout_Twig_2.jpg",
+    "alt_text": "Frostspout Twig 2.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Frostsprout Twig\nThe Frostsprout Twig Curios item in Black Myth: Wukong can be found within Chapter 3 of the game. While well-hidden, you will want to pick this up as it is locked behind a secret boss that will open additional areas in the Pagoda Realm.\nWith the Frostsprout Twig equipped, your Chill resistance is moderately increased, which is incredibly useful in The New West, especially in the locations after you find this Curios item.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Frostsprout_Twig.md', located under Frostsprout Twig.\n\n                Metadata:\n                - Document Title: Frostsprout Twig\n                - Alt Text: Frostspout Twig 2.jpg\n\n                Context:\n                - Preceding Text: \"# Frostsprout Twig\nThe Frostsprout Twig Curios item in Black Myth: Wukong can be found within Chapter 3 of the game. While well-hidden, you will want to pick this up as it is locked behind a secret boss that will open additional areas in the Pagoda Realm.\nWith the Frostsprout Twig equipped, your Chill resistance is moderately increased, which is incredibly useful in The New West, especially in the locations after you find this Curios item.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Frostspout_Twig_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the in-game equipment menu from \"Black Myth: Wukong,\" specifically highlighting the \"Frostsprout Twig\" item. This rare Curios item, found in Chapter 3, moderately increases the player's Chill resistance, which is beneficial in the game's \"The New West\" area. The image shows the item among other collected curios, emphasizing its utility and rarity.",
+    "embedding_prompt": "This is an image from the file 'Frostsprout_Twig.md', This is the 0th image in the document, located in the main section titled 'Frostsprout Twig'. The preceding text of this image is: # Frostsprout Twig\nThe Frostsprout Twig Curios item in Black Myth: Wukong can be found within Chapter 3 of the game. While well-hidden, you will want to pick this up as it is locked behind a secret boss that will open additional areas in the Pagoda Realm.\nWith the Frostsprout Twig equipped, your Chill resistance is moderately increased, which is incredibly useful in The New West, especially in the locations after you find this Curios item.,The following text of this image is: ,The summary of this picture is:The image displays the in-game equipment menu from \"Black Myth: Wukong,\" specifically highlighting the \"Frostsprout Twig\" item. This rare Curios item, found in Chapter 3, moderately increases the player's Chill resistance, which is beneficial in the game's \"The New West\" area. The image shows the item among other collected curios, emphasizing its utility and rarity."
+}

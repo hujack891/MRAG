@@ -1,0 +1,32 @@
+{
+    "chunk_id": 631172283024,
+    "source_file": "Walkthrough.md",
+    "h1_title": "Black Myth: Wukong Walkthrough Sections",
+    "h2_title": "Chapter 3 - White Snow, Ice Cold",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Walkthrough3.jpg",
+    "alt_text": "Walkthrough3.jpg",
+    "position_desc": 2,
+    "img_above_text": "# Black Myth: Wukong Walkthrough Sections\nSee the links below to get started with help for a particular section:\n##  Chapter 3 - White Snow, Ice Cold\n\nChapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n\n* **Sandgate Village**\n* **Fright Cliff**\n* **Crouching Tiger Temple**\n* **Yellow Sand Formation**\n* **Chapter 2 Secret - Kingdom of Sahali**",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'Walkthrough.md', located under Chapter 3 - White Snow, Ice Cold.\n\n                Metadata:\n                - Document Title: Black Myth: Wukong Walkthrough Sections\n                - Section Title: Chapter 3 - White Snow, Ice Cold\n                - Alt Text: Walkthrough3.jpg\n\n                Context:\n                - Preceding Text: \"# Black Myth: Wukong Walkthrough Sections\nSee the links below to get started with help for a particular section:\n##  Chapter 3 - White Snow, Ice Cold\n\nChapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n\n* **Sandgate Village**\n* **Fright Cliff**\n* **Crouching Tiger Temple**\n* **Yellow Sand Formation**\n* **Chapter 2 Secret - Kingdom of Sahali**\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Walkthrough3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy mountainous landscape with a lone temple in the distance, surrounded by icy terrain and sparse vegetation. In the foreground, a character resembling the Destined One from *Black Myth: Wukong* is seen, suggesting a pivotal moment or setting in Chapter 3 - \"White Snow, Ice Cold.\" The serene yet foreboding environment aligns with the chapter's theme, transitioning from the arid deserts of Chapter 2 to a harsh, frozen realm. This visual likely serves to immerse players in the story's progression and highlights the stark contrast between chapters.",
+    "embedding_prompt": "This is an image from the file 'Walkthrough.md', This is the 2th image in the document, located in the main section titled 'Black Myth: Wukong Walkthrough Sections'. The sub-section is titled 'Chapter 3 - White Snow, Ice Cold', The preceding text of this image is: # Black Myth: Wukong Walkthrough Sections\nSee the links below to get started with help for a particular section:\n##  Chapter 3 - White Snow, Ice Cold\n\nChapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n\n* **Sandgate Village**\n* **Fright Cliff**\n* **Crouching Tiger Temple**\n* **Yellow Sand Formation**\n* **Chapter 2 Secret - Kingdom of Sahali**,The following text of this image is: ,The summary of this picture is:The image depicts a snowy mountainous landscape with a lone temple in the distance, surrounded by icy terrain and sparse vegetation. In the foreground, a character resembling the Destined One from *Black Myth: Wukong* is seen, suggesting a pivotal moment or setting in Chapter 3 - \"White Snow, Ice Cold.\" The serene yet foreboding environment aligns with the chapter's theme, transitioning from the arid deserts of Chapter 2 to a harsh, frozen realm. This visual likely serves to immerse players in the story's progression and highlights the stark contrast between chapters."
+}

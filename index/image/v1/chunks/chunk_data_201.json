@@ -1,0 +1,32 @@
+{
+    "chunk_id": 78474508040,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "h1_title": "Prologue",
+    "h2_title": "Boss Fight - Erlang, the Sacred Divinity",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Prologue_8.jpg",
+    "alt_text": "Wukong Prologue 8.jpg",
+    "position_desc": 7,
+    "img_above_text": "# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 7 from the file 'Forest_of_Wolves_Walkthrough.md', located under Boss Fight - Erlang, the Sacred Divinity.\n\n                Metadata:\n                - Document Title: Prologue\n                - Section Title: Boss Fight - Erlang, the Sacred Divinity\n                - Alt Text: Wukong Prologue 8.jpg\n\n                Context:\n                - Preceding Text: \"# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Prologue_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts two characters standing on a mountain cliff, overlooking a vast, misty landscape of mountains and forests. One character, likely Sun Wukong, is seen from behind, holding a staff and wearing a fur-lined outfit, while the other character is dressed in white robes. The scene appears to be a contemplative moment following a significant event. The preceding text describes a climactic battle where Sun Wukong is sealed within a stone egg by Erlang, suggesting that the image may represent a moment of reflection or foreshadowing after this event. The caption in the image hints at the possibility of Sun Wukong's return, adding to the narrative suspense.",
+    "embedding_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 7th image in the document, located in the main section titled 'Prologue'. The sub-section is titled 'Boss Fight - Erlang, the Sacred Divinity', The preceding text of this image is: # Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.,The following text of this image is: ,The summary of this picture is:The image depicts two characters standing on a mountain cliff, overlooking a vast, misty landscape of mountains and forests. One character, likely Sun Wukong, is seen from behind, holding a staff and wearing a fur-lined outfit, while the other character is dressed in white robes. The scene appears to be a contemplative moment following a significant event. The preceding text describes a climactic battle where Sun Wukong is sealed within a stone egg by Erlang, suggesting that the image may represent a moment of reflection or foreshadowing after this event. The caption in the image hints at the possibility of Sun Wukong's return, adding to the narrative suspense."
+}

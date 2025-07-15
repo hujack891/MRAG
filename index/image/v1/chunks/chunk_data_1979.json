@@ -1,0 +1,32 @@
+{
+    "chunk_id": 417516391803,
+    "source_file": "Black_Myth_Wukong_Guide.md",
+    "h1_title": "Black Myth: Wukong Wiki Sections",
+    "h2_title": "Collectibles",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
+    "alt_text": "20240815103517 1.jpg",
+    "position_desc": 4,
+    "img_above_text": "# Black Myth: Wukong Wiki Sections\n## Collectibles\n\nAs you follow the main story, you'll also encounter a number of NPCs that have side quests to complete. Doing so will reward you with unique items, special Spirits, and even reveal hidden areas in chapters.\n\n*  **Side Questlines**\n* Shen Monkey Questline\n* Xu Dog Questline\n* Man-in-Stone Questline\n* Drunken Boar Questline\n* Old Rattle-Drum Questline\n* Snow Fox Questline",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 4 from the file 'Black_Myth_Wukong_Guide.md', located under Collectibles.\n\n                Metadata:\n                - Document Title: Black Myth: Wukong Wiki Sections\n                - Section Title: Collectibles\n                - Alt Text: 20240815103517 1.jpg\n\n                Context:\n                - Preceding Text: \"# Black Myth: Wukong Wiki Sections\n## Collectibles\n\nAs you follow the main story, you'll also encounter a number of NPCs that have side quests to complete. Doing so will reward you with unique items, special Spirits, and even reveal hidden areas in chapters.\n\n*  **Side Questlines**\n* Shen Monkey Questline\n* Xu Dog Questline\n* Man-in-Stone Questline\n* Drunken Boar Questline\n* Old Rattle-Drum Questline\n* Snow Fox Questline\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character resembling a monkey, possibly an NPC from the game \"Black Myth: Wukong,\" resting in a natural setting surrounded by large drums and foliage. This character might be related to the Shen Monkey Questline mentioned in the preceding text, suggesting its role in side quests that offer unique rewards and reveal hidden areas. The image serves to visually represent elements from the Collectibles section of the game's wiki, enhancing the narrative of engaging with NPCs for special items and experiences.",
+    "embedding_prompt": "This is an image from the file 'Black_Myth_Wukong_Guide.md', This is the 4th image in the document, located in the main section titled 'Black Myth: Wukong Wiki Sections'. The sub-section is titled 'Collectibles', The preceding text of this image is: # Black Myth: Wukong Wiki Sections\n## Collectibles\n\nAs you follow the main story, you'll also encounter a number of NPCs that have side quests to complete. Doing so will reward you with unique items, special Spirits, and even reveal hidden areas in chapters.\n\n*  **Side Questlines**\n* Shen Monkey Questline\n* Xu Dog Questline\n* Man-in-Stone Questline\n* Drunken Boar Questline\n* Old Rattle-Drum Questline\n* Snow Fox Questline,The following text of this image is: ,The summary of this picture is:The image depicts a character resembling a monkey, possibly an NPC from the game \"Black Myth: Wukong,\" resting in a natural setting surrounded by large drums and foliage. This character might be related to the Shen Monkey Questline mentioned in the preceding text, suggesting its role in side quests that offer unique rewards and reveal hidden areas. The image serves to visually represent elements from the Collectibles section of the game's wiki, enhancing the narrative of engaging with NPCs for special items and experiences."
+}

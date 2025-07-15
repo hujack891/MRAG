@@ -1,0 +1,32 @@
+{
+    "chunk_id": 993707490242,
+    "source_file": "Wind_Bear_Staff.md",
+    "h1_title": "Wind Bear Staff",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wind_Bear_Staff_2.jpg",
+    "alt_text": "Wind Bear Staff 2.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Wind Bear Staff\nThe Wind Bear Staff is a Rare weapon in Black Myth: Wukong. It comes with solid stats, especially for the point in the game where you earn it. It is one of the best Weapons in the early game.\nThis is largely down to its unique effect. With this weapon, the critical hit chance of the Unveiling Strike of Cloud Step is considerably increased. Pair that with the 4% Critical Hit Chance boost and 50 damage, and you have a really great weapon.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Wind_Bear_Staff.md', located under Wind Bear Staff.\n\n                Metadata:\n                - Document Title: Wind Bear Staff\n                - Alt Text: Wind Bear Staff 2.jpg\n\n                Context:\n                - Preceding Text: \"# Wind Bear Staff\nThe Wind Bear Staff is a Rare weapon in Black Myth: Wukong. It comes with solid stats, especially for the point in the game where you earn it. It is one of the best Weapons in the early game.\nThis is largely down to its unique effect. With this weapon, the critical hit chance of the Unveiling Strike of Cloud Step is considerably increased. Pair that with the 4% Critical Hit Chance boost and 50 damage, and you have a really great weapon.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wind_Bear_Staff_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the in-game menu of the weapon \"Wind Bear Staff\" from the game \"Black Myth: Wukong.\" The weapon is classified as Rare and features an attack stat of 50 and a critical hit chance of 4%. Its unique effect significantly boosts the critical hit chance of the Unveiling Strike of Cloud Step. The image serves to illustrate the weapon's attributes and its importance in the early stages of the game, as highlighted in the preceding text.",
+    "embedding_prompt": "This is an image from the file 'Wind_Bear_Staff.md', This is the 0th image in the document, located in the main section titled 'Wind Bear Staff'. The preceding text of this image is: # Wind Bear Staff\nThe Wind Bear Staff is a Rare weapon in Black Myth: Wukong. It comes with solid stats, especially for the point in the game where you earn it. It is one of the best Weapons in the early game.\nThis is largely down to its unique effect. With this weapon, the critical hit chance of the Unveiling Strike of Cloud Step is considerably increased. Pair that with the 4% Critical Hit Chance boost and 50 damage, and you have a really great weapon.,The following text of this image is: ,The summary of this picture is:The image displays the in-game menu of the weapon \"Wind Bear Staff\" from the game \"Black Myth: Wukong.\" The weapon is classified as Rare and features an attack stat of 50 and a critical hit chance of 4%. Its unique effect significantly boosts the critical hit chance of the Unveiling Strike of Cloud Step. The image serves to illustrate the weapon's attributes and its importance in the early stages of the game, as highlighted in the preceding text."
+}

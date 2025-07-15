@@ -1,0 +1,32 @@
+{
+    "chunk_id": 980067527162,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Pagoda_7.jpg",
+    "alt_text": "Wukong Pagoda 7.jpg",
+    "position_desc": 7,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 7 from the file 'Pagoda_Realm_Walkthrough.md', located under The Beguiling Chant of the Pagoda Realm.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Alt Text: Wukong Pagoda 7.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Pagoda_7.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, intense scene from a game walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" It shows a character facing a large, menacing figure, possibly mid-battle. The preceding text advises using an Immobilize spell and attacking from behind to avoid head slamming attacks, suggesting the image illustrates a combat strategy or encounter within the game. The metadata indicates the image is from the seventh position in the \"Pagoda Realm Walkthrough\" file, reinforcing its role in guiding players through this challenging part of the game.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 7th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.,The following text of this image is: ,The summary of this picture is:The image depicts a dark, intense scene from a game walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" It shows a character facing a large, menacing figure, possibly mid-battle. The preceding text advises using an Immobilize spell and attacking from behind to avoid head slamming attacks, suggesting the image illustrates a combat strategy or encounter within the game. The metadata indicates the image is from the seventh position in the \"Pagoda Realm Walkthrough\" file, reinforcing its role in guiding players through this challenging part of the game."
+}

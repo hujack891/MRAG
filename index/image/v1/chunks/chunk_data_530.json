@@ -1,0 +1,32 @@
+{
+    "chunk_id": 24663852553,
+    "source_file": "Guangmou.md",
+    "h1_title": "Guangmou",
+    "h2_title": "Where to Find Guangmou",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Bamboo_23.jpg",
+    "alt_text": "Wukong Bamboo 23.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Guangmou\nGuangmou is a required Yaoguai Chief miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located along the main path through the Bamboo Grove, this boss is a ranged fighter who moves quickly to evade you while filling you with poison strikes.\n* **Rewards:** Guangmou Spirit, Materials, 700 Experience, 520 Will\n## Where to Find Guangmou\nAs a required boss fight, you won't be able to miss Guangmou as you advance through the Black Wind Mountain. You'll find him halfway through the Bamboo Grove once you reach Snake Way.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Guangmou.md', located under Where to Find Guangmou.\n\n                Metadata:\n                - Document Title: Guangmou\n                - Section Title: Where to Find Guangmou\n                - Alt Text: Wukong Bamboo 23.jpg\n\n                Context:\n                - Preceding Text: \"# Guangmou\nGuangmou is a required Yaoguai Chief miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located along the main path through the Bamboo Grove, this boss is a ranged fighter who moves quickly to evade you while filling you with poison strikes.\n* **Rewards:** Guangmou Spirit, Materials, 700 Experience, 520 Will\n## Where to Find Guangmou\nAs a required boss fight, you won't be able to miss Guangmou as you advance through the Black Wind Mountain. You'll find him halfway through the Bamboo Grove once you reach Snake Way.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Bamboo_23.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game *Black Myth: Wukong*, showcasing a player character advancing through a dense, atmospheric bamboo forest. The environment is dimly lit, with glowing embers and a statue or structure illuminated in the background, suggesting a significant location. This setting aligns with the \"Bamboo Grove\" area described in the text, where players encounter Guangmou, a required miniboss. The image visually reinforces the narrative context of the boss fight's location on Snake Way in Chapter 1.",
+    "embedding_prompt": "This is an image from the file 'Guangmou.md', This is the 0th image in the document, located in the main section titled 'Guangmou'. The sub-section is titled 'Where to Find Guangmou', The preceding text of this image is: # Guangmou\nGuangmou is a required Yaoguai Chief miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located along the main path through the Bamboo Grove, this boss is a ranged fighter who moves quickly to evade you while filling you with poison strikes.\n* **Rewards:** Guangmou Spirit, Materials, 700 Experience, 520 Will\n## Where to Find Guangmou\nAs a required boss fight, you won't be able to miss Guangmou as you advance through the Black Wind Mountain. You'll find him halfway through the Bamboo Grove once you reach Snake Way.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game *Black Myth: Wukong*, showcasing a player character advancing through a dense, atmospheric bamboo forest. The environment is dimly lit, with glowing embers and a statue or structure illuminated in the background, suggesting a significant location. This setting aligns with the \"Bamboo Grove\" area described in the text, where players encounter Guangmou, a required miniboss. The image visually reinforces the narrative context of the boss fight's location on Snake Way in Chapter 1."
+}

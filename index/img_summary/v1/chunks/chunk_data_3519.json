@@ -1,0 +1,31 @@
+{
+    "chunk_id": 205491443753,
+    "source_file": "Wind_Chime.md",
+    "h1_title": "Wind Chime",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/WInd_Chime_1.jpg",
+    "alt_text": "WInd Chime 1.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Wind Chime\nThe Wind Chime is a Curios item that is rather exclusive in Black Myth: Wukong. You can get the Wind Chime Curios from purchasing the Deluxe Edition of the game or the Deluxe Edition upgrade pack.\nThe Wind Chime will slightly increase your movement speed when it is equipped, providing a noticeable but not drastic buff.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Wind_Chime.md', located under Wind Chime.\n\n                Metadata:\n                - Document Title: Wind Chime\n                - Alt Text: WInd Chime 1.jpg\n\n                Context:\n                - Preceding Text: \"# Wind Chime\nThe Wind Chime is a Curios item that is rather exclusive in Black Myth: Wukong. You can get the Wind Chime Curios from purchasing the Deluxe Edition of the game or the Deluxe Edition upgrade pack.\nThe Wind Chime will slightly increase your movement speed when it is equipped, providing a noticeable but not drastic buff.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/WInd_Chime_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the in-game equipment menu from \"Black Myth: Wukong,\" specifically highlighting the \"Wind Chime\" Curios item. The Wind Chime, described as a rare item, slightly increases the player's movement speed when equipped. This item is exclusive to the Deluxe Edition of the game or its upgrade pack. The image serves to illustrate the Wind Chime's appearance and its effect within the game, reinforcing its role as a beneficial item for enhancing player mobility."
+}

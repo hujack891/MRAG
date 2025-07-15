@@ -1,0 +1,32 @@
+{
+    "chunk_id": 346464482297,
+    "source_file": "The_Stone_Monkey.md",
+    "h1_title": "The Stone Monkey",
+    "h2_title": "How to Find the Stone Monkey",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(2\\).png",
+    "position_desc": 2,
+    "img_above_text": "# The Stone Monkey\nThe Stone Monkey is one of the main and final bosses you'll fight Chapter 6 of Black Myth: Wukong\"). This multi-phase battle is a challenging fight that brings you toward the conclusion of the game.\n## How to Find the Stone Monkey\n\nYou'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'The_Stone_Monkey.md', located under How to Find the Stone Monkey.\n\n                Metadata:\n                - Document Title: The Stone Monkey\n                - Section Title: How to Find the Stone Monkey\n                - Alt Text: Water Curtain Cave Walkthrough \\(2\\).png\n\n                Context:\n                - Preceding Text: \"# The Stone Monkey\nThe Stone Monkey is one of the main and final bosses you'll fight Chapter 6 of Black Myth: Wukong\"). This multi-phase battle is a challenging fight that brings you toward the conclusion of the game.\n## How to Find the Stone Monkey\n\nYou'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scenic view of a waterfall cascading down a rocky cliff, surrounded by lush greenery. An arrow in the image points towards a pathway leading to the Water Curtain Cave, which is the final area of the game \"Black Myth: Wukong.\" This image serves as a visual guide for players to locate the entrance to the cave, where they will face the Stone Monkey boss in Chapter 6.",
+    "embedding_prompt": "This is an image from the file 'The_Stone_Monkey.md', This is the 2th image in the document, located in the main section titled 'The Stone Monkey'. The sub-section is titled 'How to Find the Stone Monkey', The preceding text of this image is: # The Stone Monkey\nThe Stone Monkey is one of the main and final bosses you'll fight Chapter 6 of Black Myth: Wukong\"). This multi-phase battle is a challenging fight that brings you toward the conclusion of the game.\n## How to Find the Stone Monkey\n\nYou'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.,The following text of this image is: ,The summary of this picture is:The image depicts a scenic view of a waterfall cascading down a rocky cliff, surrounded by lush greenery. An arrow in the image points towards a pathway leading to the Water Curtain Cave, which is the final area of the game \"Black Myth: Wukong.\" This image serves as a visual guide for players to locate the entrance to the cave, where they will face the Stone Monkey boss in Chapter 6."
+}

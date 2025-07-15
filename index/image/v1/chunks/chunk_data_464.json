@@ -1,0 +1,32 @@
+{
+    "chunk_id": 432411478650,
+    "source_file": "Golden_Loong_Staff.md",
+    "h1_title": "Golden Loong Staff",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Golden_Loong_Staff_1.jpg",
+    "alt_text": "Golden Loong Staff 1.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Golden Loong Staff\nThe Golden Loong Staff is an Mythical weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Golden_Loong_Staff.md', located under Golden Loong Staff.\n\n                Metadata:\n                - Document Title: Golden Loong Staff\n                - Alt Text: Golden Loong Staff 1.jpg\n\n                Context:\n                - Preceding Text: \"# Golden Loong Staff\nThe Golden Loong Staff is an Mythical weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Golden_Loong_Staff_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the Golden Loong Staff, a mythical weapon in the game *Black Myth: Wukong*. It highlights the weapon's stats, unique effect, and crafting requirements. The staff moderately boosts damage for Pillar Stance moves and enables summoning a \"loong\" to execute thunder attacks during heavy strikes. The crafting menu indicates insufficient materials for upgrading the weapon, while the detailed design of the staff emphasizes its golden, dragon-like aesthetic. The image serves to illustrate the weapon's functionality and visual appeal within the game's crafting system.",
+    "embedding_prompt": "This is an image from the file 'Golden_Loong_Staff.md', This is the 0th image in the document, located in the main section titled 'Golden Loong Staff'. The preceding text of this image is: # Golden Loong Staff\nThe Golden Loong Staff is an Mythical weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.,The following text of this image is: ,The summary of this picture is:The image showcases the Golden Loong Staff, a mythical weapon in the game *Black Myth: Wukong*. It highlights the weapon's stats, unique effect, and crafting requirements. The staff moderately boosts damage for Pillar Stance moves and enables summoning a \"loong\" to execute thunder attacks during heavy strikes. The crafting menu indicates insufficient materials for upgrading the weapon, while the detailed design of the staff emphasizes its golden, dragon-like aesthetic. The image serves to illustrate the weapon's functionality and visual appeal within the game's crafting system."
+}

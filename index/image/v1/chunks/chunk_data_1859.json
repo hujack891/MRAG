@@ -1,0 +1,32 @@
+{
+    "chunk_id": 11838466646,
+    "source_file": "Snow_Fox_Questline.md",
+    "h1_title": "Snow Fox Questline",
+    "h2_title": "Where to Find the Snow Fox",
+    "h3_title": "Yaoguai Chief Boss - Non-Void",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png",
+    "alt_text": "Snow Fox Questline \\(23\\).png",
+    "position_desc": 12,
+    "img_above_text": "# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n### Yaoguai Chief Boss - Non-Void\n\nTo counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 12 from the file 'Snow_Fox_Questline.md', located under Yaoguai Chief Boss - Non-Void.\n\n                Metadata:\n                - Document Title: Snow Fox Questline\n                - Section Title: Where to Find the Snow Fox\n                - Sub-Section Title: Yaoguai Chief Boss - Non-Void\n                - Alt Text: Snow Fox Questline \\(23\\).png\n\n                Context:\n                - Preceding Text: \"# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n### Yaoguai Chief Boss - Non-Void\n\nTo counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically during the encounter with the Yaoguai Chief Boss in the Snow Fox Questline. The boss, labeled \"Non-Void,\" is shown in combat, with sparks flying around indicating an intense battle. The preceding text suggests strategies for keeping the boss stunned and interrupting his attacks, emphasizing aggressive tactics. This visual likely serves to illustrate the challenging nature of the fight and the need for strategic gameplay to defeat the Yaoguai Chief Boss.",
+    "embedding_prompt": "This is an image from the file 'Snow_Fox_Questline.md', This is the 12th image in the document, located in the main section titled 'Snow Fox Questline'. The sub-section is titled 'Where to Find the Snow Fox', The preceding text of this image is: # Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n### Yaoguai Chief Boss - Non-Void\n\nTo counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game \"Black Myth: Wukong,\" specifically during the encounter with the Yaoguai Chief Boss in the Snow Fox Questline. The boss, labeled \"Non-Void,\" is shown in combat, with sparks flying around indicating an intense battle. The preceding text suggests strategies for keeping the boss stunned and interrupting his attacks, emphasizing aggressive tactics. This visual likely serves to illustrate the challenging nature of the fight and the need for strategic gameplay to defeat the Yaoguai Chief Boss."
+}

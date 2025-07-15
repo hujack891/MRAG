@@ -1,0 +1,32 @@
+{
+    "chunk_id": 52230224920,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Upper Pagoda (Level 4)",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
+    "alt_text": "Wukong Pagoda 66.jpg",
+    "position_desc": 62,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 62 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 4).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 4)\n                - Alt Text: Wukong Pagoda 66.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "### Summary of the Image:\n\nThe image depicts a gameplay scene from *The Beguiling Chant of the Pagoda Realm*, specifically within the Upper Pagoda (Level 4). A character, likely the player-controlled protagonist, stands ready with a staff in a dimly lit, rocky environment. The foreground shows combat icons and health bars, indicating active gameplay. In the background, an enemy (a Blade Monk) is engaged in combat, with a glowing health bar above them. A red-dotted circle highlights an object or area of interest, possibly a hidden item or pathway. This visual aligns with the preceding text, which describes sneaking outside cells and engaging enemies near ledges. The image serves to illustrate the tense exploration and combat dynamics of this level.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 62th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 4)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.,The following text of this image is: ,The summary of this picture is:### Summary of the Image:\n\nThe image depicts a gameplay scene from *The Beguiling Chant of the Pagoda Realm*, specifically within the Upper Pagoda (Level 4). A character, likely the player-controlled protagonist, stands ready with a staff in a dimly lit, rocky environment. The foreground shows combat icons and health bars, indicating active gameplay. In the background, an enemy (a Blade Monk) is engaged in combat, with a glowing health bar above them. A red-dotted circle highlights an object or area of interest, possibly a hidden item or pathway. This visual aligns with the preceding text, which describes sneaking outside cells and engaging enemies near ledges. The image serves to illustrate the tense exploration and combat dynamics of this level."
+}

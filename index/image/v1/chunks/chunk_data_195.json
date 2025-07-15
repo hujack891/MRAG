@@ -1,0 +1,32 @@
+{
+    "chunk_id": 226721579868,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "h1_title": "Prologue",
+    "h2_title": "Boss Fight - Erlang, the Sacred Divinity",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Prologue_2.jpg",
+    "alt_text": "Wukong Prologue 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nUpon beginning your journey, you’ll be thrust into the role of the mythical Sun Wukong as he rebels against the Court of Heaven and its Heavenly Kings. Undaunted by their army, Sun Wukong calls them out, prompting the nephew of the Jade Emperor, Erlang Shen, to meet him in combat.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Forest_of_Wolves_Walkthrough.md', located under Boss Fight - Erlang, the Sacred Divinity.\n\n                Metadata:\n                - Document Title: Prologue\n                - Section Title: Boss Fight - Erlang, the Sacred Divinity\n                - Alt Text: Wukong Prologue 2.jpg\n\n                Context:\n                - Preceding Text: \"# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nUpon beginning your journey, you’ll be thrust into the role of the mythical Sun Wukong as he rebels against the Court of Heaven and its Heavenly Kings. Undaunted by their army, Sun Wukong calls them out, prompting the nephew of the Jade Emperor, Erlang Shen, to meet him in combat.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Prologue_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic combat scene between Sun Wukong and Erlang Shen, the Sacred Divinity, set against a misty battlefield with faint outlines of an army in the background. Sun Wukong, wielding his staff, is engaged in close combat with Erlang Shen, who counters with his blade. The on-screen prompts suggest gameplay mechanics, such as dodging incoming attacks, indicating this is part of a boss fight sequence. The image aligns with the narrative described in the preceding text, where Sun Wukong challenges the Court of Heaven and faces Erlang Shen in battle, emphasizing the intensity and mythological stakes of the encounter.",
+    "embedding_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 1th image in the document, located in the main section titled 'Prologue'. The sub-section is titled 'Boss Fight - Erlang, the Sacred Divinity', The preceding text of this image is: # Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nUpon beginning your journey, you’ll be thrust into the role of the mythical Sun Wukong as he rebels against the Court of Heaven and its Heavenly Kings. Undaunted by their army, Sun Wukong calls them out, prompting the nephew of the Jade Emperor, Erlang Shen, to meet him in combat.,The following text of this image is: ,The summary of this picture is:The image depicts a dramatic combat scene between Sun Wukong and Erlang Shen, the Sacred Divinity, set against a misty battlefield with faint outlines of an army in the background. Sun Wukong, wielding his staff, is engaged in close combat with Erlang Shen, who counters with his blade. The on-screen prompts suggest gameplay mechanics, such as dodging incoming attacks, indicating this is part of a boss fight sequence. The image aligns with the narrative described in the preceding text, where Sun Wukong challenges the Court of Heaven and faces Erlang Shen in battle, emphasizing the intensity and mythological stakes of the encounter."
+}

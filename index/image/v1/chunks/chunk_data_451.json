@@ -1,0 +1,32 @@
+{
+    "chunk_id": 265695669906,
+    "source_file": "Giant_Shigandang.md",
+    "h1_title": "Giant Shigandang",
+    "h2_title": "Giant Shigandang Boss Fight and Guide",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
+    "alt_text": "Five Skandhas \\(22\\).png",
+    "position_desc": 3,
+    "img_above_text": "# Giant Shigandang\nGiant Shigandangis one of the optional Yaoguai Kings you can fight in Chapter 6 of Black Myth: Wukong\"). It's the only Yaoguai King that will be recorded in your Journal in Chapter 6. Unlocking it will require collecting Skandhas across the 5 previous chapters.\n## Giant Shigandang Boss Fight and Guide\n\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Giant_Shigandang.md', located under Giant Shigandang Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Giant Shigandang\n                - Section Title: Giant Shigandang Boss Fight and Guide\n                - Alt Text: Five Skandhas \\(22\\).png\n\n                Context:\n                - Preceding Text: \"# Giant Shigandang\nGiant Shigandangis one of the optional Yaoguai Kings you can fight in Chapter 6 of Black Myth: Wukong\"). It's the only Yaoguai King that will be recorded in your Journal in Chapter 6. Unlocking it will require collecting Skandhas across the 5 previous chapters.\n## Giant Shigandang Boss Fight and Guide\n\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the \"Giant Shigandang Boss Fight and Guide\" section of the *Giant Shigandang* document. It shows a player character standing near a rocky environment with prominent glowing blue crystals embedded in the rock face. These crystals are likely the target points for attacking the Giant Shigandang boss, as suggested by the preceding text, which emphasizes striking the blue crystals on its fists to defeat the monster. The image visually reinforces the strategy described in the guide, aiding players in identifying key elements during the fight.",
+    "embedding_prompt": "This is an image from the file 'Giant_Shigandang.md', This is the 3th image in the document, located in the main section titled 'Giant Shigandang'. The sub-section is titled 'Giant Shigandang Boss Fight and Guide', The preceding text of this image is: # Giant Shigandang\nGiant Shigandangis one of the optional Yaoguai Kings you can fight in Chapter 6 of Black Myth: Wukong\"). It's the only Yaoguai King that will be recorded in your Journal in Chapter 6. Unlocking it will require collecting Skandhas across the 5 previous chapters.\n## Giant Shigandang Boss Fight and Guide\n\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the \"Giant Shigandang Boss Fight and Guide\" section of the *Giant Shigandang* document. It shows a player character standing near a rocky environment with prominent glowing blue crystals embedded in the rock face. These crystals are likely the target points for attacking the Giant Shigandang boss, as suggested by the preceding text, which emphasizes striking the blue crystals on its fists to defeat the monster. The image visually reinforces the strategy described in the guide, aiding players in identifying key elements during the fight."
+}

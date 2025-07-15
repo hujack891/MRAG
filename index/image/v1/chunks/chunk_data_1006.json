@@ -1,0 +1,32 @@
+{
+    "chunk_id": 319480856485,
+    "source_file": "Man-in-Stone_Questline.md",
+    "h1_title": "Man-in-Stone Questline",
+    "h2_title": "Where to Find the Man-in-Stone",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg",
+    "alt_text": "Wukong Fright 19.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nYou can first encounter the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. You can reach it by traveling through Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then taking the path across a rope bridge to the right from the large sealed stone door.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Man-in-Stone_Questline.md', located under Where to Find the Man-in-Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone Questline\n                - Section Title: Where to Find the Man-in-Stone\n                - Alt Text: Wukong Fright 19.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nYou can first encounter the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. You can reach it by traveling through Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then taking the path across a rope bridge to the right from the large sealed stone door.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the \"Man-in-Stone Questline\" detailed in the section \"Where to Find the Man-in-Stone.\" It shows a character standing on a wooden bridge with an arrow pointing to a dark area below, likely indicating the path or location where players can find the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. The image serves to guide players on how to navigate to this character by showing a visual cue in the game environment.",
+    "embedding_prompt": "This is an image from the file 'Man-in-Stone_Questline.md', This is the 1th image in the document, located in the main section titled 'Man-in-Stone Questline'. The sub-section is titled 'Where to Find the Man-in-Stone', The preceding text of this image is: # Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nYou can first encounter the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. You can reach it by traveling through Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then taking the path across a rope bridge to the right from the large sealed stone door.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the \"Man-in-Stone Questline\" detailed in the section \"Where to Find the Man-in-Stone.\" It shows a character standing on a wooden bridge with an arrow pointing to a dark area below, likely indicating the path or location where players can find the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. The image serves to guide players on how to navigate to this character by showing a visual cue in the game environment."
+}

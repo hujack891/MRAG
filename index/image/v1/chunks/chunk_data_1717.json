@@ -1,0 +1,32 @@
+{
+    "chunk_id": 323737208215,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "h1_title": "Chapter 4 Secrets",
+    "h2_title": "The Duskveil - Purple Cloud Mountain",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
+    "alt_text": "Secrets Black Myth Wukong \\(3\\).png",
+    "position_desc": 19,
+    "img_above_text": "# Chapter 4 Secrets\n## The Duskveil - Purple Cloud Mountain\n\nAs you begin to follow the path in Purple Cloud Mountain, you'll encounter a weeping snake curled around a tree. To help her out, you need to find the Daoist Mi, who waits near the Petalfall Hamlet. He'll ask you to find Violet Hail for him, which you can obtain from the yellow-robed enemies in the area. Once you have it, Daoist Mi will become a boss with two phases.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 19 from the file 'Secrets_in_Black_Myth_Wukong.md', located under The Duskveil - Purple Cloud Mountain.\n\n                Metadata:\n                - Document Title: Chapter 4 Secrets\n                - Section Title: The Duskveil - Purple Cloud Mountain\n                - Alt Text: Secrets Black Myth Wukong \\(3\\).png\n\n                Context:\n                - Preceding Text: \"# Chapter 4 Secrets\n## The Duskveil - Purple Cloud Mountain\n\nAs you begin to follow the path in Purple Cloud Mountain, you'll encounter a weeping snake curled around a tree. To help her out, you need to find the Daoist Mi, who waits near the Petalfall Hamlet. He'll ask you to find Violet Hail for him, which you can obtain from the yellow-robed enemies in the area. Once you have it, Daoist Mi will become a boss with two phases.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a monstrous, multi-limbed creature standing in front of an old, weathered building with twisted roots surrounding it. The creature appears to be a significant adversary, likely encountered in \"The Duskveil - Purple Cloud Mountain\" section of Chapter 4 titled \"Secrets\" from the document. The preceding text suggests that this creature may be related to the boss fight with Daoist Mi, who transforms into a formidable opponent with two phases. The image serves to illustrate the challenging encounter players will face in this part of the narrative.",
+    "embedding_prompt": "This is an image from the file 'Secrets_in_Black_Myth_Wukong.md', This is the 19th image in the document, located in the main section titled 'Chapter 4 Secrets'. The sub-section is titled 'The Duskveil - Purple Cloud Mountain', The preceding text of this image is: # Chapter 4 Secrets\n## The Duskveil - Purple Cloud Mountain\n\nAs you begin to follow the path in Purple Cloud Mountain, you'll encounter a weeping snake curled around a tree. To help her out, you need to find the Daoist Mi, who waits near the Petalfall Hamlet. He'll ask you to find Violet Hail for him, which you can obtain from the yellow-robed enemies in the area. Once you have it, Daoist Mi will become a boss with two phases.,The following text of this image is: ,The summary of this picture is:The image depicts a monstrous, multi-limbed creature standing in front of an old, weathered building with twisted roots surrounding it. The creature appears to be a significant adversary, likely encountered in \"The Duskveil - Purple Cloud Mountain\" section of Chapter 4 titled \"Secrets\" from the document. The preceding text suggests that this creature may be related to the boss fight with Daoist Mi, who transforms into a formidable opponent with two phases. The image serves to illustrate the challenging encounter players will face in this part of the narrative."
+}

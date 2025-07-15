@@ -1,0 +1,32 @@
+{
+    "chunk_id": 562228793163,
+    "source_file": "Snow_Fox_Questline.md",
+    "h1_title": "Snow Fox Questline",
+    "h2_title": "Where to Find the Snow Fox",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
+    "alt_text": "Snow Fox Questline \\(4\\).png",
+    "position_desc": 1,
+    "img_above_text": "# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Snow_Fox_Questline.md', located under Where to Find the Snow Fox.\n\n                Metadata:\n                - Document Title: Snow Fox Questline\n                - Section Title: Where to Find the Snow Fox\n                - Alt Text: Snow Fox Questline \\(4\\).png\n\n                Context:\n                - Preceding Text: \"# Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically from Chapter 3's Valley of Ectascy section. It shows a character standing next to a skeletal body slumped against a post at the start of a wooden path in a snowy forest. This location is described in the \"Where to Find the Snow Fox\" section of the \"Snow Fox Questline\" document, indicating where players can encounter the Snow Fox character. The text in the image suggests a narrative element, with the skeletal figure mentioning it was a fox guai who practiced to become human.",
+    "embedding_prompt": "This is an image from the file 'Snow_Fox_Questline.md', This is the 1th image in the document, located in the main section titled 'Snow Fox Questline'. The sub-section is titled 'Where to Find the Snow Fox', The preceding text of this image is: # Snow Fox Questline\nThe Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\n\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the game \"Black Myth: Wukong,\" specifically from Chapter 3's Valley of Ectascy section. It shows a character standing next to a skeletal body slumped against a post at the start of a wooden path in a snowy forest. This location is described in the \"Where to Find the Snow Fox\" section of the \"Snow Fox Questline\" document, indicating where players can encounter the Snow Fox character. The text in the image suggests a narrative element, with the skeletal figure mentioning it was a fox guai who practiced to become human."
+}

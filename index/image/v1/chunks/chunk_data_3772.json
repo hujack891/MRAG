@@ -1,0 +1,32 @@
+{
+    "chunk_id": 916658561880,
+    "source_file": "Essential_Tips_and_Tricks.md",
+    "h1_title": "Essential Tips and Tricks",
+    "h2_title": "General Tips",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Tips_and_Tricks_.png",
+    "alt_text": "Tips and Tricks .png",
+    "position_desc": 0,
+    "img_above_text": "# Essential Tips and Tricks\nBlack Myth: Wukong is a challenging action game with some RPG elements, and whether you consider yourself a combat expert or not, there's a lot of essential tips and tricks to learn as you follow in the footsteps of Sun Wukong. Below you'll find important tips for both exploration and combat to start you on the right foot.\n* **Jump to:**\n* **General Tips**\n* **Combat Tips**\n* Exploration Tips**\n## General Tips",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Essential_Tips_and_Tricks.md', located under General Tips.\n\n                Metadata:\n                - Document Title: Essential Tips and Tricks\n                - Section Title: General Tips\n                - Alt Text: Tips and Tricks .png\n\n                Context:\n                - Preceding Text: \"# Essential Tips and Tricks\nBlack Myth: Wukong is a challenging action game with some RPG elements, and whether you consider yourself a combat expert or not, there's a lot of essential tips and tricks to learn as you follow in the footsteps of Sun Wukong. Below you'll find important tips for both exploration and combat to start you on the right foot.\n* **Jump to:**\n* **General Tips**\n* **Combat Tips**\n* Exploration Tips**\n## General Tips\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Tips_and_Tricks_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image shows a detailed view of a rocky environment with a tree trunk and some large, reddish-brown fungi growing on it. This visual is part of the \"Essential Tips and Tricks\" document under the \"General Tips\" section, specifically for the game \"Black Myth: Wukong.\" The image likely serves to illustrate an aspect of the game's exploration elements, providing a visual reference to enhance the reader's understanding of the in-game environment.",
+    "embedding_prompt": "This is an image from the file 'Essential_Tips_and_Tricks.md', This is the 0th image in the document, located in the main section titled 'Essential Tips and Tricks'. The sub-section is titled 'General Tips', The preceding text of this image is: # Essential Tips and Tricks\nBlack Myth: Wukong is a challenging action game with some RPG elements, and whether you consider yourself a combat expert or not, there's a lot of essential tips and tricks to learn as you follow in the footsteps of Sun Wukong. Below you'll find important tips for both exploration and combat to start you on the right foot.\n* **Jump to:**\n* **General Tips**\n* **Combat Tips**\n* Exploration Tips**\n## General Tips,The following text of this image is: ,The summary of this picture is:The image shows a detailed view of a rocky environment with a tree trunk and some large, reddish-brown fungi growing on it. This visual is part of the \"Essential Tips and Tricks\" document under the \"General Tips\" section, specifically for the game \"Black Myth: Wukong.\" The image likely serves to illustrate an aspect of the game's exploration elements, providing a visual reference to enhance the reader's understanding of the in-game environment."
+}

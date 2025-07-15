@@ -1,0 +1,32 @@
+{
+    "chunk_id": 731073781431,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "h2_title": "Lower Pagoda (Level 1)",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_Pagoda_8.jpg",
+    "alt_text": "Wukong Pagoda 8.jpg",
+    "position_desc": 8,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 1)\n\nIf you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 8 from the file 'Pagoda_Realm_Walkthrough.md', located under Lower Pagoda (Level 1).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Lower Pagoda (Level 1)\n                - Alt Text: Wukong Pagoda 8.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 1)\n\nIf you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_Pagoda_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, atmospheric scene within the Lower Pagoda (Level 1) from *The Beguiling Chant of the Pagoda Realm*. A lone figure, armed with a staff, is navigating a rocky terrain illuminated by faint light and mysterious glowing particles. The preceding text suggests the figure may be preparing to confront elusive enemies capable of sudden, unpredictable attacks, emphasizing the need for vigilance in this perilous environment. The image complements the narrative by visually portraying the ominous and challenging nature of the realm.",
+    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 8th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Lower Pagoda (Level 1)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 1)\n\nIf you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.,The following text of this image is: ,The summary of this picture is:The image depicts a dark, atmospheric scene within the Lower Pagoda (Level 1) from *The Beguiling Chant of the Pagoda Realm*. A lone figure, armed with a staff, is navigating a rocky terrain illuminated by faint light and mysterious glowing particles. The preceding text suggests the figure may be preparing to confront elusive enemies capable of sudden, unpredictable attacks, emphasizing the need for vigilance in this perilous environment. The image complements the narrative by visually portraying the ominous and challenging nature of the realm."
+}
