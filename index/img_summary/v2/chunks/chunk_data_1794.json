@@ -1,28 +1,11 @@
 {
-    "chunk_id": 867115691754,
-    "source_file": "Key_Items.md",
-    "img_url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
-    "alt_text": "Wireless Controller",
-    "position_desc": 25,
-    "img_above_text": "Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now",
-    "img_below_text": "### Black Myth: Wukong Wireless Controller\n0",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Key_Items.md'.\n\n            Context:\n            - Preceding Text: \"Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now\"\n            - Following Text: \"### Black Myth: Wukong Wireless Controller\n0\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image showcases a custom-designed wireless gaming controller, likely inspired by the game *Black Myth: Wukong*. The controller features intricate artwork with red and black accents and comes with an 8BitDo wireless adapter, emphasizing its compatibility and stylish appeal.\n\n2. **Inferred Purpose**: The image serves as a visual representation of a recommended gaming accessory, aligning with the context of IGN Shopping's feature on gaming gear. It highlights the controller's aesthetic and functional qualities, appealing to fans of *Black Myth: Wukong*."
+    "chunk_id": 556760025523,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/The_Grotto_Yellow_Wind_Meditation_Spot.jpg",
+    "alt_text": "The Grotto Yellow Wind Meditation Spot.jpg",
+    "position_desc": 8,
+    "img_above_text": "### The Grotto, Yellow Wind Meditation Spot\nThe Grotto, Yellow Wind Meditation Spot",
+    "img_below_text": "Follow the sand tornado to reach the Yellow Wind boss arena near the Windseal Gate Keeper's Shrine. Follow the path opposite the arena to find the next Meditation Spot.\n### The Rock, Sandgate Bound Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Grotto, Yellow Wind Meditation Spot\nThe Grotto, Yellow Wind Meditation Spot\"\n        - Following Text: \"Follow the sand tornado to reach the Yellow Wind boss arena near the Windseal Gate Keeper's Shrine. Follow the path opposite the arena to find the next Meditation Spot.\n### The Rock, Sandgate Bound Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a rocky, desert-like environment. It features a character standing in front of a stone wall adorned with statues, suggesting a significant location within the game. This setting is likely associated with the \"Yellow Wind Meditation Spot\" in \"The Grotto,\" as mentioned in the preceding text. The image serves as a visual guide for players navigating towards the Yellow Wind boss arena and the Windseal Gate Keeper's Shrine, indicating the path to the next Meditation Spot, \"The Rock, Sandgate Bound Meditation Spot.\""
 }

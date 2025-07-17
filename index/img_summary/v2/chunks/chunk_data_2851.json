@@ -1,28 +1,11 @@
 {
-    "chunk_id": 210805847862,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg",
-    "alt_text": "Wukong YellowFlower 53.jpg",
-    "position_desc": 47,
-    "img_above_text": "![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)\nBe wary when he assumes a crouched stance with his swords up. He'll start walking forward while performing a series of twirling slashes, which can be tough to avoid as all six slashes come out very rapidly, so keep your distance or try to deflect them.",
-    "img_below_text": "If his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.\n![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)\nBe wary when he assumes a crouched stance with his swords up. He'll start walking forward while performing a series of twirling slashes, which can be tough to avoid as all six slashes come out very rapidly, so keep your distance or try to deflect them.\"\n            - Following Text: \"If his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.\n![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" showing the protagonist facing off against an enemy named \"Venom Daoist.\" The enemy is performing a twirling slash attack, which is part of a series of rapid and difficult-to-avoid moves. The preceding and following text provide strategic advice on how to handle the enemy's various attack patterns, emphasizing the importance of keeping a safe distance or deflecting the attacks to avoid taking significant damage."
+    "chunk_id": 990096610951,
+    "source_file": "Webbed_Hollow_-_Lower_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_LowerHollow_42.jpg",
+    "alt_text": "Wukong LowerHollow 42.jpg",
+    "position_desc": 42,
+    "img_above_text": "![Wukong LowerHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_LowerHollow_45.jpg)\nHe can also steal a trick from Guangzhi and use his rake like a pogo stick, slamming down with it before hopping up and spin into another downward slash attack.",
+    "img_below_text": "When he starts spinning his rake in a low, wide arc, he can continue to spin until turning into a literal tornado. It can be hard to dodge at first, but once you do he'll have a hard time course-correcting, and you can follow his path until he spins himself dizzy.\n![Wukong LowerHollow 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Wukong_LowerHollow_43.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong LowerHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_LowerHollow_45.jpg)\nHe can also steal a trick from Guangzhi and use his rake like a pogo stick, slamming down with it before hopping up and spin into another downward slash attack.\"\n        - Following Text: \"When he starts spinning his rake in a low, wide arc, he can continue to spin until turning into a literal tornado. It can be hard to dodge at first, but once you do he'll have a hard time course-correcting, and you can follow his path until he spins himself dizzy.\n![Wukong LowerHollow 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Wukong_LowerHollow_43.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing a battle between the protagonist and Zhu Bajie, a boar-like enemy wielding a large rake. Zhu Bajie is mid-attack, spinning his rake in a dynamic motion, surrounded by red energy and cherry blossom petals, emphasizing the ferocity of the move. The preceding and following text describe Zhu Bajie's ability to use the rake as a pogo stick and transition into a spinning tornado attack, which aligns with the depicted action. The HUD elements indicate player abilities and health, framing the encounter as part of a boss fight."
 }

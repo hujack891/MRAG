@@ -1,28 +1,11 @@
 {
-    "chunk_id": 594322041964,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg",
-    "alt_text": "Wukong Bitter 11.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong Bitter 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg)\nOther times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.",
-    "img_below_text": "His strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.\n![Wukong Bitter 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg)\nOther times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\"\n            - Following Text: \"His strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.\n![Wukong Bitter 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic battle scene from *Black Myth: Wukong*, showcasing the protagonist facing off against \"Chen Loong,\" a powerful dragon-like enemy surrounded by fierce lightning. The preceding text highlights the enemy's ability to summon electrical energy, while the following text describes its strongest attack involving a massive electrical explosion. The image visually emphasizes the intensity of the confrontation, with the dragon's glowing lightning effects and the protagonist preparing to counter its attacks."
+    "chunk_id": 81554034831,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Incense_Trail_Talisman_.jpg",
+    "alt_text": "Incense Trail Talisman .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Consumable | Rarity | Effect | Location | Crafting Ingredients Required | Collected\n---|---|---|---|---|---|---",
+    "img_below_text": "![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Image | Consumable | Rarity | Effect | Location | Crafting Ingredients Required | Collected\n---|---|---|---|---|---|---\"\n        - Following Text: \"![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Body Cooling Powder\" item from the video game *Black Myth: Wukong*. It is a consumable of uncommon rarity, used to instantly remove the Burnt State and temporarily increase Burn Resistance. The item can be obtained from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain, found in chests, or dropped by enemy corpses. Crafting requires 1 Fragrant Jade Flower and 1 Jade Lotus."
 }

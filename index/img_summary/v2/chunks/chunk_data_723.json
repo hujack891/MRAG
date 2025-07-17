@@ -1,28 +1,11 @@
 {
-    "chunk_id": 210137688594,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Black-myth-wukong-loong-aura-amplification-pellets.jpg",
-    "alt_text": "Black-myth-wukong-loong-aura-amplification-pellets.jpg",
-    "position_desc": 20,
-    "img_above_text": "![Black-myth-wukong-life-saving-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Black-myth-wukong-life-saving-pill.jpg)| Life-Saving Pill | Epic | Upon use, instantly recovers full health and removes all four Banes states. | • Formula found in Cloudnest Peak in Purple Cloud Mountain in The Webbed Hollow, in the house near the Shrine in a container • Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Fire Bellflower\n• 1 Golden Lotus | Life-Saving Pill",
-    "img_below_text": "• 1 Purple Lingzhi\n• 1 Aged Ginseng | Loong Aura Amplification Pellets",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-life-saving-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Black-myth-wukong-life-saving-pill.jpg)| Life-Saving Pill | Epic | Upon use, instantly recovers full health and removes all four Banes states. | • Formula found in Cloudnest Peak in Purple Cloud Mountain in The Webbed Hollow, in the house near the Shrine in a container • Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Fire Bellflower\n• 1 Golden Lotus | Life-Saving Pill\"\n            - Following Text: \"• 1 Purple Lingzhi\n• 1 Aged Ginseng | Loong Aura Amplification Pellets\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Black-myth-wukong-loong-aura-amplification-pellets.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a mystical potion bottle, likely representing the \"Life-Saving Pill\" from the game \"Black Myth: Wukong.\" This item is classified as Epic and is used to instantly recover full health and remove all four Banes states. The formula for crafting this pill can be found in Cloudnest Peak in Purple Cloud Mountain, specifically in The Webbed Hollow, in a house near the Shrine, or purchased from Xu Dog in the Crouching Tiger Temple - Cellar after completing Chapter 2 - Yellow Wind Ridge. The ingredients required for the Life-Saving Pill include 1 Fire Bellflower and 1 Golden Lotus."
+    "chunk_id": 382431887485,
+    "source_file": "Crimson-Silver_Cart.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Furnace_Valley_Walkthrough_%28109%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(109\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Furnace Valley Walkthrough \\(107\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Furnace_Valley_Walkthrough_%28107%29.png)\nFrom The Emerald Hall altar, go right and continue along the main path head up the stairs and onto the ashen path. Follow it up and around to the left, crossing over the bridge and heading toward the archway in the distance.",
+    "img_below_text": "Step through the archway and look to the left to see a treasure chest. Open this to find Blood of the Iron Bull and gold pieces. Proceed up the stairs to the right, past the bull guard, and fire will start to rain down on you -- which you know means another cart is not far off!\n![Furnace Valley Walkthrough \\(110\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Furnace_Valley_Walkthrough_%28110%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Furnace Valley Walkthrough \\(107\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Furnace_Valley_Walkthrough_%28107%29.png)\nFrom The Emerald Hall altar, go right and continue along the main path head up the stairs and onto the ashen path. Follow it up and around to the left, crossing over the bridge and heading toward the archway in the distance.\"\n        - Following Text: \"Step through the archway and look to the left to see a treasure chest. Open this to find Blood of the Iron Bull and gold pieces. Proceed up the stairs to the right, past the bull guard, and fire will start to rain down on you -- which you know means another cart is not far off!\n![Furnace Valley Walkthrough \\(110\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Furnace_Valley_Walkthrough_%28110%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a section of the Furnace Valley area in *Black Myth: Wukong*. It highlights two key elements: a treasure chest on the left, marked with a dashed red circle, and an enemy in the distance near a staircase, indicated by a red arrow. The preceding and following text suggests that players should open the chest to obtain valuable items (Blood of the Iron Bull and gold pieces) before proceeding up the stairs toward the next challenge, which involves avoiding fire and encountering a cart."
 }

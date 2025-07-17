@@ -1,28 +1,11 @@
 {
-    "chunk_id": 471416371128,
-    "source_file": "Swift_Bat_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Swift_Bat_Power.png",
-    "alt_text": "Swift Bat Power.png",
-    "position_desc": 3,
-    "img_above_text": "The Swift Bat isn't a boss like the Earth Wolf or Wandering Wight, but is still a reasonably difficult fight in its own right. Swift Bats are extremely fast and can be difficult to reach when they're up in the sky. You can expect to be swooped by the Swift Bat, hit with a volley of projectiles, or swiped at with the beast's clawed hands.\n## Swift Bat Spirit",
-    "img_below_text": "* **Wing Flapper**\n* Equipped Effect: Moderately increases Stamina recovery.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Swift_Bat_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Swift Bat isn't a boss like the Earth Wolf or Wandering Wight, but is still a reasonably difficult fight in its own right. Swift Bats are extremely fast and can be difficult to reach when they're up in the sky. You can expect to be swooped by the Swift Bat, hit with a volley of projectiles, or swiped at with the beast's clawed hands.\n## Swift Bat Spirit\"\n            - Following Text: \"* **Wing Flapper**\n* Equipped Effect: Moderately increases Stamina recovery.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Swift_Bat_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the in-game menu for equipping the \"Swift Bat Spirit\" in a video game. The Swift Bat Spirit is categorized as a rare spirit with moderate Qi cost and provides the ability \"Wing Flapper,\" which allows players to take the form of the Swift Bat, stir up gravel, and strike enemies. Its equipped effect moderately increases stamina recovery. The menu also displays stats, other spirits available for selection, and a demo preview of the ability in action."
+    "chunk_id": 652722295095,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Rat_Sage_Staff_.jpg",
+    "alt_text": "Rat Sage Staff .jpg",
+    "position_desc": 6,
+    "img_above_text": "• 4 Refined Iron Sand\n• 21,000 Will | Loongwreathe Staff",
+    "img_below_text": "• 4 Refined Iron Sand\n• 8 Yaoguai Core",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 4 Refined Iron Sand\n• 21,000 Will | Loongwreathe Staff\"\n        - Following Text: \"• 4 Refined Iron Sand\n• 8 Yaoguai Core\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Loongwreathe Staff,\" a visually intricate weapon likely featured in a video game. The preceding and following text suggests its crafting or upgrade requirements, including materials like Refined Iron Sand and Yaoguai Core, alongside a cost of 21,000 Will. The staff appears to play a significant role in the game's progression or combat system."
 }

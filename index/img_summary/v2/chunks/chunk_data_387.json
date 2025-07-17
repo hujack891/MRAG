@@ -1,28 +1,11 @@
 {
-    "chunk_id": 826565139550,
-    "source_file": "Bull_Governor_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Bull_Governor_Spirit.jpg",
-    "alt_text": "Bull Governor Spirit.jpg",
-    "position_desc": 3,
-    "img_above_text": "The Bull Governor is armed with a giant, flaming halberd that he uses to stab, slash, and plunge into the ground to create a fiery explosion. He is a big enemy, meaning he is also rather slow, which works in your favor. The explosions can be tricky to dodge, however, especially considering there are other enemies around. The path to the Bull Governor is guarded by several other foes. Try to take them all out before taking on the Bull Governor so you can focus on him alone.\n## Bull Governor Spirit",
-    "img_below_text": "* **Bull Strength**\n* Equipped Effect: Moderately increases Scorch Damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Bull_Governor_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Bull Governor is armed with a giant, flaming halberd that he uses to stab, slash, and plunge into the ground to create a fiery explosion. He is a big enemy, meaning he is also rather slow, which works in your favor. The explosions can be tricky to dodge, however, especially considering there are other enemies around. The path to the Bull Governor is guarded by several other foes. Try to take them all out before taking on the Bull Governor so you can focus on him alone.\n## Bull Governor Spirit\"\n            - Following Text: \"* **Bull Strength**\n* Equipped Effect: Moderately increases Scorch Damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Bull_Governor_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Bull Governor Spirit\" in the game's equipment menu. The spirit allows the player to take the form of the Bull Governor, wielding a halberd to charge at foes and deal Scorch Damage by thrusting the weapon into the ground. It has a high Qi cost and provides an equipped effect that moderately increases Scorch Damage. The interface also displays stats, other available spirits, and a demo of the Bull Governor's abilities.\n\n2. **Purpose/Narrative Role**:  \nThe image highlights the Bull Governor Spirit as a powerful combat option for players, emphasizing its ability to deal significant Scorch Damage and its utility in gameplay. It ties into the preceding text by demonstrating the spirit's connection to the Bull Governor enemy and its fiery halberd attacks."
+    "chunk_id": 983496180307,
+    "source_file": "Captain_Void-Illusion.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Longevity_7.jpg",
+    "alt_text": "Wukong Longevity 7.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Where to Find Captain Void-Illusion\nYou can find Captain Void-Illusion along the Road of Longevity in the Valley of Ecstasy. From the Shrine, head directly right and up the small hill past a large inacessible tower. You'll find a large corpse of some kind at the base of a statue built into the cliffs ahead.",
+    "img_below_text": "This is actually one of the four Captains that the Pagoda Realm Prisoner spoke of, but it looks like someone beat you to putting this captain out of their misery. You can still interact with the body to claim the Spirit of Captain Void-Illusion. And hey, since they still count as a Yaoguai Chief in the journal, that's one less boss to worry about!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Where to Find Captain Void-Illusion\nYou can find Captain Void-Illusion along the Road of Longevity in the Valley of Ecstasy. From the Shrine, head directly right and up the small hill past a large inacessible tower. You'll find a large corpse of some kind at the base of a statue built into the cliffs ahead.\"\n        - Following Text: \"This is actually one of the four Captains that the Pagoda Realm Prisoner spoke of, but it looks like someone beat you to putting this captain out of their misery. You can still interact with the body to claim the Spirit of Captain Void-Illusion. And hey, since they still count as a Yaoguai Chief in the journal, that's one less boss to worry about!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment where a player character approaches a large, decayed corpse near a statue embedded in a cliffside. This scene aligns with the guide's description of finding Captain Void-Illusion's remains along the Road of Longevity in the Valley of Ecstasy. The setting emphasizes the discovery of the captain's body, which players can interact with to claim the Spirit of Captain Void-Illusion."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 510811624756,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
-    "alt_text": "Secrets Wukong \\(6\\).png",
-    "position_desc": 15,
-    "img_above_text": "Mother of Flamlings\n## Baw-Lang-Lang",
-    "img_below_text": "Baw-Lang-Lang can be found at the start of the Bishui Cave but not technically in it. Once you've completed the five cart questline and smashed through the frozen door of the Bishui Cave, you'll want to head inside and down to the left to find another of the frog bosses.\nBaw-Lang-Lang",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Mother of Flamlings\n## Baw-Lang-Lang\"\n            - Following Text: \"Baw-Lang-Lang can be found at the start of the Bishui Cave but not technically in it. Once you've completed the five cart questline and smashed through the frozen door of the Bishui Cave, you'll want to head inside and down to the left to find another of the frog bosses.\nBaw-Lang-Lang\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Baw-Lang-Lang, a frog-like boss character from the game \"Black Myth: Wukong.\" Positioned at the entrance of Bishui Cave, Baw-Lang-Lang is encountered after completing a quest involving five carts and breaking through a frozen door. The image serves to visually introduce players to this secret boss, highlighting its unique design and setting within the game's narrative."
+    "chunk_id": 410418948601,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Yellow_27.jpg",
+    "alt_text": "Wukong Yellow 27.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\nIf possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.",
+    "img_below_text": "When he favors his sword, things won’t get any easier. Watch for him to hold his sword sideways across his body and a quick gleam. He’ll pull into a rapid stab attack with the sword that moves very fast — but it is possible to evade it using the Pillar Stance by raising yourself above the stab and then retaliating with a charged hit.\nWhen he holds his sword back behind him, he’ll launch into two fast upward slashes, which usually ends with him taking the aforementioned stance before his thrust attack.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\nIf possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.\"\n        - Following Text: \"When he favors his sword, things won’t get any easier. Watch for him to hold his sword sideways across his body and a quick gleam. He’ll pull into a rapid stab attack with the sword that moves very fast — but it is possible to evade it using the Pillar Stance by raising yourself above the stab and then retaliating with a charged hit.\nWhen he holds his sword back behind him, he’ll launch into two fast upward slashes, which usually ends with him taking the aforementioned stance before his thrust attack.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game *Black Myth: Wukong*, featuring the player character engaged in a battle against an enemy named \"Tiger's Acolyte\" on a narrow, weathered stone bridge. The enemy is wielding a glowing weapon, likely mid-attack, while the player appears to be evading or countering. The accompanying text provides strategies for dealing with the enemy's fast jabs, leaping attacks, and sword techniques, emphasizing timing and specific stances like \"Rock Solid\" and \"Pillar Stance\" to evade and retaliate effectively."
 }

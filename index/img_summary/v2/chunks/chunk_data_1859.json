@@ -1,28 +1,11 @@
 {
-    "chunk_id": 967697561979,
-    "source_file": "Luojia_Fragrant_Vine_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/North_Shore_of_the_Bitter_Lake_Luojia_Fragrant_Vine.jpg",
-    "alt_text": "North Shore of the Bitter Lake Luojia Fragrant Vine.jpg",
-    "position_desc": 5,
-    "img_above_text": "### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine",
-    "img_below_text": "The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine\"\n            - Following Text: \"The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/North_Shore_of_the_Bitter_Lake_Luojia_Fragrant_Vine.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, rocky environment where a character stands near a tree adorned with orange fruits or blossoms, identified as the Luojia Fragrant Vine. The \"Gather\" prompt suggests the vine is an interactable resource in the game, likely tied to exploration or crafting. Based on the context, this vine is located on the North Shore of the Bitter Lake, specifically near a hill leading up from snake bones on the beach. The image serves to illustrate the vine's appearance and its in-game significance as part of a guide or documentation for locating it."
+    "chunk_id": 375608195630,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Thunderclap_11.jpg",
+    "alt_text": "Wukong Thunderclap 11.jpg",
+    "position_desc": 11,
+    "img_above_text": "If you take the far right path, you can find another green Wisp in the farthest corner close to the entrance gate, and another path leading to a side area.\nTake out a lone Censor Holder as you follow the stone path to a long sloping corridor with a green Wisp to absorb at the bottom.",
+    "img_below_text": "The sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.\n![Wukong Thunderclap 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"If you take the far right path, you can find another green Wisp in the farthest corner close to the entrance gate, and another path leading to a side area.\nTake out a lone Censor Holder as you follow the stone path to a long sloping corridor with a green Wisp to absorb at the bottom.\"\n        - Following Text: \"The sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.\n![Wukong Thunderclap 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist navigating a snowy, stone path lined with red walls. The character is armed with a spear and appears to be approaching a group of Supporter Monks, as mentioned in the accompanying text. This setting is part of a sloping corridor where players can absorb green Wisps and engage in combat with slow-attacking enemies, allowing strategic gameplay to charge focus points and execute powerful attacks."
 }

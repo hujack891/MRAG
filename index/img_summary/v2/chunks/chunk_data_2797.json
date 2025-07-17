@@ -1,28 +1,11 @@
 {
-    "chunk_id": 750646602963,
-    "source_file": "Supreme_Gourd.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(101\\).png",
+    "chunk_id": 757416542352,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg",
+    "alt_text": "Willow Wood Staff .jpg",
     "position_desc": 1,
-    "img_above_text": "## Black Myth: Wukong Supreme Gourd Location\nThe Supreme Gourd can be obtained from Rakshasa Palace within the Flaming Mountains. Upon talking with the NPC here, you can interact with the fire to upgrade your Gourd (it will replace your Old Gourd in your inventory). As mentioned, you will need to have upgraded that Gourd at the Shen Monkey Vendor to its previous maximum of 9 uses using Luojia Fragrant Vines to be able to do this.",
-    "img_below_text": "For even more guides and tips on finding all the Gourd customisation items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, Awaken Wine Worm locations, and Luoija Fragrant Vine locations.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Supreme_Gourd.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Supreme Gourd Location\nThe Supreme Gourd can be obtained from Rakshasa Palace within the Flaming Mountains. Upon talking with the NPC here, you can interact with the fire to upgrade your Gourd (it will replace your Old Gourd in your inventory). As mentioned, you will need to have upgraded that Gourd at the Shen Monkey Vendor to its previous maximum of 9 uses using Luojia Fragrant Vines to be able to do this.\"\n            - Following Text: \"For even more guides and tips on finding all the Gourd customisation items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, Awaken Wine Worm locations, and Luoija Fragrant Vine locations.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically showing the location within Rakshasa Palace in the Flaming Mountains where players can upgrade their Gourd. The image highlights the fire and the NPC that players need to interact with to replace their Old Gourd with the Supreme Gourd, provided they have previously upgraded their Gourd to its maximum uses."
+    "img_above_text": "Weapon | Damage | Critical Hit Chance/Defense | Unique Effect | Unlock Requirement | Crafting Ingredients Needed | Collected\n---|---|---|---|---|---|---",
+    "img_below_text": "![Bronze Cloud Staffed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg) Bronze Cloud Staff| 36 | 2% Critical Hit Chance | N/A | • Deluxe Edition exclusive weapon. • Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain| Not craftable | Bronze Cloud Staff\n![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Weapon | Damage | Critical Hit Chance/Defense | Unique Effect | Unlock Requirement | Crafting Ingredients Needed | Collected\n---|---|---|---|---|---|---\"\n        - Following Text: \"![Bronze Cloud Staffed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg) Bronze Cloud Staff| 36 | 2% Critical Hit Chance | N/A | • Deluxe Edition exclusive weapon. • Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain| Not craftable | Bronze Cloud Staff\n![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Bronze Cloud Staff,\" a weapon featured in the video game *Black Myth: Wukong*. It is part of a guide detailing various weapons, their stats, effects, and acquisition methods. This specific weapon has 36 damage, a 2% critical hit chance, and is exclusive to the Deluxe Edition, obtainable at the \"Front Hills\" Shrine in the Forest of Wolves. The staff is not craftable."
 }

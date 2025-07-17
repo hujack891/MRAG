@@ -1,28 +1,11 @@
 {
-    "chunk_id": 496349535042,
-    "source_file": "Mountain_Patroller_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Mountain_Patroller.jpg",
-    "alt_text": "Mountain Patroller.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Mountain Patroller Fight Guide\n* Mountain Patroller Spirit Power",
-    "img_below_text": "## Mountain Patroller Location\nThe Mountain Patroller is accessible in the very early stages of Chapter 3. To find him, head up the Frost-Clad Path to reach the temple at the top of the hill. Fight the Macaque Chief for the first time, then head up the stairs on the left side of the temple. Follow the path to the end to find the Mountain Patroller.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Mountain_Patroller_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Mountain Patroller Fight Guide\n* Mountain Patroller Spirit Power\"\n            - Following Text: \"## Mountain Patroller Location\nThe Mountain Patroller is accessible in the very early stages of Chapter 3. To find him, head up the Frost-Clad Path to reach the temple at the top of the hill. Fight the Macaque Chief for the first time, then head up the stairs on the left side of the temple. Follow the path to the end to find the Mountain Patroller.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Mountain_Patroller.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy battlefield where a player character, equipped with a weapon, is preparing to confront an enemy in a mountainous area. This scene aligns with the context of the \"Mountain Patroller Fight Guide\" and the description of the Mountain Patroller's location in Chapter 3, suggesting it is part of the gameplay where players encounter the Mountain Patroller along the Frost-Clad Path near a temple. The visual elements emphasize the game's combat and exploration mechanics in a winter-themed environment."
+    "chunk_id": 524476793328,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Pagoda_3.jpg",
+    "alt_text": "Wukong Pagoda 3.jpg",
+    "position_desc": 3,
+    "img_above_text": "As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".",
+    "img_below_text": "Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".\"\n        - Following Text: \"Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, eerie environment with a cloaked character wielding a staff, standing near twisted organic structures and a barred cell. The lighting highlights the ominous atmosphere, with glowing particles scattered throughout. The preceding text suggests this area is part of a challenging traversal in the game, with warnings about mental strain and dangers ahead. The following text highlights the presence of Cyan Bats and collectible items, indicating that exploration and combat are key gameplay elements in this location. The dialogue at the bottom, \"That includes yours too,\" adds a foreboding tone to the scene."
 }

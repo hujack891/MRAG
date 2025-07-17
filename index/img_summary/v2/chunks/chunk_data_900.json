@@ -1,28 +1,11 @@
 {
-    "chunk_id": 708737348703,
-    "source_file": "Drunken_Boar_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Sahali_7.jpg",
-    "alt_text": "Wukong Sahali 7.jpg",
-    "position_desc": 12,
-    "img_above_text": "He’ll often start the fight by hurling dust in front of him, and then performing a fast charge attack to gore you with his tusks, but you can shut him down with a well timed Rock Solid deflection.\nOne of his main combos will begin with another “pocket sand” attack, followed by two quick swipes from his extended claws, and then a delayed jump attack to finish the combo, which can send up tremors from where he impacts.",
-    "img_below_text": "Other times, his third attack will have him extend his clawed hand back and charge up, before performing a dashing impaling thrust attack that covers a lot of ground quickly, so be ready to react when he lunges at you.\n![Wukong Sahali 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sahali_4.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Drunken_Boar_Questline.md'.\n\n            Context:\n            - Preceding Text: \"He’ll often start the fight by hurling dust in front of him, and then performing a fast charge attack to gore you with his tusks, but you can shut him down with a well timed Rock Solid deflection.\nOne of his main combos will begin with another “pocket sand” attack, followed by two quick swipes from his extended claws, and then a delayed jump attack to finish the combo, which can send up tremors from where he impacts.\"\n            - Following Text: \"Other times, his third attack will have him extend his clawed hand back and charge up, before performing a dashing impaling thrust attack that covers a lot of ground quickly, so be ready to react when he lunges at you.\n![Wukong Sahali 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sahali_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Sahali_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts a combat scenario from *Black Myth: Wukong*, showcasing the \"Yellow-Robed Squire\" enemy executing a claw-based attack in a dusty battlefield. The enemy is mid-action, extending its clawed hand in a sweeping motion while the player character is on the ground, seemingly recovering or evading. The game's UI elements, including health bars and ability icons, are visible, emphasizing the intensity of the fight.\n\n2. **Purpose, Content, or Narrative Role:**  \nThis image visually complements the preceding and following text, illustrating one of the described attack patterns of the \"Yellow-Robed Squire.\" Specifically, it aligns with the mention of the enemy's claw-based combos, such as the \"pocket sand\" attack followed by swipes and a jump attack or the charged impaling thrust. The image serves to provide players with a visual reference for anticipating and reacting to the enemy's moves during combat."
+    "chunk_id": 148342009256,
+    "source_file": "Falcon_Hermit_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Falcon_Hermit_2.jpg",
+    "alt_text": "Falcon Hermit 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Falcon Hermit Fight Guide\n* Falcon Hermit Spirit Power",
+    "img_below_text": "## Falcon Hermit Location\nInstead of continuing up the steps to the Warding Temple from the Warding Temple Keeper's Shrine, turn to the side and drop down to the snowy hill below. Start working your way up the hill. The Falcon Hermit will appear on top of a rock on the left.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Falcon Hermit Fight Guide\n* Falcon Hermit Spirit Power\"\n        - Following Text: \"## Falcon Hermit Location\nInstead of continuing up the steps to the Warding Temple from the Warding Temple Keeper's Shrine, turn to the side and drop down to the snowy hill below. Start working your way up the hill. The Falcon Hermit will appear on top of a rock on the left.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter with the Falcon Hermit, a winged enemy in a snowy environment. The character appears to be using spirit powers and abilities, as indicated by glowing effects and UI elements. This scene aligns with the preceding guide on fighting the Falcon Hermit and the following instructions on locating it near the Warding Temple."
 }

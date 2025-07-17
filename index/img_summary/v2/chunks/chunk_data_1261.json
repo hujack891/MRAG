@@ -1,28 +1,11 @@
 {
-    "chunk_id": 880027251126,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Fright_23.jpg",
-    "alt_text": "Wukong Fright 23.jpg",
-    "position_desc": 24,
-    "img_above_text": "![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nNow take one of the side paths to return to the large cave entrance, and look for a tunnel with some torches and a faint green light. The dark cave tunnel holds a green Wisp you can absorb to refill a bit of your Gourd, but beware, as the place is the perfect ambush spot.",
-    "img_below_text": "Advance cautiously to spy a Poisestone and two Bladebones on some scaffolding awaiting your arrival. Use Cloudstep to ambush the weaker enemies first, then slam into the Poisestone with a charged hit to put it down.\n![Wukong Fright 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nNow take one of the side paths to return to the large cave entrance, and look for a tunnel with some torches and a faint green light. The dark cave tunnel holds a green Wisp you can absorb to refill a bit of your Gourd, but beware, as the place is the perfect ambush spot.\"\n            - Following Text: \"Advance cautiously to spy a Poisestone and two Bladebones on some scaffolding awaiting your arrival. Use Cloudstep to ambush the weaker enemies first, then slam into the Poisestone with a charged hit to put it down.\n![Wukong Fright 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Fright_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense moment in *Black Myth: Wukong*, where the player character is approaching a scaffolding structure in a dimly lit area. An enemy, likely a Poisestone, is visible on the platform, preparing for combat. The environment features dry grass and rocky terrain, with a second enemy faintly visible in the background.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image highlights an upcoming combat encounter, emphasizing the need for strategic planning. It aligns with the preceding and following text, which advises players to use stealth and Cloudstep to ambush weaker enemies before engaging the Poisestone with a charged attack. This serves as a visual cue for players to prepare for the described ambush scenario."
+    "chunk_id": 230568981012,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Furnace_Valley_Walkthrough_%2892%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(92\\).png",
+    "position_desc": 50,
+    "img_above_text": "### Missable Transformation Spell\nAs we mentioned earlier, at the start of Furnace Valley there is a dead cart. You need to pull the string and exhaust the dialogue from the horse guai Ma Tianba before you defeat him in this fight. Otherwise, you will miss out on the Dark Thunder Transformation Spell. Once you've beaten the Keeper of the Flaming Mountains and the Yin-Yang Fish, return to the cart and pull the string to get the Transformation Spell.",
+    "img_below_text": "Ma Tianba uses a whip and has his own health bar that resembles a normal enemy's health bar. The fight is fairly straightforward in this first phase, but as soon as you've defeated the horse guai, the Keeper of the Flaming Mountains drops the Yin-Yang Fish into the water.\nThe giant creature soon emerges and will begin attacking. It has a variety of moves that you'll see it perform during the fight. But the main thing is now you should make use of all your spells and transformations that you saved from the first round.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Missable Transformation Spell\nAs we mentioned earlier, at the start of Furnace Valley there is a dead cart. You need to pull the string and exhaust the dialogue from the horse guai Ma Tianba before you defeat him in this fight. Otherwise, you will miss out on the Dark Thunder Transformation Spell. Once you've beaten the Keeper of the Flaming Mountains and the Yin-Yang Fish, return to the cart and pull the string to get the Transformation Spell.\"\n        - Following Text: \"Ma Tianba uses a whip and has his own health bar that resembles a normal enemy's health bar. The fight is fairly straightforward in this first phase, but as soon as you've defeated the horse guai, the Keeper of the Flaming Mountains drops the Yin-Yang Fish into the water.\nThe giant creature soon emerges and will begin attacking. It has a variety of moves that you'll see it perform during the fight. But the main thing is now you should make use of all your spells and transformations that you saved from the first round.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from the video game, likely showcasing the fight against the Keeper of the Flaming Mountains or the Yin-Yang Fish. A dynamic wave-like attack is being unleashed by a shadowy figure, while another character braces for impact or prepares to counter. The setting features a reflective water surface, misty skies, and ancient, temple-like structures in the background, emphasizing a mystical and dramatic atmosphere. This moment aligns with the guide's description of a challenging battle requiring strategic use of spells and transformations."
 }

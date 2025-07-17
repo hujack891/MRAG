@@ -1,28 +1,11 @@
 {
-    "chunk_id": 359945887715,
-    "source_file": "Non-Void.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg",
-    "alt_text": "Wukong Thunderclap 52.jpg",
-    "position_desc": 4,
-    "img_above_text": "Instead, watch his attacks carefully. His most basic attack will begin when he draws his arm in before lashing out with a straight jab with his long claws. Ignore the urge to retaliate, and instead wait a moment for him to follow-up with an incorporeal backhand followed by a blazing palm strike.\nYou'll have two options to counter this move: by dodging the third and final strike, you can use this time to capitalize on the end of his combo with Immobilize or Spirit Attacks to send him stumbling.",
-    "img_below_text": "Once you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.\n![Wukong Thunderclap 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Non-Void.md'.\n\n            Context:\n            - Preceding Text: \"Instead, watch his attacks carefully. His most basic attack will begin when he draws his arm in before lashing out with a straight jab with his long claws. Ignore the urge to retaliate, and instead wait a moment for him to follow-up with an incorporeal backhand followed by a blazing palm strike.\nYou'll have two options to counter this move: by dodging the third and final strike, you can use this time to capitalize on the end of his combo with Immobilize or Spirit Attacks to send him stumbling.\"\n            - Following Text: \"Once you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.\n![Wukong Thunderclap 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from a game, showing a character executing a powerful attack with fiery effects. The interface displays various combat options and items, such as \"Immobilize,\" \"Rock Solid,\" and \"Tiger Subduing Pellets.\" The context suggests that the image illustrates a moment where the player can counter an enemy's combo attack, specifically highlighting the use of defensive and offensive strategies to gain an advantage in battle."
+    "chunk_id": 117623450269,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg",
+    "alt_text": "Wukong RedLoong 16.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong RedLoong 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg)\nLook for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.",
+    "img_below_text": "For your best chance, we recommend swapping to the Pillar Stance, and unleashing a big charge attack when facing his back. With 2-3 Focus Points banked, you have a good chance of slamming your staff down right on his back and hitting one or more pots. Should you connect, you’ll deal a huge amount of damage to Red Loong in a single burst, causing an explosion in the process.\n![Wukong RedLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_RedLoong_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg)\nLook for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.\"\n        - Following Text: \"For your best chance, we recommend swapping to the Pillar Stance, and unleashing a big charge attack when facing his back. With 2-3 Focus Points banked, you have a good chance of slamming your staff down right on his back and hitting one or more pots. Should you connect, you’ll deal a huge amount of damage to Red Loong in a single burst, causing an explosion in the process.\n![Wukong RedLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_RedLoong_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character engaging the boss \"Red Loong.\" The dragon-like enemy is visible with glowing electric pots on its back, which are key targets for dealing significant damage. The preceding and following text suggests using heavy charge attacks in Pillar Stance to hit these pots, causing explosions and substantial damage to the boss. The HUD displays health bars, abilities, and combat options relevant to the encounter."
 }

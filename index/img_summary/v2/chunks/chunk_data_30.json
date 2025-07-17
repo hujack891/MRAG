@@ -1,28 +1,11 @@
 {
-    "chunk_id": 854026180464,
+    "chunk_id": 901585797472,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Flaming_Mountains_Awaken_Wine_Worm.jpg",
     "alt_text": "Flaming Mountains Awaken Wine Worm.jpg",
     "position_desc": 9,
     "img_above_text": "## Rakshasa Palace Awaken Wine Worm\nRakshasa Palace Awaken Wine Worm",
     "img_below_text": "Make your way to the edge of the lava lake in Rakshasa Palace and turn left to find a large temple carved into the cliff face. The Awaken Wine Worm is inside the temple along the back wall.\n## Bishui Cave Awaken Wine Worm",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Rakshasa Palace Awaken Wine Worm\nRakshasa Palace Awaken Wine Worm\"\n            - Following Text: \"Make your way to the edge of the lava lake in Rakshasa Palace and turn left to find a large temple carved into the cliff face. The Awaken Wine Worm is inside the temple along the back wall.\n## Bishui Cave Awaken Wine Worm\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Flaming_Mountains_Awaken_Wine_Worm.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in a dark, atmospheric setting, standing near ornate green barrels illuminated by a golden light. The character wields a flaming staff, suggesting a mystical or combat-oriented role. Based on the context, this scene is likely part of the Rakshasa Palace area, where players are tasked with locating the Awaken Wine Worm, possibly inside a temple near a lava lake. The image serves to visually represent the environment and key elements tied to this quest."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Rakshasa Palace Awaken Wine Worm\nRakshasa Palace Awaken Wine Worm\"\n        - Following Text: \"Make your way to the edge of the lava lake in Rakshasa Palace and turn left to find a large temple carved into the cliff face. The Awaken Wine Worm is inside the temple along the back wall.\n## Bishui Cave Awaken Wine Worm\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character holding a flaming weapon, standing in a dimly lit area near large green containers emitting a golden glow. This scene is likely part of the \"Rakshasa Palace Awaken Wine Worm\" section of the game, where the player navigates towards the temple carved into the cliff face to encounter the Awaken Wine Worm. The glowing containers may signify an important interactive element or objective tied to this quest."
 }

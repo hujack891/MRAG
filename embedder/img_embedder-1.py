@@ -41,6 +41,7 @@ class SummaryData:
     summary_promot: str      # 
     img_summary: str         # 
     embedding_prompt: str    # 图片总结的prompt
+    generate_prompt: str     # 检索到该chunk后，提供给AI生成内容的信息
     
 
     def to_serializable_dict(self) -> Dict[str, Any]:
@@ -52,7 +53,8 @@ class SummaryData:
             "position_desc": self.position_desc,
             "summary_promot": self.summary_promot,
             "img_summary": self.img_summary,
-            "embedding_prompt": self.embedding_prompt
+            "embedding_prompt": self.embedding_prompt,
+            "generate_prompt": self.generate_prompt
         }
 
 def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
@@ -76,10 +78,14 @@ def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
             data = json.load(file)
             chunk_data = SummaryData(
                 chunk_id=data.get("chunk_id", 0),
+                source_file=data.get("source_file", 0),
                 img_url=data.get("img_url", ""),
+                alt_text=data.get("alt_text", 0),
+                position_desc=data.get("position_desc", 0),
                 summary_promot=data.get("summary_promot", ""),
                 img_summary=data.get("img_summary", ""),
-                embedding_prompt=data.get("embedding_prompt", "")
+                embedding_prompt='',
+                generate_prompt=''
             )
             all_chunk_data.append(chunk_data)
     return all_chunk_data
@@ -90,10 +96,13 @@ def main():
 
     # 构建嵌入提示词
     for i in range(len(all_chunk_data)):
-        prompt = (
+        generate_prompt = (
+            f"This is an image from the file '{all_chunk_data[i].source_file}', "
+            f"This is the {all_chunk_data[i].position_desc}th image in the document, "
             f"The summary of this picture is:{all_chunk_data[i].img_summary}"
         )
-        all_chunk_data[i].embedding_prompt = prompt
+        all_chunk_data[i].embedding_prompt = all_chunk_data[i].img_summary
+        all_chunk_data[i].generate_prompt = generate_prompt
 
     # 创建索引库
     textembedding3largeconfig = TextEmbedding3LargeConfig()

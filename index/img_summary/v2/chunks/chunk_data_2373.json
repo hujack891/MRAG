@@ -1,28 +1,11 @@
 {
-    "chunk_id": 654760006389,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg",
-    "alt_text": "Wukong Pagoda 102.jpg",
-    "position_desc": 98,
-    "img_above_text": "![Wukong Pagoda 101.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_101.jpg)\nThe lower left path leads to another tentacle abomination you'll have to deal with carefully to avoid his lashing an boulder slam, and then head into a tunnel on the right.",
-    "img_below_text": "Clear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.\n![Wukong Pagoda 103.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 98 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 101.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_101.jpg)\nThe lower left path leads to another tentacle abomination you'll have to deal with carefully to avoid his lashing an boulder slam, and then head into a tunnel on the right.\"\n            - Following Text: \"Clear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.\n![Wukong Pagoda 103.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, narrow gorge where the player character, Wukong, is engaged in combat with an enemy. This scene follows a confrontation with a tentacle abomination and precedes an encounter with Frozen Corpses and a Yaksha Patroller. The image serves to illustrate the challenging and hostile environment the player must navigate, emphasizing the continuous combat and strategic progression through the game's levels."
+    "chunk_id": 586607295068,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_Snowhill_28.jpg",
+    "alt_text": "Wukong Snowhill 28.jpg",
+    "position_desc": 27,
+    "img_above_text": "![Wukong Snowhill 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Snowhill_27.jpg)\nTake the path straight first, and you'll find a supercharged Yaksha Patroller surrounded by a horde of Frozen Corpses, making this fight a lot harder than usual. Don't worry about conserving your power here -- let loose with your Pluck of Many and Spirit Transformations spells to even the odds as much as you can so you can take down all the extra enemies and then focus on whittling down the Patroller's health.",
+    "img_below_text": "Once he dies, he'll drop the Mountain Patroller Spirit for you to absorb and get all your gourd's health charges back. As an added bonus, you can inspect this other sealed building to find a **Treasure Chest** on the left side, which usually contains a Blood of the Iron Bull and other items.\nAside from a Ginsengling hiding in the ruins nearby, that's it for this route, so return back to the previous platform and head down the sloping path.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Snowhill_27.jpg)\nTake the path straight first, and you'll find a supercharged Yaksha Patroller surrounded by a horde of Frozen Corpses, making this fight a lot harder than usual. Don't worry about conserving your power here -- let loose with your Pluck of Many and Spirit Transformations spells to even the odds as much as you can so you can take down all the extra enemies and then focus on whittling down the Patroller's health.\"\n        - Following Text: \"Once he dies, he'll drop the Mountain Patroller Spirit for you to absorb and get all your gourd's health charges back. As an added bonus, you can inspect this other sealed building to find a **Treasure Chest** on the left side, which usually contains a Blood of the Iron Bull and other items.\nAside from a Ginsengling hiding in the ruins nearby, that's it for this route, so return back to the previous platform and head down the sloping path.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy walkway in *Black Myth: Wukong*, with the player character approaching a sealed building. A red dotted circle highlights a **Treasure Chest** located on the left side of the structure. This chest is mentioned in the guide as containing valuable items, such as Blood of the Iron Bull. The scene follows a challenging battle against a Yaksha Patroller and Frozen Corpses, and serves as a reward area before progressing further in the game."
 }

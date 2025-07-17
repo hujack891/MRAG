@@ -1,28 +1,11 @@
 {
-    "chunk_id": 91057063181,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg",
-    "alt_text": "Wukong MadTiger 20.jpg",
-    "position_desc": 19,
-    "img_above_text": "![Wukong MadTiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg)\nAnd if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.",
-    "img_below_text": "If you don’t dodge as he lands, he’ll send you into the air, grab you, and slam you repeatedly into the ground — which usually ends in instant death if you have anything less than full health.\n![Wukong MadTiger 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_MadTiger_18.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg)\nAnd if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.\"\n            - Following Text: \"If you don’t dodge as he lands, he’ll send you into the air, grab you, and slam you repeatedly into the ground — which usually ends in instant death if you have anything less than full health.\n![Wukong MadTiger 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_MadTiger_18.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat moment in *Black Myth: Wukong*, where the protagonist, Wukong, engages in a close encounter with the Mad Tiger boss. The scene highlights the ferocity of the battle, with visible damage and tension as Wukong counters the boss's deadly attacks. This moment aligns with the narrative of the Mad Tiger's unpredictable and devastating moves, including its retaliatory grab and uppercut, as described in the preceding and following text."
+    "chunk_id": 44221626505,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Thunderclap_61.jpg",
+    "alt_text": "Wukong Thunderclap 61.jpg",
+    "position_desc": 61,
+    "img_above_text": "![Wukong Thunderclap 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Thunderclap_60.jpg)\nTry to draw in both if using the Ashen Slumber to detonate yourself to hit them both, and keep one of the overlords between you and his friend at all times to limit how easily the far one can reach you with their swipes.",
+    "img_below_text": "When they've been defeated, rest up at the Mahavira Hall Shrine, but be sure to head back down the stairs to the main floor. One side has a sealed door with a lone Thunder Rhino Master and a small pot with a green Wisp in it just to the side\n![Wukong Thunderclap 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Thunderclap_62.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Thunderclap_60.jpg)\nTry to draw in both if using the Ashen Slumber to detonate yourself to hit them both, and keep one of the overlords between you and his friend at all times to limit how easily the far one can reach you with their swipes.\"\n        - Following Text: \"When they've been defeated, rest up at the Mahavira Hall Shrine, but be sure to head back down the stairs to the main floor. One side has a sealed door with a lone Thunder Rhino Master and a small pot with a green Wisp in it just to the side\n![Wukong Thunderclap 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Thunderclap_62.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character in *Black Myth: Wukong* approaching a large, ornate shrine entrance in a snowy environment. The preceding text suggests a combat strategy involving the \"Ashen Slumber\" ability to defeat two overlords, while the following text mentions resting at the Mahavira Hall Shrine after defeating them. The image likely represents the approach to the shrine after the battle, highlighting the next objective in the walkthrough."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 51825452475,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg",
-    "alt_text": "Wukong MiddleHollow 56.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong MiddleHollow 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_MiddleHollow_55.jpg)\nIf you see the hand curl into a fist before raising up, be ready for it to slam down on the ground nearby and claw into the ground, before scraping along the a length of the arena in a quick dash.",
-    "img_below_text": "Doing so will often cause the hand to become immobile for a few moments, so be ready to turn around and chase it to follow up some a few attacks.\n![Wukong MiddleHollow 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_MiddleHollow_57.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_MiddleHollow_55.jpg)\nIf you see the hand curl into a fist before raising up, be ready for it to slam down on the ground nearby and claw into the ground, before scraping along the a length of the arena in a quick dash.\"\n            - Following Text: \"Doing so will often cause the hand to become immobile for a few moments, so be ready to turn around and chase it to follow up some a few attacks.\n![Wukong MiddleHollow 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_MiddleHollow_57.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showcasing a boss encounter with \"Buddha's Right Hand.\" The massive, grotesque hand is positioned in a dimly lit cavern, with the player character facing it. The preceding text suggests the hand performs aggressive moves, such as slamming and clawing through the arena, while the following text indicates moments of vulnerability after these attacks, providing opportunities for counterattacks. The image emphasizes the tense and strategic nature of the battle."
+    "chunk_id": 188579659076,
+    "source_file": "Captain_Kalpa-Wave.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Longevity_21.jpg",
+    "alt_text": "Wukong Longevity 21.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Longevity 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Longevity_26.jpg)\nBe especially careful if Captain Kalpa-Wave starts to jump up and down repeatedly. On the third jump, all pools of blood will explode into explosive lotus flowers, meaning you'll need to either be on the move, or use your Pillar Stance to rise above the attacks.",
+    "img_below_text": "The good news is Kalpa-Wave is extremely susceptible to getting knocked down. So long as you build up some focus points with light attacks where possible, you can use your Pillar Stance heavy attack with three focus points built up to send the boss crashing to the ground -- which is the perfect time to Immobilize him on the ground and go wild with Spirit Attacks and Transformations.\n![Wukong Longevity 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Longevity_27.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Longevity_26.jpg)\nBe especially careful if Captain Kalpa-Wave starts to jump up and down repeatedly. On the third jump, all pools of blood will explode into explosive lotus flowers, meaning you'll need to either be on the move, or use your Pillar Stance to rise above the attacks.\"\n        - Following Text: \"The good news is Kalpa-Wave is extremely susceptible to getting knocked down. So long as you build up some focus points with light attacks where possible, you can use your Pillar Stance heavy attack with three focus points built up to send the boss crashing to the ground -- which is the perfect time to Immobilize him on the ground and go wild with Spirit Attacks and Transformations.\n![Wukong Longevity 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Longevity_27.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against Captain Kalpa-Wave, set in a snowy, mountainous environment. The player character, Wukong, is positioned in a defensive stance, facing the boss, which appears to be a large, glowing, monstrous creature. The preceding text warns about the boss's explosive lotus flower attack triggered by repeated jumps, while the following text highlights the boss's vulnerability to being knocked down using the Pillar Stance heavy attack, creating opportunities for further damage. The image visually supports this section of the guide by showcasing the encounter and the environment."
 }

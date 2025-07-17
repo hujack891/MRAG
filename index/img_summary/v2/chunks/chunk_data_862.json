@@ -1,28 +1,11 @@
 {
-    "chunk_id": 310849530660,
-    "source_file": "Daoist_Mi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_PurpleCloud_32.jpg",
-    "alt_text": "Wukong PurpleCloud 32.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find the Daoist Mi\nThe Daoist Mi is an initially non-hostile NPC that is found while exploring the secret area in Purple Cloud Mountain -- which you can activate by defeating the Venom Daoist twice both in the Webbed Hollow and Temple of Yellow Flowers.",
-    "img_below_text": "After resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.\n![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find the Daoist Mi\nThe Daoist Mi is an initially non-hostile NPC that is found while exploring the secret area in Purple Cloud Mountain -- which you can activate by defeating the Venom Daoist twice both in the Webbed Hollow and Temple of Yellow Flowers.\"\n            - Following Text: \"After resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.\n![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_PurpleCloud_32.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player-controlled character in \"Black Myth: Wukong\" approaching a small bridge in a serene, autumnal environment. The scene features lush foliage, rocky terrain, and a traditional Chinese architectural structure in the background, suggesting the setting is part of the Purple Cloud Mountain area.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the path leading to the small village near the Petalfall Hamlet Shrine, as described in the context. It visually guides players on their journey to the overrun village, emphasizing the atmospheric design and the exploration aspect of the game."
+    "chunk_id": 894811581369,
+    "source_file": "Elder_Amourworm.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg",
+    "alt_text": "Wukong MiddleHollow 8.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong MiddleHollow 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_7.jpg)\nThe Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.",
+    "img_below_text": "If the sticky webs weren't bad enough, its other main trick is the ability to shoot out globs of poison, that will stay on the ground for a short duration even if it misses you. The Elder Amourworm can shoot out these poison globs when facing you, but also when you try to attack from its back, making it dangerous no matter which direction you fight from.\n![Wukong MiddleHollow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_10.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_7.jpg)\nThe Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.\"\n        - Following Text: \"If the sticky webs weren't bad enough, its other main trick is the ability to shoot out globs of poison, that will stay on the ground for a short duration even if it misses you. The Elder Amourworm can shoot out these poison globs when facing you, but also when you try to attack from its back, making it dangerous no matter which direction you fight from.\n![Wukong MiddleHollow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_10.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from *Black Myth: Wukong* featuring the Elder Amourworm, a large, grotesque enemy. The creature is shown releasing green poison globs, which align with its described ability to attack both from the front and rear, creating hazardous zones on the ground. The environment is dark and eerie, filled with skeletal remains and web-like structures, emphasizing the creature's dangerous nature and the challenging fight mechanics. The player's health and ability bars are visible, indicating active gameplay."
 }

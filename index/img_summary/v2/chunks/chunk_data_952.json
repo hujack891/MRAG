@@ -1,28 +1,11 @@
 {
-    "chunk_id": 194361033390,
-    "source_file": "Emerald-Armed_Mantis.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png",
-    "alt_text": "Foothills Walkthrough \\(95\\).png",
-    "position_desc": 5,
-    "img_above_text": "![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.",
-    "img_below_text": "It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Emerald-Armed_Mantis.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.\"\n            - Following Text: \"It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Emerald-Armed Mantis, a menacing boss character from *Black Myth: Wukong*. It showcases the mantis poised with its sharp, blade-like arms, emphasizing its aggressive stance and readiness for combat. The preceding text describes its initial attack pattern, involving slashing and spinning movements, while the following text hints at a significant shift in the fight when the mantis sharpens its blades and enhances them with a red liquid. This image likely represents the mantis during its initial phase of combat before the transformation occurs."
+    "chunk_id": 481722301373,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Field_Fire_Walkthrough_%2843%29.png",
+    "alt_text": "Field Fire Walkthrough \\(43\\).png",
+    "position_desc": 36,
+    "img_above_text": "After the conversation and the cutscene, you can then approach the frozen-over entrance and break through to head inside.\nThis doorway will take you to the chapter's secret area called the Bishui Cave. We'd recommend completing this before you finish up the chapter. But there's one last miniboss to fight before you teleport to the secret area.",
+    "img_below_text": "As you head inside the cave, go down the slope. You'll see a large structure in the center of the room that's being hit by the light. This is what will teleport you to Bishui Cave, but first, you'll want to look to the left. Here you can find the fifth of the frog bosses in the game, called Baw-Lang-Lang.\n### Yaoguai Chief - Baw-Lang-Lang",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After the conversation and the cutscene, you can then approach the frozen-over entrance and break through to head inside.\nThis doorway will take you to the chapter's secret area called the Bishui Cave. We'd recommend completing this before you finish up the chapter. But there's one last miniboss to fight before you teleport to the secret area.\"\n        - Following Text: \"As you head inside the cave, go down the slope. You'll see a large structure in the center of the room that's being hit by the light. This is what will teleport you to Bishui Cave, but first, you'll want to look to the left. Here you can find the fifth of the frog bosses in the game, called Baw-Lang-Lang.\n### Yaoguai Chief - Baw-Lang-Lang\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit cave interior with a large, ornate structure illuminated by beams of light at its center. This structure appears to be the teleportation device mentioned in the walkthrough, which transports players to the Bishui Cave secret area. The surrounding environment includes rocky formations and smaller architectural elements, contributing to the mysterious and atmospheric setting described in the guide."
 }

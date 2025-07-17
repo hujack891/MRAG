@@ -1,28 +1,11 @@
 {
-    "chunk_id": 929225224134,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
-    "alt_text": "Wukong Pagoda 93.jpg",
-    "position_desc": 90,
-    "img_above_text": "## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.",
-    "img_below_text": "From the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\nOutside the Wheel Luojia Fragrant Vine",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 90 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\"\n            - Following Text: \"From the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\nOutside the Wheel Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game walkthrough, showing a character standing in a cave pool near a lone tree. An arrow points towards the tree, indicating the location of the Luojia Fragrant Vine, a collectible item mentioned in the following text. This setting is part of the \"Outside the Wheel\" area in the Pagoda Realm, where players can explore branching paths and gather resources like the Jade Lotus and Luojia Fragrant Vine. The image serves as a visual guide for players to locate and collect these items during their journey."
+    "chunk_id": 407002423916,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Snowhill_20.jpg",
+    "alt_text": "Wukong Snowhill 20.jpg",
+    "position_desc": 19,
+    "img_above_text": "Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.",
+    "img_below_text": "When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.\"\n        - Following Text: \"When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a snowy environment, wielding a glowing red weapon, likely after a confrontation with the Macaque Chief. The HUD shows various ability icons, health/stamina bars, and \"Will\" currency at 1600, suggesting progression in the game. This scene aligns with the preceding and following text, which describes strategies for battling the Macaque Chief and notes his retreat after being defeated. The image likely represents the aftermath of the encounter, as the player prepares to pursue the boss further."
 }

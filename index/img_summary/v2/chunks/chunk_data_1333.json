@@ -1,28 +1,11 @@
 {
-    "chunk_id": 416526956651,
-    "source_file": "Fungiwoman.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_YellowFlower_39.jpg",
-    "alt_text": "Wukong YellowFlower 39.jpg",
-    "position_desc": 1,
-    "img_above_text": "The Fungiwoman behaves almost identically to the Fungiman you fight fought in the Pagoda Realm (and a few times after), only they'll have a bit more health, and deal a bit more damage, but you should know what to expect for most of their attacks. Though they have a boss healthbar, they aren't tracked in your journal for Yaoguai Chief entries.\nWhen they rise out of their hiding spot, they'll flood the immediate area with poison, and can do so multiple times, so always be ready to back off when you see noxious fumes billowing up and swap to Thrust Stance.",
-    "img_below_text": "The Fungiwoman can also expel toxic strands from its side to seek you out, but can thankfully by swept aside with a staff spin. The same can also happen if they slam their staff down, creating geysers that spawn additional projectiles.\n![Wukong YellowFlower 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_YellowFlower_40.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fungiwoman.md'.\n\n            Context:\n            - Preceding Text: \"The Fungiwoman behaves almost identically to the Fungiman you fight fought in the Pagoda Realm (and a few times after), only they'll have a bit more health, and deal a bit more damage, but you should know what to expect for most of their attacks. Though they have a boss healthbar, they aren't tracked in your journal for Yaoguai Chief entries.\nWhen they rise out of their hiding spot, they'll flood the immediate area with poison, and can do so multiple times, so always be ready to back off when you see noxious fumes billowing up and swap to Thrust Stance.\"\n            - Following Text: \"The Fungiwoman can also expel toxic strands from its side to seek you out, but can thankfully by swept aside with a staff spin. The same can also happen if they slam their staff down, creating geysers that spawn additional projectiles.\n![Wukong YellowFlower 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_YellowFlower_40.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_YellowFlower_39.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows a player character, likely Wukong, facing off against the Fungiwoman boss in a lush, forested environment. The Fungiwoman is partially obscured by glowing toxic fumes emanating from its position near a large tree. The boss health bar labeled \"Fungiwoman\" is visible at the bottom of the screen, alongside the player's abilities and health indicators.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a moment during the battle with the Fungiwoman, emphasizing its toxic attack mechanics described in the text. The glowing fumes align with the preceding text's mention of the boss flooding the area with poison upon emerging. The serene yet dangerous setting highlights the contrast between the natural beauty of the environment and the peril posed by the Fungiwoman's poisonous abilities. This visual serves to immerse the player in the encounter and reinforce the need for strategic positioning and stance switching, as discussed in the context."
+    "chunk_id": 926845196616,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg",
+    "alt_text": "Wukong Brook 6.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.",
+    "img_below_text": "This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\"\n        - Following Text: \"This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy landscape with a character standing near a serene, reflective body of water surrounded by trees and rocky terrain. The character appears to be holding a staff-like weapon and is interacting with the environment, as indicated by the \"Gentian x2\" text on the screen, suggesting resource collection. This scene likely ties into the preceding context of warming up a character with the Circle of Fire Spell and the following clue about locating the secret Melon Field near the Brook of Bliss."
 }

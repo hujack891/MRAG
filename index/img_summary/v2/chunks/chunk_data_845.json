@@ -1,28 +1,11 @@
 {
-    "chunk_id": 818590846093,
-    "source_file": "Curios.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg",
-    "alt_text": "Black-myth-wukong-Celestial-Birthstone-Fragment.jpg",
-    "position_desc": 37,
-    "img_above_text": "![Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg)| Daoist's Basket of Fire and Water| Epic | Moderately increases the attack power of all Burn-inflicting and Chill-inflicting transformations | Found in Flaming Mountains upon defeating Bishui Golden-Eyed Beast| Daoist's Basket of Fire and Water\n![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb",
-    "img_below_text": "You can also see a fantastic video guide from \"akhafasu\" on YouTube here.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 37 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg)| Daoist's Basket of Fire and Water| Epic | Moderately increases the attack power of all Burn-inflicting and Chill-inflicting transformations | Found in Flaming Mountains upon defeating Bishui Golden-Eyed Beast| Daoist's Basket of Fire and Water\n![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb\"\n            - Following Text: \"You can also see a fantastic video guide from \"akhafasu\" on YouTube here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image appears to depict an in-game item from *Black Myth: Wukong*, likely a collectible or equipment piece. Based on the context, it is part of a list of items with unique abilities and effects, such as enhancing attack power or defense in specific scenarios. The preceding text describes similar items with epic rarity and specific uses, suggesting this item serves a comparable purpose within the game. Its exact role or name is not explicitly mentioned in the provided text, but it is likely another artifact or tool with strategic value in gameplay."
+    "chunk_id": 142631799256,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
+    "alt_text": "Wukong Sandgate 25.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rewards: Earth Wolf Spirit\n## Where to Find the Earth Wolf",
+    "img_below_text": "The Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Rewards: Earth Wolf Spirit\n## Where to Find the Earth Wolf\"\n        - Following Text: \"The Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showing a combat encounter near a large gate in Sandgate Village, part of Chapter 2's Yellow Wind Ridge. The player character, partially invisible, wields a glowing weapon while evading or attacking amidst a barrage of arrows fired by enemy archers guarding the gate. This scene highlights the challenging approach to the miniboss area described in the walkthrough."
 }

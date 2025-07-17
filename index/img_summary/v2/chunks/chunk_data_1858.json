@@ -1,28 +1,11 @@
 {
-    "chunk_id": 960948259654,
-    "source_file": "Luojia_Fragrant_Vine_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Pagoda_Luojia_Fragrant_Vine.jpg",
-    "alt_text": "Pagoda Luojia Fragrant Vine.jpg",
-    "position_desc": 4,
-    "img_above_text": "### Outside the Wheel Luojia Fragrant Vine\nOutside the Wheel Luojia Fragrant Vine",
-    "img_below_text": "The Outside the Wheel Luojia Fragrant Vine is in the cave you will pass through after defeating Captain Wise-Voice. Follow the path until you reach a room with a large pool of water in the center. The vine will be draped across the branches of a tree on the left side of the room.\n### North Shore of the Bitter Lake Luojia Fragrant Vine",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Outside the Wheel Luojia Fragrant Vine\nOutside the Wheel Luojia Fragrant Vine\"\n            - Following Text: \"The Outside the Wheel Luojia Fragrant Vine is in the cave you will pass through after defeating Captain Wise-Voice. Follow the path until you reach a room with a large pool of water in the center. The vine will be draped across the branches of a tree on the left side of the room.\n### North Shore of the Bitter Lake Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Pagoda_Luojia_Fragrant_Vine.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing before the \"Outside the Wheel Luojia Fragrant Vine,\" a glowing, vine-covered tree located in a cave setting. This vine is a notable environmental feature found after defeating Captain Wise-Voice and reaching a room with a large water pool. It serves as a key visual marker for players navigating the area in the game."
+    "chunk_id": 468335256364,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Thunderclap_10.jpg",
+    "alt_text": "Wukong Thunderclap 10.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Thunderclap 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Thunderclap_9.jpg)\nTake the first left to find a quicker path to the Main Plaza that's a little less guarded, as there's only a Supporter Monk patrolling the path to where a lone Overseeing Monk guarding a smaller gate.",
+    "img_below_text": "If you take the far right path, you can find another green Wisp in the farthest corner close to the entrance gate, and another path leading to a side area.\nTake out a lone Censor Holder as you follow the stone path to a long sloping corridor with a green Wisp to absorb at the bottom.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Thunderclap_9.jpg)\nTake the first left to find a quicker path to the Main Plaza that's a little less guarded, as there's only a Supporter Monk patrolling the path to where a lone Overseeing Monk guarding a smaller gate.\"\n        - Following Text: \"If you take the far right path, you can find another green Wisp in the farthest corner close to the entrance gate, and another path leading to a side area.\nTake out a lone Censor Holder as you follow the stone path to a long sloping corridor with a green Wisp to absorb at the bottom.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character navigating a snowy environment with a spear in hand. A green Wisp, highlighted by a red circle, is visible in the distance, indicating an interactable or collectible item. This aligns with the walkthrough's guidance on exploring paths to find Wisps and alternate routes, such as the less-guarded path to the Main Plaza or side areas."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 871265659682,
-    "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Bitter_57.jpg",
-    "alt_text": "Wukong Bitter 57.jpg",
-    "position_desc": 89,
-    "img_above_text": "As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.",
-    "img_below_text": "Head left from the pavilion, and you'll find one such large crowned Buddha statue between two columns that you can interact with and pray to.\n![Wukong Bitter 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Bitter_58.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 89 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.\"\n            - Following Text: \"Head left from the pavilion, and you'll find one such large crowned Buddha statue between two columns that you can interact with and pray to.\n![Wukong Bitter 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Bitter_58.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Bitter_57.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist approaching a large Buddha statue with a prominent belly button, set in a snowy, mountainous environment. The red arrow highlights the statue, which is likely significant to the narrative, as it connects to the monk's earlier hint about worshiping \"four Buddhas\" to progress. This scene sets the stage for interacting with the statue as part of the gameplay or story progression."
+    "chunk_id": 15890779947,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+    "alt_text": "WukongHeader.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Black Myth: Wukong Guide",
+    "img_below_text": "**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Black Myth: Wukong Guide\"\n        - Following Text: \"**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image serves as a visual introduction to the \"Black Myth: Wukong\" wiki guide, highlighting the game's detailed character design and aesthetic. It is part of a walkthrough or guide for the game, which is set to release on August 20, 2024, for PC and PS5 platforms."
 }

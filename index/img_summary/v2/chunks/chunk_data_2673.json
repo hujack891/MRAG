@@ -1,28 +1,11 @@
 {
-    "chunk_id": 693574926001,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg",
-    "alt_text": "Wukong Snowhill 19.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!",
-    "img_below_text": "Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\"\n            - Following Text: \"Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment in a battle against the Macaque Chief in a snowy environment. The player character is engaged in combat with the Macaque Chief, who is preparing to attack with a projectile slice using its tail. The context suggests that the Macaque Chief uses deceptive gestures to lure players before launching an upward slash. Additionally, players are warned about the Chief's ability to counter with a poison-inducing attack if they focus too much on its face. The image serves to illustrate the challenging and strategic nature of this encounter, highlighting the need for players to be cautious and ready to dodge or counterattack effectively."
+    "chunk_id": 564732623706,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg",
+    "alt_text": "Wukong Brook 11.jpg",
+    "position_desc": 50,
+    "img_above_text": "![Wukong Brook 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Brook_9.jpg)\nOnce you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.",
+    "img_below_text": "In fact, this cliff edge hides a secret, and you can carefully descend to find a secret cave that's devoid of opponents for now, but you can at least activate the Melon Field Shrine for now.\n![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Brook_9.jpg)\nOnce you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.\"\n        - Following Text: \"In fact, this cliff edge hides a secret, and you can carefully descend to find a secret cave that's devoid of opponents for now, but you can at least activate the Melon Field Shrine for now.\n![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character, Wukong, standing on a snowy cliff edge in *Black Myth: Wukong*. The scene highlights a precarious area where players need to be cautious of hidden threats, such as a Frozen Corpse concealed in an overturned bell. This cliff edge also serves as a gateway to a secret cave below, where players can activate the Melon Field Shrine without encountering enemies initially."
 }

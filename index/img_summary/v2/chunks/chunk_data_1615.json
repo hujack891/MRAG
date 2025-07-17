@@ -1,28 +1,11 @@
 {
-    "chunk_id": 620856977839,
-    "source_file": "How_to_Unlock_the_Chapter_1_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Chapter_One_Secret_Area_%282%29.png",
-    "alt_text": "Chapter One Secret Area \\(2\\).png",
-    "position_desc": 11,
-    "img_above_text": "Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1",
-    "img_below_text": "Once you've rung the three bells, you'll be automatically transported to the Secret: Ancient Guanyin Temple. Go up the stairs and there will be a Keeper's Shrine for you to interact with. You can then proceed, where you can take on Elder Jinchi the secret boss of the area.\n![Chapter One Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Chapter_One_Secret_Area_%289%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'How_to_Unlock_the_Chapter_1_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1\"\n            - Following Text: \"Once you've rung the three bells, you'll be automatically transported to the Secret: Ancient Guanyin Temple. Go up the stairs and there will be a Keeper's Shrine for you to interact with. You can then proceed, where you can take on Elder Jinchi the secret boss of the area.\n![Chapter One Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Chapter_One_Secret_Area_%289%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Chapter_One_Secret_Area_%282%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing before an intricately designed bell shrine in a forested area, with the prompt \"E - Ring the Bell\" visible on-screen. This scene is part of the process to unlock the Secret Area in Chapter 1 of *Black Myth: Wukong*. Ringing this bell, along with two others, triggers the player's automatic transportation to the Ancient Guanyin Temple, where they can interact with the Keeper's Shrine and face the secret boss, Elder Jinchi."
+    "chunk_id": 742083744698,
+    "source_file": "Key_Items.md",
+    "img_url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
+    "alt_text": "Wireless Controller",
+    "position_desc": 25,
+    "img_above_text": "Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now",
+    "img_below_text": "### Black Myth: Wukong Wireless Controller\n0",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now\"\n        - Following Text: \"### Black Myth: Wukong Wireless Controller\n0\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a custom-designed wireless gaming controller, likely themed around the game *Black Myth: Wukong*. It features intricate artwork with red accents and comes with a USB adapter for connectivity. The controller is highlighted in the context of gaming accessories, as mentioned in the surrounding text."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 525968448368,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg",
-    "alt_text": "Wukong Martial 6.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)\nWhen this boss chooses to close the distance on you, he'll employ some deceitful moves, like tossing his chakram to the side of your position, making you think he's going to miss, or tossing it in an arc. In reality, he'll dash up to it and then grab it to swing in a large arc toward your position, creating a second chakram for a two-hit combo.",
-    "img_below_text": "He can also send his chakram spinning along the ground to slice past you. Sometimes he'll just use it to \"walk the dog\" as it slides at you and then back to him, but that's not all. While you're distracted, he can also follow up with a spinning kick before getting his weapon back.\n![Wukong Martial 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Martial_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)\nWhen this boss chooses to close the distance on you, he'll employ some deceitful moves, like tossing his chakram to the side of your position, making you think he's going to miss, or tossing it in an arc. In reality, he'll dash up to it and then grab it to swing in a large arc toward your position, creating a second chakram for a two-hit combo.\"\n            - Following Text: \"He can also send his chakram spinning along the ground to slice past you. Sometimes he'll just use it to \"walk the dog\" as it slides at you and then back to him, but that's not all. While you're distracted, he can also follow up with a spinning kick before getting his weapon back.\n![Wukong Martial 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Martial_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts a tense moment in a boss fight against the \"Green-Capped Martialist\" in *Black Myth: Wukong*. The boss is mid-attack, hurling a glowing chakram toward the player character, who is crouched and preparing to evade. The environment is a dimly lit, rocky arena, and the boss's health bar is visible, along with the phrase, \"Kindness is useless if you don't have wisdom,\" adding to the narrative tone.\n\n2. **Narrative Role**: This image highlights the Green-Capped Martialist's deceptive and dynamic combat style, as described in the preceding and following text. The chakram attack shown here exemplifies the boss's ability to manipulate the weapon for multi-hit combos and surprise follow-ups, emphasizing the need for players to stay vigilant and adapt to unpredictable moves."
+    "chunk_id": 738179102561,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Chapter_2_Secret_Area_%289%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(9\\).png",
+    "position_desc": 10,
+    "img_above_text": "## How to Find the Boar After the Crouching Tiger Temple\nThankfully, it's not too hard to find the Yellow-Robed Squire again but you'll need to have beaten the First Prince of Flowing Sands and grabbed the Arhat Gold Piece before you can continue. When you've met these conditions, he returns to the area where you first found him. This time, however, he won't be sitting on the rock.",
+    "img_below_text": "Instead, look to the slope on the right when you first enter the area, to see him standing waiting. Approach him, and he won't be too happy about you having the gold piece, sparking a duel between the two of you.\n![Chapter 2 Secret Area \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Chapter_2_Secret_Area_%2810%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## How to Find the Boar After the Crouching Tiger Temple\nThankfully, it's not too hard to find the Yellow-Robed Squire again but you'll need to have beaten the First Prince of Flowing Sands and grabbed the Arhat Gold Piece before you can continue. When you've met these conditions, he returns to the area where you first found him. This time, however, he won't be sitting on the rock.\"\n        - Following Text: \"Instead, look to the slope on the right when you first enter the area, to see him standing waiting. Approach him, and he won't be too happy about you having the gold piece, sparking a duel between the two of you.\n![Chapter 2 Secret Area \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Chapter_2_Secret_Area_%2810%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game *Black Myth: Wukong*, showing the player character engaged in a fiery battle against a large, grotesque enemy in a rugged, temple-like environment. This moment likely represents a key confrontation tied to the narrative progression described in the guide, involving the Yellow-Robed Squire and the acquisition of the Arhat Gold Piece."
 }

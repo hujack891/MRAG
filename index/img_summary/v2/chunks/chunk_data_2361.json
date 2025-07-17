@@ -1,28 +1,11 @@
 {
-    "chunk_id": 309049759867,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg",
-    "alt_text": "Wukong Pagoda 89.jpg",
-    "position_desc": 86,
-    "img_above_text": "Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).",
-    "img_below_text": "With a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.\n![Wukong Pagoda 90.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Pagoda_90.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 86 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).\"\n            - Following Text: \"With a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.\n![Wukong Pagoda 90.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Pagoda_90.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense moment in the game \"Black Myth: Wukong,\" where the player character is seen using the Pillar Stance to avoid a massive, damaging explosion on the ground. The scene is filled with vibrant red and orange colors, indicating the imminent blast and the criss-crossing lines of energy. This visual represents the critical gameplay mechanic of dodging and timing to survive the powerful attack and continue the battle against the construct."
+    "chunk_id": 320223236669,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Snowhill_8.jpg",
+    "alt_text": "Wukong Snowhill 8.jpg",
+    "position_desc": 7,
+    "img_above_text": "As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.",
+    "img_below_text": "Luckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.\n![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.\"\n        - Following Text: \"Luckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.\n![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a snowy environment from the game *Black Myth: Wukong*. The player character, Wukong, is engaged in a fight with a Frozen Corpse wielding a spiked mace. The setting includes snow-covered terrain and a traditional Chinese-style building in the background. The UI shows health, abilities, and a notification that a \"New Lesser Yaoguai Anecdote\" has been recorded. This scene aligns with the preceding and following text, highlighting the danger posed by Frozen Corpses and their attack patterns."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 664266463800,
-    "source_file": "Celestial_Jade_Lotus_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Jade_Lotus_Pill_Location.jpg",
-    "alt_text": "Jade Lotus Pill Location.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Black Wind Mountain Celestial Jade Lotus Pill\nBlack Wind Mountain Celestial Jade Lotus Pill",
-    "img_below_text": "You can find the first Celestial Jade Lotus Pill after defeating Lingxuzi at Guanyin Temple. Once you've defeated Lingxuzi, head straight through the temple on the opposite side of the arena and turn left. There, you will find the Celestial Jade Lotus Pill in a small golden chest sitting on a table.\n## Yellow Wind Ridge Celestial Jade Lotus Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Celestial_Jade_Lotus_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind Mountain Celestial Jade Lotus Pill\nBlack Wind Mountain Celestial Jade Lotus Pill\"\n            - Following Text: \"You can find the first Celestial Jade Lotus Pill after defeating Lingxuzi at Guanyin Temple. Once you've defeated Lingxuzi, head straight through the temple on the opposite side of the arena and turn left. There, you will find the Celestial Jade Lotus Pill in a small golden chest sitting on a table.\n## Yellow Wind Ridge Celestial Jade Lotus Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Jade_Lotus_Pill_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene inside Guanyin Temple, showcasing a dimly lit area with intricate carvings, statues, and a small golden chest placed on a table. This chest likely contains the first Celestial Jade Lotus Pill, which can be found after defeating Lingxuzi in the temple. The setting aligns with the narrative instructions provided in the preceding and following text."
+    "chunk_id": 363723109619,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_MiddleHollow_43.jpg",
+    "alt_text": "Wukong MiddleHollow 43.jpg",
+    "position_desc": 8,
+    "img_above_text": "At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.",
+    "img_below_text": "Dozens of smaller centipedes will roll over the nearby ledge and into the arena to chase you on multiple fronts, and explode on impact.\n![Wukong MiddleHollow 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_MiddleHollow_44.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.\"\n        - Following Text: \"Dozens of smaller centipedes will roll over the nearby ledge and into the arena to chase you on multiple fronts, and explode on impact.\n![Wukong MiddleHollow 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_MiddleHollow_44.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense boss battle scene from the video game *Black Myth: Wukong*. The player character faces off against a large, menacing centipede-like creature named \"Centipede Guai\" in a dark, web-filled cavern littered with bones and skulls. The health bar at the bottom indicates the ongoing fight, while the preceding and following text suggests the creature has dangerous attack patterns, including explosive reinforcements from smaller centipedes after its health drops below half."
 }

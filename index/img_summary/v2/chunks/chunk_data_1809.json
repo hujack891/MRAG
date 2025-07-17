@@ -1,28 +1,11 @@
 {
-    "chunk_id": 789190034217,
-    "source_file": "Knot_of_Voidness.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Knot_of_Voidness_2.jpg",
-    "alt_text": "Knot of Voidness 2.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Knot of Voidness\nKnot of Voidness is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.",
-    "img_below_text": "Knot of Voidness can be found throughout the game's six chapters by:\n* Opening Chests",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Knot_of_Voidness.md'.\n\n            Context:\n            - Preceding Text: \"# Knot of Voidness\nKnot of Voidness is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.\"\n            - Following Text: \"Knot of Voidness can be found throughout the game's six chapters by:\n* Opening Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Knot_of_Voidness_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image displays the in-game inventory screen from *Black Myth: Wukong*, highlighting the \"Knot of Voidness,\" a rare and legendary material. The item description emphasizes its significance for \"Spirit Cultivation\" and its symbolic role in achieving completeness from voidness. The inventory interface shows other materials alongside the Knot of Voidness, with details such as its rarity and the quantity held (1/999).\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the importance and utility of the Knot of Voidness within the game. It complements the preceding and following text by visually showcasing the item, its description, and its role as a key upgrade material. This reinforces its significance in the gameplay and progression mechanics of *Black Myth: Wukong*."
+    "chunk_id": 719476349913,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/The_Purge_Meditation_Spot.jpg",
+    "alt_text": "The Purge Meditation Spot.jpg",
+    "position_desc": 23,
+    "img_above_text": "### The Crag, Ashen Pass III Meditation Spot\nThe Crag, Ashen Pass III Meditation Spot",
+    "img_below_text": "Make your way to the Ashen Pass III Keeper's Shrine in the Field of Fire and explore the nearby clearing filled with mushrooms. Another small opening on the right will lead you straight to the Meditation Spot.\n### The Screen, Purge Pit Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Crag, Ashen Pass III Meditation Spot\nThe Crag, Ashen Pass III Meditation Spot\"\n        - Following Text: \"Make your way to the Ashen Pass III Keeper's Shrine in the Field of Fire and explore the nearby clearing filled with mushrooms. Another small opening on the right will lead you straight to the Meditation Spot.\n### The Screen, Purge Pit Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character standing near a designated \"Meditation Spot\" in a rocky, volcanic environment with visible lava flows. The Meditation Spot is marked by a glowing circular object and an on-screen prompt to \"Meditate\" using the RT button. This location is part of the walkthrough for \"The Crag, Ashen Pass III Meditation Spot,\" guiding players to interact with the spot for progression or narrative purposes."
 }

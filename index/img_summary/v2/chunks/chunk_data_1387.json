@@ -1,28 +1,11 @@
 {
-    "chunk_id": 628191319691,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Furnace_Valley_Walkthrough_%2889%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(89\\).png",
-    "position_desc": 48,
-    "img_above_text": "![Furnace Valley Walkthrough \\(86\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Furnace_Valley_Walkthrough_%2886%29.png)\nHe will start to attack using white projectiles, which can be dodged or outrun. When you've got his health down to around 60-70%, he will use the white and black orbs to summon undead enemies.",
-    "img_below_text": "The white revenants are large enemies with clubs, while the black revenants are archers. These are the ones you want to target, as their ranged attacks can be annoying and do the most damage. Clear these revenants out as quickly as possible, to get it back to a fight against just the Keeper of the Flaming Mountains.\nWhen you've got his health down to around 30%, Zhu Bajie will leave you to take him on one-on-one. The aim is still to just attack normally to get his health bar down quickly.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 48 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(86\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Furnace_Valley_Walkthrough_%2886%29.png)\nHe will start to attack using white projectiles, which can be dodged or outrun. When you've got his health down to around 60-70%, he will use the white and black orbs to summon undead enemies.\"\n            - Following Text: \"The white revenants are large enemies with clubs, while the black revenants are archers. These are the ones you want to target, as their ranged attacks can be annoying and do the most damage. Clear these revenants out as quickly as possible, to get it back to a fight against just the Keeper of the Flaming Mountains.\nWhen you've got his health down to around 30%, Zhu Bajie will leave you to take him on one-on-one. The aim is still to just attack normally to get his health bar down quickly.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Furnace_Valley_Walkthrough_%2889%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense, atmospheric scene featuring two figures on a reflective, water-like surface. One figure, wielding a bow, appears to be kneeling or preparing to attack, while the other, armed with a club, stands at a distance. The background features ominous, towering structures and a cloudy sky, adding to the dramatic and foreboding tone.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image likely illustrates a pivotal moment in the battle against the Keeper of the Flaming Mountains, as described in the preceding and following text. The kneeling figure may represent one of the summoned revenants (possibly the black archer revenant), while the distant figure could be the white revenant with the club. This visual emphasizes the need to prioritize eliminating the ranged revenants before focusing on the main boss. The stark environment underscores the high-stakes nature of the encounter."
+    "chunk_id": 429260340066,
+    "source_file": "How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Buddhas_Eye_Secret_Boss_%287%29.png",
+    "alt_text": "Buddhas Eye Secret Boss \\(7\\).png",
+    "position_desc": 7,
+    "img_above_text": "* Go right and continue up the path, then take a sharp left up a set of stairs.\nBoth paths will merge, leading to an open space with a stone enemy.",
+    "img_below_text": "On the other side, you’ll see a wooden structure, and a path that goes into a cave. Head in here and look for the statue on the left. Take this turning first, to find a Buddha Head at the end with a Poisestone enemy.\n![Buddhas Eye Secret Boss \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Buddhas_Eye_Secret_Boss_%285%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Go right and continue up the path, then take a sharp left up a set of stairs.\nBoth paths will merge, leading to an open space with a stone enemy.\"\n        - Following Text: \"On the other side, you’ll see a wooden structure, and a path that goes into a cave. Head in here and look for the statue on the left. Take this turning first, to find a Buddha Head at the end with a Poisestone enemy.\n![Buddhas Eye Secret Boss \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Buddhas_Eye_Secret_Boss_%285%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing in a rocky, cave-like environment. A red arrow points toward a wooden structure near the entrance of a dark cave, indicating the next path to follow. This aligns with the guide's instructions to proceed into the cave to find a Buddha Head and encounter a Poisestone enemy. The interface displays the player's equipped items and abilities, including \"Evil Repelling Medicament.\""
 }

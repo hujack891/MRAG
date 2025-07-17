@@ -1,28 +1,11 @@
 {
-    "chunk_id": 68063835890,
+    "chunk_id": 181209419715,
     "source_file": "Black_Wind_Cave_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_BlackWind_3.jpg",
-    "alt_text": "Wukong BlackWind 3.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.",
-    "img_below_text": "Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Black_Wind_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.\"\n            - Following Text: \"Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_BlackWind_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character navigating through a dimly lit cave environment in *Black Myth: Wukong*. The surroundings are lush with vegetation, and the player is collecting Gentian plants, as indicated by the \"Gentian x2\" notification on the screen. The character is armed, suggesting preparation for combat, and a faint silhouette of an enemy is visible ahead, hinting at an upcoming encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the progression through the Black Wind Cave, emphasizing exploration and resource collection (Gentian plants) while foreshadowing a combat encounter with a Wolf Assassin further ahead. It visually supports the walkthrough's guidance on navigating the cave and preparing for challenges in low visibility."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_BlackWind_14.jpg",
+    "alt_text": "Wukong BlackWind 14.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong BlackWind 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg)\nOnce you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.",
+    "img_below_text": "After losing about half his health, the Black Wind King will get even more aggressive with his titular wind, and start disappearing entirely in a gust without forming into a wisp. When this happens, retreat and regain your stamina, and be ready for the moment he appears, as he’ll likely do so in mid-combo attack.\n![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg)\nOnce you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.\"\n        - Following Text: \"After losing about half his health, the Black Wind King will get even more aggressive with his titular wind, and start disappearing entirely in a gust without forming into a wisp. When this happens, retreat and regain your stamina, and be ready for the moment he appears, as he’ll likely do so in mid-combo attack.\n![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a moment from a boss fight in the game \"Black Myth: Wukong\" against the Black Wind King. The player character is engaged in combat, with the Black Wind King performing a wind-based attack. The preceding and following text suggests that the boss becomes more aggressive and uses wind to disappear and reappear, requiring the player to retreat, heal, and prepare for sudden attacks."
 }

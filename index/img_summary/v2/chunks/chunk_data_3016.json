@@ -1,28 +1,11 @@
 {
-    "chunk_id": 173083227247,
-    "source_file": "Tiger%27s_Acolyte_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Tigers_Acolyte.jpg",
-    "alt_text": "Tigers Acolyte.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Tiger's Acolyte Fight\n* Tiger's Acolyte Spirit",
-    "img_below_text": "## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Tiger%27s_Acolyte_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Tiger's Acolyte Fight\n* Tiger's Acolyte Spirit\"\n            - Following Text: \"## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Tigers_Acolyte.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from a video game, featuring a player character engaged in a battle with an enemy named \"Tiger's Acolyte.\" The player is shown attacking the acolyte, who is emitting red sparks, suggesting a critical hit or special attack. The health bar at the bottom indicates the acolyte's remaining health. This image is likely used to illustrate the combat mechanics and the challenge of fighting the Tiger's Acolyte, which is part of the game's narrative following the defeat of the Tiger Vanguard at Crouching Tiger Temple."
+    "chunk_id": 830549856408,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2898%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(98\\).png",
+    "position_desc": 53,
+    "img_above_text": "![Woods Ember Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Woods_Ember_Walkthrough_%2897%29.png)\nGo back inside the cave and now turn right to collect the green Wisp. Take out the Revenant near it, then go forward.",
+    "img_below_text": "The path splits here, and you'll probably notice the green Wisp on the right first. On the left, you'll be able to see an enemy with a blue Spirit. You'll want to head for the green Wisp first. But before you go collect it, be prepared that there's a lot of the Revenant Charbones in this area and they'll all charge at you.\n![Woods Ember Walkthrough \\(99\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2899%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Woods_Ember_Walkthrough_%2897%29.png)\nGo back inside the cave and now turn right to collect the green Wisp. Take out the Revenant near it, then go forward.\"\n        - Following Text: \"The path splits here, and you'll probably notice the green Wisp on the right first. On the left, you'll be able to see an enemy with a blue Spirit. You'll want to head for the green Wisp first. But before you go collect it, be prepared that there's a lot of the Revenant Charbones in this area and they'll all charge at you.\n![Woods Ember Walkthrough \\(99\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2899%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is inside a cave. Two points of interest are highlighted: a green Wisp on the right and an enemy with a blue Spirit on the left. The walkthrough suggests collecting the green Wisp first while being cautious of numerous Revenant Charbones that may attack."
 }

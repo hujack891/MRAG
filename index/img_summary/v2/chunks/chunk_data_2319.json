@@ -1,28 +1,11 @@
 {
-    "chunk_id": 735465439033,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Pagoda_43.jpg",
-    "alt_text": "Wukong Pagoda 43.jpg",
-    "position_desc": 44,
-    "img_above_text": "![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)\nKeep building up your Focus with light combos by chasing him down and using Immobilize to keep him from teleporting away, and use any lulls in his projectile attacks to rack up damage, and then unleash a charged pillar or thrust attack before he can escape.",
-    "img_below_text": "When Captain Lotus-Vision finally falls, you'll gain the **Frostsprout Twig Curio** , and **The Spirit of Captain Lotus-Vision** , which surprisingly cannot be cultivated like other Spirits.\nCaptain Lotus-Vision",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 44 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)\nKeep building up your Focus with light combos by chasing him down and using Immobilize to keep him from teleporting away, and use any lulls in his projectile attacks to rack up damage, and then unleash a charged pillar or thrust attack before he can escape.\"\n            - Following Text: \"When Captain Lotus-Vision finally falls, you'll gain the **Frostsprout Twig Curio** , and **The Spirit of Captain Lotus-Vision** , which surprisingly cannot be cultivated like other Spirits.\nCaptain Lotus-Vision\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Pagoda_43.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character engaged in combat with Captain Lotus-Vision. The player is using light combos and immobilizing techniques to prevent the enemy from teleporting, while also dodging projectile attacks. The dark, mystical setting and the glowing effects of the combat emphasize the intensity of the battle. The image serves to illustrate the gameplay mechanics and the challenging encounter with Captain Lotus-Vision, which, upon defeat, rewards the player with the Frostsprout Twig Curio and The Spirit of Captain Lotus-Vision."
+    "chunk_id": 4657851085,
+    "source_file": "Serpentscale_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Serpentscale_Bracers_1.jpg",
+    "alt_text": "Serpentscale Bracers 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Wave Rider - Massively reduces stamina cost when in water (3 pieces equipped)\nAll of the Serpentscale Set Armor and Gear pieces are unlocked upon defeating Whiteclad Noble in Bamboo Grove in Chapter 1 - Black Wind Mountain. You can craft them from any Shrine and once the mandatory boss has been defeated.",
+    "img_below_text": "The Serpentscale Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 1,350 Will - body",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Wave Rider - Massively reduces stamina cost when in water (3 pieces equipped)\nAll of the Serpentscale Set Armor and Gear pieces are unlocked upon defeating Whiteclad Noble in Bamboo Grove in Chapter 1 - Black Wind Mountain. You can craft them from any Shrine and once the mandatory boss has been defeated.\"\n        - Following Text: \"The Serpentscale Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 1,350 Will - body\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image is a screenshot from a video game showing the crafting menu for the Serpentscale Bracers, part of the Serpentscale Set Armor and Gear. The bracers offer defense and poison resistance, and have the Wave Rider ability, which reduces stamina cost in water. The crafting process requires Yarn and Will, and the player has enough resources to craft the item. This image illustrates the crafting mechanics and the benefits of equipping the Serpentscale Bracers."
 }

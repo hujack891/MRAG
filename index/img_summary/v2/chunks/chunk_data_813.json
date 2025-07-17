@@ -1,28 +1,11 @@
 {
-    "chunk_id": 204901496622,
-    "source_file": "Curios.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg",
-    "alt_text": "Tridacna Pendant.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Agate Jar.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg)| Agate Jar| Rare | Moderately increases defense | Located in a box in the arena after fighting the Black Wind King in Black Wind Cave - Cave Interior in Black Wind Mountain | Agate Jar\n![Back Scratcher .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg)| Back Scratcher| Rare | Considerably increases maximum stamina | Purchase from the Shrine store in Black Wind Mountain, after completing Chapter 1 | Back Scratcher",
-    "img_below_text": "![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary\n![Tiger Tally .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Tiger_Tally_.jpg)| Tiger Tally| Rare | Upon successful hits with light attack combo, moderately increases attack for a short duration | Defeat \"Tiger Vanguard\" in the Secret: Kingdom of Sahali area in Yellow Wind Ridge| Tiger Tally",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Agate Jar.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg)| Agate Jar| Rare | Moderately increases defense | Located in a box in the arena after fighting the Black Wind King in Black Wind Cave - Cave Interior in Black Wind Mountain | Agate Jar\n![Back Scratcher .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg)| Back Scratcher| Rare | Considerably increases maximum stamina | Purchase from the Shrine store in Black Wind Mountain, after completing Chapter 1 | Back Scratcher\"\n            - Following Text: \"![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary\n![Tiger Tally .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Tiger_Tally_.jpg)| Tiger Tally| Rare | Upon successful hits with light attack combo, moderately increases attack for a short duration | Defeat \"Tiger Vanguard\" in the Secret: Kingdom of Sahali area in Yellow Wind Ridge| Tiger Tally\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a circular, intricately designed item, likely a piece of equipment or relic from the game *Black Myth: Wukong*. Based on its position and context within the list, it is part of a collection of rare items with unique abilities or buffs. This specific item appears between the \"Back Scratcher\" and \"Glazed Reliquary,\" suggesting it serves a similar purpose, such as enhancing gameplay through stat boosts or special effects. Its ornate design implies it may be a defensive or utility-focused artifact."
+    "chunk_id": 801207922061,
+    "source_file": "Dragonfly_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Dragonfly_Guai_pic.jpg",
+    "alt_text": "Dragonfly Guai pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Dragonfly Guai Fight\n* Dragonfly Guai Spirit",
+    "img_below_text": "## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Dragonfly Guai Fight\n* Dragonfly Guai Spirit\"\n        - Following Text: \"## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene from a video game, where the player character is engaged in combat with the Dragonfly Guai, a glowing, spectral enemy. The setting appears to be a precarious wooden platform in a dark, cavernous environment. This moment aligns with the walkthrough's description of encountering the Dragonfly Guai near a cliff after progressing through caves and staircases. The player's health and abilities are displayed, emphasizing the action-oriented gameplay."
 }

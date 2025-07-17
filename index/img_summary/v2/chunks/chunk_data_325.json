@@ -1,28 +1,11 @@
 {
-    "chunk_id": 373141797961,
-    "source_file": "Black_Wind_King.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_BlackWind_9.jpg",
-    "alt_text": "Wukong BlackWind 9.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong BlackWind 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_BlackWind_12.jpg)\nBe on your guard whenever you try to attack him head on, as his favorite attack at close range is taking a quick swig of his own gourd before breathing flames in front of him. A quick dodge can put you behind him, allowing you to continue your light attack combo as he finishes spraying the area in front of him.",
-    "img_below_text": "If you see him raise one foot up, quickly Immobilize or dash to the side, as he’ll try to stagger you with a quick kick, and then race forward with his spear to keep charging into you for multiple hits that’s nearly impossible to get out of once he starts.\n![Wukong BlackWind 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Black_Wind_King.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_BlackWind_12.jpg)\nBe on your guard whenever you try to attack him head on, as his favorite attack at close range is taking a quick swig of his own gourd before breathing flames in front of him. A quick dodge can put you behind him, allowing you to continue your light attack combo as he finishes spraying the area in front of him.\"\n            - Following Text: \"If you see him raise one foot up, quickly Immobilize or dash to the side, as he’ll try to stagger you with a quick kick, and then race forward with his spear to keep charging into you for multiple hits that’s nearly impossible to get out of once he starts.\n![Wukong BlackWind 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_BlackWind_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in combat with the formidable Black Wind King. The Black Wind King is seen wielding a spear and appears to be in mid-attack.\n\n2. **Narrative Role**: The image serves to illustrate the challenging nature of the encounter with the Black Wind King, emphasizing the need for strategic dodging and counter-attacks. The preceding text warns players about the boss's flame-breathing attack, while the following text advises on how to avoid his powerful kick and subsequent spear charge. This visual context reinforces the tactical advice provided in the surrounding text."
+    "chunk_id": 132472265688,
+    "source_file": "Bronze_Cloud_Staff.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Bronze_Cloud_Staff.jpg",
+    "alt_text": "Bronze Cloud Staff.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Bronze Cloud Staff is another basic weapon you get at the beginning of Black Myth: Wukong. However, it is exclusive to the Deluxe Edition of the game. It comes with slightly improved stats compared to the Willow Wood Staff. Despite that, before long you will want to switch to one of the other Weapons when you get them due to its low damage.\nThe weapon has a 36 damage stat, with a decent 2% Critical Hit Chance. While it doesn't have a unique effect, the damage and critical hit chance can give you a slight edge at this point in the game.",
+    "img_below_text": "## Black Myth: Wukong Bronze Cloud Staff Location\nWith it being exclusive to the Deluxe Edition of the game, you can't craft it. However, it can be found at the first Shrine in Chapter 1 - Black Wind Mountain. Simply pick it up under the \"Trailblazer's Gifts\" section.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Bronze Cloud Staff is another basic weapon you get at the beginning of Black Myth: Wukong. However, it is exclusive to the Deluxe Edition of the game. It comes with slightly improved stats compared to the Willow Wood Staff. Despite that, before long you will want to switch to one of the other Weapons when you get them due to its low damage.\nThe weapon has a 36 damage stat, with a decent 2% Critical Hit Chance. While it doesn't have a unique effect, the damage and critical hit chance can give you a slight edge at this point in the game.\"\n        - Following Text: \"## Black Myth: Wukong Bronze Cloud Staff Location\nWith it being exclusive to the Deluxe Edition of the game, you can't craft it. However, it can be found at the first Shrine in Chapter 1 - Black Wind Mountain. Simply pick it up under the \"Trailblazer's Gifts\" section.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the in-game menu for the \"Bronze Cloud Staff\" in *Black Myth: Wukong*. It is an uncommon weapon with 36 attack power and a 2% critical hit chance. The weapon is part of the Deluxe Edition and is accessible early in the game. The menu allows the player to equip, examine, or view details about the staff."
 }

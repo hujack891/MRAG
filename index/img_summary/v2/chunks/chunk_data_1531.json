@@ -1,28 +1,11 @@
 {
-    "chunk_id": 74291914165,
-    "source_file": "How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Buddhas_Eye_Secret_Boss_%284%29.png",
-    "alt_text": "Buddhas Eye Secret Boss \\(4\\).png",
-    "position_desc": 4,
-    "img_above_text": "![Buddhas Eye Secret Boss \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Buddhas_Eye_Secret_Boss_%283%29.png)\nFrom the Squall Hideout Keeper’s Shrine, go right. If you look immediately to the left past the wall, you’ll see a set of stairs, and in the distance, a wooden structure. This is where you’ll want to go, to find the next head.",
-    "img_below_text": "Go over to the other side and climb up the stairs. Take out the enemies using ranged attacks, and climb to the very top of the structure to find the Buddha Head.\nBuddha’s Eyeball 2",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md'.\n\n            Context:\n            - Preceding Text: \"![Buddhas Eye Secret Boss \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Buddhas_Eye_Secret_Boss_%283%29.png)\nFrom the Squall Hideout Keeper’s Shrine, go right. If you look immediately to the left past the wall, you’ll see a set of stairs, and in the distance, a wooden structure. This is where you’ll want to go, to find the next head.\"\n            - Following Text: \"Go over to the other side and climb up the stairs. Take out the enemies using ranged attacks, and climb to the very top of the structure to find the Buddha Head.\nBuddha’s Eyeball 2\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Buddhas_Eye_Secret_Boss_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character in the game *Black Myth: Wukong* standing in a rugged, rocky environment with a wooden structure visible in the distance. Red arrows guide the viewer's attention toward the stairs and the elevated wooden structure, indicating the path to progress in the quest to locate a Buddha Head.\n\n2. **Purpose and Narrative Role**:  \nThe image serves as a visual guide to help players navigate from the Squall Hideout Keeper’s Shrine to the next Buddha Head location. It highlights the stairs and wooden structure players need to climb to reach the objective, aligning with the instructions provided in the preceding and following text."
+    "chunk_id": 554687139424,
+    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Zodiac_Village_.png",
+    "alt_text": "Zodiac Village .png",
+    "position_desc": 7,
+    "img_above_text": "Now you have the scroll, a number of NPCs you've already encountered in your journey will be reunited in the village. This will now act as a central hub where you can find Xu Dog, Shen Monkey, Chen Loong, and a new character - Yin Tiger.\n## How to Upgrade Armor",
+    "img_below_text": "It's with the Yin Tiger that this new ability to upgrade armor can be found. When you speak to him, three options will appear in his menu:\n* **Craft**",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Now you have the scroll, a number of NPCs you've already encountered in your journey will be reunited in the village. This will now act as a central hub where you can find Xu Dog, Shen Monkey, Chen Loong, and a new character - Yin Tiger.\n## How to Upgrade Armor\"\n        - Following Text: \"It's with the Yin Tiger that this new ability to upgrade armor can be found. When you speak to him, three options will appear in his menu:\n* **Craft**\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a detailed scene of a forge in a village setting, with a humanoid character working on crafting or refining equipment. This aligns with the context of the walkthrough, where the village becomes a central hub and introduces Yin Tiger, a character who enables armor upgrades. The forge visually represents the crafting or upgrading mechanics mentioned in the following text."
 }

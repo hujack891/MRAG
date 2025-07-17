@@ -1,28 +1,11 @@
 {
-    "chunk_id": 965087362072,
-    "source_file": "Snout_Mask.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Snout_Mask.jpg",
-    "alt_text": "Snout Mask.jpg",
-    "position_desc": 1,
-    "img_above_text": "It has 1 Defense and the following Unique Effect:\n* For a short duration after using the gourd, moderately increases attack. Refraining from using Gourd for a relatively long duration moderately reduces attack on the contrary",
-    "img_below_text": "The Snout Mask is obtained upon defeating the boar man in Fright Cliff - Rockrest Flat in Chapter 2 - Yellow Wind Ridge after handing him the Sobering Stone, Jade Lotus, and Arhat Gold Piece.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Snout_Mask.md'.\n\n            Context:\n            - Preceding Text: \"It has 1 Defense and the following Unique Effect:\n* For a short duration after using the gourd, moderately increases attack. Refraining from using Gourd for a relatively long duration moderately reduces attack on the contrary\"\n            - Following Text: \"The Snout Mask is obtained upon defeating the boar man in Fright Cliff - Rockrest Flat in Chapter 2 - Yellow Wind Ridge after handing him the Sobering Stone, Jade Lotus, and Arhat Gold Piece.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Snout_Mask.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the \"Snout Mask,\" a piece of headgear in a game. It provides 17 Defense and has a unique effect: using the gourd temporarily increases attack, while not using it for a long time decreases attack. The mask is obtained by defeating the boar man in Fright Cliff - Rockrest Flat in Chapter 2, after giving him specific items. The armor can be further upgraded with Silk in Chapter 3. The image serves to illustrate the mask's attributes and its role in the game's progression and strategy."
+    "chunk_id": 206879034299,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_27.jpg",
+    "alt_text": "Wukong Mindcliff 27.jpg",
+    "position_desc": 26,
+    "img_above_text": "Non-White\n**Warning** \\- Before you proceed, make sure you've defeated the Apramana Bat along the North Shore of the Bitter Lake, and also encountered the Treasure Hunter man before you proceed into the next area!",
+    "img_below_text": "Beyond this arena, you can head through an archway to see the giant titular Valley of Ecstasy below you. It's a one-way slide, and the region is about to get a whole lot bigger and confusing.\n## Forest of Felicity",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Non-White\n**Warning** \\- Before you proceed, make sure you've defeated the Apramana Bat along the North Shore of the Bitter Lake, and also encountered the Treasure Hunter man before you proceed into the next area!\"\n        - Following Text: \"Beyond this arena, you can head through an archway to see the giant titular Valley of Ecstasy below you. It's a one-way slide, and the region is about to get a whole lot bigger and confusing.\n## Forest of Felicity\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a character traversing a snowy, forested environment, likely preparing to enter the next area of the game. The preceding text emphasizes the importance of defeating a specific enemy and encountering a key NPC before progressing, while the following text suggests the character is approaching a significant transition point leading to the expansive and complex \"Valley of Ecstasy\" and the \"Forest of Felicity.\" The image visually represents this transitional moment in the game."
 }

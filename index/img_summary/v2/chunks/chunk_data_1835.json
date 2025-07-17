@@ -1,28 +1,11 @@
 {
-    "chunk_id": 706973157828,
-    "source_file": "Lang-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Felicity_8.jpg",
-    "alt_text": "Wukong Felicity 8.jpg",
-    "position_desc": 6,
-    "img_above_text": "Certain times, Lang-Li-Guhh-Lang will also let out a loud screech, causing ice shards to form at various points around the arena. Stay mobile and away a good distance away, but not too far.\nAfter his screech, he'll crouch down and perform another bellow that sends a shockwave out, exploding all the crystals to deal additional frost damage to you. Since it's a bit harder to evade, you can get in a bit closer and prop yourself up on the Pillar Stance to evade the attack, then send your staff smashing down on him after the explosion.",
-    "img_below_text": "While he doesn't have a ton of health or as much defense as other bosses, he can still get even more dangerous when low on health. His standard arm attack combo can be supercharged, causing icy explosions in a line from each of his swipes, and causing his slam to build up a giant frost area below him while also boxing you in a ring of icy crystals.\nSurviving this can be very tough as he'll try to keep you trapped and locked in his icy lair until you can't move, and then follow up with a loud screech to explode the icy and rocks around him, or perform another follow-up attack.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Lang-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"Certain times, Lang-Li-Guhh-Lang will also let out a loud screech, causing ice shards to form at various points around the arena. Stay mobile and away a good distance away, but not too far.\nAfter his screech, he'll crouch down and perform another bellow that sends a shockwave out, exploding all the crystals to deal additional frost damage to you. Since it's a bit harder to evade, you can get in a bit closer and prop yourself up on the Pillar Stance to evade the attack, then send your staff smashing down on him after the explosion.\"\n            - Following Text: \"While he doesn't have a ton of health or as much defense as other bosses, he can still get even more dangerous when low on health. His standard arm attack combo can be supercharged, causing icy explosions in a line from each of his swipes, and causing his slam to build up a giant frost area below him while also boxing you in a ring of icy crystals.\nSurviving this can be very tough as he'll try to keep you trapped and locked in his icy lair until you can't move, and then follow up with a loud screech to explode the icy and rocks around him, or perform another follow-up attack.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Felicity_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment in a boss fight against Lang-Li-Guhh-Lang, a frost-themed enemy in a snowy, icy arena. The boss is mid-air, seemingly performing a powerful attack, while the player character counters with a fiery strike. The surrounding environment is filled with ice shards and frosty terrain, emphasizing the boss's elemental theme. This visual aligns with the preceding and following text, showcasing Lang-Li-Guhh-Lang's explosive frost-based abilities and the player's strategies to evade and retaliate during the intense battle."
+    "chunk_id": 654471943205,
+    "source_file": "Mother_of_Flamlings.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Field_Fire_Walkthrough_%2826%29.png",
+    "alt_text": "Field Fire Walkthrough \\(26\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Field Fire Walkthrough \\(27\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Field_Fire_Walkthrough_%2827%29.png)\nTake the path that slopes down behind the area where you fought the Flint Vanguard. You'll encounter some more of the Searing and Scorching-Flame enemies, as well as a little green Wisp to the right, by the lava lake.",
+    "img_below_text": "As you head into the next barren section, you may notice the glow of a treasure chest up ahead. Be warned that there are also little glowing patches leading up to, and inside the next clearing, and these are all Flamlings. Clear them out before you go over to the chest, where you can collect Refined Iron Sand from it.\nWhen you've looted the chest, go around to the other side of the rock. There will be an open clearing here, that looks like it's empty. Again, remove any Flamlings from the area, then go to the center of the clearing. Here you'll find a larger glowing patch.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Field Fire Walkthrough \\(27\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Field_Fire_Walkthrough_%2827%29.png)\nTake the path that slopes down behind the area where you fought the Flint Vanguard. You'll encounter some more of the Searing and Scorching-Flame enemies, as well as a little green Wisp to the right, by the lava lake.\"\n        - Following Text: \"As you head into the next barren section, you may notice the glow of a treasure chest up ahead. Be warned that there are also little glowing patches leading up to, and inside the next clearing, and these are all Flamlings. Clear them out before you go over to the chest, where you can collect Refined Iron Sand from it.\nWhen you've looted the chest, go around to the other side of the rock. There will be an open clearing here, that looks like it's empty. Again, remove any Flamlings from the area, then go to the center of the clearing. Here you'll find a larger glowing patch.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a volcanic, barren landscape with glowing lava flows and rocky terrain. A player character is shown wielding a weapon, engaging with a fiery enemy on the right. Red arrows indicate a path leading further into the area, while a dashed circle highlights a treasure chest near the lava lake. The image serves as a visual guide for navigating this section of the game, emphasizing enemy encounters, environmental hazards, and the location of collectible items like Refined Iron Sand."
 }

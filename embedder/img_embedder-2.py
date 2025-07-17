@@ -34,6 +34,7 @@ class SummaryData:
     summary_promot: str      # 暂为空
     img_summary: str         # 图片总结
     embedding_prompt: str    # 图片总结的prompt
+    generate_prompt: str     # 检索到该chunk后，提供给AI生成内容的信息
 
     def to_serializable_dict(self) -> Dict[str, Any]:
         return {
@@ -46,7 +47,8 @@ class SummaryData:
             "img_below_text": self.img_below_text,
             "summary_promot": self.summary_promot,
             "img_summary": self.img_summary,
-            "embedding_prompt": self.embedding_prompt
+            "embedding_prompt": self.embedding_prompt,
+            "generate_prompt": self.generate_prompt
         }
 
 def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
@@ -78,7 +80,8 @@ def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
                 img_below_text=data.get("img_below_text", ""),
                 summary_promot=data.get("summary_promot", ""),
                 img_summary=data.get("img_summary", ""),
-                embedding_prompt=data.get("embedding_prompt", "")
+                embedding_prompt=data.get("embedding_prompt", ""),
+                generate_prompt=''           
             )
             all_chunk_data.append(chunk_data)
     return all_chunk_data
@@ -98,7 +101,7 @@ def main():
     logger.info("\n========== 第三步：构建提示词 ==========")
 
     for i in range(len(all_chunk_data)):
-        prompt = (
+        generate_prompt = (
             f"This is an image from the file '{all_chunk_data[i].source_file}', "
             f"This is the {all_chunk_data[i].position_desc}th image in the document, "
             f"The preceding text of this image is: {all_chunk_data[i].img_above_text},"
@@ -106,7 +109,8 @@ def main():
             f"The summary of this picture is:{all_chunk_data[i].img_summary}"
         )
 
-        all_chunk_data[i].embedding_prompt = prompt
+        all_chunk_data[i].embedding_prompt = all_chunk_data[i].img_summary       
+        all_chunk_data[i].generate_prompt = generate_prompt
 
     logger.info("\n========== 第四步：创建向量索引库 ==========")
     textembedding3largeconfig = TextEmbedding3LargeConfig()

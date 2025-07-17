@@ -1,28 +1,11 @@
 {
-    "chunk_id": 609514822402,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
-    "alt_text": "Wukong Shigandang 1.jpg",
-    "position_desc": 47,
-    "img_above_text": "![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang",
-    "img_below_text": "If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang\"\n            - Following Text: \"If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist from *Black Myth: Wukong* interacting with a large rock formation resembling a cluster of human faces, with a prompt labeled \"Deliver\" visible on the screen. Based on the surrounding context, this moment likely involves a secret interaction or mechanic tied to summoning assistance from the Shigandang or another Yaoguai King, potentially aiding in the upcoming boss fight against the Stone Vanguard."
+    "chunk_id": 562336152277,
+    "source_file": "Glazed_Reliquary.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Glazed_Reliquary_1.jpg",
+    "alt_text": "Glazed Reliquary 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Glazed Reliquary can be found in a box by a statue, within the Windrest Hamelet area of the Yellow Sand Formation in Yellow Wind Ridge. As you make your way through this area, you will fight the Tiger Acolyte, obtain the Old Rattle-Drum, and be able to continue onwards into a cave.\nJust ahead, you can find the box with the Curios in.",
+    "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Glazed Reliquary can be found in a box by a statue, within the Windrest Hamelet area of the Yellow Sand Formation in Yellow Wind Ridge. As you make your way through this area, you will fight the Tiger Acolyte, obtain the Old Rattle-Drum, and be able to continue onwards into a cave.\nJust ahead, you can find the box with the Curios in.\"\n        - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing in a dimly lit cave-like area, near a large ornate statue and a glowing box placed on a pedestal. This scene aligns with the walkthrough's description of the Windrest Hamelet area in Yellow Wind Ridge, where players can find the Glazed Reliquary inside a box. The setting emphasizes exploration and item collection as part of the game's progression."
 }

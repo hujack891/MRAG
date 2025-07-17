@@ -1,28 +1,11 @@
 {
-    "chunk_id": 376865287692,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Purple_Talismans_Chapter_4_.png",
-    "alt_text": "Purple Talismans Chapter 4 .png",
-    "position_desc": 10,
-    "img_above_text": "Yellow Loong\n## Supreme Inspector",
-    "img_below_text": "Chapter 3 had the purple seals, but Chapter 4 has the Purple Talismans. Collecting all four and getting the final one at the Court of Illumination lets you have an early visit with the Supreme Inspector.\nSupreme Inspector",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Yellow Loong\n## Supreme Inspector\"\n            - Following Text: \"Chapter 3 had the purple seals, but Chapter 4 has the Purple Talismans. Collecting all four and getting the final one at the Court of Illumination lets you have an early visit with the Supreme Inspector.\nSupreme Inspector\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Purple_Talismans_Chapter_4_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic confrontation between the protagonist and the Supreme Inspector, a formidable boss character in the game \"Black Myth: Wukong.\" The Supreme Inspector, characterized by his dark, imposing wings and elaborate armor, stands in a ritualistic setting, likely indicating a significant battle or encounter. This scene is tied to the narrative of Chapter 4, where collecting Purple Talismans grants an early meeting with this powerful adversary."
+    "chunk_id": 179028082390,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg",
+    "alt_text": "Wukong Yellow 21.jpg",
+    "position_desc": 3,
+    "img_above_text": "### Tiger’s Acolyte Mini-Boss Fight and Guide\nA follower of the Tiger Guai, the strange man will call out for his missing son before violently attacking you. And just like his master, he’s incredibly ferocious, and it can be hard to anticipate his attacks, let alone whether he’ll attack with his very long sword or very long claws.",
+    "img_below_text": "The battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\n![Wukong Yellow 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Tiger’s Acolyte Mini-Boss Fight and Guide\nA follower of the Tiger Guai, the strange man will call out for his missing son before violently attacking you. And just like his master, he’s incredibly ferocious, and it can be hard to anticipate his attacks, let alone whether he’ll attack with his very long sword or very long claws.\"\n        - Following Text: \"The battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\n![Wukong Yellow 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the in-game encounter with the \"Tiger's Acolyte\" mini-boss in *Black Myth: Wukong*. The scene shows the player character facing the acolyte on a weathered stone bridge surrounded by traditional stone lanterns. The acolyte is mid-attack, leaping forward with a weapon in hand, while the text at the bottom reveals his dialogue: \"Where's my son... I can't find him...\" This sets a somber tone for the fight, emphasizing his desperation and aggression. The HUD displays player abilities and health, indicating an active combat scenario."
 }

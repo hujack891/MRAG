@@ -1,28 +1,11 @@
 {
-    "chunk_id": 720750777929,
-    "source_file": "Chapter_5_Secret_-_Bishui_Cave_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Bishui_Cave_Walkthrough_%2832%29.png",
-    "alt_text": "Bishui Cave Walkthrough \\(32\\).png",
-    "position_desc": 18,
-    "img_above_text": "Head down to the left, and slide all the way down the slope. Here you'll reach the final Keeper's Shrine of the hidden area, called the Corridor of Fire and Ice.\n## Corridor of Fire and Ice",
-    "img_below_text": "Head right from the Keeper's Shrine and go down the stairs. A cutscene will play as you drop down, and the Bishui Golden-Eyed Beast will appear.\n## Yaoguai King - Bishui Golden-Eyed Beast",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Chapter_5_Secret_-_Bishui_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Head down to the left, and slide all the way down the slope. Here you'll reach the final Keeper's Shrine of the hidden area, called the Corridor of Fire and Ice.\n## Corridor of Fire and Ice\"\n            - Following Text: \"Head right from the Keeper's Shrine and go down the stairs. A cutscene will play as you drop down, and the Bishui Golden-Eyed Beast will appear.\n## Yaoguai King - Bishui Golden-Eyed Beast\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Bishui_Cave_Walkthrough_%2832%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, atmospheric cave environment transitioning between fiery and icy elements, aligning with the \"Corridor of Fire and Ice\" mentioned in the preceding text. In the foreground, glowing embers and swirling energy suggest an active Keeper's Shrine, while the background reveals icy formations and a foreboding atmosphere, possibly foreshadowing the appearance of the Bishui Golden-Eyed Beast as described in the following text. This scene serves as a pivotal moment in the narrative, bridging the shrine and the upcoming boss encounter."
+    "chunk_id": 230383132384,
+    "source_file": "Cloudtreading_Deer.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Foothills_Walkthrough_%2863%29.png",
+    "alt_text": "Foothills Walkthrough \\(63\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Foothills Walkthrough \\(51\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2851%29.png)\nIn this phase, you'll need to avoid the pools of blood. There are also some projectiles, where little orbs of blood will float up in the air and then hone in on you. Thankfully, you'll have a little bit of help with this one, as Zhu Bajie will appear in the second phase to give you a hand.",
+    "img_below_text": "This part of the fight is more about managing how long you can stand in the blood for, and jumping back out when you're about to be completely poisoned. Try to bait the deer to run out of the patches of blood, and into the ice where you can attack it freely. You can also use the Wind Vessel in this phase to down the deer temporarily.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(51\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2851%29.png)\nIn this phase, you'll need to avoid the pools of blood. There are also some projectiles, where little orbs of blood will float up in the air and then hone in on you. Thankfully, you'll have a little bit of help with this one, as Zhu Bajie will appear in the second phase to give you a hand.\"\n        - Following Text: \"This part of the fight is more about managing how long you can stand in the blood for, and jumping back out when you're about to be completely poisoned. Try to bait the deer to run out of the patches of blood, and into the ice where you can attack it freely. You can also use the Wind Vessel in this phase to down the deer temporarily.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, snowy battlefield with a large, grotesque deer-like creature standing amidst pools of blood. This setting aligns with a challenging phase in the game where players must avoid the toxic blood pools and manage their positioning to attack the creature effectively. The eerie atmosphere and the blood-stained ground emphasize the danger and intensity of this encounter."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 172198045197,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg",
-    "alt_text": "Wukong Sandgate 17.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)\nBe sure not to attack too much from the frog’s rear, as its quick hop mule kick can deal a ton of damage with little warning. If you see his arms cross, he’ll bloat his chest out for a frontal assault.",
-    "img_below_text": "Several of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.\n![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)\nBe sure not to attack too much from the frog’s rear, as its quick hop mule kick can deal a ton of damage with little warning. If you see his arms cross, he’ll bloat his chest out for a frontal assault.\"\n            - Following Text: \"Several of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.\n![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a fierce battle scene from the game \"Black Myth: Wukong,\" where the protagonist is engaged in combat with a large frog-like creature. The frog is unleashing a powerful electric attack, shooting electrified tadpoles in various directions. This attack is signaled by the frog's throat swelling with electric energy, as described in the accompanying text. The image serves to illustrate the dangerous electric abilities of the frog and the intense nature of the encounter."
+    "chunk_id": 79658501574,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_YellowFlower_46.jpg",
+    "alt_text": "Wukong YellowFlower 46.jpg",
+    "position_desc": 42,
+    "img_above_text": "In his first phase, he'll still use all the same moves you remember, including his most familiar crouching slash that hits twice before he leaps into the air to stab the ground.\nJust like before, this is also the best time to attack his extra arms, as you'll be able to deal a ton of damage and even jumpstart the second phase if you destroy them both.",
+    "img_below_text": "Remember the timing of his other attacks, including his fast swipes before charging past you, then jumping back for another two hits.\nYou'll also have to be ready to deflect or dodge if he crouches down with sword raised behind his head, as he'll dash forward and back at rapid speed.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"In his first phase, he'll still use all the same moves you remember, including his most familiar crouching slash that hits twice before he leaps into the air to stab the ground.\nJust like before, this is also the best time to attack his extra arms, as you'll be able to deal a ton of damage and even jumpstart the second phase if you destroy them both.\"\n        - Following Text: \"Remember the timing of his other attacks, including his fast swipes before charging past you, then jumping back for another two hits.\nYou'll also have to be ready to deflect or dodge if he crouches down with sword raised behind his head, as he'll dash forward and back at rapid speed.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in a video game, showcasing the player character engaged in combat with an enemy named \"Venom Daoist.\" The enemy, a dark, multi-armed creature wielding a sword, appears to be in an aggressive stance, preparing to attack. The player character is armed with a flaming weapon, emphasizing an intense and dynamic battle. The scene aligns with the preceding and following text, which provides strategies for countering the boss's attacks and exploiting openings during its first phase."
 }

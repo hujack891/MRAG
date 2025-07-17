@@ -1,32 +1,16 @@
 {
-    "chunk_id": 841297205483,
+    "chunk_id": 205560672569,
     "source_file": "Pagoda_Realm_Walkthrough.md",
     "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Upper Pagoda (Level 4)",
+    "h2_title": "Lower Pagoda (Level 2)",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg",
-    "alt_text": "Wukong Pagoda 65.jpg",
-    "position_desc": 61,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nOnce you reach the fourth level, the escape from this hell is closer than ever, but there's still one last stretch to cover.",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Pagoda_29.jpg",
+    "alt_text": "Wukong Pagoda 29.jpg",
+    "position_desc": 29,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nIt's not a bad idea to throw off an Immobilize or Cloud Step to bypass the main fighter, and then run to perform a leaping heavy strike to reach the archer and get him out of the way first.\n\nOnce both combatants are dead, be sure to loot the chest, and head back into the cell tunnel, and upwards to level 3.",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 61 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 4).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 4)\n                - Alt Text: Wukong Pagoda 65.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nOnce you reach the fourth level, the escape from this hell is closer than ever, but there's still one last stretch to cover.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the fourth level of the Wukong Pagoda, as described in the walkthrough \"The Beguiling Chant of the Pagoda Realm.\" It shows an intense battle between characters in a dark, mystical setting, with a large, ornate structure in the background. This visual likely serves to illustrate the challenges and final obstacles players face as they approach the end of their journey in this level. The image reinforces the narrative of nearing escape from a difficult and treacherous environment.",
-    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 61th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 4)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nOnce you reach the fourth level, the escape from this hell is closer than ever, but there's still one last stretch to cover.,The following text of this image is: ,The summary of this picture is:The image depicts a dramatic scene from the fourth level of the Wukong Pagoda, as described in the walkthrough \"The Beguiling Chant of the Pagoda Realm.\" It shows an intense battle between characters in a dark, mystical setting, with a large, ornate structure in the background. This visual likely serves to illustrate the challenges and final obstacles players face as they approach the end of their journey in this level. The image reinforces the narrative of nearing escape from a difficult and treacherous environment."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: The Beguiling Chant of the Pagoda Realm\n            - Section Title: Lower Pagoda (Level 2)\n\n            Context:\n            - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nIt's not a bad idea to throw off an Immobilize or Cloud Step to bypass the main fighter, and then run to perform a leaping heavy strike to reach the archer and get him out of the way first.\n\nOnce both combatants are dead, be sure to loot the chest, and head back into the cell tunnel, and upwards to level 3.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from a video game, set in a dark, cavernous environment. The player character, armed with a staff, is engaged in a battle with a glowing, spectral enemy. The context provided suggests that this encounter takes place in the \"Lower Pagoda (Level 2)\" section of the game, titled \"The Beguiling Chant of the Pagoda Realm.\" The preceding text advises players on tactics to bypass the main fighter and defeat the archer before looting a chest and progressing to the next level.",
+    "embedding_prompt": "The image depicts a combat scene from a video game, set in a dark, cavernous environment. The player character, armed with a staff, is engaged in a battle with a glowing, spectral enemy. The context provided suggests that this encounter takes place in the \"Lower Pagoda (Level 2)\" section of the game, titled \"The Beguiling Chant of the Pagoda Realm.\" The preceding text advises players on tactics to bypass the main fighter and defeat the archer before looting a chest and progressing to the next level.",
+    "generate_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 29th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Lower Pagoda (Level 2)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nIt's not a bad idea to throw off an Immobilize or Cloud Step to bypass the main fighter, and then run to perform a leaping heavy strike to reach the archer and get him out of the way first.\n\nOnce both combatants are dead, be sure to loot the chest, and head back into the cell tunnel, and upwards to level 3.,The following text of this image is: ,The summary of this picture is:The image depicts a combat scene from a video game, set in a dark, cavernous environment. The player character, armed with a staff, is engaged in a battle with a glowing, spectral enemy. The context provided suggests that this encounter takes place in the \"Lower Pagoda (Level 2)\" section of the game, titled \"The Beguiling Chant of the Pagoda Realm.\" The preceding text advises players on tactics to bypass the main fighter and defeat the archer before looting a chest and progressing to the next level."
 }

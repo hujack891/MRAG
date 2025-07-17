@@ -1,28 +1,11 @@
 {
-    "chunk_id": 233808551189,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Field_Fire_Walkthrough_%2827%29.png",
-    "alt_text": "Field Fire Walkthrough \\(27\\).png",
-    "position_desc": 23,
-    "img_above_text": "When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard",
-    "img_below_text": "After the fight, take the path that slopes down behind the area where you fought the Flint Vanguard. You'll encounter some more of the Searing and Scorching-Flame enemies, as well as a little green Wisp to the right, by the lava lake.\n![Field Fire Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Field_Fire_Walkthrough_%2826%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard\"\n            - Following Text: \"After the fight, take the path that slopes down behind the area where you fought the Flint Vanguard. You'll encounter some more of the Searing and Scorching-Flame enemies, as well as a little green Wisp to the right, by the lava lake.\n![Field Fire Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Field_Fire_Walkthrough_%2826%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Field_Fire_Walkthrough_%2827%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a rocky, volcanic environment with a glowing lava stream on the right side. A character, armed with a staff, stands in the foreground, while two fiery enemies are visible in the distance. A red arrow highlights a sloping path to the left, indicating the next route to follow.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide for players navigating the \"Field of Fire\" area in the game. It shows the path to take after defeating the Flint Vanguard, directing players to proceed down the slope on the left while being cautious of nearby fiery enemies and the lava terrain."
+    "chunk_id": 650859884347,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Foothills_Walkthrough_%28127%29.png",
+    "alt_text": "Foothills Walkthrough \\(127\\).png",
+    "position_desc": 14,
+    "img_above_text": "![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.",
+    "img_below_text": "Land behind it and you'll find a chest.\n![Foothills Walkthrough \\(124\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Foothills_Walkthrough_%28124%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.\"\n        - Following Text: \"Land behind it and you'll find a chest.\n![Foothills Walkthrough \\(124\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Foothills_Walkthrough_%28124%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character is flying up a path surrounded by trees and rocky terrain. An arrow points towards a curved tree, indicating a direction or location of interest. This image is part of a walkthrough, guiding players to navigate the level and find hidden items, such as a chest located behind the tree."
 }

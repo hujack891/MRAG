@@ -1,28 +1,11 @@
 {
-    "chunk_id": 945463985453,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Foothills_Walkthrough_%28143%29.png",
-    "alt_text": "Foothills Walkthrough \\(143\\).png",
-    "position_desc": 67,
-    "img_above_text": "As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.\nWater-Wood Beast",
-    "img_below_text": "When it's defeated, head back along the river and look for the golden tree.\n## Mantis-Catching Swamp",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 67 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.\nWater-Wood Beast\"\n            - Following Text: \"When it's defeated, head back along the river and look for the golden tree.\n## Mantis-Catching Swamp\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Foothills_Walkthrough_%28143%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character, likely the player, standing on a cloud overlooking a lush, forested valley with a river running through it. A red arrow points toward a golden tree in the distance, which serves as a key destination or landmark. Based on the context, this scene occurs after defeating the Water-Wood Beast, guiding the player to proceed along the river toward the golden tree as part of the narrative progression."
+    "chunk_id": 712602347025,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Fright_18.jpg",
+    "alt_text": "Wukong Fright 18.jpg",
+    "position_desc": 19,
+    "img_above_text": "Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball",
+    "img_below_text": "Fight your way to the top of the stairs and keep staff spinning to deflect the ranged attacks until all the Blazebones are dead. At the end of this high raised wooden platform you’ll find another of the giant statue heads, allowing you to take its Buhdda’s Eyeball.\n![Wukong Fright 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball\"\n        - Following Text: \"Fight your way to the top of the stairs and keep staff spinning to deflect the ranged attacks until all the Blazebones are dead. At the end of this high raised wooden platform you’ll find another of the giant statue heads, allowing you to take its Buhdda’s Eyeball.\n![Wukong Fright 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player-character in **Black Myth: Wukong** navigating a high wooden platform while engaging in combat with an enemy. To the right, a glowing **giant statue head** with illuminated eyes is visible, which is likely the **Buddha’s Eyeball** mentioned in the walkthrough. This scene aligns with the guide's instructions to defeat enemies and retrieve the eyeball at the end of the platform."
 }

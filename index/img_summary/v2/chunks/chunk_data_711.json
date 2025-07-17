@@ -1,28 +1,11 @@
 {
-    "chunk_id": 110737729735,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg",
-    "alt_text": "Body-Warming Powder .jpg",
-    "position_desc": 8,
-    "img_above_text": "![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice\n• 1 Aged Ginseng | Ginseng Pellets",
-    "img_below_text": "• 1 Jade Lotus | Body-Warming Powder\n![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice\n• 1 Aged Ginseng | Ginseng Pellets\"\n            - Following Text: \"• 1 Jade Lotus | Body-Warming Powder\n![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a blue, speckled gourd-shaped container, likely representing the \"Body-Warming Powder\" item from the game \"Black Myth: Wukong.\" According to the context, this item is crafted from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge. The Body-Warming Powder requires 1 Jade Lotus to craft and is used to provide some beneficial effect, possibly related to warming the body or enhancing resistance to cold."
+    "chunk_id": 716747820245,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Black-myth-wukong-sea-supporting-tendon.jpg",
+    "alt_text": "Black-myth-wukong-sea-supporting-tendon.jpg",
+    "position_desc": 26,
+    "img_above_text": "![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow\n![Black-myth-wukong-golden-glowing-eye.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Black-myth-wukong-golden-glowing-eye.jpg)  6 | Golden Glowing Eye| Legendary | Special crafting material | • Defeat Hundred-Eyed Daoist Master in Temple of Yellow Flowers in the The Webbed Hollow",
+    "img_below_text": "![Black-myth-wukong-bishui-east-bit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black-myth-wukong-bishui-east-bit.jpg)  8 | Bishui East Bit| Legendary | Special crafting material | • Defeat Bishui Golden-Eyed Beast in the Bishui Cave in Flaming Mountains\n![Tadpole .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Tadpole_.jpg)| Tadpole| Epic | Rare upgrade material | • Dropped from Frog Yaoguai Chiefs and Kings",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow\n![Black-myth-wukong-golden-glowing-eye.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Black-myth-wukong-golden-glowing-eye.jpg)  6 | Golden Glowing Eye| Legendary | Special crafting material | • Defeat Hundred-Eyed Daoist Master in Temple of Yellow Flowers in the The Webbed Hollow\"\n        - Following Text: \"![Black-myth-wukong-bishui-east-bit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black-myth-wukong-bishui-east-bit.jpg)  8 | Bishui East Bit| Legendary | Special crafting material | • Defeat Bishui Golden-Eyed Beast in the Bishui Cave in Flaming Mountains\n![Tadpole .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Tadpole_.jpg)| Tadpole| Epic | Rare upgrade material | • Dropped from Frog Yaoguai Chiefs and Kings\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game item from *Black Myth: Wukong*, likely a legendary crafting material or upgrade component. Based on the surrounding text, it is part of a list of materials obtained by defeating specific bosses in different locations, such as the Scorpionlord or Hundred-Eyed Daoist Master. The item's design suggests it plays a role in crafting or upgrading equipment within the game."
 }

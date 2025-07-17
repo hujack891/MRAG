@@ -1,28 +1,11 @@
 {
-    "chunk_id": 141540866021,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Fright_55.jpg",
-    "alt_text": "Wukong Fright 55.jpg",
-    "position_desc": 61,
-    "img_above_text": "Yellow Wind Ridge Celestial Taiyi Pill\nPast this upgrade, the path will begin to slope down, and quite suddenly you may find yourself slipping and sliding down a one way sandy slope into a new sub-region. It’s worth getting the Shrine at the bottom of this area, but you’ll also need to dodge a lot of Rat Archers that you won’t be able to reach.",
-    "img_below_text": "As you slide, try to angle yourself to the left, and you can find a large structure that you can jump to.\n![Wukong Fright 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_Fright_56.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 61 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Yellow Wind Ridge Celestial Taiyi Pill\nPast this upgrade, the path will begin to slope down, and quite suddenly you may find yourself slipping and sliding down a one way sandy slope into a new sub-region. It’s worth getting the Shrine at the bottom of this area, but you’ll also need to dodge a lot of Rat Archers that you won’t be able to reach.\"\n            - Following Text: \"As you slide, try to angle yourself to the left, and you can find a large structure that you can jump to.\n![Wukong Fright 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_Fright_56.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Fright_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a sandy slope where the player character is sliding down toward a structure in the distance. The environment is dusty and atmospheric, with visible enemies, including Rat Archers, near the structure. A red arrow highlights a specific path or point of interest, suggesting a strategic direction to navigate the area.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players identify the key location and enemies in this section of the game. It aligns with the preceding text's description of sliding down a sandy slope and encountering hostile Rat Archers. The red arrow emphasizes a direction to follow, likely to avoid danger or reach the large structure mentioned in the following text."
+    "chunk_id": 862639403453,
+    "source_file": "Gold_Ridge_Beast.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg",
+    "alt_text": "Gold Ridge Beast 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)\nThe Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.",
+    "img_below_text": "A full walkthrough of how to access this area can be found below:\nBe sure to sell it at a vendor or the Shrine store as soon as you can.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)\nThe Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.\"\n        - Following Text: \"A full walkthrough of how to access this area can be found below:\nBe sure to sell it at a vendor or the Shrine store as soon as you can.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from the video game *Black Myth: Wukong*, showcasing the \"Gold Ridge Beast,\" an epic treasure item. The description notes that the Gold Ridge Beast once adorned the roof of a Buddha Hall and suggests it can be exchanged for something valuable. According to the context, this item is found in Chapter 2 within the secret Kingdom of Shahali area and must be collected before defeating the boss Fuban, as the area becomes inaccessible afterward. Players are advised to sell the item at a vendor or Shrine store promptly."
 }

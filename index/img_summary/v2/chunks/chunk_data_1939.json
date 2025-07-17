@@ -1,28 +1,11 @@
 {
-    "chunk_id": 297102087844,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg",
-    "alt_text": "Aged Ginseg .jpg",
-    "position_desc": 5,
-    "img_above_text": "![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "img_below_text": "![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n            - Following Text: \"![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts **Millennium Ginseng**, a rare ingredient featured in the game *Black Myth: Wukong*. It is associated with the preceding and following context, which lists various in-game ingredients and their locations or acquisition methods. Millennium Ginseng is described as being randomly obtained from collecting Aged Ginseng, emphasizing its rarity and value within the game's narrative and mechanics. The image visually represents the ingredient, aiding players in identifying it during gameplay."
+    "chunk_id": 242267188488,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Thunderclap_107.jpg",
+    "alt_text": "Wukong Thunderclap 107.jpg",
+    "position_desc": 103,
+    "img_above_text": "![Wukong Thunderclap 104.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Thunderclap_104.jpg)\nAfter 2-3 heavy hits (or a single heavy strike with 3 focus points), his golden protection will shatter, and leave Yellowbrow stunned for an extended period of time.",
+    "img_below_text": "Use this period to unleash your best Spirit Attack (Non-Pure's extended combo can be huge here as he's unable to attack back) and hit him with your biggest stikes while he's unable to move.\nWhen he regains his composure, he'll strike back with more lightning attacks than ever, and once again you'll need to be extremely careful about not retaining the Shocked status, or you'll often die from a single stray blow.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 104.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Thunderclap_104.jpg)\nAfter 2-3 heavy hits (or a single heavy strike with 3 focus points), his golden protection will shatter, and leave Yellowbrow stunned for an extended period of time.\"\n        - Following Text: \"Use this period to unleash your best Spirit Attack (Non-Pure's extended combo can be huge here as he's unable to attack back) and hit him with your biggest stikes while he's unable to move.\nWhen he regains his composure, he'll strike back with more lightning attacks than ever, and once again you'll need to be extremely careful about not retaining the Shocked status, or you'll often die from a single stray blow.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showcasing a battle against the character Yellowbrow. Yellowbrow appears to be stunned, as indicated by the preceding text explaining that his golden protection has shattered after heavy hits, leaving him vulnerable. This moment is crucial for players to unleash powerful Spirit Attacks and extended combos, taking advantage of Yellowbrow's inability to retaliate. The image serves to illustrate the strategic opportunity presented when Yellowbrow is stunned, emphasizing the importance of timing and attack choices in the gameplay."
 }

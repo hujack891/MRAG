@@ -1,28 +1,11 @@
 {
-    "chunk_id": 723268435012,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Pagoda_117.jpg",
-    "alt_text": "Wukong Pagoda 117.jpg",
-    "position_desc": 113,
-    "img_above_text": "![Wukong Pagoda 116.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_116.jpg)\nThe rest of the path leads right back along a ridge that overlooks the forest you ventured through earlier (as well as some Celestial Pears you can harvest), and eventually over to the side of the Warding Temple that you can drop down to reach the Shrine.",
-    "img_below_text": "Before you head in, be sure to explore the bottom of the stairway for a small narrow path beyond. Check to the left of a small tunnel to find another Abomination guarding a **Treasure Chest** with materials, then head through (watching out for a Cyan Bat lurking above) to reach a dead end cliff overlooking the Grand Pagoda in the distance, and check the left side of the cliff to grab a green Wisp guarded by a Frozen Corpse.\n## Warding Temple",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 113 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 116.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_116.jpg)\nThe rest of the path leads right back along a ridge that overlooks the forest you ventured through earlier (as well as some Celestial Pears you can harvest), and eventually over to the side of the Warding Temple that you can drop down to reach the Shrine.\"\n            - Following Text: \"Before you head in, be sure to explore the bottom of the stairway for a small narrow path beyond. Check to the left of a small tunnel to find another Abomination guarding a **Treasure Chest** with materials, then head through (watching out for a Cyan Bat lurking above) to reach a dead end cliff overlooking the Grand Pagoda in the distance, and check the left side of the cliff to grab a green Wisp guarded by a Frozen Corpse.\n## Warding Temple\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Pagoda_117.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, mountainous area where a character is engaged in combat with an Abomination. This scene is part of a walkthrough for the game \"Black Myth: Wukong,\" specifically illustrating the encounter with an Abomination guarding a treasure chest with materials. The context suggests that this is a critical point before proceeding through a narrow path and encountering additional challenges, such as a Cyan Bat and a Frozen Corpse guarding a green Wisp."
+    "chunk_id": 501755679908,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
+    "alt_text": "Snow Fox Questline .png",
+    "position_desc": 3,
+    "img_above_text": "![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.",
+    "img_below_text": "When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\"\n        - Following Text: \"When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment with a wooden pathway leading to a seated figure near a lit torch. A fox-like creature approaches the figure, suggesting an interaction tied to the \"Snow Fox Questline\" in the game *Black Myth: Wukong*. This scene aligns with the narrative where the player learns the tragic backstory of the fox guai and prepares for the next steps in the quest, including transforming into the fox to confront the monk."
 }

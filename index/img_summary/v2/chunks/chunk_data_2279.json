@@ -1,28 +1,11 @@
 {
-    "chunk_id": 851912973908,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Pagoda_4.jpg",
-    "alt_text": "Wukong Pagoda 4.jpg",
-    "position_desc": 4,
-    "img_above_text": "Past the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\n# The Beguiling Chant of the Pagoda Realm",
-    "img_below_text": "It's around this point that you'll likely get your first taste of the \"beguiling chants\" the prisoner mentioned, and there's a lot going on you'll have to make sense of. A large terrifying sound will echo throughout the realm, the pagoda itself will spin even faster, everyone will start glowing, strange new creatures will appear -- and your health will start lowering!\nLet's break it down: The Pagoda Realm's chanting curse is on a global timer, meaning even if you die or go to different Shines in the realm, or even sit around resting at a shrine, the curse can still trigger and persist. **Every three minutes, the chanting will begin, and last for exactly one minute and thirty seconds before resetting.**",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Past the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\n# The Beguiling Chant of the Pagoda Realm\"\n            - Following Text: \"It's around this point that you'll likely get your first taste of the \"beguiling chants\" the prisoner mentioned, and there's a lot going on you'll have to make sense of. A large terrifying sound will echo throughout the realm, the pagoda itself will spin even faster, everyone will start glowing, strange new creatures will appear -- and your health will start lowering!\nLet's break it down: The Pagoda Realm's chanting curse is on a global timer, meaning even if you die or go to different Shines in the realm, or even sit around resting at a shrine, the curse can still trigger and persist. **Every three minutes, the chanting will begin, and last for exactly one minute and thirty seconds before resetting.**\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Pagoda_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene within the Pagoda Realm, highlighting the eerie and mystical atmosphere described in the accompanying text. A character is shown crouching on the rocky terrain, seemingly overwhelmed or affected by the realm's beguiling chants. Ghostly figures and strange glowing entities are visible in the dark background, suggesting the onset of the chanting curse mentioned in the following text. This visual representation aligns with the narrative of encountering unsettling phenomena and the global timer curse that affects the player's health and perception within the realm."
+    "chunk_id": 610180951946,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/How_to_Unlock_Purple_Magic_Seals_%288%29.png",
+    "alt_text": "How to Unlock Purple Magic Seals \\(8\\).png",
+    "position_desc": 9,
+    "img_above_text": "When you stumble upon The Great Pagoda in Chapter 3, you can enter it. However, it will appear as little more than an empty room, potentially with tapestries hanging already (depending on the secret areas you've found and cleared so far). The Great Pagoda is actually linked to a secret area that you can access after Chapter 5, so jump down to the information on Mount Mei, which you can find at the bottom of the page.\n## The Purple Seals",
+    "img_below_text": "When you wake up in the Pagoda Realm, you'll find prison cells with magic purple seals preventing you from entering them. Behind the very first door is an NPC, and you'll want to get in there for some unique loot, so you'll need to track down a boss tucked away in the prison called Captain Lotus-Vision.\nDefeating him and taking his spirit will automatically unlock the purple seals, and you can then talk to the NPC and take the Spell from the two-headed dead rat in the cell with him.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When you stumble upon The Great Pagoda in Chapter 3, you can enter it. However, it will appear as little more than an empty room, potentially with tapestries hanging already (depending on the secret areas you've found and cleared so far). The Great Pagoda is actually linked to a secret area that you can access after Chapter 5, so jump down to the information on Mount Mei, which you can find at the bottom of the page.\n## The Purple Seals\"\n        - Following Text: \"When you wake up in the Pagoda Realm, you'll find prison cells with magic purple seals preventing you from entering them. Behind the very first door is an NPC, and you'll want to get in there for some unique loot, so you'll need to track down a boss tucked away in the prison called Captain Lotus-Vision.\nDefeating him and taking his spirit will automatically unlock the purple seals, and you can then talk to the NPC and take the Spell from the two-headed dead rat in the cell with him.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a mystical entity surrounded by a purple aura, likely representing the magic purple seals mentioned in the text. These seals prevent access to prison cells in the Pagoda Realm. The entity could be Captain Lotus-Vision, the boss whose defeat is necessary to unlock the seals and access the NPC and loot behind the first door."
 }

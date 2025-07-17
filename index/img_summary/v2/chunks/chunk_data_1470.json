@@ -1,28 +1,11 @@
 {
-    "chunk_id": 502248306338,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg",
-    "alt_text": "Wukong Martial 1.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\nWhen you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.",
-    "img_below_text": "As you approach, the Treasure Hunter will reveal his true form and attack!\n## Green-Capped Martialist Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\nWhen you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.\"\n            - Following Text: \"As you approach, the Treasure Hunter will reveal his true form and attack!\n## Green-Capped Martialist Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character approaching a large Buddha statue within a dimly lit cave, suggesting a significant location in the game *Black Myth: Wukong*. Based on the context, this area serves as the setting for an encounter with the Treasure Hunter, who reveals his true form and initiates a boss fight against the Green-Capped Martialist. The image emphasizes the ominous atmosphere and the impending challenge."
+    "chunk_id": 100671796718,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Chapter_2_Secret_Area_%2813%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(13\\).png",
+    "position_desc": 6,
+    "img_above_text": "## How to Get the Sobering Stone for the Yellow-Robed Squire - Method 2\nAlternatively, you can complete the Man-in-Stone side quest but this unlocks the Sobering Stone for purchase. You can find the Man-in-Stone close to the Squall Hideout Keeper Shrine. Go right from the shrine, and find where it slopes down.",
+    "img_below_text": "At the back, there's a small bridge that you can pass under and follow a small stream. At the end of it, you'll find the Man-in-Stone trapped.\n![Chapter 2 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Chapter_2_Secret_Area_%2811%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## How to Get the Sobering Stone for the Yellow-Robed Squire - Method 2\nAlternatively, you can complete the Man-in-Stone side quest but this unlocks the Sobering Stone for purchase. You can find the Man-in-Stone close to the Squall Hideout Keeper Shrine. Go right from the shrine, and find where it slopes down.\"\n        - Following Text: \"At the back, there's a small bridge that you can pass under and follow a small stream. At the end of it, you'll find the Man-in-Stone trapped.\n![Chapter 2 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Chapter_2_Secret_Area_%2811%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game, showing the player character standing in a rocky, arid environment with sparse vegetation. A red arrow overlays the image, pointing toward a sloping path leading upward, indicating the direction the player should take to progress. This visual guide corresponds to the walkthrough instructions for locating the Man-in-Stone near the Squall Hideout Keeper Shrine."
 }

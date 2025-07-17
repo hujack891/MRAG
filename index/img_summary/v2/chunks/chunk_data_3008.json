@@ -1,28 +1,11 @@
 {
-    "chunk_id": 684101232832,
-    "source_file": "Tiger%27s_Acolyte.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg",
-    "alt_text": "Wukong Yellow 22.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Yellow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg)\nThe battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.",
-    "img_below_text": "However, if he suddenly pivots after his slash to face away, be ready for him to perform a large overhand swing as he twists to face you. Though it's a vertical strike, it has a great deal of reach, sending a tremor along the ground from its force.\nUnfortunately, this isn’t even his only unpredictable leaping attack, as he can also just vault at you at top speed from a fair distance without a hint of preparation and cleave you with his sword for massive damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg)\nThe battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\"\n            - Following Text: \"However, if he suddenly pivots after his slash to face away, be ready for him to perform a large overhand swing as he twists to face you. Though it's a vertical strike, it has a great deal of reach, sending a tremor along the ground from its force.\nUnfortunately, this isn’t even his only unpredictable leaping attack, as he can also just vault at you at top speed from a fair distance without a hint of preparation and cleave you with his sword for massive damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic battle scene from the game \"Black Myth: Wukong,\" featuring a confrontation between the player character and an enemy named \"Tiger's Acolyte.\" The enemy is shown leaping forward at high speed, initiating an attack with both sword and claw. This visual underscores the enemy's unpredictable and aggressive combat style, which includes rapid movements, follow-up slashes, and powerful overhand swings that create tremors on the ground. The image serves to illustrate the intense and challenging nature of the encounters players will face, emphasizing the need for strategic dodging and readiness for sudden, high-damage attacks."
+    "chunk_id": 948248398895,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2889%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(89\\).png",
+    "position_desc": 45,
+    "img_above_text": "![Woods Ember Walkthrough \\(87\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Woods_Ember_Walkthrough_%2887%29.png)\nGo straight first, then look for the archer on the lower level to the right. Once you've eradicated the archer, follow the path all the way to the right to find three Revenant Charbones guarding a **Luoija Fragrant Vine**.",
+    "img_below_text": "Pick up the Fire Bellflower on the left at the bottom of the wooden path before you head toward the Revenants and the vine.\nHeight of Ember Luojia Fragrant Vine",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(87\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Woods_Ember_Walkthrough_%2887%29.png)\nGo straight first, then look for the archer on the lower level to the right. Once you've eradicated the archer, follow the path all the way to the right to find three Revenant Charbones guarding a **Luoija Fragrant Vine**.\"\n        - Following Text: \"Pick up the Fire Bellflower on the left at the bottom of the wooden path before you head toward the Revenants and the vine.\nHeight of Ember Luojia Fragrant Vine\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, eerie forest path with a wooden bridge leading toward a small clearing guarded by three humanoid enemies. This scene aligns with the walkthrough's instructions to eliminate an archer and proceed to confront three Revenant Charbones guarding a **Luoija Fragrant Vine**. The player character is shown approaching the area, emphasizing the next objective in the guide."
 }

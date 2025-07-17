@@ -1,28 +1,11 @@
 {
-    "chunk_id": 548004884834,
-    "source_file": "Loong_Scales.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Loong_Scales_Use_The_New_West.jpg",
-    "alt_text": "Loong Scales Use The New West.jpg",
-    "position_desc": 4,
-    "img_above_text": "### Loong Scale Use: Bitter Lake - Turtle Island\nAfter the fight with Kang-Jin Star, walk along the right side of the island to find a statue of a dragon. Getting close will cause it to come alive, allowing you to fight Cyan Loong.",
-    "img_below_text": "For an even more detailed breakdown of each chapter, be sure to read through our walkthrough.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Loong_Scales.md'.\n\n            Context:\n            - Preceding Text: \"### Loong Scale Use: Bitter Lake - Turtle Island\nAfter the fight with Kang-Jin Star, walk along the right side of the island to find a statue of a dragon. Getting close will cause it to come alive, allowing you to fight Cyan Loong.\"\n            - Following Text: \"For an even more detailed breakdown of each chapter, be sure to read through our walkthrough.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Loong_Scales_Use_The_New_West.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image shows a player character traversing a snowy slope near a body of water, likely on Turtle Island in the game. The character is equipped with a staff and appears to be heading toward a dragon statue in the distance, which aligns with the preceding text's description of encountering Cyan Loong. The image serves to illustrate the setting and the approach to the dragon statue, emphasizing the environment and the player's journey."
+    "chunk_id": 917085440909,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Thunderclap_7.jpg",
+    "alt_text": "Wukong Thunderclap 7.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Thunderclap 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_Thunderclap_5.jpg)\nBefore checking the interior, be sure to look around the left side of the building to find a Thunder Rhino Master on top of a small wooden platform, and climb the snowdrift on the side to reach him before he can cast lightning on you.",
+    "img_below_text": "Behind the mage, you can spot a new enemy standing by a sealed doorway. These Overseeing Monks are an interesting enemy - they really are blind, and will often shift about when they sense you approach. However, once you attack, they'll immediately begin to counter with powerful martial arts, which can sometimes extend for several powerful attacks in a row.\n![Wukong Thunderclap 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_6.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_Thunderclap_5.jpg)\nBefore checking the interior, be sure to look around the left side of the building to find a Thunder Rhino Master on top of a small wooden platform, and climb the snowdrift on the side to reach him before he can cast lightning on you.\"\n        - Following Text: \"Behind the mage, you can spot a new enemy standing by a sealed doorway. These Overseeing Monks are an interesting enemy - they really are blind, and will often shift about when they sense you approach. However, once you attack, they'll immediately begin to counter with powerful martial arts, which can sometimes extend for several powerful attacks in a row.\n![Wukong Thunderclap 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_6.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" where the player character is approaching a Thunder Rhino Master who is casting a lightning attack. The setting is a snow-covered area near a building, and the player must reach the enemy before he can cast lightning. This encounter is part of a sequence leading up to a confrontation with Overseeing Monks, who are blind but skilled in martial arts."
 }

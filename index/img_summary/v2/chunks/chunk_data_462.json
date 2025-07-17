@@ -1,28 +1,11 @@
 {
-    "chunk_id": 772307981222,
-    "source_file": "Centipede_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg",
-    "alt_text": "Centipede Guai Pic.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Centipede Guai Fight\n* Centipede Guai Spirit",
-    "img_below_text": "## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Centipede_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Centipede Guai Fight\n* Centipede Guai Spirit\"\n            - Following Text: \"## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character engaging in combat with the Centipede Guai, a large, menacing insect-like boss creature in a dark, eerie environment filled with bones and skulls. The preceding text introduces the Centipede Guai Spirit, suggesting it may play a significant role in the narrative or gameplay, while the following text describes its location in the Bonevault, a pit of bones accessible via the Middle Hollow Keeper's Shrine. The image serves to illustrate the encounter with this formidable enemy within its atmospheric setting."
+    "chunk_id": 612834010167,
+    "source_file": "Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+    "alt_text": "Wukong Sahali 1.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nThis “senior brother” is the First Prince of Flowing Sand — aka the giant rat Yaoguai Chief that you can fight in the Valley of Despair on the road from Sandgate Village to the Crouching Tiger Temple. If you didn’t kill the rat king, he’ll summon the prince to fight you. Otherwise, you can use the Pungent Flesh Chunk to summon and defeat him yourself. He’ll drop the Arhat Gold Piece when defeated, which is the gold the Boar needs.",
+    "img_below_text": "The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nThis “senior brother” is the First Prince of Flowing Sand — aka the giant rat Yaoguai Chief that you can fight in the Valley of Despair on the road from Sandgate Village to the Crouching Tiger Temple. If you didn’t kill the rat king, he’ll summon the prince to fight you. Otherwise, you can use the Pungent Flesh Chunk to summon and defeat him yourself. He’ll drop the Arhat Gold Piece when defeated, which is the gold the Boar needs.\"\n        - Following Text: \"The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rugged, desolate area with dilapidated structures and scaffolding, likely part of the Valley of Despair in *Black Myth: Wukong*. It shows a character in motion, possibly engaged in combat or exploration, and a boar-like figure near stairs leading to a large, inaccessible gate. This scene aligns with the narrative where the Boar challenges the player after obtaining the Arhat Gold Piece, setting up a duel before offering to explore the Realm of Gold together."
 }

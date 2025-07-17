@@ -1,28 +1,11 @@
 {
-    "chunk_id": 826009052621,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg",
-    "alt_text": "Wukong MadTiger 11.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong MadTiger 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg)\nOther times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.",
-    "img_below_text": "There’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.\n![Wukong MadTiger 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg)\nOther times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\"\n            - Following Text: \"There’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.\n![Wukong MadTiger 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense boss battle in *Black Myth: Wukong*, featuring the \"Mad Tiger,\" a massive, ferocious enemy. The player character is shown mid-combat, striking the tiger's leg while evading its powerful attacks. The preceding and following text highlights the tiger's unpredictable and devastating moves, such as feinting strikes and leaping body slams, emphasizing the need for precise timing and strategic dodging to exploit its recovery moments. The image visually reinforces the game's challenging and dynamic combat mechanics."
+    "chunk_id": 85616603261,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg",
+    "alt_text": "Wukong Thunderclap 50.jpg",
+    "position_desc": 50,
+    "img_above_text": "![Wukong Thunderclap 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg)\nIf you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.",
+    "img_below_text": "He can also form energy around himself by moving his arms in a circle. This will cause all the scattered pages around the floor to form into a whirling tornado, which he'll send at you.\n![Wukong Thunderclap 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Thunderclap_51.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg)\nIf you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.\"\n        - Following Text: \"He can also form energy around himself by moving his arms in a circle. This will cause all the scattered pages around the floor to form into a whirling tornado, which he'll send at you.\n![Wukong Thunderclap 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Thunderclap_51.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss encounter in *Black Myth: Wukong* against an enemy named \"Non-Void.\" The boss is shown mid-action, surrounded by swirling pages, likely as part of an attack or ability. The text suggests the boss uses these pages to form a tornado-like attack, emphasizing the need for precise timing to counter or avoid damage. The player character is positioned in the foreground, preparing to respond."
 }

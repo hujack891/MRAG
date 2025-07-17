@@ -1,28 +1,11 @@
 {
-    "chunk_id": 433820007858,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Sandgate_3.jpg",
-    "alt_text": "Wukong Sandgate 3.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Sandgate 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_2.jpg)\nWhen you regain control, head into the stagnant shallow pool of water, where you’ll find a few Jade Lotus to harvest. Over on the right, the source of the arrows you became riddled with will become apparent, as a nearby ridge is lined with Rat Archers who will fire long salvos of flaming arrows from above.",
-    "img_below_text": "Sprint past them along the water until you can find a small area to climb up onto, where a Rat Soldier will engage you from the left. Be sure to strafe around to keep the archers between you and the soldier, and bait out his shield slam before hitting him with a heavy attack to shatter his shield (the shield’s health appears as a white bar above his health bar).\n![Wukong Sandgate 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Sandgate_4.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_2.jpg)\nWhen you regain control, head into the stagnant shallow pool of water, where you’ll find a few Jade Lotus to harvest. Over on the right, the source of the arrows you became riddled with will become apparent, as a nearby ridge is lined with Rat Archers who will fire long salvos of flaming arrows from above.\"\n            - Following Text: \"Sprint past them along the water until you can find a small area to climb up onto, where a Rat Soldier will engage you from the left. Be sure to strafe around to keep the archers between you and the soldier, and bait out his shield slam before hitting him with a heavy attack to shatter his shield (the shield’s health appears as a white bar above his health bar).\n![Wukong Sandgate 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Sandgate_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Sandgate_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is engaged in a battle with a Rat Soldier wielding a large shield and spear. The preceding text describes the player navigating through a pool of water while avoiding arrows from Rat Archers, leading up to this confrontation. The following text advises on combat strategy, suggesting to strafe and bait the Rat Soldier's shield slam to break his defense. This image serves to illustrate the combat mechanics and the challenging encounters players will face in the game."
+    "chunk_id": 596603101177,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Wukong_YellowFlower_28.jpg",
+    "alt_text": "Wukong YellowFlower 28.jpg",
+    "position_desc": 26,
+    "img_above_text": "## Temple Entrance\nOnce you reach the Temple Entrance Shrine, you'll finally be able to start exploring the Temple of Yellow Flowers, which is still a fairly spread out complex tucked into pathways further up the mountain.",
+    "img_below_text": "Head up the stairs beyond the main gate, but check a small alcove to the left first to find a green Wisp guarded by some Worm Practitioners. Be ready to find many of these enemies around the temple, as more than a few of them hide in the tall grass by lying down until you approach.\n![Wukong YellowFlower 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_YellowFlower_29.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Temple Entrance\nOnce you reach the Temple Entrance Shrine, you'll finally be able to start exploring the Temple of Yellow Flowers, which is still a fairly spread out complex tucked into pathways further up the mountain.\"\n        - Following Text: \"Head up the stairs beyond the main gate, but check a small alcove to the left first to find a green Wisp guarded by some Worm Practitioners. Be ready to find many of these enemies around the temple, as more than a few of them hide in the tall grass by lying down until you approach.\n![Wukong YellowFlower 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_YellowFlower_29.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showing a green Wisp highlighted with a red circle in a grassy alcove. A Worm Practitioner enemy is nearby, partially hidden in the foliage, with a health bar indicating combat readiness. This area is part of the Temple of Yellow Flowers, where players must navigate through enemies and collect items like the Wisp. The user interface displays character abilities and health at the bottom of the screen."
 }

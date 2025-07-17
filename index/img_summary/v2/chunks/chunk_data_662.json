@@ -1,28 +1,11 @@
 {
-    "chunk_id": 392487091504,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg",
-    "alt_text": "Wukong Bitter 20.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong Bitter 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg)\nSpeak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!",
-    "img_below_text": "Return to Chen Loong (who now stands outside the shack by the water), and deliver the pellet to him. The old dragon will be overjoyed at your gift, and in return will pass along The Ruyi Scroll to you. He'll proclaim that he now has the strength to unseal the Painted Realm, where he and his fellow deities will now reside -- and you're invited!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg)\nSpeak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\"\n            - Following Text: \"Return to Chen Loong (who now stands outside the shack by the water), and deliver the pellet to him. The old dragon will be overjoyed at your gift, and in return will pass along The Ruyi Scroll to you. He'll proclaim that he now has the strength to unseal the Painted Realm, where he and his fellow deities will now reside -- and you're invited!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character, likely the protagonist, standing in a snowy environment and examining a scroll. This scene appears to be part of the narrative progression in which the player is tasked with delivering a Special-made Bone-Strengthening Pellet to Chen Loong, an old dragon. The scroll in the image may symbolize the Ruyi Scroll mentioned in the following text, which Chen Loong rewards the player with after receiving the pellet. The snowy setting emphasizes the mystical and quest-driven atmosphere of the game."
+    "chunk_id": 55390229875,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg",
+    "alt_text": "Amplification Pellets .jpg",
+    "position_desc": 6,
+    "img_above_text": "![Antimiasma Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Antimiasma_Powder_.jpg)| Antimiasma Powder | Uncommon | Upon use, instantly removes Poisoned State and significantly increases Poison Resistance for a short duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain| • 1 Tree Pearl\n• 1 Jade Lotus | Antimiasma Powder",
+    "img_below_text": "• 1 Aged Ginseng | Amplification Pellets\n![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Antimiasma Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Antimiasma_Powder_.jpg)| Antimiasma Powder | Uncommon | Upon use, instantly removes Poisoned State and significantly increases Poison Resistance for a short duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain| • 1 Tree Pearl\n• 1 Jade Lotus | Antimiasma Powder\"\n        - Following Text: \"• 1 Aged Ginseng | Amplification Pellets\n![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Antimiasma Powder**, an uncommon item in the video game *Black Myth: Wukong*. Its primary function is to **remove the Poisoned State** and temporarily **boost Poison Resistance** upon use. The item can be found in a specific location (a cliff after defeating Lingxuzi in Bamboo Grove) or purchased from the Shrine store after saving the Shen Monkey Vendor. It requires **1 Tree Pearl** and **1 Jade Lotus** for crafting or purchase."
 }

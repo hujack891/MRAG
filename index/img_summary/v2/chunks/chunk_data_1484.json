@@ -1,28 +1,11 @@
 {
-    "chunk_id": 764619944080,
-    "source_file": "Guangmou.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg",
-    "alt_text": "Wukong Bamboo 24.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Bamboo 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg)\nHowever, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.",
-    "img_below_text": "His other main projectile attack comes out much faster, as he levitates off the ground for a moment before shooting out a line of the spells in front of him. They don’t track you like the others, but they will shoot rapidly downward and into the ground in front of him.\n![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Guangmou.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg)\nHowever, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.\"\n            - Following Text: \"His other main projectile attack comes out much faster, as he levitates off the ground for a moment before shooting out a line of the spells in front of him. They don’t track you like the others, but they will shoot rapidly downward and into the ground in front of him.\n![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense moment in the boss fight against Guangmou in *Black Myth: Wukong*. Guangmou is unleashing a projectile-based attack, with multiple glowing energy orbs shooting outward in various directions. The player character, armed with a staff, is positioned in the foreground, seemingly preparing to react or defend.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates Guangmou's projectile attack, aligning with the preceding text that describes his use of ranged attacks as distractions before closing in for melee combat. It visually emphasizes the need for the player to stay alert and manage both ranged and close-quarters threats during the fight."
+    "chunk_id": 197576834703,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%283%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(3\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Chapter 4 Secret Area \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Chapter_4_Secret_Area_%284%29.png)\nFrom here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.",
+    "img_below_text": "Go near it and a health bar will appear for the Old Cocoon. Hit it to destroy it, and eventually reveal the Venom Daoist. When you beat him, he'll run off and allude to settling the score with you once he's reached his full mastery.\n### Warning: Missable Gear!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 4 Secret Area \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Chapter_4_Secret_Area_%284%29.png)\nFrom here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.\"\n        - Following Text: \"Go near it and a health bar will appear for the Old Cocoon. Hit it to destroy it, and eventually reveal the Venom Daoist. When you beat him, he'll run off and allude to settling the score with you once he's reached his full mastery.\n### Warning: Missable Gear!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, eerie environment with a large white sac hanging from twisted, tree-like structures, surrounded by skeletal remains scattered across the ground. A character, armed with a staff, stands facing the sac, preparing for an encounter. This scene aligns with the walkthrough description, where approaching the sac triggers a health bar for the \"Old Cocoon,\" leading to a battle that reveals the Venom Daoist. The setting emphasizes the ominous atmosphere and the impending confrontation."
 }

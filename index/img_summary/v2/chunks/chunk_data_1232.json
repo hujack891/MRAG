@@ -1,28 +1,11 @@
 {
-    "chunk_id": 908952339646,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Wolves_48.jpg",
-    "alt_text": "Wukong Wolves 48.jpg",
-    "position_desc": 56,
-    "img_above_text": "![Wukong Wolves 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Wolves_50.jpg)\nOnce he stops running, watch for him to raise a claw. These attacks are usually simple swipes with a big delay, so wait for the claw to descend before dodging and attacking. His two-hit attacks only come from his leaps, so as long as he’s stationary, his attacks will be easier to anticipate.",
-    "img_below_text": "Sometimes, Lingxuzi can dive at you face first, moving his open jaws up before biting down. You need only dodge his face, meaning you can dodge right into his arms and keep attacking.\n![Wukong Wolves 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Wolves_49.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 56 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Wolves_50.jpg)\nOnce he stops running, watch for him to raise a claw. These attacks are usually simple swipes with a big delay, so wait for the claw to descend before dodging and attacking. His two-hit attacks only come from his leaps, so as long as he’s stationary, his attacks will be easier to anticipate.\"\n            - Following Text: \"Sometimes, Lingxuzi can dive at you face first, moving his open jaws up before biting down. You need only dodge his face, meaning you can dodge right into his arms and keep attacking.\n![Wukong Wolves 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Wolves_49.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Wolves_48.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat encounter between the player character and Lingxuzi, a large wolf-like enemy in *Black Myth: Wukong*. Lingxuzi is shown lunging forward with glowing red eyes, emphasizing its aggressive nature. The preceding text highlights Lingxuzi's attack patterns, such as delayed claw swipes and leaps, while the following text describes its face-first dive attack, suggesting strategies for dodging and countering. The image visually reinforces the intensity of the battle and the need for precise timing and positioning during the fight."
+    "chunk_id": 251822796060,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Furnace_Valley_Walkthrough_%2833%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(33\\).png",
+    "position_desc": 14,
+    "img_above_text": "Right at the end of this path, you'll find a Turtle Treasure guarding a chest. This Turtle Treasure holds a Spirit for you to collect once you've beaten it. After grabbing the Turtle Treasure Spirit, open the chest to collect Kun Steel, Knot of Voidness, and Medicines.\nTurtle Treasure Spirit",
+    "img_below_text": "Backtrack on yourself and go straight up through the path on the left between the rocks. Head for the lava stream running from the ceiling straight up ahead but stop to kill the last Flamling on the right, just behind the rock, and harvest the Fire Date from the tree on the right.\n![Furnace Valley Walkthrough \\(35\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Furnace_Valley_Walkthrough_%2835%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Right at the end of this path, you'll find a Turtle Treasure guarding a chest. This Turtle Treasure holds a Spirit for you to collect once you've beaten it. After grabbing the Turtle Treasure Spirit, open the chest to collect Kun Steel, Knot of Voidness, and Medicines.\nTurtle Treasure Spirit\"\n        - Following Text: \"Backtrack on yourself and go straight up through the path on the left between the rocks. Head for the lava stream running from the ceiling straight up ahead but stop to kill the last Flamling on the right, just behind the rock, and harvest the Fire Date from the tree on the right.\n![Furnace Valley Walkthrough \\(35\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Furnace_Valley_Walkthrough_%2835%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a fiery, lava-filled environment with a player character standing in the foreground, holding a staff-like weapon. Two red arrows indicate possible paths forward through the rocky terrain. This scene aligns with the walkthrough's instructions to navigate toward a lava stream running from the ceiling while encountering enemies and collecting resources, such as the Fire Date from a nearby tree."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 965451384442,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg",
-    "alt_text": "Wukong MadTiger 5.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong MadTiger 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg)\n* The second location on the path down from the sealed stone door where you fought the King of Flowing Sand and his Second Rat Prince son. Head down from the door towards a bridge, but take a right to pass through a ruined building overhang where there’s a long roof-like walkway and several Withering Corpses milling about.",
-    "img_below_text": "* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.\n![Wukong MadTiger 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg)\n* The second location on the path down from the sealed stone door where you fought the King of Flowing Sand and his Second Rat Prince son. Head down from the door towards a bridge, but take a right to pass through a ruined building overhang where there’s a long roof-like walkway and several Withering Corpses milling about.\"\n            - Following Text: \"* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.\n![Wukong MadTiger 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts Wukong navigating a desolate, rocky area with overgrown grass and ruined stone structures. This location appears to be part of the path leading down from the sealed stone door where the King of Flowing Sand was fought. The setting includes a ruined building overhang and a roof-like walkway, suggesting an abandoned and hostile environment populated by Withering Corpses.\n\n2. **Purpose/Narrative Role:**  \nThe image serves to illustrate the journey through a specific area in *Black Myth: Wukong*, highlighting the atmospheric and environmental details of the game. It visually represents the player’s progression through a dangerous and decayed location, tying into the narrative of exploration and combat in a mythological world."
+    "chunk_id": 56356728957,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Thunderclap_47.jpg",
+    "alt_text": "Wukong Thunderclap 47.jpg",
+    "position_desc": 46,
+    "img_above_text": "Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.",
+    "img_below_text": "After defeating them, you can spot a lone monk standing inside. This is the target of the Snow Fox's quest for revenge, and you can now use the Snow Fox Brush in your inventory to transform into The Fox, and step inside to trigger a cutscene (if you enter first you can speak to him, but transforming near the monk will instantly trigger the fight without a scene).\n## Yaoguai Chief Miniboss Fight - Non-Void",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.\"\n        - Following Text: \"After defeating them, you can spot a lone monk standing inside. This is the target of the Snow Fox's quest for revenge, and you can now use the Snow Fox Brush in your inventory to transform into The Fox, and step inside to trigger a cutscene (if you enter first you can speak to him, but transforming near the monk will instantly trigger the fight without a scene).\n## Yaoguai Chief Miniboss Fight - Non-Void\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching the entrance of a grand temple-like structure with an ornate altar inside. A monk is seen praying before the altar, which is central to the narrative progression described in the context. This area serves as a key location for triggering a cutscene or initiating a fight related to the Snow Fox's quest for revenge."
 }

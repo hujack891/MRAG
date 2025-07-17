@@ -1,28 +1,11 @@
 {
-    "chunk_id": 438544411917,
-    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Chapter_4_Secret_Area_%284%29.png",
-    "alt_text": "Chapter 4 Secret Area \\(4\\).png",
-    "position_desc": 8,
-    "img_above_text": "![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)\nWhen you get to the top, you'll see it branch off to the left (where the torch is) and continue onward. Stick to the path going onward, and follow this around to the right. This will bring you to your next shrine, which is the Pool of Shattered Jade Keeper's Shrine.",
-    "img_below_text": "From here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.\n![Chapter 4 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%283%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'How_to_Unlock_the_Chapter_4_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)\nWhen you get to the top, you'll see it branch off to the left (where the torch is) and continue onward. Stick to the path going onward, and follow this around to the right. This will bring you to your next shrine, which is the Pool of Shattered Jade Keeper's Shrine.\"\n            - Following Text: \"From here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.\n![Chapter 4 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%283%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Chapter_4_Secret_Area_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, eerie pathway lined with large, hanging spider sacs. A red arrow indicates the direction forward, guiding players through this unsettling area. The sacs and dim lighting create a foreboding atmosphere, emphasizing the need to proceed cautiously.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide for navigating the path in Chapter 4 of *Black Myth: Wukong*. It aligns with the preceding and following text, which describe the journey past spider sacs toward a large white sac and onward in the secret area. The arrow helps players stay on track in this challenging environment."
+    "chunk_id": 345718509047,
+    "source_file": "Lang-Baw-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png",
+    "alt_text": "Foothills Walkthrough \\(34\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.",
+    "img_below_text": "If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.\"\n        - Following Text: \"If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong*, showcasing the player character facing off against a large, lizard-like enemy in a rocky, open environment. The preceding and following text describe strategies for dealing with this enemy when it enters a state where it attacks with rocks. The recommended approach is to use the Plantain Fan to quickly revert the enemy to its red state, allowing for close-range attacks."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 657919371762,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg",
-    "alt_text": "Wukong Fright 38.jpg",
-    "position_desc": 44,
-    "img_above_text": "The only other part of this field has a large gate that can’t currently be opened, so instead it’s time to return to the Shrine.\n### The Sixth Buddha’s Eyeball",
-    "img_below_text": "From the Shrine at Rockrest Flat, look off to the left for a path leading to a large opening in the rocks. Just before the path opens up, you can find the final statue head, and claiming its eyes will cause a mantra to be chanted, “Om Mani Padme Hum”, confirming you’ve found the final eye!\n![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 44 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The only other part of this field has a large gate that can’t currently be opened, so instead it’s time to return to the Shrine.\n### The Sixth Buddha’s Eyeball\"\n            - Following Text: \"From the Shrine at Rockrest Flat, look off to the left for a path leading to a large opening in the rocks. Just before the path opens up, you can find the final statue head, and claiming its eyes will cause a mantra to be chanted, “Om Mani Padme Hum”, confirming you’ve found the final eye!\n![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player-controlled character, armed with a staff, approaching a shrine-like structure in a rocky, desolate environment. The scene appears to be part of a quest or exploration sequence in *Black Myth: Wukong*, where the player is navigating towards a significant location tied to the Sixth Buddha’s Eyeball and the final statue head.\n\n2. **Narrative Role**:  \nThe image illustrates the journey back to the Shrine at Rockrest Flat, where the player is directed to find a path leading to the final statue head. This discovery is crucial to completing the quest, as obtaining the statue's eyes triggers the mantra “Om Mani Padme Hum,” confirming the completion of the objective."
+    "chunk_id": 973471198102,
+    "source_file": "Giant_Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png",
+    "alt_text": "Five Skandhas \\(25\\).png",
+    "position_desc": 5,
+    "img_above_text": "Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.",
+    "img_below_text": "After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.\"\n        - Following Text: \"After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky landscape with towering formations and a foreboding atmosphere, likely the setting for the battle with the Giant Shigandang boss described in the preceding text. The rugged terrain and dramatic lighting suggest a climactic moment in the game, where players must navigate the environment to defeat the boss and progress to the next stage, as indicated in the following text."
 }

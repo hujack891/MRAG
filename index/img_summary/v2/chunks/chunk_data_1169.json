@@ -1,28 +1,11 @@
 {
-    "chunk_id": 743834725767,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png",
-    "alt_text": "Five Skandhas \\(21\\).png",
-    "position_desc": 81,
-    "img_above_text": "Go to the clearing behind where you fought the Son of Stones, just off to the left. You'll see some water, a large rock to the left of it, and two golden trees on either side of the rock.\nYou want to go to the right of the water to find the secret area that will take you to the hidden boss.",
-    "img_below_text": "You'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.\n![Five Skandhas \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 81 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Go to the clearing behind where you fought the Son of Stones, just off to the left. You'll see some water, a large rock to the left of it, and two golden trees on either side of the rock.\nYou want to go to the right of the water to find the secret area that will take you to the hidden boss.\"\n            - Following Text: \"You'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.\n![Five Skandhas \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, forested mountainous area with a character, likely the protagonist, hovering on a cloud in the foreground. A red arrow is overlaid on the image, pointing toward a cliffside opening, suggesting the intended direction or path to progress.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players locate the hidden path mentioned in the preceding and following text. It highlights the specific cliffside opening that players need to ascend toward in order to continue exploring the secret area and eventually reach the hidden boss."
+    "chunk_id": 166811119530,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg",
+    "alt_text": "Wukong Fright 31.jpg",
+    "position_desc": 33,
+    "img_above_text": "Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.",
+    "img_below_text": "There’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\n![Wukong Fright 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.\"\n        - Following Text: \"There’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\n![Wukong Fright 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter from the game *Black Myth: Wukong*, showcasing the player character battling an enemy named \"Mother of Stones.\" The health bar at the bottom indicates the enemy's status, while the UI displays various abilities and resources available to the player. The preceding and following text suggests this fight is part of a challenging sequence involving multiple enemies, requiring strategic use of Spirit attacks, Focus Points, and defensive maneuvers to survive."
 }

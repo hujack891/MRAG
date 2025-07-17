@@ -1,28 +1,11 @@
 {
-    "chunk_id": 407299082269,
-    "source_file": "Old_Ginseng_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Karma_19.jpg",
-    "alt_text": "Wukong Karma 19.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Karma 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Karma_12.jpg)\nStick to staying in safe spots to keep using Thrust Stance out of the range of his roots, or Pillar Stance above him, and look for his many openings when he tumbles to the ground to press the attack, and he'll fall before long, granting you both the **Old Ginseng Guai Spirit** , Millenium Ginseng Seeds to give to Chen Loong, and the **Ginseng Cape** to wear.",
-    "img_below_text": "With the Yaoguai Chief defeated, be sure to check around behind the large stone monument near where you fought the miniboss. On a small snow-covered table, you can find the **Jade Essence** \\- a new Gourd Drink that allows you to recover mana as well as health!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Old_Ginseng_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Karma_12.jpg)\nStick to staying in safe spots to keep using Thrust Stance out of the range of his roots, or Pillar Stance above him, and look for his many openings when he tumbles to the ground to press the attack, and he'll fall before long, granting you both the **Old Ginseng Guai Spirit** , Millenium Ginseng Seeds to give to Chen Loong, and the **Ginseng Cape** to wear.\"\n            - Following Text: \"With the Yaoguai Chief defeated, be sure to check around behind the large stone monument near where you fought the miniboss. On a small snow-covered table, you can find the **Jade Essence** \\- a new Gourd Drink that allows you to recover mana as well as health!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Karma_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a game where the player character stands near a snow-covered table behind a large stone monument. The table holds an item labeled \"Pick Up,\" which is likely the **Jade Essence** mentioned in the following text. This item is a new Gourd Drink that allows the player to recover both mana and health. The preceding text describes a battle with the Yaoguai Chief, after which players are advised to explore the area for valuable items, such as the Jade Essence, enhancing their gameplay experience."
+    "chunk_id": 341882673881,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg",
+    "alt_text": "Wukong Sandgate 36.jpg",
+    "position_desc": 34,
+    "img_above_text": "![Wukong Sandgate 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg)\nHead up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.",
+    "img_below_text": "At the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.\n![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg)\nHead up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.\"\n        - Following Text: \"At the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.\n![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a dilapidated building on a hill in *Black Myth: Wukong*. The red circle highlights a notable area inside the structure, possibly indicating an item or point of interest. This scene aligns with the walkthrough's instructions to explore houses for enemies, items like Licorice, and treasures such as **Blood of the Iron Bull** and gold pieces."
 }

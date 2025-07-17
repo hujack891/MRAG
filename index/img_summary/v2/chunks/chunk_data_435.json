@@ -1,28 +1,11 @@
 {
-    "chunk_id": 301433723713,
-    "source_file": "Celestial_Jade_Lotus_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/The_New_West_Jade_Lotus.jpg",
-    "alt_text": "The New West Jade Lotus.jpg",
-    "position_desc": 4,
-    "img_above_text": "## The New West Celestial Jade Lotus Pill\nThe New West Celestial Jade Lotus Pill",
-    "img_below_text": "The New West Celestial Jade Lotus Pill is hiding on Turtle Island. From the Turtle Island Keeper's Shrine, turn left and run off the edge of the first cliff. The Celestial Jade Lotus Pill is sitting in a golden chest by the rock wall.\n## The Webbed Hollow Celestial Jade Lotus Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Celestial_Jade_Lotus_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## The New West Celestial Jade Lotus Pill\nThe New West Celestial Jade Lotus Pill\"\n            - Following Text: \"The New West Celestial Jade Lotus Pill is hiding on Turtle Island. From the Turtle Island Keeper's Shrine, turn left and run off the edge of the first cliff. The Celestial Jade Lotus Pill is sitting in a golden chest by the rock wall.\n## The Webbed Hollow Celestial Jade Lotus Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/The_New_West_Jade_Lotus.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, serene environment with a character standing near a shrine-like structure illuminated by lanterns. The character appears to be interacting with a golden chest, as indicated by the \"RT Open\" prompt. Based on the context, this scene likely represents the location of the New West Celestial Jade Lotus Pill, which is hidden near the Turtle Island Keeper's Shrine. The image serves as a visual guide to help players identify the specific setting and interactable object in their quest."
+    "chunk_id": 649364734804,
+    "source_file": "Centipede_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Centipede_Guai_Location.jpg",
+    "alt_text": "Centipede Guai Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.",
+    "img_below_text": "## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.\"\n        - Following Text: \"## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a player character standing at the edge of a rocky platform, overlooking a dark, eerie pit filled with bones and web-like textures. This setting aligns with the description of the Bonevault, a massive pit of skulls in the Webbed Hollow, which serves as the location for encountering the Centipede Guai boss. The character appears prepared for combat, holding a detailed weapon, with visible HUD elements indicating abilities and stats."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 256179398778,
-    "source_file": "Hundred-Eyed_Daoist_Master.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_77.jpg",
-    "alt_text": "Wukong YellowFlower 77.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong YellowFlower 76.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_YellowFlower_76.jpg)\nIf he stabs his sword into the ground in front of him, he's actually hoping to bait you into deflecting your attack, which he'll counter with a charged electric stab. The good news is you can deflect him right back, just be ready for him to get mad and burrow down in response.",
-    "img_below_text": "He can also hold his sword high up above him while charging it with lightning strikes. After a delay, he'll begin slashing the air in your direction, unleashing a low projectile wave followed by a diagonal slash wave, and then charge up his sword before jabbing it ahead to send a beam of lightning straight at you. It's better to keep your distance the moment you see him charging up, then dodge the three blasts before moving back in to fight.\n![Wukong YellowFlower 78.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_YellowFlower_78.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Hundred-Eyed_Daoist_Master.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 76.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_YellowFlower_76.jpg)\nIf he stabs his sword into the ground in front of him, he's actually hoping to bait you into deflecting your attack, which he'll counter with a charged electric stab. The good news is you can deflect him right back, just be ready for him to get mad and burrow down in response.\"\n            - Following Text: \"He can also hold his sword high up above him while charging it with lightning strikes. After a delay, he'll begin slashing the air in your direction, unleashing a low projectile wave followed by a diagonal slash wave, and then charge up his sword before jabbing it ahead to send a beam of lightning straight at you. It's better to keep your distance the moment you see him charging up, then dodge the three blasts before moving back in to fight.\n![Wukong YellowFlower 78.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_YellowFlower_78.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_77.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" featuring the Hundred-Eyed Daoist Master, a formidable enemy character. The master is shown wielding a sword charged with lightning, poised to unleash powerful attacks. The setting is a vibrant field of yellow flowers, adding contrast to the intense battle. This image illustrates the master's combat style, which includes charged electric stabs and projectile waves, emphasizing the need for strategic deflection and dodging by the player."
+    "chunk_id": 508623584373,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg",
+    "alt_text": "Wukong MadTiger 14.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.",
+    "img_below_text": "Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.\"\n        - Following Text: \"Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against the \"Mad Tiger.\" The scene shows the Mad Tiger mid-leap, likely executing its fast opening attack as described in the preceding text. The player character is dodging to avoid the incoming strike. The on-screen dialogue, \"Food has come to me. Can't let you flee!\" emphasizes the aggressive nature of the encounter."
 }

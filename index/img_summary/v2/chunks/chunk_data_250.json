@@ -1,28 +1,11 @@
 {
-    "chunk_id": 845899102212,
-    "source_file": "black-myth-wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
-    "alt_text": "Buddhas Eyes Secret Boss .png",
-    "position_desc": 8,
-    "img_above_text": "* Where to Find Silk\n## How-to Guides",
-    "img_below_text": "Have a specific question you want answered or want to delve deeper into some of the secrets the game holds? Our how-to guides are here to help you solve puzzles and find key items so nothing stays hidden.\n* How-to Guides",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Where to Find Silk\n## How-to Guides\"\n            - Following Text: \"Have a specific question you want answered or want to delve deeper into some of the secrets the game holds? Our how-to guides are here to help you solve puzzles and find key items so nothing stays hidden.\n* How-to Guides\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in a rugged, natural environment approaching or interacting with an object of interest, possibly a key item or puzzle element. Based on the context, the image likely serves to illustrate a specific location or scenario in *Black Myth: Wukong* where players can uncover secrets, solve puzzles, or find important items, aligning with the game's how-to guides."
+    "chunk_id": 625340695997,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_BlackWind_42.jpg",
+    "alt_text": "Wukong BlackWind 42.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong BlackWind 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Wukong_BlackWind_40.jpg)\nThis fight will last awhile, so be sure to be mindful of your stamina and back off when you need to recover, or reposition yourself if you find yourself too close to any fire pits he’s created. It’s much better to wait and find a better avenue of attack than getting too reckless and being burned as a result.",
+    "img_below_text": "When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Wukong_BlackWind_40.jpg)\nThis fight will last awhile, so be sure to be mindful of your stamina and back off when you need to recover, or reposition yourself if you find yourself too close to any fire pits he’s created. It’s much better to wait and find a better avenue of attack than getting too reckless and being burned as a result.\"\n        - Following Text: \"When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist from *Black Myth: Wukong*, showcasing their detailed character design with a staff weapon and intricate textures, including fiery lighting effects. The preceding and following text suggests this scene occurs during or after a challenging battle against the Black Bear Guai, emphasizing stamina management and strategic positioning. The narrative progresses as the defeated enemy attempts to flee, leading to the acquisition of the Craving Eyes Relic, a key quest item."
 }

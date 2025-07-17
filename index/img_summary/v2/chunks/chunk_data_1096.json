@@ -1,28 +1,11 @@
 {
-    "chunk_id": 381759850212,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Foothills_Walkthrough_%2821%29.png",
-    "alt_text": "Foothills Walkthrough \\(21\\).png",
-    "position_desc": 8,
-    "img_above_text": "In the first portion of the fight, the Supreme Inspector will perform a combo of melee attacks using the sword, often followed by a grab from its feet. Alternatively, he will fly close to the ground and quickly charge toward you. You'll also see The Supreme Inspector rise up from the ground, twirl around, and send out shockwaves in multiple directions. You can move from side to side to avoid these or dodge out of the way.\nAround the halfway mark the Supreme Inspector will switch up attacks and they'll become more aggressive. The combos will become longer, but you'll see the same moveset from the first section.",
-    "img_below_text": "The biggest change from here on out is that it introduces a fiery unicycle into the mix. This will make it easier for him to move around the arena, but he'll also kick it out and send this to attack you independently. When this is introduced, he'll be able to burn you.\n![Foothills Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"In the first portion of the fight, the Supreme Inspector will perform a combo of melee attacks using the sword, often followed by a grab from its feet. Alternatively, he will fly close to the ground and quickly charge toward you. You'll also see The Supreme Inspector rise up from the ground, twirl around, and send out shockwaves in multiple directions. You can move from side to side to avoid these or dodge out of the way.\nAround the halfway mark the Supreme Inspector will switch up attacks and they'll become more aggressive. The combos will become longer, but you'll see the same moveset from the first section.\"\n            - Following Text: \"The biggest change from here on out is that it introduces a fiery unicycle into the mix. This will make it easier for him to move around the arena, but he'll also kick it out and send this to attack you independently. When this is introduced, he'll be able to burn you.\n![Foothills Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Foothills_Walkthrough_%2821%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the Supreme Inspector mid-air, wielding a sword and surrounded by fiery effects. The Inspector is engaging the player character, who is armed with a flaming weapon and clad in ornate armor. This visual aligns with the described gameplay mechanics, where the Inspector becomes more aggressive, introduces fiery attacks, and utilizes a fiery unicycle to enhance mobility and offense. The rocky, arena-like environment emphasizes the high-stakes nature of the encounter."
+    "chunk_id": 441272617489,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Wukong_Wolves_10.jpg",
+    "alt_text": "Wukong Wolves 10.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong Wolves 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Wolves_9.jpg)\nCrossing the bridge will lead to a much more open section of this region. While Black Myth: Wukong is a fairly linear adventure, you will find that areas sometimes open up to allow for a bit more exploration off the beaten path, which can be essential for finding unique items and optional boss encounters.",
+    "img_below_text": "Defeat the next shield bearing Wolf Soldier down the road, and then another Wolf Stalwart guarding a **Purple Lingzhi** Mushroom you can harvest at the foot of a large tree. At this point, you’re likely to gain your first level up, giving you a “**Spark** ”.\n![Wukong Wolves 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Wolves_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Wolves_9.jpg)\nCrossing the bridge will lead to a much more open section of this region. While Black Myth: Wukong is a fairly linear adventure, you will find that areas sometimes open up to allow for a bit more exploration off the beaten path, which can be essential for finding unique items and optional boss encounters.\"\n        - Following Text: \"Defeat the next shield bearing Wolf Soldier down the road, and then another Wolf Stalwart guarding a **Purple Lingzhi** Mushroom you can harvest at the foot of a large tree. At this point, you’re likely to gain your first level up, giving you a “**Spark** ”.\n![Wukong Wolves 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Wolves_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game \"Black Myth: Wukong,\" where the player character is engaged in a battle with a Wolf Soldier. The context suggests that this encounter occurs after crossing a bridge into a more open area, leading to a series of fights with wolf enemies, including a shield-bearing Wolf Soldier and a Wolf Stalwart guarding a valuable **Purple Lingzhi** Mushroom. This sequence is likely part of the player's progression towards their first level up, earning a \"Spark.\""
 }

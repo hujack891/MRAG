@@ -1,28 +1,11 @@
 {
-    "chunk_id": 858561633635,
-    "source_file": "Turtle_Treasure_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Turtle_Treasure.jpg",
-    "alt_text": "Turtle Treasure.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Turtle Treasure Fight\n* Turtle Treasure Spirit",
-    "img_below_text": "## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Turtle_Treasure_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Turtle Treasure Fight\n* Turtle Treasure Spirit\"\n            - Following Text: \"## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Turtle_Treasure.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a fierce battle scene in a video game, where a player character is engaged in combat with a large, menacing creature amidst a fiery, lava-filled environment. This scene is related to the \"Turtle Treasure Spirit\" mentioned in the preceding text, suggesting that the player is fighting this formidable enemy as part of a quest or challenge. The following text provides context on the location of this encounter, indicating that it takes place in Furnace Valley, where the Turtle Treasure guards a chest at the end of a lava flow."
+    "chunk_id": 691389492996,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_YellowLoong_1.jpg",
+    "alt_text": "Wukong YellowLoong 1.jpg",
+    "position_desc": 6,
+    "img_above_text": "The Yellow Loong is the last of the four Loong bosses, and rather appropriately, he's an incredibly challenging fight. In fact, you may want to attempt this optional fight later on, especially after you've completed the rest of Chapter 4 and gotten tougher armor sets and weapons before challenging him. While he doesn't have a huge moveset, the attacks he does can some fast, and when imbued with lightning can often kill you before you're able to react.\nIf you do challenge him early, you should really consider arming yourself to the teeth: Upgrade the Loongscale Armor to reduce shock duration, stock up on every medicine you can think of in addition to Shock-Quelling Powder, and ask the Xu Dog for extra pills that may include rare ones that give you boosts of health or damage increases. Such a powerful foe is deserving of your good consumables -- but you may want to practice a bit first before using them in battle.",
+    "img_below_text": "Yellow Loong has a few distinct attack he can perform, but you'll often find he always starts the fight with the same one: After charging up power, he'll dash forward to thrust with his glaive.\n![Wukong YellowLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_YellowLoong_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Yellow Loong is the last of the four Loong bosses, and rather appropriately, he's an incredibly challenging fight. In fact, you may want to attempt this optional fight later on, especially after you've completed the rest of Chapter 4 and gotten tougher armor sets and weapons before challenging him. While he doesn't have a huge moveset, the attacks he does can some fast, and when imbued with lightning can often kill you before you're able to react.\nIf you do challenge him early, you should really consider arming yourself to the teeth: Upgrade the Loongscale Armor to reduce shock duration, stock up on every medicine you can think of in addition to Shock-Quelling Powder, and ask the Xu Dog for extra pills that may include rare ones that give you boosts of health or damage increases. Such a powerful foe is deserving of your good consumables -- but you may want to practice a bit first before using them in battle.\"\n        - Following Text: \"Yellow Loong has a few distinct attack he can perform, but you'll often find he always starts the fight with the same one: After charging up power, he'll dash forward to thrust with his glaive.\n![Wukong YellowLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_YellowLoong_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the intense battle against the Yellow Loong, the final and challenging boss among the four Loong bosses in *Black Myth: Wukong*. The Yellow Loong is shown mid-attack, wielding a lightning-imbued glaive, emphasizing his deadly moves and electric abilities. The player character is seen on the ground, highlighting the difficulty of the fight. The image aligns with the guide's advice to prepare thoroughly with upgraded armor, consumables, and practice before engaging this formidable foe."
 }

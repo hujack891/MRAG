@@ -1,28 +1,11 @@
 {
-    "chunk_id": 329373015068,
-    "source_file": "Luojia_Fragrant_Vine_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Temple_of_the_Yellow_Flowers_Luojia_Fragrant_Vine.jpg",
-    "alt_text": "Temple of the Yellow Flowers Luojia Fragrant Vine.jpg",
-    "position_desc": 8,
-    "img_above_text": "### Temple of the Yellow Flowers Luojia Fragrant Vine\nTemple of the Yellow Flowers Luojia Fragrant Vine",
-    "img_below_text": "The Temple of the Yellow Flowers Luojia Fragrant Vine is accessible after defeating the Violet Spider in the Webbed Hollow. Follow the spiders up the hill after defeating the boss to find yourself near the trail leading to the Temple of the Yellow Flowers. The vine is hanging from the branches of a tree right at the start of the trail.\n### Relief of the Fallen Loong Luojia Fragrant Vine",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Temple of the Yellow Flowers Luojia Fragrant Vine\nTemple of the Yellow Flowers Luojia Fragrant Vine\"\n            - Following Text: \"The Temple of the Yellow Flowers Luojia Fragrant Vine is accessible after defeating the Violet Spider in the Webbed Hollow. Follow the spiders up the hill after defeating the boss to find yourself near the trail leading to the Temple of the Yellow Flowers. The vine is hanging from the branches of a tree right at the start of the trail.\n### Relief of the Fallen Loong Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Temple_of_the_Yellow_Flowers_Luojia_Fragrant_Vine.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image  \nThe image depicts a player character standing near a tree adorned with glowing golden vines, which are likely the \"Luojia Fragrant Vine\" mentioned in the context. The \"Gather\" prompt indicates the vine is an interactable object, suggesting it is a collectible or resource within the game. The setting is a rocky, secluded area, aligning with the description of the trail leading to the Temple of the Yellow Flowers after defeating the Violet Spider. This image serves to visually represent the location and appearance of the Luojia Fragrant Vine, aiding players in identifying it during gameplay."
+    "chunk_id": 149507013039,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_Thunderclap_13.jpg",
+    "alt_text": "Wukong Thunderclap 13.jpg",
+    "position_desc": 14,
+    "img_above_text": "By now you may have noticed the New Thunderclap Temple is brimming with lots of enemies you don't necessarily need to kill. Between the praying Censor Holders and blind Overseeing Monks, you can ignore a lot of enemies if you wish, but it's also not a bad idea to kill them for extra Will and Experience, and is also a good way to build up Focus to expend on more deadly foes.\nHead into the next area, and look left at the top of the stairs to find another Turtle General statue with a **Treasure Chest** with a Knot of Voidness and other materials, surrounded on all sides by praying Censor Holders.",
+    "img_below_text": "Be wary of two Supporter Monks lying in wait in opposite alcoves near the statue, as well as the patrolling monk on the nearby road.\n![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"By now you may have noticed the New Thunderclap Temple is brimming with lots of enemies you don't necessarily need to kill. Between the praying Censor Holders and blind Overseeing Monks, you can ignore a lot of enemies if you wish, but it's also not a bad idea to kill them for extra Will and Experience, and is also a good way to build up Focus to expend on more deadly foes.\nHead into the next area, and look left at the top of the stairs to find another Turtle General statue with a **Treasure Chest** with a Knot of Voidness and other materials, surrounded on all sides by praying Censor Holders.\"\n        - Following Text: \"Be wary of two Supporter Monks lying in wait in opposite alcoves near the statue, as well as the patrolling monk on the nearby road.\n![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong*, showing the player character engaged in battle with a large enemy monk inside the New Thunderclap Temple. The player wields a glowing red spear, while the environment features red walls and shadows from surrounding structures. The HUD displays the player's abilities, health, and \"Will\" resource, which has increased to 164, likely from defeating enemies or progressing through the area. This scene aligns with the walkthrough's description of navigating the temple, where players encounter hostile monks and can gain resources like Will and experience."
 }

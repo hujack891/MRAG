@@ -1,28 +1,11 @@
 {
-    "chunk_id": 664789982092,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Furnace_Valley_Walkthrough_%2843%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(43\\).png",
-    "position_desc": 19,
-    "img_above_text": "![Furnace Valley Walkthrough \\(40\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Furnace_Valley_Walkthrough_%2840%29.png)\nThe Flint Chief is another rock boss in the game, that will try to use all its might in its attacks, so the moveset will seem familiar.",
-    "img_below_text": "A lot of the moves will see the Chief attack with long sweeps or hitting the ground with its fists. Ripples of lava will often follow these attacks, so using the Fireproof Mantle will give you some protection against the fire damage.\n![Furnace Valley Walkthrough \\(41\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Furnace_Valley_Walkthrough_%2841%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(40\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Furnace_Valley_Walkthrough_%2840%29.png)\nThe Flint Chief is another rock boss in the game, that will try to use all its might in its attacks, so the moveset will seem familiar.\"\n            - Following Text: \"A lot of the moves will see the Chief attack with long sweeps or hitting the ground with its fists. Ripples of lava will often follow these attacks, so using the Fireproof Mantle will give you some protection against the fire damage.\n![Furnace Valley Walkthrough \\(41\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Furnace_Valley_Walkthrough_%2841%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Furnace_Valley_Walkthrough_%2843%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Flint Chief, a fiery rock-based boss in *Black Myth: Wukong*. The creature is surrounded by molten lava, emphasizing its volcanic nature and the hazardous environment of the encounter. The preceding and following text describe its attack patterns, including sweeping strikes and ground-pounding moves that generate lava ripples, suggesting players should use the Fireproof Mantle for protection during the fight."
+    "chunk_id": 680534545375,
+    "source_file": "Guanyin%27s_Prayer_Beads.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Guanyin%27s_Prayer_Beads_2.jpg",
+    "alt_text": "Guanyin's Prayer Beads 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "The arm piece has 10 Defense and the following Unique Effect:\n* After absorbing the lingering will, moderately increase maximum health and mana for a long duration",
+    "img_below_text": "The Guanyin's Prayer Beads is obtained in a chest within the secret area in Chapter 1 - Black Wind Mountain: Ancient Guanyin Temple. To get to this area you will have to ring all three bells in the chapter, which the video below will take you through.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The arm piece has 10 Defense and the following Unique Effect:\n* After absorbing the lingering will, moderately increase maximum health and mana for a long duration\"\n        - Following Text: \"The Guanyin's Prayer Beads is obtained in a chest within the secret area in Chapter 1 - Black Wind Mountain: Ancient Guanyin Temple. To get to this area you will have to ring all three bells in the chapter, which the video below will take you through.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the in-game equipment menu where the player has selected \"Guanyin's Prayer Beads,\" an arm piece with 10 Defense. The unique effect of this item is that after absorbing the lingering will, it moderately increases maximum health and mana for a long duration. The preceding text explains the item's effects, while the following text provides information on how to obtain it in Chapter 1 and mentions the possibility of upgrading armor in Chapter 3."
 }

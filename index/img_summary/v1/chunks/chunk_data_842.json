@@ -1,6 +1,9 @@
 {
-    "chunk_id": 965130512600,
+    "chunk_id": 58509961731,
+    "source_file": "Essential_Tips_and_Tricks.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Tips_and_Tricks_%283%29.png",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image displays a game interface focused on upgrading spirits. On the left, there is a grid showing various spirits that can be acquired and upgraded, each with a distinct icon. The highlighted spirit is named \"Guangmou,\" classified as \"Epic,\" with a high Qi cost. The description notes that the spirit's upgraded effect reduces the Qi cost for its skill. Additionally, the equipped effect moderately increases poison damage and resistance. The interface includes options to sort spirits by rarity and watch a demo. At the bottom, there's a cultivation option requiring the player to hold a button, with a display showing current and required Will points (2630/1500). The top right corner shows a total of 2630 points available."
+    "alt_text": "Tips and Tricks \\(3\\).png",
+    "position_desc": 3,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image displays a section of a video game interface focused on upgrading spirits. The highlighted spirit is named \"Guangmou,\" classified as Epic, with a high Qi cost. The description suggests that snakes will retreat once their venom is depleted. The upgraded effect reduces the Qi cost for the skill, while the equipped effect moderately increases poison damage and resistance. The interface shows options to watch a demo and cultivate the spirit, with a current will value of 2630 out of 1500. There is also a sorting option by rarity available."
 }

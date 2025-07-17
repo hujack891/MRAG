@@ -1,28 +1,11 @@
 {
-    "chunk_id": 829867276541,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_Pagoda_78.jpg",
-    "alt_text": "Wukong Pagoda 78.jpg",
-    "position_desc": 1,
-    "img_above_text": "Captain Wise-Voice is one of the four captains you can find in Chapter 3, and is a required boss to escape the prison of the Pagoda Realm. You can reach him by escaping up through the four levels of the Pagoda Prison and past the Outside the Wheel Shrine.\n### Captain Wise-Voice Boss Fight and Guide",
-    "img_below_text": "Much like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"Captain Wise-Voice is one of the four captains you can find in Chapter 3, and is a required boss to escape the prison of the Pagoda Realm. You can reach him by escaping up through the four levels of the Pagoda Prison and past the Outside the Wheel Shrine.\n### Captain Wise-Voice Boss Fight and Guide\"\n            - Following Text: \"Much like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_Pagoda_78.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts Captain Wise-Voice, a boss from Chapter 3 of the Pagoda Realm. The creature has a construct-like appearance with four legs and a golden sphere adorned with dragons at its core. The dark and eerie environment emphasizes its menacing presence, with an orange glow visible on its front right leg, hinting at its vulnerable point.\n\n2. **Purpose/Narrative Role**:  \nThe image visually introduces Captain Wise-Voice, highlighting its unique design and the strategic focus needed to defeat it during the boss fight. It serves as a visual aid for players navigating the Pagoda Realm and preparing for the encounter."
+    "chunk_id": 645418104532,
+    "source_file": "Celestial_Nonary_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Webbed_Hollow_Nonary.jpg",
+    "alt_text": "Webbed Hollow Nonary.jpg",
+    "position_desc": 5,
+    "img_above_text": "## The Webbed Hollow Celestial Nonary Pill\nThe Webbed Hollow Celestial Nonary Pill",
+    "img_below_text": "The Webbed Hollow Celestial Nonary Pill is hidden behind an elusive quest. You will come across several pillars surrounded by a purple aura throughout the Webbed Hollow. These pillars have small paper charms attached to them. Collect all of the charms before heading to the last one in the Temple of Yellow Flowers.\nThe last charm is to the left of the final boss arena.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## The Webbed Hollow Celestial Nonary Pill\nThe Webbed Hollow Celestial Nonary Pill\"\n        - Following Text: \"The Webbed Hollow Celestial Nonary Pill is hidden behind an elusive quest. You will come across several pillars surrounded by a purple aura throughout the Webbed Hollow. These pillars have small paper charms attached to them. Collect all of the charms before heading to the last one in the Temple of Yellow Flowers.\nThe last charm is to the left of the final boss arena.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character interacting with a glowing object on a table in a dimly lit environment. The \"RT Open\" prompt suggests the object is interactable, likely part of a quest or puzzle. Based on the surrounding text, this scene is related to the quest for the Webbed Hollow Celestial Nonary Pill, which involves collecting charms and progressing through specific locations, including the Temple of Yellow Flowers."
 }

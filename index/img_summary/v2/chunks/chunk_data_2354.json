@@ -1,28 +1,11 @@
 {
-    "chunk_id": 55655210555,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
-    "alt_text": "Wukong Pagoda 85.jpg",
-    "position_desc": 79,
-    "img_above_text": "![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.",
-    "img_below_text": "Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 79 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\"\n            - Following Text: \"Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark and intense battle scene from the game \"Black Myth: Wukong.\" The focal point is a large, menacing creature named \"Captain Wise-Voice,\" which is generating electrical power in its front leg, creating a ring of energy that the player must dodge or evade using specific stances. The image highlights the challenging nature of the encounter, requiring strategic movement to avoid multiple electric spots and delayed lightning blasts."
+    "chunk_id": 881035510977,
+    "source_file": "Snout_Mask.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Snout_Mask.jpg",
+    "alt_text": "Snout Mask.jpg",
+    "position_desc": 1,
+    "img_above_text": "It has 1 Defense and the following Unique Effect:\n* For a short duration after using the gourd, moderately increases attack. Refraining from using Gourd for a relatively long duration moderately reduces attack on the contrary",
+    "img_below_text": "The Snout Mask is obtained upon defeating the boar man in Fright Cliff - Rockrest Flat in Chapter 2 - Yellow Wind Ridge after handing him the Sobering Stone, Jade Lotus, and Arhat Gold Piece.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"It has 1 Defense and the following Unique Effect:\n* For a short duration after using the gourd, moderately increases attack. Refraining from using Gourd for a relatively long duration moderately reduces attack on the contrary\"\n        - Following Text: \"The Snout Mask is obtained upon defeating the boar man in Fright Cliff - Rockrest Flat in Chapter 2 - Yellow Wind Ridge after handing him the Sobering Stone, Jade Lotus, and Arhat Gold Piece.\nArmor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the **Snout Mask**, a rare headgear item in a video game. It provides **17 Defense** and has a **Unique Effect** that temporarily increases attack after using the gourd but moderately reduces attack if the gourd is unused for a long time. The mask is obtained by defeating the boar man in **Chapter 2 - Yellow Wind Ridge** after handing him specific items (Sobering Stone, Jade Lotus, and Arhat Gold Piece). Armor upgrades become available later in **Chapter 3**."
 }

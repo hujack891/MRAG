@@ -1,28 +1,11 @@
 {
-    "chunk_id": 442939163343,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Furnace_Valley_Walkthrough_%28100%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(100\\).png",
-    "position_desc": 41,
-    "img_above_text": "Keep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.\nCross the bridge and up the small set of stairs, towards the giants. On the right, you'll encounter a Bull Governor. Though it's best to deal with the creature now, don't go to the right just yet.",
-    "img_below_text": "Instead, take the path to the left. You'll see a set of stares with the Flame Rhino Master at the top, and a small temple with a flame glowing inside. Head for the stairs first and take out the Flame Rhino Master, then hop over to the temple.\n![Furnace Valley Walkthrough \\(101\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 41 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Keep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.\nCross the bridge and up the small set of stairs, towards the giants. On the right, you'll encounter a Bull Governor. Though it's best to deal with the creature now, don't go to the right just yet.\"\n            - Following Text: \"Instead, take the path to the left. You'll see a set of stares with the Flame Rhino Master at the top, and a small temple with a flame glowing inside. Head for the stairs first and take out the Flame Rhino Master, then hop over to the temple.\n![Furnace Valley Walkthrough \\(101\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Furnace_Valley_Walkthrough_%28100%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a forked path in a dark, rocky environment with glowing lava flows dominating the foreground. The left path leads up a staircase toward a Flame Rhino Master, while the right path crosses a bridge toward a small temple with a glowing flame inside. Red arrows highlight the suggested routes, emphasizing the player's next objectives in the walkthrough. The scene visually represents a critical decision point in the game, guiding players to first take the left path to confront the Flame Rhino Master before heading toward the temple on the right."
+    "chunk_id": 655457799791,
+    "source_file": "How_to_Defeat_the_Stone_Vanguard_With_Another_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg",
+    "alt_text": "Wukong Shigandang 2.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong ShiganSecret4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_ShiganSecret4.jpg)\nThis will effectively defeat the Stone Vanguard for you, and you'll earn all the associated experience and item rewards, like the Sterness of Stone.",
+    "img_below_text": "The bad news is that the Shigandang will immediately turn on you, and is an incredibly formidable foe. If you are defeated, the Shigandang will return to its buried spot when you reawaken at the nearby Shrine, allowing you to summon it again when you're ready to go one on one, and freely explore the Rock Crash Platform beyond the arena without having to defeat the Shigandang.\n* ** Having trouble? Check out our Shigandang Boss Guide Here!**",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong ShiganSecret4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_ShiganSecret4.jpg)\nThis will effectively defeat the Stone Vanguard for you, and you'll earn all the associated experience and item rewards, like the Sterness of Stone.\"\n        - Following Text: \"The bad news is that the Shigandang will immediately turn on you, and is an incredibly formidable foe. If you are defeated, the Shigandang will return to its buried spot when you reawaken at the nearby Shrine, allowing you to summon it again when you're ready to go one on one, and freely explore the Rock Crash Platform beyond the arena without having to defeat the Shigandang.\n* ** Having trouble? Check out our Shigandang Boss Guide Here!**\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Shigandang, a powerful stone-based enemy in *Black Myth: Wukong*. It plays a key role in the game's narrative, as it can be summoned to defeat the Stone Vanguard, granting rewards like the Sternness of Stone. However, the Shigandang becomes hostile afterward, presenting a significant challenge to the player. The surrounding context advises strategies for dealing with this formidable foe and exploring the area beyond its arena."
 }

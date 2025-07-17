@@ -1,28 +1,11 @@
 {
-    "chunk_id": 989047465079,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg",
-    "alt_text": "Wukong MadTiger 14.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.",
-    "img_below_text": "Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.\"\n            - Following Text: \"Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in a battle with the Mad Tiger. The Mad Tiger is shown mid-leap, preparing to attack the player. The preceding text describes the Mad Tiger's initial fast leap and slashing attack, while the following text details a feinting strike maneuver. The image captures the intensity of the combat and the need for the player to dodge and retaliate against the Mad Tiger's aggressive moves."
+    "chunk_id": 38268521231,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
+    "alt_text": "Wukong RedLoong 3.jpg",
+    "position_desc": 75,
+    "img_above_text": "![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.",
+    "img_below_text": "On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\n![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.\"\n        - Following Text: \"On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\n![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist, Wukong, stands in a dimly lit tomb-like area. He is facing a mural on the wall, with a treasure chest nearby. This setting aligns with the preceding text, which describes entering a tomb through a cracked wall to find a chest containing the Loong Scale, an important item for unlocking secret bosses. The environment is detailed, with stone lanterns and a mystical atmosphere."
 }

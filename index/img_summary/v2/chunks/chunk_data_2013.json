@@ -1,28 +1,11 @@
 {
-    "chunk_id": 203644755996,
-    "source_file": "Mind_Core.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
-    "alt_text": "Mind Core - Crouching Tiger Temple 1.jpg",
-    "position_desc": 12,
-    "img_above_text": "### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.",
-    "img_below_text": "### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.\"\n            - Following Text: \"### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dimly lit shrine area within a cave, featuring a character standing before a small altar with the option to \"Offer Incense\" displayed. This setting aligns with the context of the Crouching Tiger Temple - Cellar Shrine area, where players interact with Xu Dog to obtain the ninth Mind Core. The shrine and its atmosphere suggest a ritualistic or spiritual interaction tied to the game's progression."
+    "chunk_id": 442517180759,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg",
+    "alt_text": "Wukong Karma 16.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)\nIf he winds up his hand to slam it down into the ground, he'll sneakily send roots your way, which he can use to lock you down and make you unable to flee from his next attack or if you're already stuck in some poison -- but using the Pillar Stance can help you evade his binds.",
+    "img_below_text": "Even with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\n![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)\nIf he winds up his hand to slam it down into the ground, he'll sneakily send roots your way, which he can use to lock you down and make you unable to flee from his next attack or if you're already stuck in some poison -- but using the Pillar Stance can help you evade his binds.\"\n        - Following Text: \"Even with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\n![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong* between the player character and the boss \"Old Ginseng Guai.\" The boss, a humanoid creature, is mid-attack, with visible motion effects suggesting a powerful strike. The player character appears to be knocked down, emphasizing the boss's strength and the need for strategic evasion, as described in the preceding and following text. The snowy environment and HUD elements highlight the game's immersive action-RPG mechanics."
 }

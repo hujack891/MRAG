@@ -1,28 +1,11 @@
 {
-    "chunk_id": 259263595937,
-    "source_file": "Turtle_Tear.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg",
-    "alt_text": "Wukong Bitter 44.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Bitter 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Bitter_33.jpg)\nInteract with this skeleton to spawn the Soak back on the shoreline by Turtle Island.",
-    "img_below_text": "Soaks are far more plentiful than the drinks for your gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Turtle_Tear.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Bitter_33.jpg)\nInteract with this skeleton to spawn the Soak back on the shoreline by Turtle Island.\"\n            - Following Text: \"Soaks are far more plentiful than the drinks for your gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing on a snowy, rocky shoreline near Turtle Island. The character appears to be interacting with the environment, possibly near a glowing green area that could signify a point of interest or an interactive element. The context suggests that this location is where players can spawn Soaks, which are more abundant than the drinks needed for their gourds, and are crucial for healing and upgrading in the game. The image serves to illustrate a key gameplay mechanic and location within the game's world."
+    "chunk_id": 598288159800,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
+    "alt_text": "Wukong RedLoong 3.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.",
+    "img_below_text": "You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to unlock the boss.\n## Yellow Loong Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\"\n        - Following Text: \"You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to unlock the boss.\n## Yellow Loong Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, where the protagonist stands before a mural in a dimly lit cave-like environment. This area is likely part of the game's progression, as the preceding text suggests breaking a wall to access a hidden chest containing the Loong Scales. The mural and surroundings may serve as a narrative or visual clue tied to the game's lore or the upcoming Yellow Loong boss fight."
 }

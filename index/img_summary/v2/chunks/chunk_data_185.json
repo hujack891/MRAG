@@ -1,28 +1,11 @@
 {
-    "chunk_id": 934435245810,
+    "chunk_id": 604539044490,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg",
-    "alt_text": "Wukong Bitter 8.jpg",
-    "position_desc": 42,
-    "img_above_text": "![Wukong Bitter 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Bitter_4.jpg)\nHe can also raise his hand up slowly to trigger a row of lightning bolts in the area, which will explode fairly fast.",
-    "img_below_text": "Sometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\n![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 42 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Bitter_4.jpg)\nHe can also raise his hand up slowly to trigger a row of lightning bolts in the area, which will explode fairly fast.\"\n            - Following Text: \"Sometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\n![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character engaging in a boss fight against \"Chen Loong.\" The boss appears to be unleashing a lightning-based attack, with bolts of electricity striking the area and surrounding the enemy. This visual aligns with the preceding text, which describes the boss raising its hand to summon lightning bolts, and the following text, which mentions aerial divebomb attacks accompanied by lightning strikes. The image highlights the intensity of the encounter and the need for precise dodging and strategy during the battle."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_Bitter_6.jpg",
+    "alt_text": "Wukong Bitter 6.jpg",
+    "position_desc": 46,
+    "img_above_text": "![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\nWhile Chen Loong is highly susceptible to being staggered, he has a few tricks to stop you from pressing the attack for too long. His tail can be pretty impressive, and will use it to spin around and attack with it for two rotations, and then leap into the air to perform a delayed third electric slash.",
+    "img_below_text": "He'll often vary this combo up making it hard to read, and either trick you into thinking he's preparing a cast before tail-whipping, or throwing more quick slashes in-between tail attacks -- or even just doing single hits.\n![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\nWhile Chen Loong is highly susceptible to being staggered, he has a few tricks to stop you from pressing the attack for too long. His tail can be pretty impressive, and will use it to spin around and attack with it for two rotations, and then leap into the air to perform a delayed third electric slash.\"\n        - Following Text: \"He'll often vary this combo up making it hard to read, and either trick you into thinking he's preparing a cast before tail-whipping, or throwing more quick slashes in-between tail attacks -- or even just doing single hits.\n![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong* between the protagonist and Chen Loong, a serpentine enemy with electric abilities. The snowy environment and flowing water suggest a dynamic battlefield. Chen Loong is shown mid-attack, utilizing his tail and electric powers, which aligns with the preceding text describing his tail-based combo moves and stagger susceptibility. The on-screen dialogue highlights Chen Loong's unpredictable and swift nature, emphasizing the challenge he poses to the player."
 }

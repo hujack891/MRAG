@@ -1,28 +1,11 @@
 {
-    "chunk_id": 79087291581,
-    "source_file": "Buddha%27s_Eyeball_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Buddhas_Eyeball_7.jpg",
-    "alt_text": "Buddhas Eyeball 7.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Buddhas Eyeball 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Buddhas_Eyeball_6.jpg)\nOnce you reach the statue on your left, take a left and head towards the shaded area. The Buddha's Eyeball can be found here.",
-    "img_below_text": "Buddha's Eyeball 3\n### Black Myth: Wukong Buddha's Eyeball 4 Location",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Buddha%27s_Eyeball_Locations.md'.\n\n            Context:\n            - Preceding Text: \"![Buddhas Eyeball 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Buddhas_Eyeball_6.jpg)\nOnce you reach the statue on your left, take a left and head towards the shaded area. The Buddha's Eyeball can be found here.\"\n            - Following Text: \"Buddha's Eyeball 3\n### Black Myth: Wukong Buddha's Eyeball 4 Location\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Buddhas_Eyeball_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character standing in a dimly lit, rocky area near a statue and a glowing fire in the distance. This location is part of the quest to find Buddha's Eyeball 4, as indicated by the preceding and following text. The statue and shaded area mentioned in the context suggest this is a key landmark guiding the player to the collectible item."
+    "chunk_id": 685455989679,
+    "source_file": "Bull_Governor_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Bull_Governor_Spirit.jpg",
+    "alt_text": "Bull Governor Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "The Bull Governor is armed with a giant, flaming halberd that he uses to stab, slash, and plunge into the ground to create a fiery explosion. He is a big enemy, meaning he is also rather slow, which works in your favor. The explosions can be tricky to dodge, however, especially considering there are other enemies around. The path to the Bull Governor is guarded by several other foes. Try to take them all out before taking on the Bull Governor so you can focus on him alone.\n## Bull Governor Spirit",
+    "img_below_text": "* **Bull Strength**\n* Equipped Effect: Moderately increases Scorch Damage.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Bull Governor is armed with a giant, flaming halberd that he uses to stab, slash, and plunge into the ground to create a fiery explosion. He is a big enemy, meaning he is also rather slow, which works in your favor. The explosions can be tricky to dodge, however, especially considering there are other enemies around. The path to the Bull Governor is guarded by several other foes. Try to take them all out before taking on the Bull Governor so you can focus on him alone.\n## Bull Governor Spirit\"\n        - Following Text: \"* **Bull Strength**\n* Equipped Effect: Moderately increases Scorch Damage.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Bull Governor Spirit\" in the game's equipment menu. This rare spirit allows the player to take the form of the Bull Governor, enabling a powerful attack with a flaming halberd that deals Scorch Damage upon impact. The equipped effect moderately increases Scorch Damage. The menu also provides options to equip the spirit, view its demo, and examine details, aligning with the preceding text's description of the Bull Governor's abilities and combat strategy."
 }

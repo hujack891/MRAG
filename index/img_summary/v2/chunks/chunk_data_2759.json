@@ -1,28 +1,11 @@
 {
-    "chunk_id": 737029227991,
-    "source_file": "Spearbone_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Spearbone_Power.png",
-    "alt_text": "Spearbone Power.png",
-    "position_desc": 3,
-    "img_above_text": "Spearbone fights like all of the other enemies of his kind in Yellow Wind Ridge. To defeat him while taking minimal damage, keep your distance and wait for him to charge at you with his shield. Wait until he is right in front of you with his shield raised and dodge to the side. Turn around quickly, run to Spearbone, and land a combo on his back before he turns back around. Repeat this process until he is bested.\n## Spearbone Spirit",
-    "img_below_text": "* **Evil Banisher**\n* Equipped Effect: Slightly increases Damage Reduction.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Spearbone_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Spearbone fights like all of the other enemies of his kind in Yellow Wind Ridge. To defeat him while taking minimal damage, keep your distance and wait for him to charge at you with his shield. Wait until he is right in front of you with his shield raised and dodge to the side. Turn around quickly, run to Spearbone, and land a combo on his back before he turns back around. Repeat this process until he is bested.\n## Spearbone Spirit\"\n            - Following Text: \"* **Evil Banisher**\n* Equipped Effect: Slightly increases Damage Reduction.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Spearbone_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image shows the equipment screen of a game, specifically highlighting the \"Spearbone Spirit\" relic. This relic allows the player to take the form of Spearbone, utilizing his tiger shield to ward off attacks and bash enemies. The equipped effect of this relic slightly increases damage reduction. The preceding text provides a strategy to defeat Spearbone, while the following text lists another relic called \"Evil Banisher\" with its equipped effect."
+    "chunk_id": 513854809151,
+    "source_file": "Violet_Spider.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_LowerHollow_79.jpg",
+    "alt_text": "Wukong LowerHollow 79.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong LowerHollow 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_LowerHollow_73.jpg)\nThe Violet Spider will often begin the fight with a signature webbing attack, shooting out several strands in a large frontal arc that you'll need to dodge or you'll waste time getting stuck and having to free yourself while being unable to do much else. Even if you do dodge the initial blast, there will be a web coating on the ground where the attack land that will slow you considerably, and you'll want to move the fight away from such spots as much as possible.",
+    "img_below_text": "She'll often follow up her webbing with a poison attack, sending out a similar salvo of five poison projectiles that will seek you out rather quickly. The good news is you'll be able to use your staff spin to repel these heat-seeking gobs of poison, rather than having to dodge at the last moment.\n![Wukong LowerHollow 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_LowerHollow_74.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong LowerHollow 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_LowerHollow_73.jpg)\nThe Violet Spider will often begin the fight with a signature webbing attack, shooting out several strands in a large frontal arc that you'll need to dodge or you'll waste time getting stuck and having to free yourself while being unable to do much else. Even if you do dodge the initial blast, there will be a web coating on the ground where the attack land that will slow you considerably, and you'll want to move the fight away from such spots as much as possible.\"\n        - Following Text: \"She'll often follow up her webbing with a poison attack, sending out a similar salvo of five poison projectiles that will seek you out rather quickly. The good news is you'll be able to use your staff spin to repel these heat-seeking gobs of poison, rather than having to dodge at the last moment.\n![Wukong LowerHollow 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_LowerHollow_74.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against the Violet Spider in *Black Myth: Wukong*. The player character, armed with a flaming staff, faces the spider in a web-filled cavern. The ground is coated with webbing, which slows movement, as described in the preceding text. The spider appears to be preparing or executing an attack, with green poison visible near its position, aligning with the following text's mention of poison projectiles. The image highlights the challenging environment and mechanics of the encounter."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 328377198751,
-    "source_file": "Curios.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Black-myth-wukong-Tablet_-of-the-Three-Supreme.jpg",
-    "alt_text": "Black-myth-wukong-Tablet -of-the-Three-Supreme.jpg",
-    "position_desc": 26,
-    "img_above_text": "![Black-myth-wukong-jade-moon-rabbit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Black-myth-wukong-jade-moon-rabbit.jpg)| Jade Moon Rabbit| Epic | Slightly increases Damage Reduction This effect is enhanced when equipped with Gold Sun Crow| Found in The Webbed Hollow upon defeating Zhu Bajie | Jade Moon Rabbit\n![Black-myth-wukong-Virtuous-Bamboo-Engraving.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Black-myth-wukong-Virtuous-Bamboo-Engraving.jpg)| Virtuous Bamboo Engraving| Rare | Slightly increases Might recovery rate | Found in The Webbed Hollow randomly by defeating Snake Heads | Virtuous Bamboo Engraving",
-    "img_below_text": "![Black-myth-wukong-Tiger-tendon-belt.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Black-myth-wukong-Tiger-tendon-belt.jpg)| Tiger Tendon Belt| Legendary | For a brief moment after seeing through the enemy, considerably increases Attack. | Found in The Webbed Hollow by defeating Tiger Monks, randomly dropped | Tiger Tendon Belt\n![Black-myth-wukong-celestial-registry-tablet.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-celestial-registry-tablet.jpg)| Celestial Registry Tablet| Epic | Slightly increases the experience points you gain from defeating enemies | Found in The Webbed Hollow in Purple Cloud Mountain in a small gazebo in the initial opening area | Celestial Registry Tablet",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-jade-moon-rabbit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Black-myth-wukong-jade-moon-rabbit.jpg)| Jade Moon Rabbit| Epic | Slightly increases Damage Reduction This effect is enhanced when equipped with Gold Sun Crow| Found in The Webbed Hollow upon defeating Zhu Bajie | Jade Moon Rabbit\n![Black-myth-wukong-Virtuous-Bamboo-Engraving.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Black-myth-wukong-Virtuous-Bamboo-Engraving.jpg)| Virtuous Bamboo Engraving| Rare | Slightly increases Might recovery rate | Found in The Webbed Hollow randomly by defeating Snake Heads | Virtuous Bamboo Engraving\"\n            - Following Text: \"![Black-myth-wukong-Tiger-tendon-belt.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Black-myth-wukong-Tiger-tendon-belt.jpg)| Tiger Tendon Belt| Legendary | For a brief moment after seeing through the enemy, considerably increases Attack. | Found in The Webbed Hollow by defeating Tiger Monks, randomly dropped | Tiger Tendon Belt\n![Black-myth-wukong-celestial-registry-tablet.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-celestial-registry-tablet.jpg)| Celestial Registry Tablet| Epic | Slightly increases the experience points you gain from defeating enemies | Found in The Webbed Hollow in Purple Cloud Mountain in a small gazebo in the initial opening area | Celestial Registry Tablet\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Black-myth-wukong-Tablet_-of-the-Three-Supreme.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a carved wooden tablet featuring a detailed engraving of a robed figure with a halo-like design. Based on the context, it is likely the \"Virtuous Bamboo Engraving,\" a rare item in *Black Myth: Wukong* that slightly increases Might recovery rate. It is found randomly in The Webbed Hollow by defeating Snake Heads."
+    "chunk_id": 718869440316,
+    "source_file": "Drunken_Boar_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+    "alt_text": "Wukong Sahali 1.jpg",
+    "position_desc": 10,
+    "img_above_text": "He’ll drop the **Arhat Gold Piece** when defeated, which is the gold the Boar needs.\n## Return to Rockrest Flat",
+    "img_below_text": "Though he doesn’t say where he’s going, the Boar will actually return to **near where you first met him** at the **Rockrest Flat** area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and the Yellow-Robed Squire will challenge you to a duel!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"He’ll drop the **Arhat Gold Piece** when defeated, which is the gold the Boar needs.\n## Return to Rockrest Flat\"\n        - Following Text: \"Though he doesn’t say where he’s going, the Boar will actually return to **near where you first met him** at the **Rockrest Flat** area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and the Yellow-Robed Squire will challenge you to a duel!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rugged, desolate area with worn structures and scaffolding built into rocky cliffs, likely part of the **Rockrest Flat** area mentioned in the text. A character is seen rushing toward another figure, possibly the **Yellow-Robed Squire**, who stands near stairs leading to a large inaccessible door. This scene aligns with the narrative where the Squire challenges the player to a duel after obtaining the **Arhat Gold Piece**."
 }

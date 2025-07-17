@@ -1,28 +1,11 @@
 {
-    "chunk_id": 307184469009,
-    "source_file": "Luojia_Fragrant_Vine_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Longevity_Rd_Luojia_Fragrant_Vine.jpg",
-    "alt_text": "Longevity Rd Luojia Fragrant Vine.jpg",
-    "position_desc": 6,
-    "img_above_text": "### Longevity Road Luojia Fragrant Vine\nLongevity Road Luojia Fragrant Vine",
-    "img_below_text": "Travel to the Longevity Road Keeper's Shrine and pan the camera left to find a path leading through the snow. Follow that path up a set of stairs, continuing through a wooden gate and up a second flight of stairs. The Luojia Fragrant Vine will be waiting on a tree straight ahead.\nAs you approach the tree you will be ambushed by two Falcon Fanmakers. Take them out to collect the Luojia Fragrant Vine.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Longevity Road Luojia Fragrant Vine\nLongevity Road Luojia Fragrant Vine\"\n            - Following Text: \"Travel to the Longevity Road Keeper's Shrine and pan the camera left to find a path leading through the snow. Follow that path up a set of stairs, continuing through a wooden gate and up a second flight of stairs. The Luojia Fragrant Vine will be waiting on a tree straight ahead.\nAs you approach the tree you will be ambushed by two Falcon Fanmakers. Take them out to collect the Luojia Fragrant Vine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Longevity_Rd_Luojia_Fragrant_Vine.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy forest scene where a character is interacting with a tree adorned with glowing orange leaves and vines, marked as \"Gather.\" This aligns with the context of locating the Luojia Fragrant Vine on Longevity Road. The tree is the objective, and players must approach it to collect the vine after defeating two Falcon Fanmakers in an ambush."
+    "chunk_id": 536400835615,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_12.jpg",
+    "alt_text": "Wukong Thunderclap 12.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Thunderclap 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Thunderclap_11.jpg)\nThe sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.",
+    "img_below_text": "At the top of the slope, two Censor Holders and a Supporter Monk are praying to statues of Turtle and Snake General, and you can ignore them or unleash a surprise attack if you wish.\n![Wukong Thunderclap 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Thunderclap_11.jpg)\nThe sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.\"\n        - Following Text: \"At the top of the slope, two Censor Holders and a Supporter Monk are praying to statues of Turtle and Snake General, and you can ignore them or unleash a surprise attack if you wish.\n![Wukong Thunderclap 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy courtyard area in *Black Myth: Wukong*, featuring the game's protagonist standing near a sloping path. A golden object, highlighted with a red dashed circle, is visible near a statue, suggesting it may be an interactable item or collectible. The preceding text mentions Supporter Monks along the slope, while the following text describes enemies praying at the top of the slope, indicating this area is part of a progression toward an encounter."
 }

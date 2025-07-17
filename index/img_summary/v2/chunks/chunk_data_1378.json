@@ -1,28 +1,11 @@
 {
-    "chunk_id": 753293978123,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Furnace_Valley_Walkthrough_%2878%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(78\\).png",
-    "position_desc": 39,
-    "img_above_text": "![Furnace Valley Walkthrough \\(76\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Furnace_Valley_Walkthrough_%2876%29.png)\nThen, go left and deal with the Stalwart and open the treasure chest it guards to collect Fine Gold Thread and Blood of the Iron Bull.",
-    "img_below_text": "Head in the opposite direction and go underneath the bridge to loop back around to the right, and the first set of stairs now. Deal with the guard there, before proceeding up them.\nKeep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(76\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Furnace_Valley_Walkthrough_%2876%29.png)\nThen, go left and deal with the Stalwart and open the treasure chest it guards to collect Fine Gold Thread and Blood of the Iron Bull.\"\n            - Following Text: \"Head in the opposite direction and go underneath the bridge to loop back around to the right, and the first set of stairs now. Deal with the guard there, before proceeding up them.\nKeep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Furnace_Valley_Walkthrough_%2878%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing on a path of molten lava, with an arrow indicating the direction to move forward. The character appears to be in a rocky, cavernous environment with a bridge in the background. This image serves as a visual guide for players to navigate through the Furnace Valley area, suggesting they head towards and underneath the bridge to progress in the game."
+    "chunk_id": 983229676330,
+    "source_file": "How_to_Defeat_the_Stone_Vanguard_With_Another_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_ShiganSecret3.jpg",
+    "alt_text": "Wukong ShiganSecret3.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong ShiganSecret2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_ShiganSecret2.jpg)\nThe Shigandang is a much stronger boss than the Stone Vanguard, though it will take a bit of damage in the scuffle.",
+    "img_below_text": "However, after losing around a fourth or more of its health, the Shigandang will most likely grab the Stone Vanguard and perform a devastating pile-driver slam, before flinging the Stone Vanguard aside as it breaks apart.\n![Wukong ShiganSecret4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_ShiganSecret4.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong ShiganSecret2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_ShiganSecret2.jpg)\nThe Shigandang is a much stronger boss than the Stone Vanguard, though it will take a bit of damage in the scuffle.\"\n        - Following Text: \"However, after losing around a fourth or more of its health, the Shigandang will most likely grab the Stone Vanguard and perform a devastating pile-driver slam, before flinging the Stone Vanguard aside as it breaks apart.\n![Wukong ShiganSecret4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_ShiganSecret4.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense moment in *Black Myth: Wukong*, showcasing the player character facing off against two enemies: the massive Shigandang boss and the smaller Stone Vanguard. The environment features a desolate, rocky battlefield with a ruined structure in the background. The health bars at the bottom indicate the ongoing fight, with the Shigandang being the primary, more formidable opponent. This scene highlights the challenging nature of the encounter described in the surrounding text."
 }

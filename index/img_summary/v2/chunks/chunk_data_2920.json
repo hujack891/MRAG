@@ -1,28 +1,11 @@
 {
-    "chunk_id": 264533896845,
-    "source_file": "The_Scorpionlord.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg",
-    "alt_text": "Wukong PurpleCloud 17.jpg",
-    "position_desc": 2,
-    "img_above_text": "Just like the Scorpion Prince, he'll slash at you with his claw while still airborne in front of you, but quickly follow up with a tailswipe to quickly spin about, letting him slam down with his claw for a third hit. As you can see, he'll be very tricky in alternating between his claw and tail, and you'll only have a second to see either appendage glow to know where his attack is coming from and react.\nOn the plus side, you can deflect his initial lunge with a Rock Solid Deflection, but be wary when using Immobilize, as he's prone to escaping faster than other bosses, so you'll need to follow with a strong hit or risk him breaking out to resume his combo attacks.",
-    "img_below_text": "Do note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!\n![Wukong PurpleCloud 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'The_Scorpionlord.md'.\n\n            Context:\n            - Preceding Text: \"Just like the Scorpion Prince, he'll slash at you with his claw while still airborne in front of you, but quickly follow up with a tailswipe to quickly spin about, letting him slam down with his claw for a third hit. As you can see, he'll be very tricky in alternating between his claw and tail, and you'll only have a second to see either appendage glow to know where his attack is coming from and react.\nOn the plus side, you can deflect his initial lunge with a Rock Solid Deflection, but be wary when using Immobilize, as he's prone to escaping faster than other bosses, so you'll need to follow with a strong hit or risk him breaking out to resume his combo attacks.\"\n            - Following Text: \"Do note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!\n![Wukong PurpleCloud 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\nThe image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in combat with a formidable boss known as \"The Scorpionlord.\" The Scorpionlord is seen performing a powerful attack, with its glowing tail poised to strike.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image illustrates a critical moment in the fight against The Scorpionlord, showcasing the boss's complex attack patterns. This visual serves to highlight the challenge players face, emphasizing the need for quick reflexes and strategic defense to counter the Scorpionlord's unpredictable and swift attacks. The preceding and following text provide context and strategy tips for dealing with the boss's moves, enhancing the player's understanding of the encounter."
+    "chunk_id": 664623075892,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_UpperHollow_1.jpg",
+    "alt_text": "Wukong UpperHollow 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow.\n## Webbed Hollow",
+    "img_below_text": "After facing certain doom trapped in the web of the spider guais of this realm, the Destined One will suddenly awake safe in a bed, somewhere deep underground below the Lanxi Village.\nOnce you are up again, you'll find a helpful gold box has been placed by the bed, and you can open the small **Treasure Chest** to claim 3 Antimiasma Powder and 1 Longevity Decoction. If you can't take the hint, it means you're likely to run into a lot of poison-inducing enemies in this area.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow.\n## Webbed Hollow\"\n        - Following Text: \"After facing certain doom trapped in the web of the spider guais of this realm, the Destined One will suddenly awake safe in a bed, somewhere deep underground below the Lanxi Village.\nOnce you are up again, you'll find a helpful gold box has been placed by the bed, and you can open the small **Treasure Chest** to claim 3 Antimiasma Powder and 1 Longevity Decoction. If you can't take the hint, it means you're likely to run into a lot of poison-inducing enemies in this area.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character sitting on a bed, likely representing the moment when the \"Destined One\" awakens after being trapped in a web in the Webbed Hollow section of Chapter 4. This scene is set underground, below Lanxi Village, and signifies a transition from danger to safety. The narrative suggests the character will soon encounter poison-inducing enemies, hinted by the presence of a gold box and a treasure chest containing items like Antimiasma Powder and Longevity Decoction, which are useful for dealing with such threats."
 }

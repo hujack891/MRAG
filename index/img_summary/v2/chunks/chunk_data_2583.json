@@ -1,28 +1,11 @@
 {
-    "chunk_id": 430869082305,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
-    "alt_text": "Snow Fox Questline \\(16\\).png",
-    "position_desc": 13,
-    "img_above_text": "In the New Thunderclap Temple, there's an optional boss called the Monk from the Sea. Explore the right side of the temple and you'll come to an open area, where the Monk from the Sea will jump out at you from an altar. After defeating the optional mini-boss, you'll be rewarded with Hoarfrost.\n## Non-Void and the Fox",
-    "img_below_text": "Toward the end of Chapter 3, in the Forest of Felicity, you can find the soul of a fox guai trapped in a corpse along the path to the New Thunderclap Temple. The fox will hand you an object that allows you to shapeshift and take on her form and asks that you seek revenge. Wear the fox guise when you get to the New Thunderclap Temple, to find the monk who betrayed here. It's only when you're in fox form that Non-Void will show himself as a boss for the chapter.\n### Relevant Guide Pages",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"In the New Thunderclap Temple, there's an optional boss called the Monk from the Sea. Explore the right side of the temple and you'll come to an open area, where the Monk from the Sea will jump out at you from an altar. After defeating the optional mini-boss, you'll be rewarded with Hoarfrost.\n## Non-Void and the Fox\"\n            - Following Text: \"Toward the end of Chapter 3, in the Forest of Felicity, you can find the soul of a fox guai trapped in a corpse along the path to the New Thunderclap Temple. The fox will hand you an object that allows you to shapeshift and take on her form and asks that you seek revenge. Wear the fox guise when you get to the New Thunderclap Temple, to find the monk who betrayed here. It's only when you're in fox form that Non-Void will show himself as a boss for the chapter.\n### Relevant Guide Pages\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a richly decorated altar within the New Thunderclap Temple, featuring intricate golden statues and carvings. This setting is significant as it is the location where players encounter the optional boss, the Monk from the Sea, and later, the boss Non-Void, who appears when the player is in fox form. The image visually represents the temple's opulent and mystical atmosphere, integral to the narrative events described in the preceding and following text."
+    "chunk_id": 99659563862,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_NewShop.jpg",
+    "alt_text": "Wukong NewShop.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.",
+    "img_below_text": "Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.\"\n        - Following Text: \"Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an NPC named \"Shen Monkey\" from *Black Myth: Wukong*. The menu on the left offers options such as upgrading Gourds, upgrading Drinks, brewing, accessing the store, or leaving. This NPC appears to play a role in crafting and upgrading items, such as enhancing healing abilities or creating consumables, as suggested by the context. Interacting with Shen Monkey is likely important for progression and resource management in the game."
 }

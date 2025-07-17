@@ -1,28 +1,11 @@
 {
-    "chunk_id": 574445067341,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg",
-    "alt_text": "Wukong Brook 29.jpg",
+    "chunk_id": 19161612510,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Yellow_60.jpg",
+    "alt_text": "Wukong Yellow 60.jpg",
     "position_desc": 68,
-    "img_above_text": "![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)\nAfter expelling energy around him (also dealing a lot of damage) to dissuade any attacks you might be trying to land, he'll move forward with a quick 1-2 punch with alternating palm strikes, the second one dealing a massive amount of damage and projecting his strike with extended range. The rapidity of these attacks often ensures that if you try to dodge the first hit, you'll get slammed by the second, and even using Rock Solid will just send you toppling backward. In these instances, using Cloud Step or Immobilize can be beneficial to getting away from this move, but be ready for him to resume the attack after Immobilize ends.",
-    "img_below_text": "However, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.\n![Wukong Brook 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 68 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)\nAfter expelling energy around him (also dealing a lot of damage) to dissuade any attacks you might be trying to land, he'll move forward with a quick 1-2 punch with alternating palm strikes, the second one dealing a massive amount of damage and projecting his strike with extended range. The rapidity of these attacks often ensures that if you try to dodge the first hit, you'll get slammed by the second, and even using Rock Solid will just send you toppling backward. In these instances, using Cloud Step or Immobilize can be beneficial to getting away from this move, but be ready for him to resume the attack after Immobilize ends.\"\n            - Following Text: \"However, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.\n![Wukong Brook 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" where the player character, Wukong, is engaged in a battle against an enemy in a snowy landscape. Wukong appears to be knocked down or immobilized, possibly after being hit by the enemy's powerful palm strikes or a sliding spin kick. The preceding text describes the enemy's attack patterns and the difficulty in dodging them, while the following text warns of the enemy's unpredictable moves, emphasizing the need for vigilance and adaptability in combat."
+    "img_above_text": "![Wukong Yellow 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Yellow_59.jpg)\n* One version will run up to you with its free hand glowing and swing it upwards to trigger a line of sand spears to explode up from the ground. It will then launch into several sweeping attacks with its spear",
+    "img_below_text": "* Another version will dropkick its way into the arena sending it to the far side, and then come roaring back with a spinning jump slash back at you as a quick follow-up attack.\nWhen you finally spot the real version of him performing a leaping stomp back into the arena, he’ll have changed his stance, now holding the spear in a reverse grip.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Yellow_59.jpg)\n* One version will run up to you with its free hand glowing and swing it upwards to trigger a line of sand spears to explode up from the ground. It will then launch into several sweeping attacks with its spear\"\n        - Following Text: \"* Another version will dropkick its way into the arena sending it to the far side, and then come roaring back with a spinning jump slash back at you as a quick follow-up attack.\nWhen you finally spot the real version of him performing a leaping stomp back into the arena, he’ll have changed his stance, now holding the spear in a reverse grip.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene from the video game \"Black Myth: Wukong,\" featuring a character engaged in combat with the \"Yellow Wind Sage.\" The setting is a sandy arena, where the enemy is performing a dynamic attack, possibly a dropkick, as described in the surrounding text. The player's health and abilities are visible on the screen, indicating the game's interface during this challenging encounter."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 85141404529,
+    "chunk_id": 74416385731,
     "source_file": "Bamboo_Grove_Walkthrough.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg",
     "alt_text": "Wukong Bamboo 29.jpg",
     "position_desc": 27,
     "img_above_text": "![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\nWhen he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!",
     "img_below_text": "An interesting note is that he needs to control the orb’s direction, meaning you can cast Immobilize when he summons the orb to lock both him and his projectile in place, nullifying the attack!\nSometimes, he won’t even bother with the orb, and will simply wave his fan rapidly to create a tornado at your last known position, so staying mobile and pressing your attack can help you avoid these attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\nWhen he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!\"\n            - Following Text: \"An interesting note is that he needs to control the orb’s direction, meaning you can cast Immobilize when he summons the orb to lock both him and his projectile in place, nullifying the attack!\nSometimes, he won’t even bother with the orb, and will simply wave his fan rapidly to create a tornado at your last known position, so staying mobile and pressing your attack can help you avoid these attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases an intense combat scene from *Black Myth: Wukong*, where the player character is engaged in battle with Guangmou, a glowing, ethereal enemy surrounded by dynamic energy effects. The environment is a bamboo forest, emphasizing the game's atmospheric setting. The visual highlights the enemy's powerful attack, likely tied to the tornado or gusty orb mechanics described in the preceding and following text.\n\n2. **Purpose/Narrative Role**:  \nThe image visually represents the gameplay mechanics discussed in the text, such as Guangmou's ranged attacks involving gusts, tornadoes, and the use of his fan. It serves to illustrate the combat strategies players can employ, like staying mobile or using the Immobilize ability to counter his moves effectively."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\nWhen he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!\"\n        - Following Text: \"An interesting note is that he needs to control the orb’s direction, meaning you can cast Immobilize when he summons the orb to lock both him and his projectile in place, nullifying the attack!\nSometimes, he won’t even bother with the orb, and will simply wave his fan rapidly to create a tornado at your last known position, so staying mobile and pressing your attack can help you avoid these attacks.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the player character engaging in battle with an enemy named \"Guangmou.\" The enemy appears to be unleashing a glowing, explosive attack surrounded by sharp energy bursts. The preceding and following text describes Guangmou's abilities, including summoning a gusty orb and creating tornadoes, emphasizing strategic countermeasures like casting Immobilize to nullify his attacks or staying mobile to avoid damage. The visual highlights the dynamic and visually striking nature of the game's combat mechanics."
 }

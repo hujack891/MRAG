@@ -1,28 +1,11 @@
 {
-    "chunk_id": 872429659806,
-    "source_file": "Beetle_Captain_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Beetle_Captain_best_pic.jpg",
-    "alt_text": "Beetle Captain best pic.jpg",
+    "chunk_id": 188712620820,
+    "source_file": "Best_Settings_on_PS5_and_PC.md",
+    "img_url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
+    "alt_text": "Wireless Controller",
     "position_desc": 1,
-    "img_above_text": "* Beetle Captain Fight\n* Beetle Captain Spirit",
-    "img_below_text": "## Beetle Captain Location\nThe Beetle Captain can be found guarding a single chest in a small clearing in the Webbed Hollow. To get there, reach the Upper Hollow Keeper's Shrine and run up the stairs right next to it. Turn right and start making your way down the path into the caves beyond. It will take a decent amount of time to get there, but if you stick to the right, you will reach the Beetle Captain eventually.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Beetle_Captain_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Beetle Captain Fight\n* Beetle Captain Spirit\"\n            - Following Text: \"## Beetle Captain Location\nThe Beetle Captain can be found guarding a single chest in a small clearing in the Webbed Hollow. To get there, reach the Upper Hollow Keeper's Shrine and run up the stairs right next to it. Turn right and start making your way down the path into the caves beyond. It will take a decent amount of time to get there, but if you stick to the right, you will reach the Beetle Captain eventually.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Beetle_Captain_best_pic.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene between the player character and the Beetle Captain, a formidable enemy in a dark cave setting. The Beetle Captain, glowing with blue energy, is shown mid-battle, emphasizing its role as a challenging opponent. This fight is part of the narrative progression leading to the discovery of a chest in the Webbed Hollow, as described in the following text. The image serves to visually represent the encounter mentioned in the preceding and following context."
+    "img_above_text": "###\nFor Fans: Shop Black Myth: Wukong Gaming Accessories",
+    "img_below_text": "### Black Myth: Wukong Wireless Controller\n0",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"###\nFor Fans: Shop Black Myth: Wukong Gaming Accessories\"\n        - Following Text: \"### Black Myth: Wukong Wireless Controller\n0\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a \"Black Myth: Wukong\" themed wireless gaming controller, accompanied by a USB dongle for connectivity. This accessory is part of a collection of gaming merchandise for fans of the game \"Black Myth: Wukong.\""
 }

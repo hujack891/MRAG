@@ -1,28 +1,11 @@
 {
-    "chunk_id": 424998172729,
-    "source_file": "Guangmou.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg",
-    "alt_text": "Wukong Bamboo 28.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Bamboo 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Bamboo_26.jpg)\nHe’ll almost always begin the fight by summoning a cluster of homing ghostly projectiles that burst out of him before tracking you down. You can avoid the group by dodging to the side, or holding down your staff spin until they’ve been deflected.",
-    "img_below_text": "However, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.\n![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Guangmou.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Bamboo_26.jpg)\nHe’ll almost always begin the fight by summoning a cluster of homing ghostly projectiles that burst out of him before tracking you down. You can avoid the group by dodging to the side, or holding down your staff spin until they’ve been deflected.\"\n            - Following Text: \"However, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.\n![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene from *Black Myth: Wukong*, showcasing the protagonist battling Guangmou, a boss enemy. Guangmou is seen unleashing a poison attack, which spreads in a large area around him, while the player character engages with a glowing staff weapon. The UI elements indicate health bars, abilities, and poison status effects.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates a key moment in the fight against Guangmou, emphasizing his poison-spitting attack as described in the text. This visual serves to complement the gameplay tips, warning players to be cautious of Guangmou's close-range poison abilities while managing his ghostly projectiles."
+    "chunk_id": 717206768116,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Chapter_4_Secret_Area_%284%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(4\\).png",
+    "position_desc": 8,
+    "img_above_text": "![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)\nWhen you get to the top, you'll see it branch off to the left (where the torch is) and continue onward. Stick to the path going onward, and follow this around to the right. This will bring you to your next shrine, which is the Pool of Shattered Jade Keeper's Shrine.",
+    "img_below_text": "From here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.\n![Chapter 4 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%283%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)\nWhen you get to the top, you'll see it branch off to the left (where the torch is) and continue onward. Stick to the path going onward, and follow this around to the right. This will bring you to your next shrine, which is the Pool of Shattered Jade Keeper's Shrine.\"\n        - Following Text: \"From here, go right and continue following the path lined with spider sacs. As you reach the other side, you'll see a large white sac in the middle.\n![Chapter 4 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%283%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a dark, eerie path lined with large, hanging spider sacs, with an arrow indicating the direction forward. It serves as a visual guide for navigating this section of the game, where the player is instructed to follow the path through the sacs to progress further in the chapter."
 }

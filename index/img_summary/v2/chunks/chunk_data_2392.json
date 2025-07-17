@@ -1,28 +1,11 @@
 {
-    "chunk_id": 327073618679,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Pagoda_122.jpg",
-    "alt_text": "Wukong Pagoda 122.jpg",
-    "position_desc": 117,
-    "img_above_text": "![Wukong Pagoda 121.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Pagoda_121.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.",
-    "img_below_text": "If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 117 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 121.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Pagoda_121.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.\"\n            - Following Text: \"If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Pagoda_122.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" showcasing a character, likely the Macaque Chief, executing a powerful attack move. This moment aligns with the preceding and following text, which describe the character's complex attack sequences involving multiple slashes and strategic timing for defense. The snowy environment adds to the dramatic atmosphere, emphasizing the challenge and skill required to counter the enemy's aggressive combos."
+    "chunk_id": 198538985621,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Snow_Fox_Questline_%2810%29.png",
+    "alt_text": "Snow Fox Questline \\(10\\).png",
+    "position_desc": 7,
+    "img_above_text": "![Snow Fox Questline \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Snow_Fox_Questline_%2811%29.png)\nIf it's your first time visiting, you'll have a boss to deal with before you can enter. But after this, you can go and activate the Temple Entrance Keeper's Shrine. Go right from the shrine and down to the building up ahead.",
+    "img_below_text": "Head through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.\n![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Snow Fox Questline \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Snow_Fox_Questline_%2811%29.png)\nIf it's your first time visiting, you'll have a boss to deal with before you can enter. But after this, you can go and activate the Temple Entrance Keeper's Shrine. Go right from the shrine and down to the building up ahead.\"\n        - Following Text: \"Head through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.\n![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy temple courtyard with stairs leading to a large building adorned with statues and carvings. A red arrow indicates the left staircase, which is part of the player's path forward in the game. The context suggests this area is a key location in the \"Snow Fox Questline,\" where players navigate through the temple after activating the Entrance Keeper's Shrine."
 }

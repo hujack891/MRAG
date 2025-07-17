@@ -1,0 +1,13 @@
+{
+    "chunk_id": 818861012838,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Golden_Loong_Staff.jpg",
+    "alt_text": "Golden Loong Staff.jpg",
+    "position_desc": 9,
+    "img_above_text": "• 8 Yaoguai Core\n• 21,000 Will | Kang-Jin Staff",
+    "img_below_text": "• 1 Sea-Supporting Tendon\n• 2 Kun Steel",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 8 Yaoguai Core\n• 21,000 Will | Kang-Jin Staff\"\n        - Following Text: \"• 1 Sea-Supporting Tendon\n• 2 Kun Steel\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Kang-Jin Staff,\" a weapon featured in the video game. It is likely part of an inventory or equipment guide, emphasizing its design and attributes. The preceding and following text lists materials or items, suggesting the staff may require specific resources (e.g., Yaoguai Core, Sea-Supporting Tendon) for crafting, upgrading, or acquisition.",
+    "embedding_prompt": "The image showcases the \"Kang-Jin Staff,\" a weapon featured in the video game. It is likely part of an inventory or equipment guide, emphasizing its design and attributes. The preceding and following text lists materials or items, suggesting the staff may require specific resources (e.g., Yaoguai Core, Sea-Supporting Tendon) for crafting, upgrading, or acquisition.",
+    "generate_prompt": "This is an image from the file 'Weapons.md', This is the 9th image in the document, The preceding text of this image is: • 8 Yaoguai Core\n• 21,000 Will | Kang-Jin Staff,The following text of this image is: • 1 Sea-Supporting Tendon\n• 2 Kun Steel,The summary of this picture is:The image showcases the \"Kang-Jin Staff,\" a weapon featured in the video game. It is likely part of an inventory or equipment guide, emphasizing its design and attributes. The preceding and following text lists materials or items, suggesting the staff may require specific resources (e.g., Yaoguai Core, Sea-Supporting Tendon) for crafting, upgrading, or acquisition."
+}

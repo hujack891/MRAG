@@ -1,28 +1,11 @@
 {
-    "chunk_id": 442277067280,
-    "source_file": "Guangmou_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Guangmou_Spirit_Power.jpg",
-    "alt_text": "Guangmou Spirit Power.jpg",
-    "position_desc": 3,
-    "img_above_text": "You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit",
-    "img_below_text": "* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Guangmou_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit\"\n            - Following Text: \"* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Guangmou_Spirit_Power.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the in-game equipment menu, focusing on the \"Guangmou Spirit,\" an epic item with the \"Veiled Vipers\" ability. This spirit allows players to summon venomous snakes to inflict Poison Damage on enemies, with an equipped effect that moderately boosts Poison Damage and Poison Resistance. The interface includes detailed stats, descriptions, and a demo preview of the ability in action."
+    "chunk_id": 830794120239,
+    "source_file": "How_to_Unlock_the_Chapter_5_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Chapter_5_Secret_Area_%282%29.png",
+    "alt_text": "Chapter 5 Secret Area \\(2\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Chapter 5 Secret Area \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Chapter_5_Secret_Area_%281%29.png)\nFollow the path from the Ashen Pass I Keeper's Shrine (the first shrine in Chapter 5). You'll come to an area where a fight is happening and fire is being thrown down. Beat the Pale-Axe Stalwart here, and he becomes an NPC to talk to.",
+    "img_below_text": "Exhaust all the dialogue you can with him. He'll mention some coffin carts that blocked the passes called the \"Five Elements Carts\" and ask you to destroy them. He'll also tell you that there's more to them than just guarding the passes, so you'd better check them out!\n### Defeat the Brown-Iron Cart",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 5 Secret Area \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Chapter_5_Secret_Area_%281%29.png)\nFollow the path from the Ashen Pass I Keeper's Shrine (the first shrine in Chapter 5). You'll come to an area where a fight is happening and fire is being thrown down. Beat the Pale-Axe Stalwart here, and he becomes an NPC to talk to.\"\n        - Following Text: \"Exhaust all the dialogue you can with him. He'll mention some coffin carts that blocked the passes called the \"Five Elements Carts\" and ask you to destroy them. He'll also tell you that there's more to them than just guarding the passes, so you'd better check them out!\n### Defeat the Brown-Iron Cart\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character approaching a large NPC, the Pale-Axe Stalwart, in a dark and desolate environment. This follows a battle where the player defeats the Stalwart, who then becomes an NPC to interact with. The surrounding area features ruined structures, barren trees, and scattered fires, emphasizing the game's atmospheric setting. The NPC plays a narrative role by providing dialogue and a quest involving the \"Five Elements Carts.\""
 }

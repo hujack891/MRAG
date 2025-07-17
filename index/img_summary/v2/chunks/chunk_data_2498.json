@@ -1,28 +1,11 @@
 {
-    "chunk_id": 836723904257,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Sandgate_13.jpg",
-    "alt_text": "Wukong Sandgate 13.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Sandgate 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg)\nFollow the ditch through the opposite path under the bridge, and head right to a tunnel. Inside, apart from a green Wisp you can absorb for some Will and a mushroom to harvest, you can spot a grubby yet friendly canine deity.",
-    "img_below_text": "The Xu Dog as he’s known has a problem he needs help with: A large frog has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back.\n### Yaoguai Chief Mini-Boss Fight - Lang-Li-Guhh-Baw",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg)\nFollow the ditch through the opposite path under the bridge, and head right to a tunnel. Inside, apart from a green Wisp you can absorb for some Will and a mushroom to harvest, you can spot a grubby yet friendly canine deity.\"\n            - Following Text: \"The Xu Dog as he’s known has a problem he needs help with: A large frog has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back.\n### Yaoguai Chief Mini-Boss Fight - Lang-Li-Guhh-Baw\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Sandgate_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist encounters a canine deity known as the Xu Dog. This meeting takes place in a tunnel setting, where the Xu Dog seeks assistance in retrieving a medicinal formula swallowed by a large frog. The image captures the narrative moment where the player is introduced to a quest involving the Xu Dog, setting the stage for further adventure and challenges."
+    "chunk_id": 660801253847,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_YellowFlower_38.jpg",
+    "alt_text": "Wukong YellowFlower 38.jpg",
+    "position_desc": 35,
+    "img_above_text": "![Wukong YellowFlower 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_YellowFlower_37.jpg)\nGo right at the fork in the road. Once you reach a large gate, take out the Worm Practitioner and look for a **Treasure Chest** it was guarding on the left before continuing to the next area.",
+    "img_below_text": "Follow the winding mountain trail up several stairs and avoiding other Worm Practitioners until you reach the very top. The road will widen out as it follows a cliffside path toward a small shack with Snake Head Mushrooms all around it. One of these mushrooms... is not what it seems.\n## Yaoguai Chief Miniboss Fight - Fungiwoman",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_YellowFlower_37.jpg)\nGo right at the fork in the road. Once you reach a large gate, take out the Worm Practitioner and look for a **Treasure Chest** it was guarding on the left before continuing to the next area.\"\n        - Following Text: \"Follow the winding mountain trail up several stairs and avoiding other Worm Practitioners until you reach the very top. The road will widen out as it follows a cliffside path toward a small shack with Snake Head Mushrooms all around it. One of these mushrooms... is not what it seems.\n## Yaoguai Chief Miniboss Fight - Fungiwoman\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist walking along a rocky path toward a small shack surrounded by foliage. A red circle highlights a specific object on the right side of the path, likely a Snake Head Mushroom mentioned in the following text. This area is part of a winding mountain trail leading to a miniboss encounter, \"Yaoguai Chief - Fungiwoman.\" The image serves as a visual guide to help players identify key landmarks and objects in this section of the game."
 }

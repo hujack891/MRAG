@@ -1,6 +1,9 @@
 {
-    "chunk_id": 746728695219,
+    "chunk_id": 734230023878,
+    "source_file": "Pilgrim_Set.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Pilgrim%27s_Garb_1.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image displays a crafting menu from a video game, specifically focusing on armor crafting. The highlighted item is \"Pilgrim's Garb,\" classified as \"Uncommon\" with a defense value of 16. It includes the \"Swift Pilgrim\" attribute, which moderately increases sprint speed and attack while sprinting, with effects stacking up to 10 times. The crafting requirements show that 25 yarn and 1732 will out of a maximum of 1200 are needed. The interface includes options to examine, view details, and return, with a prompt to hold a button to craft the item. The character's stats are shown on the right, including health, attack, and defense values."
+    "alt_text": "Pilgrim's Garb 1.jpg",
+    "position_desc": 1,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image shows a character customization screen from a video game, where the player can craft new armor. The highlighted item is \"Pilgrim's Garb,\" an uncommon chest armor that provides 16 defense points. It has the \"Swift Pilgrim\" attribute, which moderately increases sprint speed and attack while sprinting, with effects stacking up to 10 times but ceasing upon stopping. The crafting requirements include 5 units of Yarn and 1200 units of Will, and the player currently has 25 units of Yarn and 1732 units of Will. The character's stats are displayed on the right side, including health, stamina, attack, defense, and various resistances."
 }

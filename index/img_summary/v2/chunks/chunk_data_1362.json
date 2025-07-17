@@ -1,28 +1,11 @@
 {
-    "chunk_id": 181679745838,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2845%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(45\\).png",
-    "position_desc": 23,
-    "img_above_text": "As soon as you pass by the torch, a Flamling will appear. Take down the Flamling and Rakshasa, then collect the Earth Rakshasa Spirit. After this, open the chest and collect Celestial Ribbon and a Mind Core.\nEarth Rakshasa Spirit",
-    "img_below_text": "Now turn back the other way and continue up the valley. At the top of the path, you'll come to another archway and the start of Rakshasa Palace.\nAs soon as you pass through the archway, the next boss battle will begin and you'll discover who was responsible for the voices you heard earlier.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As soon as you pass by the torch, a Flamling will appear. Take down the Flamling and Rakshasa, then collect the Earth Rakshasa Spirit. After this, open the chest and collect Celestial Ribbon and a Mind Core.\nEarth Rakshasa Spirit\"\n            - Following Text: \"Now turn back the other way and continue up the valley. At the top of the path, you'll come to another archway and the start of Rakshasa Palace.\nAs soon as you pass through the archway, the next boss battle will begin and you'll discover who was responsible for the voices you heard earlier.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2845%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, atmospheric pathway framed by ornate pillars and bells, leading toward a glowing, fiery structure in the distance. This scene likely represents the approach to Rakshasa Palace, as mentioned in the following text, marking a pivotal transition in the narrative. The preceding text suggests the player has just completed a battle and collected key items, while the following text hints at an impending boss fight beyond the archway. The image serves as a visual cue for the escalating tension and the significance of the location in the storyline."
+    "chunk_id": 331909292006,
+    "source_file": "How-to_Guides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/How-To-Guides-.png",
+    "alt_text": "How-To-Guides-.png",
+    "position_desc": 1,
+    "img_above_text": "Black Myth: Wukong hides plenty of mysteries, but not all of its secrets and mechanics are easy to figure out. That's why we've compiled a list of how-to guides to help you figure out everything from upgrading your healing to finding secret areas, and unlocking special bosses\n## General How-to Guides",
+    "img_below_text": "* How to Change Default Chinese Text to English\n* How to Claim Deluxe Edition Items",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Black Myth: Wukong hides plenty of mysteries, but not all of its secrets and mechanics are easy to figure out. That's why we've compiled a list of how-to guides to help you figure out everything from upgrading your healing to finding secret areas, and unlocking special bosses\n## General How-to Guides\"\n        - Following Text: \"* How to Change Default Chinese Text to English\n* How to Claim Deluxe Edition Items\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image appears to depict a scene from *Black Myth: Wukong* where a character is writing or drawing on a scroll, suggesting an interaction with in-game mechanics or storytelling elements. Based on the surrounding text, it likely relates to the game's mysteries, secrets, or guides, such as upgrading abilities, uncovering hidden areas, or understanding gameplay features."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 586832159327,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg",
-    "alt_text": "Fire Bellflower .jpg",
-    "position_desc": 11,
-    "img_above_text": "![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms",
-    "img_below_text": "![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards\n![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms\"\n            - Following Text: \"![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards\n![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts two vibrant, red, spherical objects encased in delicate, golden-veined structures, resembling exotic fruits or mystical ingredients. Based on the preceding and following text, the image likely represents an ingredient from the game *Black Myth: Wukong*. It is part of a sequence showcasing rare and uncommon items, such as the Snake-Head Mushroom, Monkey-Head Fungus, Celestial Pear, and Tree Pearl, which are used in gameplay for crafting or progression. This particular ingredient may play a significant role in the game's narrative or mechanics, highlighting its unique design and rarity."
+    "chunk_id": 375096469635,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg",
+    "alt_text": "Wukong Thunderclap 112.jpg",
+    "position_desc": 109,
+    "img_above_text": "![Wukong Thunderclap 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg)\nLuckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).",
+    "img_below_text": "Other times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.\n![Wukong Thunderclap 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg)\nLuckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\"\n        - Following Text: \"Other times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.\n![Wukong Thunderclap 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against \"Yellowbrow,\" showcasing an intense moment where the boss triggers a lightning storm attack. The arena is filled with lightning strikes, which are both targeted and widespread, creating a challenging environment for the player to evade. The preceding and following text highlights strategies for dealing with this attack, such as using Wind Tamer to dispel effects or staggering the boss to interrupt the storm."
 }

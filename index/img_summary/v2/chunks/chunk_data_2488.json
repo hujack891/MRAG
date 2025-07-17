@@ -1,28 +1,11 @@
 {
-    "chunk_id": 751049960359,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_2.jpg",
-    "alt_text": "Wukong Sandgate 2.jpg",
-    "position_desc": 2,
-    "img_above_text": "In Black Myth Wukong’s second chapter, you’ll leave behind the forests of Black Wind Mountain for the dry sands of the Yellow Wind Ridge. An energetic (yet headless) man playing a Chinese lute (known as a sanxian) will set the stage for this realm, and helpfully revive our Destined One from becoming a pincushion full of arrows.\n## Yellow Wind Ridge",
-    "img_below_text": "When you regain control, head into the stagnant shallow pool of water, where you’ll find a few Jade Lotus to harvest. Over on the right, the source of the arrows you became riddled with will become apparent, as a nearby ridge is lined with Rat Archers who will fire long salvos of flaming arrows from above.\n![Wukong Sandgate 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Sandgate_3.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"In Black Myth Wukong’s second chapter, you’ll leave behind the forests of Black Wind Mountain for the dry sands of the Yellow Wind Ridge. An energetic (yet headless) man playing a Chinese lute (known as a sanxian) will set the stage for this realm, and helpfully revive our Destined One from becoming a pincushion full of arrows.\n## Yellow Wind Ridge\"\n            - Following Text: \"When you regain control, head into the stagnant shallow pool of water, where you’ll find a few Jade Lotus to harvest. Over on the right, the source of the arrows you became riddled with will become apparent, as a nearby ridge is lined with Rat Archers who will fire long salvos of flaming arrows from above.\n![Wukong Sandgate 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Sandgate_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the Yellow Wind Ridge chapter. The protagonist, Wukong, is seen wading through a shallow pool of water, with the game's interface showing that a Jade Lotus has been collected. The rocky terrain and a ridge in the background hint at the presence of Rat Archers, who are responsible for firing arrows at the player. This image sets the stage for the player's next actions, which involve navigating the area and dealing with these archers."
+    "chunk_id": 63502465317,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_YellowFlower_27.jpg",
+    "alt_text": "Wukong YellowFlower 27.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong YellowFlower 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_26.jpg)\nYou'll encounter a few more Spear Daoists as you continue up the stairway path, but you'll also need to be wary of lurking Snake Herbalists as well.",
+    "img_below_text": "Be sure to look for a smaller path off to the right as you climb, and you can spot a lone **Treasure Chest** hiding in an alcove.\n## Temple Entrance",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_26.jpg)\nYou'll encounter a few more Spear Daoists as you continue up the stairway path, but you'll also need to be wary of lurking Snake Herbalists as well.\"\n        - Following Text: \"Be sure to look for a smaller path off to the right as you climb, and you can spot a lone **Treasure Chest** hiding in an alcove.\n## Temple Entrance\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showing the protagonist wielding a fiery staff while navigating a rocky, overgrown path. A red-dotted circle highlights a hidden **Treasure Chest** in the background, suggesting an optional discovery along the route. This aligns with the guide's advice to explore a smaller path to the right for hidden rewards."
 }

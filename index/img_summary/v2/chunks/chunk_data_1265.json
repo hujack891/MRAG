@@ -1,28 +1,11 @@
 {
-    "chunk_id": 473789249133,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-    "alt_text": "Wukong Fright 27.jpg",
-    "position_desc": 28,
-    "img_above_text": "![Wukong Fright 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Fright_26.jpg)\nYou’ll soon be ambushed by another Poisestone nearby, but this one is wreathed in blue flames and is much stronger. On the plus side, defeating it will earn you the Poisestone Spirit to transform into!",
-    "img_below_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### The Fifth Buddha’s Eyeball",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Fright_26.jpg)\nYou’ll soon be ambushed by another Poisestone nearby, but this one is wreathed in blue flames and is much stronger. On the plus side, defeating it will earn you the Poisestone Spirit to transform into!\"\n            - Following Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### The Fifth Buddha’s Eyeball\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character, likely Wukong, approaching a large rock formation embedded with glowing blue crystals in a dark, grassy cave environment. The scene suggests a moment of exploration or preparation for an ambush, as hinted by the preceding and following text.\n\n2. **Narrative Role**:  \nThis image likely represents the area where players encounter a stronger Poisestone enemy wreathed in blue flames. It serves as a visual cue for the impending challenge and the reward of obtaining the Poisestone Spirit transformation. The glowing crystals and ominous setting also tie into the discovery of the larger statue mentioned in the following text."
+    "chunk_id": 311063801075,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%28115%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(115\\).png",
+    "position_desc": 54,
+    "img_above_text": "![Furnace Valley Walkthrough \\(114\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Furnace_Valley_Walkthrough_%28114%29.png)\nTurn and face away from the altar. There are two places you'll want to go here to get collectibles. First, head to the stairs, but take the small path down to the right. Follow this to find a golden turtle, where you can get the Slumbering Beetle Husk.",
+    "img_below_text": "Then go back to the stairs and head for the balcony (facing opposite the altar in The Emerald Hall). Turn to the right, and go up the stairs to find the Meditation Spot.\nThe Buddha, Emerald Hall Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Furnace Valley Walkthrough \\(114\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Furnace_Valley_Walkthrough_%28114%29.png)\nTurn and face away from the altar. There are two places you'll want to go here to get collectibles. First, head to the stairs, but take the small path down to the right. Follow this to find a golden turtle, where you can get the Slumbering Beetle Husk.\"\n        - Following Text: \"Then go back to the stairs and head for the balcony (facing opposite the altar in The Emerald Hall). Turn to the right, and go up the stairs to find the Meditation Spot.\nThe Buddha, Emerald Hall Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scenic area in the video game *Black Myth: Wukong*, showing a character standing on a stone pathway leading to a bridge. The bridge is adorned with ornate railings and statues, with a Buddha statue visible in the background. A glowing marker (red dashed circle) highlights a collectible or interactable item near the center of the bridge. This location appears to be part of the \"Furnace Valley\" walkthrough, where players are guided to explore paths for collectibles like the Slumbering Beetle Husk and Meditation Spot."
 }

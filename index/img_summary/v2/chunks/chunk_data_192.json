@@ -1,28 +1,11 @@
 {
-    "chunk_id": 331665327043,
+    "chunk_id": 748940016531,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg",
-    "alt_text": "Wukong Bitter 11.jpg",
-    "position_desc": 49,
-    "img_above_text": "![Wukong Bitter 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg)\nOther times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.",
-    "img_below_text": "His strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.\n![Wukong Bitter 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 49 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg)\nOther times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\"\n            - Following Text: \"His strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.\n![Wukong Bitter 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts an intense battle scene from *Black Myth: Wukong*, showing Wukong facing off against a formidable, lightning-infused dragon-like enemy named Chen Loong. The dragon is mid-air, emanating electricity, while Wukong stands ready with his staff, preparing for the creature's powerful attacks.\n\n2. **Purpose/Content/Narrative Role**: The image highlights a climactic moment in the game, emphasizing the dragon's electrical abilities and Wukong's readiness to confront its devastating attacks. It visually complements the preceding and following text, which describe the enemy's electrical powers and its strongest attack."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg",
+    "alt_text": "Wukong Bitter 19.jpg",
+    "position_desc": 53,
+    "img_above_text": "![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nBe sure to look on the docks near the small shack by the water to find a **Treasure Chest** for the Blood of the Iron Bull and some materials, and then warp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.",
+    "img_below_text": "Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nBe sure to look on the docks near the small shack by the water to find a **Treasure Chest** for the Blood of the Iron Bull and some materials, and then warp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.\"\n        - Following Text: \"Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist encounters the Xu Dog, a humanoid creature with animalistic features, in a dimly lit cellar. The Xu Dog is holding a glowing object and appears to be speaking, as indicated by the subtitle: \"Pray, refrain from blaming him. His ill temper persists unaltered since the first day of our long acquaintance.\" This moment likely serves as a narrative interaction, advancing the story and leading to the Xu Dog providing the player with a Special-made Bone-Strengthening Pellet and a formula for crafting Fortifying Medicament."
 }

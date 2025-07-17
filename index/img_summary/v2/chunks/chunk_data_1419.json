@@ -1,28 +1,11 @@
 {
-    "chunk_id": 126396276659,
-    "source_file": "Golden_Lining.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
-    "alt_text": "Pungent Flesh Chunk USe.jpg",
-    "position_desc": 1,
-    "img_above_text": "Golden Lining can be found in Relief of the Fallen Loong Shrine in The Webbed Hollow upon defeating Yellow Loong after you have killed Red Loong, Black Loong, and Cyan Loong. This requires you to have the Loong Scales.\nThe Loong Scales can be found by defeating the First Prince of Flowing Sands in Yellow Wind Ridge. The boss is located underneath the arena where you fight the King of Flowing Sand and Second Rat Prince upon throwing the Pungent Flesh Chunk off the cliff. Get the boss to destroy the mural wall in the arena, or use a powerful Transformation ability and head through to pick up the Key Item.",
-    "img_below_text": "You can then use these scales on the sand waterfall in Fright Cliff in Yellow Wind Ridge to fight Black Loong.\nSecondly, head to the Forest of Wolves in Black Wind Mountain and head through the waterfall to defeat Red Loong.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Golden_Lining.md'.\n\n            Context:\n            - Preceding Text: \"Golden Lining can be found in Relief of the Fallen Loong Shrine in The Webbed Hollow upon defeating Yellow Loong after you have killed Red Loong, Black Loong, and Cyan Loong. This requires you to have the Loong Scales.\nThe Loong Scales can be found by defeating the First Prince of Flowing Sands in Yellow Wind Ridge. The boss is located underneath the arena where you fight the King of Flowing Sand and Second Rat Prince upon throwing the Pungent Flesh Chunk off the cliff. Get the boss to destroy the mural wall in the arena, or use a powerful Transformation ability and head through to pick up the Key Item.\"\n            - Following Text: \"You can then use these scales on the sand waterfall in Fright Cliff in Yellow Wind Ridge to fight Black Loong.\nSecondly, head to the Forest of Wolves in Black Wind Mountain and head through the waterfall to defeat Red Loong.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a boss fight against the \"First Prince of Flowing Sands,\" a large, beast-like creature in a sandy, rocky arena. The player is engaged in combat, as indicated by the health bar and ability icons visible on the screen.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image illustrates a key moment in the quest to obtain the Loong Scales, a necessary item for progressing in the game. The First Prince of Flowing Sands must be defeated to acquire the scales, which are essential for accessing subsequent battles with the Loong bosses (e.g., Yellow Loong, Black Loong). The image emphasizes the challenging nature of this encounter and its importance in the overall progression."
+    "chunk_id": 328168463583,
+    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Five_Skandhas_%286%29.png",
+    "alt_text": "Five Skandhas \\(6\\).png",
+    "position_desc": 10,
+    "img_above_text": "![Five Skandhas \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_%285%29.png)\nThe Skandha of Choice can be found in Chapter 4. Go right from The Purifying Spring Keeper's Choice and up the stairs and through the gap in the wall.",
+    "img_below_text": "Hug the wall on the right as you follow the path up to the next set of stairs and a wooden bridge. Cross the wooden bridge, and follow the path as it curves around to the left.\n![Five Skandhas \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Five_Skandhas_%287%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Five Skandhas \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_%285%29.png)\nThe Skandha of Choice can be found in Chapter 4. Go right from The Purifying Spring Keeper's Choice and up the stairs and through the gap in the wall.\"\n        - Following Text: \"Hug the wall on the right as you follow the path up to the next set of stairs and a wooden bridge. Cross the wooden bridge, and follow the path as it curves around to the left.\n![Five Skandhas \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Five_Skandhas_%287%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player's character standing on a stone path in a rocky, dimly-lit environment. Two red arrows indicate the direction to proceed: up the stairs on the right and through a gap in the wall, leading to the Skandha of Choice in Chapter 4. The setting includes broken stone structures, lanterns, and sparse vegetation, emphasizing exploration and navigation."
 }

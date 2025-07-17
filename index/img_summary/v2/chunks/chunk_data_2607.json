@@ -1,28 +1,11 @@
 {
-    "chunk_id": 724270222144,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/How_To_Find_Yellow_Loong_%284%29.png",
-    "alt_text": "How To Find Yellow Loong \\(4\\).png",
-    "position_desc": 9,
-    "img_above_text": "Chapter 4 brings a conclusion to the run of secret Loong bosses, but is also packed with plenty of hidden bosses, including 3 in a secret area.\n## Yellow Loong",
-    "img_below_text": "As you make your way through the Webbed Hollow, you'll start to work toward the bottom of the area, past the Cliff of Oblivion. This is where you can find the Relief of the Fallen Loong, and Yellow Loong waiting at the edge of the nearby cliff.\nYellow Loong",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Chapter 4 brings a conclusion to the run of secret Loong bosses, but is also packed with plenty of hidden bosses, including 3 in a secret area.\n## Yellow Loong\"\n            - Following Text: \"As you make your way through the Webbed Hollow, you'll start to work toward the bottom of the area, past the Cliff of Oblivion. This is where you can find the Relief of the Fallen Loong, and Yellow Loong waiting at the edge of the nearby cliff.\nYellow Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/How_To_Find_Yellow_Loong_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character, likely the Yellow Loong, standing in a dark, forested area with a weapon in hand. The character appears to be a formidable opponent, as suggested by the caption, \"I'll kill you to unbind our destinies.\" This scene is set in the Webbed Hollow, near the Cliff of Oblivion, where the Yellow Loong is encountered in the game \"Black Myth: Wukong.\" The image serves to illustrate the moment just before the player confronts this hidden boss, highlighting the intense and mystical atmosphere of the encounter."
+    "chunk_id": 169439969447,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Yellow_20.jpg",
+    "alt_text": "Wukong Yellow 20.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Yellow 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Yellow_1.jpg)\nAs an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.",
+    "img_below_text": "Travel through the Windrest Hamlet area across a second bridge past the Windrest Bridge Shrine, and you can locate this boss in the middle of the final bridge leading back toward the Fright Cliff.\n### Tiger’s Acolyte Mini-Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Yellow_1.jpg)\nAs an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.\"\n        - Following Text: \"Travel through the Windrest Hamlet area across a second bridge past the Windrest Bridge Shrine, and you can locate this boss in the middle of the final bridge leading back toward the Fright Cliff.\n### Tiger’s Acolyte Mini-Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showcasing a detailed, atmospheric environment in the Yellow Wind Formation area. It highlights a pathway leading toward the Windrest Bridge, with a traditional Chinese gate in the background and rugged terrain in the foreground. This setting is part of the journey to locate the optional mini-boss, Tiger's Acolyte, as described in the accompanying guide."
 }

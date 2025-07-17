@@ -1,28 +1,11 @@
 {
-    "chunk_id": 674578808292,
-    "source_file": "Commander_Beetle_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Commander_Beetle_Location.jpg",
-    "alt_text": "Commander Beetle Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.",
-    "img_below_text": "## Commander Beetle Fight\nThe Commander Beetle fight is a tough one since the beetle is so strong, and he has a whole class of monks to tackle at the same time. Using a Pluck of Many to take care of a majority of the monks is a good idea to start with. That way, you can focus on the Commander Beetle alone.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Commander_Beetle_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.\"\n            - Following Text: \"## Commander Beetle Fight\nThe Commander Beetle fight is a tough one since the beetle is so strong, and he has a whole class of monks to tackle at the same time. Using a Pluck of Many to take care of a majority of the monks is a good idea to start with. That way, you can focus on the Commander Beetle alone.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Commander_Beetle_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a scene from a video game where a character, armed with a staff, observes a group of monks practicing martial arts in a courtyard outside a temple.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves as a visual representation of the location where the Commander Beetle is teaching a class, as described in the preceding text. It sets the stage for the upcoming fight against the Commander Beetle and his class of monks, providing context and atmosphere for the player's next challenge."
+    "chunk_id": 637095495639,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg",
+    "alt_text": "Heart of Stone .jpg",
+    "position_desc": 17,
+    "img_above_text": "![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)",
+    "img_below_text": "![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\n• Defeat The Scorpionlord in The Webbed Hollow",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)\"\n        - Following Text: \"![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\n• Defeat The Scorpionlord in The Webbed Hollow\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Thunderbone,\" an Epic-tier special crafting material from the video game *Black Myth: Wukong*. It is obtained from a chest after defeating the Black Loong behind a sand waterfall in Fright Cliff - Rockrest Flat, located in Yellow Wind Ridge. Accessing this chest requires the Loong Scales item. The material is part of a sequence of rare and mythical items used for crafting in the game."
 }

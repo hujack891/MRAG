@@ -1,32 +1,16 @@
 {
-    "chunk_id": 647092376118,
+    "chunk_id": 766644034982,
     "source_file": "Pagoda_Realm_Walkthrough.md",
     "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Outside the Wheel",
+    "h2_title": "Upper Pagoda (Level 4)",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg",
-    "alt_text": "Wukong Pagoda 99.jpg",
-    "position_desc": 94,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
+    "alt_text": "Wukong Pagoda 66.jpg",
+    "position_desc": 62,
+    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 94 from the file 'Pagoda_Realm_Walkthrough.md', located under Outside the Wheel.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Outside the Wheel\n                - Alt Text: Wukong Pagoda 99.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character navigating a snowy, mountainous terrain, likely part of a video game walkthrough. The character is equipped with a large staff and is approaching a glowing object marked by a red circle near a barren tree. The visual setting aligns with the description of a linear mountain pass with branching paths in the \"Outside the Wheel\" section of \"The Beguiling Chant of the Pagoda Realm\" document. This scene follows a tense encounter with an enemy, suggesting the character is continuing their journey and possibly seeking items or objectives in the harsh environment.",
-    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 94th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Outside the Wheel', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.,The following text of this image is: ,The summary of this picture is:The image depicts a character navigating a snowy, mountainous terrain, likely part of a video game walkthrough. The character is equipped with a large staff and is approaching a glowing object marked by a red circle near a barren tree. The visual setting aligns with the description of a linear mountain pass with branching paths in the \"Outside the Wheel\" section of \"The Beguiling Chant of the Pagoda Realm\" document. This scene follows a tense encounter with an enemy, suggesting the character is continuing their journey and possibly seeking items or objectives in the harsh environment."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: The Beguiling Chant of the Pagoda Realm\n            - Section Title: Upper Pagoda (Level 4)\n\n            Context:\n            - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a game set in a rugged, dimly lit environment, likely part of the \"Upper Pagoda (Level 4)\" section of \"The Beguiling Chant of the Pagoda Realm.\" A character armed with a staff stands ready to engage a Blade Monk, who is positioned near a ledge. The red-circled area suggests an interactive or notable object in the background. The image aligns with the preceding text's guidance to approach cautiously and interact with the monk near the ledge.",
+    "embedding_prompt": "The image depicts a scene from a game set in a rugged, dimly lit environment, likely part of the \"Upper Pagoda (Level 4)\" section of \"The Beguiling Chant of the Pagoda Realm.\" A character armed with a staff stands ready to engage a Blade Monk, who is positioned near a ledge. The red-circled area suggests an interactive or notable object in the background. The image aligns with the preceding text's guidance to approach cautiously and interact with the monk near the ledge.",
+    "generate_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 62th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The sub-section is titled 'Upper Pagoda (Level 4)', The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from a game set in a rugged, dimly lit environment, likely part of the \"Upper Pagoda (Level 4)\" section of \"The Beguiling Chant of the Pagoda Realm.\" A character armed with a staff stands ready to engage a Blade Monk, who is positioned near a ledge. The red-circled area suggests an interactive or notable object in the background. The image aligns with the preceding text's guidance to approach cautiously and interact with the monk near the ledge."
 }

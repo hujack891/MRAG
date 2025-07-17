@@ -1,28 +1,11 @@
 {
-    "chunk_id": 411038420037,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Wolves_12.jpg",
-    "alt_text": "Wukong Wolves 12.jpg",
-    "position_desc": 20,
-    "img_above_text": "These are essentially Skill Points, which you can begin investing in a large number of different Skill Trees. These can include general skills, or ones that relate to specific combat stances. Your Smash stance has already been unlocked, but you can also unlock two other stances that have unique heavy attacks by investing skill points in them.\nWhen the path leads down, you’ll be able to head right to proceed to a mini-boss, or go left along the stream leading back to the bridge you crossed earlier.",
-    "img_below_text": "Going left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.\n![Wukong Wolves 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Wolves_13.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"These are essentially Skill Points, which you can begin investing in a large number of different Skill Trees. These can include general skills, or ones that relate to specific combat stances. Your Smash stance has already been unlocked, but you can also unlock two other stances that have unique heavy attacks by investing skill points in them.\nWhen the path leads down, you’ll be able to head right to proceed to a mini-boss, or go left along the stream leading back to the bridge you crossed earlier.\"\n            - Following Text: \"Going left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.\n![Wukong Wolves 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Wolves_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Wolves_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts the player character, likely Wukong, harvesting a **Gentian** plant in a lush forest environment. The character is positioned near a rock sculpture and surrounded by dense greenery, with a Wolf Swordsworn enemy partially visible in the background, suggesting an imminent encounter.\n\n2. **Purpose, Content, or Narrative Role:**  \nThe image highlights a key gameplay mechanic in *Black Myth: Wukong*, where players can gather resources like the Gentian plant for potential crafting or healing purposes. It also sets the stage for a combat scenario, as the Wolf Swordsworn enemy nearby hints at an upcoming challenge. This scene connects exploration, resource collection, and combat elements in the walkthrough."
+    "chunk_id": 311528404803,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Fright_54.jpg",
+    "alt_text": "Wukong Fright 54.jpg",
+    "position_desc": 60,
+    "img_above_text": "Just beyond where the Rat Governor was guarding, you can find a **Meditation Spot** down a short flight of stairs that overlooks the ravine, granting you a free Skill Point for resting here.\nThe Ravine, Rock Clash Platform Meditation Spot",
+    "img_below_text": "To proceed, head back up the stairs and take a left where a group of braziers are. In the middle of this path is a small altar with a yellow pot, and inside you’ll find a **Celestial Taiyi Pill** , raising your maximum Mana once more by a considerable amount!\nYellow Wind Ridge Celestial Taiyi Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Just beyond where the Rat Governor was guarding, you can find a **Meditation Spot** down a short flight of stairs that overlooks the ravine, granting you a free Skill Point for resting here.\nThe Ravine, Rock Clash Platform Meditation Spot\"\n        - Following Text: \"To proceed, head back up the stairs and take a left where a group of braziers are. In the middle of this path is a small altar with a yellow pot, and inside you’ll find a **Celestial Taiyi Pill** , raising your maximum Mana once more by a considerable amount!\nYellow Wind Ridge Celestial Taiyi Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a dark, rocky area with lit braziers and a glowing item marked by a red circle in the background. This scene aligns with the preceding and following text, suggesting it is near the Meditation Spot overlooking the ravine and close to the path leading to the altar with the **Celestial Taiyi Pill**. The glowing item appears to represent collectible \"Will\" points, as indicated by the \"+4 Will x18\" displayed on the screen."
 }

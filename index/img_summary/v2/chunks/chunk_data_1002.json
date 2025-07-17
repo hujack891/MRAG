@@ -1,28 +1,11 @@
 {
-    "chunk_id": 424269868171,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Field_Fire_Walkthrough_%288%29.png",
-    "alt_text": "Field Fire Walkthrough \\(8\\).png",
-    "position_desc": 7,
-    "img_above_text": "Once you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind.\nNine-Capped Lingzhi Guai",
-    "img_below_text": "Just beyond the clearing where you'll fight the Nine-Capped Lingzhi Guai, you'll also find The Crag Meditation Spot. You can get this before or after the fight. Just before it, there's another Purple Lingzhi that can be harvested -- don't worry, this won't be another enemy.\nThe Crag, Ashen Pass III Meditation Spot",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Once you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind.\nNine-Capped Lingzhi Guai\"\n            - Following Text: \"Just beyond the clearing where you'll fight the Nine-Capped Lingzhi Guai, you'll also find The Crag Meditation Spot. You can get this before or after the fight. Just before it, there's another Purple Lingzhi that can be harvested -- don't worry, this won't be another enemy.\nThe Crag, Ashen Pass III Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Field_Fire_Walkthrough_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a rocky clearing in a dark, desolate landscape, likely part of the \"Field of Fire\" game walkthrough. In the foreground, a Purple Lingzhi mushroom is visible, which can be harvested. In the distance, a glowing meditation spot, marked with a red circle, is highlighted as \"The Crag Meditation Spot.\" This area is encountered shortly after defeating the Nine-Capped Lingzhi Guai boss.\n\n2. **Purpose/Narrative Role**:  \nThe image serves to guide players through the progression of the game. It visually connects the aftermath of the Nine-Capped Lingzhi Guai fight with the next objectives: harvesting the Purple Lingzhi and reaching The Crag Meditation Spot for a moment of respite or preparation."
+    "chunk_id": 227066041994,
+    "source_file": "Flint_Vanguard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Flint_Vanguard_Location.jpg",
+    "alt_text": "Flint Vanguard Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.",
+    "img_below_text": "## Flint Vanguard Fight\nThe Flint Vanguard is a lava-rock copy of the Stone Vanguard you face in Yellow Wind Ridge. He has all the same attacks, but the battle is further complicated by his fire abilities and the horde of enemies that join the fight as well.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\"\n        - Following Text: \"## Flint Vanguard Fight\nThe Flint Vanguard is a lava-rock copy of the Stone Vanguard you face in Yellow Wind Ridge. He has all the same attacks, but the battle is further complicated by his fire abilities and the horde of enemies that join the fight as well.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a pile of glowing rocks in a dark, rocky clearing, likely the location where the Flint Vanguard is awakened. This setting aligns with the walkthrough's instructions to find the Flint Vanguard after completing the Iron Ball challenge and unlocking the Fallen Furnace Crater Keeper's Shrine. The glowing rocks are central to triggering the next phase of the game."
 }

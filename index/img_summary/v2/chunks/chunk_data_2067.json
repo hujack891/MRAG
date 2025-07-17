@@ -1,28 +1,11 @@
 {
-    "chunk_id": 428386225020,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg",
-    "alt_text": "Wukong Thunderclap 24.jpg",
-    "position_desc": 23,
-    "img_above_text": "![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.",
-    "img_below_text": "Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!\nMonk from the Sea",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\"\n            - Following Text: \"Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!\nMonk from the Sea\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist standing near a defeated Yaoguai Chief in a snowy courtyard, with the option to \"Pick Up\" an item. This scene follows a challenging battle where the enemy used powerful attacks, and it precedes the reward of Hoarfrost, a new Transformation Spell that allows the player to inflict frost damage as the Monk from the Sea."
+    "chunk_id": 675545411710,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_27.jpg",
+    "alt_text": "Wukong Pagoda 27.jpg",
+    "position_desc": 29,
+    "img_above_text": "![Wukong Pagoda 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Pagoda_28.jpg)\nHe can also fire off three projectiles after a retreating jump, and then follow up with a running kick to stagger you, before assaulting you with a series of sweeping strikes. Especially deadly is a series of two palm strikes with the smaller end of his forearm blade, followed quickly by a backwards jumping bicycle kick that can hit extremely hard without warning.",
+    "img_below_text": "It's not a bad idea to throw off an Immobilize or Cloud Step to bypass the main fighter, and then run to perform a leaping heavy strike to reach the archer and get him out of the way first.\nOnce both combatants are dead, be sure to loot the chest, and head back into the cell tunnel, and upwards to level 3.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Pagoda_28.jpg)\nHe can also fire off three projectiles after a retreating jump, and then follow up with a running kick to stagger you, before assaulting you with a series of sweeping strikes. Especially deadly is a series of two palm strikes with the smaller end of his forearm blade, followed quickly by a backwards jumping bicycle kick that can hit extremely hard without warning.\"\n        - Following Text: \"It's not a bad idea to throw off an Immobilize or Cloud Step to bypass the main fighter, and then run to perform a leaping heavy strike to reach the archer and get him out of the way first.\nOnce both combatants are dead, be sure to loot the chest, and head back into the cell tunnel, and upwards to level 3.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a combat scenario where the player character is engaged in a dynamic action sequence. The character is leaping towards an archer positioned on a ledge, while a treasure chest is visible nearby. This scene is part of a strategy to eliminate the archer first, as suggested by the accompanying text, before looting the chest and progressing through the level."
 }

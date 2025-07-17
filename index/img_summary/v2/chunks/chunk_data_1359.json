@@ -1,28 +1,11 @@
 {
-    "chunk_id": 867037408836,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Furnace_Valley_Walkthrough_%2841%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(41\\).png",
-    "position_desc": 20,
-    "img_above_text": "![Furnace Valley Walkthrough \\(43\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Furnace_Valley_Walkthrough_%2843%29.png)\nA lot of the moves will see the Chief attack with long sweeps or hitting the ground with its fists. Ripples of lava will often follow these attacks, so using the Fireproof Mantle will give you some protection against the fire damage.",
-    "img_below_text": "There are three areas you can concentrate attacks, which are its body and two hands. It's best to target the two hands, as these are actually breakable and by removing them, the Flint Chief becomes a lot more unsteady on its feet. Focus combos, follow-ups, and heavy attacks on its hands to remove them as quickly as possible.\n![Furnace Valley Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Furnace_Valley_Walkthrough_%2844%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(43\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Furnace_Valley_Walkthrough_%2843%29.png)\nA lot of the moves will see the Chief attack with long sweeps or hitting the ground with its fists. Ripples of lava will often follow these attacks, so using the Fireproof Mantle will give you some protection against the fire damage.\"\n            - Following Text: \"There are three areas you can concentrate attacks, which are its body and two hands. It's best to target the two hands, as these are actually breakable and by removing them, the Flint Chief becomes a lot more unsteady on its feet. Focus combos, follow-ups, and heavy attacks on its hands to remove them as quickly as possible.\n![Furnace Valley Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Furnace_Valley_Walkthrough_%2844%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Furnace_Valley_Walkthrough_%2841%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic encounter with the Flint Chief, a massive lava-infused boss in a fiery, molten environment. The Chief is shown mid-action, with its body glowing with flames and debris flying, emphasizing its destructive power. The preceding and following text suggests this is part of a gameplay guide, advising players to use fire-resistant gear and focus attacks on the Chief's breakable hands to destabilize it and gain an advantage in the fight."
+    "chunk_id": 603148065301,
+    "source_file": "Heart_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Heart_of_Stone.jpg",
+    "alt_text": "Heart of Stone.jpg",
+    "position_desc": 1,
+    "img_above_text": "Heart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.",
+    "img_below_text": "To obtain the Heart of Stone, you need to defeat Shigandang in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need all six Buddhas Eyeball items to be able to trigger this fight.\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Heart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.\"\n        - Following Text: \"To obtain the Heart of Stone, you need to defeat Shigandang in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need all six Buddhas Eyeball items to be able to trigger this fight.\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the in-game inventory screen from *Black Myth: Wukong*, specifically highlighting the \"Heart of Stone,\" a rare special crafting material. The description states that this item belonged to someone who renounced faith and slaughtered the divine, and it is used for crafting weapons. The preceding and following text explain that the Heart of Stone is used to craft the Cloud-Patterned Stone Staff and can be obtained by defeating the boss Shigandang in Fright Cliff, requiring six Buddhas Eyeball items to trigger the fight."
 }

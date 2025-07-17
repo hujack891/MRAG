@@ -1,28 +1,11 @@
 {
-    "chunk_id": 43084394652,
+    "chunk_id": 440957972441,
     "source_file": "Bamboo_Grove_Walkthrough.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bamboo_43.jpg",
     "alt_text": "Wukong Bamboo 43.jpg",
     "position_desc": 43,
     "img_above_text": "![Wukong Bamboo 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Wukong_Bamboo_49.jpg)\nAt range, he may do a backwards twirl, but this is only to prepare a very fast spear throw in your direction. Dodge to the side and prepare for him to follow his spear, grabbing onto the embedded weapon and spin around it to launch himself at you once more feet first, and then one final lunge with his spear for a third and final strike.",
     "img_below_text": "Even more deadly is his ability to begin twirling his spear as you can your staff — only his version will kick up thin waves of water to send your way. He’ll send about 6 damaging projectile waves this way, and then charge up for a lunging thrust to follow up with. You can simply strafe and outpace the waves of force, and ready yourself to dodge his thrust before countering.\n![Wukong Bamboo 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bamboo_50.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 43 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Wukong_Bamboo_49.jpg)\nAt range, he may do a backwards twirl, but this is only to prepare a very fast spear throw in your direction. Dodge to the side and prepare for him to follow his spear, grabbing onto the embedded weapon and spin around it to launch himself at you once more feet first, and then one final lunge with his spear for a third and final strike.\"\n            - Following Text: \"Even more deadly is his ability to begin twirling his spear as you can your staff — only his version will kick up thin waves of water to send your way. He’ll send about 6 damaging projectile waves this way, and then charge up for a lunging thrust to follow up with. You can simply strafe and outpace the waves of force, and ready yourself to dodge his thrust before countering.\n![Wukong Bamboo 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bamboo_50.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bamboo_43.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat sequence from *Black Myth: Wukong*, showcasing the protagonist Wukong engaged in battle with the \"Whiteclad Noble\" enemy. The enemy is seen unleashing a powerful water-based attack, creating thin waves of water projectiles while Wukong prepares to evade. The environment includes a water-filled area surrounded by bamboo and fire-lit elements, emphasizing the dynamic and atmospheric gameplay.\n\n2. **Narrative Role**:  \nThe image illustrates the Whiteclad Noble's advanced combat abilities, particularly his spear twirling technique that generates damaging water waves. This visual complements the preceding and following text, which describe the enemy's spear-based attacks and strategies for players to counter them, such as strafing to avoid projectiles and preparing for follow-up thrusts. It serves to highlight the challenging mechanics and strategic depth of the encounter."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Wukong_Bamboo_49.jpg)\nAt range, he may do a backwards twirl, but this is only to prepare a very fast spear throw in your direction. Dodge to the side and prepare for him to follow his spear, grabbing onto the embedded weapon and spin around it to launch himself at you once more feet first, and then one final lunge with his spear for a third and final strike.\"\n        - Following Text: \"Even more deadly is his ability to begin twirling his spear as you can your staff — only his version will kick up thin waves of water to send your way. He’ll send about 6 damaging projectile waves this way, and then charge up for a lunging thrust to follow up with. You can simply strafe and outpace the waves of force, and ready yourself to dodge his thrust before countering.\n![Wukong Bamboo 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bamboo_50.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the player character, Wukong, engaged in battle against the \"Whiteclad Noble\" enemy. The enemy is using a spear-based attack that generates waves of water as projectiles, consistent with the description in the preceding and following text. The environment features a water-covered area with vegetation, fire-lit surroundings, and visual effects emphasizing the enemy's attack. The player's health and abilities are displayed in the HUD, highlighting the strategic nature of the fight."
 }

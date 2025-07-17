@@ -1,28 +1,11 @@
 {
-    "chunk_id": 146828435784,
-    "source_file": "Captain_Void-Illusion.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Longevity_7.jpg",
-    "alt_text": "Wukong Longevity 7.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find Captain Void-Illusion\nYou can find Captain Void-Illusion along the Road of Longevity in the Valley of Ecstasy. From the Shrine, head directly right and up the small hill past a large inacessible tower. You'll find a large corpse of some kind at the base of a statue built into the cliffs ahead.",
-    "img_below_text": "This is actually one of the four Captains that the Pagoda Realm Prisoner spoke of, but it looks like someone beat you to putting this captain out of their misery. You can still interact with the body to claim the Spirit of Captain Void-Illusion. And hey, since they still count as a Yaoguai Chief in the journal, that's one less boss to worry about!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Captain_Void-Illusion.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Captain Void-Illusion\nYou can find Captain Void-Illusion along the Road of Longevity in the Valley of Ecstasy. From the Shrine, head directly right and up the small hill past a large inacessible tower. You'll find a large corpse of some kind at the base of a statue built into the cliffs ahead.\"\n            - Following Text: \"This is actually one of the four Captains that the Pagoda Realm Prisoner spoke of, but it looks like someone beat you to putting this captain out of their misery. You can still interact with the body to claim the Spirit of Captain Void-Illusion. And hey, since they still count as a Yaoguai Chief in the journal, that's one less boss to worry about!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Longevity_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy environment where a character approaches the large corpse of Captain Void-Illusion, located at the base of a statue built into the cliffs. This scene aligns with the narrative context, where the player discovers the fallen captain, a significant figure tied to the game's lore, and can interact with the body to claim the Spirit of Captain Void-Illusion. The setting emphasizes the desolation and mystery surrounding the encounter."
+    "chunk_id": 777183931276,
+    "source_file": "Celestial_Nonary_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/The_New_West_Nonary.jpg",
+    "alt_text": "The New West Nonary.jpg",
+    "position_desc": 4,
+    "img_above_text": "## The New West Celestial Nonary Pill\nThe New West Celestial Nonary Pill",
+    "img_below_text": "This Nonary Pill is on the grounds of the New Thunderclap Temple. Once you enter the temple grounds, run straight through the second entrance and take the stairs on the left. Head into the building on the left and run up the stairs inside to reach the second story. Continue up the steps behind the building and turn right. There, you will see a large frozen pond. The pill chest is sitting on a table in the pond.\n## The Webbed Hollow Celestial Nonary Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## The New West Celestial Nonary Pill\nThe New West Celestial Nonary Pill\"\n        - Following Text: \"This Nonary Pill is on the grounds of the New Thunderclap Temple. Once you enter the temple grounds, run straight through the second entrance and take the stairs on the left. Head into the building on the left and run up the stairs inside to reach the second story. Continue up the steps behind the building and turn right. There, you will see a large frozen pond. The pill chest is sitting on a table in the pond.\n## The Webbed Hollow Celestial Nonary Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character, wielding a fiery staff, stands near a table on a frozen pond. The table holds an interactable chest labeled \"RT Open,\" suggesting the player can open it. This location aligns with the preceding and following text, which describes the quest to find the New West Celestial Nonary Pill at the New Thunderclap Temple. The chest likely contains the pill, as part of the walkthrough instructions."
 }

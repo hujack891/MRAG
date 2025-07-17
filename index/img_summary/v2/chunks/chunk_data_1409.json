@@ -1,28 +1,11 @@
 {
-    "chunk_id": 270374751784,
-    "source_file": "Giant_Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
-    "alt_text": "Five Skandhas \\(22\\).png",
-    "position_desc": 4,
-    "img_above_text": "![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.",
-    "img_below_text": "Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Giant_Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.\"\n            - Following Text: \"Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing in a rocky environment, facing a massive structure or creature composed of dark stone with glowing blue crystals embedded in it. The context suggests this is part of a boss fight against the \"Giant Shigandang\" in *Black Myth: Wukong*. The blue crystals are the target points for the player to attack in order to defeat the boss. The image visually emphasizes the scale of the encounter and highlights the crystals as a key gameplay element."
+    "chunk_id": 939415992040,
+    "source_file": "How_to_Find_All_Purple_Talisman_Altars_in_Chapter_4.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Purple_Talismans_Chapter_4_.png",
+    "alt_text": "Purple Talismans Chapter 4 .png",
+    "position_desc": 13,
+    "img_above_text": "This will lead you to a courtyard, where the last altar and Talisman is. You'll hear someone shout \"Run!\" as you approach.\n## What Happens When You Collect All 4 Talismans?",
+    "img_below_text": "When you collect the final Talisman, the Altar will disappear and a boss called the Supreme Inspector will emerge. Fight for as long as you can and a cutscene will begin. The Supreme Inspector will be taken away by the Crane Immortal who emerges, and the fight will end here.\nWhen it's over, you can collect a Celestial Nonary Pill from the box behind the fight area and will achieve the trophy Misfit with Merit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"This will lead you to a courtyard, where the last altar and Talisman is. You'll hear someone shout \"Run!\" as you approach.\n## What Happens When You Collect All 4 Talismans?\"\n        - Following Text: \"When you collect the final Talisman, the Altar will disappear and a boss called the Supreme Inspector will emerge. Fight for as long as you can and a cutscene will begin. The Supreme Inspector will be taken away by the Crane Immortal who emerges, and the fight will end here.\nWhen it's over, you can collect a Celestial Nonary Pill from the box behind the fight area and will achieve the trophy Misfit with Merit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a pivotal moment in the game where the player character confronts the Supreme Inspector, a boss that emerges after collecting the final Talisman. The setting is a courtyard with a mystical altar, which disappears as the boss appears. This encounter leads to a significant battle, followed by a cutscene involving the Crane Immortal and rewards such as the Celestial Nonary Pill and the \"Misfit with Merit\" trophy."
 }

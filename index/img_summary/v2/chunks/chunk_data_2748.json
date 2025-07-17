@@ -1,28 +1,11 @@
 {
-    "chunk_id": 49136660911,
-    "source_file": "Soaks.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-guanyins-willow-leaf.jpg",
-    "alt_text": "Black-myth-wukong-guanyins-willow-leaf.jpg",
-    "position_desc": 27,
-    "img_above_text": "![Black-myth-wukong-flower-primes.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Black-myth-wukong-flower-primes.jpg)| Flower Primes| Mythical | Using the gourd removes all Four Bane states | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of the White Mist Shrine in Black Wind Mountain from Chapter 6 onwards | Flower Primes\n![Black-myth-wukong-graceful-orchid.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Black-myth-wukong-graceful-orchid.jpg)| Graceful Orchid| Epic | Using the gourd slowly recovers a small amount of Health for a short duration | Give all 15 seeds to Chen Loong in The New West| Graceful Orchid",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Soaks.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-flower-primes.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Black-myth-wukong-flower-primes.jpg)| Flower Primes| Mythical | Using the gourd removes all Four Bane states | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of the White Mist Shrine in Black Wind Mountain from Chapter 6 onwards | Flower Primes\n![Black-myth-wukong-graceful-orchid.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Black-myth-wukong-graceful-orchid.jpg)| Graceful Orchid| Epic | Using the gourd slowly recovers a small amount of Health for a short duration | Give all 15 seeds to Chen Loong in The New West| Graceful Orchid\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-guanyins-willow-leaf.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gourd, which is likely a mythical or epic item within the context of the game \"Black Myth: Wukong.\" Based on the preceding text, this gourd is associated with the \"Graceful Orchid,\" an epic item that provides a health recovery effect when used. It is part of a narrative where players can give seeds to a character named Chen Loong in The New West to obtain the item. The gourd's purpose is to enhance gameplay by offering health benefits, contributing to the strategic elements of the game."
+    "chunk_id": 882773248284,
+    "source_file": "Village_of_Lanxi_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Lanxi_14.jpg",
+    "alt_text": "Wukong Lanxi 14.jpg",
+    "position_desc": 13,
+    "img_above_text": "From here, look around to find two paths to take: A narrow walkway over a stream below, and another open path past a building to the right.\nTake the path on the right first, but first look for a small building next to the narrow path where you'll find another **Treasure Chest** inside, guarded by more Stone Spiders that will burrow up to ambush you.",
+    "img_below_text": "Head down the sloping street and grab a green Wisp along the way, and you'll find yourself crossing a small bridge to a clearing with a shack covered in webs. Standing our front are two Grasshopper Guai that can strike extremely quickly, but aren't as durable as the Beetle Captain.\nClear them out with Zhu Bajie's help, and you'll find they were guarding a large **Treasure Chest** holding several consumables, which may include a Loong Aura Amplification Pellet, as well as a Knot of Voidness and Blood of the Iron Bull.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"From here, look around to find two paths to take: A narrow walkway over a stream below, and another open path past a building to the right.\nTake the path on the right first, but first look for a small building next to the narrow path where you'll find another **Treasure Chest** inside, guarded by more Stone Spiders that will burrow up to ambush you.\"\n        - Following Text: \"Head down the sloping street and grab a green Wisp along the way, and you'll find yourself crossing a small bridge to a clearing with a shack covered in webs. Standing our front are two Grasshopper Guai that can strike extremely quickly, but aren't as durable as the Beetle Captain.\nClear them out with Zhu Bajie's help, and you'll find they were guarding a large **Treasure Chest** holding several consumables, which may include a Loong Aura Amplification Pellet, as well as a Knot of Voidness and Blood of the Iron Bull.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a web-covered shack in a forested area, with two hostile creatures nearby. A red circle highlights a potential point of interest, likely a **Treasure Chest** mentioned in the preceding text. The scene aligns with the walkthrough's guidance to explore the area for loot while dealing with ambushing enemies. The dialogue at the bottom suggests narrative progression or interaction."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 386075989791,
-    "source_file": "Stone_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Stone_Spirit.jpg",
-    "alt_text": "Stone Spirit.jpg",
+    "chunk_id": 133700654857,
+    "source_file": "Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Walkthrough1.jpg",
+    "alt_text": "Walkthrough1.jpg",
     "position_desc": 1,
-    "img_above_text": "# Stone Spirit\nThe Stone Spirit is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.",
-    "img_below_text": "The Stone Spirit can be found throughout the game's six chapters in the following locations:\n* In Chests",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Stone_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"# Stone Spirit\nThe Stone Spirit is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.\"\n            - Following Text: \"The Stone Spirit can be found throughout the game's six chapters in the following locations:\n* In Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Stone_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\nThe image displays the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the item \"Stone Spirit.\" The Stone Spirit is categorized as an uncommon general weapon material, with a description emphasizing its significance in crafting weapons.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image serves to illustrate the Stone Spirit's role within the game \"Black Myth: Wukong.\" Positioned in the inventory, it shows that the Stone Spirit is a crucial material used for upgrading and crafting weapons. The preceding text introduces the Stone Spirit as a basic material in the game, while the following text provides information on where players can find it, indicating its importance in gameplay progression and equipment enhancement."
+    "img_above_text": "See the links below to get started with help for a particular section:\n## Chapter 1 - Black Cloud, Red Fire",
+    "img_below_text": "Chapter 1 of Black Myth: Wukong takes place in the deep forests of Black Wind Mountain, ruled by a fierce Black Wind King, and is where the Destined One's journey begins.\n* **Forest of Wolves**",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"See the links below to get started with help for a particular section:\n## Chapter 1 - Black Cloud, Red Fire\"\n        - Following Text: \"Chapter 1 of Black Myth: Wukong takes place in the deep forests of Black Wind Mountain, ruled by a fierce Black Wind King, and is where the Destined One's journey begins.\n* **Forest of Wolves**\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from **Chapter 1 - Black Cloud, Red Fire** of the video game *Black Myth: Wukong*. It shows the protagonist standing in a dense forest environment, facing a traditional structure illuminated by firelight, suggesting a significant location within **Black Wind Mountain**. This area appears to be part of the **Forest of Wolves**, where the player's journey begins, possibly involving exploration or confrontation with the Black Wind King."
 }

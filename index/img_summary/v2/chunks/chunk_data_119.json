@@ -1,28 +1,11 @@
 {
-    "chunk_id": 95253074416,
+    "chunk_id": 195332710086,
     "source_file": "Best_Skills_to_Unlock.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Best_Skills_to_Unlock_%286%29.png",
-    "alt_text": "Best Skills to Unlock \\(6\\).png",
-    "position_desc": 2,
-    "img_above_text": "At the beginning of the game, you’ll see that there are locked branches of the skill tree and you’ll only have access to **Foundation, Staff Stances, and Mysticism**.\nThe Foundation section of the skills is divided into Stamina, Martial Arts, and Survival. In these skill trees, you’ll be able to awaken abilities that will reduce your stamina consumption, increase your health, and upgrade your standard attacks.",
-    "img_below_text": "Staff Stances comprise Smash Stance, Pillar Stance, and Thrust Stance, **though the latter can’t be unlocked until you reach level 20**. Smash Stance is your starting stance, and Pillar Stance can be unlocked by awakening the first node in the corresponding Skill Tree.\nOn the left-hand side of the Staff Stances tab, you’ll also find uncategorized skills. The ones closest to the Smash Stance set will increase your health recovery, the damage you deal, and the stamina you recover.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Best_Skills_to_Unlock.md'.\n\n            Context:\n            - Preceding Text: \"At the beginning of the game, you’ll see that there are locked branches of the skill tree and you’ll only have access to **Foundation, Staff Stances, and Mysticism**.\nThe Foundation section of the skills is divided into Stamina, Martial Arts, and Survival. In these skill trees, you’ll be able to awaken abilities that will reduce your stamina consumption, increase your health, and upgrade your standard attacks.\"\n            - Following Text: \"Staff Stances comprise Smash Stance, Pillar Stance, and Thrust Stance, **though the latter can’t be unlocked until you reach level 20**. Smash Stance is your starting stance, and Pillar Stance can be unlocked by awakening the first node in the corresponding Skill Tree.\nOn the left-hand side of the Staff Stances tab, you’ll also find uncategorized skills. The ones closest to the Smash Stance set will increase your health recovery, the damage you deal, and the stamina you recover.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Best_Skills_to_Unlock_%286%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image displays the \"Staff Stances\" skill tree from a game, highlighting three stances: Smash Stance, Pillar Stance, and Thrust Stance. Smash Stance is the starting stance, with its abilities shown in detail, including a description of its heavy attack as versatile and effective for tactical combat. The skill tree also includes nodes for unlocking additional abilities, such as health recovery and damage boosts.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually represent the progression system within the Staff Stances skill tree. It complements the preceding and following text by detailing how players can unlock and upgrade stances, starting with Smash Stance, and gradually progress to others like Pillar Stance and Thrust Stance. It emphasizes the tactical advantages of Smash Stance and guides players on how to enhance their combat effectiveness through skill upgrades."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Best_Skills_to_Unlock_.png",
+    "alt_text": "Best Skills to Unlock .png",
+    "position_desc": 6,
+    "img_above_text": "You'll unlock Mysticism early on and be able to use Immobilize to stop enemies in their tracks. Skills like Stagnation, where you extend the duration of Immobilization the next time you use the spell are invaluable especially as they stack.\nTeam this with Evanescence and you can extend the Immobilization once again, but also increase the damage they take once they try to attack. The goal for this category should be to try and do as much damage as possible and have the spell last as long as you can.",
+    "img_below_text": "Later on, you'll also earn Ring of Fire, which will help you recover quicker and can be used to protect against the cold. Skills like Raging Flames and Consolidation are worth unlocking here, to help you recover and build Focus simultaneously so you can jump back into the action as you exit the ring.\n### Best Alteration Skills to Unlock",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You'll unlock Mysticism early on and be able to use Immobilize to stop enemies in their tracks. Skills like Stagnation, where you extend the duration of Immobilization the next time you use the spell are invaluable especially as they stack.\nTeam this with Evanescence and you can extend the Immobilization once again, but also increase the damage they take once they try to attack. The goal for this category should be to try and do as much damage as possible and have the spell last as long as you can.\"\n        - Following Text: \"Later on, you'll also earn Ring of Fire, which will help you recover quicker and can be used to protect against the cold. Skills like Raging Flames and Consolidation are worth unlocking here, to help you recover and build Focus simultaneously so you can jump back into the action as you exit the ring.\n### Best Alteration Skills to Unlock\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the skill tree for the \"Mysticism\" category in a video game, highlighting two key abilities: \"Immobilize,\" which stops enemies, and \"Ring of Fire,\" which provides recovery and protection. The skill \"Raging Flames\" is specifically detailed, noting its ability to generate additional Focus while within the Ring of Fire. This aligns with the preceding and following text, emphasizing strategies to enhance damage, extend effects, and recover efficiently during combat."
 }

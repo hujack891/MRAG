@@ -1,28 +1,11 @@
 {
-    "chunk_id": 503486830806,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(11\\).png",
-    "position_desc": 9,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)\nAbout halfway up, Zhu Bajie loses his patience and transforms into a boar, knocking down a number of soldiers as he dashes off.",
-    "img_below_text": "Just keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.\n![Water Curtain Cave Walkthrough \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)\nAbout halfway up, Zhu Bajie loses his patience and transforms into a boar, knocking down a number of soldiers as he dashes off.\"\n            - Following Text: \"Just keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.\n![Water Curtain Cave Walkthrough \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky cave environment, likely part of the Water Curtain Cave walkthrough in the game \"Black Myth: Wukong.\" It serves as a visual representation of the path players must navigate, emphasizing the challenging terrain and atmospheric setting. The preceding text describes Zhu Bajie's transformation and chaotic escape, while the following text guides players to continue their ascent, suggesting the cave is a significant location in the narrative journey."
+    "chunk_id": 189346919426,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_UpperHollow_36.jpg",
+    "alt_text": "Wukong UpperHollow 36.jpg",
+    "position_desc": 37,
+    "img_above_text": "Carefully carve a path through the Clawed Cocoons to reach the other side, and you'll find yourself in a large chamber with an even bigger cocoon hanging down from the middle. Something angry is muttering to itself inside, and its apparently waiting for you.\n## Boss Fight - Venom Daoist",
+    "img_below_text": "To commence the fight against the Venom Daoist, you'll need to bat the Odd Cocoon around like a pinata for awhile, until about half of its health bar is gone. Once your attack gets bounced away, the Venom Daoist will emerge, sporting two swords and eight arms to tear you apart.\nIn reality, the Venom Daoist isn't the toughest opponent you've faced, but the low lighting will make it a little hard to see his attacks in his tangle of arms. Once you learn his positioning for his various attacks, you'll find plenty of opportunities to get in some of your own.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Carefully carve a path through the Clawed Cocoons to reach the other side, and you'll find yourself in a large chamber with an even bigger cocoon hanging down from the middle. Something angry is muttering to itself inside, and its apparently waiting for you.\n## Boss Fight - Venom Daoist\"\n        - Following Text: \"To commence the fight against the Venom Daoist, you'll need to bat the Odd Cocoon around like a pinata for awhile, until about half of its health bar is gone. Once your attack gets bounced away, the Venom Daoist will emerge, sporting two swords and eight arms to tear you apart.\nIn reality, the Venom Daoist isn't the toughest opponent you've faced, but the low lighting will make it a little hard to see his attacks in his tangle of arms. Once you learn his positioning for his various attacks, you'll find plenty of opportunities to get in some of your own.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character striking a large hanging cocoon, labeled \"Odd Cocoon,\" in a dark, eerie chamber. This action is part of the setup for the boss fight against the Venom Daoist, as described in the accompanying text. The cocoon's health bar is visible, indicating the need to deplete it partially to trigger the boss's emergence. The scene emphasizes the tense atmosphere and the player's preparation for the upcoming fight."
 }

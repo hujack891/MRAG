@@ -1,28 +1,11 @@
 {
-    "chunk_id": 495786547164,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_Pagoda_70.jpg",
-    "alt_text": "Wukong Pagoda 70.jpg",
-    "position_desc": 67,
-    "img_above_text": "To the left, you can find the Mani Wheel Shrine and a path to the boss, but there's one last section of the fourth level of the prison we need to complete, which unfortunately means going back to the madness. Be sure to unlock the Shrine regardless so you can teleport back to it easily.\nTake the path going right from the wooden beams, and you'll come upon a group of frozen corpses by a raised platform. They'll be smashed to pieces as a new enemy flies down -- a Falcon Fan-Maker.",
-    "img_below_text": "This enemy is built fairly tough, and can launch themselves high up to slice the air with their fan to create projectiles to slash your way.\nWhen he descends back to the ground, use Immobilize to keep him pinned down as you press the attack, and use Spirit attacks to keep him staggered. Be ready for him to flap his wings to push your back or create whirlwinds as he flies up.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 67 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"To the left, you can find the Mani Wheel Shrine and a path to the boss, but there's one last section of the fourth level of the prison we need to complete, which unfortunately means going back to the madness. Be sure to unlock the Shrine regardless so you can teleport back to it easily.\nTake the path going right from the wooden beams, and you'll come upon a group of frozen corpses by a raised platform. They'll be smashed to pieces as a new enemy flies down -- a Falcon Fan-Maker.\"\n            - Following Text: \"This enemy is built fairly tough, and can launch themselves high up to slice the air with their fan to create projectiles to slash your way.\nWhen he descends back to the ground, use Immobilize to keep him pinned down as you press the attack, and use Spirit attacks to keep him staggered. Be ready for him to flap his wings to push your back or create whirlwinds as he flies up.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_Pagoda_70.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game walkthrough, showcasing a battle between the player character and a new enemy, the Falcon Fan-Maker. The enemy is airborne, creating projectile attacks with its fan, while the player character stands ready to engage. The surrounding environment is snowy and desolate, indicating a challenging setting. The image serves to illustrate the encounter described in the text, highlighting the enemy's attack patterns and the need for strategic combat."
+    "chunk_id": 93240821384,
+    "source_file": "Skandha_of_Form.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Skanda_of_Form_1.jpg",
+    "alt_text": "Skanda of Form 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Skanda of Form 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Skanda_of_Form_3.jpg)\nThe Skandha of Form can be found within the Forest of Wolves, Front Hills Shrine in Black Wind Mountain. This is the first Shrine in the game. Upon crossing the bridge soon after the Shrine, loop around to the left to find a river and a monkey.",
+    "img_below_text": "The monkey will run off, leaving behind the Skandha of Form on the ground for you to use.\n![Skanda of Form 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Skanda_of_Form_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Skanda of Form 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Skanda_of_Form_3.jpg)\nThe Skandha of Form can be found within the Forest of Wolves, Front Hills Shrine in Black Wind Mountain. This is the first Shrine in the game. Upon crossing the bridge soon after the Shrine, loop around to the left to find a river and a monkey.\"\n        - Following Text: \"The monkey will run off, leaving behind the Skandha of Form on the ground for you to use.\n![Skanda of Form 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Skanda_of_Form_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in *Black Myth: Wukong* standing in a forested area near a shallow river. A red-dotted circle highlights an object on the ground, identified as the \"Skandha of Form,\" which is left behind by a monkey after it runs off. This item is located near the Forest of Wolves, Front Hills Shrine, early in the game."
 }

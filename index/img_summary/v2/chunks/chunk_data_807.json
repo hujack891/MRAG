@@ -1,28 +1,11 @@
 {
-    "chunk_id": 762003633439,
-    "source_file": "Crow_Diviner_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Crow_Diviner_Power.png",
-    "alt_text": "Crow Diviner Power.png",
-    "position_desc": 3,
-    "img_above_text": "The Crow Diviner fights with a sword and deals frost damage. He also uses a skill that renders him almost invisible, making him blend into the white snow around the area. He's not completely invisible while using this move. You can still make out his outline just like you can still see yourself while using the Cloud Step spell, but it definitely complicates things all the same. Lock onto him so you don't lose him when he is using this skill.\n## Crow Diviner Spirit",
-    "img_below_text": "* **Frigid Fragrance**\n* Equipped Effect: Moderately increases Chill Resistance.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Crow_Diviner_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Crow Diviner fights with a sword and deals frost damage. He also uses a skill that renders him almost invisible, making him blend into the white snow around the area. He's not completely invisible while using this move. You can still make out his outline just like you can still see yourself while using the Cloud Step spell, but it definitely complicates things all the same. Lock onto him so you don't lose him when he is using this skill.\n## Crow Diviner Spirit\"\n            - Following Text: \"* **Frigid Fragrance**\n* Equipped Effect: Moderately increases Chill Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Crow_Diviner_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image is a screenshot from a game interface showing the equipment menu focused on the \"Crow Diviner\" spirit. This spirit has a skill called \"Frigid Fragrance,\" which allows the player to take the form of Crow Diviner and scatter Frigid Dust, applying Frost Bane to both the player and foes. The equipped effect of this spirit moderately increases Chill Resistance, enhancing the player's ability to withstand cold-related attacks. The interface displays various spirits available for selection, along with the player's basic attributes and resistances. The context suggests that the Crow Diviner is a formidable opponent with frost damage capabilities and an invisibility skill, making strategic engagement essential."
+    "chunk_id": 295759127694,
+    "source_file": "Daoist_Mi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg",
+    "alt_text": "Wukong PurpleCloud 52.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong PurpleCloud 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg)\nThe one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.",
+    "img_below_text": "With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong PurpleCloud 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg)\nThe one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.\"\n        - Following Text: \"With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the snake woman character appears after the defeat of Daoist Mi. She retrieves the egg from the fallen Daoist and hands it to the protagonist, symbolizing the transfer of power and trust. This moment leads to the acquisition of the **Violet Hail Transformation Spell**, enabling the player to temporarily transform into a Worm Practitioner and gain immunity to poison. The setting features an autumnal landscape with rocky cliffs and traditional architecture, enhancing the narrative's mystical atmosphere."
 }

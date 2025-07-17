@@ -1,28 +1,11 @@
 {
-    "chunk_id": 833790984436,
-    "source_file": "Non-Able.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Brook_14.jpg",
-    "alt_text": "Wukong Brook 14.jpg",
+    "chunk_id": 659985250239,
+    "source_file": "Puppet_Tick_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg",
+    "alt_text": "Puppet Tick .jpg",
     "position_desc": 1,
-    "img_above_text": "## Where to Find Non-Able\nNon-Able is an optional boss, and sits alone in a large snowy field in the Valley of Ecstasy. You'll find him by heading down the hill from the main road in the Forest of Felicity and into the Brook of Bliss, and then cross the bridge and head up the hill past the Shrine.",
-    "img_below_text": "Just past the crowd of Frozen Corpses, you'll find the most important thing in this region: A lone man bound and kneeling in front of a large stone pagoda on the hill above.\n### Non-Able Miniboss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Non-Able\nNon-Able is an optional boss, and sits alone in a large snowy field in the Valley of Ecstasy. You'll find him by heading down the hill from the main road in the Forest of Felicity and into the Brook of Bliss, and then cross the bridge and head up the hill past the Shrine.\"\n            - Following Text: \"Just past the crowd of Frozen Corpses, you'll find the most important thing in this region: A lone man bound and kneeling in front of a large stone pagoda on the hill above.\n### Non-Able Miniboss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Brook_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a character is navigating through a snowy field, likely in the Valley of Ecstasy. The character is armed with a staff and appears to be approaching a figure in the distance. This setting aligns with the preceding text, which describes the location of the optional boss, Non-Able, in a large snowy field. The image serves to visually represent the environment and the journey towards encountering Non-Able, enhancing the narrative context provided in the text."
+    "img_above_text": "* Puppet Tick Fight\n* Puppet Tick Spirit",
+    "img_below_text": "## Puppet Tick Location\nThe Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Puppet Tick Fight\n* Puppet Tick Spirit\"\n        - Following Text: \"## Puppet Tick Location\nThe Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, eerie environment from a video game, where a character armed with a staff and holding a glowing light prepares to face enemies in the distance. This scene likely corresponds to the \"Puppet Tick Fight\" mentioned in the preceding text, showcasing the setting and potential combat encounter. The following text provides guidance on navigating the area to locate the Puppet Tick, suggesting this image serves as a visual aid for that part of the walkthrough."
 }

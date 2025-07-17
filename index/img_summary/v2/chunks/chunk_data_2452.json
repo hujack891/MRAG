@@ -1,28 +1,11 @@
 {
-    "chunk_id": 875547773446,
-    "source_file": "Red-Haired_Yaksha_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Red_Haired_Yaksha_Power.png",
-    "alt_text": "Red Haired Yaksha Power.png",
-    "position_desc": 3,
-    "img_above_text": "The Red-Haired Yaksha is a relatively strong foe armed with a long-bow and flowing red hair. Most of his attacks are melee-based but he can shoot glowing projectiles out of both ends of his bow. The Red-Haired Yaksha is alone in the room where you fight him, so you can focus all your attention on him without having to worry about reinforcements. The Red-Haired Yaksha does wind up his moves, giving you enough time to predict and dodge them.\n## Red-Haired Yaksha Spirit Power",
-    "img_below_text": "* **Punishing Arrow**\n* Equipped Effect: Moderately increases Heavy Attack Damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Red-Haired_Yaksha_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Red-Haired Yaksha is a relatively strong foe armed with a long-bow and flowing red hair. Most of his attacks are melee-based but he can shoot glowing projectiles out of both ends of his bow. The Red-Haired Yaksha is alone in the room where you fight him, so you can focus all your attention on him without having to worry about reinforcements. The Red-Haired Yaksha does wind up his moves, giving you enough time to predict and dodge them.\n## Red-Haired Yaksha Spirit Power\"\n            - Following Text: \"* **Punishing Arrow**\n* Equipped Effect: Moderately increases Heavy Attack Damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Red_Haired_Yaksha_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image is a game interface showing the \"Equipment\" menu, specifically highlighting the \"Red-Haired Yaksha\" spirit. The spirit has a high Qi cost and grants the ability \"Punishing Arrow,\" which allows the player to shoot a powerful arrow that can stagger enemies. Equipping this spirit also moderately increases heavy attack damage. The interface includes options to equip the spirit and view a demo of its abilities."
+    "chunk_id": 644595058188,
+    "source_file": "Stone_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg",
+    "alt_text": "Wukong Fright 38.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nYou can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.",
+    "img_below_text": "Look for an archway on the left wall in this area to find this boss arena.\n## Stone Vanguard Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nYou can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.\"\n        - Following Text: \"Look for an archway on the left wall in this area to find this boss arena.\n## Stone Vanguard Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character navigating a rocky, arid environment. The area appears to be part of the Fright Cliff Region, near Rockrest Flat, as described in the walkthrough. The player is likely approaching a significant location, possibly leading to the Stone Vanguard boss fight, as hinted by the surrounding context."
 }

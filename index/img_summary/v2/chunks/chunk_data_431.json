@@ -1,28 +1,11 @@
 {
-    "chunk_id": 852797647826,
-    "source_file": "Cat_Eye_Beads.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wandering_Wight_.jpg",
-    "alt_text": "Wandering Wight .jpg",
-    "position_desc": 2,
-    "img_above_text": "You need to defeat the Wandering Wight before ringing all three bells in Black Wind Mountain and killing Elder Jinchi. This secret boss in the Ancient Guanyin Temple will despawn the Wandering Wight, making the Beads unobtainable. You can also grab the Wandering Wight Spirit here too upon defeating him.\nThe Wandering Wight acts as a skill check boss early in the game, so don't be afraid to come back after you have levelled up, just don't kill Elder Jinchi.",
-    "img_below_text": "Our guide on how to ring all three bells in Black Wind Mountain will take you through how to find the secret area if you haven't already.\nFor even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Cat_Eye_Beads.md'.\n\n            Context:\n            - Preceding Text: \"You need to defeat the Wandering Wight before ringing all three bells in Black Wind Mountain and killing Elder Jinchi. This secret boss in the Ancient Guanyin Temple will despawn the Wandering Wight, making the Beads unobtainable. You can also grab the Wandering Wight Spirit here too upon defeating him.\nThe Wandering Wight acts as a skill check boss early in the game, so don't be afraid to come back after you have levelled up, just don't kill Elder Jinchi.\"\n            - Following Text: \"Our guide on how to ring all three bells in Black Wind Mountain will take you through how to find the secret area if you haven't already.\nFor even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wandering_Wight_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character engaging in combat with the Wandering Wight, a large, imposing secret boss in a forested area surrounded by ancient ruins. This encounter is part of an early-game skill check in the context of obtaining the Cat Eye Beads in *Black Wind Mountain*. Defeating the Wandering Wight is crucial before progressing to ring the three bells and killing Elder Jinchi, as failure to do so will make the Beads unobtainable. The preceding and following text emphasize the importance of timing and strategy in this sequence, as well as providing guidance for exploration and item collection in the game."
+    "chunk_id": 40642595064,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_MiddleHollow_45.jpg",
+    "alt_text": "Wukong MiddleHollow 45.jpg",
+    "position_desc": 7,
+    "img_above_text": "While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.",
+    "img_below_text": "At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.\"\n        - Following Text: \"At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense boss battle against the \"Centipede Guai,\" a large, insect-like creature. The player character is shown mid-action, preparing to counter or attack, with the boss in its curled-up state, possibly initiating a powerful move. The surrounding environment is dark and ominous, littered with bones and debris, emphasizing the danger. The preceding and following text suggests strategies for exploiting the boss's vulnerabilities, such as timing deflections and avoiding its high-damage attacks as its health decreases."
 }

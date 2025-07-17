@@ -1,28 +1,11 @@
 {
-    "chunk_id": 471757038172,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Black-myth-wukong-celestial-taiyi-pill.jpg",
-    "alt_text": "Black-myth-wukong-celestial-taiyi-pill.jpg",
-    "position_desc": 26,
-    "img_above_text": "![Black-myth-wukong-celestial-jade-lotus-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Black-myth-wukong-celestial-jade-lotus-pill.jpg)| Celestial Jade Lotus Pill | Mythical | A miraculous pill concocted by the God of Longevity in the southernmost reaches of the land that massively increases maximum health | • Found throughout the game in containers ( locations list) | Not craftable | Celestial Jade Lotus Pill\n![Black-myth-wukong-celestial-nonary-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Black-myth-wukong-celestial-nonary-pill.jpg)| Celestial Nonary Pill | Mythical | A miraculous pill refined by Lord Lao from the Tushita Palace that massively increases maximum stamina | • Found throughout the game in containers ( locations list) | Not craftable | Celestial Nonary Pill",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-celestial-jade-lotus-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Black-myth-wukong-celestial-jade-lotus-pill.jpg)| Celestial Jade Lotus Pill | Mythical | A miraculous pill concocted by the God of Longevity in the southernmost reaches of the land that massively increases maximum health | • Found throughout the game in containers ( locations list) | Not craftable | Celestial Jade Lotus Pill\n![Black-myth-wukong-celestial-nonary-pill.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Black-myth-wukong-celestial-nonary-pill.jpg)| Celestial Nonary Pill | Mythical | A miraculous pill refined by Lord Lao from the Tushita Palace that massively increases maximum stamina | • Found throughout the game in containers ( locations list) | Not craftable | Celestial Nonary Pill\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Black-myth-wukong-celestial-taiyi-pill.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a beautifully crafted mythical consumable item from *Black Myth: Wukong*. It appears to be one of the game's celestial pills, specifically designed to enhance the player's abilities. Based on the preceding text, the pill likely serves a significant role in gameplay, such as increasing health or stamina, and is found throughout the game but cannot be crafted. The ornate design emphasizes its rarity and divine origin, aligning with the game's mythical themes."
+    "chunk_id": 80145052114,
+    "source_file": "Crouching_Tiger_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Tiger_3.jpg",
+    "alt_text": "Wukong Tiger 3.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Tiger 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Tiger_2.jpg)\nBe sure to stop and look to the right as you begin to climb the steps, and you’ll find an alcove with a shining chest that holds a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**.",
+    "img_below_text": "Keep heading up, and look left before reaching the top of the stairs. This time, you’ll find a **Meditation Spot** around the corner at the foot of a large tiger statue, and resting at it will award you a free Spark Skill Point.\nThe Sculpture, Crouching Tiger Temple Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Tiger 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Tiger_2.jpg)\nBe sure to stop and look to the right as you begin to climb the steps, and you’ll find an alcove with a shining chest that holds a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**.\"\n        - Following Text: \"Keep heading up, and look left before reaching the top of the stairs. This time, you’ll find a **Meditation Spot** around the corner at the foot of a large tiger statue, and resting at it will award you a free Spark Skill Point.\nThe Sculpture, Crouching Tiger Temple Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist approaching a glowing chest marked with a red indicator. The chest is located near a large tiger statue in a temple-like environment. Based on the preceding text, the chest contains valuable items, including **Blood of the Iron Bull**, **Small Piece of Gold**, and **Tiny Piece of Gold**, which players can collect. The following text suggests that further exploration leads to a **Meditation Spot** near the tiger statue, offering a reward of a Spark Skill Point. The image highlights a key loot location and serves as a guide for progressing through this area."
 }

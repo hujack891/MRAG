@@ -1,28 +1,11 @@
 {
-    "chunk_id": 999646534674,
-    "source_file": "Non-White_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Non-White.jpg",
-    "alt_text": "Non-White.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Non-White Fight\n* Non-White Spirit",
-    "img_below_text": "## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Non-White_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Non-White Fight\n* Non-White Spirit\"\n            - Following Text: \"## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Non-White.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character named Non-White, who appears to be a formidable boss encountered in a dark, narrow cave adorned with numerous statues. The character is likely part of a significant battle or confrontation within the game's storyline, as indicated by the preceding and following text. The dialogue in the image suggests that Non-White is addressing the protagonist, possibly hinting at a deeper narrative connection or challenge related to the \"Destined One.\""
+    "chunk_id": 990704153104,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
+    "alt_text": "Wukong Sandgate 25.jpg",
+    "position_desc": 22,
+    "img_above_text": "Before leaving the area, be sure to look around the rim of the pit past where the Xu Dog was, and you can find a high ledge path leading to a small altar with a giant statue head, and a **Meditation Spot** in front of it, granting you a free Spark Skill Point.\nThe Altar, Sandgate Village Meditation Spot",
+    "img_below_text": "Returning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\n![Wukong Sandgate 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Before leaving the area, be sure to look around the rim of the pit past where the Xu Dog was, and you can find a high ledge path leading to a small altar with a giant statue head, and a **Meditation Spot** in front of it, granting you a free Spark Skill Point.\nThe Altar, Sandgate Village Meditation Spot\"\n        - Following Text: \"Returning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\n![Wukong Sandgate 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scenario in *Black Myth: Wukong* near the sealed large doorway of Sandgate Village. The player character, using a glowing staff, appears to be dodging or engaging in battle while fiery projectiles are being shot from Rat Archers positioned on the roof of the structure. The environment features a desolate, overgrown area with a traditional-style building and barren trees, emphasizing the hostile and atmospheric setting."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 534086008648,
-    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png",
-    "alt_text": "Five Skandhas \\(24\\).png",
-    "position_desc": 17,
-    "img_above_text": "![Five Skandhas \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png)\nYou'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.",
-    "img_below_text": "As you emerge in the wide open space, a Giant Shigandang will appear.\n![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png)\nYou'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.\"\n            - Following Text: \"As you emerge in the wide open space, a Giant Shigandang will appear.\n![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, rocky tunnel with twisted tree branches framing the scene. Light pours in from an opening ahead, suggesting the end of the tunnel leads to a brighter, open area. The environment is eerie yet visually striking, setting the stage for progression in the narrative.\n\n2. **Narrative Role**:  \nThe image represents the transition point described in the preceding text, where the player passes through a tunnel in the cliff. It visually prepares the player for the upcoming encounter in the wide open space mentioned in the following text, where a Giant Shigandang will appear."
+    "chunk_id": 906592290682,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_38.jpg",
+    "alt_text": "Wukong Snowhill 38.jpg",
+    "position_desc": 3,
+    "img_above_text": "Kang-Jin Loong will often begin the fight by racing right at you headfirst, so be ready to dodge to the side. If you can time things right, Immobilize can pin her in place long enough to get some hits in.\nGet your hits in on her face when she returns to float in front of you, and be ready for the boss to whip around and prepare new attacks.",
+    "img_below_text": "If she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.\n![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Kang-Jin Loong will often begin the fight by racing right at you headfirst, so be ready to dodge to the side. If you can time things right, Immobilize can pin her in place long enough to get some hits in.\nGet your hits in on her face when she returns to float in front of you, and be ready for the boss to whip around and prepare new attacks.\"\n        - Following Text: \"If she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.\n![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from *Black Myth: Wukong*, showcasing the player character facing Kang-Jin Loong, a dragon-like enemy. The icy environment and visible combat interface suggest an intense battle, with the boss mid-action, possibly preparing an attack. The preceding and following text provides tips on dodging Kang-Jin Loong's aggressive moves, including headfirst charges and whirlwind attacks, emphasizing strategic timing and positioning."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 208316070740,
-    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Chapter_4_Secret_Area_%286%29.png",
-    "alt_text": "Chapter 4 Secret Area \\(6\\).png",
-    "position_desc": 6,
-    "img_above_text": "![Chapter 4 Secret Area \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%287%29.png)\nIn the next room, continue on past the archer, and through the opening in the rocks on the right. You'll be immediately met with a giant mass of web, where you'll want to go left and continue following the path where the white sacs are.",
-    "img_below_text": "Pass through here to enter a bigger room, with a set of stairs leading up to the next level. Go up here and follow the winding path along the right.\n![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'How_to_Unlock_the_Chapter_4_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"![Chapter 4 Secret Area \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%287%29.png)\nIn the next room, continue on past the archer, and through the opening in the rocks on the right. You'll be immediately met with a giant mass of web, where you'll want to go left and continue following the path where the white sacs are.\"\n            - Following Text: \"Pass through here to enter a bigger room, with a set of stairs leading up to the next level. Go up here and follow the winding path along the right.\n![Chapter 4 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Chapter_4_Secret_Area_%285%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Chapter_4_Secret_Area_%286%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dimly lit cavernous area with a rocky path leading to an elevated platform, highlighted by a red arrow pointing to the right. The environment features hanging chains, suspended objects, and a dark, eerie atmosphere. A humanoid enemy and a spider-like creature are visible on the ground, suggesting potential combat or danger in this section.\n\n2. **Purpose and Narrative Role**:  \nThe image serves as a visual guide to help players navigate through a specific part of the Chapter 4 secret area. It highlights the correct path (indicated by the red arrow) to progress past enemies and ascend to the next level. This aligns with the preceding and following text, which describes moving through the cavern, avoiding obstacles, and continuing upward."
+    "chunk_id": 609627080285,
+    "source_file": "Lang-Baw-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Foothills_Walkthrough_%28137%29.png",
+    "alt_text": "Foothills Walkthrough \\(137\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Foothills Walkthrough \\(134\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Foothills_Walkthrough_%28134%29.png)\nWhen you've beaten the Gold Armored Rhino head for the edge of the cliff (the opposite side to the Keeper's Shrine and where you entered the fight).",
+    "img_below_text": "When you get to the edge, look down to see a muddy clearing. Down here, you can find the next optional boss, which is the final frog Lang-Baw-Baw.\n## Lang-Baw-Baw Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(134\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Foothills_Walkthrough_%28134%29.png)\nWhen you've beaten the Gold Armored Rhino head for the edge of the cliff (the opposite side to the Keeper's Shrine and where you entered the fight).\"\n        - Following Text: \"When you get to the edge, look down to see a muddy clearing. Down here, you can find the next optional boss, which is the final frog Lang-Baw-Baw.\n## Lang-Baw-Baw Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing at the edge of a cliff, overlooking a muddy clearing below. A red arrow highlights the path or area of interest in the clearing, which is the location of the next optional boss fight against Lang-Baw-Baw. This scene serves as a visual guide to help players navigate to the boss encounter in the game."
 }

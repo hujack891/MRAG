@@ -1,28 +1,11 @@
 {
-    "chunk_id": 392494244999,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/Wukong_Bitter_12.jpg",
-    "alt_text": "Wukong Bitter 12.jpg",
-    "position_desc": 13,
-    "img_above_text": "The second hit can be extremely tough to dodge, but using the Pillar Stance to get off the ground can soak the blow if you have stamina to spare (though it will probably still stun you).\nRemember that you also have Zhu Bajie as an ally in this fight, and while he won't be able to hold his attention for too long, but he can be useful at giving you some breathing room or interrupting attacks.",
-    "img_below_text": "Since Chen Loong doesn't have a whole lot of health or armor, use everything in your arsenal to keep him staggered and unable to hit back whenever possible, and you can rush him down before the fight goes on too long and you start taking double damage too often.\nWhen he's defeated, Chen Loong will throw a bit of a tantrum, and you'll find he's not such a bad guy. He also seems to know Xu Dog, and claims only one of his celestial resurrection pills can ease his pains.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"The second hit can be extremely tough to dodge, but using the Pillar Stance to get off the ground can soak the blow if you have stamina to spare (though it will probably still stun you).\nRemember that you also have Zhu Bajie as an ally in this fight, and while he won't be able to hold his attention for too long, but he can be useful at giving you some breathing room or interrupting attacks.\"\n            - Following Text: \"Since Chen Loong doesn't have a whole lot of health or armor, use everything in your arsenal to keep him staggered and unable to hit back whenever possible, and you can rush him down before the fight goes on too long and you start taking double damage too often.\nWhen he's defeated, Chen Loong will throw a bit of a tantrum, and you'll find he's not such a bad guy. He also seems to know Xu Dog, and claims only one of his celestial resurrection pills can ease his pains.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/Wukong_Bitter_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from a video game where the player character is engaged in combat with a formidable enemy named Chen Loong. The player is using a powerful attack against Chen Loong, who appears to be a dragon-like creature. The context suggests that the fight requires strategic use of abilities and allies, like Zhu Bajie, to manage the enemy's attacks and vulnerabilities. The narrative emphasizes the importance of keeping Chen Loong staggered due to his relatively low health and armor, allowing the player to defeat him before sustaining too much damage."
+    "chunk_id": 922345615813,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-evil-repelling-medicament.jpg",
+    "alt_text": "Black-myth-wukong-evil-repelling-medicament.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder",
+    "img_below_text": "• 1 Jade Lotus | Evil Repelling Medicament\n![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder\"\n        - Following Text: \"• 1 Jade Lotus | Evil Repelling Medicament\n![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Body Cooling Powder**, an uncommon consumable item in *Black Myth: Wukong*. Its purpose is to instantly remove the Burnt State and significantly boost Burn Resistance for a short duration. The item can be acquired from the Shrine store after saving the Shen Monkey Vendor, found in chests, or dropped by enemies. Crafting it requires **1 Fragrant Jade Flower** and **1 Jade Lotus**."
 }

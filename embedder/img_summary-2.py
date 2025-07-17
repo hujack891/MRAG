@@ -24,6 +24,8 @@ INPUT_DIR = "./data/doc_cleaned"
 OUTPUT_DIR = "./index/img_summary/v2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)  
 
+context_window_size = 2
+
 @dataclass
 class SummaryData:
     chunk_id: int
@@ -112,13 +114,10 @@ def extract_chunks_from_markdown(content: str, filename: str, context_window_siz
     return summary_chunks
 
 def build_prompt_text(chunk_data):
-    """构造文本提示词内容"""
+    """构造摘要提示词"""
     return f"""
         You are shown an image extracted from a video game walkthrough or guide.\n\n
-
-        Image Position:
-        - This is {chunk_data.position_desc} from the file '{chunk_data.source_file}'.
-
+        
         Context:
         - Preceding Text: "{chunk_data.img_above_text}"
         - Following Text: "{chunk_data.img_below_text}"
@@ -126,8 +125,7 @@ def build_prompt_text(chunk_data):
         Your task:
         1. Generate a **short, clear, and informative English summary** of the image.
         2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.
-        3. Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. 
-        4. Do **not** speculate beyond the visible content.\n\n
+        3. Do **not** speculate beyond the visible content.\n\n
         """.strip()  
 
 def deduplicate_data(data_list: List[SummaryData]) -> List[SummaryData]:
@@ -203,7 +201,7 @@ def main():
         except Exception as e:
             logger.error(f"读取文件失败 {filename}: {e}")
             continue
-        chunk = extract_chunks_from_markdown(content = content, filename = filename)
+        chunk = extract_chunks_from_markdown(content = content, filename = filename, context_window_size = context_window_size)
         all_summary_data.extend(chunk)
     
     # 将数据结构中的提示词和ID补充完整

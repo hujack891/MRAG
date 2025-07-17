@@ -1,28 +1,11 @@
 {
-    "chunk_id": 90709876000,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg",
-    "alt_text": "Wukong Pagoda 83.jpg",
-    "position_desc": 77,
-    "img_above_text": "![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.",
-    "img_below_text": "After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 77 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.\"\n            - Following Text: \"After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from the video game \"Black Myth: Wukong,\" featuring a battle against the boss character Captain Wise-Voice. The screen shows Captain Wise-Voice emitting beams of light from its golden sphere head, which is part of its unorthodox attack pattern. The preceding and following text provide strategies for dodging these beams and surviving the encounter, emphasizing the need for strafing and timely dodging to avoid damage."
+    "chunk_id": 692259470950,
+    "source_file": "Snake_Sheriff_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Snake_Shriff_Location.jpg",
+    "alt_text": "Snake Shriff Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.",
+    "img_below_text": "## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.\"\n        - Following Text: \"## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing on stone steps, facing the Snake Sheriff, a large, humanoid enemy with snake-like features, positioned at the top of the stairs in a dimly lit outdoor area. The scene aligns with the walkthrough's description of encountering the Snake Sheriff in the Temple of the Yellow Flowers, setting up the subsequent fight against this fast and aggressive foe. The player appears prepared for combat, with visible inventory items and abilities displayed on the screen."
 }

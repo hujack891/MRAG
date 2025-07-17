@@ -1,28 +1,11 @@
 {
-    "chunk_id": 781814503817,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Pagoda_81.jpg",
-    "alt_text": "Wukong Pagoda 81.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Pagoda 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Pagoda_84.jpg)\nCertain times, it can even perform a charging attack by moving its head down, but you can lure it into charging the wall and dazing itself, letting you score a bunch of free hits.",
-    "img_below_text": "After taking a bit of damage, the boss will charge up to emit its \"beguiling chant\", blurring your vision somewhat, and performing an effect similar to when you were ascending the prison. Thankfully this will only lower your maximum health by around a fourth, and still give you a damage boost in return. The effect doesn't last forever -- only for around a full minute -- so make the most of it!\n![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Pagoda_84.jpg)\nCertain times, it can even perform a charging attack by moving its head down, but you can lure it into charging the wall and dazing itself, letting you score a bunch of free hits.\"\n            - Following Text: \"After taking a bit of damage, the boss will charge up to emit its \"beguiling chant\", blurring your vision somewhat, and performing an effect similar to when you were ascending the prison. Thankfully this will only lower your maximum health by around a fourth, and still give you a damage boost in return. The effect doesn't last forever -- only for around a full minute -- so make the most of it!\n![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Pagoda_81.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the boss fight with \"Captain Wise-Voice\" in *Black Myth: Wukong*. The scene highlights the eerie and disorienting atmosphere of the encounter, with the boss emitting a glowing, distorted appearance and the player's vision blurred, likely due to the boss's \"beguiling chant\" ability. This ability reduces the player's maximum health temporarily while providing a damage boost, as mentioned in the following text. The image emphasizes the challenging and surreal nature of the battle."
+    "chunk_id": 77124947532,
+    "source_file": "Celestial_Taiyi_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/The_Webbed_Hollow_Taiyi.jpg",
+    "alt_text": "The Webbed Hollow Taiyi.jpg",
+    "position_desc": 5,
+    "img_above_text": "## The Webbed Hollow Celestial Taiyi Pill\nThe Webbed Hollow Taiyi Pill",
+    "img_below_text": "After defeating the Buddha's Right Hand in the Webbed Hollow, run across the bridge it creates and turn left as soon as you reach solid ground. The Celestial Taiyi Pill is hidden around the corner.\n## Flaming Mountains Celestial Taiyi Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## The Webbed Hollow Celestial Taiyi Pill\nThe Webbed Hollow Taiyi Pill\"\n        - Following Text: \"After defeating the Buddha's Right Hand in the Webbed Hollow, run across the bridge it creates and turn left as soon as you reach solid ground. The Celestial Taiyi Pill is hidden around the corner.\n## Flaming Mountains Celestial Taiyi Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark cave environment where the player character is standing near a glowing object labeled \"Open,\" likely an interactable container or item. This scene is part of a video game walkthrough, specifically related to the quest for the Webbed Hollow Celestial Taiyi Pill. The preceding and following text suggests the player is exploring the Webbed Hollow area after defeating a boss, \"Buddha's Right Hand,\" and is searching for the hidden Celestial Taiyi Pill."
 }

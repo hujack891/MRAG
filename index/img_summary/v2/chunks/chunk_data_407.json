@@ -1,28 +1,11 @@
 {
-    "chunk_id": 188425337950,
-    "source_file": "Captain_Lotus-Vision.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Pagoda_39.jpg",
-    "alt_text": "Wukong Pagoda 39.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)\nIn this second phase, the rings in each corner will stay largely dormant, but can still activate with a flash to shoot a laser at you, which you'll need to dodge alongside the laser from his crystal. Luckily they seem to all shoot at once, so you only need to keep one ring in view when continuing the fight.",
-    "img_below_text": "In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Captain_Lotus-Vision.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)\nIn this second phase, the rings in each corner will stay largely dormant, but can still activate with a flash to shoot a laser at you, which you'll need to dodge alongside the laser from his crystal. Luckily they seem to all shoot at once, so you only need to keep one ring in view when continuing the fight.\"\n            - Following Text: \"In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Pagoda_39.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment from the boss fight against \"Captain Lotus-Vision\" in *Black Myth: Wukong*. The boss is shown unleashing a powerful attack, with a large circular aura surrounded by glowing projectiles and a concentrated laser beam aimed at the player. This visual aligns with the preceding and following text, which describe the boss's advanced attack patterns, including laser beams, teleportation, and explosive trails. The image emphasizes the intensity and complexity of the encounter, showcasing the player's need to dodge and strategize effectively during this phase of the fight."
+    "chunk_id": 142889428848,
+    "source_file": "Celestial_Jade_Lotus_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/The_New_West_Jade_Lotus.jpg",
+    "alt_text": "The New West Jade Lotus.jpg",
+    "position_desc": 4,
+    "img_above_text": "## The New West Celestial Jade Lotus Pill\nThe New West Celestial Jade Lotus Pill",
+    "img_below_text": "The New West Celestial Jade Lotus Pill is hiding on Turtle Island. From the Turtle Island Keeper's Shrine, turn left and run off the edge of the first cliff. The Celestial Jade Lotus Pill is sitting in a golden chest by the rock wall.\n## The Webbed Hollow Celestial Jade Lotus Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## The New West Celestial Jade Lotus Pill\nThe New West Celestial Jade Lotus Pill\"\n        - Following Text: \"The New West Celestial Jade Lotus Pill is hiding on Turtle Island. From the Turtle Island Keeper's Shrine, turn left and run off the edge of the first cliff. The Celestial Jade Lotus Pill is sitting in a golden chest by the rock wall.\n## The Webbed Hollow Celestial Jade Lotus Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment with a shrine-like structure featuring lit lanterns and a golden chest. A character dressed in traditional attire is interacting with the chest, indicated by the \"RT Open\" prompt. This scene aligns with the preceding and following text, suggesting the image is part of a video game guide detailing the location of the \"New West Celestial Jade Lotus Pill\" on Turtle Island. The chest likely contains the item mentioned in the walkthrough."
 }

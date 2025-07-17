@@ -1,28 +1,11 @@
 {
-    "chunk_id": 959733985821,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Buddhas_Eye_Secret_Boss_%2813%29.png",
-    "alt_text": "Buddhas Eye Secret Boss \\(13\\).png",
-    "position_desc": 3,
-    "img_above_text": "Chapter 2 features a variety of secret bosses, with a few requiring Key Items to summon them. The Buddha's Eyeballs, Old-Rattle Drum, and Loong Scales are all important finds if you want to battle each hidden boss.\n## Shigandang",
-    "img_below_text": "Grab yourself all 6 of the Buddha's Eyes in Fright Cliff and place them into the odd-looking rock near the Stone Vanguard. The result will be the emergence of Shigandang.\nShigandang",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Chapter 2 features a variety of secret bosses, with a few requiring Key Items to summon them. The Buddha's Eyeballs, Old-Rattle Drum, and Loong Scales are all important finds if you want to battle each hidden boss.\n## Shigandang\"\n            - Following Text: \"Grab yourself all 6 of the Buddha's Eyes in Fright Cliff and place them into the odd-looking rock near the Stone Vanguard. The result will be the emergence of Shigandang.\nShigandang\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Buddhas_Eye_Secret_Boss_%2813%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Shigandang, a secret boss in the game \"Black Myth: Wukong.\" This formidable creature appears to be made of stone and has multiple faces embedded in its body, suggesting a powerful and ancient entity. According to the context, Shigandang can be summoned by placing all 6 of the Buddha's Eyes into a specific rock near the Stone Vanguard in Fright Cliff. The image serves to visually introduce Shigandang, emphasizing its menacing and mystical nature."
+    "chunk_id": 233900302619,
+    "source_file": "Thunderbolt_Horn.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Thunderbolt_Horn_1.jpg",
+    "alt_text": "Thunderbolt Horn 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Black Myth: Wukong Thunderbolt Horn Location\nThe Thunderbolt Horn is found at the Shen Monkey Vendor in Bamboo Grove \\- Marsh of White Mist Shrine in Black Wind Mountain after completing Chapter 2 - Yellow Wind Ridge. Simply visit him after starting Chapter 3 - The New West and you will be able to buy the Soak from him for 3600 Will.",
+    "img_below_text": "Soaks are more common than the Drinks for your Gourds in the game. They are scattered throughout the chapters. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Thunderbolt Horn Location\nThe Thunderbolt Horn is found at the Shen Monkey Vendor in Bamboo Grove \\- Marsh of White Mist Shrine in Black Wind Mountain after completing Chapter 2 - Yellow Wind Ridge. Simply visit him after starting Chapter 3 - The New West and you will be able to buy the Soak from him for 3600 Will.\"\n        - Following Text: \"Soaks are more common than the Drinks for your Gourds in the game. They are scattered throughout the chapters. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the in-game shop interface from *Black Myth: Wukong*, specifically highlighting the \"Thunderbolt Horn,\" an uncommon Soak item priced at 3600 Will. The item moderately increases Shock Resistance for a short duration when used with the gourd. This shop screen is likely part of a guide explaining where and how to acquire the Thunderbolt Horn, which becomes available at the Shen Monkey Vendor in Chapter 3 after completing Chapter 2."
 }

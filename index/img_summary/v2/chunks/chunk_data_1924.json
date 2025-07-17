@@ -1,28 +1,11 @@
 {
-    "chunk_id": 312344848783,
-    "source_file": "Man-in-Stone_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
-    "alt_text": "Wukong Fright 22.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.",
-    "img_below_text": "You’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.\"\n            - Following Text: \"You’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* standing near the entrance of a cave, illuminated by glowing lights and torches. This cave is part of the **Squall Hideout region**, where the player is tasked with finding and defeating Rock Guai to help the **Man-in-Stone** reverse his curse. The scene sets the stage for exploration and combat within the large tunnel mentioned in the questline."
+    "chunk_id": 564951778723,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Thunderclap_80.jpg",
+    "alt_text": "Wukong Thunderclap 80.jpg",
+    "position_desc": 80,
+    "img_above_text": "![Wukong Thunderclap 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Thunderclap_79.jpg)\nAs he starts getting madder, his attacks will start to have more range. Simple sweeping strikes of his mace can alter to have his weapon handle extend to bend the weapon around his back to cover a wider arc and catch you with.",
+    "img_below_text": "If you see his foot rise as it crackles with electricity, you're better off staying back, as you can be knocked into the air of his stomp connects, which turns into a \"grab\" where he'll pierce you with his mace and slam you into the ground for a ton of damage. It's still possible to deflect the stomp with Rock Solid or rise above it with your Pillar Stance, but if you're not sure on the timing, just play it safe.\n![Wukong Thunderclap 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Thunderclap_82.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Thunderclap_79.jpg)\nAs he starts getting madder, his attacks will start to have more range. Simple sweeping strikes of his mace can alter to have his weapon handle extend to bend the weapon around his back to cover a wider arc and catch you with.\"\n        - Following Text: \"If you see his foot rise as it crackles with electricity, you're better off staying back, as you can be knocked into the air of his stomp connects, which turns into a \"grab\" where he'll pierce you with his mace and slam you into the ground for a ton of damage. It's still possible to deflect the stomp with Rock Solid or rise above it with your Pillar Stance, but if you're not sure on the timing, just play it safe.\n![Wukong Thunderclap 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Thunderclap_82.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from *Black Myth: Wukong*, featuring the enemy \"Yellowbrow\" in a dramatic attack animation. The boss is shown mid-air, wielding a large mace with crackling energy, likely preparing a powerful move. The setting is a richly detailed temple environment with statues and intricate carvings in the background. The player's health bar, abilities, and interface elements are visible, emphasizing the action-oriented gameplay."
 }

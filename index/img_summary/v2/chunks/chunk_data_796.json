@@ -1,28 +1,11 @@
 {
-    "chunk_id": 731050939367,
-    "source_file": "Crouching_Tiger_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Tiger_23.jpg",
-    "alt_text": "Wukong Tiger 23.jpg",
-    "position_desc": 24,
-    "img_above_text": "Using the Keeness of Tiger and Sterness of Stone, head up the steps to the large headless statue in the middle of the temple’s blood-soaked plaza. By activating this two-headed tally, you’ll drain the bloody pool, and reveal a large lion mouth that serves as a pit into the cellar below.\n## Temple Cellar",
-    "img_below_text": "Drop down into the mouth of the stone tiger, which leads to a very narrow tunnel passage inside the bowels of the temple. There are few Withered Corpses here to jump out at you from behind pots, but won’t be too much of a problem.\n![Wukong Tiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Tiger_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Crouching_Tiger_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Using the Keeness of Tiger and Sterness of Stone, head up the steps to the large headless statue in the middle of the temple’s blood-soaked plaza. By activating this two-headed tally, you’ll drain the bloody pool, and reveal a large lion mouth that serves as a pit into the cellar below.\n## Temple Cellar\"\n            - Following Text: \"Drop down into the mouth of the stone tiger, which leads to a very narrow tunnel passage inside the bowels of the temple. There are few Withered Corpses here to jump out at you from behind pots, but won’t be too much of a problem.\n![Wukong Tiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Tiger_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Tiger_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a narrow, dimly lit tunnel within the temple cellar, adorned with intricate carvings and statues along the walls. The player character, armed with a staff, is engaged in combat with a Withered Corpse amidst scattered debris. The environment is atmospheric, showcasing the decayed and ominous interior of the temple's underground passage.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the hostile environment encountered after descending into the temple cellar through the lion's mouth. It highlights the challenges players face in navigating the confined, eerie tunnels while dealing with ambushes from Withered Corpses, tying into the walkthrough's description of the dangers lurking in this part of the temple."
+    "chunk_id": 776212947183,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg",
+    "alt_text": "Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg",
+    "position_desc": 35,
+    "img_above_text": "![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button\n![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb",
+    "img_below_text": "![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb\n![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button\n![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb\"\n        - Following Text: \"![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb\n![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game item from *Black Myth: Wukong*, likely a piece of equipment or artifact. Based on the surrounding text, it appears to be part of a guide detailing collectible items, their rarity, effects, and locations. This specific item is not explicitly named in the provided context but is visually consistent with the other items described, which offer unique combat or resistance enhancements and are obtained by defeating specific enemies in the game."
 }

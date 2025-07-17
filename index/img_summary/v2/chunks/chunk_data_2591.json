@@ -1,28 +1,11 @@
 {
-    "chunk_id": 302321720771,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Chapter_5_Secret_Area_%288%29.png",
-    "alt_text": "Chapter 5 Secret Area \\(8\\).png",
-    "position_desc": 21,
-    "img_above_text": "# Chapter 5 Secrets\n## The Five Carts and Bishui Cave",
-    "img_below_text": "At the start of Chapter 5, you’ll encounter the Pale-Axe Stalwart. He’ll ask you to destroy the Five Carts in Chapter 5, but you’ll only actually need to tackle 4 of them. 3 of these can be found along the main path, but one can be found if you double back on yourself after the rolling spiked ball has gone toward the end of the chapter and enter the Cooling Slope.\n## Ma Tianba and Transformation Spell: Dark Thunder",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Chapter 5 Secrets\n## The Five Carts and Bishui Cave\"\n            - Following Text: \"At the start of Chapter 5, you’ll encounter the Pale-Axe Stalwart. He’ll ask you to destroy the Five Carts in Chapter 5, but you’ll only actually need to tackle 4 of them. 3 of these can be found along the main path, but one can be found if you double back on yourself after the rolling spiked ball has gone toward the end of the chapter and enter the Cooling Slope.\n## Ma Tianba and Transformation Spell: Dark Thunder\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Chapter_5_Secret_Area_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts one of the Five Carts from Chapter 5 of \"Black Myth: Wukong.\" The cart features a menacing, beast-like design with intricate details, set in a dark, rocky environment with glowing lava. This visual serves to illustrate the formidable obstacles the player must overcome, as referenced in the text, where the Pale-Axe Stalwart tasks the player with destroying these carts."
+    "chunk_id": 434176970157,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg",
+    "alt_text": "Wukong Sandgate 78.jpg",
+    "position_desc": 13,
+    "img_above_text": "Harvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!\n### 8\\. Look for Enemies With Blue Glowing Outlines",
+    "img_below_text": "When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Harvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!\n### 8\\. Look for Enemies With Blue Glowing Outlines\"\n        - Following Text: \"When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character engaged in combat with an enemy that has a blue glowing outline, consistent with the preceding and following text's description of such enemies. These enemies drop spirits that can be collected and equipped to assist in fights. The scene emphasizes the importance of identifying and defeating these glowing enemies during exploration."
 }

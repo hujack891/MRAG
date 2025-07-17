@@ -1,28 +1,11 @@
 {
-    "chunk_id": 541184922509,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_126.jpg",
-    "alt_text": "Wukong Pagoda 126.jpg",
-    "position_desc": 121,
-    "img_above_text": "![Wukong Pagoda 125.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Pagoda_125.jpg)\nHead around the side of the temple after the Wise Master departs, and you can find a **Treasure Chest** around the side of the temple holding some materials.",
-    "img_below_text": "Head up the stairs to the left and head through the hall lined with more Frozen Corpses to leave this area behind. At the top of the nearby hill, you can spot a large cymbal wedged in the rocks of a high peak overlooking a lake below. By sliding down the slope, you'll enter the new region along the **Bitter Lake**, and slide headfirst into a formidable boss fight!\nPagoda Realm Complete",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 121 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 125.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Pagoda_125.jpg)\nHead around the side of the temple after the Wise Master departs, and you can find a **Treasure Chest** around the side of the temple holding some materials.\"\n            - Following Text: \"Head up the stairs to the left and head through the hall lined with more Frozen Corpses to leave this area behind. At the top of the nearby hill, you can spot a large cymbal wedged in the rocks of a high peak overlooking a lake below. By sliding down the slope, you'll enter the new region along the **Bitter Lake**, and slide headfirst into a formidable boss fight!\nPagoda Realm Complete\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_126.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, mountainous landscape with a character, likely the protagonist, preparing to slide down a slope. This scene is part of the \"Pagoda Realm\" walkthrough in the game \"Black Myth: Wukong.\" The character is about to transition to a new region called \"Bitter Lake,\" where a significant boss fight awaits. The image serves to illustrate the challenging terrain and the impending action as the player progresses through the game."
+    "chunk_id": 934190002380,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
+    "alt_text": "Snow Fox Questline \\(16\\).png",
+    "position_desc": 11,
+    "img_above_text": "Go up the sloped wooden bridge, and straight up the stairs to the left. This will bring you to the temple where the monk is. However, **this is also when you'll need to be in fox form**. Doing so will activate a cutscene and trigger a boss fight against the Yaoguai Chief Non-Void. Transform into the fox by using the Snow Fox Brush from your inventory, then step inside the temple.\n### Yaoguai Chief Boss - Non-Void",
+    "img_below_text": "During this fight, you'll see Non-Void disappear intermittently either as a reflexive dodging move to counter your attacks, or in between his own attacks. He'll often throw punches or kicks, and quickly spin away becoming almost invisible and putting distance between the two of you. On top of this, he can become completely invisible and dash across to the other side of the room.\n![Snow Fox Questline \\(69\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Go up the sloped wooden bridge, and straight up the stairs to the left. This will bring you to the temple where the monk is. However, **this is also when you'll need to be in fox form**. Doing so will activate a cutscene and trigger a boss fight against the Yaoguai Chief Non-Void. Transform into the fox by using the Snow Fox Brush from your inventory, then step inside the temple.\n### Yaoguai Chief Boss - Non-Void\"\n        - Following Text: \"During this fight, you'll see Non-Void disappear intermittently either as a reflexive dodging move to counter your attacks, or in between his own attacks. He'll often throw punches or kicks, and quickly spin away becoming almost invisible and putting distance between the two of you. On top of this, he can become completely invisible and dash across to the other side of the room.\n![Snow Fox Questline \\(69\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a richly detailed golden temple interior featuring a central statue surrounded by intricate carvings and smaller statues. This is the location where the player must transform into fox form using the Snow Fox Brush to activate a cutscene and trigger the boss fight against the Yaoguai Chief Non-Void. The setting emphasizes the spiritual and mystical atmosphere leading up to the encounter."
 }

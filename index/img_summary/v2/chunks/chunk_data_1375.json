@@ -1,28 +1,11 @@
 {
-    "chunk_id": 159947423400,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Furnace_Valley_Walkthrough_%2872%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(72\\).png",
-    "position_desc": 36,
-    "img_above_text": "![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)\nGo left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.",
-    "img_below_text": "Continue on the path to the left (running alongside the wall) to pick up the Fire Date from the tree on the right and take out the Bull Stalwart.\n![Furnace Valley Walkthrough \\(74\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2874%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)\nGo left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.\"\n            - Following Text: \"Continue on the path to the left (running alongside the wall) to pick up the Fire Date from the tree on the right and take out the Bull Stalwart.\n![Furnace Valley Walkthrough \\(74\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2874%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Furnace_Valley_Walkthrough_%2872%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a fiery cave environment with molten lava flows on the ground. A player character, armed with a staff, is advancing toward a Bull Soldier enemy in the distance. A red arrow highlights a specific point of interest—a glowing green Wisp located under a curved section of the bridge ahead.\n\n2. **Purpose and Narrative Role**:  \nThe image visually supports the preceding text, which instructs the player to defeat the Bull Soldier and absorb the green Wisp hidden beneath the bridge. It serves as a guide to help players locate the Wisp and prepare for the encounter with the enemy."
+    "chunk_id": 3509511221,
+    "source_file": "How_to_Defeat_the_Stone_Vanguard_With_Another_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/30_CrouchingTigerTemple_1.mp4.00_10_00_46.Still012.jpg",
+    "alt_text": "30 CrouchingTigerTemple 1.mp4.00 10 00 46.Still012.jpg",
+    "position_desc": 5,
+    "img_above_text": "If you try interacting with it early, you'll find an inscription about how this rock is actually the Shigandang Yaoguai King Boss, sealed away with six items of divinity, which you can use to release him.\n## How to Summon the Shigandang Boss",
+    "img_below_text": "In order to release the Shigandang from his prison, you'll need to search the Fright Cliff for six Buddha statue heads, and claim all six Buddha Eyeballs from them. You can find a detailed guide for All Buddha Eyeball Locations here, or check see the quick list below:\n1. Located on the path up to the Squall Hideout Shrine.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"If you try interacting with it early, you'll find an inscription about how this rock is actually the Shigandang Yaoguai King Boss, sealed away with six items of divinity, which you can use to release him.\n## How to Summon the Shigandang Boss\"\n        - Following Text: \"In order to release the Shigandang from his prison, you'll need to search the Fright Cliff for six Buddha statue heads, and claim all six Buddha Eyeballs from them. You can find a detailed guide for All Buddha Eyeball Locations here, or check see the quick list below:\n1. Located on the path up to the Squall Hideout Shrine.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character interacting with an object, possibly related to the process of summoning the Shigandang Yaoguai King Boss. Based on the context, the interaction may involve collecting or activating one of the six Buddha statue heads or Buddha Eyeballs required to release the boss from its sealed state. The glowing effect suggests an action or event tied to the game's narrative progression."
 }

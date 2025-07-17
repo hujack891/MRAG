@@ -1,0 +1,13 @@
+{
+    "chunk_id": 181285694599,
+    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/How_To_Claim_Deluxe_Edition_Items_%285%29.png",
+    "alt_text": "How To Claim Deluxe Edition Items \\(5\\).png",
+    "position_desc": 4,
+    "img_above_text": "### Weapon\n* Bronzecloud Staff",
+    "img_below_text": "### Armor\n* Folk Opera Mask",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Weapon\n* Bronzecloud Staff\"\n        - Following Text: \"### Armor\n* Folk Opera Mask\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the equipment menu from a video game, highlighting the \"Bronzecloud Staff,\" an uncommon weapon with an attack stat of 36 and a critical hit chance of 2%. The staff is currently equipped, and the menu allows players to examine or manage their inventory. This section is part of a walkthrough or guide detailing available weapons and armor.",
+    "embedding_prompt": "The image displays the equipment menu from a video game, highlighting the \"Bronzecloud Staff,\" an uncommon weapon with an attack stat of 36 and a critical hit chance of 2%. The staff is currently equipped, and the menu allows players to examine or manage their inventory. This section is part of a walkthrough or guide detailing available weapons and armor.",
+    "generate_prompt": "This is an image from the file 'How_to_Claim_Deluxe_Edition_Items.md', This is the 4th image in the document, The preceding text of this image is: ### Weapon\n* Bronzecloud Staff,The following text of this image is: ### Armor\n* Folk Opera Mask,The summary of this picture is:The image displays the equipment menu from a video game, highlighting the \"Bronzecloud Staff,\" an uncommon weapon with an attack stat of 36 and a critical hit chance of 2%. The staff is currently equipped, and the menu allows players to examine or manage their inventory. This section is part of a walkthrough or guide detailing available weapons and armor."
+}

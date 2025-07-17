@@ -1,28 +1,11 @@
 {
-    "chunk_id": 321470414382,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Thunderclap_41.jpg",
-    "alt_text": "Wukong Thunderclap 41.jpg",
-    "position_desc": 40,
-    "img_above_text": "Head back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.\nThe darkened room is small, and hides another Overseeing Monk, as well as stairs leading upward to the right.",
-    "img_below_text": "Beware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.\n![Wukong Thunderclap 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 40 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Head back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.\nThe darkened room is small, and hides another Overseeing Monk, as well as stairs leading upward to the right.\"\n            - Following Text: \"Beware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.\n![Wukong Thunderclap 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Thunderclap_41.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character ascending a dimly lit staircase in a wooden temple-like structure, armed with a spear. An Overseeing Monk enemy is visible at the top of the stairs, ready to engage in combat. A large statue of a deity or monk is positioned to the right, adding to the eerie and atmospheric setting. The image aligns with the preceding and following text, illustrating the tense progression through the temple and the need for strategic combat against the monks while navigating the environment."
+    "chunk_id": 678853908567,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg",
+    "alt_text": "Wukong Pagoda 61.jpg",
+    "position_desc": 58,
+    "img_above_text": "![Wukong Pagoda 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Pagoda_60.jpg)\nBack on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.",
+    "img_below_text": "If you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.\n![Wukong Pagoda 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Pagoda_60.jpg)\nBack on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.\"\n        - Following Text: \"If you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.\n![Wukong Pagoda 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character from *Black Myth: Wukong* exploring a dimly lit area with red, rocky terrain and scattered debris. The character is holding a staff and facing a glowing green Wisp in the distance, which likely serves as an interactable or collectible item. This scene aligns with the walkthrough's description of finding Snake-Head Mushrooms, green Wisps, and other items in open cells while progressing through the area."
 }

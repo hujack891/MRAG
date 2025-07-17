@@ -1,28 +1,11 @@
 {
-    "chunk_id": 921652170080,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Fright_2.jpg",
-    "alt_text": "Wukong Fright 2.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nAs you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.",
-    "img_below_text": "Heading toward the archway in the distance, you can find a green Wisp to absorb on the left side of the broken rock pathway, and on the right is a new type of enemy that will try to ambush you. This Pitstone is a mass of rock and skulls on legs, and will try to use its weight to jump down on you, and perform somersaults to use its momentum to slam into you. If they prove to be a problem to evade, consider using the Thrust Stance to charge up attacks from a distance and shatter them.\n![Wukong Fright 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_3.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nAs you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.\"\n            - Following Text: \"Heading toward the archway in the distance, you can find a green Wisp to absorb on the left side of the broken rock pathway, and on the right is a new type of enemy that will try to ambush you. This Pitstone is a mass of rock and skulls on legs, and will try to use its weight to jump down on you, and perform somersaults to use its momentum to slam into you. If they prove to be a problem to evade, consider using the Thrust Stance to charge up attacks from a distance and shatter them.\n![Wukong Fright 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Fright_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter in *Black Myth: Wukong*, where the player character, Wukong, is engaged in battle with a Pitstone enemy. The Pitstone, a creature made of rock and skulls, is attempting to attack, while Wukong counters with a thrusting spear attack. The environment is a rocky, grassy terrain, emphasizing the game's naturalistic and rugged setting.\n\n2. **Narrative Role**:  \nThe image illustrates the gameplay mechanics and enemy interactions described in the following text. It highlights the ambush nature of the Pitstone enemy and the recommended strategy of using the Thrust Stance to attack from a distance, aligning with the walkthrough's guidance for overcoming this challenging foe."
+    "chunk_id": 539744822512,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Furnace_Valley_Walkthrough_%2849%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(49\\).png",
+    "position_desc": 24,
+    "img_above_text": "As soon as you pass through the archway, the next boss battle will begin and you'll discover who was responsible for the voices you heard earlier.\n### Yaoguai Chief - Cloudy Mist, Misty Cloud",
+    "img_below_text": "Cloudy Mist and Misty Cloud are another duo that will use different elements to fight you. You'll go up against Cloudy Mist first, who is the creature with the staff.\n![Furnace Valley Walkthrough \\(54\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Furnace_Valley_Walkthrough_%2854%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As soon as you pass through the archway, the next boss battle will begin and you'll discover who was responsible for the voices you heard earlier.\n### Yaoguai Chief - Cloudy Mist, Misty Cloud\"\n        - Following Text: \"Cloudy Mist and Misty Cloud are another duo that will use different elements to fight you. You'll go up against Cloudy Mist first, who is the creature with the staff.\n![Furnace Valley Walkthrough \\(54\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Furnace_Valley_Walkthrough_%2854%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Yaoguai Chief duo, \"Cloudy Mist\" and \"Misty Cloud,\" who serve as bosses in the game. The characters feature eerie, monstrous appearances, with one holding a staff. The text overlay introduces their names and a warning to intruders, suggesting their role as guardians of the Princess' palace. This scene marks the beginning of a boss battle after passing through an archway."
 }

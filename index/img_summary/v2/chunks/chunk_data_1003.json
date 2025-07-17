@@ -1,28 +1,11 @@
 {
-    "chunk_id": 662666666139,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Field_Fire_Walkthrough_%2811%29.png",
-    "alt_text": "Field Fire Walkthrough \\(11\\).png",
-    "position_desc": 8,
-    "img_above_text": "The Crag, Ashen Pass III Meditation Spot\nReturn to the Ashen Pass III Keeper's Shrine, and continue on the path opposite it. You'll reach a portion of the path where it narrows, and there's a Searing-Fire enemy to the right. However, the bigger problem you'll have is the spiked golden ball you can see straight up ahead.",
-    "img_below_text": "You're about to get quite familiar with this ball, as it will follow you along the path for a while. It will roll back and forth over a small portion of the path each time, but if it hits you just once, it's game over.\nThe aim of this section is to find little alcoves or wider sections of the path, so you can dip into them and stay out of the ball's line of fire.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The Crag, Ashen Pass III Meditation Spot\nReturn to the Ashen Pass III Keeper's Shrine, and continue on the path opposite it. You'll reach a portion of the path where it narrows, and there's a Searing-Fire enemy to the right. However, the bigger problem you'll have is the spiked golden ball you can see straight up ahead.\"\n            - Following Text: \"You're about to get quite familiar with this ball, as it will follow you along the path for a while. It will roll back and forth over a small portion of the path each time, but if it hits you just once, it's game over.\nThe aim of this section is to find little alcoves or wider sections of the path, so you can dip into them and stay out of the ball's line of fire.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Field_Fire_Walkthrough_%2811%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a narrow, rocky path in a desolate and ominous landscape, with ancient shrine-like structures in the foreground. The red arrow highlights a spiked golden ball in the distance, which is a key obstacle in this section of the game. Players must navigate the path while avoiding the ball, which poses a lethal threat.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual introduction to the upcoming challenge in the walkthrough. It emphasizes the danger posed by the spiked golden ball, which will relentlessly follow the player along the path. The goal is to find safe spots to avoid the ball's deadly trajectory."
+    "chunk_id": 474458325584,
+    "source_file": "Flint_Vanguard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Flint_Vanguard_Spirit.jpg",
+    "alt_text": "Flint Vanguard Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "The best way to fight this foe is by sticking behind it. The Flint Vanguard punches into the ground with its fists and has a sweeping attack that reaches either side of the beast, but both can be avoided by staying directly behind the creature.\n## Flint Vanguard Spirit",
+    "img_below_text": "* **Flaming Flint**\n* Equipped Effect: Moderately increases Scorch Damage and Burn Resistance.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The best way to fight this foe is by sticking behind it. The Flint Vanguard punches into the ground with its fists and has a sweeping attack that reaches either side of the beast, but both can be avoided by staying directly behind the creature.\n## Flint Vanguard Spirit\"\n        - Following Text: \"* **Flaming Flint**\n* Equipped Effect: Moderately increases Scorch Damage and Burn Resistance.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Flint Vanguard Spirit\" in the Equipment menu of a video game. This Epic Spirit allows players to take the form of Flint Vanguard, using stone fists to attack enemies and inflict Scorch Bane, with additional burn damage if the foe is ignited. The equipped effect moderately boosts Scorch Damage and Burn Resistance. The interface also includes options to equip, watch a demo, and view stats, alongside a list of other available spirits."
 }

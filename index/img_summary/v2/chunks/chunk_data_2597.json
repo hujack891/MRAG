@@ -1,28 +1,11 @@
 {
-    "chunk_id": 152616289336,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-    "alt_text": "Five Skandhas \\(26\\).png",
-    "position_desc": 27,
-    "img_above_text": "# Chapter 6 Secrets\n## Giant Shigandang",
-    "img_below_text": "You'll need to collect four Skandhas across Chapters 1-4 to be able to reveal the Giant Shigandang in Chapter 6. The Skandhas to collect are:\n* Chapter 1 - Skandha of Form",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Chapter 6 Secrets\n## Giant Shigandang\"\n            - Following Text: \"You'll need to collect four Skandhas across Chapters 1-4 to be able to reveal the Giant Shigandang in Chapter 6. The Skandhas to collect are:\n* Chapter 1 - Skandha of Form\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a giant, dark, rocky formation resembling a colossal archway, with a lone warrior standing in front of it, suggesting a significant and imposing landmark within the narrative. The preceding text introduces Chapter 6, titled \"Secrets,\" and mentions the \"Giant Shigandang,\" indicating that the image likely represents this mysterious and monumental entity. The following text explains that collecting four Skandhas across earlier chapters is necessary to reveal the Giant Shigandang in Chapter 6, implying that the image serves to visually introduce or foreshadow this critical plot point."
+    "chunk_id": 949484380300,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg",
+    "alt_text": "Wukong Tiger 19.jpg",
+    "position_desc": 19,
+    "img_above_text": "![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\nThe pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.",
+    "img_below_text": "And finally the Thrust Stance heavy attack does great single target damage from a long range, but like the pillar stance heavy attack, it requires you to stand completely still while charging. To unlock the pillar and thrust stances, you’ll need to be of a particular level, and you’ll need to put at least one spark into the respective trees.\n### 12\\. Enter Photo Mode in Alternate Ways",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\nThe pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.\"\n        - Following Text: \"And finally the Thrust Stance heavy attack does great single target damage from a long range, but like the pillar stance heavy attack, it requires you to stand completely still while charging. To unlock the pillar and thrust stances, you’ll need to be of a particular level, and you’ll need to put at least one spark into the respective trees.\n### 12\\. Enter Photo Mode in Alternate Ways\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a scene from the video game \"Black Myth: Wukong,\" featuring a combat encounter between the player character and a large enemy named Tiger Vanguard. The player character appears to be using a heavy attack stance, possibly the pillar stance, which is noted for its slow execution but significant area-of-effect damage. The preceding text discusses the mechanics and benefits of heavy attacks in different stances, while the following text mentions the requirements for unlocking these stances."
 }

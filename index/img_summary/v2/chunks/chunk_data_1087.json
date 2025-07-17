@@ -1,28 +1,11 @@
 {
-    "chunk_id": 535435735483,
-    "source_file": "Flint_Vanguard_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Flint_Vanguard_Spirit.jpg",
-    "alt_text": "Flint Vanguard Spirit.jpg",
-    "position_desc": 3,
-    "img_above_text": "The best way to fight this foe is by sticking behind it. The Flint Vanguard punches into the ground with its fists and has a sweeping attack that reaches either side of the beast, but both can be avoided by staying directly behind the creature.\n## Flint Vanguard Spirit",
-    "img_below_text": "* **Flaming Flint**\n* Equipped Effect: Moderately increases Scorch Damage and Burn Resistance.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Flint_Vanguard_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The best way to fight this foe is by sticking behind it. The Flint Vanguard punches into the ground with its fists and has a sweeping attack that reaches either side of the beast, but both can be avoided by staying directly behind the creature.\n## Flint Vanguard Spirit\"\n            - Following Text: \"* **Flaming Flint**\n* Equipped Effect: Moderately increases Scorch Damage and Burn Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Flint_Vanguard_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Flint Vanguard Spirit\" from a game, displayed in the Equipment menu. It describes the spirit's abilities, including its \"Flaming Flint\" power, which allows the player to deal Scorch Bane damage and inflict burn damage over time on ignited foes. The equipped effect boosts Scorch Damage and Burn Resistance. The interface also highlights stats, spirit selection, and a demo preview.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a detailed reference for the Flint Vanguard Spirit, emphasizing its combat utility and strategic value. It complements the preceding gameplay advice on positioning and the following text about its flaming abilities, helping players understand its role in battle."
+    "chunk_id": 898758906143,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Wolves_1.jpg",
+    "alt_text": "Wukong Wolves 1.jpg",
+    "position_desc": 9,
+    "img_above_text": "# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.",
+    "img_below_text": "These basic enemies, the Wolf Scout and Wolf Swornsword, are perfect for getting a feel for some real combat. They tend to attack fairly slowly and draw out their sword slices giving you ample time to dodge even while using light combo attacks.\n![Wukong Wolves 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Wolves_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\"\n        - Following Text: \"These basic enemies, the Wolf Scout and Wolf Swornsword, are perfect for getting a feel for some real combat. They tend to attack fairly slowly and draw out their sword slices giving you ample time to dodge even while using light combo attacks.\n![Wukong Wolves 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Wolves_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist, armed with a staff, faces off against two wolf-like enemies in a forest setting. These enemies, identified as the Wolf Scout and Wolf Swornsword, are introductory combat opponents designed to help players practice dodging and light combo attacks. The setting is part of \"The Forest of Wolves,\" emphasizing the game's atmospheric and strategic combat elements."
 }

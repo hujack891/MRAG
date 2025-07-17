@@ -1,28 +1,11 @@
 {
-    "chunk_id": 445493688318,
-    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Secret_Loong_Bosses_%2817%29.png",
-    "alt_text": "Secret Loong Bosses \\(17\\).png",
-    "position_desc": 9,
-    "img_above_text": "Red Loong\n## How to Find Black Loong - Chapter 2 Secret Boss",
-    "img_below_text": "For Chapter 2, you'll want to wait until you've got to the Rockrest Flat Keeper's Shrine in Yellow Wind Ridge. If you're facing the Keeper's Shrine, turn to the right and head all the way up the stairs. If you haven't already collected it, you'll be able to fight a Spearbone here for a Spirit.\n![Secret Loong Bosses \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Secret_Loong_Bosses_%2814%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"Red Loong\n## How to Find Black Loong - Chapter 2 Secret Boss\"\n            - Following Text: \"For Chapter 2, you'll want to wait until you've got to the Rockrest Flat Keeper's Shrine in Yellow Wind Ridge. If you're facing the Keeper's Shrine, turn to the right and head all the way up the stairs. If you haven't already collected it, you'll be able to fight a Spearbone here for a Spirit.\n![Secret Loong Bosses \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Secret_Loong_Bosses_%2814%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Secret_Loong_Bosses_%2817%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a rocky, desolate environment, facing a staircase leading upward. A red arrow highlights the direction to ascend, suggesting the next step in the journey to locate the Black Loong secret boss in Chapter 2 of *Black Myth: Wukong*. The environment features rugged cliffs, ancient structures, and sparse vegetation, emphasizing exploration and progression.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide to help players navigate toward the Keeper's Shrine in Yellow Wind Ridge, where they can fight a Spearbone enemy and obtain a Spirit, a prerequisite for encountering the Black Loong secret boss."
+    "chunk_id": 180898894411,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Windrest_Bridge_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "Windrest Bridge Luojia Fragrant Vine.jpg",
+    "position_desc": 2,
+    "img_above_text": "### Windrest Bridge Luojia Fragrant Vine\nWindrest Bridge Luojia Fragrant Vine",
+    "img_below_text": "This Luojia Fragrant Vine can be found after clearing out the small village you will find yourself in after defeating the Tiger Vanguard at the Crouching Tiger Temple. It's just to the right of the exit.\n### Windseal Gate Luojia Fragrant Vine",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Windrest Bridge Luojia Fragrant Vine\nWindrest Bridge Luojia Fragrant Vine\"\n        - Following Text: \"This Luojia Fragrant Vine can be found after clearing out the small village you will find yourself in after defeating the Tiger Vanguard at the Crouching Tiger Temple. It's just to the right of the exit.\n### Windseal Gate Luojia Fragrant Vine\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a glowing tree adorned with luminous objects, likely representing the \"Windrest Bridge Luojia Fragrant Vine\" mentioned in the preceding text. This vine appears to be a collectible or interactable item in the game, found after clearing a small village following the defeat of the Tiger Vanguard at the Crouching Tiger Temple. The glowing visuals suggest its significance in the game’s progression or narrative."
 }

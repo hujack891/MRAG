@@ -1,28 +1,11 @@
 {
-    "chunk_id": 278804634941,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
-    "alt_text": "Wukong Pagoda 66.jpg",
-    "position_desc": 63,
-    "img_above_text": "![Wukong Pagoda 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg)\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.",
-    "img_below_text": "Then head to the cell on the right to find another Blade Monk guarding a **Treasure Chest** full of random materials. There's also a green Wisp just outside on the ledge.\n![Wukong Pagoda 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Pagoda_67.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 63 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg)\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\"\n            - Following Text: \"Then head to the cell on the right to find another Blade Monk guarding a **Treasure Chest** full of random materials. There's also a green Wisp just outside on the ledge.\n![Wukong Pagoda 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Pagoda_67.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character, Wukong, is inside a dimly lit, rocky cell area. Wukong is preparing to engage a Blade Monk, who is guarding a treasure chest filled with random materials. The highlighted area in the image indicates the location of the treasure chest. The preceding text advises players to move slowly outside the cells and deal with another Blade Monk, while the following text mentions another Blade Monk guarding a treasure chest and a green Wisp on the ledge outside."
+    "chunk_id": 774934717682,
+    "source_file": "Silk.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Silk.jpg",
+    "alt_text": "Silk.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Silk\nSilk is one of the rare Crafting Materials in Black Myth: Wukong, used to upgrade your armor and unlock entirely new armor sets. Despite the abundance of Armor and Gear sets in the game, Silk is a lot rarer and you will have to get through a decent chunk of the game to find more of it, or consistent supplies of it in the open world.",
+    "img_below_text": "Below, you can find a breakdown of all the locations where Silk can be found throughout Black Myth: Wukong, the majority of which are in Chapter 2 - Yellow Wind Ridge and onwards.\n## Black Myth: Wukong Silk Locations",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Silk\nSilk is one of the rare Crafting Materials in Black Myth: Wukong, used to upgrade your armor and unlock entirely new armor sets. Despite the abundance of Armor and Gear sets in the game, Silk is a lot rarer and you will have to get through a decent chunk of the game to find more of it, or consistent supplies of it in the open world.\"\n        - Following Text: \"Below, you can find a breakdown of all the locations where Silk can be found throughout Black Myth: Wukong, the majority of which are in Chapter 2 - Yellow Wind Ridge and onwards.\n## Black Myth: Wukong Silk Locations\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from *Black Myth: Wukong*, specifically highlighting \"Silk,\" a rare crafting material used for upgrading armor and unlocking new armor sets. The description notes that Silk is produced by an old silkworm and can be used to craft armor. The preceding and following text emphasizes Silk's rarity and provides context about its importance in gameplay, as well as locations where it can be found starting from Chapter 2."
 }

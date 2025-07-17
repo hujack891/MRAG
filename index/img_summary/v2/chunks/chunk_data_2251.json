@@ -1,28 +1,11 @@
 {
-    "chunk_id": 274691024326,
-    "source_file": "Old_Rattle-Drum.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Old_Rattle-Drum_Spot_3.jpg",
-    "alt_text": "Old Rattle-Drum Spot 3.jpg",
-    "position_desc": 5,
-    "img_above_text": "The last location is in Sandgate Village. From the Village Entrance Shrine, head through the gate you opened when you fought Earth Wolf in the large courtyard. You will have also seen the horse man here tied to a post. To the left of that post, where he was tied, is a small path leading to a well.\nHere you can use the drum and summon the boy who will lead you down into the well.",
-    "img_below_text": "Once down in the well, you will be able to fight the Mad Tiger. It is one of the tougher fights in the Yellow Wind Ridge and our guide has a ton of tips on how to defeat them. You can also read our full walkthrough for the chapter.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Old_Rattle-Drum.md'.\n\n            Context:\n            - Preceding Text: \"The last location is in Sandgate Village. From the Village Entrance Shrine, head through the gate you opened when you fought Earth Wolf in the large courtyard. You will have also seen the horse man here tied to a post. To the left of that post, where he was tied, is a small path leading to a well.\nHere you can use the drum and summon the boy who will lead you down into the well.\"\n            - Following Text: \"Once down in the well, you will be able to fight the Mad Tiger. It is one of the tougher fights in the Yellow Wind Ridge and our guide has a ton of tips on how to defeat them. You can also read our full walkthrough for the chapter.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Old_Rattle-Drum_Spot_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game set in a rugged, rocky landscape with a character standing in the foreground. The character appears to be a warrior or adventurer, equipped with a staff and wearing a distinctive hat and armor. This setting is likely part of a quest or mission, where the player uses a drum to summon a guide, a boy, who will lead them to a well. This location is significant as it precedes a challenging battle against the Mad Tiger in the Yellow Wind Ridge area, as described in the accompanying text. The image serves to illustrate the environment and the character's role in the narrative progression of the game."
+    "chunk_id": 288891470334,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
+    "alt_text": "Wukong Sandgate 62.jpg",
+    "position_desc": 60,
+    "img_above_text": "King of Flowing Sands and Second Rat Prince\n## Valley of Despair",
+    "img_below_text": "As the battle concludes, the lute-playing headless man will return to continue his ballad. A large imposing stone door stands before you, and a small shining statue near it can’t be interacted with unless you possess both the Sterness of Stone and Keeness of Tiger. If you listen to the headless man’s song, he’ll offer a clue: To beat the yellow rat sage who rules this place, you’ll need to defeat his henchmen who carry the keys to this door.\nFrom here, things can get pretty varied and more open than the paths were in Chapter 1. To the right of the sealed door is a bridge leading to the Fright Valley (plus a Ginsengling you can beat up to harvest its plants). To the left lies the Valley of Despair, and beyond it the Crouching Tiger Temple.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"King of Flowing Sands and Second Rat Prince\n## Valley of Despair\"\n        - Following Text: \"As the battle concludes, the lute-playing headless man will return to continue his ballad. A large imposing stone door stands before you, and a small shining statue near it can’t be interacted with unless you possess both the Sterness of Stone and Keeness of Tiger. If you listen to the headless man’s song, he’ll offer a clue: To beat the yellow rat sage who rules this place, you’ll need to defeat his henchmen who carry the keys to this door.\nFrom here, things can get pretty varied and more open than the paths were in Chapter 1. To the right of the sealed door is a bridge leading to the Fright Valley (plus a Ginsengling you can beat up to harvest its plants). To the left lies the Valley of Despair, and beyond it the Crouching Tiger Temple.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing before a small glowing statue near a large, sealed stone door. A prompt indicates that interacting with the statue requires \"Sterness of Stone\" and \"Keeness of Tiger.\" The context suggests this is part of a puzzle or progression mechanic in the game, where the player must obtain specific attributes or items to unlock the door and advance further."
 }

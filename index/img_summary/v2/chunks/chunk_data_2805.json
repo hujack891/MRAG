@@ -1,28 +1,11 @@
 {
-    "chunk_id": 869138783364,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_1.jpg",
-    "alt_text": "Wukong YellowFlower 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Yaoguai King - Hundred-Eyed Daoist Master\nAfter defeating the Violet Spider, you'll have to escape her spider swarm as she retreats, but luckily you'll be plucked to safety by the one Spider Sister that seems to be on your side.",
-    "img_below_text": "When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* Yaoguai King - Hundred-Eyed Daoist Master\nAfter defeating the Violet Spider, you'll have to escape her spider swarm as she retreats, but luckily you'll be plucked to safety by the one Spider Sister that seems to be on your side.\"\n            - Following Text: \"When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, ominous scene in a rocky, forested area where a large spider-like creature looms menacingly above a character. This visual follows the player's escape from a spider swarm and precedes their arrival at a mountain path leading to a temple. The image serves to illustrate the perilous journey and the immediate threat faced by the player before reaching the relative safety of the temple."
+    "chunk_id": 818861012838,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Golden_Loong_Staff.jpg",
+    "alt_text": "Golden Loong Staff.jpg",
+    "position_desc": 9,
+    "img_above_text": "• 8 Yaoguai Core\n• 21,000 Will | Kang-Jin Staff",
+    "img_below_text": "• 1 Sea-Supporting Tendon\n• 2 Kun Steel",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 8 Yaoguai Core\n• 21,000 Will | Kang-Jin Staff\"\n        - Following Text: \"• 1 Sea-Supporting Tendon\n• 2 Kun Steel\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Kang-Jin Staff,\" a weapon featured in the video game. It is likely part of an inventory or equipment guide, emphasizing its design and attributes. The preceding and following text lists materials or items, suggesting the staff may require specific resources (e.g., Yaoguai Core, Sea-Supporting Tendon) for crafting, upgrading, or acquisition."
 }

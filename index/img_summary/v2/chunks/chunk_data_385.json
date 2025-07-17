@@ -1,28 +1,11 @@
 {
-    "chunk_id": 153427188710,
-    "source_file": "Bull_Governor_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Bull_Governor.jpg",
-    "alt_text": "Bull Governor.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Bull Governor Fight\n* Bull Governor Spirit",
-    "img_below_text": "## Bull Governor Location\nThe Bull Governor can be found in Bushui Cave, which is the secret area in the Flaming Mountains. Unlocking the secret area and gaining access to Bushui Cave is a long process. Follow these instructions to get there:",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Bull_Governor_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Bull Governor Fight\n* Bull Governor Spirit\"\n            - Following Text: \"## Bull Governor Location\nThe Bull Governor can be found in Bushui Cave, which is the secret area in the Flaming Mountains. Unlocking the secret area and gaining access to Bushui Cave is a long process. Follow these instructions to get there:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Bull_Governor.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene featuring the \"Bull Governor,\" a massive, fiery-horned creature wielding a large weapon, engaged in battle with a smaller, armored character. It visually represents the \"Bull Governor Spirit\" encounter, highlighting the creature's formidable presence and the challenging fight. This serves as a precursor to the following section, which provides instructions on locating the Bull Governor in Bushui Cave, a secret area within the Flaming Mountains."
+    "chunk_id": 526827146750,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg",
+    "alt_text": "Wukong Pagoda 46.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.",
+    "img_below_text": "* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.\"\n        - Following Text: \"* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases two key moments from the \"Black Myth: Wukong\" walkthrough. On the left, Wukong is seen climbing or leaping across a rocky chasm, likely navigating the vertical terrain of the pagoda. On the right, Wukong faces a locked cell containing a Bandit Chief guarding a treasure chest, as mentioned in the preceding text. The scene emphasizes exploration, combat, and treasure acquisition within the Lower Pagoda Shrine."
 }

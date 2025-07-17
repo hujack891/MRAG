@@ -1,28 +1,11 @@
 {
-    "chunk_id": 919901580997,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg",
-    "alt_text": "Wukong Wolves 33.jpg",
-    "position_desc": 40,
-    "img_above_text": "![Wukong Wolves 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg)\nFrom here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.",
-    "img_below_text": "The far side of the stream has many more materials to collect, and most importantly, a path leading from the bridge where the archer was to a small archway where another extremely important yet optional mini-boss awaits you.\n### Yaoguai Chief Mini-Boss Fight - Guangzhi",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 40 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg)\nFrom here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\"\n            - Following Text: \"The far side of the stream has many more materials to collect, and most importantly, a path leading from the bridge where the archer was to a small archway where another extremely important yet optional mini-boss awaits you.\n### Yaoguai Chief Mini-Boss Fight - Guangzhi\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a scene from *Black Myth: Wukong*, where the protagonist, wielding a staff, approaches a shadowy forest path leading to a small archway. The area is illuminated by soft light filtering through the trees, with stone markers and a lit brazier nearby. The HUD indicates the collection of \"Will x23,\" suggesting resource gathering or preparation for an upcoming challenge.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a transitional moment in the walkthrough, guiding players toward a key area beyond the archway. It highlights resource collection (\"Will\") and sets the tone for an imminent encounter, possibly the optional Yaoguai Chief mini-boss mentioned in the following text. The serene yet foreboding environment reinforces the exploration and combat themes of the game."
+    "chunk_id": 222799543029,
+    "source_file": "Fungiwoman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Funghi_Woman.jpg",
+    "alt_text": "Funghi Woman.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Fungiwoman Fight\n* Fungiwoman Spirit",
+    "img_below_text": "## Fungiwoman Location\nThe Fungiwoman can be found near the Temple of the Yellow Flowers. From the temple entrance, take the path on the left and head up the stairs, taking out enemies as you go. You will come across a small, concrete clearing with two Snake Herbalists and a couple of centipedes to defeat.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Fungiwoman Fight\n* Fungiwoman Spirit\"\n        - Following Text: \"## Fungiwoman Location\nThe Fungiwoman can be found near the Temple of the Yellow Flowers. From the temple entrance, take the path on the left and head up the stairs, taking out enemies as you go. You will come across a small, concrete clearing with two Snake Herbalists and a couple of centipedes to defeat.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from a video game where the player character is engaged in combat with the \"Fungiwoman,\" a hostile enemy. The environment is a forested area with rocky terrain and scattered vegetation. The preceding text suggests the image is part of a guide detailing the fight against the Fungiwoman, while the following text provides directions to her location near the Temple of the Yellow Flowers. The interface displays health bars, abilities, and controls, emphasizing the gameplay mechanics during this encounter."
 }

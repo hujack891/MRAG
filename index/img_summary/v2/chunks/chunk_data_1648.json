@@ -1,28 +1,11 @@
 {
-    "chunk_id": 762161702003,
-    "source_file": "How_to_Unlock_the_Chapter_5_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Chapter_5_Secret_Area_%283%29.png",
-    "alt_text": "Chapter 5 Secret Area \\(3\\).png",
-    "position_desc": 4,
-    "img_above_text": "Continue on the main path in the Chapter and past the Father of Stones mini-boss. Open the door and go past the statue, along the bridge, and into the cave.\nThe Gray-Bronze Cart health bar will appear as soon as you step onto the bridge, and you'll hear someone shout \"Help!\". You'll need to work your way down to it, however, by going through the cave.",
-    "img_below_text": "When you get to the bottom, you'll be met with a narrow pathway and the cart blocking it. When you're close to the cart, look to the left to find an alcove you can dip into to avoid the fire attacks.\n![Chapter 5 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'How_to_Unlock_the_Chapter_5_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"Continue on the main path in the Chapter and past the Father of Stones mini-boss. Open the door and go past the statue, along the bridge, and into the cave.\nThe Gray-Bronze Cart health bar will appear as soon as you step onto the bridge, and you'll hear someone shout \"Help!\". You'll need to work your way down to it, however, by going through the cave.\"\n            - Following Text: \"When you get to the bottom, you'll be met with a narrow pathway and the cart blocking it. When you're close to the cart, look to the left to find an alcove you can dip into to avoid the fire attacks.\n![Chapter 5 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Chapter_5_Secret_Area_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a narrow, rocky pathway flanked by intricately carved stone pillars, leading deeper into a cave. This setting is part of the journey in Chapter 5, where players must navigate past the Gray-Bronze Cart, a significant obstacle blocking the path. The image serves to illustrate the challenging environment players will encounter as they progress through the chapter, emphasizing the need to find strategic positions to avoid fire attacks from the cart."
+    "chunk_id": 946242624826,
+    "source_file": "Lang-Li-Guhh-Lang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg",
+    "alt_text": "Wukong Felicity 9.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Felicity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg)\nWhile you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.",
+    "img_below_text": "His tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.\n![Wukong Felicity 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Felicity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg)\nWhile you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.\"\n        - Following Text: \"His tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.\n![Wukong Felicity 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against \"Lang-Li-Guhh-Lang,\" a frog-like yaoguai. The scene is set on a frozen lake surrounded by a snowy environment. The player character, wielding a staff, faces the boss, which is mid-action, possibly preparing or executing an attack. The boss mechanics involve frost fields and rock projectiles, as described in the context. The UI shows health bars, abilities, and player status, emphasizing the strategic nature of the encounter."
 }

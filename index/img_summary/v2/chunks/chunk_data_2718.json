@@ -1,28 +1,11 @@
 {
-    "chunk_id": 110237665691,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png",
-    "alt_text": "Snow Fox Questline \\(23\\).png",
-    "position_desc": 13,
-    "img_above_text": "![Snow Fox Questline \\(69\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png)\nTo counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.",
-    "img_below_text": "Use Spirits that can deliver heavy hits like Wandering Wight. If you can land the head-smashing Faithful Kowtow move on him, you can knock him completely over. This will stagger him for a moment, giving you the chance to move in quickly to follow up with combos.\nTeam this spells like a Pluck of Many to overwhelm him, and transformations. Azure Dust is good if you can keep him pinned, so you can continue with the heavy attacks and build Might for a finisher while doing so. Alternatively, Red Tides works due to the quick nature of the attacks, and the ability to inflict burn damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(69\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png)\nTo counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.\"\n            - Following Text: \"Use Spirits that can deliver heavy hits like Wandering Wight. If you can land the head-smashing Faithful Kowtow move on him, you can knock him completely over. This will stagger him for a moment, giving you the chance to move in quickly to follow up with combos.\nTeam this spells like a Pluck of Many to overwhelm him, and transformations. Azure Dust is good if you can keep him pinned, so you can continue with the heavy attacks and build Might for a finisher while doing so. Alternatively, Red Tides works due to the quick nature of the attacks, and the ability to inflict burn damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" where the player character is engaged in combat with a large, horned enemy named \"Non-Void.\" Sparks and effects indicate a heavy attack being landed on the enemy, which aligns with the preceding and following text that discusses strategies for keeping the enemy stunned and delivering heavy hits to stagger and overwhelm it. The image serves to illustrate the intense and aggressive combat tactics recommended for this particular fight in the Snow Fox Questline."
+    "chunk_id": 14917966684,
+    "source_file": "Venomous_Armguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_UpperHollow_37.jpg",
+    "alt_text": "Wukong UpperHollow 37.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Upon landing a critical hit, inflicts the enemy with Poison Bane\nThe Venomous Armguard is highly missible. It can only be obtained upon destroying all four of the back arms of the Venom Daoist during the first fight in the Pool of Shattered Jade in Chapter 4 - The Webbed Hollow. The item is granted after the fight if you successfully do this.",
+    "img_below_text": "Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Upon landing a critical hit, inflicts the enemy with Poison Bane\nThe Venomous Armguard is highly missible. It can only be obtained upon destroying all four of the back arms of the Venom Daoist during the first fight in the Pool of Shattered Jade in Chapter 4 - The Webbed Hollow. The item is granted after the fight if you successfully do this.\"\n        - Following Text: \"Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "This image depicts a boss fight in *Black Myth: Wukong* against the \"Venom Daoist\" in the Pool of Shattered Jade during Chapter 4 - The Webbed Hollow. The player must destroy all four of the boss's back arms during this encounter to obtain the highly missable \"Venomous Armguard\" item. The image highlights the intense combat setting, with the boss's health bar and the player's abilities visible on the HUD."
 }

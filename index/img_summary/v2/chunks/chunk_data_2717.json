@@ -1,28 +1,11 @@
 {
-    "chunk_id": 25023189603,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png",
-    "alt_text": "Snow Fox Questline \\(69\\).png",
-    "position_desc": 12,
-    "img_above_text": "![Snow Fox Questline \\(16\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png)\nDuring this fight, you'll see Non-Void disappear intermittently either as a reflexive dodging move to counter your attacks, or in between his own attacks. He'll often throw punches or kicks, and quickly spin away becoming almost invisible and putting distance between the two of you. On top of this, he can become completely invisible and dash across to the other side of the room.",
-    "img_below_text": "To counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.\n![Snow Fox Questline \\(23\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(16\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png)\nDuring this fight, you'll see Non-Void disappear intermittently either as a reflexive dodging move to counter your attacks, or in between his own attacks. He'll often throw punches or kicks, and quickly spin away becoming almost invisible and putting distance between the two of you. On top of this, he can become completely invisible and dash across to the other side of the room.\"\n            - Following Text: \"To counter this, you want to get him to stay still as often as possible. So for this fight, you'll need to be quite aggressive to try and interrupt the flow of his attacks and keep him stunned for as long as you can.\n![Snow Fox Questline \\(23\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Snow_Fox_Questline_%2823%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Snow_Fox_Questline_%2869%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a moment during a battle in the \"Snow Fox Questline\" from the game \"Black Myth: Wukong.\" The character Non-Void is shown mid-action, utilizing his ability to become almost invisible while attacking the player character. The preceding text explains Non-Void's tactics of disappearing and reappearing to dodge and counter attacks, while the following text advises players to aggressively interrupt his attacks to keep him stunned. The image visually captures Non-Void's elusive combat style, emphasizing the challenge of facing him in the game."
+    "chunk_id": 816496599366,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Longevity_final.jpg",
+    "alt_text": "Wukong Longevity final.jpg",
+    "position_desc": 125,
+    "img_above_text": "![Wukong Longevity 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Longevity_28.jpg)\nHead back to the Lower Pagoda Shrine, and revisit the Pagoda Realm Prisoner (aka, the Third Prince of Flowing Sands). He will be grateful for your work in putting his captains to rest, and will award you the **Chubai Spearhead** , which allows you to craft a spear variant of your trusty staff: the Chu-Bai Spear!",
+    "img_below_text": "With the Valley of Ecstasy officially cleared of threats, you can now begin to explore the final region of **New Thunderclap Temple**.\nValley of Ecstasy Complete",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Longevity_28.jpg)\nHead back to the Lower Pagoda Shrine, and revisit the Pagoda Realm Prisoner (aka, the Third Prince of Flowing Sands). He will be grateful for your work in putting his captains to rest, and will award you the **Chubai Spearhead** , which allows you to craft a spear variant of your trusty staff: the Chu-Bai Spear!\"\n        - Following Text: \"With the Valley of Ecstasy officially cleared of threats, you can now begin to explore the final region of **New Thunderclap Temple**.\nValley of Ecstasy Complete\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy, serene courtyard with a pagoda-style shrine in the background, likely representing the **Lower Pagoda Shrine** mentioned in the preceding text. A silhouetted character, presumably the player-controlled protagonist, stands in the foreground holding a staff. This scene appears to follow the completion of a task involving the Pagoda Realm Prisoner and acquiring the **Chubai Spearhead**, and serves as a transition point before exploring the **New Thunderclap Temple** region."
 }

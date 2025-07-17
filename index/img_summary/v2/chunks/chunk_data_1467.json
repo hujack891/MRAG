@@ -1,28 +1,11 @@
 {
-    "chunk_id": 707013654873,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg",
-    "alt_text": "Wukong Karma 7.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Karma 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Karma_6.jpg)\nOnce you reach the Valley of Ecstasy region, head along the main path through the Forest of Felicity and take a left down a slope to enter the Towers of Karma area. Search along the back of this sub-region to find the same Treasure Hunter freezing from the cold sitting in a large gnarled tree, left of the main Shrine in this area.",
-    "img_below_text": "Perform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\n![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Karma_6.jpg)\nOnce you reach the Valley of Ecstasy region, head along the main path through the Forest of Felicity and take a left down a slope to enter the Towers of Karma area. Search along the back of this sub-region to find the same Treasure Hunter freezing from the cold sitting in a large gnarled tree, left of the main Shrine in this area.\"\n            - Following Text: \"Perform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\n![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a scene in a snowy forest where the protagonist, Wukong, is performing the \"Circle of Fire\" spell to warm up a Treasure Hunter sitting in the snow. The Treasure Hunter appears to be freezing, and the spell creates a glowing circular flame around him. The background features snow-covered trees and ancient, weathered stone pillars, adding a mystical atmosphere.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the narrative where Wukong helps the Treasure Hunter survive the cold by using the Circle of Fire spell. This act of assistance leads to the Treasure Hunter providing clues about the location of a secret Melon Field, advancing the storyline and exploration objectives."
+    "chunk_id": 868747907889,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Chapter_2_Secret_Area_%285%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(5\\).png",
+    "position_desc": 3,
+    "img_above_text": "Smash through the fence and go straight ahead to find the Yellow-Robed Squire on the rock. Unfortunately, you won't get much out of him except for retching and mentions of jars from Windrest until you find a **key itemcalled the Sobering Stone**. There are two ways to get hold of the item, so here's what you need to know.\n## How to Get the Sobering Stone for the Yellow-Robed Squire - Method 1",
+    "img_below_text": "The easiest way to get the Sobering Stone is through exploration and waiting until you reach the Yellow Sand Formation. The first place you'll come to is Windrest Bridge, which will take you up to Windrest Hamlet.\n![Chapter 2 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Chapter_2_Secret_Area_%283%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Smash through the fence and go straight ahead to find the Yellow-Robed Squire on the rock. Unfortunately, you won't get much out of him except for retching and mentions of jars from Windrest until you find a **key itemcalled the Sobering Stone**. There are two ways to get hold of the item, so here's what you need to know.\n## How to Get the Sobering Stone for the Yellow-Robed Squire - Method 1\"\n        - Following Text: \"The easiest way to get the Sobering Stone is through exploration and waiting until you reach the Yellow Sand Formation. The first place you'll come to is Windrest Bridge, which will take you up to Windrest Hamlet.\n![Chapter 2 Secret Area \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Chapter_2_Secret_Area_%283%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment where the player character, wielding a flaming weapon, is engaged in combat with an enemy near a dimly lit doorway. A red arrow highlights the doorway, suggesting it is a point of interest or a path to progress further in the game. This scene likely serves as part of the walkthrough's guidance on navigating towards the Sobering Stone or related objectives."
 }

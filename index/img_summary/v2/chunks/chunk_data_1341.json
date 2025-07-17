@@ -1,28 +1,11 @@
 {
-    "chunk_id": 797102678582,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Furnace_Valley_Walkthrough_%289%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(9\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Furnace Valley Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Furnace_Valley_Walkthrough_%286%29.png)\nAfter jumping down from the cliff at the end of Woods of Ember, you'll land in the waters at the start of Furnace Valley. Immediately turn to the right, to pick up the first green Wisp in the region.",
-    "img_below_text": "Go straight up toward the valley, but be careful as you explore the area. Some of the rocks in this area glow with lava, and that's because they're actually Searing-Fire enemies. These resemble the Palestones from Chapter 2 and are particularly annoying. They will leap in the air and drop on their back and front to cause explosions. For the sake of unlocking portraits, you can defeat just one and ignore the others.\n![Furnace Valley Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Furnace_Valley_Walkthrough_%2811%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Furnace_Valley_Walkthrough_%286%29.png)\nAfter jumping down from the cliff at the end of Woods of Ember, you'll land in the waters at the start of Furnace Valley. Immediately turn to the right, to pick up the first green Wisp in the region.\"\n            - Following Text: \"Go straight up toward the valley, but be careful as you explore the area. Some of the rocks in this area glow with lava, and that's because they're actually Searing-Fire enemies. These resemble the Palestones from Chapter 2 and are particularly annoying. They will leap in the air and drop on their back and front to cause explosions. For the sake of unlocking portraits, you can defeat just one and ignore the others.\n![Furnace Valley Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Furnace_Valley_Walkthrough_%2811%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Furnace_Valley_Walkthrough_%289%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" set in the Furnace Valley region. It shows a player character confronting a Searing-Fire enemy, which is a rock-like creature with glowing lava elements. This enemy is known for its explosive attacks, resembling the Palestones from an earlier chapter. The image serves to illustrate the type of challenges players will face in this area, emphasizing the need for caution due to the explosive nature of these enemies."
+    "chunk_id": 800529757987,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Martial_7.jpg",
+    "alt_text": "Wukong Martial 7.jpg",
+    "position_desc": 13,
+    "img_above_text": "This boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.\nCertain times, he'll vanish before performing a spinning leap with twin chakrams you'll need to anticipate and evade. Other times, he'll simply toss his chakram at you from afar and let it ride toward you.",
+    "img_below_text": "When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"This boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.\nCertain times, he'll vanish before performing a spinning leap with twin chakrams you'll need to anticipate and evade. Other times, he'll simply toss his chakram at you from afar and let it ride toward you.\"\n        - Following Text: \"When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a fiery chakram attack from the \"Green-Capped Martialist\" boss in a dark, rocky environment. The chakram leaves a blazing trail across the ground, emphasizing its dangerous and unpredictable movement. The preceding and following text suggests the player must focus on evading the weapon's trajectory and counterattacking when the boss retrieves it, as this is a vulnerable moment to deal damage. HUD elements show player abilities and health bars, indicating active gameplay."
 }

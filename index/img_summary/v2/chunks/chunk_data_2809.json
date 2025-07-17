@@ -1,28 +1,11 @@
 {
-    "chunk_id": 760214447601,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_YellowFlower_5.jpg",
-    "alt_text": "Wukong YellowFlower 5.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong YellowFlower 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg)\nFurther up the mountain path, you'll encounter a second type of fighter - the Fly-Whisk Daoist. More support than main attacker, they'll harass you with a variety of wind and force projectiles, and while you'll need to dodge the waves, you can deflect the smaller wind projectiles with your staff.",
-    "img_below_text": "Heading up the steps to a large balcony, defeat another Fly-Whisk Daoist to find a small turtle-shaped **Treasure Chest** that holds a **Bee Mountain Stone Soak** for your Gourd.\n![Wukong YellowFlower 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_YellowFlower_6.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg)\nFurther up the mountain path, you'll encounter a second type of fighter - the Fly-Whisk Daoist. More support than main attacker, they'll harass you with a variety of wind and force projectiles, and while you'll need to dodge the waves, you can deflect the smaller wind projectiles with your staff.\"\n            - Following Text: \"Heading up the steps to a large balcony, defeat another Fly-Whisk Daoist to find a small turtle-shaped **Treasure Chest** that holds a **Bee Mountain Stone Soak** for your Gourd.\n![Wukong YellowFlower 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_YellowFlower_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_YellowFlower_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a confrontation with a Fly-Whisk Daoist on a mountain path. The player is preparing to attack, while the Daoist is positioned near a bench with a glowing, highlighted object, possibly indicating a point of interest or a collectible item. This image serves to illustrate the gameplay mechanics and the types of enemies and treasures players will encounter as they progress through the \"Temple of Yellow Flowers\" area."
+    "chunk_id": 18726000785,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Black-myth-wukong-spider-celestial-staff.jpg",
+    "alt_text": "Black-myth-wukong-spider-celestial-staff.jpg",
+    "position_desc": 13,
+    "img_above_text": "• 2 Yaoguai Core\n• 1,200 Will | Chitin Staff",
+    "img_below_text": "• 2 Refined Iron Sand\n• 1,500 Will | Spider Celestial Staff",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 2 Yaoguai Core\n• 1,200 Will | Chitin Staff\"\n        - Following Text: \"• 2 Refined Iron Sand\n• 1,500 Will | Spider Celestial Staff\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a detailed and ornate weapon, likely a staff, with intricate designs resembling bones or insect-like features. Based on the preceding and following text, the image is part of a video game guide or walkthrough, highlighting specific weapons and their crafting materials, costs, or attributes. The context suggests the weapon shown is either the \"Chitin Staff\" or the \"Spider Celestial Staff,\" emphasizing its visual design and connection to the game's progression or inventory system."
 }

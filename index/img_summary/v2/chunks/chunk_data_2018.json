@@ -1,28 +1,11 @@
 {
-    "chunk_id": 756024053234,
-    "source_file": "Monk_from_the_Sea.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg",
-    "alt_text": "Wukong Thunderclap 14.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find The Monk from the Sea\nThe Monk from the Sea is an optional boss, and hides within the New Thunderclap Temple at the far end of the Valley of Ecstasy in The New West. To find him, you'll need to explore an optional path once inside the temple grounds.",
-    "img_below_text": "From the Temple Entrance Shrine, take the far right path and head up a narrow sloping path filled with Supporter Monks to find a side area, and continue through the large gate past where Censor Holders are praying, and the monk will jump out of an altar as you enter the next large open part of the temple grounds.\n### Monk from the Sea Miniboss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Monk_from_the_Sea.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find The Monk from the Sea\nThe Monk from the Sea is an optional boss, and hides within the New Thunderclap Temple at the far end of the Valley of Ecstasy in The New West. To find him, you'll need to explore an optional path once inside the temple grounds.\"\n            - Following Text: \"From the Temple Entrance Shrine, take the far right path and head up a narrow sloping path filled with Supporter Monks to find a side area, and continue through the large gate past where Censor Holders are praying, and the monk will jump out of an altar as you enter the next large open part of the temple grounds.\n### Monk from the Sea Miniboss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a player character, armed with a glowing spear, approaches a group of monks kneeling in prayer around a large altar. This setting is part of the New Thunderclap Temple, a location within the Valley of Ecstasy in The New West, where players can encounter the optional boss known as the Monk from the Sea. The image illustrates the path leading to the boss fight, emphasizing the atmospheric and strategic elements players will experience as they navigate through the temple grounds."
+    "chunk_id": 708435037126,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Karma_12.jpg",
+    "alt_text": "Wukong Karma 12.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Karma 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Karma_18.jpg)\nThey behave much in the same way as regular Ginsenglings do, moving slightly faster than the boss, which can help you lure them away from his attacks. Prioritize taking them out first so you don't get blindsided later, and try the Ashen Slumber transformation spell to detonate yourself near them, or use Spirit Attacks with wide reaches.",
+    "img_below_text": "Stick to staying in safe spots to keep using Thrust Stance out of the range of his roots, or Pillar Stance above him, and look for his many openings when he tumbles to the ground to press the attack, and he'll fall before long, granting you both the **Old Ginseng Guai Spirit** , Millenium Ginseng Seeds to give to Chen Loong, and the **Ginseng Cape** to wear.\n![Wukong Karma 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Karma_19.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Karma_18.jpg)\nThey behave much in the same way as regular Ginsenglings do, moving slightly faster than the boss, which can help you lure them away from his attacks. Prioritize taking them out first so you don't get blindsided later, and try the Ashen Slumber transformation spell to detonate yourself near them, or use Spirit Attacks with wide reaches.\"\n        - Following Text: \"Stick to staying in safe spots to keep using Thrust Stance out of the range of his roots, or Pillar Stance above him, and look for his many openings when he tumbles to the ground to press the attack, and he'll fall before long, granting you both the **Old Ginseng Guai Spirit** , Millenium Ginseng Seeds to give to Chen Loong, and the **Ginseng Cape** to wear.\n![Wukong Karma 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Karma_19.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the player character engaged in combat with the boss \"Old Ginseng Guai.\" The preceding text suggests strategies for dealing with the Ginsenglings that accompany the boss, while the following text provides tips for defeating the boss itself, emphasizing the use of Thrust Stance and Pillar Stance to exploit openings when the boss is vulnerable. Successfully defeating the boss rewards the player with the Old Ginseng Guai Spirit, Millenium Ginseng Seeds, and the Ginseng Cape."
 }

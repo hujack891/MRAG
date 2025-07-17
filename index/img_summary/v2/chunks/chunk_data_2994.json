@@ -1,28 +1,11 @@
 {
-    "chunk_id": 345137895250,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg",
-    "alt_text": "Wukong Wight 1.jpg",
-    "position_desc": 17,
-    "img_above_text": "Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.",
-    "img_below_text": "Note that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.\"\n            - Following Text: \"Note that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in combat with a large enemy named \"Wandering Wight.\" This visual serves to illustrate the gameplay mechanics discussed in the preceding and following text, specifically focusing on the use of heavy attacks and their variations within combos, as well as the effectiveness of the Smash Stance heavy attack for single target damage. The image highlights the intense and strategic combat elements of the game."
+    "chunk_id": 856797691792,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Woods_Ember_Walkthrough_%2848%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(48\\).png",
+    "position_desc": 27,
+    "img_above_text": "![Woods Ember Walkthrough \\(46\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Woods_Ember_Walkthrough_%2846%29.png)\nGo back down the stairs, and when you're almost at the bottom, look to the right to find another **Purple Lingzhi y** ou can harvest. Continue on, then turn right and follow the path.",
+    "img_below_text": "Watch out for the next Lavabat, and when you've tackled it, **don't head up the long set of stairs**. Instead, go to the left first. Take out the Revenant Archer and the Revenant that will emerge from the floor as you get close. When it's clear, head for the end of the path and turn right.\n![Woods Ember Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Woods_Ember_Walkthrough_%2845%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(46\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Woods_Ember_Walkthrough_%2846%29.png)\nGo back down the stairs, and when you're almost at the bottom, look to the right to find another **Purple Lingzhi y** ou can harvest. Continue on, then turn right and follow the path.\"\n        - Following Text: \"Watch out for the next Lavabat, and when you've tackled it, **don't head up the long set of stairs**. Instead, go to the left first. Take out the Revenant Archer and the Revenant that will emerge from the floor as you get close. When it's clear, head for the end of the path and turn right.\n![Woods Ember Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Woods_Ember_Walkthrough_%2845%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky environment with a staircase leading up to a small pagoda-like structure illuminated by a fire. A red arrow overlays the image, pointing toward a path on the left, indicating the player's next direction. This scene serves as a visual guide for navigating the area, emphasizing the need to explore the left path instead of ascending the stairs."
 }

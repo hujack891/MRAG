@@ -1,28 +1,11 @@
 {
-    "chunk_id": 624915730295,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Thunderclap_39.jpg",
-    "alt_text": "Wukong Thunderclap 39.jpg",
-    "position_desc": 39,
-    "img_above_text": "![Wukong Thunderclap 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_40.jpg)\nHead down the stairs to reach another large building, and a long pathway in front of it. To your right is a small frozen pond under part of a bridge, where another lesser Sea Monk hides along with a green Wisp to absorb.",
-    "img_below_text": "To the left of the building, there's more wooden platforms below the wall where a Wolf Guardian waits near a patrolling Supporter Monk. In the snow-filled corner of this area, you'll find more wooden platforms with another **Treasure Chest** you can loot for random materials.\nHead back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_40.jpg)\nHead down the stairs to reach another large building, and a long pathway in front of it. To your right is a small frozen pond under part of a bridge, where another lesser Sea Monk hides along with a green Wisp to absorb.\"\n            - Following Text: \"To the left of the building, there's more wooden platforms below the wall where a Wolf Guardian waits near a patrolling Supporter Monk. In the snow-filled corner of this area, you'll find more wooden platforms with another **Treasure Chest** you can loot for random materials.\nHead back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Thunderclap_39.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts the player character, armed with a spear, standing in a snowy area near a frozen pond and a red-walled building. The scene highlights a wooden platform marked with a red circle, indicating a point of interest. The environment features snow-covered trees, stone statues, and architectural elements, suggesting exploration and potential hidden items or enemies.\n\n2. **Purpose, Content, or Narrative Role:**  \nThe image serves as a visual guide for navigating the snowy area near the building described in the preceding and following text. It points out the wooden platform to the right of the building, where a lesser Sea Monk and a green Wisp are hidden. This area is part of the walkthrough, helping players locate enemies and resources while progressing through the level."
+    "chunk_id": 846611208767,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Pagoda_60.jpg",
+    "alt_text": "Wukong Pagoda 60.jpg",
+    "position_desc": 57,
+    "img_above_text": "Watch out for his extended spinning attack with his weapon, and wait for him to get dizzy before launching a counter attack and Immobilizing him to extend his downtime. If he floats into the air, be ready for him to crash his weapon into the ground as he lands.\nWhen defeated, you'll earn his Fungiman Spirit to add to your collection. Not far past where the Fungiman was hiding you can spot the stairway up to Level 4, but there's a bit more to explore here first.",
+    "img_below_text": "Back on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.\n![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Watch out for his extended spinning attack with his weapon, and wait for him to get dizzy before launching a counter attack and Immobilizing him to extend his downtime. If he floats into the air, be ready for him to crash his weapon into the ground as he lands.\nWhen defeated, you'll earn his Fungiman Spirit to add to your collection. Not far past where the Fungiman was hiding you can spot the stairway up to Level 4, but there's a bit more to explore here first.\"\n        - Following Text: \"Back on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.\n![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky environment within the game *Black Myth: Wukong*, featuring a player character crouching stealthily near the edge of a cliff. Two Lantern Sentries with glowing eye symbols are visible on the opposite side, patrolling a narrow pathway. The scene aligns with the guide's mention of encountering Lantern Sentries outside the Fungiman's location, emphasizing the need for caution and strategic takedowns during this section."
 }

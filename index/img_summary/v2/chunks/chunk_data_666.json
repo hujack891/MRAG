@@ -1,28 +1,11 @@
 {
-    "chunk_id": 843694264538,
-    "source_file": "Civet_Sergeant_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Civet_Power.png",
-    "alt_text": "Civet Power.png",
-    "position_desc": 3,
-    "img_above_text": "The Civet Sergeant fight is no walk in the park. There are around five Civet Sergeants to deal with, all of which are hurling knives, flipping around you, and hounding you at once. Immobilize and A Pluck of Many spells will make this fight much easier and level the playing field a little.\n## Civet Sergeant Spirit",
-    "img_below_text": "* **Heart Ripper**\n* Equipped Effect: Slightly increases Attack.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Civet_Sergeant_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Civet Sergeant fight is no walk in the park. There are around five Civet Sergeants to deal with, all of which are hurling knives, flipping around you, and hounding you at once. Immobilize and A Pluck of Many spells will make this fight much easier and level the playing field a little.\n## Civet Sergeant Spirit\"\n            - Following Text: \"* **Heart Ripper**\n* Equipped Effect: Slightly increases Attack.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Civet_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the \"Civet Sergeant\" Spirit in the game's Equipment menu. This Spirit has the ability \"Heart Ripper,\" which allows the player to take the form of a Civet Sergeant, juggle twin blades, and inflict significant damage on enemies by piercing their hearts. The equipped effect slightly increases attack power. The interface includes options to equip the Spirit, view its demo, and examine its details, providing players with strategic tools for combat scenarios."
+    "chunk_id": 606740161599,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Mirage_Pill_.jpg",
+    "alt_text": "Mirage Pill .jpg",
+    "position_desc": 10,
+    "img_above_text": "![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\n• 1 Jade Lotus | Shock-Quelling Powder",
+    "img_below_text": "![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\n• 1 Jade Lotus | Shock-Quelling Powder\"\n        - Following Text: \"![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Shock-Quelling Powder**, an uncommon item in the video game *Black Myth: Wukong*. This item is used to instantly remove the Shocked state and temporarily boost Shock Resistance. It can be crafted at the Shrine store under \"Make Medicines\" after assisting Xu Dog in defeating Lang-Li-Guhh-Baw in Sandgate Village. Crafting requires **1 Gentian** and **1 Jade Lotus**."
 }

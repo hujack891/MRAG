@@ -1,28 +1,11 @@
 {
-    "chunk_id": 894760990966,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_62.jpg",
-    "alt_text": "Wukong MiddleHollow 62.jpg",
-    "position_desc": 7,
-    "img_above_text": "The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.",
-    "img_below_text": "Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.\"\n            - Following Text: \"Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_62.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment in a boss battle against a massive, grotesque creature named \"Buddha's Right Hand\" in a dark, cavernous environment. The player character, armed and ready, faces the towering enemy, which appears to be preparing an attack. The preceding and following text suggests that the fight involves dodging a poisonous river and strategically using elevated positions to avoid damage and target the boss's face. The image highlights the scale and intensity of the encounter, emphasizing the need for quick reflexes and tactical movement."
+    "chunk_id": 600391638123,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_34.jpg",
+    "alt_text": "Wukong Pagoda 34.jpg",
+    "position_desc": 3,
+    "img_above_text": "Luckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.\nMuch of this boss's power comes from a purple crystal mounted on the tip of a staff he carries against his shoulder, which will expend a variety of projectile attacks. Some will be easier to anticipate than others, but you'll always want to keep that crystal in view.",
+    "img_below_text": "Early on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.\n![Wukong Pagoda 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Pagoda_35.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Luckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.\nMuch of this boss's power comes from a purple crystal mounted on the tip of a staff he carries against his shoulder, which will expend a variety of projectile attacks. Some will be easier to anticipate than others, but you'll always want to keep that crystal in view.\"\n        - Following Text: \"Early on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.\n![Wukong Pagoda 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Pagoda_35.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in the game *Black Myth: Wukong*, featuring the enemy \"Captain Lotus-Vision.\" The boss wields a staff with a purple crystal that emits projectile attacks, as described in the preceding and following text. The environment is a dark, ancient temple-like setting, with statues and glowing purple projectiles visible in the background. The player character, Wukong, is shown preparing to engage the boss, with health and ability icons displayed on the screen."
 }

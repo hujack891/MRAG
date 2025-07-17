@@ -1,28 +1,11 @@
 {
-    "chunk_id": 870481456037,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Foothills_Walkthrough_%2847%29.png",
-    "alt_text": "Foothills Walkthrough \\(47\\).png",
-    "position_desc": 40,
-    "img_above_text": "![Foothills Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2844%29.png)\nBeyond this, expect attacks where it will charge at you. There are rocks you can use in the arena to hide behind for a little while. However, once these are destroyed, you'll need to dodge out of the way. When it's close to you, it will also try to swipe at you by pulling its head back, then swinging it to the side to catch you with its horn. These are great moves to dodge and build up focus if you've unlocked the ability to do so in the skills tab.",
-    "img_below_text": "Lastly, you can expect a few projectile attacks from the Rhino as well. When it puts its horn down to the ground and drags along it, it will flick rocks up at you. Usually, these are five rocks at a time and you can move out of the way of them easily if you're not too close to the Rhino.\nThe fight is very much a rinse-and-repeat situation, where you'll just want to try and hit the horn as much as you can to try and break it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 40 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2844%29.png)\nBeyond this, expect attacks where it will charge at you. There are rocks you can use in the arena to hide behind for a little while. However, once these are destroyed, you'll need to dodge out of the way. When it's close to you, it will also try to swipe at you by pulling its head back, then swinging it to the side to catch you with its horn. These are great moves to dodge and build up focus if you've unlocked the ability to do so in the skills tab.\"\n            - Following Text: \"Lastly, you can expect a few projectile attacks from the Rhino as well. When it puts its horn down to the ground and drags along it, it will flick rocks up at you. Usually, these are five rocks at a time and you can move out of the way of them easily if you're not too close to the Rhino.\nThe fight is very much a rinse-and-repeat situation, where you'll just want to try and hit the horn as much as you can to try and break it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Foothills_Walkthrough_%2847%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene between a player character and a large, horned Rhino-like creature in an open field. The creature is shown mid-attack, lifting rocks into the air, possibly as part of its projectile attack. The environment features scattered debris, fire, and a dramatic, cloudy backdrop, emphasizing the chaotic and dangerous nature of the encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the fight against the Rhino boss, highlighting its ability to use projectile attacks by flicking rocks at the player. It visually complements the preceding and following text, which provide strategies for dodging these attacks and breaking the creature's horn to progress in the fight."
+    "chunk_id": 479965622262,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Wolves_46.jpg",
+    "alt_text": "Wukong Wolves 46.jpg",
+    "position_desc": 53,
+    "img_above_text": "## Yaoguai King Boss Fight - Lingxuzi\nCompared to Lingxuzi, the last wolf boss you fought may as well have been a puppy. This Yaoguai King is a large hulking beast of a wolf that hits as hard as he is big. Luckily, for all his size, his attacks come with clear telegraphs to help you dodge and counter his moves.",
+    "img_below_text": "He’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.\n![Wukong Wolves 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Yaoguai King Boss Fight - Lingxuzi\nCompared to Lingxuzi, the last wolf boss you fought may as well have been a puppy. This Yaoguai King is a large hulking beast of a wolf that hits as hard as he is big. Luckily, for all his size, his attacks come with clear telegraphs to help you dodge and counter his moves.\"\n        - Following Text: \"He’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.\n![Wukong Wolves 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense moment from the \"Yaoguai King Boss Fight - Lingxuzi\" in *Black Myth: Wukong*. It shows the player character facing off against a massive, menacing wolf-like creature with glowing red eyes, mid-leap, likely preparing for a powerful attack. The scene emphasizes the boss's size, ferocity, and dynamic movement, aligning with the guide's description of the Yaoguai King's telegraphed but devastating strikes."
 }

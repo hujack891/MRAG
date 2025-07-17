@@ -1,28 +1,11 @@
 {
-    "chunk_id": 437341853269,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg",
-    "alt_text": "Black-myth-wukong-evil-fortifying-medicament.jpg",
-    "position_desc": 15,
-    "img_above_text": "• 1 Licorice\n• 1 Fragrant Jade | Essence Decoction",
-    "img_below_text": "• 1 Gentian | Fortifying Medicament\n![Black-myth-wukong-ruyi-scroll.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg)  1 | Ruyi Scroll | Legendary | A scroll gifted by Chen Loong that leads to a secluded and tranquil retreat | • Obtained from Chen Loong after defeating him in The New West and getting the Special-made Bone-Strengening Pellet from Xu Dog in Yellow Wind Ridge upon Chen Long Asking",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"• 1 Licorice\n• 1 Fragrant Jade | Essence Decoction\"\n            - Following Text: \"• 1 Gentian | Fortifying Medicament\n![Black-myth-wukong-ruyi-scroll.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg)  1 | Ruyi Scroll | Legendary | A scroll gifted by Chen Loong that leads to a secluded and tranquil retreat | • Obtained from Chen Loong after defeating him in The New West and getting the Special-made Bone-Strengening Pellet from Xu Dog in Yellow Wind Ridge upon Chen Long Asking\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a beautifully crafted ceramic jar with intricate floral designs and a red paper seal on top. The jar appears to be an in-game item from \"Black Myth: Wukong,\" specifically a consumable item. Based on the context provided, it is likely the \"Fragrant Jade | Essence Decoction,\" a special item used for healing or enhancing abilities within the game. The image serves to visually represent this item, contributing to the game's immersive experience by showcasing the detailed and culturally inspired design of the consumables players can collect and use."
+    "chunk_id": 402969526352,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg",
+    "alt_text": "Mind Core .jpg",
+    "position_desc": 33,
+    "img_above_text": "![Black-myth-wukong-kun-steel.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Black-myth-wukong-kun-steel.jpg)  10 | Kun Steel| Mythical | Special weapon material | • Defeat The Duskveil in Purple Cloud Mountain in The Webbed Hollow• Defeat Yellow Loong in The Webbed Hollow (Requires Loong Scales) • Defeat Red Boy and Yaksha King in the Flaming Mountains • Found in a chest at Furnace Valley, Valley Entrance in Flaming Mountains, on a cliff edge amongst the flowing lava • Defeat the secret final boss of the game upon unlocking the secret ending\n![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests",
+    "img_below_text": "![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-kun-steel.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Black-myth-wukong-kun-steel.jpg)  10 | Kun Steel| Mythical | Special weapon material | • Defeat The Duskveil in Purple Cloud Mountain in The Webbed Hollow• Defeat Yellow Loong in The Webbed Hollow (Requires Loong Scales) • Defeat Red Boy and Yaksha King in the Flaming Mountains • Found in a chest at Furnace Valley, Valley Entrance in Flaming Mountains, on a cliff edge amongst the flowing lava • Defeat the secret final boss of the game upon unlocking the secret ending\n![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests\"\n        - Following Text: \"![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Awaken Wine Worm,\" a Legendary item in *Black Myth: Wukong*. It is a rare material used for upgrading Gourds. According to the accompanying text, it can be found in vases scattered throughout the game's chapters."
 }

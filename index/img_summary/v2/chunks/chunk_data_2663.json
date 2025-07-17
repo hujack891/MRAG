@@ -1,28 +1,11 @@
 {
-    "chunk_id": 899550786000,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg",
-    "alt_text": "Wukong Snowhill 9.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Snowhill 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Snowhill_8.jpg)\nLuckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.",
-    "img_below_text": "You can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.\n![Wukong Snowhill 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Snowhill_8.jpg)\nLuckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.\"\n            - Following Text: \"You can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.\n![Wukong Snowhill 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy landscape in the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is navigating through a snow-covered path. The scene is set in a mountainous area with rocky formations and a large column visible in the background. The preceding text suggests the presence of Frozen Corpses, which are enemies that Wukong must be cautious of, as they can attack even after being defeated. The following text indicates that Wukong can explore different paths, including one leading to a green Wisp guarded by two Frozen Corpses. The image serves to illustrate the challenging environment and strategic choices available to the player in this section of the game."
+    "chunk_id": 633203899709,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Felicity_12.jpg",
+    "alt_text": "Wukong Felicity 12.jpg",
+    "position_desc": 40,
+    "img_above_text": "![Wukong Felicity 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Felicity_14.jpg)\nAt the end of this path along the ridge, climb up to find a **Treasure Chest** guarded by a Falcon Fan-Maker. Once he's defeated, help yourself to the Blood of the Iron Bull and other materials, and look for a green Wisp to absorb on the right.",
+    "img_below_text": "Since the main path down below leads on to the Longevity Road, we'll instead head to the right side of the Forest Shrine where a hilltop is teeming with a few praying Frozen Corpses and various plants to harvest. There are two paths here -- one before the shrine, and one after the archway where the Fox Guai spoke to you, and both lead down to the next sub-region.\n## Brook of Bliss",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Felicity 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Felicity_14.jpg)\nAt the end of this path along the ridge, climb up to find a **Treasure Chest** guarded by a Falcon Fan-Maker. Once he's defeated, help yourself to the Blood of the Iron Bull and other materials, and look for a green Wisp to absorb on the right.\"\n        - Following Text: \"Since the main path down below leads on to the Longevity Road, we'll instead head to the right side of the Forest Shrine where a hilltop is teeming with a few praying Frozen Corpses and various plants to harvest. There are two paths here -- one before the shrine, and one after the archway where the Fox Guai spoke to you, and both lead down to the next sub-region.\n## Brook of Bliss\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest area titled \"Forest of Felicity\" within the \"Valley of Ecstasy\" region in the game *Black Myth: Wukong*. A character, likely the protagonist, is interacting with a small altar or shrine by offering incense, as indicated by the on-screen prompt. This scene appears to be part of the exploration and progression through the region, tying into the preceding text's mention of collecting treasures and materials, and the following text's guidance toward the Forest Shrine and sub-regions."
 }

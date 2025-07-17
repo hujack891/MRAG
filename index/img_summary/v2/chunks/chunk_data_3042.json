@@ -1,28 +1,11 @@
 {
-    "chunk_id": 420561177996,
-    "source_file": "Top_Takes_Bottom,_Bottom_Takes_Top.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Bishui_Cave_Walkthrough_%2815%29.png",
-    "alt_text": "Bishui Cave Walkthrough \\(15\\).png",
+    "chunk_id": 74873270255,
+    "source_file": "Yaoguai_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Yaoguai_Core.jpg",
+    "alt_text": "Yaoguai Core.jpg",
     "position_desc": 1,
-    "img_above_text": "After activating the first of the Keeper's Shrines, continue past it, following the path to the right. Head down to the slope, collecting the green Wisp on the left and into the center of the room. As you reach the middle, you'll be met by the first of the bosses in this secret area.\n## Top Takes Bottom, Bottom Takes Top Boss Fight and Guide",
-    "img_below_text": "It turns out that the spiked gold ball is hiding a secret inside, which is two minibosses for you to take on. They will both use a portion of the ball as a shield and have a sword to complement it.\n![Bishui Cave Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Bishui_Cave_Walkthrough_%2818%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Top_Takes_Bottom,_Bottom_Takes_Top.md'.\n\n            Context:\n            - Preceding Text: \"After activating the first of the Keeper's Shrines, continue past it, following the path to the right. Head down to the slope, collecting the green Wisp on the left and into the center of the room. As you reach the middle, you'll be met by the first of the bosses in this secret area.\n## Top Takes Bottom, Bottom Takes Top Boss Fight and Guide\"\n            - Following Text: \"It turns out that the spiked gold ball is hiding a secret inside, which is two minibosses for you to take on. They will both use a portion of the ball as a shield and have a sword to complement it.\n![Bishui Cave Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Bishui_Cave_Walkthrough_%2818%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Bishui_Cave_Walkthrough_%2815%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a spiked, ornate gold ball situated in a dark, rocky environment. This ball is significant as it conceals two minibosses that players will encounter in the \"Top Takes Bottom, Bottom Takes Top\" boss fight. The minibosses use parts of the ball as shields and wield swords, adding a challenging element to this secret area in the game."
+    "img_above_text": "The Stone Spirit is one of the basic materials in Black Myth: Wukong.\nIt is used for upgrades or crafting like many of the other materials in the game. You can craft Armor and Gear with these Cores.",
+    "img_below_text": "Yaoguai Core can be found throughout the game's six chapters in the following locations:\n* Occassionally found in Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Stone Spirit is one of the basic materials in Black Myth: Wukong.\nIt is used for upgrades or crafting like many of the other materials in the game. You can craft Armor and Gear with these Cores.\"\n        - Following Text: \"Yaoguai Core can be found throughout the game's six chapters in the following locations:\n* Occassionally found in Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from *Black Myth: Wukong*, highlighting the \"Yaoguai Core,\" a rare crafting material used for weapon upgrades. The description notes its origin from lesser yaoguais and its role in forging weapons. This item is part of the game's crafting system, complementing other materials like the \"Stone Spirit\" mentioned earlier."
 }

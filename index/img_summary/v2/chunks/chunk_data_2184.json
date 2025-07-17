@@ -1,28 +1,11 @@
 {
-    "chunk_id": 229802374342,
-    "source_file": "Non-Able.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Brook_30.jpg",
-    "alt_text": "Wukong Brook 30.jpg",
-    "position_desc": 19,
-    "img_above_text": "![Wukong Brook 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Brook_31.jpg)\nBe sure to experiment using your spells to their fullest. Rock Solid can sometimes knock him back, but often will send you skidding back instead, making Cloud Step a great alternative. We also found Red Tides to be a great transformation spell to keep up with dodging his rapid attacks, though you can also soak the blows with Azure Dust, but you won't be able to land many hits.",
-    "img_below_text": "You can even try using Pluck of Many to let your summons hit him from behind while you distract his largely single-target attacks.\nOnce you have finally defeated Non-Able, you'll be able to obtain the Non-Able Spirit, which has a pretty intense effect for raising your stats while lowering your mana.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Brook_31.jpg)\nBe sure to experiment using your spells to their fullest. Rock Solid can sometimes knock him back, but often will send you skidding back instead, making Cloud Step a great alternative. We also found Red Tides to be a great transformation spell to keep up with dodging his rapid attacks, though you can also soak the blows with Azure Dust, but you won't be able to land many hits.\"\n            - Following Text: \"You can even try using Pluck of Many to let your summons hit him from behind while you distract his largely single-target attacks.\nOnce you have finally defeated Non-Able, you'll be able to obtain the Non-Able Spirit, which has a pretty intense effect for raising your stats while lowering your mana.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Brook_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" where the player character is engaged in combat with a large enemy named Non-Able in a snowy environment. The preceding text suggests using various spells and strategies to defeat Non-Able, while the following text mentions the rewards for defeating him, including obtaining the Non-Able Spirit which enhances stats at the cost of mana."
+    "chunk_id": 738699927800,
+    "source_file": "Rat_Imperial_Guard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Rat_Imperial_Guard_Location.jpg",
+    "alt_text": "Rat Imperial Guard Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.",
+    "img_below_text": "## Rat Imperial Guard Fight\nThe Rat Imperial Guard fight is difficult, not because the foe himself is particularly powerful, but because he has two other Rat Imperial Guards fighting by his side. Rat Imperial Guards are extremely fast and fight with dual-handed scythe-like weapons. Perfect Dodging their swipes will help you out greatly in this battle. It is easy to get overwhelmed in this fight, so try to separate them and pick them off one by one.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.\"\n        - Following Text: \"## Rat Imperial Guard Fight\nThe Rat Imperial Guard fight is difficult, not because the foe himself is particularly powerful, but because he has two other Rat Imperial Guards fighting by his side. Rat Imperial Guards are extremely fast and fight with dual-handed scythe-like weapons. Perfect Dodging their swipes will help you out greatly in this battle. It is easy to get overwhelmed in this fight, so try to separate them and pick them off one by one.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a dark, ominous structure with Rat Imperial Guards visibly perched on the roof. This setting aligns with the guide's description of the location where the Rat Imperial Guard encounter takes place, following the path through the town after the Crouching Tiger Temple. The image sets the stage for the challenging fight described in the following text."
 }

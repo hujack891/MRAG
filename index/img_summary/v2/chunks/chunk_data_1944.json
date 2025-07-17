@@ -1,28 +1,11 @@
 {
-    "chunk_id": 391458223452,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg",
-    "alt_text": "Black-myth-wukong-monkey-head-fungus.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Black-myth-wukong-fragrant-jade-flower-icon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg)| Fragrant Jade Flower | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\n![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "img_below_text": "![Fire Bellflower .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg)| Fire Bellflower | Uncommon | Ingredient | Found in Sandgate Village - Valley of Despair and in Yellow Wind Ridge, and onwards\n![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-fragrant-jade-flower-icon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg)| Fragrant Jade Flower | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\n![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n            - Following Text: \"![Fire Bellflower .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg)| Fire Bellflower | Uncommon | Ingredient | Found in Sandgate Village - Valley of Despair and in Yellow Wind Ridge, and onwards\n![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Snake-Head Mushroom, an uncommon ingredient found in the game \"Black Myth: Wukong.\" It is located in Black Wind Mountain and can be purchased from the Shrine store after rescuing the Shen Monkey Vendor. This mushroom is part of a series of collectible ingredients, each with unique locations and uses within the game, contributing to the player's progression and resource management."
+    "chunk_id": 379450403843,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg",
+    "alt_text": "Wukong Thunderclap 114.jpg",
+    "position_desc": 108,
+    "img_above_text": "![Wukong Thunderclap 113.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_113.jpg)\nIn his second phase, he'll often throw in more attacks into the mix, including a deadly binding spell that creates a ring of electricity around you. You'll be unable to escape this ring, and he will start tossing projectiles at you that you'll need to spin your staff to get rid of.",
+    "img_below_text": "Luckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\n![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 113.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_113.jpg)\nIn his second phase, he'll often throw in more attacks into the mix, including a deadly binding spell that creates a ring of electricity around you. You'll be unable to escape this ring, and he will start tossing projectiles at you that you'll need to spin your staff to get rid of.\"\n        - Following Text: \"Luckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\n![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing the protagonist facing off against the boss \"Yellowbrow\" during the second phase of the fight. The ground is surrounded by glowing electricity, likely representing the binding spell mentioned in the preceding text, which traps the player in a ring of electricity. The player character is preparing to counter or survive the boss's attacks while managing health and consumables, as described in the following text."
 }

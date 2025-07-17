@@ -1,28 +1,11 @@
 {
-    "chunk_id": 106260701564,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg",
-    "alt_text": "Wukong Pagoda 24.jpg",
-    "position_desc": 25,
-    "img_above_text": "![Wukong Pagoda 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_23.jpg)\nNot far after them, you'll encounter an Enslaved Yaksha. You can think of him as the Frozen Corpse in his prime, as he uses a similar very long sword, and can sweep in wide arcs with it, or thrust forward with a huge amount of reach. Luckily, his attacks are all very slow, and easily baited into a Rock Solid deflection.",
-    "img_below_text": "Up ahead, you'll finally spot the staircase leading up to level 3 that are guarded by an Abomination, but before you head up there's an optional and challenging encounter further down the hall.\n![Wukong Pagoda 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_25.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_23.jpg)\nNot far after them, you'll encounter an Enslaved Yaksha. You can think of him as the Frozen Corpse in his prime, as he uses a similar very long sword, and can sweep in wide arcs with it, or thrust forward with a huge amount of reach. Luckily, his attacks are all very slow, and easily baited into a Rock Solid deflection.\"\n            - Following Text: \"Up ahead, you'll finally spot the staircase leading up to level 3 that are guarded by an Abomination, but before you head up there's an optional and challenging encounter further down the hall.\n![Wukong Pagoda 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky corridor within the pagoda where the player character is approaching an Enslaved Yaksha enemy. The Yaksha is armed with a long sword and poses a threat with its wide sweeping and thrusting attacks. The preceding text describes the Yaksha's combat style and weaknesses, while the following text indicates that the player will soon encounter a staircase leading to level 3, guarded by an Abomination, and an optional challenging encounter further down the hall. The image serves to illustrate the player's progression and upcoming challenges in the game."
+    "chunk_id": 421987867877,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black_Myth_Wukong_Secrets_%282%29.png",
+    "alt_text": "Black Myth Wukong Secrets \\(2\\).png",
+    "position_desc": 2,
+    "img_above_text": "Elder Jinchi\n## Red Loong",
+    "img_below_text": "After collecting the Loong Scales in Chapter 2, return to Chapter 1 to find Red Loong. From the Outside the Forest Keeper's Shrine in Forest of Wolves, head to the nearby waterfalls. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\nRed Loong",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Elder Jinchi\n## Red Loong\"\n        - Following Text: \"After collecting the Loong Scales in Chapter 2, return to Chapter 1 to find Red Loong. From the Outside the Forest Keeper's Shrine in Forest of Wolves, head to the nearby waterfalls. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\nRed Loong\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character preparing to confront a large, menacing creature in a dark, rocky environment. This scene aligns with the walkthrough's description of the encounter with Red Loong, a boss fight accessible after obtaining the Loong Scales in Chapter 2 and returning to Chapter 1 near the Forest Keeper's Shrine."
 }

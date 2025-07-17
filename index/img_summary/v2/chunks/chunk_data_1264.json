@@ -1,28 +1,11 @@
 {
-    "chunk_id": 529350168007,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Fright_26.jpg",
-    "alt_text": "Wukong Fright 26.jpg",
-    "position_desc": 27,
-    "img_above_text": "![Wukong Fright 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Fright_25.jpg)\nLook for the continuing cave path left of the exit that heads up a grassy slope, and collect the Fire Bellflower before you reach an open area with a Poisetone seemingly praying at an altar on the left with a green Wisp.",
-    "img_below_text": "You’ll soon be ambushed by another Poisestone nearby, but this one is wreathed in blue flames and is much stronger. On the plus side, defeating it will earn you the Poisestone Spirit to transform into!\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Fright_25.jpg)\nLook for the continuing cave path left of the exit that heads up a grassy slope, and collect the Fire Bellflower before you reach an open area with a Poisetone seemingly praying at an altar on the left with a green Wisp.\"\n            - Following Text: \"You’ll soon be ambushed by another Poisestone nearby, but this one is wreathed in blue flames and is much stronger. On the plus side, defeating it will earn you the Poisestone Spirit to transform into!\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Fright_26.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene in *Black Myth: Wukong*, where the player character is engaged in a fiery battle against two Poisestone enemies, one of which is wreathed in blue flames and appears to be more powerful. The on-screen prompts highlight available attacks: \"Moon Dance\" for light slashes and \"Moon Chase\" for heavy dash attacks.\n\n2. **Purpose and Narrative Role**:  \nThis image illustrates the ambush by a stronger blue-flamed Poisestone enemy, as described in the following text. It showcases the intensity of the encounter and hints at the reward for defeating the enemy—the ability to transform into the Poisestone Spirit."
+    "chunk_id": 82605616696,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Furnace_Valley_Walkthrough_%28114%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(114\\).png",
+    "position_desc": 53,
+    "img_above_text": "Keeper of the Flaming Mountains\nOnce you've beaten the Keeper of the Flaming Mountains and the Yin-Yang Fish, you'll be returned to The Emerald Hall.",
+    "img_below_text": "Turn and face away from the altar. There are two places you'll want to go here to get collectibles. First, head to the stairs, but take the small path down to the right. Follow this to find a golden turtle, where you can get the Slumbering Beetle Husk.\n![Furnace Valley Walkthrough \\(115\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%28115%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Keeper of the Flaming Mountains\nOnce you've beaten the Keeper of the Flaming Mountains and the Yin-Yang Fish, you'll be returned to The Emerald Hall.\"\n        - Following Text: \"Turn and face away from the altar. There are two places you'll want to go here to get collectibles. First, head to the stairs, but take the small path down to the right. Follow this to find a golden turtle, where you can get the Slumbering Beetle Husk.\n![Furnace Valley Walkthrough \\(115\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%28115%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit hall with ornate architecture, featuring an altar on the left and stairs leading to a bright area in the distance. Two red arrows indicate paths: one leading straight up the stairs and another veering to the right towards a smaller path. The context suggests this is part of a video game walkthrough, guiding players to explore the area for collectibles, including a golden turtle and the Slumbering Beetle Husk."
 }

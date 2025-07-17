@@ -1,28 +1,11 @@
 {
-    "chunk_id": 661574342037,
-    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-    "alt_text": "Five Skandhas \\(26\\).png",
-    "position_desc": 18,
-    "img_above_text": "![Five Skandhas \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png)\nAs you emerge in the wide open space, a Giant Shigandang will appear.",
-    "img_below_text": "Unfortunately, you will need to be on foot during the fight, so head for its fists and attack the blue crystals on it.\n![Five Skandhas \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png)\nAs you emerge in the wide open space, a Giant Shigandang will appear.\"\n            - Following Text: \"Unfortunately, you will need to be on foot during the fight, so head for its fists and attack the blue crystals on it.\n![Five Skandhas \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic encounter in a dark, rocky environment, where a player-controlled character, likely the protagonist, faces off against a massive, stone-like creature known as the Giant Shigandang. The creature appears to emerge from the landscape, emphasizing its colossal size and intimidating presence. This scene sets the stage for an intense boss battle, as referenced in the preceding and following text, which provides tactical advice for targeting the creature's blue crystal weak points."
+    "chunk_id": 46666911486,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg",
+    "alt_text": "Wukong Snowhill 39.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Snowhill 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_38.jpg)\nIf she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.",
+    "img_below_text": "She can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\n![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_38.jpg)\nIf she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.\"\n        - Following Text: \"She can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\n![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle in *Black Myth: Wukong* against \"Kang Jin Loong,\" a large, serpentine dragon-like creature in a snowy, icy environment. The preceding and following text describe the boss's attack patterns, including a whirlwind attack and lightning eruptions during its lunging movements. The player character is shown engaging the boss, with visible health bars, abilities, and UI elements indicating active combat."
 }

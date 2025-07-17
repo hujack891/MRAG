@@ -1,28 +1,11 @@
 {
-    "chunk_id": 486229058422,
-    "source_file": "Snow_Fox_Brush.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg",
-    "alt_text": "Wukong Thunderclap 68.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Thunderclap 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Thunderclap_47.jpg)\nApproach as the fox form and defeat him. Once defeated, grab his spirit and then return to the Forest of Felicity in the Valley of Ecstasy. Interact with the fox that is now here to get the Curios item.",
-    "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snow_Fox_Brush.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Thunderclap_47.jpg)\nApproach as the fox form and defeat him. Once defeated, grab his spirit and then return to the Forest of Felicity in the Valley of Ecstasy. Interact with the fox that is now here to get the Curios item.\"\n            - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a character is standing over a defeated enemy in a snowy forest setting. The on-screen text indicates that the player has acquired an item called the \"Snow Fox Brush,\" categorized under \"Curios.\" This follows the context of approaching and defeating an enemy in fox form, then obtaining the spirit and returning to a specific location to interact with a fox to receive this item. The image serves to illustrate the moment of obtaining the Snow Fox Brush after completing the described actions."
+    "chunk_id": 717852619052,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Wukong_Longevity_11.jpg",
+    "alt_text": "Wukong Longevity 11.jpg",
+    "position_desc": 107,
+    "img_above_text": "![Wukong Longevity 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Longevity_10.jpg)\nThe lower path will lead past another Crow Diviner, and up some stairs to an area with several stone monuments where the path diverges.",
+    "img_below_text": "A glowing pot can be seen on a small wooden platform, but guarding it is a new formidable opponent. The strangely named Turtle Treasure is a stout skull-faced yaoguai with a large mace it can use to swing in wide arcs or slams, and can also thrust out its belly at you like the Frog Guai bosses, or leap into the air for a butt slam.\n![Wukong Longevity 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Longevity_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Longevity_10.jpg)\nThe lower path will lead past another Crow Diviner, and up some stairs to an area with several stone monuments where the path diverges.\"\n        - Following Text: \"A glowing pot can be seen on a small wooden platform, but guarding it is a new formidable opponent. The strangely named Turtle Treasure is a stout skull-faced yaoguai with a large mace it can use to swing in wide arcs or slams, and can also thrust out its belly at you like the Frog Guai bosses, or leap into the air for a butt slam.\n![Wukong Longevity 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Longevity_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest area featuring a wooden gate and stone monuments. A glowing pot is highlighted on a small wooden platform, suggesting it is an interactable or collectible object. The player character, armed with a staff, is approaching a hostile enemy—a stout, mace-wielding yaoguai with a skull-like face. This scene introduces a combat encounter with the \"Turtle Treasure\" enemy guarding the glowing pot, as described in the surrounding text."
 }

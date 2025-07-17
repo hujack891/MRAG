@@ -1,28 +1,11 @@
 {
-    "chunk_id": 777373267376,
-    "source_file": "Ebon_Flow.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg",
-    "alt_text": "Wukong Sandgate 12.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Talk with Yin Tiger in the Zodiac Realm and challenge him to a duel. Succeed to obtain Ebon Flow\nTo save Xu Dog, you will need to head through the cave, just next to the Village Entrance Shrine in Sandgate Village in Yellow Wind Ridge.",
-    "img_below_text": "Beneath Xu Dog you can find a small pond with Lang-Li-Guhh-Baw, whom you will need to defeat.\n![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Ebon_Flow.md'.\n\n            Context:\n            - Preceding Text: \"* Talk with Yin Tiger in the Zodiac Realm and challenge him to a duel. Succeed to obtain Ebon Flow\nTo save Xu Dog, you will need to head through the cave, just next to the Village Entrance Shrine in Sandgate Village in Yellow Wind Ridge.\"\n            - Following Text: \"Beneath Xu Dog you can find a small pond with Lang-Li-Guhh-Baw, whom you will need to defeat.\n![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showcasing the entrance to a cave near the Village Entrance Shrine in Sandgate Village, Yellow Wind Ridge. A red arrow highlights the cave's location, which is crucial for progressing the quest to save Xu Dog. The surrounding environment features rocky terrain, sparse vegetation, and a lit brazier, emphasizing the game's immersive and detailed setting."
+    "chunk_id": 686947109960,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Field_Fire_Walkthrough_%284%29.png",
+    "alt_text": "Field Fire Walkthrough \\(4\\).png",
+    "position_desc": 4,
+    "img_above_text": "He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.",
+    "img_below_text": "These tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.\n![Field Fire Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.\"\n        - Following Text: \"These tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.\n![Field Fire Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a hostile creature wielding a spiked mace in a dark, rocky environment. The creature is surrounded by glowing red mushrooms, which appear as a result of its attacks. These mushrooms are central to the gameplay challenge, as they can grow on the player, reducing movement speed and causing explosive hazards in the surrounding area. The scene emphasizes the need for constant movement to avoid the mushrooms' effects."
 }

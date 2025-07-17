@@ -1,28 +1,11 @@
 {
-    "chunk_id": 747175785861,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg",
-    "alt_text": "Wukong Pagoda 82.jpg",
-    "position_desc": 80,
-    "img_above_text": "![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)\nOther times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.",
-    "img_below_text": "Captain Wise-Voice also has a number of up close melee stomps, smashes, and kicks you'll need to be wary of when attacking the hoof, which can be hard to anticipate with the camera angle. Whenever you see it start to move erratically, that's your cue to back up and be ready to evade.\n![Wukong Pagoda 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Pagoda_84.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 80 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)\nOther times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\"\n            - Following Text: \"Captain Wise-Voice also has a number of up close melee stomps, smashes, and kicks you'll need to be wary of when attacking the hoof, which can be hard to anticipate with the camera angle. Whenever you see it start to move erratically, that's your cue to back up and be ready to evade.\n![Wukong Pagoda 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Pagoda_84.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically a battle against the boss named Captain Wise-Voice. The player character is engaged in close combat with the boss, who is known for its powerful melee attacks such as stomps, smashes, and kicks. The image serves to illustrate the intense and challenging nature of this boss fight, highlighting the need for players to be vigilant and ready to evade the boss's unpredictable movements."
+    "chunk_id": 468053016451,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_2.jpg",
+    "alt_text": "Wukong Snowhill 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "In Black Myth Wukong's third chapter, the Destined One will travel far from the arid deserts to the snowy mountaintops of The New West, where you'll spy an odd character masquerading as a statue.\nOnce you've taken off your own disguise, you'll find yourself in a frozen cave full of giant statues with only one way forward. That way is blocked by a tough looking new enemy, the Monk Supporter.",
+    "img_below_text": "These foes are fairly slow but durable, and will use the large stones they carry to try pummeling you with. Thankfully, they are fairly susceptible to being deflected with Rock Solid.\n![Wukong Snowhill 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Snowhill_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"In Black Myth Wukong's third chapter, the Destined One will travel far from the arid deserts to the snowy mountaintops of The New West, where you'll spy an odd character masquerading as a statue.\nOnce you've taken off your own disguise, you'll find yourself in a frozen cave full of giant statues with only one way forward. That way is blocked by a tough looking new enemy, the Monk Supporter.\"\n        - Following Text: \"These foes are fairly slow but durable, and will use the large stones they carry to try pummeling you with. Thankfully, they are fairly susceptible to being deflected with Rock Solid.\n![Wukong Snowhill 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Snowhill_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong*, specifically within the snowy mountaintop setting of the game's third chapter. The player character, Wukong, is engaged in a battle against the \"Monk Supporter,\" a tough enemy wielding large stones. The UI shows available consumables (e.g., Tiger Subduing Pellets, Evil Repelling Medicament) and abilities (e.g., Rock Solid, Immobilize), emphasizing strategic options for deflecting and countering the enemy's attacks. The scene highlights the game's challenging combat mechanics and immersive environment."
 }

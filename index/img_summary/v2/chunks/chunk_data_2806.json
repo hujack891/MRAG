@@ -1,28 +1,11 @@
 {
-    "chunk_id": 161482808419,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_YellowFlower_2.jpg",
-    "alt_text": "Wukong YellowFlower 2.jpg",
-    "position_desc": 2,
-    "img_above_text": "When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail",
-    "img_below_text": "Waiting for you just above the ridge where you start is a tree that holds a **Luojia Fragrant Vine** , and the Mountain Trail Shrine lies not far after.\nTemple of the Yellow Flowers Luojia Fragrant Vine",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail\"\n            - Following Text: \"Waiting for you just above the ridge where you start is a tree that holds a **Luojia Fragrant Vine** , and the Mountain Trail Shrine lies not far after.\nTemple of the Yellow Flowers Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_YellowFlower_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing on a rocky mountain trail, surrounded by rugged terrain and sparse vegetation. The character appears to be preparing for an encounter or exploration, holding a weapon and facing a tree marked with a red circle, indicating the presence of a **Luojia Fragrant Vine**. This vine is a significant item or objective located just above the ridge. The image serves to guide players towards the Mountain Trail Shrine and highlights the importance of the vine in the narrative of the Temple of the Yellow Flowers walkthrough."
+    "chunk_id": 330567707075,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Black-myth-wukong-chu-bai-spear.jpg",
+    "alt_text": "Black-myth-wukong-chu-bai-spear.jpg",
+    "position_desc": 10,
+    "img_above_text": "• 2 Kun Steel\n• 45,000 Will | Golden Loong Staff",
+    "img_below_text": "• 4 Refined Iron Sand\n• 8 Yaoguai Core",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 2 Kun Steel\n• 45,000 Will | Golden Loong Staff\"\n        - Following Text: \"• 4 Refined Iron Sand\n• 8 Yaoguai Core\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases an intricately designed character wearing ornate armor and wielding a detailed weapon, likely the \"Golden Loong Staff\" mentioned in the preceding text. The context suggests this is part of a video game guide highlighting crafting materials or equipment upgrades, with items such as \"Kun Steel\" and \"Refined Iron Sand\" being required components."
 }

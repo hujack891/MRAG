@@ -1,28 +1,11 @@
 {
-    "chunk_id": 731159712725,
-    "source_file": "Lingxuzi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Wolves_44.jpg",
-    "alt_text": "Wukong Wolves 44.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Wolves 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Wolves_43.jpg)\nAs a required boss, you can't miss running into Lingxuzi, as he guards the Guanyin Temple at the far edge of the Forest of Wolves. You can find the temple by heading along the path straight from the Outside the Forest Shrine, across a small bridge and past the Wandering Wight to a small tunnel.",
-    "img_below_text": "This tunnel will lead to a wooden path of scaffolding looping around to the temple entrance where this boss waits.\n## Lingxuzi Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Lingxuzi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Wolves_43.jpg)\nAs a required boss, you can't miss running into Lingxuzi, as he guards the Guanyin Temple at the far edge of the Forest of Wolves. You can find the temple by heading along the path straight from the Outside the Forest Shrine, across a small bridge and past the Wandering Wight to a small tunnel.\"\n            - Following Text: \"This tunnel will lead to a wooden path of scaffolding looping around to the temple entrance where this boss waits.\n## Lingxuzi Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Wolves_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showcasing the player character navigating through a dense, atmospheric forest while engaging in combat with enemies. The setting appears to be near the Guanyin Temple, which is guarded by the boss Lingxuzi. This moment likely occurs as the player progresses along the path leading to the temple, encountering hostile creatures and environmental challenges before reaching the boss fight. The image emphasizes the game's immersive visuals and dynamic combat mechanics."
+    "chunk_id": 861386742494,
+    "source_file": "Mother_of_Flamlings_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Mother_of_Flamlings_Spirit.jpg",
+    "alt_text": "Mother of Flamlings Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "Make your way around the arena, picking off the Flamlings so you can focus on the Mother. Continue dodging around the Mother while slashing away to wear down her HP bar and eventually defeat the Mother of Flamlings. If you're struggling with this battle, some Body-Cooling Powder will help with any Burn Damage you might be incurring.\n## Mother of Flamlings Spirit",
+    "img_below_text": "* **Flamling Queen**\n* Equipped Effect: Moderately reduces the Cooldown for all Spells.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Make your way around the arena, picking off the Flamlings so you can focus on the Mother. Continue dodging around the Mother while slashing away to wear down her HP bar and eventually defeat the Mother of Flamlings. If you're struggling with this battle, some Body-Cooling Powder will help with any Burn Damage you might be incurring.\n## Mother of Flamlings Spirit\"\n        - Following Text: \"* **Flamling Queen**\n* Equipped Effect: Moderately reduces the Cooldown for all Spells.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays a game interface focused on the \"Mother of Flamlings\" spirit, categorized as \"Epic\" with a high Qi cost. This spirit allows players to take the form of the Mother of Flamlings, summoning Flamlings to aid in battle by breathing fire on foes. The equipped effect of this spirit moderately reduces the cooldown for all spells. The context suggests that this spirit is useful in combat scenarios against the Mother of Flamlings, providing strategic advantages such as reducing spell cooldowns and dealing fire damage."
 }

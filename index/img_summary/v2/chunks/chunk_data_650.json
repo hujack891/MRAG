@@ -1,28 +1,11 @@
 {
-    "chunk_id": 336645090142,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg",
-    "alt_text": "Wukong Bitter 8.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Bitter 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Bitter_4.jpg)\nHe can also raise his hand up slowly to trigger a row of lightning bolts in the area, which will explode fairly fast.",
-    "img_below_text": "Sometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\n![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Bitter_4.jpg)\nHe can also raise his hand up slowly to trigger a row of lightning bolts in the area, which will explode fairly fast.\"\n            - Following Text: \"Sometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\n![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic battle scene from *Black Myth: Wukong*, showcasing the player character facing off against the boss \"Chen Loong.\" The boss is surrounded by intense lightning effects, likely mid-attack, as described in the preceding text where Chen Loong raises his hand to summon lightning bolts. The setting appears to be a snowy coastal area, adding to the atmospheric tension. This image highlights the boss's powerful lightning-based abilities and the player's need to react strategically to avoid damage."
+    "chunk_id": 434916309041,
+    "source_file": "Commander_Beetle.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_YellowFlower_18.jpg",
+    "alt_text": "Wukong YellowFlower 18.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong YellowFlower 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg)\nEven when not slamming the ground, his bigger sword can also cut through the air to send a slicing wave of force at you from a distance, which comes out much faster than his slams, and can be done multiple times.",
+    "img_below_text": "However, if he decides to hold his left weapon up by his face in a reverse grip fashion, it will become his shield, and he'll be able to soak any blows you try and land on him (even when Immobilized). Hit him too many times, and he'll launch into a swift two-hit counterattack. Luckily, you can counter his counter with a well-timed Rock Solid to throw him off.\n![Wukong YellowFlower 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_YellowFlower_20.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg)\nEven when not slamming the ground, his bigger sword can also cut through the air to send a slicing wave of force at you from a distance, which comes out much faster than his slams, and can be done multiple times.\"\n        - Following Text: \"However, if he decides to hold his left weapon up by his face in a reverse grip fashion, it will become his shield, and he'll be able to soak any blows you try and land on him (even when Immobilized). Hit him too many times, and he'll launch into a swift two-hit counterattack. Luckily, you can counter his counter with a well-timed Rock Solid to throw him off.\n![Wukong YellowFlower 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_YellowFlower_20.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the player character battling a boss named \"Commander Beetle.\" The boss wields a large sword, which is seen delivering a powerful, glowing strike against the player. The preceding text highlights the boss's ability to send slicing waves of force from a distance, while the following text describes its defensive stance using its weapon as a shield and counterattacking. The image visually emphasizes the boss's aggressive attack phase."
 }

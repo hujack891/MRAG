@@ -1,28 +1,11 @@
 {
-    "chunk_id": 665675497412,
-    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Zodiac_Village_%2836%29.png",
-    "alt_text": "Zodiac Village \\(36\\).png",
-    "position_desc": 9,
-    "img_above_text": "* Iron-Tough Greaves\n## Request Medicines from Xu Dog",
-    "img_below_text": "Interacting with Xu Dog in the Painted Realm now offers the option to Request Medicine. Each time you do this, Xu Dog will provide you with potions.\nYou'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"* Iron-Tough Greaves\n## Request Medicines from Xu Dog\"\n            - Following Text: \"Interacting with Xu Dog in the Painted Realm now offers the option to Request Medicine. Each time you do this, Xu Dog will provide you with potions.\nYou'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Zodiac_Village_%2836%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an interaction with Xu Dog, a character in the Painted Realm, where players can select the \"Request Medicine\" option from a menu. This feature allows players to receive potions, such as Fortifying Medicament and Ginseng Pellets, which are displayed on the screen. The preceding and following text explains that players can periodically request new medicines from Xu Dog, with a red dot indicating their availability. The image serves to illustrate this gameplay mechanic."
+    "chunk_id": 668604316136,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg",
+    "alt_text": "Wukong Pagoda 123.jpg",
+    "position_desc": 10,
+    "img_above_text": "Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple",
+    "img_below_text": "When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple\"\n        - Following Text: \"When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from a video game where the player is facing the Macaque Chief during their second encounter at the Warding Temple. The glowing circle of fire, referred to as the Ancient Master's circle, is a key gameplay element that the player can use strategically to avoid the boss's attacks. The surrounding snowy environment and temple architecture set the stage for the encounter, while the game's interface displays health bars, abilities, and controls."
 }

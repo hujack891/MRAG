@@ -1,28 +1,11 @@
 {
-    "chunk_id": 836388146970,
-    "source_file": "Daoist_Mi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_49.jpg",
-    "alt_text": "Wukong PurpleCloud 49.jpg",
-    "position_desc": 7,
-    "img_above_text": "While most of their basic attacks are simple two-hit strikes, they can also start a combo with an upward slice creating a projectile wave, dash forward into a lunging strike, before spinning to perform a horizontal sweep with one last projectile wave.\nThe good news all of their attacks can be deflected with Rock Solid, and pretty much any spell you have will be effective or stagger them greatly. Just treat them as you would any other Sword Daoist, keeping in mind that their greatly expanded health pool should dissuade you from pressing your attack too long so that you can back off to evade their next moves and regain your stamina.",
-    "img_below_text": "Somewhat surprisingly, Daoist Mi can also employ the move used by the Red-Haired Yaksha of Chapter 3, performing two quick fist strikes, and then turning around to perform a reverse bicycle kick that can hit especially hard -- but its still nothing as dangerous as the Scorpionlord.\nOnce you deplete their health bar, the Daoist Mi will invoke the power of the worm's egg, transforming into a Worm Practitioner for the second phase of this fight. Like before, much of their attack patterns will follow the basic enemy, so there won't be too much of a surprise in store.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"While most of their basic attacks are simple two-hit strikes, they can also start a combo with an upward slice creating a projectile wave, dash forward into a lunging strike, before spinning to perform a horizontal sweep with one last projectile wave.\nThe good news all of their attacks can be deflected with Rock Solid, and pretty much any spell you have will be effective or stagger them greatly. Just treat them as you would any other Sword Daoist, keeping in mind that their greatly expanded health pool should dissuade you from pressing your attack too long so that you can back off to evade their next moves and regain your stamina.\"\n            - Following Text: \"Somewhat surprisingly, Daoist Mi can also employ the move used by the Red-Haired Yaksha of Chapter 3, performing two quick fist strikes, and then turning around to perform a reverse bicycle kick that can hit especially hard -- but its still nothing as dangerous as the Scorpionlord.\nOnce you deplete their health bar, the Daoist Mi will invoke the power of the worm's egg, transforming into a Worm Practitioner for the second phase of this fight. Like before, much of their attack patterns will follow the basic enemy, so there won't be too much of a surprise in store.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_49.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from a game, showing Daoist Mi performing a reverse bicycle kick, a move reminiscent of the Red-Haired Yaksha from Chapter 3. The player character is shown evading or recovering from the attack, with Daoist Mi's health bar visible, indicating the ongoing first phase of the fight. The setting is an outdoor area with autumnal foliage and traditional architecture in the background, emphasizing the game's thematic and atmospheric design. This moment highlights the challenging nature of the encounter, as described in the context, with the player needing to manage stamina and anticipate Daoist Mi's varied attack patterns."
+    "chunk_id": 737401320049,
+    "source_file": "Elder_Armourworm_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Elder_Armorworm.jpg",
+    "alt_text": "Elder Armorworm.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Elder Armourworm Fight\n* How to Get the Elder Armourworm Spirit",
+    "img_below_text": "## Elder Armourworm Location\nThe Elder Armourworm can be found in a small clearing overlooking the forest outside the Webbed Hollow. To get there from the Verdure Bridge Keeper's Shrine, take the path on the left of the Shrine (if you're facing it). Stick to the left and pass through a wooden gate to find a room full of chests. Loot them and continue through the opening on the opposite wall to find a small clearing overlooking the Webbed Hollow. Drop down to find the Elder Armourworm.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Elder Armourworm Fight\n* How to Get the Elder Armourworm Spirit\"\n        - Following Text: \"## Elder Armourworm Location\nThe Elder Armourworm can be found in a small clearing overlooking the forest outside the Webbed Hollow. To get there from the Verdure Bridge Keeper's Shrine, take the path on the left of the Shrine (if you're facing it). Stick to the left and pass through a wooden gate to find a room full of chests. Loot them and continue through the opening on the opposite wall to find a small clearing overlooking the Webbed Hollow. Drop down to find the Elder Armourworm.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from a video game where the player is fighting the Elder Armourworm, a large, armored creature. The context provided in the preceding and following text suggests that this image is part of a guide detailing how to defeat the Elder Armourworm and obtain its spirit, as well as providing directions to its location near the Webbed Hollow."
 }

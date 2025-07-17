@@ -1,28 +1,11 @@
 {
-    "chunk_id": 876296574516,
-    "source_file": "Tiger_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Tiger_6.jpg",
-    "alt_text": "Wukong Tiger 6.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Tiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_5.jpg)\nDespite carrying a sword on his back, it’s the Tiger Vanguard’s fists you’ll need to worry about — at least for the start. He’ll use adapting martial arts moves with a mix of heavy punches, kicks, and slams that can come from any direction due to his agile movements.",
-    "img_below_text": "Be ready for him to begin by quickly strafing to your side before launching into a flying punch. Moves like this will take him a moment to get up from the slam, giving you a good amount of time to start a light combo on him.\nHe can also quickly employ two different two-punch strikes — one that you’ll want to punish, and other avoid. If he starts with an uppercut and downward fist slam, he’ll pause for a moment to shake off his fist from the force of the impact, which is your time to shine and lay into him.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Tiger_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Tiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_5.jpg)\nDespite carrying a sword on his back, it’s the Tiger Vanguard’s fists you’ll need to worry about — at least for the start. He’ll use adapting martial arts moves with a mix of heavy punches, kicks, and slams that can come from any direction due to his agile movements.\"\n            - Following Text: \"Be ready for him to begin by quickly strafing to your side before launching into a flying punch. Moves like this will take him a moment to get up from the slam, giving you a good amount of time to start a light combo on him.\nHe can also quickly employ two different two-punch strikes — one that you’ll want to punish, and other avoid. If he starts with an uppercut and downward fist slam, he’ll pause for a moment to shake off his fist from the force of the impact, which is your time to shine and lay into him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Tiger_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a fierce battle scene from the game \"Black Myth: Wukong,\" featuring the Tiger Vanguard, a formidable enemy characterized by his agility and powerful martial arts moves. The Tiger Vanguard, a large tiger-like creature with a sword on his back, is shown in mid-attack against the player character, who is attempting to defend themselves in a blood-red arena. The preceding and following texts provide strategic advice on how to counter the Tiger Vanguard's swift and heavy attacks, emphasizing the need to exploit moments of vulnerability after his powerful strikes."
+    "chunk_id": 191087454202,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Woods_Ember_Walkthrough_%28102%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(102\\).png",
+    "position_desc": 66,
+    "img_above_text": "## Ashen Pass II\nAfter defeating them, the fox gaui will transform into Pingping the Bull King's daughter, and thank you for saving her. Once the cutscene is over, you'll receive your rewards for defeating Quick as Fire, Fast as Wind and the next Keeper's Shrine will be available to you, if you follow the path to the left and up the stairs.",
+    "img_below_text": "Once you've activated the shrine, look opposite it to find a small area where a chest sits. Open this to collect a **Celestial Jade Lotus Pill**.\nFlaming Mountains Celestial Jade Lotus Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Ashen Pass II\nAfter defeating them, the fox gaui will transform into Pingping the Bull King's daughter, and thank you for saving her. Once the cutscene is over, you'll receive your rewards for defeating Quick as Fire, Fast as Wind and the next Keeper's Shrine will be available to you, if you follow the path to the left and up the stairs.\"\n        - Following Text: \"Once you've activated the shrine, look opposite it to find a small area where a chest sits. Open this to collect a **Celestial Jade Lotus Pill**.\nFlaming Mountains Celestial Jade Lotus Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky area with stone formations and carved faces embedded in the walls, suggesting a mystical or ancient setting. A red arrow points to the left, indicating the path to ascend stairs leading to the Keeper's Shrine mentioned in the preceding text. A red marker highlights a specific spot in the distance, possibly the location of the shrine or an important objective. This scene aligns with the narrative progression described, guiding the player toward activating the shrine and exploring the area for rewards."
 }

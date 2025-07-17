@@ -1,28 +1,11 @@
 {
-    "chunk_id": 682827592445,
-    "source_file": "Mind_Core.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Mind_Core_-_Squall_Hideout_2.jpg",
-    "alt_text": "Mind Core - Squall Hideout 2.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Mind Core - Squall Hideout.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Mind_Core_-_Squall_Hideout.jpg)\nHead up it and defeat the enemies to find a chest at the back with the resource.",
-    "img_below_text": "### Mind Core Location 7\nThe next Mind Core is found at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. Directly to your right, there will be a set of stairs you can go up and a sand waterfall at the top. Head through and defeat Black Loong to get it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"![Mind Core - Squall Hideout.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Mind_Core_-_Squall_Hideout.jpg)\nHead up it and defeat the enemies to find a chest at the back with the resource.\"\n            - Following Text: \"### Mind Core Location 7\nThe next Mind Core is found at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. Directly to your right, there will be a set of stairs you can go up and a sand waterfall at the top. Head through and defeat Black Loong to get it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Mind_Core_-_Squall_Hideout_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a player character in a rugged, outdoor environment near a glowing chest and a lit brazier, suggesting a point of interest in the game *Black Myth: Wukong*. The chest likely contains a resource, as mentioned in the preceding text, and is part of the \"Mind Core\" questline. The setting emphasizes exploration and progression, with the following text hinting at the next location in the quest."
+    "chunk_id": 113045161979,
+    "source_file": "Non-White_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Non-white_power.png",
+    "alt_text": "Non-white power.png",
+    "position_desc": 3,
+    "img_above_text": "Non-White fights with a double-ended blade that deals ice damage. He can also cast ice spells with it that summon a trail of razor-sharp icicles to rise from the ground. The key to Non-White is anticipating his blows as he winds up and perfect dodging out of the way before they hit you. You could also consider taking some Body-Warming Powder into the fight with you to combat Chill.\n## Non-White Spirit",
+    "img_below_text": "* **Bone Spikes**\n* Equipped Effect: Moderately increases Poison and Frost Damage.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Non-White fights with a double-ended blade that deals ice damage. He can also cast ice spells with it that summon a trail of razor-sharp icicles to rise from the ground. The key to Non-White is anticipating his blows as he winds up and perfect dodging out of the way before they hit you. You could also consider taking some Body-Warming Powder into the fight with you to combat Chill.\n## Non-White Spirit\"\n        - Following Text: \"* **Bone Spikes**\n* Equipped Effect: Moderately increases Poison and Frost Damage.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Non-White Spirit\" from a video game, displayed in the Equipment menu under the \"Spirits\" section. This spirit has an \"Epic\" rarity and a high Qi cost. Its ability, \"Bone Spikes,\" allows the player to take the form of Non-White, performing spinning and leaping attacks that draw enemies in and deal damage with sprouting thorns. The equipped effect moderately increases Poison and Frost damage. The interface also includes a demo preview, stats, and the option to equip the spirit."
 }

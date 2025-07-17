@@ -1,28 +1,11 @@
 {
-    "chunk_id": 705297248370,
-    "source_file": "Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Shigandang_12.jpg",
-    "alt_text": "Wukong Shigandang 12.jpg",
-    "position_desc": 17,
-    "img_above_text": "![Wukong Shigandang 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Shigandang_10.jpg)\nAnother deadly attack he can perform will have the Shigandang stand up on two legs and alternate two delayed punches into the ground in front of him. After this, he’ll slam both hands deep into the earth, and after a pause will rip them out, creating a line of exploding pillars in front of him you’ll want to steer clear of and attack his sides or back.",
-    "img_below_text": "It’s not a bad idea to use the Azure Dust Transformation on him too, as your Rock Guai form can take the damage be dishes out and build up Might, and then perform a Rockfall attack to hit him for massive damage and stagger him.\nWith a lot of health and defense, it will take some time to chip away at this massive stone monster, but if you can avoid or deflect his big attacks and conserve your gourd uses, you’ll be able to win this endurance battle.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Shigandang_10.jpg)\nAnother deadly attack he can perform will have the Shigandang stand up on two legs and alternate two delayed punches into the ground in front of him. After this, he’ll slam both hands deep into the earth, and after a pause will rip them out, creating a line of exploding pillars in front of him you’ll want to steer clear of and attack his sides or back.\"\n            - Following Text: \"It’s not a bad idea to use the Azure Dust Transformation on him too, as your Rock Guai form can take the damage be dishes out and build up Might, and then perform a Rockfall attack to hit him for massive damage and stagger him.\nWith a lot of health and defense, it will take some time to chip away at this massive stone monster, but if you can avoid or deflect his big attacks and conserve your gourd uses, you’ll be able to win this endurance battle.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Shigandang_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring a massive stone monster named Shigandang. The on-screen text provides instructions for the player's character, detailing three types of attacks: \"Earth Shatter,\" \"Mountain Splitter,\" and \"Rockfall.\" The context suggests strategies for defeating Shigandang, emphasizing the use of the Azure Dust Transformation to withstand damage and perform powerful counterattacks. The image serves to illustrate the intense combat and the specific moves required to overcome this formidable enemy."
+    "chunk_id": 929359297531,
+    "source_file": "Turtle_Treasure_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Turtle_Treasure_Location.jpg",
+    "alt_text": "Turtle Treasure Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.",
+    "img_below_text": "## Turtle Treasure Fight\nTurtle Treasure is a large enemy that you must fight in a relatively enclosed space. The fight also takes place on lava, so you are going to want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without having to worry about your health constantly depleting.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.\"\n        - Following Text: \"## Turtle Treasure Fight\nTurtle Treasure is a large enemy that you must fight in a relatively enclosed space. The fight also takes place on lava, so you are going to want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without having to worry about your health constantly depleting.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character navigating a lava-filled area, likely Furnace Valley, as described in the preceding text. The character appears equipped with a weapon and abilities, preparing for or engaging in the Turtle Treasure encounter. The HUD displays resources such as \"Will\" and \"Flame Ore,\" alongside health and ability icons, suggesting active gameplay mechanics. This scene aligns with the guide's instructions for locating Turtle Treasure and preparing for the fight in the lava environment."
 }

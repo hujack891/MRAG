@@ -1,28 +1,11 @@
 {
-    "chunk_id": 952301259917,
+    "chunk_id": 182862409900,
     "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_PurpleCloud_11.jpg",
-    "alt_text": "Wukong PurpleCloud 11.jpg",
-    "position_desc": 15,
-    "img_above_text": "Purple Mountain Luojia Fragrant Vine\n## Bounds of Deity's Abode",
-    "img_below_text": "Look for a path to the left to where a small archway gate is guarded by a lone Snake Herbalist, and past it you'll find a Shrine.\nA very tough boss awaits you just up the path, so this is a good time to make sure you're properly stocked up on supplies have and crafted or upgraded (and make use of the Shrine's store to buy extra anti-miasma powder!).",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Purple Mountain Luojia Fragrant Vine\n## Bounds of Deity's Abode\"\n            - Following Text: \"Look for a path to the left to where a small archway gate is guarded by a lone Snake Herbalist, and past it you'll find a Shrine.\nA very tough boss awaits you just up the path, so this is a good time to make sure you're properly stocked up on supplies have and crafted or upgraded (and make use of the Shrine's store to buy extra anti-miasma powder!).\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_PurpleCloud_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character, armed with a flaming weapon, approaching a stone archway in a forested area. An arrow indicates a path leading up a staircase beyond the archway, suggesting progression toward a key location. The setting is atmospheric, with autumnal trees and scattered sunlight. This scene likely serves as a visual guide to direct players toward the Shrine mentioned in the text, which is guarded by a Snake Herbalist and precedes a challenging boss encounter.\n\n2. **Narrative Role**:  \nThe image provides a visual cue for navigating the game world, highlighting the path to the Shrine where players can prepare for an upcoming boss fight. It reinforces the importance of stocking up on supplies and using the Shrine's store for crafting and upgrades before advancing further."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Wukong_PurpleCloud_39.jpg",
+    "alt_text": "Wukong PurpleCloud 39.jpg",
+    "position_desc": 43,
+    "img_above_text": "![Wukong PurpleCloud 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_PurpleCloud_38.jpg)\nBe sure to check the shacks on the right for a narrow bridge lined with green Wisps you can cross, and on the other side you'll find a **Treasure Chest** in an open building, and a pathway leading up to that other end of the hamlet.",
+    "img_below_text": "Return back across the bridge first, and make your way through the overgrown path to cross a bridge.\n![Wukong PurpleCloud 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_PurpleCloud_40.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong PurpleCloud 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_PurpleCloud_38.jpg)\nBe sure to check the shacks on the right for a narrow bridge lined with green Wisps you can cross, and on the other side you'll find a **Treasure Chest** in an open building, and a pathway leading up to that other end of the hamlet.\"\n        - Following Text: \"Return back across the bridge first, and make your way through the overgrown path to cross a bridge.\n![Wukong PurpleCloud 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_PurpleCloud_40.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character exploring a forested area with autumn foliage. The character is equipped with a weapon and is positioned near a rocky path surrounded by trees and grass. The preceding text suggests this area is part of a hamlet exploration, where players can find a narrow bridge with green Wisps leading to a treasure chest and a pathway. The following text indicates the player will soon return across the bridge to continue through an overgrown path. The HUD displays abilities, inventory, and \"Will\" resources, indicating active gameplay."
 }

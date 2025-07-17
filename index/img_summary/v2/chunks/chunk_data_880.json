@@ -1,28 +1,11 @@
 {
-    "chunk_id": 37996330696,
-    "source_file": "Drinks.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg",
-    "alt_text": "Coconut Wine .jpg",
-    "position_desc": 1,
-    "img_above_text": "Image | Drink | Rarity | Effect | Location | Collected\n---|---|---|---|---|---",
-    "img_below_text": "![Lambrew .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg)| Lambrew| Rare | Each sip instantly recovers 20% of maximum health. For a brief moment after, slowly recovers 25% of maximum health | Found behind the Sandgate Village - Village Entrance Shrine, where you first begin Chapter 2 - Yellow Wind RidgeIt is located up the hill on your right from where you spawn in at the beginning of the chapter | Lambrew\n![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Drinks.md'.\n\n            Context:\n            - Preceding Text: \"Image | Drink | Rarity | Effect | Location | Collected\n---|---|---|---|---|---\"\n            - Following Text: \"![Lambrew .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg)| Lambrew| Rare | Each sip instantly recovers 20% of maximum health. For a brief moment after, slowly recovers 25% of maximum health | Found behind the Sandgate Village - Village Entrance Shrine, where you first begin Chapter 2 - Yellow Wind RidgeIt is located up the hill on your right from where you spawn in at the beginning of the chapter | Lambrew\n![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the drink \"Lambrew,\" a rare consumable item in the game *Black Myth: Wukong*. It is described as a health-recovery item that instantly restores 20% of maximum health and gradually recovers an additional 25% afterward. The drink can be found behind the Sandgate Village - Village Entrance Shrine, at the beginning of Chapter 2, \"Yellow Wind Ridge.\" The image serves as a visual representation of the item for players to identify it in-game."
+    "chunk_id": 355743163214,
+    "source_file": "Emerald-Armed_Mantis.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png",
+    "alt_text": "Foothills Walkthrough \\(95\\).png",
+    "position_desc": 5,
+    "img_above_text": "![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.",
+    "img_below_text": "It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.\"\n        - Following Text: \"It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a menacing mantis-like creature with sharp, blade-like appendages, standing in a dark, ominous environment. Its appearance aligns with the walkthrough's description of an enemy that uses its blades to slash and spin during combat. The creature's red-tinted blades suggest it is preparing for a more aggressive phase, as indicated by the following text describing a drastic change in its behavior after sharpening its weapons and dipping them in liquid."
 }

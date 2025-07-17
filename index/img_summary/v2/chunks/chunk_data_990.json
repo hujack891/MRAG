@@ -1,28 +1,11 @@
 {
-    "chunk_id": 940643722162,
-    "source_file": "Father_of_Stones_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Father_of_Stones_Location.png",
-    "alt_text": "Father of Stones Location.png",
+    "chunk_id": 899536239991,
+    "source_file": "Flint_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Furnace_Valley_Walkthrough_%2838%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(38\\).png",
     "position_desc": 2,
-    "img_above_text": "## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.",
-    "img_below_text": "## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Father_of_Stones_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.\"\n            - Following Text: \"## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Father_of_Stones_Location.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, atmospheric scene set in a rocky, desolate environment with barren trees and crumbling structures. A shrine with a burning flame stands prominently on the right, suggesting a place of significance or ritual. In the foreground, a horned figure clad in ornate armor and wielding a staff surveys the area, hinting at an impending confrontation. Based on the context, this location is near the Heart of Ember Keeper's Shrine in the Flaming Mountains, where players will encounter the Father of Stones, a formidable enemy. The image sets the tone for exploration and the looming battle ahead."
+    "img_above_text": "![Furnace Valley Walkthrough \\(37\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Furnace_Valley_Walkthrough_%2837%29.png)\nAfter entering the cave in Furnace Valley, head to the left. Continue following the path, through the archway, where you'll see another Flamling emerge on the right. Take the Flamling out and look down to the left, below the edge of the cliff where it sat.",
+    "img_below_text": "Drop down here, and head right first to collect the Fire Date from the tree. Then go in the opposite direction toward the lava streaming from the ceiling. This is where you can find one of the optional bosses in Chapter 5, the Flint Chief.\n## Flint Chief Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Furnace Valley Walkthrough \\(37\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Furnace_Valley_Walkthrough_%2837%29.png)\nAfter entering the cave in Furnace Valley, head to the left. Continue following the path, through the archway, where you'll see another Flamling emerge on the right. Take the Flamling out and look down to the left, below the edge of the cliff where it sat.\"\n        - Following Text: \"Drop down here, and head right first to collect the Fire Date from the tree. Then go in the opposite direction toward the lava streaming from the ceiling. This is where you can find one of the optional bosses in Chapter 5, the Flint Chief.\n## Flint Chief Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a fiery, lava-filled area in the Furnace Valley section of *Black Myth: Wukong*. A red arrow highlights the path forward, guiding players to drop down from the cliff edge and proceed toward the right. A dashed circle marks a notable location in the lava zone, possibly indicating an item or point of interest. This area leads to the collection of a Fire Date and the optional boss fight against the Flint Chief in Chapter 5."
 }

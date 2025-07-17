@@ -1,28 +1,11 @@
 {
-    "chunk_id": 975490885580,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Foothills_Walkthrough_%28135%29.png",
-    "alt_text": "Foothills Walkthrough \\(135\\).png",
-    "position_desc": 32,
-    "img_above_text": "Now drop down from the Feng-Tail General and activate the nearby Keeper's Shrine. You'll see a field straight in front of you that's strewn with soldiers and fire. Before you head here, let's go find the second optional Poison Chief miniboss that's nearby.\n## Rhino Watch Slope",
-    "img_below_text": "Facing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.\n![Foothills Walkthrough \\(136\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 32 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Now drop down from the Feng-Tail General and activate the nearby Keeper's Shrine. You'll see a field straight in front of you that's strewn with soldiers and fire. Before you head here, let's go find the second optional Poison Chief miniboss that's nearby.\n## Rhino Watch Slope\"\n            - Following Text: \"Facing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.\n![Foothills Walkthrough \\(136\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Foothills_Walkthrough_%28135%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a lush, forested area with a mountainous backdrop. A red arrow overlays the image, pointing toward a specific location in the forest, indicating a direction or path. In the foreground, a character is mid-air, seemingly using an ability to ascend or glide.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players navigate from the Keeper's Shrine to a specific destination, possibly the area near the second optional Poison Chief miniboss. The red arrow highlights the intended direction, while the character's airborne position suggests the use of vertical movement or flight mechanics to traverse the terrain."
+    "chunk_id": 656672325103,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Wolves_37.jpg",
+    "alt_text": "Wukong Wolves 37.jpg",
+    "position_desc": 45,
+    "img_above_text": "![Wukong Wolves 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Wolves_38.jpg)\nAt range, he can still be a major problem as you learn his moves, as he can strike from a distance with very little warning. If you see him somersault backward and out of range of your strikes, don’t blindly rush in. He’ll pause for a moment, and then toss his twinblade at you like a boomerang that requires dodging as it spins toward you, and back to his hand.",
+    "img_below_text": "He can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.\n![Wukong Wolves 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Wolves_39.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Wolves_38.jpg)\nAt range, he can still be a major problem as you learn his moves, as he can strike from a distance with very little warning. If you see him somersault backward and out of range of your strikes, don’t blindly rush in. He’ll pause for a moment, and then toss his twinblade at you like a boomerang that requires dodging as it spins toward you, and back to his hand.\"\n        - Following Text: \"He can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.\n![Wukong Wolves 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Wolves_39.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat moment from the game *Black Myth: Wukong*. The player character is seen dodging an attack from a boss named \"Guangzhi,\" who is wielding a flaming weapon and positioned near a shrine-like structure in a forested area. The context highlights Guangzhi's dangerous ranged and dashing attacks, requiring precise timing and strategy to evade. The player's health and ability icons are visible in the HUD, emphasizing the ongoing battle."
 }

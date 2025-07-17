@@ -1,28 +1,11 @@
 {
-    "chunk_id": 213612871408,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg",
-    "alt_text": "Wukong Pagoda 64.jpg",
-    "position_desc": 59,
-    "img_above_text": "![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\nIf you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.",
-    "img_below_text": "At the far end of this path past another open cell with a green Wisp, the walkway will have crumbled before you can reach the last green Wisp, but there's a side passage into an open cell. (a Lantern Sentry will also appear walking out of this cell when the chanting is active!)\n![Wukong Pagoda 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Pagoda_62.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 59 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\nIf you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.\"\n            - Following Text: \"At the far end of this path past another open cell with a green Wisp, the walkway will have crumbled before you can reach the last green Wisp, but there's a side passage into an open cell. (a Lantern Sentry will also appear walking out of this cell when the chanting is active!)\n![Wukong Pagoda 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Pagoda_62.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character approaching a dark, ominous cell guarded by a menacing creature. The cell contains a glowing green Wisp, which is an item to be absorbed. This image is situated between two sections of the walkthrough that describe navigating past sentries and cells to collect Wisps and encounter enemies."
+    "chunk_id": 133354608898,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Shigandang_5.jpg",
+    "alt_text": "Wukong Shigandang 5.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Shigandang 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Shigandang_7.jpg)\nHowever, if he performs a larger leap into the air, he can summon several rock pillars in front of him when he slams his fists into the ground, making a direct retreat backward inadvisable! The good news is this move will often require him to pull his arms out of the ground after detonating the pillars, giving you plenty of time to hit him with big attacks.",
+    "img_below_text": "Be wary when trying to attack him from behind, as he’ll respond by doing a backward elbow drop into the ground, covering a wide area that will also cause spiky rocks to shoot up near the point of impact in a cone away from his body.\n![Wukong Shigandang 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Shigandang_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Shigandang 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Shigandang_7.jpg)\nHowever, if he performs a larger leap into the air, he can summon several rock pillars in front of him when he slams his fists into the ground, making a direct retreat backward inadvisable! The good news is this move will often require him to pull his arms out of the ground after detonating the pillars, giving you plenty of time to hit him with big attacks.\"\n        - Following Text: \"Be wary when trying to attack him from behind, as he’ll respond by doing a backward elbow drop into the ground, covering a wide area that will also cause spiky rocks to shoot up near the point of impact in a cone away from his body.\n![Wukong Shigandang 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Shigandang_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character, wielding a fiery staff, engaging in combat with the boss \"Shigandang.\" The environment features jagged rock pillars, likely summoned by the boss during its ground-slam attack, as described in the preceding text. The scene emphasizes the hazardous terrain and the need for strategic movement to avoid damage while finding opportunities to counterattack."
 }

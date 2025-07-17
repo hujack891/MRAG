@@ -1,28 +1,11 @@
 {
-    "chunk_id": 842706696724,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg",
-    "alt_text": "Wukong Sandgate 78.jpg",
-    "position_desc": 13,
-    "img_above_text": "Harvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!\n### 8\\. Look for Enemies With Blue Glowing Outlines",
-    "img_below_text": "When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"Harvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!\n### 8\\. Look for Enemies With Blue Glowing Outlines\"\n            - Following Text: \"When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in combat with an enemy that has a bright blue glowing outline. This visual cue indicates that the enemy will drop spirits upon defeat, which can be collected and equipped to aid in future battles. The image serves to illustrate the preceding text's advice to look for these special enemies while exploring, emphasizing their importance for gaining valuable resources."
+    "chunk_id": 201733856928,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Woods_Ember_Walkthrough_%2844%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(44\\).png",
+    "position_desc": 23,
+    "img_above_text": "![Woods Ember Walkthrough \\(41\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Woods_Ember_Walkthrough_%2841%29.png)\nAs you step through the next bit, be careful of the Lavabat. On the other side of this small cave, turn right and cross the bridge. Be ready to fight the Bull Soldier on the other side, but also watch out for the Revenant Charface tucked away on the right who will come at you.",
+    "img_below_text": "Once the area is clear, open the chest that the Bull Soldier was guarding. This will give you Cold Iron Leaves and Will.\n![Woods Ember Walkthrough \\(39\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Woods_Ember_Walkthrough_%2839%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(41\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Woods_Ember_Walkthrough_%2841%29.png)\nAs you step through the next bit, be careful of the Lavabat. On the other side of this small cave, turn right and cross the bridge. Be ready to fight the Bull Soldier on the other side, but also watch out for the Revenant Charface tucked away on the right who will come at you.\"\n        - Following Text: \"Once the area is clear, open the chest that the Bull Soldier was guarding. This will give you Cold Iron Leaves and Will.\n![Woods Ember Walkthrough \\(39\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Woods_Ember_Walkthrough_%2839%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rocky, desolate area with sparse vegetation and a misty atmosphere, likely part of a cave or outdoor section in the game *Black Myth: Wukong*. Visible elements include a wooden chest surrounded by pots, which aligns with the following text describing a chest guarded by the Bull Soldier. The setting suggests a location where players will encounter enemies, such as the Revenant Charface and Bull Soldier, before accessing the chest for rewards."
 }

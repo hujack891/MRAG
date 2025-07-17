@@ -1,28 +1,11 @@
 {
-    "chunk_id": 625675162956,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg",
-    "alt_text": "Black-myth-wukong-fragrant-jade-flower-icon.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards",
-    "img_below_text": "![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\"\n            - Following Text: \"![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a vibrant pink flowering plant, likely an ingredient in the game *Black Myth: Wukong*. Based on the context, it is part of a catalog of collectible or purchasable ingredients with varying rarity and uses. Positioned between entries for \"Licorice\" and \"Snake-Head Mushroom,\" this plant is likely another ingredient with unique properties or origins, contributing to the game's crafting or progression mechanics."
+    "chunk_id": 63393205747,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Thunderclap_105.jpg",
+    "alt_text": "Wukong Thunderclap 105.jpg",
+    "position_desc": 106,
+    "img_above_text": "Among his more familiar attacks, he can also detonate his mace after slamming into the ground after a short delay, so be ready if you notice the mace continue to glow (if it doesn't, you'll be a bit safer to engage near his weapon).\nOther times, these detonations can trigger a series of lightning bolts to explode outward around him, both spreading in a line from his strikes and also seeking you out.",
+    "img_below_text": "This second fight is spaced into three phases, during which Yellowbrow will stop the fight momentarily to string you about like a rag doll. This means you can only take a third of his health bar off before he'll stop taking damage and stun you, which is worth noting so that you don't try and unleash a huge stored up attack when he's about to start a new phase.\nEven worse, when you take off the first third of his health, he'll stun you with electricity and then smack you around with his mace. This unavoidable cutscene actually takes off around 40% of your health, and is what we like to call a dick move.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Among his more familiar attacks, he can also detonate his mace after slamming into the ground after a short delay, so be ready if you notice the mace continue to glow (if it doesn't, you'll be a bit safer to engage near his weapon).\nOther times, these detonations can trigger a series of lightning bolts to explode outward around him, both spreading in a line from his strikes and also seeking you out.\"\n        - Following Text: \"This second fight is spaced into three phases, during which Yellowbrow will stop the fight momentarily to string you about like a rag doll. This means you can only take a third of his health bar off before he'll stop taking damage and stun you, which is worth noting so that you don't try and unleash a huge stored up attack when he's about to start a new phase.\nEven worse, when you take off the first third of his health, he'll stun you with electricity and then smack you around with his mace. This unavoidable cutscene actually takes off around 40% of your health, and is what we like to call a dick move.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in a video game, featuring the player character facing off against \"Yellowbrow,\" a powerful enemy. The context highlights Yellowbrow's dangerous attacks, including a glowing mace that detonates with lightning effects, and the structured three-phase progression of the fight. The player must strategically manage their attacks and health, as the boss can trigger unavoidable cutscenes that deal significant damage."
 }

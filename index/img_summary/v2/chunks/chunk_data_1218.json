@@ -1,28 +1,11 @@
 {
-    "chunk_id": 731142871007,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg",
-    "alt_text": "Wukong Wolves 35.jpg",
-    "position_desc": 42,
-    "img_above_text": "![Wukong Wolves 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Wolves_34.jpg)\nThe flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.",
-    "img_below_text": "If he starts to whirl his fiery blade in circles around him, be ready but don’t panic as his attack is yet to come — wait for him to raise the blade and twirl it high before swinging it from side to side in two slower hits.\n![Wukong Wolves 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Wolves_36.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 42 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Wolves_34.jpg)\nThe flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.\"\n            - Following Text: \"If he starts to whirl his fiery blade in circles around him, be ready but don’t panic as his attack is yet to come — wait for him to raise the blade and twirl it high before swinging it from side to side in two slower hits.\n![Wukong Wolves 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Wolves_36.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a boss fight against Guangzhi in *Black Myth: Wukong*, showcasing his fiery blade attack. Guangzhi is seen spinning his weapon, creating a circular flame effect around him, which is part of his attack sequence. The preceding and following text advises players to anticipate his moves, wait for the right moment to dodge, and counterattack while he recovers. This visual emphasizes the intensity of the fight and serves as a guide to understanding his attack patterns."
+    "chunk_id": 693670715960,
+    "source_file": "Fungiwoman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Fungiwoman_Power.jpg",
+    "alt_text": "Fungiwoman Power.jpg",
+    "position_desc": 3,
+    "img_above_text": "This is bad enough already, but she also has an attack where she shoots spores out over the arena that target and hurt you. These spores replenish the Fungiwoman's health. The trick here is to fight aggressively so she doesn't have time to replenish much HP. Otherwise, it can drag on for a very long time.\n## Fungiwoman Spirit",
+    "img_below_text": "* **Aloft**\n* Equipped Effect: Significantly increases Maximum Health but considerably reduces Maximum Stamina.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"This is bad enough already, but she also has an attack where she shoots spores out over the arena that target and hurt you. These spores replenish the Fungiwoman's health. The trick here is to fight aggressively so she doesn't have time to replenish much HP. Otherwise, it can drag on for a very long time.\n## Fungiwoman Spirit\"\n        - Following Text: \"* **Aloft**\n* Equipped Effect: Significantly increases Maximum Health but considerably reduces Maximum Stamina.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. **Summary**: The image displays the \"Fungiwoman Spirit\" in the Equipment menu of a video game. This spirit allows the player to transform into Fungiwoman, enabling airborne movement and spore-based attacks that damage enemies and can restore health. The equipped effect, \"Aloft,\" significantly increases maximum health at the cost of reduced stamina. A demo of the ability is also available for viewing.  \n\n2. **Purpose**: The image highlights the functionality and strategic use of the Fungiwoman Spirit, emphasizing its offensive and healing capabilities, as well as its trade-offs in stamina."
 }

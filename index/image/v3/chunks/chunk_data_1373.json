@@ -1,32 +1,16 @@
 {
-    "chunk_id": 386268687358,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
+    "chunk_id": 811596182218,
+    "source_file": "Old_Rattle-Drum.md",
+    "h1_title": "Old Rattle-Drum",
     "h2_title": "",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Pagoda_4.jpg",
-    "alt_text": "Wukong Pagoda 4.jpg",
-    "position_desc": 3,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n\nBe extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\n\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Old_Rattle-Drum_2.jpg",
+    "alt_text": "Old Rattle-Drum 2.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Old Rattle-Drum\nThe Old Rattle-Drum is one of the more well-hidden Key Items in Black Myth: Wukong. However, it is one of the more important optional ones, as it unlocks a secret area, a hidden boss, and one of the Gourds in the game.",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Pagoda_Realm_Walkthrough.md', located under The Beguiling Chant of the Pagoda Realm.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Alt Text: Wukong Pagoda 4.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n\nBe extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\n\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Pagoda_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image from \"The Beguiling Chant of the Pagoda Realm\" appears to depict a dark, cavernous environment with mystical elements, possibly illustrating the challenges and threats faced in this area. The scene includes ghostly figures and a crouching character, suggesting an atmosphere of caution and exploration. This aligns with the preceding text's warning about Cyan Bats and the need to absorb a Wisp and harvest a Snake-Head Mushroom, indicating the image's role in visualizing the eerie and perilous nature of the Pagoda Realm.",
-    "embedding_prompt": "This is an image from the file 'Pagoda_Realm_Walkthrough.md', This is the 3th image in the document, located in the main section titled 'The Beguiling Chant of the Pagoda Realm'. The preceding text of this image is: # The Beguiling Chant of the Pagoda Realm\n\nBe extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\n\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.,The following text of this image is: ,The summary of this picture is:The image from \"The Beguiling Chant of the Pagoda Realm\" appears to depict a dark, cavernous environment with mystical elements, possibly illustrating the challenges and threats faced in this area. The scene includes ghostly figures and a crouching character, suggesting an atmosphere of caution and exploration. This aligns with the preceding text's warning about Cyan Bats and the need to absorb a Wisp and harvest a Snake-Head Mushroom, indicating the image's role in visualizing the eerie and perilous nature of the Pagoda Realm."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Old Rattle-Drum\n\n            Context:\n            - Preceding Text: \"# Old Rattle-Drum\nThe Old Rattle-Drum is one of the more well-hidden Key Items in Black Myth: Wukong. However, it is one of the more important optional ones, as it unlocks a secret area, a hidden boss, and one of the Gourds in the game.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the inventory screen from the game \"Black Myth: Wukong,\" highlighting a key item called the \"Old Rattle-Drum.\" The item is described as legendary and, despite being worn and tattered, still produces a lively sound when shaken. This drum is significant within the game as it unlocks a secret area, a hidden boss, and one of the Gourds, making it an important optional item for players to find.",
+    "embedding_prompt": "The image depicts the inventory screen from the game \"Black Myth: Wukong,\" highlighting a key item called the \"Old Rattle-Drum.\" The item is described as legendary and, despite being worn and tattered, still produces a lively sound when shaken. This drum is significant within the game as it unlocks a secret area, a hidden boss, and one of the Gourds, making it an important optional item for players to find.",
+    "generate_prompt": "This is an image from the file 'Old_Rattle-Drum.md', This is the 0th image in the document, located in the main section titled 'Old Rattle-Drum'. The preceding text of this image is: # Old Rattle-Drum\nThe Old Rattle-Drum is one of the more well-hidden Key Items in Black Myth: Wukong. However, it is one of the more important optional ones, as it unlocks a secret area, a hidden boss, and one of the Gourds in the game.,The following text of this image is: ,The summary of this picture is:The image depicts the inventory screen from the game \"Black Myth: Wukong,\" highlighting a key item called the \"Old Rattle-Drum.\" The item is described as legendary and, despite being worn and tattered, still produces a lively sound when shaken. This drum is significant within the game as it unlocks a secret area, a hidden boss, and one of the Gourds, making it an important optional item for players to find."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 808990706444,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg",
-    "alt_text": "Wukong Snowhill 46.jpg",
-    "position_desc": 39,
-    "img_above_text": "![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)\nShe can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.",
-    "img_below_text": "Certain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.\n![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)\nShe can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\"\n            - Following Text: \"Certain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.\n![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment from the game \"Black Myth: Wukong,\" where the player character is engaged in a battle against a formidable foe named Kang Jin Loong. The scene is filled with intense action, showcasing the enemy's lightning-based attacks that create explosive effects on the snowy landscape. The preceding text describes the enemy's lunging and lightning strike abilities, while the following text details its spinning lightning breath attack, emphasizing the need for strategic movement and height advantage to avoid damage."
+    "chunk_id": 767171109314,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Karma_23.jpg",
+    "alt_text": "Wukong Karma 23.jpg",
+    "position_desc": 96,
+    "img_above_text": "![Wukong Karma 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Karma_22.jpg)\nNearing a large gate in the distance, look for a clearing on the left near a large tree and small stone monument where you can find a **Treasure Chest** with materials in it. Just beware of a Lesser Apramana Bat lurking in the bushes nearby that will try to pounce on you.",
+    "img_below_text": "Eventually you'll come to a much larger gate manned by two Wolf Guardians who will jump down to stop you from entering. Their attacks can come fast and overwhelming on both sides, so try to isolate one with Immobilize and focus fire the other down to take them on one at a time.\nBeyond this large gate lies the final sub-region leading to the New Thunderclap Temple.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Karma_22.jpg)\nNearing a large gate in the distance, look for a clearing on the left near a large tree and small stone monument where you can find a **Treasure Chest** with materials in it. Just beware of a Lesser Apramana Bat lurking in the bushes nearby that will try to pounce on you.\"\n        - Following Text: \"Eventually you'll come to a much larger gate manned by two Wolf Guardians who will jump down to stop you from entering. Their attacks can come fast and overwhelming on both sides, so try to isolate one with Immobilize and focus fire the other down to take them on one at a time.\nBeyond this large gate lies the final sub-region leading to the New Thunderclap Temple.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist approaching a large, ornate gate in a snowy environment. This gate is significant as it leads to a new sub-region, the New Thunderclap Temple. The preceding text suggests the player should explore a nearby clearing for a treasure chest, while the following text warns of Wolf Guardians that will challenge the player at the gate. The image captures the moment before these encounters, emphasizing the game's adventurous and challenging nature."
 }

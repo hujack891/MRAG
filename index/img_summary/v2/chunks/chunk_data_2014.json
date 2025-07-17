@@ -1,28 +1,11 @@
 {
-    "chunk_id": 533430872994,
-    "source_file": "Mind_Core.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
-    "alt_text": "Wukong Shigandang 1.jpg",
-    "position_desc": 13,
-    "img_above_text": "### Mind Core Location 11\nAnother Mind Core can be found upon defeating Shigandang at the Rock Clash Platform Shrine in Fright Cliff in Yellow Wind Ridge. The boss is within the Stone Vanguard's arena and you will need to have obtained all the Buddhas Eyeballs to be able to activate the rock in the arena, which is actually a part of Shigandang's body.",
-    "img_below_text": "### Mind Core Location 12\nThe next Mind Core is automatically given to you upon finishing Chapter 2 - Yellow Wind Ridge and defeating the Yellow Wind Sage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 11\nAnother Mind Core can be found upon defeating Shigandang at the Rock Clash Platform Shrine in Fright Cliff in Yellow Wind Ridge. The boss is within the Stone Vanguard's arena and you will need to have obtained all the Buddhas Eyeballs to be able to activate the rock in the arena, which is actually a part of Shigandang's body.\"\n            - Following Text: \"### Mind Core Location 12\nThe next Mind Core is automatically given to you upon finishing Chapter 2 - Yellow Wind Ridge and defeating the Yellow Wind Sage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character interacting with a large rock formation, which is integral to the narrative of acquiring a Mind Core in the game. This rock is part of Shigandang's body, located at the Rock Clash Platform Shrine in Fright Cliff, Yellow Wind Ridge. The preceding text describes the necessity of defeating Shigandang and obtaining all Buddhas Eyeballs to activate this rock, suggesting that the image captures a moment of gameplay where the player is about to engage with the rock to progress in the quest for the Mind Core."
+    "chunk_id": 408239640608,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg",
+    "alt_text": "Wukong Karma 15.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Karma 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg)\nEven with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.",
+    "img_below_text": "Many times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.\n![Wukong Karma 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Karma_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg)\nEven with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\"\n        - Following Text: \"Many times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.\n![Wukong Karma 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Karma_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a battle between the player character and an enemy named \"Old Ginseng Guai.\" The enemy is performing a powerful attack, indicated by the golden flash and the player's character being knocked down. The preceding and following text describe the enemy's attack patterns, including lunges, elbow drops, flailing kicks, and a spinning move that ends with a backward fall, suggesting that players should evade these attacks to avoid damage."
 }

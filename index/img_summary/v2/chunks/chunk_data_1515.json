@@ -1,28 +1,11 @@
 {
-    "chunk_id": 674692269309,
-    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/How_To_Claim_Deluxe_Edition_Items_%285%29.png",
-    "alt_text": "How To Claim Deluxe Edition Items \\(5\\).png",
-    "position_desc": 4,
-    "img_above_text": "### Weapon\n* Bronzecloud Staff",
-    "img_below_text": "### Armor\n* Folk Opera Mask",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'How_to_Claim_Deluxe_Edition_Items.md'.\n\n            Context:\n            - Preceding Text: \"### Weapon\n* Bronzecloud Staff\"\n            - Following Text: \"### Armor\n* Folk Opera Mask\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/How_To_Claim_Deluxe_Edition_Items_%285%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the in-game equipment menu, highlighting the \"Bronzecloud Staff,\" an uncommon weapon with an attack value of 36 and a critical hit chance of 2%. It serves as a visual representation of the weapon described in the preceding text and complements the following section on armor items."
+    "chunk_id": 670677325994,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Secret_Loong_Bosses_%2819%29.png",
+    "alt_text": "Secret Loong Bosses \\(19\\).png",
+    "position_desc": 11,
+    "img_above_text": "Black Loong\n## How to Find Cyan Loong - Chapter 3 Dragon Boss",
+    "img_below_text": "This one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.\n![Secret Loong Bosses \\(20\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Black Loong\n## How to Find Cyan Loong - Chapter 3 Dragon Boss\"\n        - Following Text: \"This one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.\n![Secret Loong Bosses \\(20\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts \"Cyan Loong,\" a boss character from Chapter 3 of the video game *Black Myth: Wukong*. The character features a striking, tree-like design with intricate details, set against a serene backdrop of a lake and cloudy sky. This boss is part of the guide's instructions for locating and confronting the Cyan Loong at the Bitter Lake and Turtle Island Keeper's Shrine."
 }

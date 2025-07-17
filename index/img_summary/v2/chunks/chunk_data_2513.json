@@ -1,28 +1,11 @@
 {
-    "chunk_id": 73031158051,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg",
-    "alt_text": "Wukong Sandgate 30.jpg",
-    "position_desc": 27,
-    "img_above_text": "![Wukong Sandgate 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg)\nA large door stands to the right, and in front of it is a two-headed Rat Captain. These foes are incredibly ferocious, both with their heavy blade, and their unique head combo:",
-    "img_below_text": "One head emits a smoky fog, and the other shoots fire. In reality, the blinding smoke can actually be ignited by the second head to cause huge explosions, so stay away from the smoke at all costs.\n![Wukong Sandgate 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_31.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg)\nA large door stands to the right, and in front of it is a two-headed Rat Captain. These foes are incredibly ferocious, both with their heavy blade, and their unique head combo:\"\n            - Following Text: \"One head emits a smoky fog, and the other shoots fire. In reality, the blinding smoke can actually be ignited by the second head to cause huge explosions, so stay away from the smoke at all costs.\n![Wukong Sandgate 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_31.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic in-game moment from \"Black Myth: Wukong,\" showcasing a two-headed Rat Captain engulfed in a massive explosion. This visual illustrates the dangerous combination of the Rat Captain's abilities, where one head emits smoke and the other ignites it, causing a fiery blast. The image serves to highlight the perilous nature of the enemy and the need for players to avoid the smoke to prevent such catastrophic explosions."
+    "chunk_id": 780003501775,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_56.jpg",
+    "alt_text": "Wukong YellowFlower 56.jpg",
+    "position_desc": 53,
+    "img_above_text": "![Wukong YellowFlower X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_YellowFlower_X.jpg)\nAfter you've completed Purple Cloud Mountain, head back to the Court of Illumination Shrine. If you haven't stopped here to get the Shrine earlier, you'll need to take out two Spear Daoists, but also note a small pond of water with a Tiger Sheriff down inside, along with a green Wisp. Defeating him should also get you a special **Tiger Tendon Belt Curio** (if not, it may randomly drop from other Tiger Sheriffs).",
+    "img_below_text": "Now at the Court of Illumination Shrine, you'll find a pathway straight ahead, and another to the right leading to a large field. The doorway to the right leads to the final boss, so first take a quick detour up the stairs.\n![Wukong YellowFlower 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_YellowFlower_57.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_YellowFlower_X.jpg)\nAfter you've completed Purple Cloud Mountain, head back to the Court of Illumination Shrine. If you haven't stopped here to get the Shrine earlier, you'll need to take out two Spear Daoists, but also note a small pond of water with a Tiger Sheriff down inside, along with a green Wisp. Defeating him should also get you a special **Tiger Tendon Belt Curio** (if not, it may randomly drop from other Tiger Sheriffs).\"\n        - Following Text: \"Now at the Court of Illumination Shrine, you'll find a pathway straight ahead, and another to the right leading to a large field. The doorway to the right leads to the final boss, so first take a quick detour up the stairs.\n![Wukong YellowFlower 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_YellowFlower_57.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist standing in a serene outdoor area near the Court of Illumination Shrine, surrounded by autumnal trees and traditional architecture. Two red arrows highlight pathways: one leading straight ahead and another to the right. These paths correspond to the guide's instructions, with the right pathway leading to the final boss and the stairs ahead offering a detour. The image serves to visually orient players to the shrine's layout and the available routes."
 }

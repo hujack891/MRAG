@@ -1,28 +1,11 @@
 {
-    "chunk_id": 77244924859,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Antimiasma_Powder_.jpg",
-    "alt_text": "Antimiasma Powder .jpg",
-    "position_desc": 5,
-    "img_above_text": "![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Purple Lingzhi | Tiger Subduing Pellets",
-    "img_below_text": "• 1 Jade Lotus | Antimiasma Powder\n![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Purple Lingzhi | Tiger Subduing Pellets\"\n            - Following Text: \"• 1 Jade Lotus | Antimiasma Powder\n![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Antimiasma_Powder_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a ceramic gourd-shaped container, likely representing the **Antimiasma Powder**, a consumable item in *Black Myth: Wukong*. Based on the context, this item is used in crafting recipes, such as for **Tiger Subduing Pellets** and **Amplification Pellets**, which provide combat buffs like increased damage and critical hit chance. The powder plays a narrative role in enhancing gameplay through crafting and exploration."
+    "chunk_id": 606984213045,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Black-myth-wukong-buddhas-left-hand.jpg",
+    "alt_text": "Black-myth-wukong-buddhas-left-hand.jpg",
+    "position_desc": 23,
+    "img_above_text": "![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West\n![Black-myth-wukong-buddhas-right-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Black-myth-wukong-buddhas-right-hand.jpg)  3 | Buddha's Right Hand (Material)| Epic | Special crafting material | • Defeat Buddha's Right Hand in The Webbed Hollow",
+    "img_below_text": "![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow\n![Black-myth-wukong-golden-glowing-eye.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Black-myth-wukong-golden-glowing-eye.jpg)  6 | Golden Glowing Eye| Legendary | Special crafting material | • Defeat Hundred-Eyed Daoist Master in Temple of Yellow Flowers in the The Webbed Hollow",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West\n![Black-myth-wukong-buddhas-right-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Black-myth-wukong-buddhas-right-hand.jpg)  3 | Buddha's Right Hand (Material)| Epic | Special crafting material | • Defeat Buddha's Right Hand in The Webbed Hollow\"\n        - Following Text: \"![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow\n![Black-myth-wukong-golden-glowing-eye.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Black-myth-wukong-golden-glowing-eye.jpg)  6 | Golden Glowing Eye| Legendary | Special crafting material | • Defeat Hundred-Eyed Daoist Master in Temple of Yellow Flowers in the The Webbed Hollow\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts \"Buddha's Right Hand,\" an epic special crafting material in the video game \"Black Myth: Wukong.\" This item can be obtained by defeating Buddha's Right Hand in The Webbed Hollow. The image serves as a visual reference for players to identify this specific crafting material within the game."
 }

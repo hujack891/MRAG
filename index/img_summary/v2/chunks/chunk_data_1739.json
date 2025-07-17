@@ -1,28 +1,11 @@
 {
-    "chunk_id": 209278140216,
-    "source_file": "Kang-Jin_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg",
-    "alt_text": "Wukong Snowhill 44.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Snowhill 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Snowhill_43.jpg)\nUsing the Pillar Stance is a great bet for this fight since you'll have both increased height and range on your strikes even if your lock-on isn't on the exact right spot that might cause your Thrust Stance to miss. Hit them hard enough with a few Focus Points banked, and you can often send her staggering to the ground.",
-    "img_below_text": "Any time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\n![Wukong Snowhill 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Kang-Jin_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Snowhill_43.jpg)\nUsing the Pillar Stance is a great bet for this fight since you'll have both increased height and range on your strikes even if your lock-on isn't on the exact right spot that might cause your Thrust Stance to miss. Hit them hard enough with a few Focus Points banked, and you can often send her staggering to the ground.\"\n            - Following Text: \"Any time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\n![Wukong Snowhill 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist, Wukong, engaging in combat with the dragon Kang-Jin Loong in a snowy environment. The dragon is surrounded by bright, explosive golden energy, likely indicating a powerful attack or staggered state. The on-screen interface highlights various consumables and abilities, such as \"Immobilize,\" which aligns with the preceding and following text suggesting tactics to knock the dragon down and capitalize on its vulnerable moments. The visual emphasizes the dynamic gameplay and strategic use of abilities during the fight."
+    "chunk_id": 653874416323,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg",
+    "alt_text": "Wukong Fright 32.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.",
+    "img_below_text": "Once all six Palestones are down, there’s nothing left that the Mother of Stone can do, so keep smacking it until the boss breaks apart. You’ll be awarded the Stone Essence Key Item, as well as some Stone Spirits and Yaoguai Cores.\n![Wukong Fright 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\"\n        - Following Text: \"Once all six Palestones are down, there’s nothing left that the Mother of Stone can do, so keep smacking it until the boss breaks apart. You’ll be awarded the Stone Essence Key Item, as well as some Stone Spirits and Yaoguai Cores.\n![Wukong Fright 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the aftermath of a boss fight against the \"Mother of Stone\" in *Black Myth: Wukong*. The player has successfully defeated the boss, earning the \"Stone Essence\" Key Item along with rewards such as \"Stone Spirit\" and \"Yaoguai Core.\" The glowing blue cracks in the stone creature suggest its destruction, while the player character stands nearby, ready to proceed."
 }

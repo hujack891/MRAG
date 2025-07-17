@@ -1,28 +1,11 @@
 {
-    "chunk_id": 438557209105,
-    "source_file": "Non-White.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Wukong_MindCliff_3.jpg",
-    "alt_text": "Wukong MindCliff 3.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong MindCliff 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_MindCliff_2.jpg)\nNon-White is a peculiar foe who attacks in haphazard fashion with his large thin blade. The most important thing to note is the smaller bar above his health bar: Non-White can use his blade to repeatedly block and parry your attacks, which can at times effectively give him a second health bar. Finding the right times to strike can be useful in circumventing his defenses, but you'll want to be wary of his frost and poison attacks. Stock up on both Antimiasma and Body-Warming medicine to deal with both scenarios should they arise.",
-    "img_below_text": "Expect Non-White to close the distance on you rapidly, as his most common move starts with him crouching before rolling toward you, and then sliding his blade up into a jump attack for a second strike, followed by a short pause before performing a very wide swing with his frost-enchanted blade.\n![Wukong MindCliff 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_MindCliff_7.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Non-White.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MindCliff 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_MindCliff_2.jpg)\nNon-White is a peculiar foe who attacks in haphazard fashion with his large thin blade. The most important thing to note is the smaller bar above his health bar: Non-White can use his blade to repeatedly block and parry your attacks, which can at times effectively give him a second health bar. Finding the right times to strike can be useful in circumventing his defenses, but you'll want to be wary of his frost and poison attacks. Stock up on both Antimiasma and Body-Warming medicine to deal with both scenarios should they arise.\"\n            - Following Text: \"Expect Non-White to close the distance on you rapidly, as his most common move starts with him crouching before rolling toward you, and then sliding his blade up into a jump attack for a second strike, followed by a short pause before performing a very wide swing with his frost-enchanted blade.\n![Wukong MindCliff 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_MindCliff_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Wukong_MindCliff_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a battle between the player character and the enemy named Non-White. Non-White is seen rolling on the ground, likely preparing to execute his rapid closing move described in the context. The player character appears to be in a defensive stance, anticipating Non-White's attack sequence that includes a jump strike and a wide swing with a frost-enchanted blade. The image illustrates the tense and dynamic combat mechanics, emphasizing the need for strategic timing to overcome Non-White's formidable defenses and varied attack patterns."
+    "chunk_id": 461458494057,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_1.jpg",
+    "alt_text": "Wukong Sandgate 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Valley of Despair**\n* Yaoguai Chief - First Prince of Flowing Sands",
+    "img_below_text": "In Black Myth Wukong’s second chapter, you’ll leave behind the forests of Black Wind Mountain for the dry sands of the Yellow Wind Ridge. An energetic (yet headless) man playing a Chinese lute (known as a sanxian) will set the stage for this realm, and helpfully revive our Destined One from becoming a pincushion full of arrows.\n## Yellow Wind Ridge",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Valley of Despair**\n* Yaoguai Chief - First Prince of Flowing Sands\"\n        - Following Text: \"In Black Myth Wukong’s second chapter, you’ll leave behind the forests of Black Wind Mountain for the dry sands of the Yellow Wind Ridge. An energetic (yet headless) man playing a Chinese lute (known as a sanxian) will set the stage for this realm, and helpfully revive our Destined One from becoming a pincushion full of arrows.\n## Yellow Wind Ridge\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth Wukong,\" specifically from the second chapter set in Yellow Wind Ridge. It shows a headless man playing a Chinese lute (sanxian) in a desolate, dry landscape. In the foreground, a character, likely the protagonist referred to as the Destined One, is seen lying on the ground, pierced with multiple arrows. This scene appears to illustrate the moment when the headless man revives the protagonist, setting the stage for the events in this new realm."
 }

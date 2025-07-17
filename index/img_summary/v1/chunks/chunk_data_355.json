@@ -1,6 +1,9 @@
 {
-    "chunk_id": 668950012579,
+    "chunk_id": 202485633612,
+    "source_file": "Captain_Lotus-Vision.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Pagoda_30X.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image depicts a scene from a video game where the player character is navigating a rocky, canyon-like environment. The character is wielding a staff with glowing ends, suggesting a magical or combat function. An arrow highlights a dark chasm or pit, indicating a potential hazard or area of interest. The user interface displays various elements: a health bar at the bottom left, a \"Will\" counter at the top right with a value of 65, and several ability icons at the bottom center and right, suggesting available skills or powers. The environment features a distant structure emitting swirling energy, possibly a point of interest or objective."
+    "alt_text": "Wukong Pagoda 30X.jpg",
+    "position_desc": 1,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image shows a scene from a video game where a character is standing on a rocky ledge, holding a staff with glowing orange ends. The environment appears to be a cave or canyon with a large gap in the ground, indicated by a red arrow pointing downwards. In the background, there is a structure emitting white swirling energy. The game's user interface displays various icons and a health or energy bar in the bottom left corner, and a counter labeled \"Will x65\" in the bottom right."
 }

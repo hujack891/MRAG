@@ -1,28 +1,11 @@
 {
-    "chunk_id": 99025723821,
-    "source_file": "Chapter_3_Secret_-_Mount_Mei_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Mount_Mei_Walkthrough_%2813%29.png",
-    "alt_text": "Mount Mei Walkthrough \\(13\\).png",
-    "position_desc": 13,
-    "img_above_text": "When the Four Heavenly Kings have been taken down, there's just one more giant to deal with, which is Erlang Shen.\n### Erlang Shen",
-    "img_below_text": "You should similarly approach the fight to the Four Heavenly Kings, and use Primal Punch to build up your Focus. When it's built up, use Earthshatter Slam to replenish your health and perform a heavy attack, and keep Rock Solid for moments when you can deflect Erlang Shen's blade attack.\nWhen Erlang Shen's health reaches around 70%, he'll imbue his sword with fire, and start to use it as a whip. This will make the fight a bit tougher, but you'll replenish your health whenever you use Eartshatter Slam. Be sure to use Ice Bath to counter these fire attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Chapter_3_Secret_-_Mount_Mei_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the Four Heavenly Kings have been taken down, there's just one more giant to deal with, which is Erlang Shen.\n### Erlang Shen\"\n            - Following Text: \"You should similarly approach the fight to the Four Heavenly Kings, and use Primal Punch to build up your Focus. When it's built up, use Earthshatter Slam to replenish your health and perform a heavy attack, and keep Rock Solid for moments when you can deflect Erlang Shen's blade attack.\nWhen Erlang Shen's health reaches around 70%, he'll imbue his sword with fire, and start to use it as a whip. This will make the fight a bit tougher, but you'll replenish your health whenever you use Eartshatter Slam. Be sure to use Ice Bath to counter these fire attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Mount_Mei_Walkthrough_%2813%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image  \n\nThe image depicts a dramatic confrontation between two powerful figures in a snowy, mountainous landscape. The foreground shows a character resembling Sun Wukong (Monkey King) preparing to face off against Erlang Shen, a heavily armored giant seen in the distance. This visual serves as a setup for the climactic battle described in the surrounding text, where players are advised on strategies to defeat Erlang Shen, including using specific abilities like Primal Punch, Earthshatter Slam, and Ice Bath to counter his fire-imbued attacks. The image emphasizes the tense atmosphere and the scale of the impending fight."
+    "chunk_id": 413251079605,
+    "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_19.jpg",
+    "alt_text": "Wukong PurpleCloud 19.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong PurpleCloud 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_PurpleCloud_23.jpg)\nOnce you've dealt a fair amount of damage, he can also drive his tail deep into the ground. Poison will start welling up in multiple spots all around you, and explode with small geysers after a moment. The area is quite large, and you may want to quickly swap to the Pillar Stance to avoid the explosions and retaliate quickly with a charged hit.",
+    "img_below_text": "He can also run toward you and dive into the ground, forcing you to lose your lock on as he waits below ground for a moment before busting out to attack as he erupts forth. Don't get greedy after he appears, as he will usually follow his re-entry with a quick tail swipe that can turn into a grab if it connects, and immediately inject a large dose of poison into you while also dealing massive damage.\n![Wukong PurpleCloud 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_PurpleCloud_18.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong PurpleCloud 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_PurpleCloud_23.jpg)\nOnce you've dealt a fair amount of damage, he can also drive his tail deep into the ground. Poison will start welling up in multiple spots all around you, and explode with small geysers after a moment. The area is quite large, and you may want to quickly swap to the Pillar Stance to avoid the explosions and retaliate quickly with a charged hit.\"\n        - Following Text: \"He can also run toward you and dive into the ground, forcing you to lose your lock on as he waits below ground for a moment before busting out to attack as he erupts forth. Don't get greedy after he appears, as he will usually follow his re-entry with a quick tail swipe that can turn into a grab if it connects, and immediately inject a large dose of poison into you while also dealing massive damage.\n![Wukong PurpleCloud 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_PurpleCloud_18.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle against \"The Scorpionlord\" in *Black Myth: Wukong*. The scene shows the Scorpionlord performing an attack, creating a large dust cloud as it moves aggressively in an autumn forest setting near a traditional building. The preceding and following text describe the Scorpionlord's poison-based attacks, including tail strikes and underground dives, emphasizing the need for strategic movement and stance changes to avoid damage and retaliate effectively."
 }

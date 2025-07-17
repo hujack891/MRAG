@@ -1,28 +1,11 @@
 {
-    "chunk_id": 494280624689,
-    "source_file": "Monk_from_the_Sea.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg",
-    "alt_text": "Wukong Thunderclap 21.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Thunderclap 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Thunderclap_18.jpg)\nBy now you're well aware of this Monk's ability to use their tentacles to strike at you form a distance, both in a three-hit combos to stab outward, or in spinning horizontal sweeps. By recognizing the timing, you can make good use of deflecting these attacks or immobilizing him mid swing.",
-    "img_below_text": "In addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.\n![Wukong Thunderclap 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Monk_from_the_Sea.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Thunderclap_18.jpg)\nBy now you're well aware of this Monk's ability to use their tentacles to strike at you form a distance, both in a three-hit combos to stab outward, or in spinning horizontal sweeps. By recognizing the timing, you can make good use of deflecting these attacks or immobilizing him mid swing.\"\n            - Following Text: \"In addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.\n![Wukong Thunderclap 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat moment in a snowy environment from *Black Myth: Wukong*. The \"Monk from the Sea\" enemy is shown mid-attack, utilizing its tentacle-like appendages to strike at the player character. This scene highlights the Monk's long-range attack capabilities, as described in the preceding text, and sets the stage for the player's strategic response, such as deflecting or countering. The snowy setting and the player's health bar suggest an ongoing challenging battle."
+    "chunk_id": 312489154370,
+    "source_file": "Old_Ginseng_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Old_Ginseng_Guai.jpg",
+    "alt_text": "Old Ginseng Guai.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Old Ginseng Guai Fight\n* Old Ginseng Guai Spirit",
+    "img_below_text": "## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Old Ginseng Guai Fight\n* Old Ginseng Guai Spirit\"\n        - Following Text: \"## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player encounters \"Old Ginseng Guai,\" a creature or boss. The setting is a snowy clearing with a stone pagoda in the background, matching the description of the \"Old Ginseng Guai Location\" provided in the following text. The creature appears to be engaged in combat with the player, as indicated by the health bar labeled \"Old Ginseng Guai\" at the bottom of the screen. The preceding and following text suggest this is part of a guide detailing the fight and location of the creature."
 }

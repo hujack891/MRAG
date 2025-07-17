@@ -1,28 +1,11 @@
 {
-    "chunk_id": 857237137841,
-    "source_file": "Non-Void.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Thunderclap_54.jpg",
-    "alt_text": "Wukong Thunderclap 54.jpg",
-    "position_desc": 9,
-    "img_above_text": "Another attack he can perform while you engage him from the front will start when he bunches up his fists close to his body. He'll explode outward with a simultaneous punch and kick move, and then after a moment will follow up with two charging fist strikes while phased out, sending him forward several steps to pursue any backward evasions.\nOnce you learn to anticipate these attacks, you'll find it easier to outmaneuver him, and look for the best opening to expend your focus points and deal the most damage (doing so when he's Immobilized is also a good guarantee).",
-    "img_below_text": "Similarly, any Transformation can deal good damage here, but be sure not to expend your final attack when he's phasing out, or you'll waste it entirely.\nWhen Non-Void finally falls to your assault, you'll be able to absorb the Non-Void Spirit.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Non-Void.md'.\n\n            Context:\n            - Preceding Text: \"Another attack he can perform while you engage him from the front will start when he bunches up his fists close to his body. He'll explode outward with a simultaneous punch and kick move, and then after a moment will follow up with two charging fist strikes while phased out, sending him forward several steps to pursue any backward evasions.\nOnce you learn to anticipate these attacks, you'll find it easier to outmaneuver him, and look for the best opening to expend your focus points and deal the most damage (doing so when he's Immobilized is also a good guarantee).\"\n            - Following Text: \"Similarly, any Transformation can deal good damage here, but be sure not to expend your final attack when he's phasing out, or you'll waste it entirely.\nWhen Non-Void finally falls to your assault, you'll be able to absorb the Non-Void Spirit.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Thunderclap_54.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts an intense combat scene from a video game where the player character is engaged in a fiery battle against an enemy named \"Non-Void.\" The player is using various attacks, including \"Chop Wood,\" \"Blow Fire,\" and a spell called \"Fiery Burst,\" to defeat the enemy. The environment is a dimly lit, possibly ancient structure with an open doorway showing a snowy landscape outside.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves to illustrate a crucial moment in the battle against the Non-Void enemy, highlighting the player's use of specific combat techniques and spells. It visually complements the preceding text, which describes the enemy's attack patterns and strategies for defeating him, and the following text, which advises on the effective use of transformations and the reward of absorbing the Non-Void Spirit upon victory. The image underscores the intensity of the fight and the importance of timing and strategy in overcoming this formidable foe."
+    "chunk_id": 237150796504,
+    "source_file": "Red_Tides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Black-myth-wukong-red-tides-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg)\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.",
+    "img_below_text": "* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\n![Black-myth-wukong-red-tides-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-red-tides-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg)\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\"\n        - Following Text: \"* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\n![Black-myth-wukong-red-tides-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases gameplay from *Black Myth: Wukong*, highlighting combat mechanics. The player character is executing a heavy attack, \"Moon Chase,\" which involves a series of dash attacks. The on-screen prompts detail available moves, including \"Moon Dance\" (light attack), \"Moon Chase\" (heavy attack), and a powerful follow-up attack triggered after dodging. The scene emphasizes dynamic combat and strategic use of abilities."
 }

@@ -1,31 +1,14 @@
 {
-    "chunk_id": 465116260291,
+    "chunk_id": 715389635435,
     "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "h1_title": "The Forest of Wolves",
-    "h2_title": "",
+    "h1_title": "Prologue",
+    "h2_title": "Boss Fight - Erlang, the Sacred Divinity",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Wolves_2.jpg",
-    "alt_text": "Wukong Wolves 2.jpg",
-    "position_desc": 9,
-    "img_above_text": "# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n\nThese basic enemies, the Wolf Scout and Wolf Swornsword, are perfect for getting a feel for some real combat. They tend to attack fairly slowly and draw out their sword slices giving you ample time to dodge even while using light combo attacks.",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg",
+    "alt_text": "Wukong Prologue 5.jpg",
+    "position_desc": 4,
+    "img_above_text": "# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 9 from the file 'Forest_of_Wolves_Walkthrough.md', located under The Forest of Wolves.\n\n                Metadata:\n                - Document Title: The Forest of Wolves\n                - Alt Text: Wukong Wolves 2.jpg\n\n                Context:\n                - Preceding Text: \"# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n\nThese basic enemies, the Wolf Scout and Wolf Swornsword, are perfect for getting a feel for some real combat. They tend to attack fairly slowly and draw out their sword slices giving you ample time to dodge even while using light combo attacks.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Wolves_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image from \"The Forest of Wolves\" walkthrough, titled \"Wukong Wolves 2.jpg,\" depicts an in-game combat scene where the player character, possibly the Destined One, is engaged in a fight with wolf-like enemies. The preceding text describes these enemies as Wolf Scouts and Wolf Swornswords, which are basic foes ideal for practicing combat skills. The image likely serves to visually illustrate the combat mechanics and the types of enemies players will encounter early in the game."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Prologue\n            - Section Title: Boss Fight - Erlang, the Sacred Divinity\n\n            Context:\n            - Preceding Text: \"# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nOnce you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dynamic scene from a boss fight against Erlang, the Sacred Divinity, in a video game. Erlang is seen mid-air, likely preparing for or executing an attack, with the player's character facing him. The background is filled with intense red and white visual effects, emphasizing the high-energy nature of the battle. The health bar at the bottom indicates Erlang's remaining health, aligning with the preceding text that describes his behavior and strategies as his health decreases."
 }

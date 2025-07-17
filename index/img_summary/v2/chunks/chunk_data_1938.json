@@ -1,28 +1,11 @@
 {
-    "chunk_id": 49484358123,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg",
-    "alt_text": "Jade Lotus .jpg",
-    "position_desc": 4,
-    "img_above_text": "![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "img_below_text": "![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n            - Following Text: \"![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a medicinal ingredient from the game *Black Myth: Wukong*. Based on its position and surrounding context, it likely represents a rare or uncommon herb used for crafting or healing purposes. The preceding and following text describe similar items, such as Nine-Capped Lingzhi, Gentian, Aged Ginseng, and Millenium Ginseng, which are collectible ingredients obtained through exploration, defeating enemies, or purchasing from in-game vendors. This item contributes to the game's narrative of gathering resources for progression or survival."
+    "chunk_id": 25199010750,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Thunderclap_104.jpg",
+    "alt_text": "Wukong Thunderclap 104.jpg",
+    "position_desc": 102,
+    "img_above_text": "In this form, your attacks will simply bounce off like the Tiger Vanguard's Stone Form, but he won't readily revert back, and continue to attack in this impervious form.\nInstead, you'll want to find openings to hit him back with a heavy attack. If you have any Focus Points stored up, you can briefly stagger him, but even without any focus points its a better alternative than getting knocked back trying to use a light attack. You can also try ingesting consumables that raise your focus for an easier time breaking his gold form.",
+    "img_below_text": "After 2-3 heavy hits (or a single heavy strike with 3 focus points), his golden protection will shatter, and leave Yellowbrow stunned for an extended period of time.\n![Wukong Thunderclap 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Thunderclap_107.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"In this form, your attacks will simply bounce off like the Tiger Vanguard's Stone Form, but he won't readily revert back, and continue to attack in this impervious form.\nInstead, you'll want to find openings to hit him back with a heavy attack. If you have any Focus Points stored up, you can briefly stagger him, but even without any focus points its a better alternative than getting knocked back trying to use a light attack. You can also try ingesting consumables that raise your focus for an easier time breaking his gold form.\"\n        - Following Text: \"After 2-3 heavy hits (or a single heavy strike with 3 focus points), his golden protection will shatter, and leave Yellowbrow stunned for an extended period of time.\n![Wukong Thunderclap 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Thunderclap_107.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat sequence from the game *Black Myth: Wukong*, showing the player character engaging in battle against \"Yellowbrow,\" a boss enemy. Yellowbrow is in his \"golden protection\" form, which makes him impervious to light attacks. The preceding and following text explain the strategy to break this form by using heavy attacks, potentially enhanced by Focus Points, to stagger and ultimately shatter his defense, leaving him vulnerable. The glowing golden effect in the image visually represents Yellowbrow's impervious state during the fight."
 }

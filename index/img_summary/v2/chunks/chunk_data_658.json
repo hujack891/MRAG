@@ -1,28 +1,11 @@
 {
-    "chunk_id": 98500008410,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg",
-    "alt_text": "Wukong Bitter 16.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)\nHis strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.",
-    "img_below_text": "The second hit can be extremely tough to dodge, but using the Pillar Stance to get off the ground can soak the blow if you have stamina to spare (though it will probably still stun you).\nRemember that you also have Zhu Bajie as an ally in this fight, and while he won't be able to hold his attention for too long, but he can be useful at giving you some breathing room or interrupting attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)\nHis strongest attack by far is when he jumps into the air with his green weapon, charging it with energy before crashing down with it. It will cause a huge electrical explosion when he lands, but then spread outward with several lighting strikes that cover a wide area.\"\n            - Following Text: \"The second hit can be extremely tough to dodge, but using the Pillar Stance to get off the ground can soak the blow if you have stamina to spare (though it will probably still stun you).\nRemember that you also have Zhu Bajie as an ally in this fight, and while he won't be able to hold his attention for too long, but he can be useful at giving you some breathing room or interrupting attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_16.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment from the boss fight against Chen Loong in *Black Myth: Wukong*. It showcases Chen Loong mid-air, wielding a glowing weapon and unleashing a powerful electrical attack that creates a massive explosion and lightning strikes across the battlefield. This visual emphasizes the boss's devastating abilities, as described in the preceding text, and highlights the challenge of dodging or mitigating this attack, which is further elaborated in the following text."
+    "chunk_id": 183656466887,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg",
+    "alt_text": "Body-Cooling Powder .jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---|---\n![Incense Trail Talisman .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Incense_Trail_Talisman_.jpg)| Incense Trail Talisman | Legendary | Teleport back to the last Keeper Shrine for Resurrection | • Found at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain| Not craftable | Incense Trail Talisman",
+    "img_below_text": "• 1 Jade Lotus | Body Cooling Powder\n![Black-myth-wukong-evil-repelling-medicament.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-evil-repelling-medicament.jpg)| Evil Repelling Medicament | Uncommon | Upon use, considerably increases damage reduction for a long duration | • Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests Dropped from enemy corpses • Given to you by Xu Dog upon killing Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Licorice",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"---|---|---|---|---|---|---\n![Incense Trail Talisman .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Incense_Trail_Talisman_.jpg)| Incense Trail Talisman | Legendary | Teleport back to the last Keeper Shrine for Resurrection | • Found at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain| Not craftable | Incense Trail Talisman\"\n        - Following Text: \"• 1 Jade Lotus | Body Cooling Powder\n![Black-myth-wukong-evil-repelling-medicament.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-evil-repelling-medicament.jpg)| Evil Repelling Medicament | Uncommon | Upon use, considerably increases damage reduction for a long duration | • Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests Dropped from enemy corpses • Given to you by Xu Dog upon killing Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Licorice\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Evil Repelling Medicament,\" an uncommon item from the video game *Black Myth: Wukong*. This item significantly increases damage reduction for a long duration when used. It can be obtained through various means, including purchasing its formula from the Shrine store, finding it in chests, looting enemy corpses, or receiving it as a reward from Xu Dog after defeating Lang-Li-Guhh-Baw. The item requires 1 Licorice to craft."
 }

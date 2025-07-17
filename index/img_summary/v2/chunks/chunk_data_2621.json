@@ -1,28 +1,11 @@
 {
-    "chunk_id": 34478694427,
-    "source_file": "Shen_Monkey_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
-    "alt_text": "20240815103517 1.jpg",
+    "chunk_id": 94062312795,
+    "source_file": "Tiger_Relic.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Tiger_29.jpg",
+    "alt_text": "Wukong Tiger 29.jpg",
     "position_desc": 2,
-    "img_above_text": "Shen Monkey's Quest\n## Shen Monkey Upgrades and Shop",
-    "img_below_text": "Talking to the Shen Monkey in his cave, you’ll find that he’s a merchant of gourds, drinks, and brews! Be sure to check all of his options out:\n* **Upgrade Gourds** \\- By using the  Luojia Fragrant Vine you just found by the nearby Shrine, you upgrade the charges in your **Old Gourd** from 4 swigs to 5, turning into a Medicine Gourd, and giving you more uses of its healing properties.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Shen_Monkey_Questline.md'.\n\n            Context:\n            - Preceding Text: \"Shen Monkey's Quest\n## Shen Monkey Upgrades and Shop\"\n            - Following Text: \"Talking to the Shen Monkey in his cave, you’ll find that he’s a merchant of gourds, drinks, and brews! Be sure to check all of his options out:\n* **Upgrade Gourds** \\- By using the  Luojia Fragrant Vine you just found by the nearby Shrine, you upgrade the charges in your **Old Gourd** from 4 swigs to 5, turning into a Medicine Gourd, and giving you more uses of its healing properties.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Shen Monkey, a character from a questline, lounging in his cave. The surrounding environment includes large jars and natural elements, suggesting a rustic setting. According to the context, Shen Monkey is a merchant who sells gourds, drinks, and brews. The image serves to visually introduce Shen Monkey in his role as a shopkeeper, emphasizing his laid-back demeanor and the unique atmosphere of his cave shop."
+    "img_above_text": "![Keeness of Tiger 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Keeness_of_Tiger_3.jpg)\nAt the end of the pathway, you will reach a slope leading down. As you step on the slope, jump to reach the platform above, which has the Soak.",
+    "img_below_text": "Soaks are far more plentiful than the drinks for your gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Keeness of Tiger 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Keeness_of_Tiger_3.jpg)\nAt the end of the pathway, you will reach a slope leading down. As you step on the slope, jump to reach the platform above, which has the Soak.\"\n        - Following Text: \"Soaks are far more plentiful than the drinks for your gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character mid-jump towards a higher platform. This action is part of a guide instructing players to jump onto the platform to collect a \"Soak,\" an in-game item used for healing. The red arrow highlights the intended direction of movement."
 }

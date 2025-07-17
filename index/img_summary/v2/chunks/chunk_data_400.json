@@ -1,28 +1,11 @@
 {
-    "chunk_id": 475324104915,
-    "source_file": "Captain_Lotus-Vision.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_34.jpg",
-    "alt_text": "Wukong Pagoda 34.jpg",
-    "position_desc": 3,
-    "img_above_text": "Luckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.\nMuch of this boss's power comes from a purple crystal mounted on the tip of a staff he carries against his shoulder, which will expend a variety of projectile attacks. Some will be easier to anticipate than others, but you'll always want to keep that crystal in view.",
-    "img_below_text": "Early on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.\n![Wukong Pagoda 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Pagoda_35.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Captain_Lotus-Vision.md'.\n\n            Context:\n            - Preceding Text: \"Luckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.\nMuch of this boss's power comes from a purple crystal mounted on the tip of a staff he carries against his shoulder, which will expend a variety of projectile attacks. Some will be easier to anticipate than others, but you'll always want to keep that crystal in view.\"\n            - Following Text: \"Early on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.\n![Wukong Pagoda 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Pagoda_35.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_34.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing a confrontation with the boss character Captain Lotus-Vision. The boss is central in the image, wielding a staff with a purple crystal that emits projectile attacks, as described in the preceding and following text. The environment is dark and atmospheric, with purple projectiles visible in the background, emphasizing the boss's mystical powers. The player character, Wukong, is positioned in the foreground, preparing to engage in combat. This image serves to illustrate the challenging nature of the boss fight and the visual spectacle of the game's combat mechanics."
+    "chunk_id": 752524933530,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Pagoda_90.jpg",
+    "alt_text": "Wukong Pagoda 90.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Pagoda 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg)\nWith a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.",
+    "img_below_text": "To defeat him, stay patient by building up focus points with sustained damage on his leg, using your Spirit Attacks too to rack up damage so that it can stagger the boss, then unleash more combos before your biggest charged up strike to maximize damage to his weak point before he rises. Use Cloud Step to get away from some of his more pesky lighting strikes and beams, and use Immobilize to stop Lotus-Vision's wild melee stomps and attacks (it generally doesn't work to help extend his stunned state).\n![Wukong Pagoda 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Pagoda_91.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg)\nWith a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.\"\n        - Following Text: \"To defeat him, stay patient by building up focus points with sustained damage on his leg, using your Spirit Attacks too to rack up damage so that it can stagger the boss, then unleash more combos before your biggest charged up strike to maximize damage to his weak point before he rises. Use Cloud Step to get away from some of his more pesky lighting strikes and beams, and use Immobilize to stop Lotus-Vision's wild melee stomps and attacks (it generally doesn't work to help extend his stunned state).\n![Wukong Pagoda 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Pagoda_91.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense boss battle scene from *Black Myth: Wukong*, showcasing the protagonist facing \"Captain Wise-Voice,\" a large, grotesque construct-like enemy with tentacle-like appendages. A fiery explosion is visible, likely representing the described ground blast attack. The surrounding environment features intricate, dark architectural designs with lion-headed fixtures. The preceding and following text provides strategies for defeating this boss, emphasizing patience, focus point buildup, Spirit Attacks, and evasion techniques like Cloud Step to counter its powerful abilities."
 }

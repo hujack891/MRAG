@@ -1,28 +1,11 @@
 {
-    "chunk_id": 169106366565,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_23.jpg",
-    "alt_text": "Wukong Pagoda 23.jpg",
-    "position_desc": 24,
-    "img_above_text": "Clear out the archer and the nearby Frozen Corpse after you finish crossing (thankfully the archer won't respawn once killed), and grab a nearby green Wisp to absorb before the outside path crumbles away, forcing you to head into the cell tunnel ring to keep moving forward.\nMove slowly through the darkened hall and be ready for ambushes from Abominations, Withered Corpses, and Cyan Bats on the ceiling.",
-    "img_below_text": "Not far after them, you'll encounter an Enslaved Yaksha. You can think of him as the Frozen Corpse in his prime, as he uses a similar very long sword, and can sweep in wide arcs with it, or thrust forward with a huge amount of reach. Luckily, his attacks are all very slow, and easily baited into a Rock Solid deflection.\n![Wukong Pagoda 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Clear out the archer and the nearby Frozen Corpse after you finish crossing (thankfully the archer won't respawn once killed), and grab a nearby green Wisp to absorb before the outside path crumbles away, forcing you to head into the cell tunnel ring to keep moving forward.\nMove slowly through the darkened hall and be ready for ambushes from Abominations, Withered Corpses, and Cyan Bats on the ceiling.\"\n            - Following Text: \"Not far after them, you'll encounter an Enslaved Yaksha. You can think of him as the Frozen Corpse in his prime, as he uses a similar very long sword, and can sweep in wide arcs with it, or thrust forward with a huge amount of reach. Luckily, his attacks are all very slow, and easily baited into a Rock Solid deflection.\n![Wukong Pagoda 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image shows a dark, rocky tunnel where a character, likely the protagonist, is engaged in combat with an Enslaved Yaksha. The Yaksha, a formidable enemy wielding a long sword, is positioned near a small fire, adding to the eerie atmosphere. The scene highlights a critical moment where the player must navigate through ambushes and defeat the Yaksha to progress in the game. The preceding text describes the dangers of the darkened hall, while the following text provides a strategy for defeating the Yaksha, emphasizing the importance of careful movement and tactical combat."
+    "chunk_id": 440323593362,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Black_Myth_Wukong_Secrets_.png",
+    "alt_text": "Black Myth Wukong Secrets .png",
+    "position_desc": 1,
+    "img_above_text": "Chapter 1 has two secret bosses for you to take on. The first can be found in the chapter's secret area Secret: Ancient Guanyin Temple; the second, you'll find behind a waterfall, but only after collecting the Loong Scales from Chapter 2.\n## Elder Jinchi",
+    "img_below_text": "To access the secret version of the Ancient Guanyin Temple, you'll need to ring 3 bells that are guarded by 3 other bosses you'll encounter in Chapter 1. When you do this, you'll be automatically transported to the secret location, where you can fight Elder Jinchi. Defeating him grants you the Fireproof Mantle Vessel, which can be a huge help in this Chapter.\nElder Jinchi",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Chapter 1 has two secret bosses for you to take on. The first can be found in the chapter's secret area Secret: Ancient Guanyin Temple; the second, you'll find behind a waterfall, but only after collecting the Loong Scales from Chapter 2.\n## Elder Jinchi\"\n        - Following Text: \"To access the secret version of the Ancient Guanyin Temple, you'll need to ring 3 bells that are guarded by 3 other bosses you'll encounter in Chapter 1. When you do this, you'll be automatically transported to the secret location, where you can fight Elder Jinchi. Defeating him grants you the Fireproof Mantle Vessel, which can be a huge help in this Chapter.\nElder Jinchi\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts Elder Jinchi, a secret boss encountered in the Ancient Guanyin Temple in Chapter 1 of the game. Players must ring three bells guarded by other bosses to access the secret temple and fight Elder Jinchi. Defeating him rewards the Fireproof Mantle Vessel, a valuable item for progression in the chapter."
 }

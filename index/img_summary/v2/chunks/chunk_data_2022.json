@@ -1,28 +1,11 @@
 {
-    "chunk_id": 352601180148,
-    "source_file": "Monk_from_the_Sea.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg",
-    "alt_text": "Wukong Thunderclap 20.jpg",
-    "position_desc": 5,
-    "img_above_text": "What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.",
-    "img_below_text": "It'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.\n![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Monk_from_the_Sea.md'.\n\n            Context:\n            - Preceding Text: \"What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.\"\n            - Following Text: \"It'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.\n![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment from the game *Black Myth: Wukong*, showcasing the \"Monk from the Sea\" mid-air during an attack. The snowy environment highlights the danger of his frost-based abilities, which can rapidly increase the player's frost meter. The player character is seen preparing to defend, emphasizing the need for strategic repositioning to avoid frost damage and the Monk's deceptive leap attacks. The scene visually reinforces the challenging nature of this boss fight."
+    "chunk_id": 658372256560,
+    "source_file": "Old_Ginseng_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Old_Gensing_Guai_Power.png",
+    "alt_text": "Old Gensing Guai Power.png",
+    "position_desc": 3,
+    "img_above_text": "The Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.\n## Old Ginseng Guai Spirit",
+    "img_below_text": "* **Ginseng Roots**\n* Equipped Effect: Moderately increases the Maximum Health of summoned minions.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.\n## Old Ginseng Guai Spirit\"\n        - Following Text: \"* **Ginseng Roots**\n* Equipped Effect: Moderately increases the Maximum Health of summoned minions.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Old Ginseng Guai\" Spirit in a video game, categorized as an Epic-tier item under the Equipment menu. Its ability, \"Ginseng Roots,\" allows the player to take the form of Old Ginseng Guai, summon Ginsenlings to attack foes, and enhance combat strategies. The equipped effect moderately increases the maximum health of summoned minions, supporting a summoning-focused playstyle. The interface also provides options to equip, watch a demo, and view detailed stats."
 }

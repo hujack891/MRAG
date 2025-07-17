@@ -1,28 +1,11 @@
 {
-    "chunk_id": 359608549621,
-    "source_file": "Crafting_Materials.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Starlit_Cloud-Bidden_Antler_.jpg",
-    "alt_text": "Starlit Cloud-Bidden Antler .jpg",
-    "position_desc": 19,
-    "img_above_text": "• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4",
-    "img_below_text": "![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4\"\n            - Following Text: \"![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Starlit_Cloud-Bidden_Antler_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the \"Mountain-Shaking Claw,\" a legendary special crafting material in *Black Myth: Wukong*. It is likely a rare and valuable item used for crafting or upgrading equipment. Based on the context, it is obtained by defeating the Cyan Loong on Turtle Island in The New West, with the prerequisite of acquiring Loong Scales. The intricate design of the claw emphasizes its rarity and importance in the game's narrative and progression."
+    "chunk_id": 153454304007,
+    "source_file": "Crouching_Tiger_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Tiger_25.jpg",
+    "alt_text": "Wukong Tiger 25.jpg",
+    "position_desc": 26,
+    "img_above_text": "Yellow Wind Ridge Celestial Jade Lotus Pill\nPast the Celestial Pill, there will be a large pillar decoration, with a passage on the other side leading down to an open cave below the temple.",
+    "img_below_text": "Here, you’ll find a large group of unique enemies not found elsewhere - Civet Sergeants. These small cat-like Yaoguai are armed with two swords apiece, and are led by an emboldened Civet Sergeant who boasts more health and attack, as he drops the Civet Sergeant Spirit when killed.\n![Wukong Tiger 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Tiger_26.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Yellow Wind Ridge Celestial Jade Lotus Pill\nPast the Celestial Pill, there will be a large pillar decoration, with a passage on the other side leading down to an open cave below the temple.\"\n        - Following Text: \"Here, you’ll find a large group of unique enemies not found elsewhere - Civet Sergeants. These small cat-like Yaoguai are armed with two swords apiece, and are led by an emboldened Civet Sergeant who boasts more health and attack, as he drops the Civet Sergeant Spirit when killed.\n![Wukong Tiger 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Tiger_26.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game *Black Myth: Wukong*, showing the player character engaged in battle within a dimly lit, rocky cave environment. The preceding and following text suggests this area is located below a temple, where unique enemies called Civet Sergeants, small cat-like creatures armed with dual swords, are encountered. The interface displays health, stamina, and abilities, emphasizing the game's action-oriented mechanics."
 }

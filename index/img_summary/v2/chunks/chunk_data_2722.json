@@ -1,28 +1,11 @@
 {
-    "chunk_id": 53513097248,
-    "source_file": "Soaks.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg",
-    "alt_text": "Gall Gem .jpg",
-    "position_desc": 1,
-    "img_above_text": "Image | Soak | Rarity | Effect | Location | Collected\n---|---|---|---|---|---",
-    "img_below_text": "![Celestial Lotus Seeds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg)| Celestial Lotus Seeds| Rare | For a brief moment after using the gourd, slowly recovers a small amount of health | Found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Celestial Lotus Seeds\n![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Soaks.md'.\n\n            Context:\n            - Preceding Text: \"Image | Soak | Rarity | Effect | Location | Collected\n---|---|---|---|---|---\"\n            - Following Text: \"![Celestial Lotus Seeds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg)| Celestial Lotus Seeds| Rare | For a brief moment after using the gourd, slowly recovers a small amount of health | Found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Celestial Lotus Seeds\n![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a set of black, spherical objects tied with string, placed on a decorative plate. Based on the preceding and following text, this image is likely associated with an item called \"Celestial Lotus Seeds\" from the game \"Black Myth: Wukong.\" The seeds are described as rare and have the effect of slowly recovering a small amount of health when used. They can be found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain. The image serves to visually represent these in-game items."
+    "chunk_id": 177423023520,
+    "source_file": "Venom_Daoist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_UpperHollow_39.jpg",
+    "alt_text": "Wukong UpperHollow 39.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong UpperHollow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_UpperHollow_38.jpg)\nWith a quick dodge to the side and behind him, you can avoid his first two attacks, and then sidestep his leap and begin your counterattack -- as it takes him several moments to rise up a second time.",
+    "img_below_text": "If you see him hold his sword to the side but one sword high up behind his back, it means he's going to charge at you at a very fast speed. Dodge to the side, but then be ready for a second dash to come soon after requiring you to dodge once more. Try dodging alongside his second dash or lure him into a corner, and you'll find time to hit him while he resets himself.\n![Wukong UpperHollow 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_UpperHollow_40.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_UpperHollow_38.jpg)\nWith a quick dodge to the side and behind him, you can avoid his first two attacks, and then sidestep his leap and begin your counterattack -- as it takes him several moments to rise up a second time.\"\n        - Following Text: \"If you see him hold his sword to the side but one sword high up behind his back, it means he's going to charge at you at a very fast speed. Dodge to the side, but then be ready for a second dash to come soon after requiring you to dodge once more. Try dodging alongside his second dash or lure him into a corner, and you'll find time to hit him while he resets himself.\n![Wukong UpperHollow 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_UpperHollow_40.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong* between the player character, armed with a fiery weapon, and a boss enemy named \"Venom Daoist.\" The scene is set in a dark, eerie environment with stone walls and scattered debris. The preceding text provides tips for dodging the boss's initial attacks and counterattacking, while the following text warns of the boss's charging moves and advises strategic dodging to create openings for attacks. The image visually complements the guide's instructions by showcasing the tense confrontation."
 }

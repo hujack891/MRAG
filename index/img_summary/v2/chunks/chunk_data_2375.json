@@ -1,28 +1,11 @@
 {
-    "chunk_id": 30588676505,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg",
-    "alt_text": "Wukong Pagoda 104.jpg",
-    "position_desc": 100,
-    "img_above_text": "The main path leads up a slope to the left of the Shrine, and then to a large rock-filled forested area further left that you can ignore if you keep on the main path up to the Warding Temple where the last boss of this area is.\nHowever, you can first explore a second short area off to the right from the Shrine leading downhill.",
-    "img_below_text": "Crossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.\n![Wukong Pagoda 105.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 100 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The main path leads up a slope to the left of the Shrine, and then to a large rock-filled forested area further left that you can ignore if you keep on the main path up to the Warding Temple where the last boss of this area is.\nHowever, you can first explore a second short area off to the right from the Shrine leading downhill.\"\n            - Following Text: \"Crossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.\n![Wukong Pagoda 105.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character navigating through a snowy, rocky terrain towards a rope bridge guarded by statues, likely part of a challenging path in the game \"Black Myth: Wukong.\" This scene sets the stage for the player to cross a gorge and enter a snowfield filled with hidden Frozen Corpses, emphasizing the need for cautious progression due to low visibility and potential threats."
+    "chunk_id": 660512409340,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg",
+    "alt_text": "Wukong Snowhill 30.jpg",
+    "position_desc": 29,
+    "img_above_text": "![Wukong Snowhill 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Snowhill_29.jpg)\nLook for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.",
+    "img_below_text": "Finally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.\n![Wukong Snowhill 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Snowhill_29.jpg)\nLook for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.\"\n        - Following Text: \"Finally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.\n![Wukong Snowhill 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Keeper of the New West,\" a character introduced in the snowy temple ruins of *Black Myth: Wukong*. The Keeper, with a distinctive bird-like appearance and red facial features, greets the player as the \"Destined One,\" signaling their role as a guide for the region. This encounter follows a battle with a Cyan Bat and looting a treasure chest, and precedes exploration of the temple's open areas."
 }

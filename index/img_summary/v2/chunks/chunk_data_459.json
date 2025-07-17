@@ -1,28 +1,11 @@
 {
-    "chunk_id": 510674376769,
-    "source_file": "Centipede_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_MiddleHollow_45.jpg",
-    "alt_text": "Wukong MiddleHollow 45.jpg",
-    "position_desc": 7,
-    "img_above_text": "While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.",
-    "img_below_text": "At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Centipede_Guai.md'.\n\n            Context:\n            - Preceding Text: \"While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.\"\n            - Following Text: \"At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_MiddleHollow_45.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense combat scenario against the \"Centipede Guai,\" a large, menacing creature in a dark, skeletal-strewn environment. The player character is engaged in battle, with glowing weapons and abilities visible, suggesting strategic use of skills. The preceding and following text describes the creature's attack patterns and vulnerabilities, including its susceptibility to well-timed counters and its dangerous moves at lower health, such as curling into a ball for aerial slams and claw swipes. The image visually reinforces the narrative's focus on timing, adaptability, and exploiting openings during the fight."
+    "chunk_id": 662175564196,
+    "source_file": "Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg",
+    "alt_text": "Wukong Yellow 34.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Yellow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg)\nWhen you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off in search of a meaty meal. He doesn’t actually want you to get some for him, and will set off himself to the Crouching Tiger Temple.",
+    "img_below_text": "At the temple entrance, start to head up the stairs, and then turn right before the top — opposite where the Meditation Spot is. You’ll find the Boar resting against a far wall under one of the giant tiger sculptures.He’ll complain of the poor meat quality, and instead ask that you bring him a **Jade Lotus**. If you don’t already have plenty gathered, you’ll find Jade Lotus to harvest in most ponds and bodies of water, like the one right at the start of the chapter.\n![Wukong Yellow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Yellow_35.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg)\nWhen you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off in search of a meaty meal. He doesn’t actually want you to get some for him, and will set off himself to the Crouching Tiger Temple.\"\n        - Following Text: \"At the temple entrance, start to head up the stairs, and then turn right before the top — opposite where the Meditation Spot is. You’ll find the Boar resting against a far wall under one of the giant tiger sculptures.He’ll complain of the poor meat quality, and instead ask that you bring him a **Jade Lotus**. If you don’t already have plenty gathered, you’ll find Jade Lotus to harvest in most ponds and bodies of water, like the one right at the start of the chapter.\n![Wukong Yellow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Yellow_35.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* standing near the Drunken Boar character, who is resting against a wall beneath a large tiger statue at the Crouching Tiger Temple. The Boar is requesting a **Jade Lotus**, which can be gathered from ponds and bodies of water. This scene advances the quest narrative, where the player must collect the requested item to fulfill the Boar's request."
 }

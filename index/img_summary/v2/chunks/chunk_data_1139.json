@@ -1,28 +1,11 @@
 {
-    "chunk_id": 100310004316,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Foothills_Walkthrough_%28139%29.png",
-    "alt_text": "Foothills Walkthrough \\(139\\).png",
-    "position_desc": 51,
-    "img_above_text": "When you've beaten the third Poison Chief, head over to the start of the red trees. As you enter the clearing with the lightning, you'll find the next Keeper's Shrine on the left.\n## Deer Sight Forest",
-    "img_below_text": "Activate the Deer Sight Forest Keeper's Shrine and go toward the lightning and red tree in the middle of the clearing. Underneath the tree sits the Cloudtreading Deer.\n### Yaoguai Chief - Cloudtreading Deer",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 51 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When you've beaten the third Poison Chief, head over to the start of the red trees. As you enter the clearing with the lightning, you'll find the next Keeper's Shrine on the left.\n## Deer Sight Forest\"\n            - Following Text: \"Activate the Deer Sight Forest Keeper's Shrine and go toward the lightning and red tree in the middle of the clearing. Underneath the tree sits the Cloudtreading Deer.\n### Yaoguai Chief - Cloudtreading Deer\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Foothills_Walkthrough_%28139%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a misty clearing surrounded by striking red trees, likely representing the entrance to Deer Sight Forest. This area is significant in the narrative as it leads to the Keeper's Shrine and the encounter with the Cloudtreading Deer, a Yaoguai Chief located beneath the central red tree. The visual emphasizes the eerie and mystical atmosphere of the location, aligning with the game's progression and exploration themes."
+    "chunk_id": 764368624494,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Fright_2.jpg",
+    "alt_text": "Wukong Fright 2.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nAs you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.",
+    "img_below_text": "Heading toward the archway in the distance, you can find a green Wisp to absorb on the left side of the broken rock pathway, and on the right is a new type of enemy that will try to ambush you. This Pitstone is a mass of rock and skulls on legs, and will try to use its weight to jump down on you, and perform somersaults to use its momentum to slam into you. If they prove to be a problem to evade, consider using the Thrust Stance to charge up attacks from a distance and shatter them.\n![Wukong Fright 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nAs you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.\"\n        - Following Text: \"Heading toward the archway in the distance, you can find a green Wisp to absorb on the left side of the broken rock pathway, and on the right is a new type of enemy that will try to ambush you. This Pitstone is a mass of rock and skulls on legs, and will try to use its weight to jump down on you, and perform somersaults to use its momentum to slam into you. If they prove to be a problem to evade, consider using the Thrust Stance to charge up attacks from a distance and shatter them.\n![Wukong Fright 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Fright_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, where the player character is engaging a Pitstone enemy, a creature composed of rock and skulls. The Pitstone appears to be mid-attack, with debris flying from the impact of its movement. The player is wielding a staff and seems to be evading or countering the enemy's assault. The interface shows health bars, abilities, and controls, emphasizing the tactical nature of the encounter described in the guide."
 }

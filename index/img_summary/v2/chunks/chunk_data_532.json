@@ -1,28 +1,11 @@
 {
-    "chunk_id": 60729611304,
-    "source_file": "Chapter_3_Secret_-_Mount_Mei_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Mount_Mei_Walkthrough_%284%29.png",
-    "alt_text": "Mount Mei Walkthrough \\(4\\).png",
-    "position_desc": 7,
-    "img_above_text": "The second stage is a series of combo attacks, where he'll use his staff and swap between a small version of the axe or a sword. When he has the sword, you can expect projectiles to follow. These can be blocked by spinning your sword or dodging.\nThe problem with this stage is getting the timings right, as his attacks can often seem delayed from when they feel like they should end. If you're using Spells, do not try to use Immobilize until his shield is down again. You'll want to keep hitting him and use Cloudstep to build up your Focus, then whittle his shield down or use the Plantain Fan to do it, if you can get it back quickly. All other Spells aren't worth wasting your Mana on.",
-    "img_below_text": "When his shield is down again, follow up with heavy attacks, and Immobilize if you're using Spells. He'll quickly reach 50% health and go up in the air again.\nThis time, he'll shoot a laser beam from his forehead toward you, and duplicates will appear one after the other, pointing beams at you. You can dodge these to build up focus and avoid their attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Chapter_3_Secret_-_Mount_Mei_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The second stage is a series of combo attacks, where he'll use his staff and swap between a small version of the axe or a sword. When he has the sword, you can expect projectiles to follow. These can be blocked by spinning your sword or dodging.\nThe problem with this stage is getting the timings right, as his attacks can often seem delayed from when they feel like they should end. If you're using Spells, do not try to use Immobilize until his shield is down again. You'll want to keep hitting him and use Cloudstep to build up your Focus, then whittle his shield down or use the Plantain Fan to do it, if you can get it back quickly. All other Spells aren't worth wasting your Mana on.\"\n            - Following Text: \"When his shield is down again, follow up with heavy attacks, and Immobilize if you're using Spells. He'll quickly reach 50% health and go up in the air again.\nThis time, he'll shoot a laser beam from his forehead toward you, and duplicates will appear one after the other, pointing beams at you. You can dodge these to build up focus and avoid their attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Mount_Mei_Walkthrough_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dramatic moment in a snowy mountainous setting, where a lone warrior armed with a glowing weapon faces a laser beam being emitted from a distant structure. The beam cuts across the landscape, emphasizing the intensity of the encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the boss battle described in the text. It visually represents the phase where the boss, after reaching 50% health, ascends and begins attacking with a laser beam. The setting and the beam's trajectory highlight the need for strategic dodging and focus-building, as mentioned in the guide."
+    "chunk_id": 674603020866,
+    "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_14.jpg",
+    "alt_text": "Wukong PurpleCloud 14.jpg",
+    "position_desc": 19,
+    "img_above_text": "![Wukong PurpleCloud 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg)\nDo note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!",
+    "img_below_text": "Another move he often follows up his initial combo with will start when you see him roll forward on the ground. He'll start rapidly spinning to send his tail whirling along the ground with him three times in quick succession, before rising up and slashing upward with his tail as he does.\n![Wukong PurpleCloud 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_PurpleCloud_16.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong PurpleCloud 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg)\nDo note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!\"\n        - Following Text: \"Another move he often follows up his initial combo with will start when you see him roll forward on the ground. He'll start rapidly spinning to send his tail whirling along the ground with him three times in quick succession, before rising up and slashing upward with his tail as he does.\n![Wukong PurpleCloud 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_PurpleCloud_16.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from *Black Myth: Wukong*, showcasing \"The Scorpionlord\" mid-attack. The boss appears to be executing a tail-based move, potentially the leaping stab or spinning attack described in the accompanying text. The setting features an autumnal outdoor environment, with the player's HUD visible, indicating active gameplay."
 }

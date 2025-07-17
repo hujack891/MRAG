@@ -1,28 +1,11 @@
 {
-    "chunk_id": 675560045628,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Pagoda_115.jpg",
-    "alt_text": "Wukong Pagoda 115.jpg",
-    "position_desc": 111,
-    "img_above_text": "![Wukong Pagoda 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Pagoda_114.jpg)\nHead through the rest of the valley and deal with a Yaksha Patroller, which will lead to another rope bridge leading to a higher ledge.",
-    "img_below_text": "Up ahead, you'll find a large stone obelisk with a **Treasure Chest** at its base, which is unfortunately guarded by another strong Abomination with its twin tentacle appendages. Time your attack carefully to avoid its high damage strikes, and then loot the chest to gain some valuable items, which should include a Knot of Voidness and Blood of the Iron Bull.\n![Wukong Pagoda 116.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_116.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 111 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Pagoda_114.jpg)\nHead through the rest of the valley and deal with a Yaksha Patroller, which will lead to another rope bridge leading to a higher ledge.\"\n            - Following Text: \"Up ahead, you'll find a large stone obelisk with a **Treasure Chest** at its base, which is unfortunately guarded by another strong Abomination with its twin tentacle appendages. Time your attack carefully to avoid its high damage strikes, and then loot the chest to gain some valuable items, which should include a Knot of Voidness and Blood of the Iron Bull.\n![Wukong Pagoda 116.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_116.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Pagoda_115.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy landscape with a large stone structure in the background. In the foreground, a character appears to be in combat with a tentacled creature near a treasure chest. This scene follows the player's encounter with a Yaksha Patroller and precedes the discovery of a stone obelisk with a treasure chest guarded by a strong Abomination. The image highlights the challenging combat scenario and the guarded treasure that the player must overcome to progress."
+    "chunk_id": 342748914011,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Snow_Fox_Questline_%287%29.png",
+    "alt_text": "Snow Fox Questline \\(7\\).png",
+    "position_desc": 1,
+    "img_above_text": "The Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox",
+    "img_below_text": "To meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.\n![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Snow Fox is a character you can encounter in Chapter 3 of Black Myth: Wukong. Completing her side quest will unlock a secret boss for you to take on and a unique Curio.\n## Where to Find the Snow Fox\"\n        - Following Text: \"To meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.\n![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character standing near a lit incense burner with the prompt \"Offer Incense\" displayed. In the snowy environment, a wooden path leads toward a red torii gate, with a figure faintly visible in the distance, highlighted by a red marker. This setting is likely part of the Snow Fox questline in Chapter 3, guiding players to interact with the environment and progress the quest."
 }

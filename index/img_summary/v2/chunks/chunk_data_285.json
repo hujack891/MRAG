@@ -1,28 +1,11 @@
 {
-    "chunk_id": 6742625039,
+    "chunk_id": 59031495830,
     "source_file": "Black_Wind_Cave_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_BlackWind_5.jpg",
-    "alt_text": "Wukong BlackWind 5.jpg",
-    "position_desc": 4,
-    "img_above_text": "Next to the Meditation Spot, you can also find a small golden pot that holds a **Celestial Taiyi Pill** , which will greatly increase your maximum mana like the other pill did for your health.\nBlack Wind Mountain Celestial Taiyi Pill",
-    "img_below_text": "Return to the path and take the stairs up to fight against another Wolf Assassin as the cave grows dark, and draw them into the light if needed.\nAs you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Black_Wind_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Next to the Meditation Spot, you can also find a small golden pot that holds a **Celestial Taiyi Pill** , which will greatly increase your maximum mana like the other pill did for your health.\nBlack Wind Mountain Celestial Taiyi Pill\"\n            - Following Text: \"Return to the path and take the stairs up to fight against another Wolf Assassin as the cave grows dark, and draw them into the light if needed.\nAs you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_BlackWind_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player-character in a dark cave environment, preparing to engage an enemy, identified as a Wolf Assassin. The character wields a staff and is positioned on a stone pathway surrounded by vegetation. The enemy is partially illuminated in the distance, emphasizing the importance of light in combat within the cave's dark setting.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the gameplay challenge described in the following text, where players must navigate a darkened cave and face Wolf Assassins who actively destroy light sources to increase the difficulty of combat. It serves to highlight the importance of using light strategically to counter the darkness and gain an advantage against enemies."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_BlackWind_16.jpg",
+    "alt_text": "Wukong BlackWind 16.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)\nThese can include a length combo that he’ll usually start with a shove before stabbing his spear into the ground in front of him, then grabbing onto it to launch himself off feet first before quickly slicing downward at you, and then slamming his fist down for a massive explosion you’ll want to steer clear of.",
+    "img_below_text": "After his next Black Wind assault, be ready to transform using the Red Tides Spell, and charge up a dash attack the moment he lands in the center of the arena, and use it and the transformation spell’s pogo attack to perform a massive hit once you catch him after a teleport.\n![Wukong BlackWind 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_BlackWind_17.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)\nThese can include a length combo that he’ll usually start with a shove before stabbing his spear into the ground in front of him, then grabbing onto it to launch himself off feet first before quickly slicing downward at you, and then slamming his fist down for a massive explosion you’ll want to steer clear of.\"\n        - Following Text: \"After his next Black Wind assault, be ready to transform using the Red Tides Spell, and charge up a dash attack the moment he lands in the center of the arena, and use it and the transformation spell’s pogo attack to perform a massive hit once you catch him after a teleport.\n![Wukong BlackWind 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_BlackWind_17.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, where the protagonist battles the \"Black Wind King,\" a powerful enemy. The player is shown utilizing two attack options, \"Moon Dance\" (light attack) and \"Moon Chase\" (heavy attack), while the boss delivers dialogue accusing the player of failing to guard the bells for their master. The preceding and following text suggests this fight involves the boss's complex attack patterns, requiring strategic use of spells and abilities to counter his moves effectively."
 }

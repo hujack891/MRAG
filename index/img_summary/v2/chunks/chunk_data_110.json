@@ -1,28 +1,11 @@
 {
-    "chunk_id": 567755533774,
-    "source_file": "Baw-Li-Guhh-Lang_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Baw-Li-Guhh-Lang.jpg",
-    "alt_text": "Baw-Li-Guhh-Lang.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Baw-Li-Guhh-Lang Spirit\nBaw-Li-Guhh-Lang can be fully upgraded using Tadpoles to unlock the Baw-Baw-Lang-Lang Spirit!",
-    "img_below_text": "## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Baw-Li-Guhh-Lang_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Baw-Li-Guhh-Lang Spirit\nBaw-Li-Guhh-Lang can be fully upgraded using Tadpoles to unlock the Baw-Baw-Lang-Lang Spirit!\"\n            - Following Text: \"## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Baw-Li-Guhh-Lang.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter with the creature \"Baw-Li-Guhh-Lang,\" a large frog-like enemy engulfed in fiery effects. The player is engaged in battle, with on-screen prompts for \"Light Attack\" (Moon Dance) and \"Heavy Attack\" (Moon Chase), suggesting available combat abilities. The creature's health bar is visible at the bottom, indicating its role as a significant adversary.\n\n2. **Image Purpose and Narrative Role**:  \nThe image illustrates a key moment in the game where the player confronts the Baw-Li-Guhh-Lang, likely as part of a quest to unlock the Baw-Baw-Lang-Lang Spirit. It serves to visually represent the creature and its combat mechanics, connecting to the preceding text about upgrading the spirit and the following text about locating this creature at the Snake Trail Keeper's Shrine."
+    "chunk_id": 644744102880,
+    "source_file": "Beetle_Captain_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Beetle_Captain_Location.jpg",
+    "alt_text": "Beetle Captain Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Beetle Captain Location\nThe Beetle Captain can be found guarding a single chest in a small clearing in the Webbed Hollow. To get there, reach the Upper Hollow Keeper's Shrine and run up the stairs right next to it. Turn right and start making your way down the path into the caves beyond. It will take a decent amount of time to get there, but if you stick to the right, you will reach the Beetle Captain eventually.",
+    "img_below_text": "## Beetle Captain Fight\nThe Beetle Captain fights like all others of its kind. It is armed with two swords that it uses to slash and stab at you. The Beetle Captain also has large, white wings on its back that allow it to fly up into the air and slash you as it crashes back down to the ground. It can also fly up and charge you, stabbing in quick succession with both swords.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Beetle Captain Location\nThe Beetle Captain can be found guarding a single chest in a small clearing in the Webbed Hollow. To get there, reach the Upper Hollow Keeper's Shrine and run up the stairs right next to it. Turn right and start making your way down the path into the caves beyond. It will take a decent amount of time to get there, but if you stick to the right, you will reach the Beetle Captain eventually.\"\n        - Following Text: \"## Beetle Captain Fight\nThe Beetle Captain fights like all others of its kind. It is armed with two swords that it uses to slash and stab at you. The Beetle Captain also has large, white wings on its back that allow it to fly up into the air and slash you as it crashes back down to the ground. It can also fly up and charge you, stabbing in quick succession with both swords.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character facing the Beetle Captain in a dimly lit cave environment, as described in the walkthrough. The Beetle Captain, a humanoid beetle-like enemy, stands near a chest, illuminated by nearby torches. This scene aligns with the guide's instructions for locating the Beetle Captain in the Webbed Hollow before engaging in combat."
 }

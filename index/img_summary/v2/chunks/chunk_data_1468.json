@@ -1,28 +1,11 @@
 {
-    "chunk_id": 892870305391,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg",
-    "alt_text": "Wukong Brook 6.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.",
-    "img_below_text": "This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\"\n            - Following Text: \"This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a snowy, serene landscape featuring a character standing near a reflective lake surrounded by frost-covered trees and rocky cliffs. The character appears to be holding a staff, suggesting they are engaged in exploration or preparation for an action. The metadata \"Gentian x2\" indicates the collection of an item, likely a plant or resource, which ties into the gameplay narrative. Based on the preceding and following text, this scene serves as a transitional point in the quest to uncover the secret Melon Field, with the player likely gathering clues or resources before heading downhill toward the Brook of Bliss."
+    "chunk_id": 981730785642,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Chapter_2_Secret_Area_%283%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(3\\).png",
+    "position_desc": 4,
+    "img_above_text": "![Chapter 2 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Chapter_2_Secret_Area_%285%29.png)\nThe easiest way to get the Sobering Stone is through exploration and waiting until you reach the Yellow Sand Formation. The first place you'll come to is Windrest Bridge, which will take you up to Windrest Hamlet.",
+    "img_below_text": "From the Windrest Bridge Keeper's Shrine, go across the bridge and into the small town ruins. On the other side of the bridge, go left. Then, take the stairs up to the right.\n![Chapter 2 Secret Area \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Chapter_2_Secret_Area_%284%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 2 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Chapter_2_Secret_Area_%285%29.png)\nThe easiest way to get the Sobering Stone is through exploration and waiting until you reach the Yellow Sand Formation. The first place you'll come to is Windrest Bridge, which will take you up to Windrest Hamlet.\"\n        - Following Text: \"From the Windrest Bridge Keeper's Shrine, go across the bridge and into the small town ruins. On the other side of the bridge, go left. Then, take the stairs up to the right.\n![Chapter 2 Secret Area \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Chapter_2_Secret_Area_%284%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a desolate, rural environment approaching a path leading toward a small town or village ruins. An arrow highlights the direction to proceed, aligning with the walkthrough's instructions to cross the Windrest Bridge and explore the area for progression. This scene serves as a visual guide for navigating toward the next objective in *Black Myth: Wukong*."
 }

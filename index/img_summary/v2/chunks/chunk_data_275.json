@@ -1,28 +1,11 @@
 {
-    "chunk_id": 108459710275,
-    "source_file": "Black_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_BlackLoong_7.jpg",
-    "alt_text": "Wukong BlackLoong 7.jpg",
-    "position_desc": 14,
-    "img_above_text": "![Wukong BlackLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_BlackLoong_5.jpg)\nIf you spot the Black Loong raising his weapons high in a slow manner while they crackle to life, it’s a sign he’s going to bang them together slowly three times, causing explosions in the air that gradually increase in range. This is a good time to sprint to safety and use your medicines while you wait for the attack to end.",
-    "img_below_text": "However, the most dire of his attacks will come when he seems to emit even more electricity coming from his mouth and arcing around his body. Listen carefully to the drumbeat of the music, as he’ll start to pound the very earth in time with the drum beats, causing several rings of electric energy to expel outward.\nGetting hit by even a few of these will quickly deplete your healthbar, and you’ll have to stop everything to focus on evasion. While it is possible to get on top of your staff in the Pillar Stance, each electric ring will take a chunk out of your stamina, and this segment lasts far too long to wait out in this style.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Black_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_BlackLoong_5.jpg)\nIf you spot the Black Loong raising his weapons high in a slow manner while they crackle to life, it’s a sign he’s going to bang them together slowly three times, causing explosions in the air that gradually increase in range. This is a good time to sprint to safety and use your medicines while you wait for the attack to end.\"\n            - Following Text: \"However, the most dire of his attacks will come when he seems to emit even more electricity coming from his mouth and arcing around his body. Listen carefully to the drumbeat of the music, as he’ll start to pound the very earth in time with the drum beats, causing several rings of electric energy to expel outward.\nGetting hit by even a few of these will quickly deplete your healthbar, and you’ll have to stop everything to focus on evasion. While it is possible to get on top of your staff in the Pillar Stance, each electric ring will take a chunk out of your stamina, and this segment lasts far too long to wait out in this style.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_BlackLoong_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense boss battle in *Black Myth: Wukong* against the Black Loong, a fearsome, electrified dragon-like creature. The scene highlights the creature's electrical attacks, with arcs of lightning emanating from its body and mouth, as it clashes with the protagonist wielding a staff. The surrounding environment is a desolate, rocky battlefield, emphasizing the high-stakes nature of the fight. This image visually complements the preceding and following text, which provides strategies for avoiding the Black Loong's devastating area-of-effect attacks and managing stamina during the prolonged encounter."
+    "chunk_id": 234018455000,
+    "source_file": "Black_Wind_Cave_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Wukong_BlackWind_6.jpg",
+    "alt_text": "Wukong BlackWind 6.jpg",
+    "position_desc": 5,
+    "img_above_text": "As you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.\n## Cave Interior",
+    "img_below_text": "As you finally reach a large open part of the cave that allows light in, it will shine down on a temple nestled within the cave, where two Wolf Sentinels guard a nearby Shrine. With the shrine so close, go wild with your abilities and spells to quickly mow them down, then rest up.\nNow that you’ve defeated the Whiteclad Noble, new upgrades will be available for your gear in the Shrine’s menu — including three pieces of the Serpentscale Set, and the Twin Snake Staff that you can upgrade from your existing staff by using the Jade Fang the noble dropped.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.\n## Cave Interior\"\n        - Following Text: \"As you finally reach a large open part of the cave that allows light in, it will shine down on a temple nestled within the cave, where two Wolf Sentinels guard a nearby Shrine. With the shrine so close, go wild with your abilities and spells to quickly mow them down, then rest up.\nNow that you’ve defeated the Whiteclad Noble, new upgrades will be available for your gear in the Shrine’s menu — including three pieces of the Serpentscale Set, and the Twin Snake Staff that you can upgrade from your existing staff by using the Jade Fang the noble dropped.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene within a lush, partially illuminated cave environment where the player character is engaging in combat with an assassin-like enemy. The player appears to be mid-action, wielding a weapon, while the enemy is positioned near a brighter area of the cave. The HUD displays abilities, health, and stamina bars, along with a notification indicating the collection of \"Jade Lotus x2.\" This moment aligns with the guide's context, emphasizing combat strategies in darker areas and the transition toward a brighter, more open section of the cave."
 }

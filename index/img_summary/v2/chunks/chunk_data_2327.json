@@ -1,28 +1,11 @@
 {
-    "chunk_id": 972735830482,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_Pagoda_55.jpg",
-    "alt_text": "Wukong Pagoda 55.jpg",
-    "position_desc": 52,
-    "img_above_text": "If you survive the fall, make sure to use the Incense Trail Talisman to quickly warp back to the Shrine instead of having to make the climb yet again.\nThere are a few strategies to try if you're having trouble here. Since trying to move while staff-spinning will just send you over the edge, you should instead try to use Cloud Step to evade their arrows and try to kill the archer on the platform quickly (he won't respawn) and then run from the Cyan Bat.",
-    "img_below_text": "You can also try launching yourself to the archer in the window, by jumping and using a midair heavy attack to give yourself a boost over to the window... but do note that he's not alone.\n![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 52 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"If you survive the fall, make sure to use the Incense Trail Talisman to quickly warp back to the Shrine instead of having to make the climb yet again.\nThere are a few strategies to try if you're having trouble here. Since trying to move while staff-spinning will just send you over the edge, you should instead try to use Cloud Step to evade their arrows and try to kill the archer on the platform quickly (he won't respawn) and then run from the Cyan Bat.\"\n            - Following Text: \"You can also try launching yourself to the archer in the window, by jumping and using a midair heavy attack to give yourself a boost over to the window... but do note that he's not alone.\n![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_Pagoda_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is attempting to reach an archer positioned in a window on a cliffside. The character is seen performing a midair maneuver, likely a heavy attack, to boost themselves towards the archer. This action is part of a strategy to quickly eliminate the archer, who does not respawn, and avoid falling off the narrow ledge or being attacked by other enemies, such as the Cyan Bat."
+    "chunk_id": 886630014958,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Eye6.jpg",
+    "alt_text": "Wukong Eye6.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Eye5P1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Eye5P1.jpg)\n* Between the Squall Hideout and Rockrest Flat Shrines, you can find a large cave and tunnel leading to the Mother of Stones Yaoguai Chief fight. Take a right when looking at the boss to find a cave exit onto a small raised platform, and you'll find a statue head here.",
+    "img_below_text": "* Finally, when resting at the Rockrest Flat Shrine, you need only advance forward toward the entrance to the Stone Vanguard / Shigandang Boss Fights to find the final statue and Buddha's Eyeball.\n## Shigandang Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Eye5P1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Eye5P1.jpg)\n* Between the Squall Hideout and Rockrest Flat Shrines, you can find a large cave and tunnel leading to the Mother of Stones Yaoguai Chief fight. Take a right when looking at the boss to find a cave exit onto a small raised platform, and you'll find a statue head here.\"\n        - Following Text: \"* Finally, when resting at the Rockrest Flat Shrine, you need only advance forward toward the entrance to the Stone Vanguard / Shigandang Boss Fights to find the final statue and Buddha's Eyeball.\n## Shigandang Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the \"Rockrest Flat\" area near \"Fright Cliff.\" The player character is interacting with a small shrine while holding a staff. In the background, a red-dotted circle highlights a distant object of interest, possibly a statue head or related item. This area is part of the walkthrough where players locate Buddha's Eyeballs and progress toward the Stone Vanguard/Shigandang boss fights."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 753678533184,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg",
-    "alt_text": "Wukong MadTiger 19.jpg",
-    "position_desc": 21,
-    "img_above_text": "![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)\nOther times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.",
-    "img_below_text": "And if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.\n![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)\nOther times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.\"\n            - Following Text: \"And if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.\n![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist Wukong engaged in combat with the formidable Mad Tiger. The preceding text describes the Mad Tiger's powerful attack where it leaps across the room to deliver a massive boulder, while the following text mentions the Mad Tiger's secret grab move that often follows being staggered. The image visually captures the intensity and danger of the encounter, highlighting the Mad Tiger's aggressive and unpredictable fighting style."
+    "chunk_id": 12396261951,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Secrets_Wukong_.png",
+    "alt_text": "Secrets Wukong .png",
+    "position_desc": 2,
+    "img_above_text": "* Red Tides Transformation Spell\n## Wandering Wight - Missable Spirit",
+    "img_below_text": "The Wandering Wight boss isn't a secret, but the **Wandering Wight Spirit is missable** and that's not made clear. You'll need to pass the Wandering Wight to get out of the Forest of Wolves and onto the next part of Chapter 1 - Black Cloud, Red Fire, but it can be tempting to leave the challenging fight until the end and return to it later. Whatever you do, **beat him before you unlock the secret area in Chapter 1 that requires ringing the bells.**\nTo be clear, if you defeat him on your first encounter with him, you won't be able to collect his spirit until you've got the Gourd further on in the chapter. But if you don't defeat him before ringing the bells and unlocking the secret area in Chapter 1, you'll miss him entirely!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Red Tides Transformation Spell\n## Wandering Wight - Missable Spirit\"\n        - Following Text: \"The Wandering Wight boss isn't a secret, but the **Wandering Wight Spirit is missable** and that's not made clear. You'll need to pass the Wandering Wight to get out of the Forest of Wolves and onto the next part of Chapter 1 - Black Cloud, Red Fire, but it can be tempting to leave the challenging fight until the end and return to it later. Whatever you do, **beat him before you unlock the secret area in Chapter 1 that requires ringing the bells.**\nTo be clear, if you defeat him on your first encounter with him, you won't be able to collect his spirit until you've got the Gourd further on in the chapter. But if you don't defeat him before ringing the bells and unlocking the secret area in Chapter 1, you'll miss him entirely!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment featuring a battle against the \"Wandering Wight\" boss in a forest setting. The accompanying text emphasizes the importance of defeating this boss before progressing in Chapter 1, as failing to do so before unlocking a secret area by ringing bells will make the Wandering Wight Spirit permanently missable. Players are advised to defeat the boss during their first encounter but wait to collect its spirit until acquiring the Gourd later in the chapter."
 }

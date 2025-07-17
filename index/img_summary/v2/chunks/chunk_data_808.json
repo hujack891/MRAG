@@ -1,28 +1,11 @@
 {
-    "chunk_id": 425411627921,
-    "source_file": "Cuo_Jin-Yin_Belt_Hook.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_UpperHollow_2.jpg",
-    "alt_text": "Wukong UpperHollow 2.jpg",
+    "chunk_id": 594924925114,
+    "source_file": "Dark_Thunder.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg",
+    "alt_text": "Wukong Bamboo 1.jpg",
     "position_desc": 1,
-    "img_above_text": "## Black Myth: Wukong Cuo Jin-Yin Belt Hook Location\nThe Cuo Jin-Yin Belt Hook is located in the Village of Lanxi in The Webbed Hollow. Upon defeating The Second Sister and waking up underground, it can be found in a chest.",
-    "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Cuo_Jin-Yin_Belt_Hook.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Cuo Jin-Yin Belt Hook Location\nThe Cuo Jin-Yin Belt Hook is located in the Village of Lanxi in The Webbed Hollow. Upon defeating The Second Sister and waking up underground, it can be found in a chest.\"\n            - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_UpperHollow_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**: The image depicts a player character in a dark, web-covered underground area approaching a chest highlighted with a red circle. The environment suggests a post-battle exploration scene, and the loot menu on the right indicates items recently acquired, such as Antimiasma Powder and Longevity Decoction.\n\n2. **Purpose, Content, or Narrative Role**: The image serves as a visual guide to help players locate the Cuo Jin-Yin Belt Hook in *Black Myth: Wukong*. It highlights the chest's location in the Village of Lanxi, within The Webbed Hollow, after defeating The Second Sister. The image complements the text by providing a clear visual reference for players navigating this part of the game."
+    "img_above_text": "### Horse Guai Black Wind Mountain Location\nFrom the start of the Bamboo Grove area, hug the left wall to find the cave with the Horse Guai.",
+    "img_below_text": "### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Horse Guai Black Wind Mountain Location\nFrom the start of the Bamboo Grove area, hug the left wall to find the cave with the Horse Guai.\"\n        - Following Text: \"### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character navigating through a forested area in a video game, following a red arrow that suggests the path toward a cave. This aligns with the preceding text, which describes the location of the Horse Guai at Black Wind Mountain, accessible by hugging the left wall from the Bamboo Grove area. The image serves as a visual guide to help players locate the cave."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 88754486947,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png",
-    "alt_text": "Five Skandhas \\(24\\).png",
-    "position_desc": 82,
-    "img_above_text": "![Five Skandhas \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png)\nYou'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.",
-    "img_below_text": "As you emerge in the wide open space, a Giant Shigandang will appear.\n### Yaoguai King - Giant Shigandang",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 82 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Five_Skandhas_%2821%29.png)\nYou'll need to ascend quite high up, but where the path reaches a dead end, up above there's an opening in the cliff that you can pass through. Follow this until you enter an area that's slightly covered and pass through this tunnel.\"\n            - Following Text: \"As you emerge in the wide open space, a Giant Shigandang will appear.\n### Yaoguai King - Giant Shigandang\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Five_Skandhas_%2824%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a dimly lit, rocky tunnel with twisted, barren trees framing the scene. Light pours through an opening in the cliff ahead, suggesting an exit or transition point. This setting aligns with the preceding text, which describes ascending to a cliff opening and passing through a tunnel. The image serves as a visual representation of the player's progression through the area, leading to a wide-open space where the Giant Shigandang encounter is imminent."
+    "chunk_id": 450943051729,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg",
+    "alt_text": "Wukong Fright 32.jpg",
+    "position_desc": 34,
+    "img_above_text": "![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.",
+    "img_below_text": "Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores.\nMother of Stones",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\"\n        - Following Text: \"Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores.\nMother of Stones\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong\" where the player has just defeated the boss known as the Mother of Stones. The player is awarded the Stone Essence Key Item, along with Stone Spirits and Yaoguai Cores as rewards. The context provided explains that after defeating six Palestones, the player can then focus on the Mother of Stones until it breaks apart, concluding the boss fight."
 }

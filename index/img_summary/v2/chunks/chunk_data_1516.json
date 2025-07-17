@@ -1,28 +1,11 @@
 {
-    "chunk_id": 290518666163,
-    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/How_To_Claim_Deluxe_Edition_Items_%284%29.png",
-    "alt_text": "How To Claim Deluxe Edition Items \\(4\\).png",
-    "position_desc": 5,
-    "img_above_text": "* Folk Opera Leather Bracers\n* Folk Opera Buskins",
-    "img_below_text": "### Curio\n* Wind Chimes",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'How_to_Claim_Deluxe_Edition_Items.md'.\n\n            Context:\n            - Preceding Text: \"* Folk Opera Leather Bracers\n* Folk Opera Buskins\"\n            - Following Text: \"### Curio\n* Wind Chimes\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/How_To_Claim_Deluxe_Edition_Items_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in a rugged, desert-like environment, wearing ornate armor and holding a staff. The preceding text suggests this is part of the \"Folk Opera\" deluxe edition items, specifically showcasing the Leather Bracers and Buskins. The following text transitions to \"Curio\" items, implying the image highlights the aesthetic and thematic design of the Folk Opera gear within the game's context."
+    "chunk_id": 600971975823,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png",
+    "alt_text": "Secret Loong Bosses \\(20\\).png",
+    "position_desc": 12,
+    "img_above_text": "![Secret Loong Bosses \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Secret_Loong_Bosses_%2819%29.png)\nThis one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.",
+    "img_below_text": "You'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.\n![Secret Loong Bosses \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Secret Loong Bosses \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Secret_Loong_Bosses_%2819%29.png)\nThis one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.\"\n        - Following Text: \"You'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.\n![Secret Loong Bosses \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy landscape near a cliff overlooking a body of water, with a character dressed in yellow standing in the foreground. A red arrow points toward a specific area near the cliff edge, suggesting an important location or object to investigate. Based on the context, this area is near the Bitter Lake and the Turtle Island Keeper's Shrine in Chapter 3 of *Black Myth: Wukong*, where players are directed to look for a Dragon Statue by the water."
 }

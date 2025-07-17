@@ -1,28 +1,11 @@
 {
-    "chunk_id": 975660841775,
-    "source_file": "Tiger_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Tiger_17.jpg",
-    "alt_text": "Wukong Tiger 17.jpg",
-    "position_desc": 14,
-    "img_above_text": "![Wukong Tiger 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Tiger_18.jpg)\nThere’s also the chance he can start the sword combo while doing a spinning retreating jump, sneakily taking out the blade in a reverse grip in the process. He’ll retaliate with a quick reverse slash, before getting a proper grip on the blade for two more quick slices, and then begin the normal combo attack.",
-    "img_below_text": "Finally, if you try to get too far away from him to rest and heal up, there’s a chance his single blade slash will instead create tornadoes of blood to seek you out! This only seems to happen when you stay at range from him, and he can follow these up with his other blood slashes to keep you from getting close.\n![Wukong Tiger 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Tiger_12.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Tiger_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Tiger 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Tiger_18.jpg)\nThere’s also the chance he can start the sword combo while doing a spinning retreating jump, sneakily taking out the blade in a reverse grip in the process. He’ll retaliate with a quick reverse slash, before getting a proper grip on the blade for two more quick slices, and then begin the normal combo attack.\"\n            - Following Text: \"Finally, if you try to get too far away from him to rest and heal up, there’s a chance his single blade slash will instead create tornadoes of blood to seek you out! This only seems to happen when you stay at range from him, and he can follow these up with his other blood slashes to keep you from getting close.\n![Wukong Tiger 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Tiger_12.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Tiger_17.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing a battle against the Tiger Vanguard. The character is seen amidst a swirling mass of blood, likely resulting from the Tiger Vanguard's powerful blade slash attack, which can create blood tornadoes to pursue the player. This visual emphasizes the intensity and danger of maintaining distance from the enemy, as described in the surrounding text."
+    "chunk_id": 892757892146,
+    "source_file": "Xu_Dog_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg",
+    "alt_text": "Wukong Sandgate 23.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThe Xu Dog has a problem he needs help with: A **large frog** has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back. You’ll find the frog miniboss Lang-Li-Guhh-Baw nearby in a large pit, and it can employ electrical attacks to defend itself.",
+    "img_below_text": "Once you defeat this frog boss, he’ll drop the **Evil Repelling Medicament formula**. Return it to the Xu dog back outside the pit. Not only will he reward you with **2 Evil Repelling Medicament** for your trouble, but you’ll also unlock the ability to **create all sorts of consumables yourself** at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables.\n## In the Crouching Tiger Temple Cellar",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThe Xu Dog has a problem he needs help with: A **large frog** has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back. You’ll find the frog miniboss Lang-Li-Guhh-Baw nearby in a large pit, and it can employ electrical attacks to defend itself.\"\n        - Following Text: \"Once you defeat this frog boss, he’ll drop the **Evil Repelling Medicament formula**. Return it to the Xu dog back outside the pit. Not only will he reward you with **2 Evil Repelling Medicament** for your trouble, but you’ll also unlock the ability to **create all sorts of consumables yourself** at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables.\n## In the Crouching Tiger Temple Cellar\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Xu Dog character from *Black Myth: Wukong*. He appears to be preparing or working with medicinal items, aligning with the context that he tasks the player with retrieving a medicinal formula swallowed by a frog miniboss. The image emphasizes his role in the narrative as a quest giver and a provider of rewards, including consumable crafting abilities."
 }

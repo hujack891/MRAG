@@ -1,28 +1,11 @@
 {
-    "chunk_id": 587067817432,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
-    "alt_text": "Wireless Controller",
-    "position_desc": 28,
-    "img_above_text": "More Coming Soon!\n### For Fans: Shop Black Myth: Wukong Gaming Accessories",
-    "img_below_text": "### Black Myth: Wukong Wireless Controller\n0",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"More Coming Soon!\n### For Fans: Shop Black Myth: Wukong Gaming Accessories\"\n            - Following Text: \"### Black Myth: Wukong Wireless Controller\n0\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases a stylish Black Myth: Wukong-themed wireless controller, accompanied by a USB adapter. This gaming accessory is part of a collection aimed at fans of the game, as indicated by the preceding text promoting Black Myth: Wukong gaming accessories. The following text introduces this specific wireless controller, highlighting its design and functionality."
+    "chunk_id": 785979175023,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Tiger_30.jpg",
+    "alt_text": "Wukong Tiger 30.jpg",
+    "position_desc": 20,
+    "img_above_text": "You can hold down the right trigger and press that same button listed in the menu to go straight into it during gameplay. Using an Xbox Controller, it’s the right trigger and the Back Button.\n### 13\\. Get Permanent Upgrades with Celestial Medicines",
+    "img_below_text": "After reaching Chapter 2 and defeating the lightning frog in the small pool of water at the far end of the canyon, you’ll run into an NPC, the Xu Dog, who will grant you the ability to make medicines. While you can only make consumable Mortal Medicines at first when you stop at shrines, once you reach the Cellar Keeper’s Shrine below the Crouching Tiger Temple further into Chapter 2, you’ll run into Xu Dog again, and he’ll grant the ability to craft Celestial Medicines.\n![Wukong Tiger 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_31.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You can hold down the right trigger and press that same button listed in the menu to go straight into it during gameplay. Using an Xbox Controller, it’s the right trigger and the Back Button.\n### 13\\. Get Permanent Upgrades with Celestial Medicines\"\n        - Following Text: \"After reaching Chapter 2 and defeating the lightning frog in the small pool of water at the far end of the canyon, you’ll run into an NPC, the Xu Dog, who will grant you the ability to make medicines. While you can only make consumable Mortal Medicines at first when you stop at shrines, once you reach the Cellar Keeper’s Shrine below the Crouching Tiger Temple further into Chapter 2, you’ll run into Xu Dog again, and he’ll grant the ability to craft Celestial Medicines.\n![Wukong Tiger 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_31.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist encounters the NPC Xu Dog, who is sitting inside a large cauldron. The setting appears to be a dimly lit shrine or cellar with glowing objects, including a furnace-like structure and scattered items. The dialogue \"It's... it's you again?\" suggests a recurring interaction with Xu Dog, who plays a role in granting the ability to craft Celestial Medicines later in Chapter 2. This encounter likely takes place near the Cellar Keeper’s Shrine below the Crouching Tiger Temple."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 387795334240,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Foothills_Walkthrough_%2831%29.png",
-    "alt_text": "Foothills Walkthrough \\(31\\).png",
-    "position_desc": 47,
-    "img_above_text": "![Foothills Walkthrough \\(37\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2837%29.png)\nAfter a certain amount of time, he will solidify, turn brown, and become like stone. If you hit him during this state, your attacks will bounce off of him, though they will do minimal amounts of damage. When he's like this, he will start to use rocks to attack. He can also roar, which will momentarily stun you and damage you at the same time.",
-    "img_below_text": "Expect to see him using rocks like shockwaves, where he'll punch the ground and disturb the ground underneath you, and also call rocks up into the air. When this happens, he'll roar and send them hurtling toward you. Another variation of a rock attack he performs is that a circle of rocks will spike up from the ground on occasion.\n![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(37\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2837%29.png)\nAfter a certain amount of time, he will solidify, turn brown, and become like stone. If you hit him during this state, your attacks will bounce off of him, though they will do minimal amounts of damage. When he's like this, he will start to use rocks to attack. He can also roar, which will momentarily stun you and damage you at the same time.\"\n            - Following Text: \"Expect to see him using rocks like shockwaves, where he'll punch the ground and disturb the ground underneath you, and also call rocks up into the air. When this happens, he'll roar and send them hurtling toward you. Another variation of a rock attack he performs is that a circle of rocks will spike up from the ground on occasion.\n![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Foothills_Walkthrough_%2831%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scenario in *Black Myth: Wukong*, where the player character faces a large, stone-like enemy surrounded by sharp rock formations emerging from the ground. This visual aligns with the preceding and following text, which describe the enemy's ability to solidify into a stone-like state and use rock-based attacks, such as creating shockwaves and summoning spikes from the ground. The image emphasizes the enemy's rock manipulation abilities and the environmental hazards players must navigate during the encounter."
+    "chunk_id": 475107219586,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Wukong_Wolves_55.jpg",
+    "alt_text": "Wukong Wolves 55.jpg",
+    "position_desc": 60,
+    "img_above_text": "With his slow attacks, he’ll be easier to read than Guangzhi, making this battle one of patience and getting your hits in where you can before falling back to wait for the next attack you can dodge and punish. Once the mighty Lingxuzi falls, you’ll earn the **Grey Wolf Mask** and a **Mind Core** — a unique upgrade material.\nLingxuzi",
+    "img_below_text": "The Keeper will encourage you to look around now that he’s been defeated, and aside from more mushrooms and jade lotus to harvest in one corner, you can check the far right corner from the entrance to the arena to find a large chest that houses 2 **Tiny Piece of Gold** , and 3 **Yarn**.\n![Wukong Wolves 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Wolves_56.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"With his slow attacks, he’ll be easier to read than Guangzhi, making this battle one of patience and getting your hits in where you can before falling back to wait for the next attack you can dodge and punish. Once the mighty Lingxuzi falls, you’ll earn the **Grey Wolf Mask** and a **Mind Core** — a unique upgrade material.\nLingxuzi\"\n        - Following Text: \"The Keeper will encourage you to look around now that he’s been defeated, and aside from more mushrooms and jade lotus to harvest in one corner, you can check the far right corner from the entrance to the arena to find a large chest that houses 2 **Tiny Piece of Gold** , and 3 **Yarn**.\n![Wukong Wolves 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Wolves_56.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character approaching a traditional Chinese-style pavilion with a fiery staff in hand. A red circle highlights a specific area near the pavilion, likely indicating the location of a large chest mentioned in the following text. The chest contains valuable items, including 2 **Tiny Piece of Gold** and 3 **Yarn**, which can be collected after defeating Lingxuzi and exploring the arena."
 }

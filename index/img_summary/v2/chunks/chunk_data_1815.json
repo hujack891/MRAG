@@ -1,28 +1,11 @@
 {
-    "chunk_id": 166386538413,
-    "source_file": "Lang-Baw-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2833%29.png",
-    "alt_text": "Foothills Walkthrough \\(33\\).png",
-    "position_desc": 4,
-    "img_above_text": "![Foothills Walkthrough \\(36\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Foothills_Walkthrough_%2836%29.png)\nWhen you first drop in on Lang-Baw-Baw, a load of soldiers will also appear. You can ignore these and let Lang-Baw-Baw tackle them; they make for a good distraction so you can focus on hitting the frog while it attacks the soldiers.",
-    "img_below_text": "When it comes to the one-to-one with Lang-Baw-Baw, you can expect to see the same type of moves that the previous frog bosses have used (if you've taken them all down so far). Expect to see it use its tongue as a whip to try and hit you, which you can dodge and dash away from. It will also leap up and try to belly flop you, as well as use its back kicks to quickly lash out when you're behind it.\n![Foothills Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Foothills_Walkthrough_%2832%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Lang-Baw-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(36\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Foothills_Walkthrough_%2836%29.png)\nWhen you first drop in on Lang-Baw-Baw, a load of soldiers will also appear. You can ignore these and let Lang-Baw-Baw tackle them; they make for a good distraction so you can focus on hitting the frog while it attacks the soldiers.\"\n            - Following Text: \"When it comes to the one-to-one with Lang-Baw-Baw, you can expect to see the same type of moves that the previous frog bosses have used (if you've taken them all down so far). Expect to see it use its tongue as a whip to try and hit you, which you can dodge and dash away from. It will also leap up and try to belly flop you, as well as use its back kicks to quickly lash out when you're behind it.\n![Foothills Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Foothills_Walkthrough_%2832%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2833%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense combat scenario in *Black Myth: Wukong*, featuring the player character facing off against Lang-Baw-Baw, a large frog-like boss. Lang-Baw-Baw is mid-attack, extending its tongue as a whip-like strike toward the player, who is poised with a staff weapon in a rocky, open arena.\n\n2. **Purpose and Narrative Role**:  \nThe image illustrates a key moment in the boss fight against Lang-Baw-Baw, emphasizing its signature tongue attack. This visual complements the preceding and following text, which describe strategies for dealing with Lang-Baw-Baw's moves, including its tongue whip, belly flops, and back kicks. It serves to highlight the dynamic and challenging nature of the encounter."
+    "chunk_id": 321411593157,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
+    "alt_text": "Wukong RedLoong 7.jpg",
+    "position_desc": 5,
+    "img_above_text": "You will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind it. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.\nIn the secret area, you can fight Red Loong \\- one of the many optional bosses in the game. Defeating him will drop a Mind Core.",
+    "img_below_text": "### Mind Core Location 4\nThe next Mind Core is an automatic reward, granted upon completing Chapter 1 - Black Wind Mountain. Once you defeat Black Bear Guai and exit the chapter mural, you will get it.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind it. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.\nIn the secret area, you can fight Red Loong \\- one of the many optional bosses in the game. Defeating him will drop a Mind Core.\"\n        - Following Text: \"### Mind Core Location 4\nThe next Mind Core is an automatic reward, granted upon completing Chapter 1 - Black Wind Mountain. Once you defeat Black Bear Guai and exit the chapter mural, you will get it.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic scene from a video game, showcasing a large, glowing creature surrounded by dark, atmospheric visuals and particle effects. Based on the context, this likely represents the Red Loong, an optional boss encountered in the secret area unlocked after obtaining the Loong Scales in Chapter 2 - Yellow Wind Ridge. Defeating the Red Loong rewards players with a Mind Core, a key item in the game."
 }

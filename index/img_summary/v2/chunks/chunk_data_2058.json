@@ -1,28 +1,11 @@
 {
-    "chunk_id": 134517652196,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_Thunderclap_13.jpg",
-    "alt_text": "Wukong Thunderclap 13.jpg",
-    "position_desc": 14,
-    "img_above_text": "By now you may have noticed the New Thunderclap Temple is brimming with lots of enemies you don't necessarily need to kill. Between the praying Censor Holders and blind Overseeing Monks, you can ignore a lot of enemies if you wish, but it's also not a bad idea to kill them for extra Will and Experience, and is also a good way to build up Focus to expend on more deadly foes.\nHead into the next area, and look left at the top of the stairs to find another Turtle General statue with a **Treasure Chest** with a Knot of Voidness and other materials, surrounded on all sides by praying Censor Holders.",
-    "img_below_text": "Be wary of two Supporter Monks lying in wait in opposite alcoves near the statue, as well as the patrolling monk on the nearby road.\n![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"By now you may have noticed the New Thunderclap Temple is brimming with lots of enemies you don't necessarily need to kill. Between the praying Censor Holders and blind Overseeing Monks, you can ignore a lot of enemies if you wish, but it's also not a bad idea to kill them for extra Will and Experience, and is also a good way to build up Focus to expend on more deadly foes.\nHead into the next area, and look left at the top of the stairs to find another Turtle General statue with a **Treasure Chest** with a Knot of Voidness and other materials, surrounded on all sides by praying Censor Holders.\"\n            - Following Text: \"Be wary of two Supporter Monks lying in wait in opposite alcoves near the statue, as well as the patrolling monk on the nearby road.\n![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_Thunderclap_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter in *Black Myth: Wukong*, where the player character, armed with a glowing red spear, is engaged in battle with a large, humanoid enemy. The setting is a shaded area with red walls, and the interface displays the player's \"Will\" resource and combat abilities.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the New Thunderclap Temple walkthrough, highlighting a combat scenario near the Turtle General statue. This scene serves as a warning for players to be cautious of hidden enemies, such as the Supporter Monks mentioned in the context, and emphasizes the importance of managing resources like \"Will\" during these encounters."
+    "chunk_id": 127129565003,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_Pagoda_19X.jpg",
+    "alt_text": "Wukong Pagoda 19X.jpg",
+    "position_desc": 20,
+    "img_above_text": "![Wukong Pagoda 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg)\nMaking your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.",
+    "img_below_text": "As you head outside, mind the Frozen Corpse, and look to the left first. There's a nearby open cell door you can find that has a **Treasure Chest** containing a few materials, guarded by a Withered Corpse.\nBeyond this lone cell, you can find the outside walkway path abruptly ends near a Frozen Corpse, and a darkened pit holds a series of rocky platforms you can drop down. The only thing down here at the moment is a cell with a purple seal, and a route back to where you first arrived in the Pagoda Realm, so unless you really want the green Wisp hovering over the drop back down to the start, it's better to leave this area for later.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg)\nMaking your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.\"\n        - Following Text: \"As you head outside, mind the Frozen Corpse, and look to the left first. There's a nearby open cell door you can find that has a **Treasure Chest** containing a few materials, guarded by a Withered Corpse.\nBeyond this lone cell, you can find the outside walkway path abruptly ends near a Frozen Corpse, and a darkened pit holds a series of rocky platforms you can drop down. The only thing down here at the moment is a cell with a purple seal, and a route back to where you first arrived in the Pagoda Realm, so unless you really want the green Wisp hovering over the drop back down to the start, it's better to leave this area for later.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist holding a staff and approaching a dimly lit area with a red-dotted circle highlighting a specific object or location. The preceding text suggests the player is navigating the second level of the Pagoda Realm, dealing with enemies like Yaksha Archers. The following text indicates exploration of nearby cells and paths, including finding a **Treasure Chest** guarded by a Withered Corpse. The image likely emphasizes a key point of interest or interaction within this area."
 }

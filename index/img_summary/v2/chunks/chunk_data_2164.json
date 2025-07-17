@@ -1,28 +1,11 @@
 {
-    "chunk_id": 462262368536,
-    "source_file": "Nine-Capped_Lingzhi_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Nine-Capped_Location.jpg",
-    "alt_text": "Nine-Capped Location.jpg",
+    "chunk_id": 706720369722,
+    "source_file": "Puppet_Spider_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Puppet_Spider_Location.png",
+    "alt_text": "Puppet Spider Location.png",
     "position_desc": 2,
-    "img_above_text": "## Nine-Capped Lingzhi Guai Location\nThe Nine-Capped Lingzhi Guai is a mushroom-based enemy that you can find in the Ashen Pass in the Flaming Mountains. The Guai is found in a small clearing to the right of the Ashen Pass III Keeper's Shrine. The clearing itself will have a few mushrooms growing in it, one of which is the Nine-Capped Lingzhi Guai. Pick them all to lure the Guai out of hiding.",
-    "img_below_text": "## Nine-Capped Lingzhi Guai Fight\nThe Nine-Capped Lingzhi Guai fight is a bit of a tricky one thanks to the Guai's unique skill. The Nine-Capped Lingzhi Guai can cover you in a thick layer of red spores that hinder your movement and poison you. These spores hang around for a long time and can severely impact your fighting. Other than its mushroom-inflicting skill, it fights with a staff and poison, similar to the other mushroom enemies you will have faced thus far in your journey.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Nine-Capped_Lingzhi_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Nine-Capped Lingzhi Guai Location\nThe Nine-Capped Lingzhi Guai is a mushroom-based enemy that you can find in the Ashen Pass in the Flaming Mountains. The Guai is found in a small clearing to the right of the Ashen Pass III Keeper's Shrine. The clearing itself will have a few mushrooms growing in it, one of which is the Nine-Capped Lingzhi Guai. Pick them all to lure the Guai out of hiding.\"\n            - Following Text: \"## Nine-Capped Lingzhi Guai Fight\nThe Nine-Capped Lingzhi Guai fight is a bit of a tricky one thanks to the Guai's unique skill. The Nine-Capped Lingzhi Guai can cover you in a thick layer of red spores that hinder your movement and poison you. These spores hang around for a long time and can severely impact your fighting. Other than its mushroom-inflicting skill, it fights with a staff and poison, similar to the other mushroom enemies you will have faced thus far in your journey.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Nine-Capped_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing in a rocky, volcanic landscape with glowing lava flows in the background. The character is equipped with a staff and appears to be preparing for a confrontation. In the foreground, several mushrooms are visible, which are likely related to the Nine-Capped Lingzhi Guai mentioned in the context. The image serves to illustrate the location where players can find and lure out the Nine-Capped Lingzhi Guai in the Ashen Pass of the Flaming Mountains. It sets the scene for the upcoming fight against this mushroom-based enemy, highlighting the hazardous environment and the presence of mushrooms crucial to the encounter."
+    "img_above_text": "## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.",
+    "img_below_text": "## Puppet Spider Fight\nThe Puppet Spider has most hands tied behind its back, leaving two free that it can use to slice you. It also has poison to shoot in your direction and a couple of worms that emerge from egg sacs to fight alongside it. Take care of the worms first, so you have fewer enemies to deal with at once and take some Antimiasma Powder to cure yourself of poisoning if it gets too bad.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.\"\n        - Following Text: \"## Puppet Spider Fight\nThe Puppet Spider has most hands tied behind its back, leaving two free that it can use to slice you. It also has poison to shoot in your direction and a couple of worms that emerge from egg sacs to fight alongside it. Take care of the worms first, so you have fewer enemies to deal with at once and take some Antimiasma Powder to cure yourself of poisoning if it gets too bad.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, web-filled corridor with cocoon-like structures hanging from the ceiling, illuminated by a warm, golden light. A character wearing a horned helmet and holding a staff stands in the foreground, seemingly preparing to enter the area. This setting aligns with the description of the secret entrance covered in cocoons leading to the Puppet Spider's location, as outlined in the preceding text. The image serves to visually represent the eerie and foreboding environment players must navigate to reach the boss encounter."
 }

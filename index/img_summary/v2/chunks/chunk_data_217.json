@@ -1,28 +1,11 @@
 {
-    "chunk_id": 430043330638,
+    "chunk_id": 944225158442,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Bitter_41.jpg",
-    "alt_text": "Wukong Bitter 41.jpg",
-    "position_desc": 74,
-    "img_above_text": "![Wukong Bitter 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg)\nIf you aren't getting enough time in, consider using Immobilize to keep him grounded, and use the Pillar Stance to extend your height as it tries to take off.",
-    "img_below_text": "Once you've gotten it on the ground for an extended period to dish out damage, be mindful not to get overconfident. If you see it hunch over and turn completely gold, it will use its own rock solid deflection to make your attack bounce off.\nListen for the sound cue of your attack being deflected, and it will quickly rise up and extend a bladed wing up in the air before slamming it down on you. You can turn the tables with your own deflection (though it will send you sliding back), or dodge to the side and bash it with a Spirit Attack.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 74 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg)\nIf you aren't getting enough time in, consider using Immobilize to keep him grounded, and use the Pillar Stance to extend your height as it tries to take off.\"\n            - Following Text: \"Once you've gotten it on the ground for an extended period to dish out damage, be mindful not to get overconfident. If you see it hunch over and turn completely gold, it will use its own rock solid deflection to make your attack bounce off.\nListen for the sound cue of your attack being deflected, and it will quickly rise up and extend a bladed wing up in the air before slamming it down on you. You can turn the tables with your own deflection (though it will send you sliding back), or dodge to the side and bash it with a Spirit Attack.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Bitter_41.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character battling a golden, winged enemy named \"Apramana Bat\" in a snowy environment. The preceding and following text suggests strategies for the fight, emphasizing using abilities like \"Immobilize\" and \"Pillar Stance\" to keep the enemy grounded and avoid its deflection mechanics when it turns gold. The image visually reinforces the narrative by illustrating the golden transformation and the dynamic combat moment."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Bitter_53.jpg",
+    "alt_text": "Wukong Bitter 53.jpg",
+    "position_desc": 85,
+    "img_above_text": "## Precept Corridor\nFrom the Precept Corridor Shrine, you'll be able to traverse a new path across a wooden platform heading down a slope toward a large stone slab that seems to have fallen in your path.",
+    "img_below_text": "Along this road are several important things to take note of: There's a lone Wolf Guardian patrolling this road, but you can also find a **Meditation Spot** just off to the left in front of a statue where two Frozen Corpses can come alive to attack.\nThe Statue, Precept Corridor Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Precept Corridor\nFrom the Precept Corridor Shrine, you'll be able to traverse a new path across a wooden platform heading down a slope toward a large stone slab that seems to have fallen in your path.\"\n        - Following Text: \"Along this road are several important things to take note of: There's a lone Wolf Guardian patrolling this road, but you can also find a **Meditation Spot** just off to the left in front of a statue where two Frozen Corpses can come alive to attack.\nThe Statue, Precept Corridor Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy area in a video game where a player character is approaching a group of enemies, including a Wolf Guardian and two Frozen Corpses. The scene is set in front of a statue, which is likely the Precept Corridor Meditation Spot mentioned in the text. The image serves to illustrate the location and the enemies that players will encounter along this path."
 }

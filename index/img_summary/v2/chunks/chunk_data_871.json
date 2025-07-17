@@ -1,28 +1,11 @@
 {
-    "chunk_id": 715752923270,
-    "source_file": "Daoist_Mi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg",
-    "alt_text": "Wukong PurpleCloud 52.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong PurpleCloud 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg)\nThe one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.",
-    "img_below_text": "With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg)\nThe one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.\"\n            - Following Text: \"With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image depicts a scene in a mountainous, autumnal setting where a character in a red robe is holding an object while another character is bowing or kneeling in front of them.\n\n2. The image likely illustrates the moment after the player has defeated Daoist Mi. The snake woman appears to retrieve the egg from the fallen Daoist and then gives it to the player, signifying the transfer of the **Violet Hail Transformation Spell**. This spell allows the player to transform into a Worm Practitioner and gain immunity to poison."
+    "chunk_id": 599751040449,
+    "source_file": "Elder_Armourworm_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Elder_Armourworm_Spirit.jpg",
+    "alt_text": "Elder Armourworm Spirit.jpg",
+    "position_desc": 4,
+    "img_above_text": "You can get Rice Cocoons from egg sacks throughout the Webbed Hollow!\n### Elder Armourworm Spirit",
+    "img_below_text": "* **Foul Spray**\n* Equipped Effect: Slightly increases Critical Hit Chance when in Poisoned state.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You can get Rice Cocoons from egg sacks throughout the Webbed Hollow!\n### Elder Armourworm Spirit\"\n        - Following Text: \"* **Foul Spray**\n* Equipped Effect: Slightly increases Critical Hit Chance when in Poisoned state.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. **Summary**: The image showcases the \"Elder Armourworm Spirit,\" an Epic-tier equipment item in a video game. It allows the player to take the form of the Elder Armourworm and use the \"Foul Spray\" ability to create poisonous pools that inflict Poison Bane on enemies. The equipped effect slightly increases Critical Hit Chance when the player is in a Poisoned state. The interface includes options to equip, watch a demo, and view stats.\n\n2. **Purpose/Content**: The image serves as part of the game's equipment menu, detailing the abilities and effects of the Elder Armourworm Spirit, emphasizing its utility in poison-based combat scenarios."
 }

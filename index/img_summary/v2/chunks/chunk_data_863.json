@@ -1,28 +1,11 @@
 {
-    "chunk_id": 200656496596,
-    "source_file": "Daoist_Mi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg",
-    "alt_text": "Wukong PurpleCloud 33.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong PurpleCloud 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_PurpleCloud_32.jpg)\nAfter resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.",
-    "img_below_text": "However, after climbing some stairs, you'll come across a special Sword Daoist playing a flute, and does not appear hostile. He'll actually ask a favor of you, noting that his fellow Daoists have all been partaking of Amourworm eggs, turning them into undying husks. He'll ask you to seek one out and return it to him.\n![Wukong PurpleCloud 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_PurpleCloud_44.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_PurpleCloud_32.jpg)\nAfter resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.\"\n            - Following Text: \"However, after climbing some stairs, you'll come across a special Sword Daoist playing a flute, and does not appear hostile. He'll actually ask a favor of you, noting that his fellow Daoists have all been partaking of Amourworm eggs, turning them into undying husks. He'll ask you to seek one out and return it to him.\n![Wukong PurpleCloud 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_PurpleCloud_44.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the protagonist, Wukong, approaching a Daoist in a serene, overgrown courtyard near a traditional building. The Daoist appears non-hostile, standing calmly, and the text overlay suggests a reflective or mysterious tone: \"It's been long since any soul has trodden these hidden bounds.\" The preceding and following context indicates this is part of a narrative sequence where Wukong encounters Daoists in a village, some hostile and others offering quests, such as the flute-playing Sword Daoist who requests help with Amourworm eggs. The image likely introduces or sets the mood for this interaction."
+    "chunk_id": 190273155210,
+    "source_file": "Elder_Amourworm.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_10.jpg",
+    "alt_text": "Wukong MiddleHollow 10.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)\nIf the sticky webs weren't bad enough, its other main trick is the ability to shoot out globs of poison, that will stay on the ground for a short duration even if it misses you. The Elder Amourworm can shoot out these poison globs when facing you, but also when you try to attack from its back, making it dangerous no matter which direction you fight from.",
+    "img_below_text": "Even when knocked down, it can behave erratically, wriggling and slamming down to splash out more poison from its sides before getting back up, which can sometimes limit where you can press your attack.\n![Wukong MiddleHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_MiddleHollow_9.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)\nIf the sticky webs weren't bad enough, its other main trick is the ability to shoot out globs of poison, that will stay on the ground for a short duration even if it misses you. The Elder Amourworm can shoot out these poison globs when facing you, but also when you try to attack from its back, making it dangerous no matter which direction you fight from.\"\n        - Following Text: \"Even when knocked down, it can behave erratically, wriggling and slamming down to splash out more poison from its sides before getting back up, which can sometimes limit where you can press your attack.\n![Wukong MiddleHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_MiddleHollow_9.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from *Black Myth: Wukong*, featuring the player character engaging the Elder Amourworm, a large, grotesque boss enemy in a dark, web-covered environment. The ground is littered with skeletons and sticky webs, emphasizing the hazardous terrain. The preceding and following text highlights the Amourworm's dangerous abilities, including shooting poison globs and erratic behavior when knocked down, making it a challenging opponent. The player's health and ability icons are visible, indicating active gameplay."
 }

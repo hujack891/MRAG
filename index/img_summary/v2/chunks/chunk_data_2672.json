@@ -1,28 +1,11 @@
 {
-    "chunk_id": 563147579737,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg",
-    "alt_text": "Wukong Snowhill 18.jpg",
-    "position_desc": 17,
-    "img_above_text": "![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)\nOnce you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.",
-    "img_below_text": "Do not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\n![Wukong Snowhill 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)\nOnce you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\"\n            - Following Text: \"Do not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\n![Wukong Snowhill 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene in a snowy environment, where the player character, armed with a staff, is engaged in a boss fight against the \"Macaque Chief.\" The boss is retreating to higher ground while wielding a glowing blade, signaling a deceptive moment in the fight where it feigns defeat.\n\n2. **Narrative Role**:  \nThe image illustrates the pivotal moment in the battle where the \"Macaque Chief\" pretends to surrender by retreating and signaling mercy, setting up a surprise attack with an upward slash and projectile. It highlights the need for players to remain cautious and not fall for the deceptive gesture."
+    "chunk_id": 881428666760,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Brook_9.jpg",
+    "alt_text": "Wukong Brook 9.jpg",
+    "position_desc": 49,
+    "img_above_text": "![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nBe sure to follow the path of the brook to harvest more plants and deal with Frozen Corpses and Golden Lotus Guai along the way.",
+    "img_below_text": "Once you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nBe sure to follow the path of the brook to harvest more plants and deal with Frozen Corpses and Golden Lotus Guai along the way.\"\n        - Following Text: \"Once you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment where the player character, Wukong, stands near an overturned bell with glowing green wisps inside. This scene aligns with the guide's instructions to explore the area for hidden items, such as absorbing a green Wisp, while being cautious of a Frozen Corpse hiding nearby. The image emphasizes the game's exploration and combat elements."
 }

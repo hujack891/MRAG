@@ -1,28 +1,11 @@
 {
-    "chunk_id": 663759246740,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Pagoda_3.jpg",
-    "alt_text": "Wukong Pagoda 3.jpg",
-    "position_desc": 3,
-    "img_above_text": "As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".",
-    "img_below_text": "Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".\"\n            - Following Text: \"Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Pagoda_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark and ominous scene within the Pagoda Realm, featuring a character holding a staff, standing near a cell with intricate and eerie designs. The setting suggests a challenging environment filled with hidden threats, such as Cyan Bats and other dangers. The preceding text hints at a mysterious voice warning the character about the difficulty of traversing the area, while the following text advises caution due to the presence of explosive Cyan Bats and valuable items like a Wisp and Snake-Head Mushroom in nearby cells. The image serves to illustrate the foreboding atmosphere and the perilous journey ahead in the walkthrough."
+    "chunk_id": 975442841302,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Secrets_Wukong_%282%29.png",
+    "alt_text": "Secrets Wukong \\(2\\).png",
+    "position_desc": 8,
+    "img_above_text": "* How to Find the Loong Scales\n## Black Loong",
+    "img_below_text": "When you've got the Loong Scales, you can also access the secret boss in Chapter 2 that you can find behind a sandfall. From Rockrest Flat Keeper's Shrine, go right and up the stairs to find the sandfall. With the Loong Scales in your inventory, you can step right through it into the hidden cave.\n### Relevant Guide Pages",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* How to Find the Loong Scales\n## Black Loong\"\n        - Following Text: \"When you've got the Loong Scales, you can also access the secret boss in Chapter 2 that you can find behind a sandfall. From Rockrest Flat Keeper's Shrine, go right and up the stairs to find the sandfall. With the Loong Scales in your inventory, you can step right through it into the hidden cave.\n### Relevant Guide Pages\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene featuring a player character facing off against the \"Black Loong,\" a large, formidable enemy. This encounter is part of a guide on obtaining the \"Loong Scales,\" a key item needed to access a hidden cave and a secret boss in Chapter 2. The image serves to illustrate the battle with the Black Loong, which is a critical step in progressing through this section of the game."
 }

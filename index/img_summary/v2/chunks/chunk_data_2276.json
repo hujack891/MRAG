@@ -1,28 +1,11 @@
 {
-    "chunk_id": 606465147939,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_1.jpg",
-    "alt_text": "Wukong Pagoda 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "* **Warding Temple**\n* Yaoguai Chief - Macaque Chief",
-    "img_below_text": "After winning the battle against Kang-Jin Loong, you'll be swept up and thrown into a jail of sorts, in a new region known as The Pagoda Realm. Thankfully you'll be able to open your cell door without much trouble, but it will be long climb to get out of here.\nStepping out into this eerie dungeon, you'll find that this part of the Pagoda Realm is a prison made up of several circular tiers that comprise both an inner walkway ring, and an outer ring for cells, hallways, and stairs -- all circling a large pagoda (and that's not even the titular one) made to look like a mani wheel (or prayer wheel), as its slowly revolving and featuring large statues on every side.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* **Warding Temple**\n* Yaoguai Chief - Macaque Chief\"\n            - Following Text: \"After winning the battle against Kang-Jin Loong, you'll be swept up and thrown into a jail of sorts, in a new region known as The Pagoda Realm. Thankfully you'll be able to open your cell door without much trouble, but it will be long climb to get out of here.\nStepping out into this eerie dungeon, you'll find that this part of the Pagoda Realm is a prison made up of several circular tiers that comprise both an inner walkway ring, and an outer ring for cells, hallways, and stairs -- all circling a large pagoda (and that's not even the titular one) made to look like a mani wheel (or prayer wheel), as its slowly revolving and featuring large statues on every side.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, eerie dungeon with towering, intricately designed statues and a large central pagoda resembling a prayer wheel. This scene introduces the Pagoda Realm, a new region where the protagonist is imprisoned after a battle. The image sets the tone for the challenging escape from this multi-tiered prison, emphasizing the ominous and foreboding atmosphere of the realm."
+    "chunk_id": 690608435303,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Buddhas_Eye_Secret_Boss_%2813%29.png",
+    "alt_text": "Buddhas Eye Secret Boss \\(13\\).png",
+    "position_desc": 6,
+    "img_above_text": "Defeating Shigandang will also reward you with the Skandha of Feeling. Just like the Skandha of Form, this will come in handy later on.\n## Shigandang Vs. Stone Vanguard",
+    "img_below_text": "If you get the Buddha's Eyeballs and pop them into the rock _before_ you fight the Stone Vanguard, you can use the secret boss to your advantage. Put the Eyeballs into the rock to call on Shingdang, and let stone meet stone.\n### Relevant Guide Pages",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Defeating Shigandang will also reward you with the Skandha of Feeling. Just like the Skandha of Form, this will come in handy later on.\n## Shigandang Vs. Stone Vanguard\"\n        - Following Text: \"If you get the Buddha's Eyeballs and pop them into the rock _before_ you fight the Stone Vanguard, you can use the secret boss to your advantage. Put the Eyeballs into the rock to call on Shingdang, and let stone meet stone.\n### Relevant Guide Pages\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts Shigandang, a stone-like boss character in a rugged, mountainous environment. It is part of a video game guide, where defeating Shigandang rewards the player with the Skandha of Feeling, a useful item for later gameplay. The guide suggests a strategic approach involving the Buddha's Eyeballs to summon Shigandang and utilize him in a fight against the Stone Vanguard."
 }

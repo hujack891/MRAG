@@ -1,28 +1,11 @@
 {
-    "chunk_id": 182694290674,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg",
-    "alt_text": "Wukong Pagoda 21.jpg",
-    "position_desc": 22,
-    "img_above_text": "![Wukong Pagoda 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg)\nBack at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.",
-    "img_below_text": "Continue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.\n![Wukong Pagoda 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg)\nBack at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.\"\n            - Following Text: \"Continue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.\n![Wukong Pagoda 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character navigating a dark, rocky corridor within the pagoda, approaching a cell with a glowing purple seal. The scene is part of a walkthrough for the game \"Black Myth: Wukong.\" The preceding text mentions encountering a green Wisp for healing, while the following text warns of a strong enemy and Cyan Bat near the sealed cell. The image serves to illustrate the player's progress and upcoming challenges in this section of the game."
+    "chunk_id": 820707880366,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
+    "alt_text": "Five Skandhas \\(26\\).png",
+    "position_desc": 27,
+    "img_above_text": "# Chapter 6 Secrets\n## Giant Shigandang",
+    "img_below_text": "You'll need to collect four Skandhas across Chapters 1-4 to be able to reveal the Giant Shigandang in Chapter 6. The Skandhas to collect are:\n* Chapter 1 - Skandha of Form",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Chapter 6 Secrets\n## Giant Shigandang\"\n        - Following Text: \"You'll need to collect four Skandhas across Chapters 1-4 to be able to reveal the Giant Shigandang in Chapter 6. The Skandhas to collect are:\n* Chapter 1 - Skandha of Form\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a towering, rocky structure resembling a colossal figure, likely the \"Giant Shigandang\" mentioned in the walkthrough. A lone character, armed and adorned in intricate armor, stands before it, emphasizing its immense scale and significance. The preceding and following text suggests this scene is part of Chapter 6, where the Giant Shigandang is revealed after collecting four Skandhas across earlier chapters. The image visually represents a key narrative or gameplay milestone in the guide."
 }

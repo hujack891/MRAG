@@ -1,28 +1,11 @@
 {
-    "chunk_id": 939976057660,
-    "source_file": "Snake_Sheriff_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Snake_Shriff_Location.jpg",
-    "alt_text": "Snake Shriff Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.",
-    "img_below_text": "## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snake_Sheriff_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.\"\n            - Following Text: \"## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Snake_Shriff_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character in a video game, positioned at the bottom of a set of stairs, preparing to confront the Snake Sheriff, an enemy located at the top of the stairs. The context suggests that the player has just navigated through the Temple of the Yellow Flowers to reach this encounter. The Snake Sheriff is an agile and dangerous foe, known for its swift attacks and long claws, requiring strategic gameplay and possibly the use of abilities like Immobilize to manage the fight effectively."
+    "chunk_id": 530442431830,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Mindcliff_17.jpg",
+    "alt_text": "Wukong Mindcliff 17.jpg",
+    "position_desc": 16,
+    "img_above_text": "There are more Monk Supporters in a darkened room at the top of the stairway, and try to take them on one at a time if you can. More can be found in the next room, alongside a few Frozen Corpse Censor Holders who will try to blast freezing wind at you, or create vortexes along the ground you'll need to stay away from.\nTake out the pair and Monk Supporter praying to a large statue altar, and you'll find a small gold box you can open that contains **Maitreya's Orb** , a peculiar and fairly risky curio to equip.",
+    "img_below_text": "Continue taking the path back outside and up the cliffs to reach a large open area with an archway at the far end leading to a huge valley, and on the right you'll find Non-White at a Meditation Spot waiting for round two.\n## Yaoguai Chief Miniboss Fight - Non-White (Round Two)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There are more Monk Supporters in a darkened room at the top of the stairway, and try to take them on one at a time if you can. More can be found in the next room, alongside a few Frozen Corpse Censor Holders who will try to blast freezing wind at you, or create vortexes along the ground you'll need to stay away from.\nTake out the pair and Monk Supporter praying to a large statue altar, and you'll find a small gold box you can open that contains **Maitreya's Orb** , a peculiar and fairly risky curio to equip.\"\n        - Following Text: \"Continue taking the path back outside and up the cliffs to reach a large open area with an archway at the far end leading to a huge valley, and on the right you'll find Non-White at a Meditation Spot waiting for round two.\n## Yaoguai Chief Miniboss Fight - Non-White (Round Two)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from a video game where the player character is engaging in combat with \"Non-White,\" a miniboss in the Yaoguai Chief Miniboss Fight (Round Two). The snowy, open area with stone flooring and a cliff backdrop sets the stage for the encounter. The boss's health bar is visible, along with the text \"The real show starts now!\" signaling the start of the fight. This scene follows the narrative progression of the walkthrough, where the player has just navigated through rooms with enemies and obtained **Maitreya's Orb** before reaching this climactic battle."
 }

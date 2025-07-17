@@ -1,28 +1,11 @@
 {
-    "chunk_id": 861555654681,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
-    "alt_text": "Snow Fox Questline \\(16\\).png",
-    "position_desc": 8,
-    "img_above_text": "Yin Tiger\n## Non-Void",
-    "img_below_text": "The Snow Fox Questline in Chapter 3 will see you track down a monk who has wronged a fox guai. Transform into a fox and confront the monk at New Thunderclap Temple to face Non-Void.\nNon-Void",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Yin Tiger\n## Non-Void\"\n            - Following Text: \"The Snow Fox Questline in Chapter 3 will see you track down a monk who has wronged a fox guai. Transform into a fox and confront the monk at New Thunderclap Temple to face Non-Void.\nNon-Void\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a monk standing before an intricately designed altar or statue within a temple, likely New Thunderclap Temple. This scene is part of the Snow Fox Questline in Chapter 3 of \"Black Myth: Wukong,\" where the monk is confronted for wronging a fox guai, leading to an encounter with the entity known as Non-Void."
+    "chunk_id": 829983245494,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Yellow_1.jpg",
+    "alt_text": "Wukong Yellow 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rewards: Tiger's Acolyte Spirit, Old-Rattle Drum, Silk x2, Yarn x2, 758 Experience, 779 Will\n## Where to Find the Tiger's Acolyte",
+    "img_below_text": "As an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.\n![Wukong Yellow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Yellow_20.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Rewards: Tiger's Acolyte Spirit, Old-Rattle Drum, Silk x2, Yarn x2, 758 Experience, 779 Will\n## Where to Find the Tiger's Acolyte\"\n        - Following Text: \"As an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.\n![Wukong Yellow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Yellow_20.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing on a rooftop overlooking a rugged, mountainous area with ancient architectural elements. This location is part of the Yellow Wind Formation, an optional area in Chapter 2 where players can find and battle the Tiger's Acolyte, an optional boss. The image serves as a visual guide to help players navigate toward the Windrest Bridge, past the Crouching Tiger Temple."
 }

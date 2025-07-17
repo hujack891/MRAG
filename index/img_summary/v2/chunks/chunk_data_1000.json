@@ -1,28 +1,11 @@
 {
-    "chunk_id": 146010876942,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png",
-    "alt_text": "Field Fire Walkthrough \\(6\\).png",
-    "position_desc": 5,
-    "img_above_text": "![Field Fire Walkthrough \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Field_Fire_Walkthrough_%284%29.png)\nThese tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.",
-    "img_below_text": "When they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.\n![Field of Fire Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Field_of_Fire_Walkthrough_%281%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Field Fire Walkthrough \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Field_Fire_Walkthrough_%284%29.png)\nThese tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.\"\n            - Following Text: \"When they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.\n![Field of Fire Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Field_of_Fire_Walkthrough_%281%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene from *Black Myth: Wukong*, where the player character is engaged in a fight against a grotesque enemy wielding a spiked mace. The environment is a rocky, volcanic terrain with glowing lava in the background. The enemy's attack creates an explosion of red mist and debris, likely tied to the poisonous red mushrooms mentioned in the preceding and following text.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually illustrates the mechanics described in the text, showcasing the enemy's attack that generates red mushrooms and poisonous mist. It emphasizes the hazardous nature of the fight, reinforcing the need for constant movement and preparation with Antimiasma Powder to counter poison buildup."
+    "chunk_id": 578878235029,
+    "source_file": "Flint_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
+    "alt_text": "B1 19 09 2024 16 00 13 copy.png",
+    "position_desc": 6,
+    "img_above_text": "When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.",
+    "img_below_text": "When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.\"\n        - Following Text: \"When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a rocky, desolate environment facing an enemy, likely the Flint Vanguard mentioned in the preceding text. The enemy is highlighted with a red dashed circle and appears to be emitting fireballs, consistent with its enraged attack phase described earlier. The player is positioned at a safe distance, possibly preparing to dodge or counterattack. This scene aligns with the guide's instructions to avoid fireballs and stay close to the Vanguard to exploit its vulnerability when knocked down."
 }

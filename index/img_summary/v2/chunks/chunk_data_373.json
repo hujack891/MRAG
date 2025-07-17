@@ -1,28 +1,11 @@
 {
-    "chunk_id": 768851166997,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Wukong_MiddleHollow_59.jpg",
-    "alt_text": "Wukong MiddleHollow 59.jpg",
-    "position_desc": 8,
-    "img_above_text": "Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.",
-    "img_below_text": "However, the monster has a few new moves you'll need to worry about, like being able to stab down with its front legs.\n![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.\"\n            - Following Text: \"However, the monster has a few new moves you'll need to worry about, like being able to stab down with its front legs.\n![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Wukong_MiddleHollow_59.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense boss battle in *Black Myth: Wukong*, featuring a large, spider-like creature named \"Buddha's Right Hand.\" The player character is shown mid-combat, surrounded by glowing effects, likely indicating an attack or defensive maneuver. The UI displays various consumables and abilities, suggesting strategic options for the fight. Based on the preceding and following text, the battle involves targeting the boss's face while avoiding its powerful hand slams and new stabbing moves, emphasizing timing and positioning in a confined environment."
+    "chunk_id": 709874323938,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Pagoda_35.jpg",
+    "alt_text": "Wukong Pagoda 35.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Pagoda 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_34.jpg)\nEarly on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.",
+    "img_below_text": "For each of these attacks, be ready with your Staff-Spin counter, and consider investing in skills to keep this move going and to attack out of it once you've deflected all the projectiles heading your way. A lot of this fight will come down to finding the right opportunities to strike after surviving his attacks, and you'll need all the boosts you can get.\nOther times, he may trigger a bunch of explosions on the floor, which only give you a moment's notice to dodge them, so stay mobile and roll around for a better chance of not getting hit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_34.jpg)\nEarly on, basic attacks will include a large circle of projectiles that expel from the crystal before arcing toward you. Other times, it will expel a trio of projectiles in three short bursts before they track you down in waves.\"\n        - Following Text: \"For each of these attacks, be ready with your Staff-Spin counter, and consider investing in skills to keep this move going and to attack out of it once you've deflected all the projectiles heading your way. A lot of this fight will come down to finding the right opportunities to strike after surviving his attacks, and you'll need all the boosts you can get.\nOther times, he may trigger a bunch of explosions on the floor, which only give you a moment's notice to dodge them, so stay mobile and roll around for a better chance of not getting hit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat sequence from the video game *Black Myth: Wukong*, showing the player character engaged in a battle against a boss named \"Captain Lotus-Vision.\" The scene highlights intense action, with debris and effects surrounding the character, suggesting a powerful attack or counter. The preceding and following text provides guidance on countering the boss's projectile-based attacks and floor explosions, emphasizing the use of the Staff-Spin move and strategic dodging to survive and find opportunities to strike."
 }

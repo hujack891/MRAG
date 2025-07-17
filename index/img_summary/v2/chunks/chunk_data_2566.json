@@ -1,28 +1,11 @@
 {
-    "chunk_id": 747917284518,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Sandgate_82.jpg",
-    "alt_text": "Wukong Sandgate 82.jpg",
-    "position_desc": 80,
-    "img_above_text": "![Wukong Sandgate 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_80.jpg)\nBe sure to search to the very back of the room, behind a tiger statue, and you’ll find an altar with a pot you can open to reveal a **Celestial Nonary Pill** , increasing your maximum stamina!",
-    "img_below_text": "Finally, exit the room where the first Swift Bat was to find a canyon path down to the Crouching Tiger Temple.\n![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 80 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_80.jpg)\nBe sure to search to the very back of the room, behind a tiger statue, and you’ll find an altar with a pot you can open to reveal a **Celestial Nonary Pill** , increasing your maximum stamina!\"\n            - Following Text: \"Finally, exit the room where the first Swift Bat was to find a canyon path down to the Crouching Tiger Temple.\n![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Sandgate_82.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character from the game \"Black Myth: Wukong\" standing in a rocky, canyon-like environment with a view of the Crouching Tiger Temple in the background. This scene follows the discovery of a **Celestial Nonary Pill** behind a tiger statue, which increases the player's maximum stamina, and precedes the path leading down to the temple where the first Swift Bat was encountered. The image serves to illustrate the transition from the room with the tiger statue to the canyon path towards the temple."
+    "chunk_id": 277888754027,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(26\\).png",
+    "position_desc": 18,
+    "img_above_text": "During the first phase of the fight, the Stone Monkey will generally try to attack with a combo of punches. These can be avoided but it's best to use dodges to build up your focus quickly. Speed is key for this first phase, to keep as many of your medicines and Gourd uses available for the second phase.\nHe will also leap up and pound his fists down onto the ground, causing a shockwave of rocks immediately around him. As long as you dive out of the way when he goes to land or step back from him slightly, you can avoid this attack.",
+    "img_below_text": "When his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\n![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"During the first phase of the fight, the Stone Monkey will generally try to attack with a combo of punches. These can be avoided but it's best to use dodges to build up your focus quickly. Speed is key for this first phase, to keep as many of your medicines and Gourd uses available for the second phase.\nHe will also leap up and pound his fists down onto the ground, causing a shockwave of rocks immediately around him. As long as you dive out of the way when he goes to land or step back from him slightly, you can avoid this attack.\"\n        - Following Text: \"When his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\n![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense moment from the fight against the Stone Monkey in *Black Myth: Wukong*. The Stone Monkey is shown mid-action, likely performing a ground-pounding attack that generates a shockwave of rocks, as described in the preceding text. The player character is positioned nearby, ready to evade or counter the attack. The setting appears to be a water-filled area, aligning with the following text's mention of ripples in the water for tracking the enemy's movements."
 }

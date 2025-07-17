@@ -1,28 +1,11 @@
 {
-    "chunk_id": 259041006601,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Furnace_Valley_Walkthrough_%2828%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(28\\).png",
-    "position_desc": 12,
-    "img_above_text": "When the area is clear, collect the green Wisps and open the chest to collect Fine Gold Thread and Blood of the Iron Bull.Now approach the cart. This is one of the Five Element Carts, but it's already been dealt with. Get close to its mouth and pull the string when prompted. When you do, you'll hear the voice of Ma Tianba (the horse guai from previous chapters) coming from inside. Keep pulling the string until you've exhausted all dialogue, and then move on. There's nothing more you can do here for now, but we'll return later.\nFace away from the cart and back in the direction you came from. There's more to explore at the moment, before you continue up to the archway you can see in the distance.",
-    "img_below_text": "Go left, at the first lava stream you can see running from the ceiling. Take another left, so you're heading back on yourself (just on the lower level) toward where you started Furnace Valley.\n![Furnace Valley Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Furnace_Valley_Walkthrough_%2832%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the area is clear, collect the green Wisps and open the chest to collect Fine Gold Thread and Blood of the Iron Bull.Now approach the cart. This is one of the Five Element Carts, but it's already been dealt with. Get close to its mouth and pull the string when prompted. When you do, you'll hear the voice of Ma Tianba (the horse guai from previous chapters) coming from inside. Keep pulling the string until you've exhausted all dialogue, and then move on. There's nothing more you can do here for now, but we'll return later.\nFace away from the cart and back in the direction you came from. There's more to explore at the moment, before you continue up to the archway you can see in the distance.\"\n            - Following Text: \"Go left, at the first lava stream you can see running from the ceiling. Take another left, so you're heading back on yourself (just on the lower level) toward where you started Furnace Valley.\n![Furnace Valley Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Furnace_Valley_Walkthrough_%2832%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Furnace_Valley_Walkthrough_%2828%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, cavernous area in Furnace Valley, illuminated by streams of glowing red lava flowing from the ceiling and across the ground. A prominent architectural structure resembling an ornate archway or shrine is visible in the distance, surrounded by jagged rock formations. The red arrow in the foreground indicates a path leading left, guiding the player toward the next objective.\n\n2. **Purpose and Narrative Role**:  \nThe image serves as a visual guide to direct players in the Furnace Valley walkthrough. Based on the preceding and following text, the arrow marks the path players should take after interacting with the Five Element Cart and exploring the area. It emphasizes turning left at a lava stream to continue the journey, looping back toward the starting point on a lower level before progressing further."
+    "chunk_id": 351065024734,
+    "source_file": "Guangmou_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Guangmou_Spirit_Power.jpg",
+    "alt_text": "Guangmou Spirit Power.jpg",
+    "position_desc": 3,
+    "img_above_text": "You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit",
+    "img_below_text": "* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit\"\n        - Following Text: \"* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the equipment menu in a video game, specifically highlighting the \"Guangmou Spirit,\" an epic item with the ability \"Veiled Vipers.\" This ability allows the player to summon snakes that inflict poison damage on enemies, with the snakes disappearing once their venom is depleted. The spirit also provides an equipped effect that moderately increases poison damage and resistance. The menu includes options to equip the spirit, view a demo of its abilities, and track its stats and effects."
 }

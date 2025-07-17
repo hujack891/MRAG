@@ -1,28 +1,11 @@
 {
-    "chunk_id": 647224184828,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_76.jpg",
-    "alt_text": "Wukong Thunderclap 76.jpg",
-    "position_desc": 76,
-    "img_above_text": "![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.",
-    "img_below_text": "After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 76 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.\"\n            - Following Text: \"After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_76.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically a boss fight against Yellowbrow in the Thunderclap Temple. The character Yellowbrow is shown in the temple environment, which is richly decorated with intricate statues and carvings. The preceding text explains Yellowbrow's attack pattern involving electrical currents, while the following text hints at Yellowbrow's ability to vanish and reappear, with a visual cue of his shadow indicating his new location. The image serves to illustrate the setting and atmosphere of the boss fight, as well as to provide a visual reference for Yellowbrow's appearance and the temple's detailed design."
+    "chunk_id": 725178153290,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_110.jpg",
+    "alt_text": "Wukong Pagoda 110.jpg",
+    "position_desc": 106,
+    "img_above_text": "![Wukong Pagoda 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg)\nExploring this large rock-filled forest, you'll find a lot of Frozen Corpses that will come to lift, and more than a few plants to harvest as well.",
+    "img_below_text": "The further back you get, the more enemies you'll encounter, including a strange new aggressive plant that can spin in place or shoot poison projectiles at you. Defeat this Golden Lotus Guai for a good chance to earn a Golden Lotus. You can also encounter a lone Yaksha Patroller in the middle of the field.\n![Wukong Pagoda 111.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Pagoda_111.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg)\nExploring this large rock-filled forest, you'll find a lot of Frozen Corpses that will come to lift, and more than a few plants to harvest as well.\"\n        - Following Text: \"The further back you get, the more enemies you'll encounter, including a strange new aggressive plant that can spin in place or shoot poison projectiles at you. Defeat this Golden Lotus Guai for a good chance to earn a Golden Lotus. You can also encounter a lone Yaksha Patroller in the middle of the field.\n![Wukong Pagoda 111.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Pagoda_111.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest environment from the game *Black Myth: Wukong*, where the player character is engaged in combat with a hostile plant-like enemy resembling a Golden Lotus. This scene aligns with the walkthrough's description of encountering aggressive plants and harvesting items in a rock-filled forest area. The player is preparing to defeat the Golden Lotus Guai, which may drop a valuable Golden Lotus upon defeat."
 }

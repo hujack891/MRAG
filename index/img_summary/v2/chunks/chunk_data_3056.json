@@ -1,28 +1,11 @@
 {
-    "chunk_id": 875030950782,
-    "source_file": "Turtle_Treasure_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Turtle_Treasure_Location.jpg",
-    "alt_text": "Turtle Treasure Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.",
-    "img_below_text": "## Turtle Treasure Fight\nTurtle Treasure is a large enemy that you must fight in a relatively enclosed space. The fight also takes place on lava, so you are going to want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without having to worry about your health constantly depleting.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Turtle_Treasure_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.\"\n            - Following Text: \"## Turtle Treasure Fight\nTurtle Treasure is a large enemy that you must fight in a relatively enclosed space. The fight also takes place on lava, so you are going to want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without having to worry about your health constantly depleting.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Turtle_Treasure_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is navigating a treacherous lava river in Furnace Valley. This setting is crucial for reaching the Turtle Treasure, a guardian of a chest located at the end of the lava flow. The image captures the intense environment where the upcoming battle with Turtle Treasure will occur, emphasizing the need for the Xiang River Goddess Gourd to gain temporary immunity from the lava during the fight."
+    "chunk_id": 573857168494,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_YellowLoong_2.jpg",
+    "alt_text": "Wukong YellowLoong 2.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong YellowLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_YellowLoong_1.jpg)\nYellow Loong has a few distinct attack he can perform, but you'll often find he always starts the fight with the same one: After charging up power, he'll dash forward to thrust with his glaive.",
+    "img_below_text": "After a brief moment, he'll perform a spinning strike that hits twice as he winds up and then slams down his glaive, dealing electric damage all the while. This is a good time to dodge and then get in a light combo, and then start on a new combo chain.\nUsually as you begin your second combo chain, he'll do one of two things. If he performs a spinning flip, he'll retreat backwards, but the end of your combo can usually chase after him and strike regardless.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_YellowLoong_1.jpg)\nYellow Loong has a few distinct attack he can perform, but you'll often find he always starts the fight with the same one: After charging up power, he'll dash forward to thrust with his glaive.\"\n        - Following Text: \"After a brief moment, he'll perform a spinning strike that hits twice as he winds up and then slams down his glaive, dealing electric damage all the while. This is a good time to dodge and then get in a light combo, and then start on a new combo chain.\nUsually as you begin your second combo chain, he'll do one of two things. If he performs a spinning flip, he'll retreat backwards, but the end of your combo can usually chase after him and strike regardless.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing a battle between the player-controlled character and the boss \"Yellow Loong.\" The scene highlights the lush, detailed environment and the intense combat, with both characters wielding polearms. The context suggests this is part of a guide explaining Yellow Loong's attack patterns and strategies to counter them."
 }

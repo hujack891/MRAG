@@ -1,6 +1,9 @@
 {
-    "chunk_id": 141772185558,
+    "chunk_id": 170703382212,
+    "source_file": "Lang-Li-Guhh-Lang.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Felicity_4.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image depicts a scene from a video game set in a snowy environment. The player character is visible in the foreground, equipped with a large polearm weapon, and is crouched on the snow-covered ground. In the background, a humanoid enemy is present near a rocky cliff, possibly preparing to attack or defend. The user interface includes several elements: a health bar at the bottom left, a series of hexagonal icons indicating available actions or items, and a circular icon suggesting a special ability or attack. On the right side, a text hint displays \"+8 Will x15,\" indicating a potential resource or ability gain. The environment is detailed with snow-covered rocks and trees, enhancing the immersive winter setting."
+    "alt_text": "Wukong Felicity 4.jpg",
+    "position_desc": 1,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image depicts a scene from a video game set in a snowy environment. A character dressed in red armor is kneeling in the snow, holding a long staff or weapon. Nearby, another humanoid figure is visible, seemingly interacting with a rock formation. The game interface shows various icons and meters at the bottom of the screen, indicating player stats or abilities. On the right side, there is a notification showing an increase in \"Will\" by +8, with a total of 15. The background features snow-covered rocks and trees, suggesting a mountainous or forested area."
 }

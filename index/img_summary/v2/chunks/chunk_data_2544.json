@@ -1,28 +1,11 @@
 {
-    "chunk_id": 589366716521,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg",
-    "alt_text": "Wukong Sandgate 61.jpg",
-    "position_desc": 58,
-    "img_above_text": "![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)\nHis overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.",
-    "img_below_text": "Expect his swings to hit harder and move faster, often hitting twice in a row in quick succession. If he jumps through the air past you, he’ll often go for a lunging sweeping strike that sends him sliding back past you, but gives you the opportunity to dodge alongside his strike to hit him where he ends up.\n![Wukong Sandgate 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Sandgate_60.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 58 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)\nHis overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.\"\n            - Following Text: \"Expect his swings to hit harder and move faster, often hitting twice in a row in quick succession. If he jumps through the air past you, he’ll often go for a lunging sweeping strike that sends him sliding back past you, but gives you the opportunity to dodge alongside his strike to hit him where he ends up.\n![Wukong Sandgate 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Sandgate_60.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic combat scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in a battle with the \"Second Rat Prince.\" The context suggests that the image captures a moment of intense action, highlighting the enemy's powerful overhead slam attack, which creates fissures upon impact. Players are advised to dodge sideways to avoid the attack, as the enemy's swings are fast and often come in quick succession. The image serves to illustrate the challenging and strategic nature of the combat within the game."
+    "chunk_id": 367599459453,
+    "source_file": "The_Spirit_of_Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/The_Spirit_of_Captain_Lotus-Vision_2.jpg",
+    "alt_text": "The Spirit of Captain Lotus-Vision 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# The Spirit of Captain Lotus-Vision\nThe Spirit of Captain Lotus-Vision is one of the hidden Key Items in The New West. The item can be found after defeating Captain Lotus-Vision within the chapter. However, he is pretty hard to find, unless you know where he is.",
+    "img_below_text": "The Spirit of Captain Lotus-Vision can be found in the Pagoda Realm in The New West. Specifically, right next to the Upper Pagoda Shrine. Once you spawn at the shrine, turn around and look down to find a small gap in the rocks with some enemies kneeling.\n![The Spirit of Captain Lotus-Vision 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/The_Spirit_of_Captain_Lotus-Vision_1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# The Spirit of Captain Lotus-Vision\nThe Spirit of Captain Lotus-Vision is one of the hidden Key Items in The New West. The item can be found after defeating Captain Lotus-Vision within the chapter. However, he is pretty hard to find, unless you know where he is.\"\n        - Following Text: \"The Spirit of Captain Lotus-Vision can be found in the Pagoda Realm in The New West. Specifically, right next to the Upper Pagoda Shrine. Once you spawn at the shrine, turn around and look down to find a small gap in the rocks with some enemies kneeling.\n![The Spirit of Captain Lotus-Vision 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/The_Spirit_of_Captain_Lotus-Vision_1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the inventory screen from a video game, highlighting the \"Spirit of Captain Lotus-Vision,\" an Epic Key Item. The item description emphasizes its unique and mysterious nature, suggesting it holds untapped potential. The context indicates this item is obtained after defeating Captain Lotus-Vision and is tied to exploration in the Pagoda Realm."
 }

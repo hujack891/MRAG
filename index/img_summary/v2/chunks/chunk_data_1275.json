@@ -1,28 +1,11 @@
 {
-    "chunk_id": 865277814166,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Fright_37.jpg",
-    "alt_text": "Wukong Fright 37.jpg",
-    "position_desc": 38,
-    "img_above_text": "## Rockrest Flat\nThe area of Rockrest flat is wide with three major branches from the open area around the Shrine, and all directions are worth noting.",
-    "img_below_text": "To the right when facing the shrine, you can spot stairs leading up past a wooden platform where a Blazebone will attack from its vantage point.\n![Wukong Fright 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Fright_40.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Rockrest Flat\nThe area of Rockrest flat is wide with three major branches from the open area around the Shrine, and all directions are worth noting.\"\n            - Following Text: \"To the right when facing the shrine, you can spot stairs leading up past a wooden platform where a Blazebone will attack from its vantage point.\n![Wukong Fright 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Fright_40.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Fright_37.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a rugged, rocky terrain with ancient ruins and a set of stairs leading upwards. A character, possibly the protagonist, is seen approaching the stairs, suggesting a moment of exploration or impending combat. The context indicates that the character is near the Shrine at Rockrest Flat and is about to encounter a Blazebone enemy positioned on a wooden platform above. This scene sets the stage for an upcoming battle in the game \"Black Myth: Wukong.\""
+    "chunk_id": 154608181584,
+    "source_file": "Galeguard_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Fright_45.jpg",
+    "alt_text": "Wukong Fright 45.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Perfect dodges slightly reduces cooldown for all spells (4 pieces equipped)\nThe full Galeguard Set of Armor and Gear is located within Chapter 2 - Yellow Wind Ridge. It is unlocked once you defeat the Stone Vanguard, one of the mandatory bosses of the chapter. After the fight you can then craft it at any Shrine.",
+    "img_below_text": "The Galeguard Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 4 Yarn, 2 Silk, 1,080 Will - headgear",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Perfect dodges slightly reduces cooldown for all spells (4 pieces equipped)\nThe full Galeguard Set of Armor and Gear is located within Chapter 2 - Yellow Wind Ridge. It is unlocked once you defeat the Stone Vanguard, one of the mandatory bosses of the chapter. After the fight you can then craft it at any Shrine.\"\n        - Following Text: \"The Galeguard Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 4 Yarn, 2 Silk, 1,080 Will - headgear\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from a video game where the player is engaged in combat with the Stone Vanguard, a large rock-based boss enemy. This encounter is significant as defeating the Stone Vanguard unlocks the ability to craft the Galeguard Set of Armor and Gear, which is tied to Chapter 2 - Yellow Wind Ridge. The preceding and following text explains the importance of this boss fight and provides crafting requirements for the armor set."
 }

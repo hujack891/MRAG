@@ -1,28 +1,11 @@
 {
-    "chunk_id": 511859156148,
-    "source_file": "Centipede_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_MiddleHollow_38.jpg",
-    "alt_text": "Wukong MiddleHollow 38.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong MiddleHollow 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_MiddleHollow_37.jpg)\nAfter he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.",
-    "img_below_text": "When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Centipede_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_MiddleHollow_37.jpg)\nAfter he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.\"\n            - Following Text: \"When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_MiddleHollow_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the Centipede Guai boss. The player character is seen amidst a dark, eerie environment filled with skulls and skeletons, facing the imposing, armored centipede-like creature. The preceding text describes the boss's aggressive lunging attack, while the following text outlines its frontal slamming and sweeping claw attacks, emphasizing the need for strategic dodging and counterattacks. The image serves to illustrate the intense and challenging nature of this boss fight."
+    "chunk_id": 281473727235,
+    "source_file": "Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_39.jpg",
+    "alt_text": "Wukong Fright 39.jpg",
+    "position_desc": 1,
+    "img_above_text": "This Chapter 2 Secret can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).\n## How to Access the Kingdom of Sahali",
+    "img_below_text": "In order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.\n![Wukong Fright 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"This Chapter 2 Secret can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).\n## How to Access the Kingdom of Sahali\"\n        - Following Text: \"In order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.\n![Wukong Fright 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character approaching a Spearbone enemy guarding a breakable wooden fence in the Rockrest Flat area of Fright Cliff. This encounter is part of the steps required to access the Kingdom of Sahali secret area in Chapter 2."
 }

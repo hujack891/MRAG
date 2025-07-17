@@ -1,28 +1,11 @@
 {
-    "chunk_id": 165233567079,
+    "chunk_id": 589377948770,
     "source_file": "Bamboo_Grove_Walkthrough.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg",
     "alt_text": "Wukong Bamboo 32.jpg",
     "position_desc": 31,
     "img_above_text": "Guangmou\n## Black Wind Mountain’s Secret - Ringing the Second Bell",
     "img_below_text": "As the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.\n![Wukong Bamboo 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Bamboo_33.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 31 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Guangmou\n## Black Wind Mountain’s Secret - Ringing the Second Bell\"\n            - Following Text: \"As the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.\n![Wukong Bamboo 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Bamboo_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Image Summary**:  \nThe image depicts a misty bamboo forest scene with a character, likely the protagonist, ascending a stone staircase toward a temple-like structure. The red arrow suggests a path leading to a significant location, possibly a large bell mentioned in the text. The environment is atmospheric, with dim lighting and dense foliage, emphasizing the mysterious and ominous tone of the narrative.\n\n2. **Narrative Role**:  \nThe image serves as a visual guide to the player's next objective in *Black Myth: Wukong*. It highlights the path to the second bell, which plays a key role in the unfolding story about the monks Guangmou and Guangzhi, their betrayal, and the eerie consequences of ringing the bells. The setting reinforces the game's themes of mystery and foreboding."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Guangmou\n## Black Wind Mountain’s Secret - Ringing the Second Bell\"\n        - Following Text: \"As the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.\n![Wukong Bamboo 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Bamboo_33.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist ascending a moss-covered stone staircase in a dense bamboo forest. The red arrow highlights the path leading to a large bell structure partially visible at the top of the stairs. This bell is significant to the narrative, as ringing it triggers an ominous response and ties into the story involving fallen Yaoguai monks and their connection to the temple's destruction. The game's interface elements, including health and abilities, are visible in the bottom corners."
 }

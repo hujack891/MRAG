@@ -1,28 +1,11 @@
 {
-    "chunk_id": 336220588271,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg",
-    "alt_text": "Ginseng Pellets .jpg",
-    "position_desc": 7,
-    "img_above_text": "![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Aged Ginseng | Amplification Pellets",
-    "img_below_text": "• 1 Aged Ginseng | Ginseng Pellets\n![Body-Warming Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg)| Body-Warming Powder | Uncommon | Upon use, instantly removes Chilled State and significantly reduces Chill Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Fire Bellflower",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Aged Ginseng | Amplification Pellets\"\n            - Following Text: \"• 1 Aged Ginseng | Ginseng Pellets\n![Body-Warming Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg)| Body-Warming Powder | Uncommon | Upon use, instantly removes Chilled State and significantly reduces Chill Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Fire Bellflower\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the \"Body-Warming Powder,\" an uncommon consumable item from *Black Myth: Wukong*. It is used to instantly remove the Chilled State and temporarily reduce Chill Resistance. Players can craft this item at the Shrine store under \"Make Medicines\" after assisting Xu Dog in defeating Lang-Li-Guhh-Baw at Sandgate Village - Village Entrance in Yellow Wind Ridge. The crafting recipe requires 1 Fire Bellflower."
+    "chunk_id": 950807252805,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Black-myth-wukong-golden-glowing-eye.jpg",
+    "alt_text": "Black-myth-wukong-golden-glowing-eye.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Black-myth-wukong-buddhas-left-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Black-myth-wukong-buddhas-left-hand.jpg)  4 | Buddha's Left Hand| Epic | Special crafting material | • Defeat Baw-Li-Guhh-Baw in the Lower Hollow in The Webbed Hollow\n![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow",
+    "img_below_text": "![Black-myth-wukong-sea-supporting-tendon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Black-myth-wukong-sea-supporting-tendon.jpg)  7 | Sea-Supporting Tendon| Mythical | Special crafting material | • Defeat Yellow Loong in Relief of the Fallen Loong in The Webbed Hollow ( Loong Scales required)\n![Black-myth-wukong-bishui-east-bit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black-myth-wukong-bishui-east-bit.jpg)  8 | Bishui East Bit| Legendary | Special crafting material | • Defeat Bishui Golden-Eyed Beast in the Bishui Cave in Flaming Mountains",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-buddhas-left-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Black-myth-wukong-buddhas-left-hand.jpg)  4 | Buddha's Left Hand| Epic | Special crafting material | • Defeat Baw-Li-Guhh-Baw in the Lower Hollow in The Webbed Hollow\n![Black-myth-wukong-deathstinger-material.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Black-myth-wukong-deathstinger-material.jpg)  5 | Deathstinger (Material)| Legendary | Special crafting material | • Defeat The Scorpionlord in Purple Cloud Mountain in the The Webbed Hollow\"\n        - Following Text: \"![Black-myth-wukong-sea-supporting-tendon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Black-myth-wukong-sea-supporting-tendon.jpg)  7 | Sea-Supporting Tendon| Mythical | Special crafting material | • Defeat Yellow Loong in Relief of the Fallen Loong in The Webbed Hollow ( Loong Scales required)\n![Black-myth-wukong-bishui-east-bit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black-myth-wukong-bishui-east-bit.jpg)  8 | Bishui East Bit| Legendary | Special crafting material | • Defeat Bishui Golden-Eyed Beast in the Bishui Cave in Flaming Mountains\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Deathstinger (Material),\" a Legendary crafting material in *Black Myth: Wukong*. It is obtained by defeating The Scorpionlord in Purple Cloud Mountain within The Webbed Hollow. The item is likely used for advanced crafting or upgrades in the game."
 }

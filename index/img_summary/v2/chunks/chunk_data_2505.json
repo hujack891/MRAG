@@ -1,28 +1,11 @@
 {
-    "chunk_id": 708067026658,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg",
-    "alt_text": "Wukong Sandgate 20.jpg",
-    "position_desc": 19,
-    "img_above_text": "![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)\nIf instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.",
-    "img_below_text": "If you’re having trouble dealing with his many lightning attacks, remember to use Immobilize whenever you see him charge up to interrupt the attack entirely, limiting how much he can actually try to electrify you.\n![Wukong Sandgate 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)\nIf instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\"\n            - Following Text: \"If you’re having trouble dealing with his many lightning attacks, remember to use Immobilize whenever you see him charge up to interrupt the attack entirely, limiting how much he can actually try to electrify you.\n![Wukong Sandgate 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in combat with a large, glowing frog-like creature named Lang-Li-Guth-Baw. The context suggests the creature can summon a lightning storm, and players are advised to use the Immobilize ability to interrupt its attacks. The image serves to illustrate the intense action and strategic elements involved in overcoming this formidable enemy."
+    "chunk_id": 675662225906,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_YellowFlower_48.jpg",
+    "alt_text": "Wukong YellowFlower 48.jpg",
+    "position_desc": 45,
+    "img_above_text": "Taking off one of his arms will deal a chunk of damage, but if you can try targeting both of his extra arms, removing them both will instantly deplete his health, and begin the second phase where demands a true fight: two arms vs two arms.\nHe's got a lot more aggressive moves for this phase, and you'll need to be a bit more cautious as he has a lot less openings to retaliate than before.",
+    "img_below_text": "To start, he often jumps up to float in the air a moment, tossing one sword after another at you, with the second sword landing a little farther past you. He'll then leap towards you and slash as he grabs both swords, ending with a mighty spinning slash to catch you trying to score a hit.\n![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Taking off one of his arms will deal a chunk of damage, but if you can try targeting both of his extra arms, removing them both will instantly deplete his health, and begin the second phase where demands a true fight: two arms vs two arms.\nHe's got a lot more aggressive moves for this phase, and you'll need to be a bit more cautious as he has a lot less openings to retaliate than before.\"\n        - Following Text: \"To start, he often jumps up to float in the air a moment, tossing one sword after another at you, with the second sword landing a little farther past you. He'll then leap towards you and slash as he grabs both swords, ending with a mighty spinning slash to catch you trying to score a hit.\n![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from the game *Black Myth: Wukong*, featuring the \"Venom Daoist\" as the enemy. The player character is seen evading or recovering on the ground while the boss floats mid-air, preparing an attack. The setting is a dimly lit, ruined structure with sunlight filtering through, creating a tense atmosphere. The on-screen text, \"Taste my keen edge!\", highlights the boss's aggressive stance, aligning with the guide's description of the second, more challenging phase of the fight."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 489291133020,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg",
-    "alt_text": "Wukong MadTiger 10.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)\nThere’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.",
-    "img_below_text": "He may not have a sword, but the Mad Tiger’s fists work just fine, and can employ many combo attacks. His most common one starts with an uppercut punch, and then a downward strike after a short pause, and is then followed by a huge sweeping claw swipe that spins him around. If you want to try using Rock Solid, save it for the swipe so he doesn’t attack through his first two swings.\nAnnoyingly, he can also employ a similar strike with only the first two hits, but at a much more rapid pace.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)\nThere’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.\"\n            - Following Text: \"He may not have a sword, but the Mad Tiger’s fists work just fine, and can employ many combo attacks. His most common one starts with an uppercut punch, and then a downward strike after a short pause, and is then followed by a huge sweeping claw swipe that spins him around. If you want to try using Rock Solid, save it for the swipe so he doesn’t attack through his first two swings.\nAnnoyingly, he can also employ a similar strike with only the first two hits, but at a much more rapid pace.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Mad Tiger, a formidable boss character in *Black Myth: Wukong*, mid-action during a dramatic attack sequence. The preceding text highlights his leaping attack where he twists in the air and crashes down, leaving him vulnerable during recovery. The following text describes his powerful melee combos, including uppercuts, claw swipes, and rapid strikes. The image captures the intensity of the battle, showcasing the player's challenge in timing dodges and counters against the Mad Tiger's aggressive moves."
+    "chunk_id": 448203218796,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Thunderclap_51.jpg",
+    "alt_text": "Wukong Thunderclap 51.jpg",
+    "position_desc": 51,
+    "img_above_text": "![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)\nHe can also form energy around himself by moving his arms in a circle. This will cause all the scattered pages around the floor to form into a whirling tornado, which he'll send at you.",
+    "img_below_text": "While it can be dodged, the paper tornado will constantly follow you, and Non-Void will use this opportunity to cast more projectiles at you. Luckily, you can actually utilize your Staff Spin to disperse the tornado. The moment you see the papers flutter back to the ground, resume your assault!\nWhen trying to press your attack against him, watch for one of his incorporeal evasions where he twirls around to the side of you. He'll often end this movement by preparing a large palm blast attack. Though he'll do so while still transparent, it can be deflected with Rock Solid, or evaded as he'll return to solid form after the attack ends.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)\nHe can also form energy around himself by moving his arms in a circle. This will cause all the scattered pages around the floor to form into a whirling tornado, which he'll send at you.\"\n        - Following Text: \"While it can be dodged, the paper tornado will constantly follow you, and Non-Void will use this opportunity to cast more projectiles at you. Luckily, you can actually utilize your Staff Spin to disperse the tornado. The moment you see the papers flutter back to the ground, resume your assault!\nWhen trying to press your attack against him, watch for one of his incorporeal evasions where he twirls around to the side of you. He'll often end this movement by preparing a large palm blast attack. Though he'll do so while still transparent, it can be deflected with Rock Solid, or evaded as he'll return to solid form after the attack ends.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss encounter in *Black Myth: Wukong*, featuring the enemy \"Non-Void.\" Non-Void is seen forming a tornado of scattered pages, a key attack described in the text. This paper tornado follows the player and can be dispersed using the Staff Spin ability. The image highlights the intense visual effect of the attack and the player's proximity to the boss during the fight."
 }

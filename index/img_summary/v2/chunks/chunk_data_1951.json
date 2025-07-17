@@ -1,28 +1,11 @@
 {
-    "chunk_id": 444340788472,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg",
-    "alt_text": "Black-myth-wukong-flame-ore.jpg",
-    "position_desc": 17,
-    "img_above_text": "![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards",
-    "img_below_text": "![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Longevity Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 1 - Black Wind Mountain",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards\"\n            - Following Text: \"![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Longevity Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 1 - Black Wind Mountain\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a pile of reddish-orange ingredients, likely representing the **Fire Date**, an uncommon ingredient in *Black Myth: Wukong*. Based on the preceding text, Fire Date is found in **The Webbed Hollow and onwards**, and is part of the game's crafting system for medicine or formulas. The following text suggests that such ingredients are used in creating formulas like **Evil Repelling Medicament** or **Longevity Decoction**, which players can acquire through vendors or stores after completing specific quests. This image serves to visually represent one of the collectible items essential for crafting in the game."
+    "chunk_id": 555018555370,
+    "source_file": "Nine-Capped_Lingzhi_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Field_Fire_Walkthrough_.png",
+    "alt_text": "Field Fire Walkthrough .png",
+    "position_desc": 1,
+    "img_above_text": "Nine-Capped Lingzhi Guai is untracked in the journal, but is a Yaoguai Chief you'll fight as head up the Flaming Mountains in Chapter 5 in Black Myth: Wukong. The optional boss has to be plucked from the ground and uses poisonous moves to attack.\n## How to Find Nine-Capped Lingzhi Guai",
+    "img_below_text": "Before you continue along the path, face the Ashen Pass III Keeper's Shrine and turn to the right. You'll see a Purple Lingzhi to harvest and another mushroom in the center of the clearing. When you pull this second one, you'll be confronted by the Nine-Capped Lingzhi Guai, which is an optional boss.\n## Nine-Capped Lingzhi Guai Boss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Nine-Capped Lingzhi Guai is untracked in the journal, but is a Yaoguai Chief you'll fight as head up the Flaming Mountains in Chapter 5 in Black Myth: Wukong. The optional boss has to be plucked from the ground and uses poisonous moves to attack.\n## How to Find Nine-Capped Lingzhi Guai\"\n        - Following Text: \"Before you continue along the path, face the Ashen Pass III Keeper's Shrine and turn to the right. You'll see a Purple Lingzhi to harvest and another mushroom in the center of the clearing. When you pull this second one, you'll be confronted by the Nine-Capped Lingzhi Guai, which is an optional boss.\n## Nine-Capped Lingzhi Guai Boss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character standing near the Ashen Pass III Keeper's Shrine in a volcanic environment with flowing lava. A red-dotted circle highlights a specific location to the right, indicating the spot where players can harvest a mushroom to trigger the optional boss fight with Nine-Capped Lingzhi Guai. This visual aids players in navigating the area and finding the boss encounter."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 35325210590,
-    "source_file": "Lingxuzi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg",
-    "alt_text": "Wukong Wolves 47.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Wolves 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Wolves_46.jpg)\nHe’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.",
-    "img_below_text": "Certain times, he’ll dodge back after his attacks, but if he pauses to lick his claws, that’s your cue to sprint in (gaining a bonus from the Pilgrim Set) and attack with a quick light combo. Sometimes he may appear to charge the air around him — which means he’s preparing for a damaging howl. That’s your cue to simply run back a few paces to stand outside his range.\nTry not to get disoriented as he strafes before many of his attacks - which can sometimes end in a strafing lunge where he swipes upward as he slides toward you.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Lingxuzi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Wolves_46.jpg)\nHe’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.\"\n            - Following Text: \"Certain times, he’ll dodge back after his attacks, but if he pauses to lick his claws, that’s your cue to sprint in (gaining a bonus from the Pilgrim Set) and attack with a quick light combo. Sometimes he may appear to charge the air around him — which means he’s preparing for a damaging howl. That’s your cue to simply run back a few paces to stand outside his range.\nTry not to get disoriented as he strafes before many of his attacks - which can sometimes end in a strafing lunge where he swipes upward as he slides toward you.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a combat encounter between the protagonist and a large, intimidating wolf-like creature named Lingxuzi. The setting is an ancient, stone-paved courtyard surrounded by traditional architecture and lush greenery. The preceding and following text provides strategic advice for players, highlighting the creature's attack patterns, evasive maneuvers, and moments of vulnerability, such as when it licks its claws or prepares a damaging howl. This image serves to illustrate the dynamic and challenging nature of the battle, emphasizing the need for tactical timing and awareness during the fight."
+    "chunk_id": 975289460446,
+    "source_file": "Mother_of_Stones.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg",
+    "alt_text": "Wukong Fright 32.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.",
+    "img_below_text": "Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg)\nThere’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\"\n        - Following Text: \"Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the aftermath of a boss fight in *Black Myth: Wukong*, where the player has defeated the \"Mother of Stones.\" The glowing blue cracks on the stone-like boss indicate its destruction. The rewards displayed include the **Stone Essence** Key Item, along with **Stone Spirit** and **Yaoguai Core** materials. This moment signifies the conclusion of the battle after defeating six Palestones and the boss itself, as described in the preceding and following text."
 }

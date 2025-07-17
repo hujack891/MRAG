@@ -1,28 +1,11 @@
 {
-    "chunk_id": 807431545339,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2851%29.png",
-    "alt_text": "Foothills Walkthrough \\(51\\).png",
-    "position_desc": 58,
-    "img_above_text": "![Foothills Walkthrough \\(61\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Foothills_Walkthrough_%2861%29.png)\nWhen it seems like the fight is over, it's just getting started and entering its second phase. Blood will spill from the deer and pool all around it. The blood will poison you, so you'll want Antimiasma Powder to help you deal with any damage that comes from it.",
-    "img_below_text": "In this phase, you'll need to avoid the pools of blood. There are also some projectiles, where little orbs of blood will float up in the air and then hone in on you. Thankfully, you'll have a little bit of help with this one, as Zhu Bajie will appear in the second phase to give you a hand.\n![Foothills Walkthrough \\(63\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Foothills_Walkthrough_%2863%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 58 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(61\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Foothills_Walkthrough_%2861%29.png)\nWhen it seems like the fight is over, it's just getting started and entering its second phase. Blood will spill from the deer and pool all around it. The blood will poison you, so you'll want Antimiasma Powder to help you deal with any damage that comes from it.\"\n            - Following Text: \"In this phase, you'll need to avoid the pools of blood. There are also some projectiles, where little orbs of blood will float up in the air and then hone in on you. Thankfully, you'll have a little bit of help with this one, as Zhu Bajie will appear in the second phase to give you a hand.\n![Foothills Walkthrough \\(63\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Foothills_Walkthrough_%2863%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Foothills_Walkthrough_%2851%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the second phase of a boss fight in *Black Myth: Wukong*, featuring a corrupted deer-like creature surrounded by pools of poisonous blood. The environment is dark and foreboding, with red orbs of blood floating ominously in the air, hinting at incoming projectile attacks. The player character is visible in the foreground, preparing to face the creature. This phase introduces additional hazards, such as blood projectiles, and the narrative suggests Zhu Bajie will assist the player during this challenging encounter."
+    "chunk_id": 983652386885,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Fright_9.jpg",
+    "alt_text": "Wukong Fright 9.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)\nIf you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.",
+    "img_below_text": "Head past the ranged attacker above (note the Aged Ginseng on the left is actually a Ginsengling), and go through a doorway to spy a large cave entrance up ahead. Stick to the right to find a sloping path back, and a new stony enemy variant will burrow out of the ground.\n![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)\nIf you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.\"\n        - Following Text: \"Head past the ranged attacker above (note the Aged Ginseng on the left is actually a Ginsengling), and go through a doorway to spy a large cave entrance up ahead. Stick to the right to find a sloping path back, and a new stony enemy variant will burrow out of the ground.\n![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showing the player character engaging with a hostile creature in a rocky, grassy area. The creature appears to be a stony enemy variant, likely the one mentioned in the following text as burrowing out of the ground near a sloping path. The player character is positioned for combat, with visible health and ability icons on the screen, indicating active gameplay mechanics."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 956000706292,
-    "source_file": "Small_Piece_of_Gold.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Small_Piece_of_Gold.jpg",
-    "alt_text": "Small Piece of Gold.jpg",
-    "position_desc": 1,
-    "img_above_text": "The Small Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the middle rarity, providing a significant Will amount.",
-    "img_below_text": "The Small Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Small_Piece_of_Gold.md'.\n\n            Context:\n            - Preceding Text: \"The Small Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the middle rarity, providing a significant Will amount.\"\n            - Following Text: \"The Small Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Small_Piece_of_Gold.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the \"Small Piece of Gold\" item. This rare treasure, described as a small piece of gold speckled with bits of stone, can be sold for extra Will. The preceding text emphasizes its middle rarity and significant Will value, while the following text mentions that it can be found in chests throughout the game's six chapters."
+    "chunk_id": 969980124608,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Mindcliff_11.jpg",
+    "alt_text": "Wukong Mindcliff 11.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong Mindcliff 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Mindcliff_10.jpg)\nIt might not look like it, but you can actually fall down a ledge below this spot, and you can then spy a trail of ledges leading down to a fallen pillar with another green Wisp along the middle, meaning you can actually cross it!",
+    "img_below_text": "Once you cross the giant pit by way of the fallen pillar, take out the Monk Supporter on the other side, and work your way up the path. Another Monk Supporter can be found on the higher path leading out of a cave and back outside, but beware of a Cyan Bat lurking above.\n![Wukong Mindcliff 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Mindcliff 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Mindcliff_10.jpg)\nIt might not look like it, but you can actually fall down a ledge below this spot, and you can then spy a trail of ledges leading down to a fallen pillar with another green Wisp along the middle, meaning you can actually cross it!\"\n        - Following Text: \"Once you cross the giant pit by way of the fallen pillar, take out the Monk Supporter on the other side, and work your way up the path. Another Monk Supporter can be found on the higher path leading out of a cave and back outside, but beware of a Cyan Bat lurking above.\n![Wukong Mindcliff 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* holding a staff and preparing for combat in a dimly lit cave environment. A Monk Supporter enemy is visible in the background, along with a larger shadowy figure further inside the cave. The scene aligns with the preceding and following text, which describes navigating through ledges and a fallen pillar to reach this area, where players must confront enemies, including Monk Supporters and possibly a Cyan Bat."
 }

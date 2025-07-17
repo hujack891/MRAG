@@ -1,28 +1,11 @@
 {
-    "chunk_id": 818388417518,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Prologue_7.jpg",
-    "alt_text": "Wukong Prologue 7.jpg",
-    "position_desc": 7,
-    "img_above_text": "* The left button is **Immobilize** , which temporarily freezes your opponent in place allowing you to score free hits\n* The bottom button is A **Pluck of Many** , which creates illusory copies of you to assist in combat.",
-    "img_below_text": "Once nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.\n![Wukong Prologue 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Prologue_8.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* The left button is **Immobilize** , which temporarily freezes your opponent in place allowing you to score free hits\n* The bottom button is A **Pluck of Many** , which creates illusory copies of you to assist in combat.\"\n            - Following Text: \"Once nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.\n![Wukong Prologue 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Prologue_8.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Prologue_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Sun Wukong mid-transformation as he ascends into the sky, surrounded by dynamic energy and lightning-like effects. This moment occurs just before the Buddha’s magical circlet activates, causing him immense pain and allowing Erlang to trap him within a stone egg, marking the climactic conclusion of the narrative. The image visually emphasizes the dramatic transition and impending downfall of Sun Wukong."
+    "chunk_id": 989750900036,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+    "alt_text": "Wukong Shigandang 1.jpg",
+    "position_desc": 47,
+    "img_above_text": "![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang",
+    "img_below_text": "If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang\"\n        - Following Text: \"If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the protagonist interacting with a large, rock-like structure embedded with humanoid faces, located in a barren, rocky environment. A prompt labeled \"Deliver\" with the control input \"RT\" suggests the player can perform an action involving this object. Based on the context, this interaction may relate to seeking assistance from the Shigandang or another Yaoguai King in the same area, potentially as part of a strategy to overcome the Stone Vanguard boss."
 }

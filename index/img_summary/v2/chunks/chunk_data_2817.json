@@ -1,28 +1,11 @@
 {
-    "chunk_id": 189652990301,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg",
-    "alt_text": "Wukong YellowFlower 15.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong YellowFlower 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_YellowFlower_14.jpg)\nNext, take the right path to defeat the group of Sword Daoists practicing, and beyond them you'll find two more Worm Practitioners by a broken building with a green Wisp. Defeat them both, and you should gain the **Virtuous Bamboo Engraving Curio**.",
-    "img_below_text": "Look for a main stone path cutting through the forest, leading past another group of Daoists before the road curves right where a Snake Herbalist patrols.\n![Wukong YellowFlower 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_YellowFlower_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_YellowFlower_14.jpg)\nNext, take the right path to defeat the group of Sword Daoists practicing, and beyond them you'll find two more Worm Practitioners by a broken building with a green Wisp. Defeat them both, and you should gain the **Virtuous Bamboo Engraving Curio**.\"\n            - Following Text: \"Look for a main stone path cutting through the forest, leading past another group of Daoists before the road curves right where a Snake Herbalist patrols.\n![Wukong YellowFlower 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_YellowFlower_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\nThe image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist navigating a rocky path in a forested area. Two yellow-clad Daoists are visible in the background, practicing near a broken building. The protagonist is equipped with a fiery staff and appears to be preparing for an encounter.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image serves as a visual guide for players following the walkthrough. It illustrates the location where players will encounter a group of Sword Daoists and Worm Practitioners. The red arrow indicates the direction players should take to proceed along the path, leading to a confrontation and the acquisition of the **Virtuous Bamboo Engraving Curio**. The image helps players identify key landmarks and enemies in the game's environment, ensuring they stay on the correct path during their adventure."
+    "chunk_id": 241691459962,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Black-myth-wukong-adept-spine-shooting-fuban-staff.jpg",
+    "alt_text": "Black-myth-wukong-adept-spine-shooting-fuban-staff.jpg",
+    "position_desc": 21,
+    "img_above_text": "• 2 Kun Steal\n• 4 Gold Tree Core | Dark Iron Staff",
+    "img_below_text": "• 4 Gold Tree Core\n• 2 Kun Steel",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 2 Kun Steal\n• 4 Gold Tree Core | Dark Iron Staff\"\n        - Following Text: \"• 4 Gold Tree Core\n• 2 Kun Steel\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a character holding an intricately designed staff, likely the \"Dark Iron Staff\" mentioned in the preceding text. The staff's ornate and mystical appearance suggests it is a significant weapon or item in the game. The context provided indicates this image is part of a guide or walkthrough detailing items or equipment, with references to materials like \"Gold Tree Core\" and \"Kun Steel,\" which may be required for crafting or upgrading."
 }

@@ -165,20 +165,16 @@ def extract_chunks_from_markdown(content: str, filename: str) -> List[SummaryDat
     return summary_chunks
 
 def build_prompt_text(chunk_data):
-    """构造文本提示词内容"""
+    """构造摘要提示词"""
 
     if chunk_data.h3_title != "":
         return f"""
             You are given an image and related metadata and context.
 
-            Image Position:
-            - This is {chunk_data.position_desc} from the file '{chunk_data.source_file}', located under {chunk_data.h3_title}.
-
             Metadata:
             - Document Title: {chunk_data.h1_title}
             - Section Title: {chunk_data.h2_title}
             - Sub-Section Title: {chunk_data.h3_title}
-            - Alt Text: {chunk_data.alt_text}
 
             Context:
             - Preceding Text: "{chunk_data.img_above_text}"
@@ -188,19 +184,16 @@ def build_prompt_text(chunk_data):
             1. Generate a **short, clear, and informative English summary** of the image.
             2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.
             3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.
+            4. Do **not** speculate beyond the visible content.\n\n
             """.strip()            
 
     elif chunk_data.h2_title != "":
         return f"""
             You are given an image and related metadata and context.
 
-            Image Position:
-            - This is {chunk_data.position_desc} from the file '{chunk_data.source_file}', located under {chunk_data.h2_title}.
-
             Metadata:
             - Document Title: {chunk_data.h1_title}
             - Section Title: {chunk_data.h2_title}
-            - Alt Text: {chunk_data.alt_text}
 
             Context:
             - Preceding Text: "{chunk_data.img_above_text}"
@@ -210,17 +203,14 @@ def build_prompt_text(chunk_data):
             1. Generate a **short, clear, and informative English summary** of the image.
             2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.
             3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.
+            4. Do **not** speculate beyond the visible content.\n\n
             """.strip()
     else:
         return f"""
             You are given an image and related metadata and context.
 
-            Image Position:
-            - This is {chunk_data.position_desc} from the file '{chunk_data.source_file}', located under {chunk_data.h1_title}.
-
             Metadata:
             - Document Title: {chunk_data.h1_title}
-            - Alt Text: {chunk_data.alt_text}
 
             Context:
             - Preceding Text: "{chunk_data.img_above_text}"
@@ -230,6 +220,7 @@ def build_prompt_text(chunk_data):
             1. Generate a **short, clear, and informative English summary** of the image.
             2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.
             3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.
+            4. Do **not** speculate beyond the visible content.\n\n
             """.strip()
 
 def deduplicate_data(data_list: List[SummaryData]) -> List[SummaryData]:

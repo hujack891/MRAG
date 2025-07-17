@@ -1,28 +1,11 @@
 {
-    "chunk_id": 832340610595,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Field_Fire_Walkthrough_%2810%29.png",
-    "alt_text": "Field Fire Walkthrough \\(10\\).png",
-    "position_desc": 9,
-    "img_above_text": "* **Use Cloudstep.** On the longer sections, where it seems like a mad dash to try and reach the next point, use Cloudstep to cover the ground quicker.\n* **Whenever you can, back enemies into the path of the ball.** They're not immune to the attacks, so it can make light work of them saving you the hassle.",
-    "img_below_text": "In the first section, go right and into the dip with the Searing-Fire. Wait until the ball rolls past, then dash forward and to the left, where a Flamling will appear.\n![Field Fire Walkthrough \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Field_Fire_Walkthrough_%2813%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* **Use Cloudstep.** On the longer sections, where it seems like a mad dash to try and reach the next point, use Cloudstep to cover the ground quicker.\n* **Whenever you can, back enemies into the path of the ball.** They're not immune to the attacks, so it can make light work of them saving you the hassle.\"\n            - Following Text: \"In the first section, go right and into the dip with the Searing-Fire. Wait until the ball rolls past, then dash forward and to the left, where a Flamling will appear.\n![Field Fire Walkthrough \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Field_Fire_Walkthrough_%2813%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Field_Fire_Walkthrough_%2810%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, rocky terrain with a prominent glowing Searing-Fire hazard on the right and a large, ornate rolling ball hazard in the background. A character, armed and wearing a distinctive hat, stands in the foreground. A red arrow overlays the image, indicating the suggested path forward, guiding the player toward the next safe area while avoiding the hazards.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual aid in a gameplay walkthrough, illustrating the player's next move in navigating a hazardous area. It highlights the need to avoid the rolling ball and the Searing-Fire while following the indicated path to progress safely. This complements the preceding and following text, which provides strategic advice for dealing with these obstacles."
+    "chunk_id": 139757687863,
+    "source_file": "Folk_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Folk_Opera_Mask.jpg",
+    "alt_text": "Folk Opera Mask.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Every Bit Counts - Moderately increases the Will gained from defeating the enemy (4 pieces equipped)\nAll of these pieces of armor are automatically unlocked at the start of Chapter 1 - Black Wind Mountain. You can pick them up from the first Shrine at the Forest of Wolves under the \"Trailblazer's Gifts\" tab. You can't find these items in-game, as they purely serve as some extra protection to get through the initial sections of the game if you purchased the Deluxe Edition.",
+    "img_below_text": "The Folk Set of Armor and Gear can't be crafted, as it is a bonus set of gear and not a part of the main game's set.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Every Bit Counts - Moderately increases the Will gained from defeating the enemy (4 pieces equipped)\nAll of these pieces of armor are automatically unlocked at the start of Chapter 1 - Black Wind Mountain. You can pick them up from the first Shrine at the Forest of Wolves under the \"Trailblazer's Gifts\" tab. You can't find these items in-game, as they purely serve as some extra protection to get through the initial sections of the game if you purchased the Deluxe Edition.\"\n        - Following Text: \"The Folk Set of Armor and Gear can't be crafted, as it is a bonus set of gear and not a part of the main game's set.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the equipment menu from the game *Black Myth: Wukong*, showcasing the \"Folk Opera Mask,\" an uncommon headgear item. The mask provides a defense boost of +7 and includes the \"Every Bit Counts\" perk, which moderately increases the Will gained from defeating enemies. This item is part of the Folk Set, a bonus gear set available exclusively to players who purchased the Deluxe Edition. The set cannot be crafted or found in-game and serves as extra protection during the early stages of the game."
 }

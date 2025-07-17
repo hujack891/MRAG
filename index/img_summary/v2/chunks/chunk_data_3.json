@@ -1,28 +1,11 @@
 {
-    "chunk_id": 281099260916,
+    "chunk_id": 471778111221,
     "source_file": "Amber_Prayer_Beads.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Woods_Ember_Walkthrough_%2895%29.png",
     "alt_text": "Woods Ember Walkthrough \\(95\\).png",
     "position_desc": 1,
     "img_above_text": "## Black Myth: Wukong Amber Prayer Beads Location\nThe Amber Prayer Beads can be found in the Flaming Mountains. It is along the Gray-Bronze Cart path during the Woods of Ember. You will find yourself in a cave along this path. Within the cave you can find a path with some lava on the right. Ignore the left path.",
     "img_below_text": "Continue down this path until you end up outside and find the beads on the ground.\n![Woods Ember Walkthrough \\(91\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Woods_Ember_Walkthrough_%2891%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Amber_Prayer_Beads.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Amber Prayer Beads Location\nThe Amber Prayer Beads can be found in the Flaming Mountains. It is along the Gray-Bronze Cart path during the Woods of Ember. You will find yourself in a cave along this path. Within the cave you can find a path with some lava on the right. Ignore the left path.\"\n            - Following Text: \"Continue down this path until you end up outside and find the beads on the ground.\n![Woods Ember Walkthrough \\(91\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Woods_Ember_Walkthrough_%2891%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Woods_Ember_Walkthrough_%2895%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a cave interior from *Black Myth: Wukong*, showing a player character holding a staff while standing near intricately carved stone pillars. The dimly lit environment highlights two red markers in the distance, likely indicating points of interest or enemies. This scene aligns with the preceding and following text, which describes navigating a cave along the Gray-Bronze Cart path in the Woods of Ember to locate the Amber Prayer Beads. The image serves as a visual guide to help players identify the correct path within the cave."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Amber Prayer Beads Location\nThe Amber Prayer Beads can be found in the Flaming Mountains. It is along the Gray-Bronze Cart path during the Woods of Ember. You will find yourself in a cave along this path. Within the cave you can find a path with some lava on the right. Ignore the left path.\"\n        - Following Text: \"Continue down this path until you end up outside and find the beads on the ground.\n![Woods Ember Walkthrough \\(91\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Woods_Ember_Walkthrough_%2891%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a cave environment in *Black Myth: Wukong*, with a player character holding a staff and standing near intricately carved stone pillars. The dimly lit cave features two glowing red markers in the distance, likely highlighting points of interest or enemies. This scene aligns with the walkthrough's description of navigating the cave along the Gray-Bronze Cart path in the Woods of Ember to locate the Amber Prayer Beads."
 }

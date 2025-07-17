@@ -1,28 +1,11 @@
 {
-    "chunk_id": 215469956886,
-    "source_file": "Tiger_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Tiger_8.jpg",
-    "alt_text": "Wukong Tiger 8.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong Tiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_Tiger_9.jpg)\nThe first instance is the easiest to spot, as he’ll assume a new stance putting two fingers in front of his face while his other hand rests on the handle of his sword. After a shout, he’ll unleash a single slashing attack that hits hard enough to launch its own projectile slash. Caught unaware, and it’ll easily take off more than half your health bar! It’s also the easiest one to punish, as he’ll usually take the time to put the blade back before starting his next attack, giving you a lot of time to strike back.",
-    "img_below_text": "The other attack can come extremely quickly and unfortunately has a few variants. The most common one starts as the Tiger Vanguard approaches with a spin ending in a downward kick. As soon as he finishes his kick, he’ll seamlessly unsheathe his sword as he performs a downward swing to catch you off guard. This will be followed by a quick upward slash in the same direction, and then a large arcing spinning slash finale.\n![Wukong Tiger 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_Tiger_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Tiger_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Tiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_Tiger_9.jpg)\nThe first instance is the easiest to spot, as he’ll assume a new stance putting two fingers in front of his face while his other hand rests on the handle of his sword. After a shout, he’ll unleash a single slashing attack that hits hard enough to launch its own projectile slash. Caught unaware, and it’ll easily take off more than half your health bar! It’s also the easiest one to punish, as he’ll usually take the time to put the blade back before starting his next attack, giving you a lot of time to strike back.\"\n            - Following Text: \"The other attack can come extremely quickly and unfortunately has a few variants. The most common one starts as the Tiger Vanguard approaches with a spin ending in a downward kick. As soon as he finishes his kick, he’ll seamlessly unsheathe his sword as he performs a downward swing to catch you off guard. This will be followed by a quick upward slash in the same direction, and then a large arcing spinning slash finale.\n![Wukong Tiger 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_Tiger_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Tiger_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic and intense scene from the game \"Black Myth: Wukong,\" featuring the Tiger Vanguard character. It captures the Tiger Vanguard amidst a battle, likely executing one of his powerful and swift attacks described in the context. The blurred motion and vibrant colors suggest a fast-paced and chaotic combat environment, emphasizing the ferocity and danger posed by the Tiger Vanguard's moves. The image serves to illustrate the challenging nature of facing this adversary, as detailed in the preceding and following text."
+    "chunk_id": 475000233037,
+    "source_file": "Xu_Dog_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_9.jpg",
+    "alt_text": "Wukong Sandgate 9.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Xu Dog is a friendly character and merchant you can meet in Chapter 2 of Black Myth Wukong. This character will teach you the art of crafting consumable medicine, and eventually allow you to invest in passive buffs.\n## In the Sandgate Village",
+    "img_below_text": "You can first encounter the **Xu Dog** just outside the Sandgate Village of Chapter 2’s Yellow Wind Ridge. Once you first enter the region, head along the main path across the pond and left along a ridge to reach the **Village Entrance Shrine**.\n![Wukong Sandgate 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Xu Dog is a friendly character and merchant you can meet in Chapter 2 of Black Myth Wukong. This character will teach you the art of crafting consumable medicine, and eventually allow you to invest in passive buffs.\n## In the Sandgate Village\"\n        - Following Text: \"You can first encounter the **Xu Dog** just outside the Sandgate Village of Chapter 2’s Yellow Wind Ridge. Once you first enter the region, head along the main path across the pond and left along a ridge to reach the **Village Entrance Shrine**.\n![Wukong Sandgate 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from Chapter 2 of *Black Myth: Wukong*, showing the protagonist overlooking a rocky, arid area near Sandgate Village. The setting includes a pond, sparse vegetation, and a few hostile creatures in the distance. This area is part of the path leading to the Village Entrance Shrine, where players can encounter the Xu Dog, a merchant and crafting mentor. The game's HUD displays the player's abilities and health, emphasizing exploration and potential combat in this location."
 }

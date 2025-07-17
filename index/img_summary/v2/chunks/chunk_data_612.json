@@ -1,28 +1,11 @@
 {
-    "chunk_id": 748284294255,
-    "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg",
-    "alt_text": "Wukong PurpleCloud 64.jpg",
-    "position_desc": 71,
-    "img_above_text": "![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)\nThe Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.",
-    "img_below_text": "From the mist, he can either launch into his quick single arm jab, or his new attack where he coughs out his sword from his mouth to stab through the mist and into the ground in front of him.\nAfter grabbing the sword, he'll jump back, and launch a series of projectiles slashes you'll need to dodge one at a time. Luckily, they are evenly spaced, and the timing isn't hard to get down.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 71 from the file 'Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)\nThe Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\"\n            - Following Text: \"From the mist, he can either launch into his quick single arm jab, or his new attack where he coughs out his sword from his mouth to stab through the mist and into the ground in front of him.\nAfter grabbing the sword, he'll jump back, and launch a series of projectiles slashes you'll need to dodge one at a time. Luckily, they are evenly spaced, and the timing isn't hard to get down.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense moment in the battle against \"The Duskveil,\" a boss in *Black Myth: Wukong*. The scene is set in a blood-red, misty environment, with the player character, Wukong, facing the monstrous boss. The Duskveil appears partially obscured by a red mist, which it uses to conceal its attacks. The player's health and abilities are visible in the HUD, emphasizing the active combat scenario.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the challenging and atmospheric nature of the fight against The Duskveil. The red mist highlights the boss's ability to obscure its movements and launch unpredictable attacks, as described in the preceding and following text. This moment visually reinforces the need for strategic retreat and careful timing to counter the boss's deadly moves."
+    "chunk_id": 338799461725,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Bitter_3.jpg",
+    "alt_text": "Wukong Bitter 3.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** TBA\n## Where to Find Chen Loong",
+    "img_below_text": "Chen Loong is an optional opponent who has their own quest, which you can find shortly after leaving Turtle Rock for the North Shore of the Bitter Lake. From the Shrine, head left while facing it to head along the lakeshore toward a lone shack by the water.\nSearch the shallows near this shack, and you'll find the old dragon wandering the waters, and will become hostile as you approach.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Rewards:** TBA\n## Where to Find Chen Loong\"\n        - Following Text: \"Chen Loong is an optional opponent who has their own quest, which you can find shortly after leaving Turtle Rock for the North Shore of the Bitter Lake. From the Shrine, head left while facing it to head along the lakeshore toward a lone shack by the water.\nSearch the shallows near this shack, and you'll find the old dragon wandering the waters, and will become hostile as you approach.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character walking along a snowy lakeshore in a video game, heading toward a distant shack near the water. A red arrow highlights a specific area in the shallows, suggesting the location of Chen Loong, an optional opponent tied to a quest. The preceding and following text provides context for finding Chen Loong after leaving Turtle Rock and approaching the North Shore of the Bitter Lake."
 }

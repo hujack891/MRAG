@@ -1,28 +1,11 @@
 {
-    "chunk_id": 265249366084,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg",
-    "alt_text": "Wukong Sandgate 35.jpg",
-    "position_desc": 33,
-    "img_above_text": "![Wukong Sandgate 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Sandgate_34.jpg)\nWith everyone around the valley pathway defeated, be sure to look back toward that doorway we aren’t opening yet. The large ruined house has a wall with an entrance from the side the Rat Captain was on, and inside you should be able to find and absorb a green Wisp for some will and recharge your Gourd.",
-    "img_below_text": "Head up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.\n![Wukong Sandgate 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 33 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Sandgate_34.jpg)\nWith everyone around the valley pathway defeated, be sure to look back toward that doorway we aren’t opening yet. The large ruined house has a wall with an entrance from the side the Rat Captain was on, and inside you should be able to find and absorb a green Wisp for some will and recharge your Gourd.\"\n            - Following Text: \"Head up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.\n![Wukong Sandgate 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist engaged in combat with a Rat Soldier inside a ruined house. This encounter occurs after defeating enemies around the valley pathway and before heading up the hill to check other houses for more enemies and items. The image serves to illustrate the ongoing exploration and combat within the game, highlighting the protagonist's journey through the Sandgate Village area."
+    "chunk_id": 957907661905,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_YellowFlower_62.jpg",
+    "alt_text": "Wukong YellowFlower 62.jpg",
+    "position_desc": 59,
+    "img_above_text": "![Wukong YellowFlower 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_YellowFlower_61.jpg)\nIf he takes to the air, play it safe and hang back, waiting to dodge when he divekicks his way back to you before trying to Immobilize and counter him.",
+    "img_below_text": "If he tries to shoot out various wing-tip projectiles at you, don't panic and just use your staff spin to knock them all aside.\n![Wukong YellowFlower 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_YellowFlower_63.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_YellowFlower_61.jpg)\nIf he takes to the air, play it safe and hang back, waiting to dodge when he divekicks his way back to you before trying to Immobilize and counter him.\"\n        - Following Text: \"If he tries to shoot out various wing-tip projectiles at you, don't panic and just use your staff spin to knock them all aside.\n![Wukong YellowFlower 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_YellowFlower_63.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against the \"Supreme Inspector.\" The player character, Wukong, is engaged in combat within a lush forest environment. The boss appears to be mid-attack, surrounded by fiery and smoky effects. The preceding and following text provides strategies for dealing with the boss's aerial divekicks and projectile attacks, emphasizing defensive maneuvers and counterattacks."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 869364415733,
-    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Zodiac_Village_%289%29.png",
-    "alt_text": "Zodiac Village \\(9\\).png",
-    "position_desc": 6,
-    "img_above_text": "![Zodiac Village \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Zodiac_Village_%284%29.png)\nHand over the potion, and in exchange, he'll give you the Ruyi Scroll, which will take you to the Zodiac Village in the Painted Realm.",
-    "img_below_text": "Now you have the scroll, a number of NPCs you've already encountered in your journey will be reunited in the village. This will now act as a central hub where you can find Xu Dog, Shen Monkey, Chen Loong, and a new character - Yin Tiger.\n## How to Upgrade Armor",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"![Zodiac Village \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Zodiac_Village_%284%29.png)\nHand over the potion, and in exchange, he'll give you the Ruyi Scroll, which will take you to the Zodiac Village in the Painted Realm.\"\n            - Following Text: \"Now you have the scroll, a number of NPCs you've already encountered in your journey will be reunited in the village. This will now act as a central hub where you can find Xu Dog, Shen Monkey, Chen Loong, and a new character - Yin Tiger.\n## How to Upgrade Armor\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Zodiac_Village_%289%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character holding a scroll in a snowy, coastal environment, with the text referencing the Painted Realm as a peaceful haven built with fellow deities. This scene likely represents the moment after receiving the Ruyi Scroll, which enables access to the Zodiac Village in the Painted Realm, a central hub for reuniting NPCs and progressing in the narrative."
+    "chunk_id": 584808211147,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg",
+    "alt_text": "Wukong Snowhill 17.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Snowhill 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg)\nIf he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.",
+    "img_below_text": "Once you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\n![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg)\nIf he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\"\n        - Following Text: \"Once you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\n![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle scene from *Black Myth: Wukong*, featuring the player character facing off against the \"Macaque Chief\" in a snowy environment. The boss is positioned in the background, seemingly preparing for an attack, while the player character is in the foreground with visible health and abilities displayed on the HUD. This moment aligns with the preceding text, describing the boss's multi-hit slash attack pattern, and precedes the narrative shift mentioned in the following text, where the boss retreats and signals surrender."
 }

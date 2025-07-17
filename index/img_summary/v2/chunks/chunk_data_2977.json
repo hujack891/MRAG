@@ -1,28 +1,11 @@
 {
-    "chunk_id": 650590773317,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Water_Curtain_Cave_Walkthrough_%2835%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(35\\).png",
-    "position_desc": 30,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Water_Curtain_Cave_Walkthrough_%2832%29.png)\nWhen the Stone Monkey's health bar has been depleted, he'll face off still against The Destined One. A cutscene will see the Destined One hold his own against the giant monkey, sending our duplicates to put an end to the creature.",
-    "img_below_text": "As it staggers back and breaks down into stone, electricity will form around it and the Great Sage's Broken Shell will appear. Despite going straight into this fight from the Stone Monkey, all your Spells, Gourd uses, and health will be replenished.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 30 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Water_Curtain_Cave_Walkthrough_%2832%29.png)\nWhen the Stone Monkey's health bar has been depleted, he'll face off still against The Destined One. A cutscene will see the Destined One hold his own against the giant monkey, sending our duplicates to put an end to the creature.\"\n            - Following Text: \"As it staggers back and breaks down into stone, electricity will form around it and the Great Sage's Broken Shell will appear. Despite going straight into this fight from the Stone Monkey, all your Spells, Gourd uses, and health will be replenished.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Water_Curtain_Cave_Walkthrough_%2835%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showing three warrior-like figures standing in a dark, misty environment with a glowing red light emanating from one of them. This image likely represents the moment after the Stone Monkey's health bar is depleted and the Destined One, along with his duplicates, confronts the giant monkey. The setting and characters suggest a tense and climactic battle scene, leading up to the Stone Monkey's transformation into stone and the appearance of the Great Sage's Broken Shell."
+    "chunk_id": 481893075612,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Woods_Ember_Walkthrough_%2819%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(19\\).png",
+    "position_desc": 7,
+    "img_above_text": "![Woods Ember Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Woods_Ember_Walkthrough_%2818%29.png)\nOnce you've grabbed the Wisp, go in the opposite direction and past the Revenant Archer. On the other side of the underpass, you'll walk straight into another round of fighting. This time, you'll find the Revenants fighting Bull Sergeants.",
+    "img_below_text": "Before you go over to them, harvest the **Fire Bellflower** by the Buddha statue on the right. Then, go straight up and into the midst of the fighting, to find the Pale-Axe Stalwart taking on nearby Revenants. Alongside the fighting, the area is also being pelted with firebombs so having the Fireproof Mantle Vessel here can help you focus more on the fighting and less on the fire attacks.\n### Boss Fight - Pale-Axe Stalwart",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Woods_Ember_Walkthrough_%2818%29.png)\nOnce you've grabbed the Wisp, go in the opposite direction and past the Revenant Archer. On the other side of the underpass, you'll walk straight into another round of fighting. This time, you'll find the Revenants fighting Bull Sergeants.\"\n        - Following Text: \"Before you go over to them, harvest the **Fire Bellflower** by the Buddha statue on the right. Then, go straight up and into the midst of the fighting, to find the Pale-Axe Stalwart taking on nearby Revenants. Alongside the fighting, the area is also being pelted with firebombs so having the Fireproof Mantle Vessel here can help you focus more on the fighting and less on the fire attacks.\n### Boss Fight - Pale-Axe Stalwart\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, atmospheric area in the game, featuring a pathway flanked by large Buddha statues and surrounded by desolate terrain. The red arrow indicates the direction the player should proceed, leading toward an upcoming combat encounter where Revenants are fighting Bull Sergeants. The red circle highlights the location of the **Fire Bellflower**, which the player is advised to harvest before engaging in the battle. This area also sets the stage for the subsequent boss fight against the Pale-Axe Stalwart."
 }

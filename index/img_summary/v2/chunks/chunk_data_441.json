@@ -1,28 +1,11 @@
 {
-    "chunk_id": 240393903173,
-    "source_file": "Celestial_Nonary_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Yellow_Wind_Nonary.jpg",
-    "alt_text": "Yellow Wind Nonary.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Yellow Wind Ridge Celestial Nonary Pill\nYellow Wind Ridge Celestial Nonary Pill",
-    "img_below_text": "The Yellow Wind Ridge Celestial Nonary Pill is hidden in a secret area near the First Prince of Flowing Sands. Take out the enemies near the wooden plank opposite the arena and follow the path to a crack in the wall. Squeeze through the crack, take out the Swift Bat, absorb its Spirit, and pass through the door at the end of the room. Head to the back of the rock alcove to find the Celestial Nonary Pill.\n## Xu-Dog Celestial Nonary Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Celestial_Nonary_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Yellow Wind Ridge Celestial Nonary Pill\nYellow Wind Ridge Celestial Nonary Pill\"\n            - Following Text: \"The Yellow Wind Ridge Celestial Nonary Pill is hidden in a secret area near the First Prince of Flowing Sands. Take out the enemies near the wooden plank opposite the arena and follow the path to a crack in the wall. Squeeze through the crack, take out the Swift Bat, absorb its Spirit, and pass through the door at the end of the room. Head to the back of the rock alcove to find the Celestial Nonary Pill.\n## Xu-Dog Celestial Nonary Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Yellow_Wind_Nonary.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts a player character standing in a dimly lit cave, interacting with a glowing object on an altar-like structure. The object, likely the Yellow Wind Ridge Celestial Nonary Pill, is part of a hidden treasure hunt described in the surrounding text. The setting includes wooden planks, skull decorations, and a sandy floor, emphasizing the secretive and dangerous nature of the location.\n\n2. **Purpose/Role**: The image visually represents the moment of discovery or interaction with the Yellow Wind Ridge Celestial Nonary Pill, complementing the preceding and following text by illustrating the hidden location and the process of obtaining the item."
+    "chunk_id": 410255066570,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
+    "alt_text": "Wukong Bamboo 55.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.",
+    "img_below_text": "* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\n## Ancient Guanyin Temple",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.\"\n        - Following Text: \"* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\n## Ancient Guanyin Temple\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist facing a group of Wolf Guai enemies in a bamboo grove area. This encounter occurs in a large plaza near the Marsh of the White Mists, where several Wolf Guai are gathered before a wolf hung from a tree. The setting is part of the narrative progression leading to the discovery of the final bell before entering Black Wind Cave."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 43095373159,
-    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png",
-    "alt_text": "Secret Loong Bosses \\(1\\).png",
-    "position_desc": 7,
-    "img_above_text": "![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\nFrom here, you should be able to see the waterfall up ahead. This is where you need to head for. Take the path down, and go toward the stream. Then turn left, and you can climb up the green mossy rocks.",
-    "img_below_text": "Jump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.\n![Secret Loong Bosses .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\nFrom here, you should be able to see the waterfall up ahead. This is where you need to head for. Take the path down, and go toward the stream. Then turn left, and you can climb up the green mossy rocks.\"\n            - Following Text: \"Jump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.\n![Secret Loong Bosses .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a player character standing in a lush, moss-covered forest environment near a stream, with an arrow pointing toward a climbable path leading to a waterfall in the distance. The image serves as a visual guide for navigating toward the waterfall, which is a key location in the game \"Black Myth: Wukong.\" The preceding and following text explains that players need to head toward the waterfall, climb mossy rocks, and later interact with the area to reveal a hidden passage after defeating nearby enemies."
+    "chunk_id": 48437282887,
+    "source_file": "Loong_Scales.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Loong_Scales_Use_The_New_West.jpg",
+    "alt_text": "Loong Scales Use The New West.jpg",
+    "position_desc": 4,
+    "img_above_text": "### Loong Scale Use: Bitter Lake - Turtle Island\nAfter the fight with Kang-Jin Star, walk along the right side of the island to find a statue of a dragon. Getting close will cause it to come alive, allowing you to fight Cyan Loong.",
+    "img_below_text": "For an even more detailed breakdown of each chapter, be sure to read through our walkthrough.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Loong Scale Use: Bitter Lake - Turtle Island\nAfter the fight with Kang-Jin Star, walk along the right side of the island to find a statue of a dragon. Getting close will cause it to come alive, allowing you to fight Cyan Loong.\"\n        - Following Text: \"For an even more detailed breakdown of each chapter, be sure to read through our walkthrough.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player-controlled character traversing a snowy landscape near a body of water, likely on Turtle Island in the Bitter Lake area. This scene aligns with the walkthrough's guidance to explore the island after defeating Kang-Jin Star, potentially leading to the discovery of the dragon statue that triggers the Cyan Loong encounter."
 }

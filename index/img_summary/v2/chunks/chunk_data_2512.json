@@ -1,28 +1,11 @@
 {
-    "chunk_id": 351615970653,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg",
-    "alt_text": "Wukong Sandgate 29.jpg",
-    "position_desc": 26,
-    "img_above_text": "![Wukong Sandgate 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_28.jpg)\nYou should also inspect the raised altar on the wooden platform here, as you can find a turtle-shaped box that holds **Laurel Buds** inside, a new Soak for your Gourd.",
-    "img_below_text": "A large door stands to the right, and in front of it is a two-headed Rat Captain. These foes are incredibly ferocious, both with their heavy blade, and their unique head combo:\n![Wukong Sandgate 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_28.jpg)\nYou should also inspect the raised altar on the wooden platform here, as you can find a turtle-shaped box that holds **Laurel Buds** inside, a new Soak for your Gourd.\"\n            - Following Text: \"A large door stands to the right, and in front of it is a two-headed Rat Captain. These foes are incredibly ferocious, both with their heavy blade, and their unique head combo:\n![Wukong Sandgate 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a combat encounter. The player character is engaged in a battle against a burning enemy in a desolate, rocky environment. This image follows a segment where players are advised to inspect an altar for a turtle-shaped box containing Laurel Buds and precedes a confrontation with a two-headed Rat Captain guarding a large door. The image serves to illustrate the intense and challenging combat scenarios players will face in the game."
+    "chunk_id": 353341163981,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_YellowFlower_X.jpg",
+    "alt_text": "Wukong YellowFlower X.jpg",
+    "position_desc": 52,
+    "img_above_text": "Before you do, you should also head through the nearby gateway to find a large field with a giant tree in the middle. Off on the right, you can find a wooden ledge overlooking the mountains with a **Treasure Chest** full of random materials and a Soul Remigration Pill.\n## Court of Illumination",
+    "img_below_text": "After you've completed Purple Cloud Mountain, head back to the Court of Illumination Shrine. If you haven't stopped here to get the Shrine earlier, you'll need to take out two Spear Daoists, but also note a small pond of water with a Tiger Sheriff down inside, along with a green Wisp. Defeating him should also get you a special **Tiger Tendon Belt Curio** (if not, it may randomly drop from other Tiger Sheriffs).\n![Wukong YellowFlower 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_56.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Before you do, you should also head through the nearby gateway to find a large field with a giant tree in the middle. Off on the right, you can find a wooden ledge overlooking the mountains with a **Treasure Chest** full of random materials and a Soul Remigration Pill.\n## Court of Illumination\"\n        - Following Text: \"After you've completed Purple Cloud Mountain, head back to the Court of Illumination Shrine. If you haven't stopped here to get the Shrine earlier, you'll need to take out two Spear Daoists, but also note a small pond of water with a Tiger Sheriff down inside, along with a green Wisp. Defeating him should also get you a special **Tiger Tendon Belt Curio** (if not, it may randomly drop from other Tiger Sheriffs).\n![Wukong YellowFlower 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_56.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character battling a Tiger Sheriff enemy in a small pond. The Tiger Sheriff is a large, anthropomorphic tiger wielding weapons, while the player is equipped with a flaming staff. A green Wisp is visible nearby, marked with a red circle. The loot interface indicates the player has obtained a **Tiger Tendon Belt Curio**, along with other materials like Tiny Pieces of Gold and Refined Iron Sand. This scene aligns with the guide's description of defeating the Tiger Sheriff to acquire the Curio item."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 516420555076,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Fright_9.jpg",
-    "alt_text": "Wukong Fright 9.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)\nIf you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.",
-    "img_below_text": "Head past the ranged attacker above (note the Aged Ginseng on the left is actually a Ginsengling), and go through a doorway to spy a large cave entrance up ahead. Stick to the right to find a sloping path back, and a new stony enemy variant will burrow out of the ground.\n![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)\nIf you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.\"\n            - Following Text: \"Head past the ranged attacker above (note the Aged Ginseng on the left is actually a Ginsengling), and go through a doorway to spy a large cave entrance up ahead. Stick to the right to find a sloping path back, and a new stony enemy variant will burrow out of the ground.\n![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Fright_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character in *Black Myth: Wukong* engaging with a stony enemy variant in a rugged, grassy area near rocky cliffs. The enemy is emerging from the ground, suggesting an ambush scenario. The player appears ready to confront the creature, with visible UI elements showing health, abilities, and inventory.\n\n2. **Narrative Role**:  \nThe image illustrates a key moment in the walkthrough where the player encounters a new stony enemy variant after navigating past a ranged attacker and finding a sloping path. It highlights the game's environmental design and enemy behavior, emphasizing exploration and combat challenges in the cave-like area."
+    "chunk_id": 901792105902,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Furnace_Valley_Walkthrough_%2872%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(72\\).png",
+    "position_desc": 36,
+    "img_above_text": "![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)\nGo left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.",
+    "img_below_text": "Continue on the path to the left (running alongside the wall) to pick up the Fire Date from the tree on the right and take out the Bull Stalwart.\n![Furnace Valley Walkthrough \\(74\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2874%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)\nGo left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.\"\n        - Following Text: \"Continue on the path to the left (running alongside the wall) to pick up the Fire Date from the tree on the right and take out the Bull Stalwart.\n![Furnace Valley Walkthrough \\(74\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2874%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a fiery, lava-filled cavern with a player character advancing toward a Bull Soldier enemy. A red arrow highlights a green Wisp located underneath a curved portion of the bridge in the background, indicating an interactable or collectible item. This scene aligns with the walkthrough's guidance to defeat the Bull Soldier and absorb the green Wisp before continuing further into Furnace Valley."
 }

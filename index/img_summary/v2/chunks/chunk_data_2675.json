@@ -1,28 +1,11 @@
 {
-    "chunk_id": 462869177902,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg",
-    "alt_text": "Wukong Snowhill 21.jpg",
-    "position_desc": 20,
-    "img_above_text": "When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)",
-    "img_below_text": "With the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\n![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)\"\n            - Following Text: \"With the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\n![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist ascending a snowy mountain path towards a large walled temple. The character is armed with a staff and appears to be preparing for an encounter, as indicated by the health bar and enemy marker visible on the temple steps. This image follows a battle with the Macaque Chief and precedes an ambush by a Cyan Bat, highlighting the game's continuous combat and exploration elements."
+    "chunk_id": 550627928665,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg",
+    "alt_text": "Wukong Brook 12.jpg",
+    "position_desc": 52,
+    "img_above_text": "![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)\nHead back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.",
+    "img_below_text": "Once you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.\n![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)\nHead back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.\"\n        - Following Text: \"Once you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.\n![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy landscape in *Black Myth: Wukong*, where the player character is approaching an enemy wielding a glowing weapon. This scene appears to be part of the journey along the brook mentioned in the preceding text, potentially involving combat with enemies while exploring and gathering materials. The following text suggests progression toward a shrine and a hill after completing tasks in this area."
 }

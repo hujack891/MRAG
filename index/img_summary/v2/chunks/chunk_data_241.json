@@ -1,28 +1,11 @@
 {
-    "chunk_id": 767133184298,
-    "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg",
-    "alt_text": "Wukong Bitter 66.jpg",
-    "position_desc": 98,
-    "img_above_text": "![Wukong Bitter 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bitter_65.jpg)\nBe on the lookout for various green Wisps to absorb as you ascend, and once you make a hard left to a flat area with a giant red-robed statue nearby, keep an eye out on the right for a **Treasure Chest** full of materials hiding in an alcove.",
-    "img_below_text": "Deal with any shambling Frozen Corpses you'll find along this ledge, and keep heading along this path past the large statues to find a slope leading upwards, and a green Wisp behind the last large statue.\n![Wukong Bitter 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Bitter_67.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 98 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bitter_65.jpg)\nBe on the lookout for various green Wisps to absorb as you ascend, and once you make a hard left to a flat area with a giant red-robed statue nearby, keep an eye out on the right for a **Treasure Chest** full of materials hiding in an alcove.\"\n            - Following Text: \"Deal with any shambling Frozen Corpses you'll find along this ledge, and keep heading along this path past the large statues to find a slope leading upwards, and a green Wisp behind the last large statue.\n![Wukong Bitter 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Bitter_67.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**:  \nThe image depicts the player character in *Black Myth: Wukong* approaching a snowy, stone-paved area with a large red-robed statue in the background. A red arrow and circle highlight a hidden **Treasure Chest** tucked in an alcove to the right of the path, near a small shrine-like structure.\n\n2. **Purpose/Content/Narrative Role**:  \nThe image serves as a visual guide to help players locate a hidden **Treasure Chest** containing materials. It emphasizes exploration and attention to detail in the snowy environment, specifically near the large statues and the shrine."
+    "chunk_id": 819770783581,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_BlackWind_33.jpg",
+    "alt_text": "Wukong BlackWind 33.jpg",
+    "position_desc": 2,
+    "img_above_text": "To make matters worse, Black Bear Guai can and will utilize his black wind magic to teleport around the arena, and pop out of thin air in the middle of a two-hit charge attack you’ll need to evade with little warning.\nEven without the wind form, it can be hard to tell which moves the black bear is using when you’re right underneath him, so be sure not to get too far into your attacks that you can’t tell when he’s preparing a new attack.",
+    "img_below_text": "There’s more than a few attack combos he can launch at close range, including two-hit swipes, which are sometimes followed by a raised foot slam afterward. Later in the fight, he can extend this combo with more slashes before finally slamming his foot down.\nHe can also simply belly flop down, requiring you to dodge to the side rather than backwards.This move can come from the front, as well as from the sides if he collapses on his side, meaning even if you aren’t attacking from the front you won’t automatically be safe.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"To make matters worse, Black Bear Guai can and will utilize his black wind magic to teleport around the arena, and pop out of thin air in the middle of a two-hit charge attack you’ll need to evade with little warning.\nEven without the wind form, it can be hard to tell which moves the black bear is using when you’re right underneath him, so be sure not to get too far into your attacks that you can’t tell when he’s preparing a new attack.\"\n        - Following Text: \"There’s more than a few attack combos he can launch at close range, including two-hit swipes, which are sometimes followed by a raised foot slam afterward. Later in the fight, he can extend this combo with more slashes before finally slamming his foot down.\nHe can also simply belly flop down, requiring you to dodge to the side rather than backwards.This move can come from the front, as well as from the sides if he collapses on his side, meaning even if you aren’t attacking from the front you won’t automatically be safe.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter with the \"Black Bear Guai,\" a formidable boss in a video game. The bear is mid-attack, showcasing its aggressive nature and large, imposing figure. The preceding and following text highlights the bear's unpredictable attack patterns, including teleportation, multi-hit combos, and area attacks like belly flops, requiring precise evasion. The player’s health bar and abilities are visible, emphasizing the need for strategy and awareness during this challenging fight."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 254032208191,
-    "source_file": "Rat_Imperial_Guard_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Rat_Imperial_Guard_Fight.jpg",
-    "alt_text": "Rat Imperial Guard Fight.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Rat Imperial Guard Fight\n* Rat Imperial Guard Spirit",
-    "img_below_text": "## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Rat_Imperial_Guard_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Rat Imperial Guard Fight\n* Rat Imperial Guard Spirit\"\n            - Following Text: \"## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Rat_Imperial_Guard_Fight.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic scene from a video game, showcasing the Rat Imperial Guard Spirit in action. The setting appears to be a rustic, ancient town, with the player character engaged in combat against the ethereal, red-clad spirits. This battle is part of the narrative progression, occurring after the player defeats the Tiger Vanguard at Crouching Tiger Temple and navigates through the town to encounter the Rat Imperial Guard. The image captures the intensity and mystical elements of the game, highlighting the player's journey through challenging adversaries."
+    "chunk_id": 618888108542,
+    "source_file": "Sterness_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg",
+    "alt_text": "Sterness of Stone 2.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Sterness of Stone 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg)\nThe first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.",
+    "img_below_text": "The second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\n![Sterness of Stone 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Sterness of Stone 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg)\nThe first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\"\n        - Following Text: \"The second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\n![Sterness of Stone 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a large, weathered stone gate in a dimly lit environment. To the left of the gate is a small statue or shrine emitting a faint glow, suggesting it may serve as an interactive element or checkpoint. This scene corresponds to the \"first gate\" mentioned in the preceding text, located near the Sandgate Village - Valley of Despair Shrine, and is part of the walkthrough for *Black Myth: Wukong*."
 }

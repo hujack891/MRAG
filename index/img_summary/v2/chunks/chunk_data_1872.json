@@ -1,28 +1,11 @@
 {
-    "chunk_id": 487524782159,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg",
-    "alt_text": "Wukong Snowhill 16.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.",
-    "img_below_text": "If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.\"\n            - Following Text: \"If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts an intense battle scene in a snowy environment between the player character, armed with a glowing staff, and the \"Macaque Chief,\" a formidable enemy. The player appears to be mid-combat, with the enemy executing a powerful attack, as indicated by the visible arc of motion and red impact effects. The HUD displays the player's health, abilities, and the boss's health bar, emphasizing the high-stakes nature of the encounter.\n\n2. **Purpose/Narrative Role**: The image illustrates a critical moment in the fight against the Macaque Chief, showcasing the enemy's aggressive attack patterns and the need for precise timing to counter or evade. It complements the preceding and following text, which detail the boss's complex combos and strategies for overcoming its challenging moves."
+    "chunk_id": 641055400404,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Thunderclap_27.jpg",
+    "alt_text": "Wukong Thunderclap 27.jpg",
+    "position_desc": 28,
+    "img_above_text": "You'll also find a small turtle chest on the pavilion's table itself, and opening it will reveal the **Sweet Ice** Soak for your Gourd Drink, giving you extra chill resistance after consuming your drink.\nBefore heading down the main stairs to a fearsome looking foe, head all the way around to the far stairs, which leads to another small building where two Thunder Rhino Masters overlook the enemy below. You'll want to take them out so they can't give him support.",
+    "img_below_text": "After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You'll also find a small turtle chest on the pavilion's table itself, and opening it will reveal the **Sweet Ice** Soak for your Gourd Drink, giving you extra chill resistance after consuming your drink.\nBefore heading down the main stairs to a fearsome looking foe, head all the way around to the far stairs, which leads to another small building where two Thunder Rhino Masters overlook the enemy below. You'll want to take them out so they can't give him support.\"\n        - Following Text: \"After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a **Treasure Chest** located beside a small red building in a snowy environment. This chest is mentioned in the following text as containing materials, and it is found after defeating two Thunder Rhino Masters nearby. The scene serves as a preparatory step before descending the main stairs to face a formidable enemy, the Clay Vajra."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 144518567529,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png",
-    "alt_text": "Five Skandhas \\(25\\).png",
-    "position_desc": 85,
-    "img_above_text": "Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.",
-    "img_below_text": "After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.\nGiant Shigandang",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 85 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.\"\n            - Following Text: \"After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.\nGiant Shigandang\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a dark, rocky landscape with towering cliffs and jagged formations under a cloudy sky, creating an ominous and foreboding atmosphere. This setting likely represents the aftermath of the battle with the Giant Shigandang boss, as described in the preceding text. The rocky terrain may include the fallen arm of the defeated boss, which players are instructed to climb to progress in the game and encounter the monkey character in the following cutscene. The scene serves as a transition point in the narrative, leading to the acquisition of the Skandha of Consciousness."
+    "chunk_id": 79877530546,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
+    "alt_text": "Wukong Fright 36.jpg",
+    "position_desc": 37,
+    "img_above_text": "![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.",
+    "img_below_text": "Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nMan-in-Stone",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\"\n        - Following Text: \"Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nMan-in-Stone\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, where the protagonist interacts with a glowing, intricate structure resembling a cocoon or crystalline formation. This moment likely represents the collection or activation of an item or essence, as suggested by the surrounding text, which mentions harvesting \"Stone Essence\" from the Man-in-Stone. The action appears to be part of a progression leading to the acquisition of the **Azure Dust Transformation Spell** and the ability to command the Rock Guai in battle."
 }

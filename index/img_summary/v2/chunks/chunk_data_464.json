@@ -1,28 +1,11 @@
 {
-    "chunk_id": 108458752406,
-    "source_file": "Centipede_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Centipede_Guai_Minions.jpg",
-    "alt_text": "Centipede Guai Minions.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.",
-    "img_below_text": "The worst attack of all, however, occurs when the creature lets out a massive scream that summons a horde of small centipedes that explode on impact. Sprint and dodge out of the way to avoid the onslaught of poison. Bring some Antimiasma Powder just in case you need it.\n## Centipede Guai Spirit",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Centipede_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.\"\n            - Following Text: \"The worst attack of all, however, occurs when the creature lets out a massive scream that summons a horde of small centipedes that explode on impact. Sprint and dodge out of the way to avoid the onslaught of poison. Bring some Antimiasma Powder just in case you need it.\n## Centipede Guai Spirit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Centipede_Guai_Minions.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss fight with the Centipede Guai, a massive, armored centipede in a dark, web-filled arena. The creature is surrounded by its minions, including small, explosive centipedes, while the player character is engaged in combat. The scene highlights the chaotic and dangerous nature of the battle, with poison effects and debris scattered across the arena.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the challenging encounter with the Centipede Guai, emphasizing its overwhelming attacks, the presence of explosive minions, and the hazardous environment. It visually complements the preceding and following text by showcasing the boss's abilities and the perilous atmosphere of the fight."
+    "chunk_id": 896649159617,
+    "source_file": "Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_SahalI_11.jpg",
+    "alt_text": "Wukong SahalI 11.jpg",
+    "position_desc": 11,
+    "img_above_text": "Once you follow him through the large gate with the small crawlspace, you’ll find yourself overlooking an ancient and forgotten kingdom, and suddenly be transported into the past and into the Kingdom of Sahali\n## Sandgate Pass",
+    "img_below_text": "Arriving in this realm of the past, you’ll find yourself in a large canyon. Head up to find a Shrine on the left, and be sure to check the shop in this secret realm, as it offers wares not sold in the rest of the Yellow Wind Ridge:\nKingdom of Sahali Shrine Shop",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once you follow him through the large gate with the small crawlspace, you’ll find yourself overlooking an ancient and forgotten kingdom, and suddenly be transported into the past and into the Kingdom of Sahali\n## Sandgate Pass\"\n        - Following Text: \"Arriving in this realm of the past, you’ll find yourself in a large canyon. Head up to find a Shrine on the left, and be sure to check the shop in this secret realm, as it offers wares not sold in the rest of the Yellow Wind Ridge:\nKingdom of Sahali Shrine Shop\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a player character approaching a glowing shrine-like structure emitting swirling energy or light in a rocky canyon environment. This scene likely represents the moment after entering the Kingdom of Sahali in the past, as described in the context, and highlights the shrine mentioned in the following text. The shrine appears to be a key point of interest in this area."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 193459980657,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg",
-    "alt_text": "Wukong Fright 42.jpg",
-    "position_desc": 45,
-    "img_above_text": "![Wukong Fright 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg)\nFrom the Shrine at Rockrest Flat, look off to the left for a path leading to a large opening in the rocks. Just before the path opens up, you can find the final statue head, and claiming its eyes will cause a mantra to be chanted, “Om Mani Padme Hum”, confirming you’ve found the final eye!",
-    "img_below_text": "Just past this final Buddha statue head, look through the archway opening in the rocky wall. Ahead you’ll spot a group of stone floating in the air, signaling your next boss fight is at hand. There's also a strange large rock to the left - make a note of it and we'll inspect it later.\n## Yaoguai King Boss Fight - Stone Vanguard",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 45 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg)\nFrom the Shrine at Rockrest Flat, look off to the left for a path leading to a large opening in the rocks. Just before the path opens up, you can find the final statue head, and claiming its eyes will cause a mantra to be chanted, “Om Mani Padme Hum”, confirming you’ve found the final eye!\"\n            - Following Text: \"Just past this final Buddha statue head, look through the archway opening in the rocky wall. Ahead you’ll spot a group of stone floating in the air, signaling your next boss fight is at hand. There's also a strange large rock to the left - make a note of it and we'll inspect it later.\n## Yaoguai King Boss Fight - Stone Vanguard\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a shadowy figure, likely the protagonist, approaching a rocky, desolate landscape with a large, strange rock marked by a red arrow in the foreground. In the background, there is a twisted tree and ruins of a structure, suggesting an eerie and foreboding atmosphere. This scene appears to set the stage for an upcoming boss fight, as hinted by the floating stones mentioned in the following text.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual cue for the player to notice the strange large rock (highlighted by the arrow) and the ominous environment leading up to the next boss fight, the Yaoguai King - Stone Vanguard. It builds tension and directs attention to key elements in the game’s progression."
+    "chunk_id": 731167445000,
+    "source_file": "Ginseng_Cape.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Karma_11.jpg",
+    "alt_text": "Wukong Karma 11.jpg",
+    "position_desc": 1,
+    "img_above_text": "* For a short duration after using the gourd, moderately increases Maximum Stamina\nThe Ginseng Cape is obtained upon defeating Old Ginseng Guai in the Towers of Karma area in Valley of Ecstasy in Chapter 3 - The New West.",
+    "img_below_text": "Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* For a short duration after using the gourd, moderately increases Maximum Stamina\nThe Ginseng Cape is obtained upon defeating Old Ginseng Guai in the Towers of Karma area in Valley of Ecstasy in Chapter 3 - The New West.\"\n        - Following Text: \"Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, where the player character is engaged in battle with \"Old Ginseng Guai,\" a boss enemy in the Towers of Karma area in Chapter 3 - The New West. Defeating this boss rewards the player with the Ginseng Cape, which provides a temporary boost to Maximum Stamina after using a gourd. The surrounding text highlights the importance of armor upgrades and guides for locating items and spells in the game."
 }

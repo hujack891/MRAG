@@ -1,28 +1,11 @@
 {
-    "chunk_id": 756216228488,
-    "source_file": "Kang-Jin_Star.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg",
-    "alt_text": "Wukong Turtle 5.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Turtle 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Turtle_4.jpg)\nEven when you get in close range to fight, she has a few close-range lightning attacks to deal with. One starts with another mantra \"Spin...\" causing her to slash at you with lightning sweeps in two quick attacks, before performing a third attack while yelling \"and flush!\" This third attack can take the form of a floating downward slash, or creating a cross slash in front of her that moves outward. Whichever it is, a Cloud Step can let you bypass her attack by dodging to the side and then hit her from the flank.",
-    "img_below_text": "Other times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.\n![Wukong Turtle 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Turtle_4.jpg)\nEven when you get in close range to fight, she has a few close-range lightning attacks to deal with. One starts with another mantra \"Spin...\" causing her to slash at you with lightning sweeps in two quick attacks, before performing a third attack while yelling \"and flush!\" This third attack can take the form of a floating downward slash, or creating a cross slash in front of her that moves outward. Whichever it is, a Cloud Step can let you bypass her attack by dodging to the side and then hit her from the flank.\"\n            - Following Text: \"Other times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.\n![Wukong Turtle 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring a character named Kang Jin-Sim engaged in combat on a snowy landscape. The character is performing a powerful lightning attack, which is part of her close-range combat abilities described in the preceding text. The image captures the dynamic and visually striking moment of the attack, emphasizing the game's action-packed nature and the strategic elements involved in dodging and countering such attacks."
+    "chunk_id": 661737327490,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg",
+    "alt_text": "Gentian .jpg",
+    "position_desc": 3,
+    "img_above_text": "![Purple Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg)| Purple Lingzhi | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies",
+    "img_below_text": "![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Purple Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg)| Purple Lingzhi | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\"\n        - Following Text: \"![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game item from the video game \"Black Myth: Wukong.\" The item is likely an ingredient used for crafting or other purposes within the game. Based on the context provided, it is a plant similar to the Purple Lingzhi, Nine-Capped Lingzhi, Jade Lotus, and Aged Ginseng, which are all ingredients found in Black Wind Mountain and can be bought from the Shrine store after saving the Shen Monkey Vendor."
 }

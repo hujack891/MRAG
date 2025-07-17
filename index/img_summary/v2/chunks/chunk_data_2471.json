@@ -1,28 +1,11 @@
 {
-    "chunk_id": 344859252695,
-    "source_file": "Red_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg",
-    "alt_text": "Wukong RedLoong 10.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong RedLoong 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_RedLoong_11.jpg)\nOther times, he’ll slam down his front claws in quick succession, creating lightning spots that will detonate in the area after a short moment, requiring you to quickly dodge away or risk taking major shock damage. Take too much, and you’ll be taking double damage until you use medication to remove the effect.",
-    "img_below_text": "He also has a wicked and electrified bladed tail that he can use to quickly spin around and slash you with, but can be deflected with a well-timed Rock Solid spell. There’s a few different ways he can use his tail, either for a slow rotating blade slash in front of him, or with a quick jab at your position.\n![Wukong RedLoong 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_RedLoong_15.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_RedLoong_11.jpg)\nOther times, he’ll slam down his front claws in quick succession, creating lightning spots that will detonate in the area after a short moment, requiring you to quickly dodge away or risk taking major shock damage. Take too much, and you’ll be taking double damage until you use medication to remove the effect.\"\n            - Following Text: \"He also has a wicked and electrified bladed tail that he can use to quickly spin around and slash you with, but can be deflected with a well-timed Rock Solid spell. There’s a few different ways he can use his tail, either for a slow rotating blade slash in front of him, or with a quick jab at your position.\n![Wukong RedLoong 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_RedLoong_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring the player character engaged in combat with a boss named Red Loong. The context provided describes Red Loong's attack patterns, including slamming claws to create lightning spots and using an electrified bladed tail for various attacks. The image captures the intensity of the fight, showing the player dodging or countering these powerful attacks."
+    "chunk_id": 564744883724,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_1.jpg",
+    "alt_text": "Wukong YellowFlower 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Yaoguai King - Hundred-Eyed Daoist Master\nAfter defeating the Violet Spider, you'll have to escape her spider swarm as she retreats, but luckily you'll be plucked to safety by the one Spider Sister that seems to be on your side.",
+    "img_below_text": "When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Yaoguai King - Hundred-Eyed Daoist Master\nAfter defeating the Violet Spider, you'll have to escape her spider swarm as she retreats, but luckily you'll be plucked to safety by the one Spider Sister that seems to be on your side.\"\n        - Following Text: \"When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a large spider-like creature is encountered in a rocky, forested area. This moment follows the defeat of the Violet Spider and the player's escape from a spider swarm, leading to a brief respite before continuing on a mountain trail towards a temple. The image serves to illustrate the player's current environment and the presence of formidable creatures in their path."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 482603439605,
-    "source_file": "Celestial_Taiyi_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/The_New_West_Taiyi.jpg",
-    "alt_text": "The New West Taiyi.jpg",
-    "position_desc": 4,
-    "img_above_text": "## The New West Celestial Taiyi Pill\nThe New West Celestial Taiyi Pill",
-    "img_below_text": "The Chapter 3 Celestial Taiyi Pill is accessible after defeating Captain Wise-Voice in the Pagoda Realm. Fight your way through each level of the Pagoda and take down the boss. Run out the opposite side of the boss arena to find yourself in a series of caves leading out to the snow. The Celestial Taiyi Pill is on the right side of a snowy path. Destroy the gate once you collect it to find another Meditation Spot.\n## The Webbed Hollow Celestial Taiyi Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Celestial_Taiyi_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## The New West Celestial Taiyi Pill\nThe New West Celestial Taiyi Pill\"\n            - Following Text: \"The Chapter 3 Celestial Taiyi Pill is accessible after defeating Captain Wise-Voice in the Pagoda Realm. Fight your way through each level of the Pagoda and take down the boss. Run out the opposite side of the boss arena to find yourself in a series of caves leading out to the snow. The Celestial Taiyi Pill is on the right side of a snowy path. Destroy the gate once you collect it to find another Meditation Spot.\n## The Webbed Hollow Celestial Taiyi Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/The_New_West_Taiyi.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy outdoor scene where a character is standing near a bamboo gate. The gate is illuminated by a small lantern and has an interactive prompt labeled \"RT Open,\" suggesting the player can open the gate to progress. The surrounding environment features snow-covered rocks, a barren tree, and a traditional lantern structure, creating a serene yet mysterious atmosphere.\n\n2. **Purpose, Content, or Narrative Role**:  \nBased on the preceding and following text, the image likely represents the location where the Chapter 3 Celestial Taiyi Pill can be found. After defeating Captain Wise-Voice in the Pagoda Realm and navigating through snowy caves, players arrive at this path to collect the pill. The gate shown in the image might need to be destroyed or opened to access a Meditation Spot, further advancing the narrative or gameplay."
+    "chunk_id": 116531698344,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Guanyin_10.jpg",
+    "alt_text": "Wukong Guanyin 10.jpg",
+    "position_desc": 12,
+    "img_above_text": "Once Elder Jinchi reaches around half of his health, he’ll suddenly teleport away, reappearing in the middle of the arena and adopting a praying pose hovering too far up to reliably reach. All of the shambling bodies in the arena will be removed, but it’s when they start to reappear that you’ll need to be ready.\nIn this segment, the bodies will slowly walk toward Jinchi in the middle of the arena, appearing slowly at first, but soon swarming from all sides. If any of them reach a spot close to the center, they’ll be absorbed by Jinchi giving him part of his health bar back.",
+    "img_below_text": "The only thing you can do is beat Jinchi to the punch. Start sprinting around the arena the moment you spot a body, and use a single attack to defeat them and steal their health instead. You’ll have to race back and forth, so conserve your stamina by only using quick attacks before getting back to sprinting.\nOnce enough have been absorbed by either you or him, he’ll return to the ground and the fight will resume.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once Elder Jinchi reaches around half of his health, he’ll suddenly teleport away, reappearing in the middle of the arena and adopting a praying pose hovering too far up to reliably reach. All of the shambling bodies in the arena will be removed, but it’s when they start to reappear that you’ll need to be ready.\nIn this segment, the bodies will slowly walk toward Jinchi in the middle of the arena, appearing slowly at first, but soon swarming from all sides. If any of them reach a spot close to the center, they’ll be absorbed by Jinchi giving him part of his health bar back.\"\n        - Following Text: \"The only thing you can do is beat Jinchi to the punch. Start sprinting around the arena the moment you spot a body, and use a single attack to defeat them and steal their health instead. You’ll have to race back and forth, so conserve your stamina by only using quick attacks before getting back to sprinting.\nOnce enough have been absorbed by either you or him, he’ll return to the ground and the fight will resume.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is engaged in a battle with shambling bodies in an arena. The character is seen attacking these bodies to prevent them from reaching Elder Jinchi, who is hovering in the center of the arena. This action is part of a strategy to stop Jinchi from regaining health by absorbing the bodies. The player must quickly defeat the bodies and conserve stamina to continue the fight effectively."
 }

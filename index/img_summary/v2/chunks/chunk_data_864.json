@@ -1,28 +1,11 @@
 {
-    "chunk_id": 899640562189,
-    "source_file": "Daoist_Mi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_PurpleCloud_44.jpg",
-    "alt_text": "Wukong PurpleCloud 44.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)\nHowever, after climbing some stairs, you'll come across a special Sword Daoist playing a flute, and does not appear hostile. He'll actually ask a favor of you, noting that his fellow Daoists have all been partaking of Amourworm eggs, turning them into undying husks. He'll ask you to seek one out and return it to him.",
-    "img_below_text": "While it may sound like he's asking you to seek out a Worm Practitioner, in reality any of the Daoists you defeat in this hamlet has a chance to drop the item he seeks. We'll clear the village out before returning to him, but you may also need to rest and respawn them if you don't find one.\n![Wukong PurpleCloud 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_PurpleCloud_46.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)\nHowever, after climbing some stairs, you'll come across a special Sword Daoist playing a flute, and does not appear hostile. He'll actually ask a favor of you, noting that his fellow Daoists have all been partaking of Amourworm eggs, turning them into undying husks. He'll ask you to seek one out and return it to him.\"\n            - Following Text: \"While it may sound like he's asking you to seek out a Worm Practitioner, in reality any of the Daoists you defeat in this hamlet has a chance to drop the item he seeks. We'll clear the village out before returning to him, but you may also need to rest and respawn them if you don't find one.\n![Wukong PurpleCloud 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_PurpleCloud_46.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_PurpleCloud_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the player character in *Black Myth: Wukong* defeating a Daoist enemy in a rural hamlet setting. The defeated Daoist drops the \"Violet Hail\" key item, which is likely the Amourworm egg requested by the Sword Daoist encountered earlier. The image serves to illustrate the gameplay mechanics of item acquisition and progression in fulfilling the Sword Daoist's favor."
+    "chunk_id": 657310654676,
+    "source_file": "Elder_Amourworm.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_MiddleHollow_9.jpg",
+    "alt_text": "Wukong MiddleHollow 9.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong MiddleHollow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_10.jpg)\nEven when knocked down, it can behave erratically, wriggling and slamming down to splash out more poison from its sides before getting back up, which can sometimes limit where you can press your attack.",
+    "img_below_text": "Beyond this, most of its attacks will come in the form of simply using its weight to thrash about. You'll usually be able to see it coming when the worm twists around to prepare to swing its body toward you -- but a deflection using Rock Solid can stop the worm in its tracks.\n![Wukong MiddleHollow 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_MiddleHollow_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_10.jpg)\nEven when knocked down, it can behave erratically, wriggling and slamming down to splash out more poison from its sides before getting back up, which can sometimes limit where you can press your attack.\"\n        - Following Text: \"Beyond this, most of its attacks will come in the form of simply using its weight to thrash about. You'll usually be able to see it coming when the worm twists around to prepare to swing its body toward you -- but a deflection using Rock Solid can stop the worm in its tracks.\n![Wukong MiddleHollow 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_MiddleHollow_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from the video game \"Black Myth: Wukong,\" featuring the player character engaged in combat with a large, worm-like enemy called the \"Elder Armouworm.\" The surrounding environment is dark and filled with skeletal remains and clusters of white objects, possibly eggs or spores. The context from the preceding and following text indicates that the worm can behave unpredictably when knocked down, splashing poison and using its weight to attack, and suggests using the Rock Solid ability to deflect its attacks."
 }

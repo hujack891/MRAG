@@ -1,28 +1,11 @@
 {
-    "chunk_id": 208642238072,
-    "source_file": "Chapter_5_Secret_-_Bishui_Cave_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Bishui_Cave_Walkthrough_%2810%29.png",
-    "alt_text": "Bishui Cave Walkthrough \\(10\\).png",
-    "position_desc": 3,
-    "img_above_text": "To your left, immediately as you enter the room, you'll find the Purge Pit Keeper's Shrine.\n## Purge Pit",
-    "img_below_text": "After activating the first of the Keeper's Shrines, face away from it and head to the right. Go down the stairs and to the end of the path to find a Meditation Spot.\nThe Screen, Purge Pit Meditation Spot",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Chapter_5_Secret_-_Bishui_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"To your left, immediately as you enter the room, you'll find the Purge Pit Keeper's Shrine.\n## Purge Pit\"\n            - Following Text: \"After activating the first of the Keeper's Shrines, face away from it and head to the right. Go down the stairs and to the end of the path to find a Meditation Spot.\nThe Screen, Purge Pit Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Bishui_Cave_Walkthrough_%2810%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky area within the Purge Pit, featuring ornate pillars and shrine-like structures. A character is shown standing near a marked location, indicated by a red circle, with an arrow suggesting the direction to proceed. Based on the context, this scene likely serves as a visual guide for locating and activating the Purge Pit Keeper's Shrine, an essential step in progressing through the Bishui Cave walkthrough. The image helps orient players before heading toward the Meditation Spot mentioned in the following text."
+    "chunk_id": 569028576974,
+    "source_file": "Civet_Sergeant_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Crouching_Tiger_Cellar.jpg",
+    "alt_text": "Crouching Tiger Cellar.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.",
+    "img_below_text": "This will open a secret door in the pool of blood that leads you to the Civet Sergeant in the Crouching Tiger Temple Cellar.\n## Civet Sergeant Fight",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.\"\n        - Following Text: \"This will open a secret door in the pool of blood that leads you to the Civet Sergeant in the Crouching Tiger Temple Cellar.\n## Civet Sergeant Fight\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a blood-filled pool featuring a large, ominous sculpture resembling a tiger's head with its mouth open. This setting aligns with the context of the \"Crouching Tiger Temple\" in the game walkthrough, where players place the \"Keenness of Tiger\" and \"Keenness of Stone\" items to open a secret door within the pool, leading to the Civet Sergeant encounter in the temple's cellar."
 }

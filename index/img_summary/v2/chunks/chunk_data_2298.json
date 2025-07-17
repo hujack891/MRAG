@@ -1,28 +1,11 @@
 {
-    "chunk_id": 398140844120,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg",
-    "alt_text": "Wukong Pagoda 22.jpg",
-    "position_desc": 23,
-    "img_above_text": "![Wukong Pagoda 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg)\nContinue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.",
-    "img_below_text": "You'll need to cross a thin wooden beam next, and to make matters worse, a Yaksha Archer will be posted at the far end to harass you. Resist the urge to perform a mobile Staff Spin, as walking while spinning seems to automatically make you lurch to the side, and you'll plummet to your death.\nInstead, either stop moving to deflect, or take the blows and race to the other side -- but do take a moment to glance to the right at a large purple-lit chamber you can spy ominously through the bars.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg)\nContinue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.\"\n            - Following Text: \"You'll need to cross a thin wooden beam next, and to make matters worse, a Yaksha Archer will be posted at the far end to harass you. Resist the urge to perform a mobile Staff Spin, as walking while spinning seems to automatically make you lurch to the side, and you'll plummet to your death.\nInstead, either stop moving to deflect, or take the blows and race to the other side -- but do take a moment to glance to the right at a large purple-lit chamber you can spy ominously through the bars.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a character navigating a narrow wooden beam in a dark, rocky environment. The character appears to be performing a spinning attack or defensive maneuver while crossing the beam. In the background, an enemy archer is visible, ready to attack from a distance.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image illustrates a challenging segment of the game \"Black Myth: Wukong,\" where the player must carefully cross a thin wooden beam while under threat from a Yaksha Archer. The preceding text warns players about the dangers of using a mobile Staff Spin during this crossing, as it can cause them to fall. The following text advises on alternative strategies to safely navigate this obstacle and hints at a significant area visible through bars to the right."
+    "chunk_id": 177047257624,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg",
+    "alt_text": "Wireless Controller",
+    "position_desc": 28,
+    "img_above_text": "More Coming Soon!\n### For Fans: Shop Black Myth: Wukong Gaming Accessories",
+    "img_below_text": "### Black Myth: Wukong Wireless Controller\n0",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"More Coming Soon!\n### For Fans: Shop Black Myth: Wukong Gaming Accessories\"\n        - Following Text: \"### Black Myth: Wukong Wireless Controller\n0\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a \"Black Myth: Wukong Wireless Controller,\" featuring a black design with intricate red and gray artwork inspired by the game. Accompanying the controller is a USB adapter labeled \"8BitDo Ultimate 2.0.\" This appears to be part of a promotional section for gaming accessories related to *Black Myth: Wukong*."
 }

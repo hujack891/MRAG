@@ -1,28 +1,11 @@
 {
-    "chunk_id": 586915512591,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Yellow_35.jpg",
-    "alt_text": "Wukong Yellow 35.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)\nAt the temple entrance, start to head up the stairs, and then turn right before the top — opposite where the Meditation Spot is. You’ll find the Boar resting against a far wall under one of the giant tiger sculptures.He’ll complain of the poor meat quality, and instead ask that you bring him a **Jade Lotus**. If you don’t already have plenty gathered, you’ll find Jade Lotus to harvest in most ponds and bodies of water, like the one right at the start of the chapter.",
-    "img_below_text": "When you give the Boar the Jade Lotus, he’ll relay some interesting information about a “Realm of Gold” that he’s seeking, and will leave the temple.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)\nAt the temple entrance, start to head up the stairs, and then turn right before the top — opposite where the Meditation Spot is. You’ll find the Boar resting against a far wall under one of the giant tiger sculptures.He’ll complain of the poor meat quality, and instead ask that you bring him a **Jade Lotus**. If you don’t already have plenty gathered, you’ll find Jade Lotus to harvest in most ponds and bodies of water, like the one right at the start of the chapter.\"\n            - Following Text: \"When you give the Boar the Jade Lotus, he’ll relay some interesting information about a “Realm of Gold” that he’s seeking, and will leave the temple.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Yellow_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist interacts with the Boar character near a temple adorned with intricate statues and carvings. The Boar, resting against a wall under a large tiger sculpture, requests a **Jade Lotus** due to dissatisfaction with the meat quality. This interaction sets up a narrative moment where the Boar shares information about a \"Realm of Gold\" after receiving the Jade Lotus, advancing the story and hinting at future exploration."
+    "chunk_id": 146881908218,
+    "source_file": "Gore-Eye_Daoist_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Gore_eye_daoist.png",
+    "alt_text": "Gore eye daoist.png",
+    "position_desc": 1,
+    "img_above_text": "* Gore-Eye Daoist Fight\n* Gore-Eye Daoist Spirit",
+    "img_below_text": "## Gore-Eye Daoist Location\nGore-Eye Daoist can be found after defeating both the Stone Vanguard and Tiger Vanguard bosses. After defeating them, return to the area where you fought the King of Flowing Sands and Second Rat Price and place the Keenness of Tiger and Keenness of Stone items into the receptacle by the large stone door. Open the door, head down the hill, and over the bridge to reach an open cave area with a statue carved into the rock face.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Gore-Eye Daoist Fight\n* Gore-Eye Daoist Spirit\"\n        - Following Text: \"## Gore-Eye Daoist Location\nGore-Eye Daoist can be found after defeating both the Stone Vanguard and Tiger Vanguard bosses. After defeating them, return to the area where you fought the King of Flowing Sands and Second Rat Price and place the Keenness of Tiger and Keenness of Stone items into the receptacle by the large stone door. Open the door, head down the hill, and over the bridge to reach an open cave area with a statue carved into the rock face.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Gore-Eye Daoist\" boss fight in a video game, showcasing the intense battle environment filled with glowing red pools and fiery effects. The player is engaged in combat with the boss, who wields a large staff and emits flames. This scene aligns with the walkthrough's context, where the Gore-Eye Daoist is a key enemy encountered after progressing through earlier bosses and unlocking a new area."
 }

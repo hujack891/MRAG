@@ -1,28 +1,11 @@
 {
-    "chunk_id": 303734081846,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Snowhill_4.jpg",
-    "alt_text": "Wukong Snowhill 4.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Snowhill 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Snowhill_3.jpg)\nHead up the stairs at the end of the path to reach a high ledge in the cave, and on the way down you'll meet another new enemy. These Cyan Bats like to cling to ceiling and drop down to ambush you. While they are way less durable than the Swift Bats of the Yellow Wind Ridge, they can dive at you with their spears, or send ice attack projectiles your way that will try to inflict you with frostbite. If they try to dart out of reach, use the Thrust Stance to chase them down.",
-    "img_below_text": "Be sure to look to the left as you head down from the ledge, and you'll find a small pool of water with some Jade Lotus, and another Monk Supporter guarding a**Small Chest** , likely containing some Cold Iron Leaves and other materials.\n![Wukong Snowhill 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Snowhill_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Snowhill_3.jpg)\nHead up the stairs at the end of the path to reach a high ledge in the cave, and on the way down you'll meet another new enemy. These Cyan Bats like to cling to ceiling and drop down to ambush you. While they are way less durable than the Swift Bats of the Yellow Wind Ridge, they can dive at you with their spears, or send ice attack projectiles your way that will try to inflict you with frostbite. If they try to dart out of reach, use the Thrust Stance to chase them down.\"\n            - Following Text: \"Be sure to look to the left as you head down from the ledge, and you'll find a small pool of water with some Jade Lotus, and another Monk Supporter guarding a**Small Chest** , likely containing some Cold Iron Leaves and other materials.\n![Wukong Snowhill 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Snowhill_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Snowhill_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is engaged in combat with a Monk Supporter enemy. The Monk Supporter is guarding a small chest, likely containing valuable materials such as Cold Iron Leaves. This encounter occurs after the player has descended from a high ledge in the cave, having previously faced Cyan Bats that ambush from the ceiling. The image serves to illustrate the challenging enemies and hidden treasures that players will encounter on their journey through Snowhill Path."
+    "chunk_id": 733927764888,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Felicity_3.jpg",
+    "alt_text": "Wukong Felicity 3.jpg",
+    "position_desc": 29,
+    "img_above_text": "Of course, you're free to explore as much (or as little) of these sub-regions of the valley as you'd like, but with the amount of questlines and yaoguai chiefs to find in each spot, we'll be covering each of them.\n### The Snow Fox's Quest",
+    "img_below_text": "Not far from the Forest Shrine, look for a small arch along the main path, and you'll find a unique corpse sitting along the wood posts that looks different from the rest. You can interact to hear a voice -- coming not from the body, but from the fox pelt around its neck. Apparently that story about the snow fox and the human you saw after completing Chapter 2 actually happened, and the fox guai wants revenge.\nShe'll gift you the Snow Fox Brush, allowing you to take the form of the Snow Fox and seek out the human scholar who resides in New Thunderclap Temple.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Of course, you're free to explore as much (or as little) of these sub-regions of the valley as you'd like, but with the amount of questlines and yaoguai chiefs to find in each spot, we'll be covering each of them.\n### The Snow Fox's Quest\"\n        - Following Text: \"Not far from the Forest Shrine, look for a small arch along the main path, and you'll find a unique corpse sitting along the wood posts that looks different from the rest. You can interact to hear a voice -- coming not from the body, but from the fox pelt around its neck. Apparently that story about the snow fox and the human you saw after completing Chapter 2 actually happened, and the fox guai wants revenge.\nShe'll gift you the Snow Fox Brush, allowing you to take the form of the Snow Fox and seek out the human scholar who resides in New Thunderclap Temple.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a unique corpse seated in a snowy forest, adorned with a fox pelt and beads. The text at the bottom reveals the corpse's plea to the player: \"I beg you, sir, to take my fur and wear my form. Confront him and calm my sorrowful heart.\" This scene introduces \"The Snow Fox's Quest,\" where interacting with the corpse and its fox pelt initiates a storyline involving transformation into the Snow Fox and seeking revenge on a human scholar."
 }

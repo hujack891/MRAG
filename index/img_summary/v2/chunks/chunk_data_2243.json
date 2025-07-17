@@ -1,28 +1,11 @@
 {
-    "chunk_id": 353880938647,
-    "source_file": "Old_Ginseng_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Old_Ginseng_Guai.jpg",
-    "alt_text": "Old Ginseng Guai.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Old Ginseng Guai Fight\n* Old Ginseng Guai Spirit",
-    "img_below_text": "## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Old_Ginseng_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Old Ginseng Guai Fight\n* Old Ginseng Guai Spirit\"\n            - Following Text: \"## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Old_Ginseng_Guai.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Old Ginseng Guai, a mystical creature encountered in a snowy clearing near the Towers of Karma Keeper's Shrine. The setting includes a stone pagoda and is surrounded by ginseng plants, highlighting the central plant as the Old Ginseng Guai. The image serves to illustrate the narrative of locating and interacting with this spirit in the game, providing a visual reference for players seeking to engage with this character in its natural environment."
+    "chunk_id": 190227443180,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg",
+    "alt_text": "Wukong Sandgate 37.jpg",
+    "position_desc": 35,
+    "img_above_text": "![Wukong Sandgate 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg)\nAt the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.",
+    "img_below_text": "Heading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg)\nAt the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.\"\n        - Following Text: \"Heading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character, Wukong, approaching a shack at the top of a hill in the game *Black Myth: Wukong*. This location is significant as it contains a chest with valuable loot, including **Blood of the Iron Bull**, **Small Piece of Gold**, and **Tiny Piece of Gold**, as well as a **Fragrant Jade Flower** found behind the shack. The preceding and following text also suggest narrative progression, with the player later encountering a lone shack and interacting with a mysterious voice tied to the area's enemies and lore."
 }

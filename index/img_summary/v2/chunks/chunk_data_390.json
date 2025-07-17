@@ -1,28 +1,11 @@
 {
-    "chunk_id": 92256359391,
-    "source_file": "Captain_Kalpa-Wave.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Longevity_20.jpg",
-    "alt_text": "Wukong Longevity 20.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)\nTo find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.",
-    "img_below_text": "As you approach, a large bloody miasma will block your advance. Once it congeals, you'll find yourself facing the last of the four captains.\n### Captain Kalpa-Wave Miniboss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Captain_Kalpa-Wave.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)\nTo find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.\"\n            - Following Text: \"As you approach, a large bloody miasma will block your advance. Once it congeals, you'll find yourself facing the last of the four captains.\n### Captain Kalpa-Wave Miniboss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Longevity_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene in a snowy, desolate environment, where a lone figure armed with a staff approaches a large temple-like structure engulfed in a bloody red miasma. This ominous visual sets the stage for an impending confrontation, likely with Captain Kalpa-Wave, as suggested by the narrative context. The miasma serves as a barrier that congeals into a miniboss encounter, emphasizing the tension and danger of the approaching fight in the game."
+    "chunk_id": 525075414590,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg",
+    "alt_text": "Wukong Pagoda 83.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.",
+    "img_below_text": "After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.\"\n        - Following Text: \"After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle against \"Captain Wise-Voice\" in *Black Myth: Wukong*. The scene highlights the boss's attack phase, where beams of light are emitted in multiple directions, creating a chaotic visual effect. The health bar at the bottom indicates the ongoing fight, while the player interface shows health, stamina, and abilities. The preceding and following text describe strategies to evade the boss's laser and lightning-based attacks, emphasizing dodging, strafing, and maintaining distance during these sequences."
 }

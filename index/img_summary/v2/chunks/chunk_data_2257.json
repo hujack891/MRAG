@@ -1,28 +1,11 @@
 {
-    "chunk_id": 860554808422,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg",
-    "alt_text": "Wukong MadTiger 5.jpg",
-    "position_desc": 6,
-    "img_above_text": "On the other side of the ruined building, there’s a long roof-like walkway and several Withering Corpses milling about, along with a Ginsengling hiding by a wooden chest. If you already used the Old Rattle-Drum back in Windrest Hamlet, you’ll again hear the spirit of a boy call out to you. Use the drum here, and prepare to fend off the zombies as he speaks to you. Interestingly, he mentions a **secret and a well** before clamming up, giving you one final clue to the third location.\n## Third Location - Sandgate Village",
-    "img_below_text": "There are many small wells that dot the Yellow Sand Ridge area, but the one you need to seek out is located back in Sandgate Village. Head back to the area where you fought the Earth Wolf and **rescued the Horse Guai** who was tied up by the large statue.\n![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"On the other side of the ruined building, there’s a long roof-like walkway and several Withering Corpses milling about, along with a Ginsengling hiding by a wooden chest. If you already used the Old Rattle-Drum back in Windrest Hamlet, you’ll again hear the spirit of a boy call out to you. Use the drum here, and prepare to fend off the zombies as he speaks to you. Interestingly, he mentions a **secret and a well** before clamming up, giving you one final clue to the third location.\n## Third Location - Sandgate Village\"\n            - Following Text: \"There are many small wells that dot the Yellow Sand Ridge area, but the one you need to seek out is located back in Sandgate Village. Head back to the area where you fought the Earth Wolf and **rescued the Horse Guai** who was tied up by the large statue.\n![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist, Wukong, navigating through a rugged, rocky terrain with ancient ruins and dry vegetation. This setting appears to be part of the questline where the player must use the Old Rattle-Drum to interact with a spirit and fend off zombies, as hinted by the preceding text. The image likely serves to illustrate the environment and atmosphere of the quest, emphasizing the desolate and challenging landscape that players must explore to uncover secrets and progress in their journey."
+    "chunk_id": 894243385552,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_69.jpg",
+    "alt_text": "Wukong Sandgate 69.jpg",
+    "position_desc": 66,
+    "img_above_text": "![Wukong Sandgate 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sandgate_68.jpg)\nHeading back down, you’ll be attacked from a ledge by a zombie-like Blazebone. These creatures fling bones down at you, but can’t do much else so simply evade or spin your staff before jumping up to kill it.",
+    "img_below_text": "To the right, there’s a thin crevice filled with Fire Bellflowers to harvest. The crevice leads to a fallen rock forming a bridge to another Blazebone and Licorice, and a path leading onward.\n![Wukong Sandgate 70.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_Sandgate_70.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sandgate_68.jpg)\nHeading back down, you’ll be attacked from a ledge by a zombie-like Blazebone. These creatures fling bones down at you, but can’t do much else so simply evade or spin your staff before jumping up to kill it.\"\n        - Following Text: \"To the right, there’s a thin crevice filled with Fire Bellflowers to harvest. The crevice leads to a fallen rock forming a bridge to another Blazebone and Licorice, and a path leading onward.\n![Wukong Sandgate 70.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_Sandgate_70.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, cavernous environment from the video game *Black Myth: Wukong*. The player character, armed with a staff, is approaching a ledge where a zombie-like Blazebone enemy is visible, preparing to attack. The scene aligns with the preceding text, which describes evading bone projectiles from the Blazebone before engaging it. The setting features rocky terrain, stalactites, and a warm, glowing light source in the background, emphasizing the game's atmospheric design."
 }

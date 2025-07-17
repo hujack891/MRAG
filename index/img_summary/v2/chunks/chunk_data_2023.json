@@ -1,28 +1,11 @@
 {
-    "chunk_id": 494986255661,
-    "source_file": "Monk_from_the_Sea.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg",
-    "alt_text": "Wukong Thunderclap 22.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Thunderclap 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg)\nIt'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.",
-    "img_below_text": "If he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\n![Wukong Thunderclap 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Monk_from_the_Sea.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg)\nIt'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.\"\n            - Following Text: \"If he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\n![Wukong Thunderclap 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment in the boss fight against the \"Monk from the Sea\" in *Black Myth: Wukong*. The Monk is mid-air, leaping toward the player character in a snowy courtyard, preparing to unleash a potentially damaging attack. The preceding and following text highlight the Monk's deceptive leap, which can either close the distance or create a blast upon landing, requiring careful positioning and timing to avoid damage. The image emphasizes the dynamic and challenging nature of the encounter."
+    "chunk_id": 388209492496,
+    "source_file": "Old_Gourd.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Old_Gourd.jpg",
+    "alt_text": "Old Gourd.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Old Gourd is the starting Gourd on offer in Black Myth: Wukong. It is by far the simplest Gourd in the game, focusing entirely on refilling your health. Unlike some of the other Gourds, the Old Gourd doesn't have any special effects or alterations.\nEach sip from the Gourd will restore 33% of your maximum health by default with the Coconut Wine, and the Gourd has four uses by default.",
+    "img_below_text": "The Gourd can be upgraded at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain, upping the uses and effectiveness. Doing this turns it into the Medicine Gourd, Healing Gourd, Medicine Sage Gourd, and Medicine Master Gourd with each upgrade.\nThe upgrades for this Gourd are:",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Old Gourd is the starting Gourd on offer in Black Myth: Wukong. It is by far the simplest Gourd in the game, focusing entirely on refilling your health. Unlike some of the other Gourds, the Old Gourd doesn't have any special effects or alterations.\nEach sip from the Gourd will restore 33% of your maximum health by default with the Coconut Wine, and the Gourd has four uses by default.\"\n        - Following Text: \"The Gourd can be upgraded at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain, upping the uses and effectiveness. Doing this turns it into the Medicine Gourd, Healing Gourd, Medicine Sage Gourd, and Medicine Master Gourd with each upgrade.\nThe upgrades for this Gourd are:\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Old Gourd\" item from the inventory menu in *Black Myth: Wukong*. It is a basic healing item categorized as \"Common,\" with four uses by default. Each sip, using \"Coconut Wine,\" restores 33% of the player's maximum health. The item does not have any additional effects or \"Soaks\" applied and is currently equipped. The interface also displays the player's stats and other menu options."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 481143440552,
-    "source_file": "Red-Haired_Yaksha_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Red_haired_yaksha_fight.jpg",
-    "alt_text": "Red haired yaksha fight.jpg",
+    "chunk_id": 685640389787,
+    "source_file": "Stone_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Stone_Spirit.jpg",
+    "alt_text": "Stone Spirit.jpg",
     "position_desc": 1,
-    "img_above_text": "* Red-Haired Yaksha Fight Guide\n* Red-Haired Yaksha Spirit Power",
-    "img_below_text": "## Red-Haired Yaksha Location\nThe Red-Haired Yaksha can be found near the Precept Corridor Meditation Spot. Head into the nearby tunnel and turn left. Run to the end of the corridor to find the Red-Haired Yaksha waiting for you in a room at the end of the corridor.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Red-Haired_Yaksha_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Red-Haired Yaksha Fight Guide\n* Red-Haired Yaksha Spirit Power\"\n            - Following Text: \"## Red-Haired Yaksha Location\nThe Red-Haired Yaksha can be found near the Precept Corridor Meditation Spot. Head into the nearby tunnel and turn left. Run to the end of the corridor to find the Red-Haired Yaksha waiting for you in a room at the end of the corridor.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Red_haired_yaksha_fight.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a player character is engaged in combat with the Red-Haired Yaksha, a powerful spirit enemy. The context provided suggests that this image is part of a guide detailing how to fight the Red-Haired Yaksha, as well as providing information on the spirit's powers and location within the game. The image serves to visually illustrate the encounter with the Red-Haired Yaksha, enhancing the guide's instructions and providing players with a clear visual reference of the battle environment and the enemy's appearance."
+    "img_above_text": "# Stone Spirit\nThe Stone Spirit is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.",
+    "img_below_text": "The Stone Spirit can be found throughout the game's six chapters in the following locations:\n* In Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Stone Spirit\nThe Stone Spirit is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.\"\n        - Following Text: \"The Stone Spirit can be found throughout the game's six chapters in the following locations:\n* In Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" highlighting the Stone Spirit material. The Stone Spirit is described as an uncommon general weapon material, symbolizing the fortitude of mountains and the spirit of rocks, used for crafting weapons. The preceding and following text indicates its importance for upgrades and its locations within the game's chapters."
 }

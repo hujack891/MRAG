@@ -1,28 +1,11 @@
 {
-    "chunk_id": 847296568388,
-    "source_file": "The_Second_Sister.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg",
-    "alt_text": "Wukong Lanxi 28.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Lanxi 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Lanxi_27.jpg)\nAnother move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.",
-    "img_below_text": "Finally, she can also perform a small leap and extend her front legs forward like spears as she lands, which may cause you to try and backpedal, only for her to follow up by shooting a quick projectile at you immediately afterward, which is both hard to spot and dodge.\n![Wukong Lanxi 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Lanxi_29.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'The_Second_Sister.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Lanxi 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Lanxi_27.jpg)\nAnother move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.\"\n            - Following Text: \"Finally, she can also perform a small leap and extend her front legs forward like spears as she lands, which may cause you to try and backpedal, only for her to follow up by shooting a quick projectile at you immediately afterward, which is both hard to spot and dodge.\n![Wukong Lanxi 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Lanxi_29.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" featuring a boss fight against \"The Second Sister.\" The creature is shown in a dynamic pose, likely during an attack where it raises its body and slams down to deal damage, as described in the preceding text. The environment is dark and eerie, with a traditional building in the background, enhancing the intense atmosphere of the battle. The following text suggests that the fight includes various challenging moves, including leaps and projectile attacks, indicating the difficulty and complexity of this encounter."
+    "chunk_id": 191852891940,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_UpperHollow_20.jpg",
+    "alt_text": "Wukong UpperHollow 20.jpg",
+    "position_desc": 21,
+    "img_above_text": "You'll now find yourself on the opposite side of the Hollow from where you first started, with a group of platforms in front of you that offer a one-way ticket down to the start of the Middle Hollow and the Verdure Bridge. However, going down there now would cause to a miss a large optional area complete with a boss (but you can drop down early to grab the Shrine and warp back up if you want).\n## Pool of Shattered Jade",
+    "img_below_text": "Return back to the first large area filled with cocoons to the right of the Upper Hollow Shrine, and look for the pit in the middle with a wooden platform ledge you can use to drop down to a slightly lower floor.\n![Wukong UpperHollow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_UpperHollow_21.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You'll now find yourself on the opposite side of the Hollow from where you first started, with a group of platforms in front of you that offer a one-way ticket down to the start of the Middle Hollow and the Verdure Bridge. However, going down there now would cause to a miss a large optional area complete with a boss (but you can drop down early to grab the Shrine and warp back up if you want).\n## Pool of Shattered Jade\"\n        - Following Text: \"Return back to the first large area filled with cocoons to the right of the Upper Hollow Shrine, and look for the pit in the middle with a wooden platform ledge you can use to drop down to a slightly lower floor.\n![Wukong UpperHollow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_UpperHollow_21.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a wooden platform overlooking a pit in a cavernous area, with a red arrow indicating a drop-down point. This scene aligns with the guide's instructions to return to the Upper Hollow Shrine area and use the wooden ledge to descend to a lower floor, progressing toward the next section of the game."
 }

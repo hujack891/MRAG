@@ -1,28 +1,11 @@
 {
-    "chunk_id": 558507346723,
-    "source_file": "Earth_Wolf.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
-    "alt_text": "Wukong Sandgate 25.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Rewards: Earth Wolf Spirit\n## Where to Find the Earth Wolf",
-    "img_below_text": "The Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Earth_Wolf.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Earth Wolf Spirit\n## Where to Find the Earth Wolf\"\n            - Following Text: \"The Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.\n![Wukong Sandgate 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene from *Black Myth: Wukong*, showing the player character engaging in battle near a large gate in Sandgate Village, Chapter 2. The environment includes desolate structures, dry vegetation, and archers firing flaming projectiles from elevated positions. The player appears to be using a defensive or evasive ability, indicated by the translucent figure and glowing weapon.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the challenging approach to the Earth Wolf miniboss, emphasizing the heavily guarded gate and the need to navigate through hostile terrain filled with archers. It visually supports the preceding and following text, which describes the location and context of the encounter."
+    "chunk_id": 901713139081,
+    "source_file": "Father_of_Stones.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Woods_Ember_Walkthrough_%2876%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(76\\).png",
+    "position_desc": 7,
+    "img_above_text": "![Woods Ember Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2852%29.png)\nThe way to approach this fight is to build up your combos and then land a finishing blow on him as often as you can. When you attack like this, the heavy blow will knock him over and leave him vulnerable to a beat down.",
+    "img_below_text": "When you've bested him, collect the Father of Stones Spirit he leaves behind.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2852%29.png)\nThe way to approach this fight is to build up your combos and then land a finishing blow on him as often as you can. When you attack like this, the heavy blow will knock him over and leave him vulnerable to a beat down.\"\n        - Following Text: \"When you've bested him, collect the Father of Stones Spirit he leaves behind.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a desolate, foggy environment with barren trees, rocky terrain, and a stone path leading forward. A character, armed with a staff, stands near a glowing blue spirit-like object, which appears to be a reward or collectible. Based on the context, this scene follows a combat encounter where the player defeats an enemy and collects the \"Father of Stones Spirit\" as a reward."
 }

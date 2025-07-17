@@ -1,28 +1,11 @@
 {
-    "chunk_id": 20707813132,
-    "source_file": "Lang-Baw-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Foothills_Walkthrough_%2836%29.png",
-    "alt_text": "Foothills Walkthrough \\(36\\).png",
-    "position_desc": 3,
-    "img_above_text": "When you get to the edge, look down to see a muddy clearing. Down here, you can find the next optional boss, which is the final frog Lang-Baw-Baw.\n## Lang-Baw-Baw Boss Fight and Guide",
-    "img_below_text": "When you first drop in on Lang-Baw-Baw, a load of soldiers will also appear. You can ignore these and let Lang-Baw-Baw tackle them; they make for a good distraction so you can focus on hitting the frog while it attacks the soldiers.\n![Foothills Walkthrough \\(33\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2833%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Lang-Baw-Baw.md'.\n\n            Context:\n            - Preceding Text: \"When you get to the edge, look down to see a muddy clearing. Down here, you can find the next optional boss, which is the final frog Lang-Baw-Baw.\n## Lang-Baw-Baw Boss Fight and Guide\"\n            - Following Text: \"When you first drop in on Lang-Baw-Baw, a load of soldiers will also appear. You can ignore these and let Lang-Baw-Baw tackle them; they make for a good distraction so you can focus on hitting the frog while it attacks the soldiers.\n![Foothills Walkthrough \\(33\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Foothills_Walkthrough_%2833%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Foothills_Walkthrough_%2836%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the optional boss Lang-Baw-Baw, a large, menacing frog, in a muddy clearing surrounded by a forested area. The scene is atmospheric, with shadows and mist emphasizing the tension of the encounter. A player character is shown facing the frog, setting the stage for the boss fight.\n\n2. **Narrative Role**:  \nThe image visually introduces the Lang-Baw-Baw boss fight, highlighting the environment where the battle takes place and the imposing nature of the frog. It complements the guide by providing a visual reference for players as they prepare to engage the boss and navigate the accompanying soldiers."
+    "chunk_id": 298708544788,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Wolves_50.jpg",
+    "alt_text": "Wukong Wolves 50.jpg",
+    "position_desc": 4,
+    "img_above_text": "### Mind Core Location 2\nThe first Mind Core can be found upon defeating Lingxuzi in the Forest of Wolves \\- Outside The Forest Shrine area in Black Wind Mountain. This is a main boss, so you can't miss it.",
+    "img_below_text": "### Mind Core Location 3\nThe next Mind Core is located in the Forest of Wolves \\- Outside The Forest area. Along the left side of the area, you can find a small path beneath a leaning branch. At the back of this path is a waterfall that you can enter.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Mind Core Location 2\nThe first Mind Core can be found upon defeating Lingxuzi in the Forest of Wolves \\- Outside The Forest Shrine area in Black Wind Mountain. This is a main boss, so you can't miss it.\"\n        - Following Text: \"### Mind Core Location 3\nThe next Mind Core is located in the Forest of Wolves \\- Outside The Forest area. Along the left side of the area, you can find a small path beneath a leaning branch. At the back of this path is a waterfall that you can enter.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in a video game, where the player character is battling Lingxuzi, a large, menacing wolf-like creature with glowing red eyes. This encounter is significant as defeating Lingxuzi is required to obtain the first Mind Core, located in the Forest of Wolves near the Forest Shrine area in Black Wind Mountain. The health bar at the bottom indicates the boss's name and remaining health, emphasizing the importance of this fight in the game's progression."
 }

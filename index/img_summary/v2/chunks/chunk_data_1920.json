@@ -1,28 +1,11 @@
 {
-    "chunk_id": 157994528298,
-    "source_file": "Man-in-Stone.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
-    "alt_text": "Wukong Fright 36.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.",
-    "img_below_text": "Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Man-in-Stone.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\"\n            - Following Text: \"Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist interacts with a mystical structure, likely related to the Man-in-Stone character. This character, despite having a boss health bar, is relatively easy to defeat. The image captures the moment after the protagonist has subdued the Man-in-Stone, who then retreats underground and pleads for mercy. This interaction allows the protagonist to re-harvest the Stone Essence, which transforms into the Azure Dust Transformation Spell, granting the player the power of the Rock Guai for use in battle. The image visually represents the narrative progression and the acquisition of new abilities within the game."
+    "chunk_id": 322606178103,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_76.jpg",
+    "alt_text": "Wukong Thunderclap 76.jpg",
+    "position_desc": 76,
+    "img_above_text": "![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.",
+    "img_below_text": "After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.\"\n        - Following Text: \"After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist in a richly detailed temple environment during a boss fight against \"Yellowbrow.\" The red arrow highlights a shadow on the ground, indicating the boss's movement or teleportation mechanic, as described in the following text. The preceding text suggests the boss uses electrical attacks, requiring strategic movement to avoid damage."
 }

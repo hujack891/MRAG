@@ -1,28 +1,11 @@
 {
-    "chunk_id": 658266330671,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
-    "alt_text": "Wukong Bitter 13.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.",
-    "img_below_text": "He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\"\n            - Following Text: \"He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the character Chen Loong unleashing a powerful lightning attack. The attack creates a dramatic visual effect, with a beam of energy striking the ground and causing a splash-like explosion. The snowy environment, traditional building, and surrounding trees provide a striking backdrop, emphasizing the game's blend of mythology and atmospheric detail. This image aligns with the preceding and following text, illustrating Chen Loong's use of lightning-based abilities, such as tossing orbs and shooting beams, which require precise dodging from the player."
+    "chunk_id": 34404346784,
+    "source_file": "Commander_Beetle.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_YellowFlower_23.jpg",
+    "alt_text": "Wukong YellowFlower 23.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong YellowFlower 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_YellowFlower_20.jpg)\nAlong with a variety of lunging attacks and dual-wield slashes, he also has a few unorthodox moves. If he tries to headbutt you by leaping on his side, resist the impulses to kick him when he's down. He'll recover from falling to the ground by doing a breakdancing kick spin while slashing with both swords to lift off the ground and damage you if you get close.",
+    "img_below_text": "He can also adopt a ready stance and expel projectiles all around him. They'll fly about like angry gnats and threaten to deal several hits, but these are the kind of projectiles you can easily deflect with your staff spin.\n![Wukong YellowFlower 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_YellowFlower_25.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_YellowFlower_20.jpg)\nAlong with a variety of lunging attacks and dual-wield slashes, he also has a few unorthodox moves. If he tries to headbutt you by leaping on his side, resist the impulses to kick him when he's down. He'll recover from falling to the ground by doing a breakdancing kick spin while slashing with both swords to lift off the ground and damage you if you get close.\"\n        - Following Text: \"He can also adopt a ready stance and expel projectiles all around him. They'll fly about like angry gnats and threaten to deal several hits, but these are the kind of projectiles you can easily deflect with your staff spin.\n![Wukong YellowFlower 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_YellowFlower_25.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong* against a boss named \"Commander Beetle.\" The boss is seen unleashing a projectile-based attack, with glowing shards flying outward in multiple directions. The player character, wielding a staff, appears to be preparing to counter or evade the attack. The scene takes place in a courtyard with traditional architecture in the background, and the boss's health bar and dialogue (\"Alone in this endless dark. Come end my life.\") are visible, emphasizing the dramatic tone of the battle."
 }

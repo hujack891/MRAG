@@ -1,28 +1,11 @@
 {
-    "chunk_id": 801326231207,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(24\\).png",
-    "position_desc": 20,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)\nThis will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.",
-    "img_below_text": "Along with this move, you'll see that he will sometimes end the combo by keeping his hand in the water after punching down. The ground will start to pulse and he'll pull his first up, causing a shockwave of rocks to go upward.\nTwo other attacks happen less frequently, but go on for longer and can be more dangerous. The first one is that now and then, he'll flash gold and your attacks will repel.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)\nThis will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.\"\n            - Following Text: \"Along with this move, you'll see that he will sometimes end the combo by keeping his hand in the water after punching down. The ground will start to pulse and he'll pull his first up, causing a shockwave of rocks to go upward.\nTwo other attacks happen less frequently, but go on for longer and can be more dangerous. The first one is that now and then, he'll flash gold and your attacks will repel.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a dramatic scene where large rocks and debris are being violently propelled upwards from a body of water, likely due to a powerful impact or shockwave.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image illustrates a key moment in a battle sequence from the game \"Black Myth: Wukong.\" It visually represents the aftermath of a powerful ground punch by an enemy, causing shockwaves and rocks to erupt from the ground, aligning with the described attacks in the preceding and following text. This visual aids in understanding the intensity and danger of the enemy's moves during this phase of the fight."
+    "chunk_id": 350775260592,
+    "source_file": "Wind_Tamer.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wind_Tamer.jpg",
+    "alt_text": "Wind Tamer.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Wind Tamer is one of the Vessels you can find in Black Myth: Wukong. These Vessels give you unique, powerful abilities that can significantly affect your gameplay and how you play.\nSimply equipping the Wind Tamer will significantly increase damage reduction during your playthrough, making it a great Vessel to have and arguably one of the best. Activating it during combat or exploration will massively increase your damage reduction for a short duration and grant immunity to strong winds, which is useful against enemies in Yellow Wind Ridge and in a few later game locations.",
+    "img_below_text": "Vessels are so strong by default that they can completely change how you approach fights, or get you through really tough, tight battles. There are only a few of them in the game, however. Finding Black Myth: Wukong's secrets and killing some of the Black Myth: Wukong secret bosses will lead you to them.\n## Black Myth: Wukong Wind Tamer Location",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Wind Tamer is one of the Vessels you can find in Black Myth: Wukong. These Vessels give you unique, powerful abilities that can significantly affect your gameplay and how you play.\nSimply equipping the Wind Tamer will significantly increase damage reduction during your playthrough, making it a great Vessel to have and arguably one of the best. Activating it during combat or exploration will massively increase your damage reduction for a short duration and grant immunity to strong winds, which is useful against enemies in Yellow Wind Ridge and in a few later game locations.\"\n        - Following Text: \"Vessels are so strong by default that they can completely change how you approach fights, or get you through really tough, tight battles. There are only a few of them in the game, however. Finding Black Myth: Wukong's secrets and killing some of the Black Myth: Wukong secret bosses will lead you to them.\n## Black Myth: Wukong Wind Tamer Location\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Wind Tamer,\" a Legendary Vessel in *Black Myth: Wukong*. It highlights its effects: significantly increasing damage reduction and granting immunity to strong winds when activated, making it highly effective against specific enemies like those in Yellow Wind Ridge. The Vessel also provides a passive effect of slightly increasing damage reduction when equipped. The interface displays its stats, activation instructions, and an option to view a demo."
 }

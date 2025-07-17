@@ -1,28 +1,11 @@
 {
-    "chunk_id": 826794010601,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Wolves_31.jpg",
-    "alt_text": "Wukong Wolves 31.jpg",
-    "position_desc": 12,
-    "img_above_text": "### 7\\. Not All Items Are What They Appear to Be\nYou absolutely want to spend time collecting all the items you encounter as you explore the regions. They’re essential for crafting valuable items like Medicines as well as Armor and Weapons. However, not all items are what they appear to be!",
-    "img_below_text": "Sometimes, when you’re gathering a mushroom or plucking a flower from the ground you’ll also find an enemy attached to it. So be prepared that sometimes when you’re foraging, you’ll also need to take down an enemy that emerges from the ground if you really want the item.\nHarvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"### 7\\. Not All Items Are What They Appear to Be\nYou absolutely want to spend time collecting all the items you encounter as you explore the regions. They’re essential for crafting valuable items like Medicines as well as Armor and Weapons. However, not all items are what they appear to be!\"\n            - Following Text: \"Sometimes, when you’re gathering a mushroom or plucking a flower from the ground you’ll also find an enemy attached to it. So be prepared that sometimes when you’re foraging, you’ll also need to take down an enemy that emerges from the ground if you really want the item.\nHarvest a material enough times, and you may randomly get something else, like a Soak for your Gourd or Seeds to harvest more plants!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Wolves_31.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where a player character is engaged in combat with an enemy that appears to have emerged from the ground. This visual illustrates the game's dynamic where seemingly harmless items, like mushrooms or flowers, can unexpectedly reveal hidden enemies. It emphasizes the need for players to be cautious and prepared for surprise encounters while foraging for materials, as not all items are what they initially seem."
+    "chunk_id": 912726969955,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Woods_Ember_Walkthrough_%2841%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(41\\).png",
+    "position_desc": 22,
+    "img_above_text": "Exit the little cave and continue on, where you'll see two more Revenant Charbones with a larger figure (a Revenant Charface) straight ahead. Clear these out first, and be careful of the fast slashing attacks from the Revenant Charface, which also continues once you've killed it.\nWhen it's safe, turn back on yourself. The Fire Bellflower that was on the left as you exited the small cave will now be on the right, and you'll see a path on the right that leads to the next section.",
+    "img_below_text": "As you step through the next bit, be careful of the Lavabat. On the other side of this small cave, turn right and cross the bridge. Be ready to fight the Bull Soldier on the other side, but also watch out for the Revenant Charface tucked away on the right who will come at you.\n![Woods Ember Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Woods_Ember_Walkthrough_%2844%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Exit the little cave and continue on, where you'll see two more Revenant Charbones with a larger figure (a Revenant Charface) straight ahead. Clear these out first, and be careful of the fast slashing attacks from the Revenant Charface, which also continues once you've killed it.\nWhen it's safe, turn back on yourself. The Fire Bellflower that was on the left as you exited the small cave will now be on the right, and you'll see a path on the right that leads to the next section.\"\n        - Following Text: \"As you step through the next bit, be careful of the Lavabat. On the other side of this small cave, turn right and cross the bridge. Be ready to fight the Bull Soldier on the other side, but also watch out for the Revenant Charface tucked away on the right who will come at you.\n![Woods Ember Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Woods_Ember_Walkthrough_%2844%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the entrance of a cave with a silhouetted view of the outside environment, featuring rocky terrain and barren trees. A highlighted Lavabat enemy is visible hanging from the cave ceiling near the exit, marked with red indicators to alert players of its presence. This visual serves as a warning for players to be cautious when proceeding through the cave, as described in the following text."
 }

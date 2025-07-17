@@ -1,28 +1,11 @@
 {
-    "chunk_id": 656126320362,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg",
-    "alt_text": "Wukong Sandgate 64.jpg",
-    "position_desc": 62,
-    "img_above_text": "![Wukong Sandgate 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg)\nFor this walkthrough, we’ll wrap up the last sub-region of Sandgate before diverting to Fright Valley first, and then the Crouching Tiger Temple, but you’re free to explore where you want.",
-    "img_below_text": "You’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.\n![Wukong Sandgate 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 62 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg)\nFor this walkthrough, we’ll wrap up the last sub-region of Sandgate before diverting to Fright Valley first, and then the Crouching Tiger Temple, but you’re free to explore where you want.\"\n            - Following Text: \"You’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.\n![Wukong Sandgate 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist standing over a defeated enemy in a rocky, dimly lit area. This moment occurs in the Sandgate sub-region, just before the player finds a new Shrine and encounters a cave entrance guarded by enemies. The image captures the aftermath of a battle, highlighting the game's combat mechanics and the player's progression through the narrative."
+    "chunk_id": 178300306733,
+    "source_file": "The_Spirit_of_Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Longevity_28.jpg",
+    "alt_text": "Wukong Longevity 28.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Where to use The Spirit of Captain Wise-Voice in Black Myth: Wukong\nThe Spirit of Captain Wise-Voice can be used in conjunction with The Spirit of Captain Lotus-Vision, The Spirit of Captain Void-Illusion, and The Spirit of Captain Kalpa-Wave in The New West at the prisoner in the first cell at the base of the Pagoda Realm. With all of these items, you can return to the prisoner to obtain the Chubai Spearhead.",
+    "img_below_text": "This material can be used to craft one of the higher-end Weapons in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Where to use The Spirit of Captain Wise-Voice in Black Myth: Wukong\nThe Spirit of Captain Wise-Voice can be used in conjunction with The Spirit of Captain Lotus-Vision, The Spirit of Captain Void-Illusion, and The Spirit of Captain Kalpa-Wave in The New West at the prisoner in the first cell at the base of the Pagoda Realm. With all of these items, you can return to the prisoner to obtain the Chubai Spearhead.\"\n        - Following Text: \"This material can be used to craft one of the higher-end Weapons in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game interaction from *Black Myth: Wukong*, likely involving the exchange or presentation of an item, such as The Spirit of Captain Wise-Voice or a related artifact. This scene is part of a quest where multiple spirits are used to unlock the Chubai Spearhead, which can be crafted into a high-tier weapon."
 }

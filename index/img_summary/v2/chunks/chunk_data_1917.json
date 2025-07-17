@@ -1,28 +1,11 @@
 {
-    "chunk_id": 61778298847,
-    "source_file": "Man-in-Stone.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg",
-    "alt_text": "Wukong Fright 19.jpg",
-    "position_desc": 1,
-    "img_above_text": "* **Rewards:** Azure Dust Transformation Spell, 758 Experience, 756 Will\n## Where to Find the Man-in-Stone",
-    "img_below_text": "As an optional character you can meet, the Man-in-Stone can easily be missed, but shouldn't if you want to unlock an important spell. He's located in a small crevice of the Fright Cliff, found by heading to the right of the Squall Hideout below a large ruin.\n![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Man-in-Stone.md'.\n\n            Context:\n            - Preceding Text: \"* **Rewards:** Azure Dust Transformation Spell, 758 Experience, 756 Will\n## Where to Find the Man-in-Stone\"\n            - Following Text: \"As an optional character you can meet, the Man-in-Stone can easily be missed, but shouldn't if you want to unlock an important spell. He's located in a small crevice of the Fright Cliff, found by heading to the right of the Squall Hideout below a large ruin.\n![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing on a wooden bridge overlooking a shadowy crevice below. A red arrow points to the crevice, indicating the location of the \"Man-in-Stone,\" an optional character in *Black Myth: Wukong*. The crevice is part of the Fright Cliff area, accessible by heading right from the Squall Hideout near a large ruin.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide to help players locate the \"Man-in-Stone,\" a hidden character tied to unlocking the Azure Dust Transformation Spell. This optional encounter is significant for gaining rewards like experience points, Will, and the spell."
+    "chunk_id": 359086217576,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Thunderclap_74.jpg",
+    "alt_text": "Wukong Thunderclap 74.jpg",
+    "position_desc": 73,
+    "img_above_text": "![Wukong Thunderclap 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg)\nTo start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.",
+    "img_below_text": "Expect him to follow up this attack be retracting it, and then slamming it over his head down in front of him with another ranged mid-range attack.\nThese two attacks have a lot of weight to them, and leave him with considerable openings to get in plenty of hits while he retracts his weapon and resets his posture, so make the most of them!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg)\nTo start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.\"\n        - Following Text: \"Expect him to follow up this attack be retracting it, and then slamming it over his head down in front of him with another ranged mid-range attack.\nThese two attacks have a lot of weight to them, and leave him with considerable openings to get in plenty of hits while he retracts his weapon and resets his posture, so make the most of them!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a character named Yellowbrow attacking the player with a spiked mace. Yellowbrow's attack involves charging up the mace and thrusting it with increased length and size, followed by retracting and slamming it down for another mid-range attack. The image highlights the dramatic and intense nature of the combat, with visible lightning effects and detailed environment design."
 }

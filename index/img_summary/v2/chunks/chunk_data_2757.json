@@ -1,28 +1,11 @@
 {
-    "chunk_id": 598982234687,
-    "source_file": "Spearbone_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Spearbone_3.jpg",
-    "alt_text": "Spearbone 3.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Spearbone Fight\n* Spearbone Spirit",
-    "img_below_text": "## Spearbone Location\nSpearbone can be found lurking outside the sand waterfall in Yellow Wind Ridge. To find him, make your way to the Rockrest Flat Keeper's Shrine. Turn right (if you're facing the Shrine) and run up the staircase you will find there to reach a small platform. Spearbone will be waiting on the platform.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Spearbone_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Spearbone Fight\n* Spearbone Spirit\"\n            - Following Text: \"## Spearbone Location\nSpearbone can be found lurking outside the sand waterfall in Yellow Wind Ridge. To find him, make your way to the Rockrest Flat Keeper's Shrine. Turn right (if you're facing the Shrine) and run up the staircase you will find there to reach a small platform. Spearbone will be waiting on the platform.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Spearbone_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from a video game, featuring a character engaged in battle with a formidable enemy known as Spearbone Spirit. The character is shown striking Spearbone Spirit, who is wielding a large shield and spear, with blue energy effects indicating the impact of the attack. The preceding text introduces the fight with Spearbone Spirit, while the following text provides detailed instructions on locating Spearbone in the game world, specifically outside the sand waterfall in Yellow Wind Ridge. The image serves to illustrate the fierce encounter players can expect when facing Spearbone Spirit."
+    "chunk_id": 846550921655,
+    "source_file": "Village_of_Lanxi_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Lanxi_32.jpg",
+    "alt_text": "Wukong Lanxi 32.jpg",
+    "position_desc": 30,
+    "img_above_text": "There's a large pit in the middle of this courtyard, but before you follow Zhu Bajie down, check the large altar on the other side of the pit, and you'll be able to claim a **Celestial Jade Lotus Pill** to increase your maximum health!\nThe Webbed Hollow Celestial Jade Lotus Pill",
+    "img_below_text": "When you're ready to move to the next area, jump into the pit, only to find yourself taking a one way trip down to the true **Webbed Hollow** of this realm.\nVillage of Lanxi Complete",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There's a large pit in the middle of this courtyard, but before you follow Zhu Bajie down, check the large altar on the other side of the pit, and you'll be able to claim a **Celestial Jade Lotus Pill** to increase your maximum health!\nThe Webbed Hollow Celestial Jade Lotus Pill\"\n        - Following Text: \"When you're ready to move to the next area, jump into the pit, only to find yourself taking a one way trip down to the true **Webbed Hollow** of this realm.\nVillage of Lanxi Complete\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player is instructed to jump into a large pit in a courtyard to proceed to the next area, known as the Webbed Hollow. Before doing so, players are advised to explore the altar on the opposite side of the pit to obtain a Celestial Jade Lotus Pill, which increases maximum health. The image serves as a visual guide for navigating this part of the game."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 921546643997,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Pagoda_60.jpg",
-    "alt_text": "Wukong Pagoda 60.jpg",
-    "position_desc": 57,
-    "img_above_text": "Watch out for his extended spinning attack with his weapon, and wait for him to get dizzy before launching a counter attack and Immobilizing him to extend his downtime. If he floats into the air, be ready for him to crash his weapon into the ground as he lands.\nWhen defeated, you'll earn his Fungiman Spirit to add to your collection. Not far past where the Fungiman was hiding you can spot the stairway up to Level 4, but there's a bit more to explore here first.",
-    "img_below_text": "Back on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.\n![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 57 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Watch out for his extended spinning attack with his weapon, and wait for him to get dizzy before launching a counter attack and Immobilizing him to extend his downtime. If he floats into the air, be ready for him to crash his weapon into the ground as he lands.\nWhen defeated, you'll earn his Fungiman Spirit to add to your collection. Not far past where the Fungiman was hiding you can spot the stairway up to Level 4, but there's a bit more to explore here first.\"\n            - Following Text: \"Back on the outside ring, you may notice two more Lantern Sentries patrolling when the beguiling chant is active, so it's a good idea to take them down whenever the chanting begins.\n![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Pagoda_60.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky area within a game environment, likely from \"Black Myth: Wukong.\" A character, possibly the player, is seen crouching and preparing to engage with two Lantern Sentries, which are patrolling a narrow ledge. The image serves to illustrate the strategic approach needed to navigate past these enemies, as mentioned in the preceding and following text. The preceding text advises on defeating a previous enemy and hints at further exploration, while the following text suggests dealing with the Lantern Sentries when a specific chant begins."
+    "chunk_id": 30293129029,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Shigandang_4.jpg",
+    "alt_text": "Wukong Shigandang 4.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Shigandang 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Shigandang_3.jpg)\nThe Shigandang will often start the fight by racing toward you on all fours, slamming the ground with each step that can make it hard to avoid if you don’t have a head start on sprinting back or using Cloud Step to give him the slip.",
+    "img_below_text": "When the boss leaps into the air, he’ll slam down on all fours again to send out a tremor, but will also cause a stone pillar to shoot up by whichever part of his body you're closest to. The pillar will glow (as will his front arms), and after a moment explode and deal damage, so keep strafing away to attack a different part of his body.\nWhen attacking him from the front, be ready to deal with backhanded sweeps along the ground that you can parry with Rock Solid, or dodge and keep your combo going. However, if he stands up and pulls one arm back, you can expect a surprisingly far-reaching and fast lunging punch, followed by a slam into the ground.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Shigandang 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Shigandang_3.jpg)\nThe Shigandang will often start the fight by racing toward you on all fours, slamming the ground with each step that can make it hard to avoid if you don’t have a head start on sprinting back or using Cloud Step to give him the slip.\"\n        - Following Text: \"When the boss leaps into the air, he’ll slam down on all fours again to send out a tremor, but will also cause a stone pillar to shoot up by whichever part of his body you're closest to. The pillar will glow (as will his front arms), and after a moment explode and deal damage, so keep strafing away to attack a different part of his body.\nWhen attacking him from the front, be ready to deal with backhanded sweeps along the ground that you can parry with Rock Solid, or dodge and keep your combo going. However, if he stands up and pulls one arm back, you can expect a surprisingly far-reaching and fast lunging punch, followed by a slam into the ground.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against \"Shigandang\" in *Black Myth: Wukong*. The boss is shown slamming the ground, causing a glowing stone pillar to erupt nearby, which is part of its attack pattern. The preceding and following text explains that these pillars explode after a moment, requiring the player to strafe and reposition to avoid damage. The player must also anticipate other attacks, such as ground sweeps and lunging punches, while utilizing defensive abilities like \"Rock Solid\" or evasive maneuvers."
 }

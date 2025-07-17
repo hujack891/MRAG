@@ -1,28 +1,11 @@
 {
-    "chunk_id": 423388671300,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg",
-    "alt_text": "Wukong Tiger 19.jpg",
-    "position_desc": 19,
-    "img_above_text": "![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\nThe pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.",
-    "img_below_text": "And finally the Thrust Stance heavy attack does great single target damage from a long range, but like the pillar stance heavy attack, it requires you to stand completely still while charging. To unlock the pillar and thrust stances, you’ll need to be of a particular level, and you’ll need to put at least one spark into the respective trees.\n### 12\\. Enter Photo Mode in Alternate Ways",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\nThe pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.\"\n            - Following Text: \"And finally the Thrust Stance heavy attack does great single target damage from a long range, but like the pillar stance heavy attack, it requires you to stand completely still while charging. To unlock the pillar and thrust stances, you’ll need to be of a particular level, and you’ll need to put at least one spark into the respective trees.\n### 12\\. Enter Photo Mode in Alternate Ways\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" showcasing a character engaged in a heavy attack stance against a large enemy named \"Tiger Vanguard.\" The character is performing a powerful move, likely the pillar stance heavy attack, which is noted for its slow execution but significant area-of-effect damage. The context emphasizes the strategic use of different stances and their respective benefits and drawbacks in combat, highlighting the importance of unlocking and mastering these moves for effective gameplay."
+    "chunk_id": 84702575093,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Woods_Ember_Walkthrough_%2850%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(50\\).png",
+    "position_desc": 29,
+    "img_above_text": "![Woods Ember Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Woods_Ember_Walkthrough_%2845%29.png)\nTake out the Revenant Charface and Charbone guarding the chest, then open it to collect Fine Gold Thread and a Mind Core.",
+    "img_below_text": "Now return and head up the long set of stairs. Clear the area of the Revenant Charface and the Revenant Charbones on either side. When it's safe, go into the small building on the right to pick up the Mount Lingtai Seedlings Soak from the golden turtle.\nMount Lingtai Seedlings",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Woods_Ember_Walkthrough_%2845%29.png)\nTake out the Revenant Charface and Charbone guarding the chest, then open it to collect Fine Gold Thread and a Mind Core.\"\n        - Following Text: \"Now return and head up the long set of stairs. Clear the area of the Revenant Charface and the Revenant Charbones on either side. When it's safe, go into the small building on the right to pick up the Mount Lingtai Seedlings Soak from the golden turtle.\nMount Lingtai Seedlings\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a small building with a golden turtle placed on a table inside. This scene aligns with the following text, which instructs players to enter the building after clearing nearby enemies to collect the Mount Lingtai Seedlings Soak from the golden turtle. The setting appears to be part of a detailed walkthrough for the video game *Black Myth: Wukong*."
 }

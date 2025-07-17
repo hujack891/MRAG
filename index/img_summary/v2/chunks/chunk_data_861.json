@@ -1,28 +1,11 @@
 {
-    "chunk_id": 173112113963,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Turtle_37.jpg",
-    "alt_text": "Wukong Turtle 37.jpg",
-    "position_desc": 16,
-    "img_above_text": "In particular, we recommend the Red Tides transformation spell to evade around his attacks while burning him, as he swings are slow enough that you can have an easier time performing the wolf guai's ultimate spell attack for big damage.\nThis fight will largely come down to learning his moves enough that you can anticipate and avoid his powerful attacks, and find your opening to keep him staggered and on the defensive. Once you learn how to keep away from his sword swings, you'll be able to take him down for good.",
-    "img_below_text": "When he falls, you'll earn some Fine Gold Thread and another Loong Pearl, and can loot a nearby chest that appears for the Mountain-Shaking Claw material and Breath of Fire Soak for your Gourd. This new material will unlock the upgrade path for your Loongwreathe Staff into the Golden Loong Staff, but you'll need to find and defeat the last of the four Loongs to craft it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"In particular, we recommend the Red Tides transformation spell to evade around his attacks while burning him, as he swings are slow enough that you can have an easier time performing the wolf guai's ultimate spell attack for big damage.\nThis fight will largely come down to learning his moves enough that you can anticipate and avoid his powerful attacks, and find your opening to keep him staggered and on the defensive. Once you learn how to keep away from his sword swings, you'll be able to take him down for good.\"\n            - Following Text: \"When he falls, you'll earn some Fine Gold Thread and another Loong Pearl, and can loot a nearby chest that appears for the Mountain-Shaking Claw material and Breath of Fire Soak for your Gourd. This new material will unlock the upgrade path for your Loongwreathe Staff into the Golden Loong Staff, but you'll need to find and defeat the last of the four Loongs to craft it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Turtle_37.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense moment of combat in a snowy, mountainous setting, featuring a character wielding a detailed, ornate staff amidst a dynamic explosion of snow and debris. This scene likely represents a pivotal moment in the battle described in the preceding text, where the player is advised to use specific strategies to defeat a powerful enemy. The image emphasizes the high-stakes nature of the fight and the dramatic environment, aligning with the narrative's focus on overcoming the foe to earn rare rewards and progress in crafting the Golden Loong Staff."
+    "chunk_id": 142775771770,
+    "source_file": "Elder_Amourworm.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_7.jpg",
+    "alt_text": "Wukong MiddleHollow 7.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Elder Amourworm Boss Fight and Guide\nWhile not a particularly challenging fight, the Elder Amourworm is a hefty foe that makes up for its lack of abilities with a few dirty tricks you'll need to be ready for, and also be stocked up on Antimiasma Medicine.",
+    "img_below_text": "The Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.\n![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Elder Amourworm Boss Fight and Guide\nWhile not a particularly challenging fight, the Elder Amourworm is a hefty foe that makes up for its lack of abilities with a few dirty tricks you'll need to be ready for, and also be stocked up on Antimiasma Medicine.\"\n        - Following Text: \"The Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.\n![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Elder Amourworm boss fight from *Black Myth: Wukong*. The scene shows the player character engaged in combat with the massive worm-like creature in a dark, eerie environment filled with webbing and egg-like structures. The Elder Amourworm is rearing up, likely preparing to attack, with sticky threads visible in the air, consistent with its ability to trap players. The health bar at the bottom indicates the ongoing battle, while the UI displays player stats and abilities."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 870001813128,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg",
-    "alt_text": "Wukong Sandgate 49.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Sandgate 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Sandgate_53.jpg)\nIf you do want to do defeat the King but are worried about incurring the Prince’s wrath, a good idea is to attack the King whenever he’s exposed, but then focus your attention on taking the Prince’s health down to a manageable level so that when you defeat the King, the Prince can’t last long.",
-    "img_below_text": "The Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\n![Wukong Sandgate 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Sandgate_53.jpg)\nIf you do want to do defeat the King but are worried about incurring the Prince’s wrath, a good idea is to attack the King whenever he’s exposed, but then focus your attention on taking the Prince’s health down to a manageable level so that when you defeat the King, the Prince can’t last long.\"\n            - Following Text: \"The Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\n![Wukong Sandgate 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist engaged in combat against the \"King of Flowing Sands\" while the \"Second Rat Prince\" is also present as part of the encounter. The preceding text suggests a strategic approach to defeating the King while managing the Prince's health, while the following text describes the Prince's attack patterns, emphasizing the dual-threat nature of the fight. The image visually reinforces the dynamic and challenging gameplay, highlighting the player's need for tactical decision-making during this multi-enemy boss battle."
+    "chunk_id": 801839677295,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/The_Hall_New_Thunderclap_Temple_Meditation_Spot.jpg",
+    "alt_text": "The Hall New Thunderclap Temple Meditation Spot.jpg",
+    "position_desc": 14,
+    "img_above_text": "### The Hall, New Thunderclap Temple Mediation Spot\nThe Hall, New Thunderclap Temple Meditation Spot",
+    "img_below_text": "There are two Temple structures on either side of the New Thunderclap Temple. The Hall Meditation Spot is in the Temple on the right. It is guarded by the Spirit, Non-Pure, so prepare for a fight before unlocking this Meditation Spot.\n## The Webbed Hollow Meditation Spots (Chapter 4)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Hall, New Thunderclap Temple Mediation Spot\nThe Hall, New Thunderclap Temple Meditation Spot\"\n        - Following Text: \"There are two Temple structures on either side of the New Thunderclap Temple. The Hall Meditation Spot is in the Temple on the right. It is guarded by the Spirit, Non-Pure, so prepare for a fight before unlocking this Meditation Spot.\n## The Webbed Hollow Meditation Spots (Chapter 4)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in the New Thunderclap Temple, specifically at the Hall Meditation Spot. This location is significant as it is guarded by a challenging enemy, the Spirit, Non-Pure, which players must defeat to unlock the meditation spot. The image likely serves as a visual reference for players navigating this area, highlighting the temple's intricate design and the presence of a character preparing for the encounter."
 }

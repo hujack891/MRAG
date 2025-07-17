@@ -1,28 +1,11 @@
 {
-    "chunk_id": 439740801702,
-    "source_file": "black-myth-wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
-    "alt_text": "20240815103517 1.jpg",
-    "position_desc": 5,
-    "img_above_text": "* Snow Fox Questline\n## Collectibles",
-    "img_below_text": "The wilds of Ancient China can be a dangerous place, and you'll need every boost in power you can get. Luckily we have the locations of important collectibles to boost your power, your healing gourd, and even places to earn free skill points.\n* Celestial Jade Lotus Pill Locations",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Snow Fox Questline\n## Collectibles\"\n            - Following Text: \"The wilds of Ancient China can be a dangerous place, and you'll need every boost in power you can get. Luckily we have the locations of important collectibles to boost your power, your healing gourd, and even places to earn free skill points.\n* Celestial Jade Lotus Pill Locations\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong*, a monkey-like character, resting in a serene outdoor setting surrounded by large ornate jars and natural elements. Based on the preceding and following text, the image likely serves to illustrate a moment of respite or preparation within the game's narrative, tying into the theme of quests and collectibles that enhance the player's abilities, such as healing or skill points."
+    "chunk_id": 605362604082,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_BlackWind_38.jpg",
+    "alt_text": "Wukong BlackWind 38.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong BlackWind 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg)\nOnce engulfed in flames, the Black Bear Guai will revert to his old tricks of turning into the black wind wisp and charging at you after a small explosion — only this time it will also deal fire damage. Be ready for him to zip back and forth quickly to catch you off guard.",
+    "img_below_text": "He can also pull his familiar trick of turning into mist and then reappearing with a diving bodyslam (now on fire). If you see his black wind fly up, be ready for the attack and either dodge past him or Cloud Step away and retaliate as he struggles to rise.\nWhen he comes at you in his bear form, all of his attacks will now deal fire damage, and all of his slams will cause explosions in front of him when his attacks hit the ground. Dodging is now more important than ever, especially to the side of his attacks to escape their explosion range.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg)\nOnce engulfed in flames, the Black Bear Guai will revert to his old tricks of turning into the black wind wisp and charging at you after a small explosion — only this time it will also deal fire damage. Be ready for him to zip back and forth quickly to catch you off guard.\"\n        - Following Text: \"He can also pull his familiar trick of turning into mist and then reappearing with a diving bodyslam (now on fire). If you see his black wind fly up, be ready for the attack and either dodge past him or Cloud Step away and retaliate as he struggles to rise.\nWhen he comes at you in his bear form, all of his attacks will now deal fire damage, and all of his slams will cause explosions in front of him when his attacks hit the ground. Dodging is now more important than ever, especially to the side of his attacks to escape their explosion range.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic scene from the video game \"Black Myth: Wukong,\" featuring a boss battle against the Black Bear Guai. The bear is engulfed in flames, indicating its enhanced fire-based attacks. The player character is engaged in combat, with the game's interface showing health bars and ability icons. The surrounding environment is ablaze, emphasizing the intensity and danger of the encounter. The image illustrates the bear's transformation and the player's need to dodge and strategize to overcome the fiery challenge."
 }

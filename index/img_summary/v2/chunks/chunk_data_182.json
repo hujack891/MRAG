@@ -1,28 +1,11 @@
 {
-    "chunk_id": 933171951585,
+    "chunk_id": 55943752816,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Bitter_3.jpg",
-    "alt_text": "Wukong Bitter 3.jpg",
-    "position_desc": 39,
-    "img_above_text": "![Wukong Bitter 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Bitter_2.jpg)\nThe good news is Zhu Bajie has now agreed to accompany you, and despite his size, the little pig is a handy follower to have. Not only is he pretty adept with his rake weapon, and can also belch poison at enemies, he can also expel a healing mist to help you recover your health and save on using your gourd!",
-    "img_below_text": "Start by heading along the shore and defeating various Frozen Corpses, and look for a small building in the distance by the water's edge. As you near it, you can also spot a dragon man standing alone in the shallows. Zhu Bajie seems to know him, but as you approach, you'll be pulled into another boss fight.\n## Boss Fight - Chen Loong",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Bitter_2.jpg)\nThe good news is Zhu Bajie has now agreed to accompany you, and despite his size, the little pig is a handy follower to have. Not only is he pretty adept with his rake weapon, and can also belch poison at enemies, he can also expel a healing mist to help you recover your health and save on using your gourd!\"\n            - Following Text: \"Start by heading along the shore and defeating various Frozen Corpses, and look for a small building in the distance by the water's edge. As you near it, you can also spot a dragon man standing alone in the shallows. Zhu Bajie seems to know him, but as you approach, you'll be pulled into another boss fight.\n## Boss Fight - Chen Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Bitter_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character, Wukong, walking along a snowy and rocky shoreline in *Black Myth: Wukong*. The environment features icy waters, distant mountains, and a small building near the water's edge. A red arrow highlights a figure in the shallows, likely the dragon man mentioned in the following text. The image sets the stage for exploration and an impending boss fight with Chen Loong.\n\n2. **Purpose/Narrative Role**:  \nThis image serves as a visual cue for the next segment of gameplay, guiding players to approach the dragon man in the shallows and prepare for the upcoming boss fight. It also emphasizes the game's atmospheric setting and progression along the shoreline."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg",
+    "alt_text": "Wukong Bitter 5.jpg",
+    "position_desc": 43,
+    "img_above_text": "![Wukong Bitter 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg)\nSometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.",
+    "img_below_text": "Another electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\n![Wukong Bitter 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bitter 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg)\nSometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\"\n        - Following Text: \"Another electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\n![Wukong Bitter 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against \"Chen Loong,\" a serpentine creature emitting a burst of electricity. The player character, wielding a staff, is shown dodging or preparing to counter the lightning-based attack. The snowy, water-filled environment highlights the boss's use of lightning and water mechanics, aligning with the preceding and following text that describes the boss's aerial divebomb and lightning orb attacks."
 }

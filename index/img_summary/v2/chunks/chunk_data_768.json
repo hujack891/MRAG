@@ -1,28 +1,11 @@
 {
-    "chunk_id": 480269870725,
-    "source_file": "Crafting_Materials.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg",
-    "alt_text": "Knot Of Voidness .jpg",
-    "position_desc": 36,
-    "img_above_text": "![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a coiled snake-like artifact, likely a crafting material or upgrade item in the game *Black Myth: Wukong*. Based on the preceding text, it is part of a series of legendary and rare materials used to upgrade rare gourds, found throughout the game chapters. Its intricate design suggests it may hold significant value or rarity within the game's narrative or mechanics."
+    "chunk_id": 267596987444,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Tiger_Tally_.jpg",
+    "alt_text": "Tiger Tally .jpg",
+    "position_desc": 7,
+    "img_above_text": "![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant\n![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary",
+    "img_below_text": "![Boshan Censer.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Boshan_Censer.jpg)| Boshan Censer| Rare | Grants considerable damage reduction when Gourd use is depleted | Defeat Red Loong in Forest of Wolves - Outside the Forest behind the waterfall (secret boss) in Black Wind Mountain| Boshan Censer\n![Black-myth-wukong-goldflora-hairpin.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Black-myth-wukong-goldflora-hairpin.jpg)| Goldflora Hairpin| Epic | Slightly increases Will gained from defeating enemies | Purchased from the Man-In-Stone's Shop in Yellow Wind Ridge after completing the Man-In-Stone questline| Goldflora Hairpin",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant\n![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary\"\n        - Following Text: \"![Boshan Censer.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Boshan_Censer.jpg)| Boshan Censer| Rare | Grants considerable damage reduction when Gourd use is depleted | Defeat Red Loong in Forest of Wolves - Outside the Forest behind the waterfall (secret boss) in Black Wind Mountain| Boshan Censer\n![Black-myth-wukong-goldflora-hairpin.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Black-myth-wukong-goldflora-hairpin.jpg)| Goldflora Hairpin| Epic | Slightly increases Will gained from defeating enemies | Purchased from the Man-In-Stone's Shop in Yellow Wind Ridge after completing the Man-In-Stone questline| Goldflora Hairpin\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Glazed Reliquary,\" a rare item from the video game *Black Myth: Wukong*. According to the surrounding text, this item provides a gameplay benefit by recovering a small amount of stamina when the player performs a perfect dodge. It is located in a cave beyond the Tiger Acolyte in the Yellow Sand Formation - Windrest Hamlet area of Yellow Wind Ridge."
 }

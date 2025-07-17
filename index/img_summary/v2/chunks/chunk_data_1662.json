@@ -1,28 +1,11 @@
 {
-    "chunk_id": 236271095632,
-    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Secret_Loong_Bosses_%282%29.png",
-    "alt_text": "Secret Loong Bosses \\(2\\).png",
-    "position_desc": 5,
-    "img_above_text": "## How to Find Red Loong - Chapter 1 Secret Dragon Boss\nYou’ll need to return to Chapter 1 and the Black Wind Mountain once you have the Loong Scales. Use a Keeper’s Shrine to return to Outside the Forest. From here, head straight up toward the two wolves.",
-    "img_below_text": "Take the first left, past the big stone rock. And then follow it around to the right. This will bring you to the section of the path, where there’s a small bridge going right and a chest on the left. Head down toward the chest, and a voice should start speaking to you.\n![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"## How to Find Red Loong - Chapter 1 Secret Dragon Boss\nYou’ll need to return to Chapter 1 and the Black Wind Mountain once you have the Loong Scales. Use a Keeper’s Shrine to return to Outside the Forest. From here, head straight up toward the two wolves.\"\n            - Following Text: \"Take the first left, past the big stone rock. And then follow it around to the right. This will bring you to the section of the path, where there’s a small bridge going right and a chest on the left. Head down toward the chest, and a voice should start speaking to you.\n![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Secret_Loong_Bosses_%282%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dense, forested path with moss-covered rocks and trees, illuminated by soft, diffused light. A red arrow is overlaid on the image, pointing to the left toward a rocky incline, suggesting the direction the player should take to progress in the game.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide to help players navigate the environment in Chapter 1 of the game. It highlights the specific path players need to follow to locate the secret Red Loong dragon boss, as described in the preceding and following text."
+    "chunk_id": 398621261015,
+    "source_file": "Loong_Scales.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Loong_Scales_Use.jpg",
+    "alt_text": "Loong Scales Use.jpg",
+    "position_desc": 2,
+    "img_above_text": "### Loong Scale Use: Forest of Wolves - Outside The Forest\nFrom the Shrine, head along the path towards the left. When you reach the bridge, take a left before it and down the slope. On your left you will find a small area with a waterfall between a rock and a tree. With the Loong Scales in your inventory you can head through the waterfall to defeat Red Loong.",
+    "img_below_text": "### Loong Scale Use: Fright Cliff - Rockrest Flat\nDirectly to the right of the Rockrest Flat Shrine you can find the sand waterfall. With the Loong Scales in your inventory you can head through it and defeat Black Loong on the other side.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Loong Scale Use: Forest of Wolves - Outside The Forest\nFrom the Shrine, head along the path towards the left. When you reach the bridge, take a left before it and down the slope. On your left you will find a small area with a waterfall between a rock and a tree. With the Loong Scales in your inventory you can head through the waterfall to defeat Red Loong.\"\n        - Following Text: \"### Loong Scale Use: Fright Cliff - Rockrest Flat\nDirectly to the right of the Rockrest Flat Shrine you can find the sand waterfall. With the Loong Scales in your inventory you can head through it and defeat Black Loong on the other side.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a player character in a lush, forested area, likely near the \"Forest of Wolves\" location mentioned in the walkthrough. The character is equipped with a spear and stands near a path surrounded by dense vegetation, possibly approaching the waterfall described in the preceding text. This area serves as a key point for using the Loong Scales to access the hidden boss, Red Loong."
 }

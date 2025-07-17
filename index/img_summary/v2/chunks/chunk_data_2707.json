@@ -1,28 +1,11 @@
 {
-    "chunk_id": 618189479564,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
-    "alt_text": "Snow Fox Questline \\(4\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Snow Fox Questline \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Snow_Fox_Questline_%287%29.png)\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.",
-    "img_below_text": "Approach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\n![Snow Fox Questline .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Snow_Fox_Questline_%287%29.png)\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.\"\n            - Following Text: \"Approach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\n![Snow Fox Questline .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the \"Snow Fox Questline\" in the game \"Black Myth: Wukong.\" It shows a character interacting with a skeletal body slumped against a post in a snowy forest setting. This interaction is part of a narrative where the player learns about a fox guai whose soul resides in the body. The fox guai shares its story of transformation and betrayal, having been caught in a hunter's trap and later killed by a scholar it tried to help. The quest involves uncovering the fox's tale of revenge against the scholar, now a monk at the New Thunderclap Temple, which the player will visit soon."
+    "chunk_id": 915428059961,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Longevity_13.jpg",
+    "alt_text": "Wukong Longevity 13.jpg",
+    "position_desc": 109,
+    "img_above_text": "![Wukong Longevity 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Longevity_12.jpg)\nWhat makes them truly dangerous is the more they swing their mace, the more small fires will begin to appear around it. Once the fires have grown, any of their weapon slams will now deal huge explosions that can be a pain to deal with.",
+    "img_below_text": "Make use of your spells to keep the foe off-balance and to get away from their explosive attacks, and once they've been defeated, jump and perform a heavy attack to smash the glowing pot on the small wooden platform to gain an Awaken Wine Worm!\nLongevity Road Awaken Wine Worm",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Longevity_12.jpg)\nWhat makes them truly dangerous is the more they swing their mace, the more small fires will begin to appear around it. Once the fires have grown, any of their weapon slams will now deal huge explosions that can be a pain to deal with.\"\n        - Following Text: \"Make use of your spells to keep the foe off-balance and to get away from their explosive attacks, and once they've been defeated, jump and perform a heavy attack to smash the glowing pot on the small wooden platform to gain an Awaken Wine Worm!\nLongevity Road Awaken Wine Worm\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from the video game *Black Myth: Wukong*, showcasing a fiery explosion caused by an enemy's weapon slam. The explosion is a result of the enemy's mace attacks, which generate small fires that culminate in devastating blasts. The player is advised to use spells to evade these explosive attacks and defeat the foe, leading to a reward involving a glowing pot and an Awaken Wine Worm."
 }

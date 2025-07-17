@@ -1,28 +1,11 @@
 {
-    "chunk_id": 435335967684,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(1\\).png",
-    "position_desc": 5,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)\nHead toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.",
-    "img_below_text": "Immediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.\n![Water Curtain Cave Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)\nHead toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.\"\n            - Following Text: \"Immediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.\n![Water Curtain Cave Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene within a cave where a character, likely the protagonist, stands poised with a staff, gazing toward a glowing, ornate pillar in the center of the cavern. The preceding text suggests the character has navigated through a path past a waterfall, while the following text indicates the discovery of a giant staff, leading to an important cutscene. This image captures a pivotal moment in the narrative, emphasizing exploration and the anticipation of a significant event or revelation within the game's storyline."
+    "chunk_id": 951388402259,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_UpperHollow_31.jpg",
+    "alt_text": "Wukong UpperHollow 31.jpg",
+    "position_desc": 33,
+    "img_above_text": "![Wukong UpperHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_UpperHollow_32.jpg)\nOnce he's defeated, you can lure down the first of several Puppet Spiders just past the stairs, but be sure to also turn around to find a small path up to an alcove with a green Wisp, and a ledge that will drop you back into the hanging cocoon passage.",
+    "img_below_text": "Continue up the long rounded path luring out the Puppet Spiders one at a time, and eventually you'll reach the far side of the large platform you saw across from the houses near the Upper Hollow Shrine.\n![Wukong UpperHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_UpperHollow_33.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_UpperHollow_32.jpg)\nOnce he's defeated, you can lure down the first of several Puppet Spiders just past the stairs, but be sure to also turn around to find a small path up to an alcove with a green Wisp, and a ledge that will drop you back into the hanging cocoon passage.\"\n        - Following Text: \"Continue up the long rounded path luring out the Puppet Spiders one at a time, and eventually you'll reach the far side of the large platform you saw across from the houses near the Upper Hollow Shrine.\n![Wukong UpperHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_UpperHollow_33.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" where the player character is engaged in combat with a Puppet Spider enemy. The setting is a rocky, cavernous area with a path leading upwards. This moment follows the defeat of a previous enemy, allowing the player to lure down Puppet Spiders one at a time as they progress through the game. The image illustrates the action and strategy involved in navigating this section of the game."
 }

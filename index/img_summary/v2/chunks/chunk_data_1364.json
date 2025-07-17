@@ -1,28 +1,11 @@
 {
-    "chunk_id": 947942043692,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Furnace_Valley_Walkthrough_%2854%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(54\\).png",
-    "position_desc": 25,
-    "img_above_text": "![Furnace Valley Walkthrough \\(49\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Furnace_Valley_Walkthrough_%2849%29.png)\nCloudy Mist and Misty Cloud are another duo that will use different elements to fight you. You'll go up against Cloudy Mist first, who is the creature with the staff.",
-    "img_below_text": "It will mainly shoot lasers from the smaller face on its chest and use projectiles. The way that these attacks appear can vary wildly from one laser at a time, to multiple in a criss-cross pattern. As for the projectiles, you'll see either a few larger balls of mist or multiple tiny ones sent your way.\n![Furnace Valley Walkthrough \\(55\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Furnace_Valley_Walkthrough_%2855%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(49\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Furnace_Valley_Walkthrough_%2849%29.png)\nCloudy Mist and Misty Cloud are another duo that will use different elements to fight you. You'll go up against Cloudy Mist first, who is the creature with the staff.\"\n            - Following Text: \"It will mainly shoot lasers from the smaller face on its chest and use projectiles. The way that these attacks appear can vary wildly from one laser at a time, to multiple in a criss-cross pattern. As for the projectiles, you'll see either a few larger balls of mist or multiple tiny ones sent your way.\n![Furnace Valley Walkthrough \\(55\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Furnace_Valley_Walkthrough_%2855%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Furnace_Valley_Walkthrough_%2854%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense battle scene from *Black Myth: Wukong*, featuring the player character confronting \"Cloudy Mist,\" a staff-wielding enemy. Cloudy Mist is shown crouching and emitting a laser attack from the smaller face on its chest, a key ability described in the context. The dark, atmospheric environment emphasizes the intensity of the encounter, with the player poised to evade or retaliate. This moment highlights the enemy's unique attack patterns and the strategic combat required to overcome it."
+    "chunk_id": 863731006397,
+    "source_file": "How_to_Change_Default_Chinese_Text_to_English.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Black_myth_wukong_.jpg",
+    "alt_text": "Black myth wukong .jpg",
+    "position_desc": 1,
+    "img_above_text": "7. From this submenu, pick the fifth menu option with a small chat box icon\n8. Select the top drop-down menu and pick English or your preferred language for text in the game",
+    "img_below_text": "**For more Black Myth Wukong game help, check out:**\n* Walkthrough",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"7. From this submenu, pick the fifth menu option with a small chat box icon\n8. Select the top drop-down menu and pick English or your preferred language for text in the game\"\n        - Following Text: \"**For more Black Myth Wukong game help, check out:**\n* Walkthrough\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the language settings menu from the game *Black Myth: Wukong*. It highlights a drop-down menu where players can select their preferred text language, including options like Simplified Chinese, Traditional Chinese, English, French, and German. This menu corresponds to the walkthrough's instructions for changing the game's text language."
 }

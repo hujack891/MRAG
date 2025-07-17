@@ -1,28 +1,11 @@
 {
-    "chunk_id": 545723225327,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg",
-    "alt_text": "Wukong Martial 3.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Martial 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Martial_2.jpg)\nTo start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.",
-    "img_below_text": "A second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.\n![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Martial 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Martial_2.jpg)\nTo start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.\"\n            - Following Text: \"A second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.\n![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat scene from the game *Black Myth: Wukong*, featuring the player character facing off against the \"Green-Capped Martialist\" in a snowy, rocky environment. The enemy is seen mid-attack, surrounded by fiery projectiles, which are part of a two-phase assault involving a chakram.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the second phase of the Green-Capped Martialist's chakram-based attack, where a ring of fiery projectiles is launched toward the player. It highlights the need for precise timing and movement to dodge these projectiles, reinforcing the game's emphasis on challenging and dynamic combat mechanics."
+    "chunk_id": 363958653917,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Chapter_2_Secret_Area_%2812%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(12\\).png",
+    "position_desc": 8,
+    "img_above_text": "![Chapter 2 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Chapter_2_Secret_Area_%2811%29.png)\nTo help him, you'll need to beat the Mother of Stones boss you can find up the stairs to the left just before Rockrest Flat Keeper's Shrine. Defeating the Mother of Stones will grant you the Stone Essence key item you'll need to hand over to the Man-in-Stone.",
+    "img_below_text": "For a detailed walkthrough of the area and how to find both the Man-in-Stone and the Mother of Stones boss, see our Fright Cliff walkthrough.\nGiving him the Stone Essence will result in you needing to attack him. But once you've shown him who's boss, he'll turn into a merchant. The Sobering Stone costs 6,480 Will from him.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 2 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Chapter_2_Secret_Area_%2811%29.png)\nTo help him, you'll need to beat the Mother of Stones boss you can find up the stairs to the left just before Rockrest Flat Keeper's Shrine. Defeating the Mother of Stones will grant you the Stone Essence key item you'll need to hand over to the Man-in-Stone.\"\n        - Following Text: \"For a detailed walkthrough of the area and how to find both the Man-in-Stone and the Mother of Stones boss, see our Fright Cliff walkthrough.\nGiving him the Stone Essence will result in you needing to attack him. But once you've shown him who's boss, he'll turn into a merchant. The Sobering Stone costs 6,480 Will from him.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character engaging in combat with the \"Mother of Stones\" boss in the game *Black Myth: Wukong*. The glowing crystalline structure represents the boss, with its health bar displayed at the bottom of the screen. This encounter is crucial for obtaining the \"Stone Essence\" key item, which is needed to assist the \"Man-in-Stone\" NPC and progress in the game."
 }

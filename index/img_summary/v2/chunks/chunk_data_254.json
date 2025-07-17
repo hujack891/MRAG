@@ -1,28 +1,11 @@
 {
-    "chunk_id": 537599783029,
-    "source_file": "Black_Bear_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_BlackWind_39.jpg",
-    "alt_text": "Wukong BlackWind 39.jpg",
+    "chunk_id": 255306290673,
+    "source_file": "Black_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
+    "alt_text": "Wukong RedLoong 3.jpg",
     "position_desc": 4,
-    "img_above_text": "![Wukong BlackWind 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_34.jpg)\nOne of the more easy attacks to punish will have him gallop around to your side before leaping into the air for a big diving attack. It will take him a few moments to get up off the ground and back into his neutral stance, which is a great time to use the Wight’s Spirit Attack to headbutt him for massive damage.",
-    "img_below_text": "For most of this fight, your key strategy should involve picking your moments to attack wisely, waiting for his bigger slams that take him a while to get back up and unleash your combo attacks.\n![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Black_Bear_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_34.jpg)\nOne of the more easy attacks to punish will have him gallop around to your side before leaping into the air for a big diving attack. It will take him a few moments to get up off the ground and back into his neutral stance, which is a great time to use the Wight’s Spirit Attack to headbutt him for massive damage.\"\n            - Following Text: \"For most of this fight, your key strategy should involve picking your moments to attack wisely, waiting for his bigger slams that take him a while to get back up and unleash your combo attacks.\n![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_BlackWind_39.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat moment in *Black Myth: Wukong*, where the player character is engaged in a battle against the \"Black Bear Guai.\" The bear appears mid-attack, with the player character positioned to either evade or counter. The environment features a fiery, dynamic battlefield with a backdrop of trees and mountains, emphasizing the dramatic setting.\n\n2. **Purpose and Narrative Role**:  \nThe image illustrates a key moment in the boss fight with the Black Bear Guai, highlighting the importance of timing and strategy. It connects to the preceding and following text, which provide tips on exploiting the bear's slow recovery after big attacks to deal significant damage. This visual serves to immerse the player in the action and reinforce the strategic advice given in the guide."
+    "img_above_text": "![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.",
+    "img_below_text": "You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.\n![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\"\n        - Following Text: \"You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.\n![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, where the protagonist stands in front of a mural within a cave-like environment. The setting features intricate details such as lanterns and rocky terrain, suggesting a significant location tied to the game's narrative or exploration. This area may be connected to uncovering the Loong Scales, as mentioned in the preceding and following text, which involves breaking a wall to access hidden treasures."
 }

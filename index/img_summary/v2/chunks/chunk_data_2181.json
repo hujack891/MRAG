@@ -1,28 +1,11 @@
 {
-    "chunk_id": 215119763719,
-    "source_file": "Non-Able.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg",
-    "alt_text": "Wukong Brook 23.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)\nHowever, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.",
-    "img_below_text": "That's not the only martial arts stance he can adopt, either. If you see him flex both arms vertically below his face, he'll do a variation on the three-hit palm strike. Only in these cases, he'll often follow up his third attack with a delayed final hit, spinning his body to backhand you with his glowing right hand that can decimate your health bar.\n![Wukong Brook 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Brook_25.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)\nHowever, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.\"\n            - Following Text: \"That's not the only martial arts stance he can adopt, either. If you see him flex both arms vertically below his face, he'll do a variation on the three-hit palm strike. Only in these cases, he'll often follow up his third attack with a delayed final hit, spinning his body to backhand you with his glowing right hand that can decimate your health bar.\n![Wukong Brook 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Brook_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat moment from *Black Myth: Wukong*, showcasing a martial arts-inspired attack in a snowy environment. The character is executing a glowing strike, emphasizing dynamic movement and precision. This scene aligns with the preceding and following text, which describes the enemy's unpredictable fighting styles, including sliding spin kicks and multi-hit palm strikes, highlighting the game's challenging and fluid combat mechanics."
+    "chunk_id": 516318174549,
+    "source_file": "Rat_Governor_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Rat_Governor_Location.png",
+    "alt_text": "Rat Governor Location.png",
+    "position_desc": 2,
+    "img_above_text": "## Rat Governor Location\nThe Rat Governor can be found guarding the Rock Clash Platform Meditation Spot. To get there, you will first have to defeat the Stone Vanguard at Rock Clash Platform. After you've bested the giant rocky beast, head through the archway on the side of the arena and activate the Rock Clash Platform Keeper's Shrine. Turn around so the Shrine is to your back and head down the path past the houses to find the Rat Governor.",
+    "img_below_text": "## Rat Governor Fight\nThe Rat Governor fights like the other enemies of his kind throughout Yellow Wind Ridge. His main go-to attacks include summoning lightning strikes with his staff and using it to beat you around. The location is kind of difficult to traverse, so luring him up further to a flatter area could help if you're having trouble taking him down.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Rat Governor Location\nThe Rat Governor can be found guarding the Rock Clash Platform Meditation Spot. To get there, you will first have to defeat the Stone Vanguard at Rock Clash Platform. After you've bested the giant rocky beast, head through the archway on the side of the arena and activate the Rock Clash Platform Keeper's Shrine. Turn around so the Shrine is to your back and head down the path past the houses to find the Rat Governor.\"\n        - Following Text: \"## Rat Governor Fight\nThe Rat Governor fights like the other enemies of his kind throughout Yellow Wind Ridge. His main go-to attacks include summoning lightning strikes with his staff and using it to beat you around. The location is kind of difficult to traverse, so luring him up further to a flatter area could help if you're having trouble taking him down.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rustic, rocky environment with weathered houses and barren trees, likely part of the \"Rock Clash Platform\" area described in the context. A character holding a staff is shown, possibly preparing for the encounter with the Rat Governor, who is located nearby. This setting aligns with the walkthrough's guidance on navigating past the houses to reach the Rat Governor's location."
 }

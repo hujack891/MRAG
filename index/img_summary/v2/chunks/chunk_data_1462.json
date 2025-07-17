@@ -1,28 +1,11 @@
 {
-    "chunk_id": 837725529663,
-    "source_file": "Gray-Bronze_Cart.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png",
-    "alt_text": "Chapter 5 Secret Area \\(9\\).png",
-    "position_desc": 4,
-    "img_above_text": "## Gray-Bronze Cart Boss Fight and Guide\nHead straight up the narrow path, and when you're close to the cart, look to the left to find an alcove you can dip into to avoid the fire attacks that also has a green Wisp in it.",
-    "img_below_text": "You can expect the same moveset from each of the carts, so again, the Fireproof Mantle Vessel works wonders here. For this one, though, you won't be able to get close to the feet and stay there without being hit with the fire attacks. So, stick close during the fist slam (without the fire) and dodge this. But when it rears up, jump back into the alcove to protect yourself from any fire attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Gray-Bronze_Cart.md'.\n\n            Context:\n            - Preceding Text: \"## Gray-Bronze Cart Boss Fight and Guide\nHead straight up the narrow path, and when you're close to the cart, look to the left to find an alcove you can dip into to avoid the fire attacks that also has a green Wisp in it.\"\n            - Following Text: \"You can expect the same moveset from each of the carts, so again, the Fireproof Mantle Vessel works wonders here. For this one, though, you won't be able to get close to the feet and stay there without being hit with the fire attacks. So, stick close during the fist slam (without the fire) and dodge this. But when it rears up, jump back into the alcove to protect yourself from any fire attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a narrow, ominous path leading to a large, menacing cart-like enemy in a dark, rocky environment adorned with intricate carvings and grotesque faces. The red arrow highlights an alcove to the left of the path, which serves as a safe spot to avoid the cart's fire attacks and contains a green Wisp.\n\n2. **Purpose/Narrative Role**:  \nThe image visually supports the guide's instructions for navigating the Gray-Bronze Cart boss fight. It emphasizes the importance of using the alcove for protection during fire attacks and strategic positioning during combat."
+    "chunk_id": 88408889663,
+    "source_file": "How_to_Unlock_the_Chapter_1_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Chapter_One_Secret_Area_%282%29.png",
+    "alt_text": "Chapter One Secret Area \\(2\\).png",
+    "position_desc": 11,
+    "img_above_text": "Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1",
+    "img_below_text": "Once you've rung the three bells, you'll be automatically transported to the Secret: Ancient Guanyin Temple. Go up the stairs and there will be a Keeper's Shrine for you to interact with. You can then proceed, where you can take on Elder Jinchi the secret boss of the area.\n![Chapter One Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Chapter_One_Secret_Area_%289%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1\"\n        - Following Text: \"Once you've rung the three bells, you'll be automatically transported to the Secret: Ancient Guanyin Temple. Go up the stairs and there will be a Keeper's Shrine for you to interact with. You can then proceed, where you can take on Elder Jinchi the secret boss of the area.\n![Chapter One Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Chapter_One_Secret_Area_%289%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a character standing before a large bell in a forested area. The prompt on the screen instructs the player to press 'E' to ring the bell. This action is part of a sequence to enter the Secret: Ancient Guanyin Temple in Chapter 1, where ringing three bells transports the player to a secret area to face the boss, Elder Jinchi."
 }

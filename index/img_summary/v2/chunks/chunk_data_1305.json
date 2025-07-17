@@ -1,28 +1,11 @@
 {
-    "chunk_id": 69519008641,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg",
-    "alt_text": "Wukong Fright 59.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Fright 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_39.jpg)\nIn order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.",
-    "img_below_text": "In this large open field, you’ll find a friendly boar-like Guai resting on a rock. He’s apparently extremely inebriated, and needs you to help him find something to sober him up. He’ll mention “Windrest” if you talk to him again, providing a clue to where you can find such an ingredient.\nThere are two ways to get the item required:",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_39.jpg)\nIn order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.\"\n            - Following Text: \"In this large open field, you’ll find a friendly boar-like Guai resting on a rock. He’s apparently extremely inebriated, and needs you to help him find something to sober him up. He’ll mention “Windrest” if you talk to him again, providing a clue to where you can find such an ingredient.\nThere are two ways to get the item required:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a large, boar-like creature resting on a rock in a rugged, open field. The creature appears intoxicated, as suggested by its slouched posture and the on-screen text, \"Go find something to sober me up.\" A character, likely the player, stands nearby, seemingly engaged in a quest to assist the creature.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the quest where the player encounters the Drunk Boar (the Yellow-Robed Squire) in the Rockrest Flat area. The player is tasked with finding an item to help the boar sober up, which is crucial for progressing through the secret area in Chapter 2 of the game. This interaction sets the stage for the next steps in the quest, providing a narrative and gameplay objective."
+    "chunk_id": 311246441185,
+    "source_file": "Gore-Eye_Daoist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Yellow_43.jpg",
+    "alt_text": "Wukong Yellow 43.jpg",
+    "position_desc": 5,
+    "img_above_text": "There’s many more ways he can create more blood pools, and not all of them look the same. Sometimes he’ll dance about and ring his staff, shooting them out in all directions and ending with a shockwave of bloody force you need to dodge.\nUp close, the Gore-Eye Daoist can only employ a few staff swings that don’t hit hard, and will regularly rely on his blood spells to keep you at bay.",
+    "img_below_text": "One of these blood spells is to basically turn his staff into a firehose, and he’ll spray blood in a frontal arc around him to force you to back off, creating several new pools at his feet. Depending on your positioning, you can either try to dodge behind him, or take a retreating jump and follow up with the thrust stance heavy attack outside of his range.\nHe’ll have a few more variations of expelling blood from his staff - either in a concentrated stream straight ahead, or flinging his staff to create a wave of it in front of you, so be ready for waves of blood to fly out whenever he charges up.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There’s many more ways he can create more blood pools, and not all of them look the same. Sometimes he’ll dance about and ring his staff, shooting them out in all directions and ending with a shockwave of bloody force you need to dodge.\nUp close, the Gore-Eye Daoist can only employ a few staff swings that don’t hit hard, and will regularly rely on his blood spells to keep you at bay.\"\n        - Following Text: \"One of these blood spells is to basically turn his staff into a firehose, and he’ll spray blood in a frontal arc around him to force you to back off, creating several new pools at his feet. Depending on your positioning, you can either try to dodge behind him, or take a retreating jump and follow up with the thrust stance heavy attack outside of his range.\nHe’ll have a few more variations of expelling blood from his staff - either in a concentrated stream straight ahead, or flinging his staff to create a wave of it in front of you, so be ready for waves of blood to fly out whenever he charges up.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter with the \"Gore-Eye Daoist,\" a boss character in a video game. The scene shows the player character evading pools of blood and dark energy created by the Daoist's blood-based attacks, which are central to his abilities. The preceding and following text describe the Daoist's attack patterns, including blood sprays, shockwaves, and concentrated streams, emphasizing the need for strategic dodging and positioning to avoid damage. The image visually reinforces the chaotic and dangerous nature of the fight, highlighting the blood pools and the player's active engagement in the battle."
 }

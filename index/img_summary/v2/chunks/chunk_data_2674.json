@@ -1,28 +1,11 @@
 {
-    "chunk_id": 67661068958,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Snowhill_20.jpg",
-    "alt_text": "Wukong Snowhill 20.jpg",
-    "position_desc": 19,
-    "img_above_text": "Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.",
-    "img_below_text": "When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.\"\n            - Following Text: \"When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Snowhill_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character, holding a glowing red weapon, is navigating a snowy, mountainous terrain. The context provided suggests that this moment occurs after a battle with the Macaque Chief, a boss character who has just retreated after being defeated. The player has earned some \"Will\" as a reward, indicated by the on-screen display. The image serves to illustrate the aftermath of the boss fight and the player's progression toward the ruins above."
+    "chunk_id": 153859640877,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg",
+    "alt_text": "Wukong Brook 10.jpg",
+    "position_desc": 51,
+    "img_above_text": "![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\nIn fact, this cliff edge hides a secret, and you can carefully descend to find a secret cave that's devoid of opponents for now, but you can at least activate the Melon Field Shrine for now.",
+    "img_below_text": "Head back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.\n![Wukong Brook 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\nIn fact, this cliff edge hides a secret, and you can carefully descend to find a secret cave that's devoid of opponents for now, but you can at least activate the Melon Field Shrine for now.\"\n        - Following Text: \"Head back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.\n![Wukong Brook 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy brook area in *Black Myth: Wukong*, where the player character, Wukong, is exploring. The preceding text mentions a secret cave near a cliff edge, while the following text suggests moving upstream along the brook to gather materials and encounter enemies. The image likely illustrates the environment players traverse during this segment of the game, showcasing the detailed terrain and the character's position near the water."
 }

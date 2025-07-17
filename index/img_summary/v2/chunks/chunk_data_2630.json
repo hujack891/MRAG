@@ -1,28 +1,11 @@
 {
-    "chunk_id": 825058589386,
-    "source_file": "Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg",
-    "alt_text": "Wukong Shigan Secret1.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Shigandang 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg)\nIf you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the Shigandang in an unexpected way!",
-    "img_below_text": "If you haven't yet defeated the Stone Vanguard on your own but have found all six Buddha Eyeballs, you can actually summon the Shigandang before engaging the Stone Vanguard. When summoned early, he will arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!\nOf course, after defeating the Stone Vanguard, the Shigandang will immediately turn on you, and might be too tough to fight early if you were having problems defeating the Vanguard on your own!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg)\nIf you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the Shigandang in an unexpected way!\"\n            - Following Text: \"If you haven't yet defeated the Stone Vanguard on your own but have found all six Buddha Eyeballs, you can actually summon the Shigandang before engaging the Stone Vanguard. When summoned early, he will arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!\nOf course, after defeating the Stone Vanguard, the Shigandang will immediately turn on you, and might be too tough to fight early if you were having problems defeating the Vanguard on your own!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the protagonist, Wukong, is facing a large stone creature known as the Stone Vanguard. The context suggests that players can summon another powerful entity, the Shigandang, to assist in the battle against the Stone Vanguard if they have collected all six Buddha Eyeballs. The Shigandang is stronger and can perform a finishing move to defeat the Stone Vanguard, but will turn hostile towards the player afterward. The image visually represents the intense and strategic combat encounters players will experience in the game."
+    "chunk_id": 359234176238,
+    "source_file": "Top_Takes_Bottom,_Bottom_Takes_Top.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Field_Fire_Walkthrough_%2823%29.png",
+    "alt_text": "Field Fire Walkthrough \\(23\\).png",
+    "position_desc": 7,
+    "img_above_text": "After successfully wounding them both enough, you'll see them merge together and form the golden spiked ball. They'll use this to jump up in the air, pull back, and spin to launch themselves toward you. They will keep rolling around the room, and it's just a case of dodging this. However, when they're about to finish, they become significantly more aggressive and will leap up in the air again, slamming the ball down and causing explosions on impact. You'll need to dodge or jump to avoid this. Then the cycle will repeat again until you're able to put an end to them.\n### Don't Miss This Spirit!",
+    "img_below_text": "Top Takes Bottom, Bottom Takes Top Spirit",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After successfully wounding them both enough, you'll see them merge together and form the golden spiked ball. They'll use this to jump up in the air, pull back, and spin to launch themselves toward you. They will keep rolling around the room, and it's just a case of dodging this. However, when they're about to finish, they become significantly more aggressive and will leap up in the air again, slamming the ball down and causing explosions on impact. You'll need to dodge or jump to avoid this. Then the cycle will repeat again until you're able to put an end to them.\n### Don't Miss This Spirit!\"\n        - Following Text: \"Top Takes Bottom, Bottom Takes Top Spirit\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, wintry environment with a ruined pathway leading toward a large, ornate structure resembling a temple. A glowing figure stands near a golden spiked ball, which aligns with the preceding text's description of a boss encounter involving a golden spiked ball. The setting suggests a climactic moment in the game, possibly leading to the \"Don't Miss This Spirit!\" event mentioned in the guide."
 }

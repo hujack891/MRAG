@@ -1,28 +1,11 @@
 {
-    "chunk_id": 145016659776,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg",
-    "alt_text": "Wukong Pagoda 108.jpg",
-    "position_desc": 104,
-    "img_above_text": "![Wukong Pagoda 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg)\nWhat you will find are two large murals on the first two walls on the left, and looking closely you should be able to recognize them -- they are the scenes depicted to you after completing the previous chapters! With that in mind, you'll want to come back here after getting close to completing the game, once all the scenes have been unlocked in this room, but for now, head back to the Snow-Veiled Trail Shrine.",
-    "img_below_text": "Head up the slope full of Frozen Corpses to the large forested area full of rocks. A golden trail will soon appear leading straight ahead and up a broken stairway to the Warding Temple on the hill, but there's an optional area to consider first off to the left.\n![Wukong Pagoda 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 104 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg)\nWhat you will find are two large murals on the first two walls on the left, and looking closely you should be able to recognize them -- they are the scenes depicted to you after completing the previous chapters! With that in mind, you'll want to come back here after getting close to completing the game, once all the scenes have been unlocked in this room, but for now, head back to the Snow-Veiled Trail Shrine.\"\n            - Following Text: \"Head up the slope full of Frozen Corpses to the large forested area full of rocks. A golden trail will soon appear leading straight ahead and up a broken stairway to the Warding Temple on the hill, but there's an optional area to consider first off to the left.\n![Wukong Pagoda 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character navigating through a snow-covered trail. The character is seen heading towards a group of figures in the distance, likely enemies, in a forested and rocky area. This image serves to illustrate the player's journey up a slope filled with frozen corpses, leading to a large forested area and eventually to the Warding Temple on the hill. The context suggests that this is part of the player's progression through the game, with an optional area to explore off to the left before continuing on the main path."
+    "chunk_id": 732131168701,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Snowhill_34.jpg",
+    "alt_text": "Wukong Snowhill 34.jpg",
+    "position_desc": 33,
+    "img_above_text": "![Wukong Snowhill 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Snowhill_33.jpg)\nThe base of this tree holds a small turtle chest on a stone table, and inside you'll find the **Stranded Loong's Whisker Soak** for your Gourd, which will increase the duration of your Immobilize spell!",
+    "img_below_text": "Returning to the Mirrormere Shrine, this time go left when facing the shore. There's a few more plants to harvest, but the bigger attraction here is a larger group of Frozen Corpses in a field leading to the shore. You'll need to rouse and defeat the entire group, and doing so will earn you an exclusive reward - the **Mani Band curio** , which can help you out when fighting frost-inflicting enemies.\nYou'll also find a small **Treasure Chest** nearby, and you can loot it for assorted items that may include a Mind Core and possibly Refined Iron Sand.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Snowhill_33.jpg)\nThe base of this tree holds a small turtle chest on a stone table, and inside you'll find the **Stranded Loong's Whisker Soak** for your Gourd, which will increase the duration of your Immobilize spell!\"\n        - Following Text: \"Returning to the Mirrormere Shrine, this time go left when facing the shore. There's a few more plants to harvest, but the bigger attraction here is a larger group of Frozen Corpses in a field leading to the shore. You'll need to rouse and defeat the entire group, and doing so will earn you an exclusive reward - the **Mani Band curio** , which can help you out when fighting frost-inflicting enemies.\nYou'll also find a small **Treasure Chest** nearby, and you can loot it for assorted items that may include a Mind Core and possibly Refined Iron Sand.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy landscape from the game *Black Myth: Wukong*, with the player character standing near a stone monument and a small treasure chest marked by a red circle. The scene aligns with the following text, where defeating a group of Frozen Corpses in the area rewards the **Mani Band curio**, visible in the image's UI. The chest nearby can be looted for items like a Mind Core or Refined Iron Sand."
 }

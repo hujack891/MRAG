@@ -1,28 +1,11 @@
 {
-    "chunk_id": 949463853574,
-    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Chapter_4_Secret_Area_%281%29.png",
-    "alt_text": "Chapter 4 Secret Area \\(1\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Chapter 4 Secret Area \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png)\nJust behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.",
-    "img_below_text": "You should now see a large rock in the middle of the room with white eggs near it. Drop down and head right, sticking as close to the rock as possible.\n![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'How_to_Unlock_the_Chapter_4_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"![Chapter 4 Secret Area \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png)\nJust behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.\"\n            - Following Text: \"You should now see a large rock in the middle of the room with white eggs near it. Drop down and head right, sticking as close to the rock as possible.\n![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Chapter_4_Secret_Area_%281%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, cavernous area with a shrine-like structure illuminated by a torch and surrounded by rocky terrain. Two red arrows highlight a wooden path leading to the right and stairs ascending further into the cave. This scene serves as a visual guide for navigating the Chapter 4 secret area in *Black Myth: Wukong*, showing the player's starting position and the direction to proceed toward the next objective."
+    "chunk_id": 849888703033,
+    "source_file": "Knot_of_Voidness.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Knot_of_Voidness_2.jpg",
+    "alt_text": "Knot of Voidness 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Knot of Voidness\nKnot of Voidness is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.",
+    "img_below_text": "Knot of Voidness can be found throughout the game's six chapters by:\n* Opening Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Knot of Voidness\nKnot of Voidness is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.\"\n        - Following Text: \"Knot of Voidness can be found throughout the game's six chapters by:\n* Opening Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from *Black Myth: Wukong*, highlighting the \"Knot of Voidness,\" a legendary rare material used for Spirit Cultivation and upgrades. The description emphasizes its symbolic role in \"grabbing completeness\" from voidness. The item is part of the game's materials system and can be acquired during gameplay, such as by opening chests."
 }

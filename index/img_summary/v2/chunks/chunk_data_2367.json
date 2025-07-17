@@ -1,28 +1,11 @@
 {
-    "chunk_id": 827914016771,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_96.jpg",
-    "alt_text": "Wukong Pagoda 96.jpg",
-    "position_desc": 92,
-    "img_above_text": "Absorb the green Wisp in a small tunnel you can pass through, and on the other side you'll see a few stone lanterns marking an area with a small gold pot. Open it, and you'll find a **Celestial Taiyi Pill** inside to boost your maximum mana.\nThe New West Celestial Taiyi Pill",
-    "img_below_text": "Before continuing along the main path, break open the wooden fence behind the pill containers, and you'll find an alternate path.\n![Wukong Pagoda 97.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_97.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 92 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Absorb the green Wisp in a small tunnel you can pass through, and on the other side you'll see a few stone lanterns marking an area with a small gold pot. Open it, and you'll find a **Celestial Taiyi Pill** inside to boost your maximum mana.\nThe New West Celestial Taiyi Pill\"\n            - Following Text: \"Before continuing along the main path, break open the wooden fence behind the pill containers, and you'll find an alternate path.\n![Wukong Pagoda 97.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_97.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_96.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is navigating through a snowy, mountainous area. He is seen breaking through a wooden fence, which leads to an alternate path. This action follows the discovery of a Celestial Taiyi Pill that boosts maximum mana, indicating that the player is exploring hidden areas and uncovering valuable items. The image serves to illustrate the game's emphasis on exploration and finding secret routes."
+    "chunk_id": 592739908091,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg",
+    "alt_text": "Wukong Snowhill 22.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Wukong Snowhill 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg)\nWith the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.",
+    "img_below_text": "Climbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.\n![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg)\nWith the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\"\n        - Following Text: \"Climbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.\n![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character standing on snow-covered stairs, approaching a mountainous area with a walled temple visible in the distance. A red circle highlights a specific point of interest, possibly indicating the location of the Cyan Bat ambush mentioned in the preceding text. The scene sets the stage for progressing further up the mountain path and discovering hidden platforms and a treasure chest, as described in the following text."
 }

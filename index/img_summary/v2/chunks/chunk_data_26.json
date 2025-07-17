@@ -1,28 +1,11 @@
 {
-    "chunk_id": 833627122127,
+    "chunk_id": 774672254113,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Awaken_Wine_Worm_Longevity_Road.jpg",
     "alt_text": "Awaken Wine Worm Longevity Road.jpg",
     "position_desc": 5,
     "img_above_text": "### Longevity Road Awaken Wine Worm\nLongevity Road Awaken Wine Worm",
     "img_below_text": "Head through the gate beside the Longevity Road Keeper's Shrine and into the stone-paved clearing. Turn left and follow the path downhill and to the right, where you will encounter the Turtle Treasure Yaoguai. Defeat it and break the barrel it was guarding to collect the next Awaken Wine Worm.\n## The Estate of the Zhu Awaken Wine Worm",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Longevity Road Awaken Wine Worm\nLongevity Road Awaken Wine Worm\"\n            - Following Text: \"Head through the gate beside the Longevity Road Keeper's Shrine and into the stone-paved clearing. Turn left and follow the path downhill and to the right, where you will encounter the Turtle Treasure Yaoguai. Defeat it and break the barrel it was guarding to collect the next Awaken Wine Worm.\n## The Estate of the Zhu Awaken Wine Worm\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Awaken_Wine_Worm_Longevity_Road.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts a snowy forest scene featuring a player character holding a glowing red staff, standing near a shrine-like structure with a large green urn and lit torches. This setting likely represents a key location in the quest to find the \"Longevity Road Awaken Wine Worm,\" as described in the preceding and following text.\n\n2. **Narrative Role**: The image serves to visually guide players to a specific area within the game where they can progress in their search for the Awaken Wine Worm. The shrine and urn are likely landmarks for navigation, while the character's stance and equipment suggest preparation for an encounter or task."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Longevity Road Awaken Wine Worm\nLongevity Road Awaken Wine Worm\"\n        - Following Text: \"Head through the gate beside the Longevity Road Keeper's Shrine and into the stone-paved clearing. Turn left and follow the path downhill and to the right, where you will encounter the Turtle Treasure Yaoguai. Defeat it and break the barrel it was guarding to collect the next Awaken Wine Worm.\n## The Estate of the Zhu Awaken Wine Worm\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snow-covered forest area with a character holding a glowing red staff, standing near a shrine-like structure with lit torches and a green urn atop a wooden platform. This scene appears to be part of a video game walkthrough related to the \"Longevity Road Awaken Wine Worm\" quest, where players navigate through snowy terrain and interact with objects or enemies to progress. The preceding and following text suggests this area is tied to collecting an Awaken Wine Worm, possibly as part of a series of tasks in the game."
 }

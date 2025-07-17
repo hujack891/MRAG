@@ -1,28 +1,11 @@
 {
-    "chunk_id": 46779690422,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png",
-    "alt_text": "Snow Fox Questline \\(13\\).png",
-    "position_desc": 10,
-    "img_above_text": "![Snow Fox Questline \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png)\nAs you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.",
-    "img_below_text": "Go up the sloped wooden bridge, and straight up the stairs to the left. This will bring you to the temple where the monk is. However, **this is also when you'll need to be in fox form**. Doing so will activate a cutscene and trigger a boss fight against the Yaoguai Chief Non-Void. Transform into the fox by using the Snow Fox Brush from your inventory, then step inside the temple.\n### Yaoguai Chief Boss - Non-Void",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png)\nAs you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.\"\n            - Following Text: \"Go up the sloped wooden bridge, and straight up the stairs to the left. This will bring you to the temple where the monk is. However, **this is also when you'll need to be in fox form**. Doing so will activate a cutscene and trigger a boss fight against the Yaoguai Chief Non-Void. Transform into the fox by using the Snow Fox Brush from your inventory, then step inside the temple.\n### Yaoguai Chief Boss - Non-Void\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image shows the view from inside a building, looking out towards a sloped wooden bridge covered in snow. An arrow indicates the direction to proceed, guiding the player to go up the bridge and towards the temple where a monk resides. This is part of the Snow Fox Questline in the game, leading to a cutscene and a boss fight against the Yaoguai Chief Non-Void, requiring the player to transform into fox form using the Snow Fox Brush."
+    "chunk_id": 850771384644,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Longevity_27.jpg",
+    "alt_text": "Wukong Longevity 27.jpg",
+    "position_desc": 123,
+    "img_above_text": "![Wukong Longevity 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Longevity_21.jpg)\nThe good news is Kalpa-Wave is extremely susceptible to getting knocked down. So long as you build up some focus points with light attacks where possible, you can use your Pillar Stance heavy attack with three focus points built up to send the boss crashing to the ground -- which is the perfect time to Immobilize him on the ground and go wild with Spirit Attacks and Transformations.",
+    "img_below_text": "Beyond this, Kalpa-Wave doesn't have too many other variations on his moves, so as long as you avoid those blood pools, you'll be able to cut him down to size, and gain the Spirit of Captain Kalpa-Wave to add to your collection.\nCaptain Kalpa-Wave",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Longevity_21.jpg)\nThe good news is Kalpa-Wave is extremely susceptible to getting knocked down. So long as you build up some focus points with light attacks where possible, you can use your Pillar Stance heavy attack with three focus points built up to send the boss crashing to the ground -- which is the perfect time to Immobilize him on the ground and go wild with Spirit Attacks and Transformations.\"\n        - Following Text: \"Beyond this, Kalpa-Wave doesn't have too many other variations on his moves, so as long as you avoid those blood pools, you'll be able to cut him down to size, and gain the Spirit of Captain Kalpa-Wave to add to your collection.\nCaptain Kalpa-Wave\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, where the protagonist, Wukong, stands in a snowy temple courtyard wielding a staff. A glowing golden energy and a red orb are floating mid-air, likely signifying a reward or interaction. The text overlay indicates the acquisition of a \"Mind Core\" material, which may be a collectible or crafting resource. This moment follows a battle with the boss \"Captain Kalpa-Wave,\" as described in the preceding and following text."
 }

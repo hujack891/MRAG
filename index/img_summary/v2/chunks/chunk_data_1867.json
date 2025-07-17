@@ -1,28 +1,11 @@
 {
-    "chunk_id": 663585255826,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg",
-    "alt_text": "Wukong Snowhill 11.jpg",
-    "position_desc": 1,
-    "img_above_text": "### Macaque Chief Mini-Boss Fight and Guide\nMany of his attacks inflict Frost, and if your bar fills, you'll have extremely reduced mobility and be unable to dodge many of his attacks. Plan ahead by crafting or buying Body-Warming Pills to offset this.",
-    "img_below_text": "The Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"### Macaque Chief Mini-Boss Fight and Guide\nMany of his attacks inflict Frost, and if your bar fills, you'll have extremely reduced mobility and be unable to dodge many of his attacks. Plan ahead by crafting or buying Body-Warming Pills to offset this.\"\n            - Following Text: \"The Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character engaging in combat with the Macaque Chief mini-boss in a snowy environment. The boss is shown unleashing a powerful vacuum slice projectile attack, as described in the guide. The player appears to be mid-action, wielding a fiery weapon while dodging or countering the attack.\n\n2. **Purpose and Narrative Role**:  \nThe image visually illustrates the Macaque Chief's signature attack—a vacuum slice projectile—and highlights the intense nature of the fight, reinforcing the preceding and following text's advice on preparation and strategy for this challenging encounter."
+    "chunk_id": 131062111151,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg",
+    "alt_text": "Wukong Thunderclap 24.jpg",
+    "position_desc": 23,
+    "img_above_text": "![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.",
+    "img_below_text": "Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!\nMonk from the Sea",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\"\n        - Following Text: \"Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!\nMonk from the Sea\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, where the protagonist stands near a defeated Yaoguai Chief in a snowy courtyard. The \"Pick Up\" prompt suggests the player can collect an item, likely the reward mentioned in the following text: Hoarfrost, which unlocks a new Transformation Spell allowing the player to become a Monk from the Sea and deal frost damage to enemies."
 }

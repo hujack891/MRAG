@@ -1,28 +1,11 @@
 {
-    "chunk_id": 241834442490,
+    "chunk_id": 348767908032,
     "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_PurpleCloud_8.jpg",
-    "alt_text": "Wukong PurpleCloud 8.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong PurpleCloud 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_PurpleCloud_3.jpg)\nThe area before you is larger than you might expect, and a little confusing to navigate at first. One of two large peaks lies across the bridge near the Shrine, with paths to the left and right.",
-    "img_below_text": "There's also a small pond below the bridge featuring a few materials to harvest and a green Wisp to absorb right under the bridge, and another on the far right side.\nIf you take the path left after crossing the bridge, you'll find that it leads along the main path where you can find a Tree Pearl, and nearby another tree will spring to life!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_PurpleCloud_3.jpg)\nThe area before you is larger than you might expect, and a little confusing to navigate at first. One of two large peaks lies across the bridge near the Shrine, with paths to the left and right.\"\n            - Following Text: \"There's also a small pond below the bridge featuring a few materials to harvest and a green Wisp to absorb right under the bridge, and another on the far right side.\nIf you take the path left after crossing the bridge, you'll find that it leads along the main path where you can find a Tree Pearl, and nearby another tree will spring to life!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_PurpleCloud_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a scenic area in *Black Myth: Wukong*, featuring a small pond surrounded by autumn foliage and rocky terrain. The protagonist, Wukong, is shown wielding a fiery staff while exploring the environment. Red circles highlight key points of interest, including a green Wisp near the pond and another in the distance. This area offers materials to harvest and serves as a transitional space leading to paths with additional discoveries.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates a moment in the walkthrough where players are encouraged to explore the pond below the bridge for collectible resources and absorbable Wisps. It sets the stage for navigating the left or right paths after crossing the bridge, with potential rewards like a Tree Pearl and dynamic environmental interactions."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_PurpleCloud_32.jpg",
+    "alt_text": "Wukong PurpleCloud 32.jpg",
+    "position_desc": 36,
+    "img_above_text": "Now you can return to the archway guarded by two Spear Daoists on the far left side of this area, and behind them you'll find the Shrine for the next area.\n## Petalfall Hamlet",
+    "img_below_text": "After resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.\n![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Now you can return to the archway guarded by two Spear Daoists on the far left side of this area, and behind them you'll find the Shrine for the next area.\n## Petalfall Hamlet\"\n        - Following Text: \"After resting at the Petalfall Hamlet Shrine, head up the path and across a small bridge to enter the small village. It's now overrun by various Daoists, which shouldn't prove too much of a problem if you take them out one at a time.\n![Wukong PurpleCloud 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_PurpleCloud_33.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist approaching a wooden bridge in a serene, autumnal environment. This area appears to lead toward the Petalfall Hamlet Shrine, as mentioned in the preceding text. The visual highlights the game's detailed environment, including foliage, rocky terrain, and traditional architecture, setting the stage for the next gameplay segment where the player will encounter enemies in the hamlet."
 }

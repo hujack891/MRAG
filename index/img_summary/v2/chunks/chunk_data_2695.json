@@ -1,28 +1,11 @@
 {
-    "chunk_id": 706671813910,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg",
-    "alt_text": "Wukong Snowhill 40.jpg",
-    "position_desc": 40,
-    "img_above_text": "![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)\nCertain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.",
-    "img_below_text": "If she slams a claw into the ground without flying around, it means she'll drag that claw towards you, building up energy to send an electric shockwave in your direction, but it can be easily dodged to the side.\n![Wukong Snowhill 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Snowhill_41.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 40 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)\nCertain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.\"\n            - Following Text: \"If she slams a claw into the ground without flying around, it means she'll drag that claw towards you, building up energy to send an electric shockwave in your direction, but it can be easily dodged to the side.\n![Wukong Snowhill 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Snowhill_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a dramatic battle between the protagonist, Wukong, and a large, dragon-like creature in a snowy landscape. The creature is unleashing a powerful lightning attack, which Wukong is attempting to dodge. This image visually represents the intense combat mechanics and the specific attack patterns of the creature, as described in the surrounding text."
+    "chunk_id": 806178717981,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Longevity_2.jpg",
+    "alt_text": "Wukong Longevity 2.jpg",
+    "position_desc": 97,
+    "img_above_text": "## Longevity Road\nHeading through the large red gate, you'll find the path curves left toward the Longevity Road Shrine, but a nearby field on the right has an enemy too big to ignore.",
+    "img_below_text": "The Dark-faced Overlord isn't a miniboss, but he does have a lot of health to chip away at. You'll have to repeatedly thwack at his legs while avoiding various stomps or swings with his hellfire arms that can burn you.\n![Wukong Longevity 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Longevity_1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Longevity Road\nHeading through the large red gate, you'll find the path curves left toward the Longevity Road Shrine, but a nearby field on the right has an enemy too big to ignore.\"\n        - Following Text: \"The Dark-faced Overlord isn't a miniboss, but he does have a lot of health to chip away at. You'll have to repeatedly thwack at his legs while avoiding various stomps or swings with his hellfire arms that can burn you.\n![Wukong Longevity 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Longevity_1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character, armed with a staff, engaging in combat with a towering enemy known as the \"Dark-faced Overlord\" in a snowy, forested environment. The enemy, a massive humanoid with glowing green energy emanating from its arm, appears mid-attack, emphasizing the need for strategic dodging and targeting its legs. The scene aligns with the guide's description of this challenging encounter on Longevity Road."
 }

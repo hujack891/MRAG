@@ -1,28 +1,11 @@
 {
-    "chunk_id": 719854473748,
-    "source_file": "Mother_of_Stones.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Fright_30.jpg",
-    "alt_text": "Wukong Fright 30.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Fright 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg)\nAfter taking enough damage, the Mother of Stones will let out a roar, signaling a Palestone will quickly appear to defend her. That’s your cue to immediately break off your attack, regain your stamina, and be ready to dodge the incoming stone monster. Survival will hinge on how well you can deal with each wave while taking minimal damage, and understanding their melee and ranged attacks.",
-    "img_below_text": "Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Mother_of_Stones.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg)\nAfter taking enough damage, the Mother of Stones will let out a roar, signaling a Palestone will quickly appear to defend her. That’s your cue to immediately break off your attack, regain your stamina, and be ready to dodge the incoming stone monster. Survival will hinge on how well you can deal with each wave while taking minimal damage, and understanding their melee and ranged attacks.\"\n            - Following Text: \"Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Fright_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense moment from a battle against the \"Mother of Stones\" in the game \"Black Myth: Wukong.\" It captures the chaos and urgency as the player character faces a stone monster, likely a Palestone, summoned to defend the Mother of Stones after she roars. The scene emphasizes the need for strategic retreat, stamina management, and readiness to dodge attacks. The narrative context suggests that this is part of a challenging sequence where players must defeat multiple waves of stone monsters, using various abilities and tactics to survive."
+    "chunk_id": 79877181748,
+    "source_file": "Old_Rattle-Drum_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+    "alt_text": "Wukong MadTiger 7.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.",
+    "img_below_text": "Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.\"\n        - Following Text: \"Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a well surrounded by skeletons in a desolate, dry field. A player character is positioned near the well, with an on-screen prompt labeled \"Jump In\" (RT), indicating an interactive option to descend into the well. Based on the context, this scene serves as the entry point to a secret area in the game *Black Myth: Wukong*, where the player will encounter a dangerous secret boss, the **Mad Tiger**."
 }

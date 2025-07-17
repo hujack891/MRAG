@@ -1,28 +1,11 @@
 {
-    "chunk_id": 45449779074,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg",
-    "alt_text": "Wukong Sandgate 81.jpg",
-    "position_desc": 81,
-    "img_above_text": "![Wukong Sandgate 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Sandgate_82.jpg)\nFinally, exit the room where the first Swift Bat was to find a canyon path down to the Crouching Tiger Temple.",
-    "img_below_text": "Due to the layout of this area and the progression of a few sidequests, we’ll be coming back here later, and continue by traveling back to where the Second Prince was defeated and crossing the bridge right to the **Fright Cliff**.\nSandgate Village Complete",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 81 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Sandgate_82.jpg)\nFinally, exit the room where the first Swift Bat was to find a canyon path down to the Crouching Tiger Temple.\"\n            - Following Text: \"Due to the layout of this area and the progression of a few sidequests, we’ll be coming back here later, and continue by traveling back to where the Second Prince was defeated and crossing the bridge right to the **Fright Cliff**.\nSandgate Village Complete\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist navigating through a rugged, canyon-like terrain towards the Crouching Tiger Temple. It follows the player's exit from the room where the first Swift Bat was encountered and precedes the journey back to the area where the Second Prince was defeated, leading to the Fright Cliff. This image serves to illustrate the transition between these significant locations within the game's narrative."
+    "chunk_id": 137417859765,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(25\\).png",
+    "position_desc": 19,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png)\nWhen his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.",
+    "img_below_text": "This will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.\n![Water Curtain Cave Walkthrough \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Water Curtain Cave Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png)\nWhen his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\"\n        - Following Text: \"This will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.\n![Water Curtain Cave Walkthrough \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic scene from *Black Myth: Wukong*, where the player character faces an enemy emerging from water during sunset. The preceding and following text suggest this is part of a boss fight in the Water Curtain Cave. The ripples in the water indicate the enemy's movements, helping the player anticipate attacks and evade. The glowing effect on the enemy hints at a shift in attack patterns as the fight progresses."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 69515523737,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg",
-    "alt_text": "Wukong Snowhill 12.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.",
-    "img_below_text": "His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.\"\n            - Following Text: \"His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a character known as the Macaque Chief in the midst of a dynamic combat move. The character is seen in a snowy environment, performing a spinning attack with his blade, which is consistent with the preceding text describing his combat style. The image serves to illustrate the Macaque Chief's agility and the visual impact of his attacks, enhancing the narrative of his fighting techniques and the challenges he poses to players."
+    "chunk_id": 7672189107,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg",
+    "alt_text": "Wukong Brook 4.jpg",
+    "position_desc": 44,
+    "img_above_text": "![Wukong Brook 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg)\nOn this side, you'll find a few fallen trees creating makeshift bridges above the brook below, and one of them has another green Wisp to absorb along the tree, while the other has a green Wisp on top of a giant rock.",
+    "img_below_text": "Take this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.\n![Wukong Brook 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg)\nOn this side, you'll find a few fallen trees creating makeshift bridges above the brook below, and one of them has another green Wisp to absorb along the tree, while the other has a green Wisp on top of a giant rock.\"\n        - Following Text: \"Take this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.\n![Wukong Brook 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest scene where the player character, Wukong, is approaching a stone bridge guarded by a Thunder Rhino Master. The bridge is part of the path forward in the game \"Black Myth: Wukong,\" and the Thunder Rhino Master poses a moderate challenge with lightning-based attacks. The preceding and following text suggests this area is a transition point in the narrative, requiring players to defeat the guardian to progress."
 }

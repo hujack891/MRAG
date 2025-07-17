@@ -1,28 +1,11 @@
 {
-    "chunk_id": 742436071153,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Felicity_2.jpg",
-    "alt_text": "Wukong Felicity 2.jpg",
-    "position_desc": 28,
-    "img_above_text": "![Wukong Felicity 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Felicity_1.jpg)\nAs you slide into the Valley of Ecstasy proper and watch the familiar Apramana Bat fly past you (provided you fought him at the Bitter Lake), you may notice you're entering a sizeable region. Luckily there's a Shrine near your landing spot, but it can be easy to get turned around and lost in this expansive valley, so we'll break it down for you:",
-    "img_below_text": "* You'll start in the **Forest of Felicity** , which with your back to the slope, comprises much of the area directly in front of you that includes a winding main path through this region, and also a hidden canyon to the left.\n* A large sloping hill to the right of the Shrine leads down to the **Brook of Bliss** , where a sizable and traversable river cuts through this part of the valley, leading to a cliff with a secret cave underneath.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Felicity 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Felicity_1.jpg)\nAs you slide into the Valley of Ecstasy proper and watch the familiar Apramana Bat fly past you (provided you fought him at the Bitter Lake), you may notice you're entering a sizeable region. Luckily there's a Shrine near your landing spot, but it can be easy to get turned around and lost in this expansive valley, so we'll break it down for you:\"\n            - Following Text: \"* You'll start in the **Forest of Felicity** , which with your back to the slope, comprises much of the area directly in front of you that includes a winding main path through this region, and also a hidden canyon to the left.\n* A large sloping hill to the right of the Shrine leads down to the **Brook of Bliss** , where a sizable and traversable river cuts through this part of the valley, leading to a cliff with a secret cave underneath.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Felicity_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character navigating through a snowy forest area. The character is approaching a shrine, which serves as a checkpoint or save point in the game. This scene is part of the \"Valley of Ecstasy\" walkthrough, specifically in the \"Forest of Felicity\" region. The shrine's presence indicates a safe spot for players to rest and save their progress in this expansive and potentially confusing area."
+    "chunk_id": 490918918966,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Yellow_16.jpg",
+    "alt_text": "Wukong Yellow 16.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong Yellow 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Yellow_15.jpg)\nWhen you return to the large gate, note that there’s a spot to the left where you can harvest some Licorice, and absorb a green Wisp to regain some of your gourd. To the right of the gate is a large empty shack surrounded by Withered Corpses who don’t seem to move much without provocation. This area is actually important for later, so remember the spot.",
+    "img_below_text": "You can still search some of the smaller homes to find a chest in one that holds 2 **Silk** and 3 **Tiny Piece of Gold**.\n![Wukong Yellow 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_Yellow_17.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Yellow_15.jpg)\nWhen you return to the large gate, note that there’s a spot to the left where you can harvest some Licorice, and absorb a green Wisp to regain some of your gourd. To the right of the gate is a large empty shack surrounded by Withered Corpses who don’t seem to move much without provocation. This area is actually important for later, so remember the spot.\"\n        - Following Text: \"You can still search some of the smaller homes to find a chest in one that holds 2 **Silk** and 3 **Tiny Piece of Gold**.\n![Wukong Yellow 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_Yellow_17.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character navigating through a dimly lit wooden structure in *Black Myth: Wukong*. A red dashed circle highlights an area of interest, possibly indicating an item or pathway. This scene aligns with the preceding text, which mentions a large empty shack near the gate surrounded by Withered Corpses, and the following text, which suggests exploring smaller homes for loot. The image likely serves to guide players in locating a specific point or resource within the shack or nearby area."
 }

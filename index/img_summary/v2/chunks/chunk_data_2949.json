@@ -1,28 +1,11 @@
 {
-    "chunk_id": 543021364540,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png",
-    "alt_text": "Foothills Walkthrough \\(145\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Foothills Walkthrough \\(144\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Foothills_Walkthrough_%28144%29.png)\nBeyond the clearing where you fought the Son of Stones, you'll find a giant rock with golden trees on either side. Go left here.",
-    "img_below_text": "You'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.\n![Water Curtain Cave Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(144\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Foothills_Walkthrough_%28144%29.png)\nBeyond the clearing where you fought the Son of Stones, you'll find a giant rock with golden trees on either side. Go left here.\"\n            - Following Text: \"You'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.\n![Water Curtain Cave Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a rocky landscape with a waterfall cascading down a cliff, surrounded by lush greenery. An archway is visible at the base of the cliff, marked by a red arrow. This archway is the entrance to the Water Curtain Cave, which is the final area of the game \"Black Myth: Wukong.\" The preceding text guides the player to this location after encountering the Son of Stones, while the following text indicates that entering the archway will lead to automatic dismounting from the cloud and progression into the game's concluding area."
+    "chunk_id": 96639998035,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/Wukong_UpperHollow_29.jpg",
+    "alt_text": "Wukong UpperHollow 29.jpg",
+    "position_desc": 30,
+    "img_above_text": "![Wukong UpperHollow 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_UpperHollow_28.jpg)\nThe Scorpion Prince attacks with one giant claw, and his large poisonous stinger on his back, and each can be painful in their own right. He'll often charge at you with his claw and drag it through the floor to fling it upwards, or pounce at you from range, while following up with a tail swipe and second claw attack.",
+    "img_below_text": "When he goes to favor his tail, he'll perform a poisonous uppercut slash, then slam his tail down twice in quick succession, before a delayed final strike. Luckily this usually leaves him winded enough for you to get off a charged hit.\n![Wukong UpperHollow 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_UpperHollow_30.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_UpperHollow_28.jpg)\nThe Scorpion Prince attacks with one giant claw, and his large poisonous stinger on his back, and each can be painful in their own right. He'll often charge at you with his claw and drag it through the floor to fling it upwards, or pounce at you from range, while following up with a tail swipe and second claw attack.\"\n        - Following Text: \"When he goes to favor his tail, he'll perform a poisonous uppercut slash, then slam his tail down twice in quick succession, before a delayed final strike. Luckily this usually leaves him winded enough for you to get off a charged hit.\n![Wukong UpperHollow 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_UpperHollow_30.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter with the Scorpion Prince in *Black Myth: Wukong*. The player character is engaged in battle, with visible attack effects and the Scorpion Prince looming in the background, showcasing its large poisonous stinger and claw. The surrounding environment includes rocky terrain and web-like structures, emphasizing the hostile setting. This moment aligns with the guide's description of the boss's aggressive attack patterns and poisonous abilities."
 }

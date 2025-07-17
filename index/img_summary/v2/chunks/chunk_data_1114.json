@@ -1,28 +1,11 @@
 {
-    "chunk_id": 942195942173,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Foothills_Walkthrough_%28115%29.png",
-    "alt_text": "Foothills Walkthrough \\(115\\).png",
-    "position_desc": 26,
-    "img_above_text": "Just like stone bosses and the flint bosses from Chapter 5, most of the attacks from the Poison Chief will be charges and slams. It will try to use the weight of its body to attack while delivering smatterings of poison around the area.\nIts charges can be avoided, by dashing out of the way just before it reaches you. A similar approach can be applied to dealing with its lunges and punches.",
-    "img_below_text": "The biggest issue is the poison attacks, and it's essential to interrupt them as often as you can. The Plantain Fan can prove invaluable here once again, especially if you deploy it just before a poison attack. It will push the Poison Chief back and allow you to follow up with attacks. Use Immobilize when the Plantain Fan has stopped working, to keep it in place and deplete its health as quickly as possible.\nPoison Chief 1",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Just like stone bosses and the flint bosses from Chapter 5, most of the attacks from the Poison Chief will be charges and slams. It will try to use the weight of its body to attack while delivering smatterings of poison around the area.\nIts charges can be avoided, by dashing out of the way just before it reaches you. A similar approach can be applied to dealing with its lunges and punches.\"\n            - Following Text: \"The biggest issue is the poison attacks, and it's essential to interrupt them as often as you can. The Plantain Fan can prove invaluable here once again, especially if you deploy it just before a poison attack. It will push the Poison Chief back and allow you to follow up with attacks. Use Immobilize when the Plantain Fan has stopped working, to keep it in place and deplete its health as quickly as possible.\nPoison Chief 1\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Foothills_Walkthrough_%28115%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene in a lush, forested environment, featuring a towering, moss-covered stone creature—likely the \"Poison Chief\" mentioned in the text—facing off against a player-character armed with a polearm. The creature's massive, rocky form and the dense greenery around it emphasize its connection to nature and its imposing presence.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually represent the Poison Chief, a formidable boss enemy described in the text. It highlights the creature's size, environment, and combat context, complementing the preceding and following gameplay tips on avoiding its charges, countering its poison attacks, and using tools like the Plantain Fan and Immobilize ability to defeat it."
+    "chunk_id": 336779252959,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg",
+    "alt_text": "Wukong Wolves 32.jpg",
+    "position_desc": 39,
+    "img_above_text": "There are many paths to go from here - either continuing to the far side of the stream, or heading back to keep exploring the previous side, including a path up to a high plateau with some **Aged Ginseng**. On the slope leading back down to the stream, another ginseng plant hides a surprise, as an earthen elemental Ginsengling Yaoguai will uncover itself with the ginseng growing from its head.\nThese monsters are surprisingly tough, and can slam their hands into the ground to grow poison roots that spread outward — so don’t be afraid to reposition yourself to fight somewhere else. Defeating them will earn you much more crafting materials than picking normal plants.",
+    "img_below_text": "From here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\n![Wukong Wolves 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There are many paths to go from here - either continuing to the far side of the stream, or heading back to keep exploring the previous side, including a path up to a high plateau with some **Aged Ginseng**. On the slope leading back down to the stream, another ginseng plant hides a surprise, as an earthen elemental Ginsengling Yaoguai will uncover itself with the ginseng growing from its head.\nThese monsters are surprisingly tough, and can slam their hands into the ground to grow poison roots that spread outward — so don’t be afraid to reposition yourself to fight somewhere else. Defeating them will earn you much more crafting materials than picking normal plants.\"\n        - Following Text: \"From here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\n![Wukong Wolves 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" where the player character is approaching a waterfall. In the water near the waterfall, an enemy, likely the Crow Diviner mentioned in the text, is visible. The setting is lush and verdant, with statues and dense foliage surrounding the area, indicating a serene yet potentially dangerous environment. This scene follows the narrative of crossing the stream to encounter more enemies and explore the area for valuable items like the Jade Lotus."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 37366115698,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Turtle_31.jpg",
-    "alt_text": "Wukong Turtle 31.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Turtle 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg)\nIn addition to his standard sword swings and combos, the Cyan Loong can change things up by charging up and holding his sword back pointed straight at you before launching into a slow two-handed swing, or pausing to spin for a backhand slash as he whirls around.",
-    "img_below_text": "The good news is with his form only slightly bigger than yours, the Cyan Loong is fairly susceptible to being staggered. Even a full Light Combo can send him stumbling backward, which you can mix in with a varied combo and follow up from the Smash Stance, stagger his sword swings with Rock Solid, and use a bulky Spirit attack like the Second Rat Prince to send him sprawling again and again and limit his ability to attack back.\n![Wukong Turtle 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Turtle_32.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg)\nIn addition to his standard sword swings and combos, the Cyan Loong can change things up by charging up and holding his sword back pointed straight at you before launching into a slow two-handed swing, or pausing to spin for a backhand slash as he whirls around.\"\n            - Following Text: \"The good news is with his form only slightly bigger than yours, the Cyan Loong is fairly susceptible to being staggered. Even a full Light Combo can send him stumbling backward, which you can mix in with a varied combo and follow up from the Smash Stance, stagger his sword swings with Rock Solid, and use a bulky Spirit attack like the Second Rat Prince to send him sprawling again and again and limit his ability to attack back.\n![Wukong Turtle 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Turtle_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Turtle_31.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the protagonist battling the Cyan Loong in a snowy, rocky environment. The Cyan Loong is shown emitting a burst of red energy, possibly indicating damage or a staggered state, aligning with the preceding and following text that describes strategies to stagger and overpower the Cyan Loong using combos and Spirit attacks. The visual reinforces the narrative of exploiting the enemy's susceptibility to stagger for effective combat."
+    "chunk_id": 726964525506,
+    "source_file": "Ebongold_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Ebongold_Silk_Robe.jpg",
+    "alt_text": "Ebongold Silk Robe.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Dance of the Black Wind: In Cloud Step, shrouding black wind will attack enemies nearby the Destined One and the decoy continuously (4 pieces required, unsure if fourth piece of armor is glitched)\nThe full Ebongold Set of Armor and Gear is located in Chapter 1 - Black Wind Mountain upon defeating Black Bear Guai at the end of the Chapter. From Chapter 2 onwards you can then craft this gear at any Shrine.",
+    "img_below_text": "The Ebongold Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 2 Silk, 1,080 Will - body",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Dance of the Black Wind: In Cloud Step, shrouding black wind will attack enemies nearby the Destined One and the decoy continuously (4 pieces required, unsure if fourth piece of armor is glitched)\nThe full Ebongold Set of Armor and Gear is located in Chapter 1 - Black Wind Mountain upon defeating Black Bear Guai at the end of the Chapter. From Chapter 2 onwards you can then craft this gear at any Shrine.\"\n        - Following Text: \"The Ebongold Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 2 Silk, 1,080 Will - body\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the crafting menu for the \"Ebongold Silk Robe,\" a rare chest armor piece in the game. The armor provides a defense value of 31 and includes the ability \"Dance of the Black Wind,\" which continuously attacks nearby enemies during Cloud Step. The crafting requirements for this item are 5 Yarn, 2 Silk, and 1,080 Will. The preceding and following text explains that the Ebongold Set can only be obtained by crafting after defeating Black Bear Guai in Chapter 1 and unlocking crafting at Shrines in Chapter 2."
 }

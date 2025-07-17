@@ -1,28 +1,11 @@
 {
-    "chunk_id": 134923159698,
-    "source_file": "Celestial_Taiyi_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black_Mountain_Taiyi.jpg",
-    "alt_text": "Black Mountain Taiyi.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Black Wind Mountain Celestial Taiyi Pill\nBlack Wind Mountain Celestial Taiyi Pill",
-    "img_below_text": "The Celestial Taiyi Pill on Black Wind Mountain is accessible after defeating the Black Wind King. After defeating the boss, explore the wooden platforms in the temple to find the Celestial Taiyi Pill sitting on a wooden bench.\n## Yellow Wind Ridge Celestial Taiyi Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Celestial_Taiyi_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind Mountain Celestial Taiyi Pill\nBlack Wind Mountain Celestial Taiyi Pill\"\n            - Following Text: \"The Celestial Taiyi Pill on Black Wind Mountain is accessible after defeating the Black Wind King. After defeating the boss, explore the wooden platforms in the temple to find the Celestial Taiyi Pill sitting on a wooden bench.\n## Yellow Wind Ridge Celestial Taiyi Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black_Mountain_Taiyi.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character standing on a wooden platform in a serene, forested area, interacting with a golden bowl placed on a wooden table. The setting includes a multi-tiered stone pagoda, lush greenery, and a waterfall in the background, suggesting a tranquil yet mystical environment.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image likely illustrates the location of the Celestial Taiyi Pill on Black Wind Mountain, as described in the context. It visually represents the moment after defeating the Black Wind King, where the player explores the temple's wooden platforms to discover the pill. The serene and detailed environment emphasizes the reward and exploration aspect of this stage in the narrative."
+    "chunk_id": 129215501090,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_Guanyin_11.jpg",
+    "alt_text": "Wukong Guanyin 11.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Guanyin 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Guanyin_5.jpg)\nHe can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.",
+    "img_below_text": "The Wandering Wight’s most annoying attack to deal with also returns, as Jinchi can raise his fist high and then slam it down, creating a single shockwave blast, or keeping his hand in the ground to erupt the ground at farther distances up to three times (which is a good time to run away and hit any wandering corpses). Seeing him raise up his hand for this attack is one of the best times to try **Immobilizing him** and dealing enough damage to stagger him out of the attack before he can truly start it.\nSimilarly, you can use the Wandering Wight’s Spirit Attack to quickly stagger Jinchi, which is great for breaking him out of otherwise dangerous moves - provided you do so before the attack lands since it can still hurt your health bar.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Guanyin 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Guanyin_5.jpg)\nHe can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.\"\n        - Following Text: \"The Wandering Wight’s most annoying attack to deal with also returns, as Jinchi can raise his fist high and then slam it down, creating a single shockwave blast, or keeping his hand in the ground to erupt the ground at farther distances up to three times (which is a good time to run away and hit any wandering corpses). Seeing him raise up his hand for this attack is one of the best times to try **Immobilizing him** and dealing enough damage to stagger him out of the attack before he can truly start it.\nSimilarly, you can use the Wandering Wight’s Spirit Attack to quickly stagger Jinchi, which is great for breaking him out of otherwise dangerous moves - provided you do so before the attack lands since it can still hurt your health bar.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle against \"Elder Jinchi\" in *Black Myth: Wukong*. Jinchi, a large humanoid figure with glowing cracks and a golden aura, is shown performing a powerful attack, causing debris to rise and the ground to erupt. The player character, wielding a staff, is engaged in combat, emphasizing the need to dodge or stagger Jinchi to interrupt his devastating moves, as described in the accompanying text. The environment features traditional Chinese architecture and a dark, ominous atmosphere."
 }

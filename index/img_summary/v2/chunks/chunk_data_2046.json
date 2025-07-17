@@ -1,28 +1,11 @@
 {
-    "chunk_id": 282519728044,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg",
-    "alt_text": "Wukong Thunderclap 2.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Thunderclap 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Thunderclap_1.jpg)\nWith Captain Kalpa-Wave defeated, you can head through the temple entrance to find the Temple Entrance Shrine to the left. There's a large entry courtyard area here, with another gate straight ahead, and some optional spots to explore on both sides.",
-    "img_below_text": "Be sure to turn around from the Shrine and look back toward the main gate, and you should spot a **Treasure Chest** to the right in front of an altar.\n![Wukong Thunderclap 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Thunderclap_3.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Thunderclap_1.jpg)\nWith Captain Kalpa-Wave defeated, you can head through the temple entrance to find the Temple Entrance Shrine to the left. There's a large entry courtyard area here, with another gate straight ahead, and some optional spots to explore on both sides.\"\n            - Following Text: \"Be sure to turn around from the Shrine and look back toward the main gate, and you should spot a **Treasure Chest** to the right in front of an altar.\n![Wukong Thunderclap 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Thunderclap_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing the protagonist approaching a temple entrance after defeating Captain Kalpa-Wave. The snowy environment and ancient architecture set a mystical tone. A treasure chest is highlighted in front of an altar, indicating a reward or collectible for players to discover as they explore the temple's courtyard area. This image serves to guide players to the chest's location, enhancing the narrative of exploration and discovery within the game."
+    "chunk_id": 225011498270,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Pagoda_7.jpg",
+    "alt_text": "Wukong Pagoda 7.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Pagoda 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Pagoda_54.jpg)\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.",
+    "img_below_text": "If you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.\n## Lower Pagoda (Level 1)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Pagoda_54.jpg)\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.\"\n        - Following Text: \"If you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.\n## Lower Pagoda (Level 1)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark and intense combat scene from the video game *Black Myth: Wukong*. A player-controlled character, armed with a staff, faces off against a large, imposing enemy in a dimly lit environment. The preceding text suggests using an Immobilize spell to gain an advantage, while the following text warns of the enemy's teleportation and surprise attacks. The image highlights the game's strategic combat mechanics and atmospheric design."
 }

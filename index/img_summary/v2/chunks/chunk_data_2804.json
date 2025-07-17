@@ -1,28 +1,11 @@
 {
-    "chunk_id": 624151602245,
-    "source_file": "Tadpole.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Tadpole.jpg",
-    "alt_text": "Tadpole.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Tadpole\nThe Tadpole is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.",
-    "img_below_text": "Tadpole can be found throughout the game's six chapters by defeating the following frog enemies and bosses:\n* Baw-Li-Guhh-Lang \\- Snake Trail - Bamboo Grove - Black Wind Mountain",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Tadpole.md'.\n\n            Context:\n            - Preceding Text: \"# Tadpole\nThe Tadpole is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game and can be found several times in one playthrough.\"\n            - Following Text: \"Tadpole can be found throughout the game's six chapters by defeating the following frog enemies and bosses:\n* Baw-Li-Guhh-Lang \\- Snake Trail - Bamboo Grove - Black Wind Mountain\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Tadpole.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" highlighting the \"Tadpole\" as an epic rare material. This item is described as the offspring of a frog and is suggested to be treasured for its potential future usefulness. The Tadpole is a collectible resource used for upgrades within the game and can be acquired by defeating specific frog enemies and bosses throughout the game's six chapters."
+    "chunk_id": 311035299293,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Kang-Jin_Staff_.jpg",
+    "alt_text": "Kang-Jin Staff .jpg",
+    "position_desc": 8,
+    "img_above_text": "• 8 Stone Spirit\n• 8,100 Will | Cloud-Patterned Stone Staff",
+    "img_below_text": "• 4 Refined Iron Sand\n• 8 Yaoguai Core",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 8 Stone Spirit\n• 8,100 Will | Cloud-Patterned Stone Staff\"\n        - Following Text: \"• 4 Refined Iron Sand\n• 8 Yaoguai Core\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Cloud-Patterned Stone Staff,\" a weapon from a video game, featuring intricate dragon-themed design details. The preceding and following text suggests it is part of a crafting or upgrade guide, listing required materials such as \"8 Stone Spirit\" and \"4 Refined Iron Sand,\" likely used to enhance or obtain the staff."
 }

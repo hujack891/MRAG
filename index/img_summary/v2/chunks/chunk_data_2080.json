@@ -1,28 +1,11 @@
 {
-    "chunk_id": 965686350234,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Thunderclap_38.jpg",
-    "alt_text": "Wukong Thunderclap 38.jpg",
-    "position_desc": 36,
-    "img_above_text": "![Wukong Thunderclap 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_36.jpg)\nYou can still find another Clay Vajra to battle at the foot of the main stairs. It's a tougher fight than the previous one, and you'll be rewarded for besting it with the Clay Vajra Spirit to add to your collection.",
-    "img_below_text": "While looking up at the stairs leading up to the pagoda, take the path left to a side stairway going down and guarded by a Thunder Rhino Master.\n![Wukong Thunderclap 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Thunderclap_37.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_36.jpg)\nYou can still find another Clay Vajra to battle at the foot of the main stairs. It's a tougher fight than the previous one, and you'll be rewarded for besting it with the Clay Vajra Spirit to add to your collection.\"\n            - Following Text: \"While looking up at the stairs leading up to the pagoda, take the path left to a side stairway going down and guarded by a Thunder Rhino Master.\n![Wukong Thunderclap 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Thunderclap_37.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Thunderclap_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist, Wukong, approaching the main stairs of a temple. This setting is significant as it leads to a challenging battle against a Clay Vajra at the foot of the stairs, offering a reward of the Clay Vajra Spirit upon victory. The snowy environment and the temple architecture suggest a mystical and ancient atmosphere, enhancing the narrative of Wukong's journey through the temple. The image serves as a visual cue for players to prepare for the upcoming fight and navigate the temple's surroundings."
+    "chunk_id": 869109635628,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
+    "alt_text": "Wukong Pagoda 57.jpg",
+    "position_desc": 54,
+    "img_above_text": "![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.",
+    "img_below_text": "Further up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.\n![Wukong Pagoda 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.\"\n        - Following Text: \"Further up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.\n![Wukong Pagoda 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong.\" The player character is navigating a dimly lit cell tunnel, wielding a fiery staff. In the foreground, there is a cluster of glowing mushrooms, which likely corresponds to the Snake-Head Mushroom mentioned in the following text. This mushroom is a key element in the narrative, as attempting to harvest it reveals a powerful enemy, the Fungiman. The image illustrates the exploration and combat elements of the game as the player progresses through the tunnel."
 }

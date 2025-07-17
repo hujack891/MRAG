@@ -1,28 +1,11 @@
 {
-    "chunk_id": 937448605052,
+    "chunk_id": 727676785234,
     "source_file": "Bamboo_Grove_Walkthrough.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Bamboo_40.jpg",
     "alt_text": "Wukong Bamboo 40.jpg",
     "position_desc": 38,
     "img_above_text": "![Wukong Bamboo 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Bamboo_39.jpg)\nExit the cave with the Shen Monkey and cross the wooden platform where you fought the Snake Patroller to the other side. In a small building on the far side, you can find a large chest that holds 2 **Tiny Piece of Gold** and 2 **Stone Spirit**.",
     "img_below_text": "When you’re ready to move on, make sure you’re fully healed up from dealing with that snake, as the end of this downward path leads to the titular marsh where a very strong boss waits to block your path.\n## Boss Fight - Whiteclad Noble",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Bamboo_39.jpg)\nExit the cave with the Shen Monkey and cross the wooden platform where you fought the Snake Patroller to the other side. In a small building on the far side, you can find a large chest that holds 2 **Tiny Piece of Gold** and 2 **Stone Spirit**.\"\n            - Following Text: \"When you’re ready to move on, make sure you’re fully healed up from dealing with that snake, as the end of this downward path leads to the titular marsh where a very strong boss waits to block your path.\n## Boss Fight - Whiteclad Noble\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Bamboo_40.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, atmospheric scene in a marshy area with a character wielding a glowing red staff, wading through shallow water. The environment features dense vegetation, eerie statues, and a traditional building in the background illuminated by faint torchlight, evoking a sense of foreboding and preparation for an upcoming challenge.\n\n2. **Inferred Purpose/Narrative Role**:  \nThe image sets the stage for the player’s approach to a significant encounter, likely the \"Whiteclad Noble\" boss fight mentioned in the following text. It emphasizes the transition from exploration to a high-stakes battle, highlighting the need for caution and readiness in this ominous setting."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Bamboo_39.jpg)\nExit the cave with the Shen Monkey and cross the wooden platform where you fought the Snake Patroller to the other side. In a small building on the far side, you can find a large chest that holds 2 **Tiny Piece of Gold** and 2 **Stone Spirit**.\"\n        - Following Text: \"When you’re ready to move on, make sure you’re fully healed up from dealing with that snake, as the end of this downward path leads to the titular marsh where a very strong boss waits to block your path.\n## Boss Fight - Whiteclad Noble\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, atmospheric scene from *Black Myth: Wukong*, showing the player character wading through a marshy area with a glowing red staff. The environment features dense foliage, eerie statues, and a distant building illuminated by torches, suggesting an ominous and foreboding setting. This area appears to lead to the \"titular marsh\" mentioned in the guide, where a challenging boss fight against the \"Whiteclad Noble\" awaits."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 498164995208,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Thunderclap_9.jpg",
-    "alt_text": "Wukong Thunderclap 9.jpg",
-    "position_desc": 9,
-    "img_above_text": "Inside the building itself, you'll find another Overseeing Monk in the main room (plus another on the far right side of the building exterior), and on the other side is the beginning of the main plaza, but the stairs beyond are lined with several Thunder Rhino Masters, so let's backtrack and find an optional side path.\nBack at the Temple Entrance Shrine, move to the right to find two other paths:",
-    "img_below_text": "Take the first left to find a quicker path to the Main Plaza that's a little less guarded, as there's only a Supporter Monk patrolling the path to where a lone Overseeing Monk guarding a smaller gate.\n![Wukong Thunderclap 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Thunderclap_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Inside the building itself, you'll find another Overseeing Monk in the main room (plus another on the far right side of the building exterior), and on the other side is the beginning of the main plaza, but the stairs beyond are lined with several Thunder Rhino Masters, so let's backtrack and find an optional side path.\nBack at the Temple Entrance Shrine, move to the right to find two other paths:\"\n            - Following Text: \"Take the first left to find a quicker path to the Main Plaza that's a little less guarded, as there's only a Supporter Monk patrolling the path to where a lone Overseeing Monk guarding a smaller gate.\n![Wukong Thunderclap 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Thunderclap_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Thunderclap_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy outdoor area near the Temple Entrance Shrine in *Black Myth: Wukong*. The player character is positioned on higher ground, overlooking two diverging paths marked by red arrows. The left path leads to a less guarded route toward the Main Plaza, while the right path appears to lead to another area guarded by enemies.\n\n2. **Narrative Role**:  \nThe image serves to guide players in choosing between two paths from the Temple Entrance Shrine. The left path offers a quicker and safer route to the Main Plaza, guarded by fewer enemies, while the right path may involve more resistance. It visually complements the walkthrough's instructions for navigating the temple area strategically."
+    "chunk_id": 365272330511,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Pagoda_14.jpg",
+    "alt_text": "Wukong Pagoda 14.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Pagoda 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Pagoda_13.jpg)\nIf you head along the outside path, you'll find another open jail cell bars to re-enter the interior hall and reach another green Wisp, but be ready to deal with the ambushing Cyan Bat above and Abomination below.",
+    "img_below_text": "You'll have to take the outside path to proceed further, but be ready for the beguiling chant to reveal two more Lantern Sentries that patrol this section, and take them out carefully when their backs are turned.\n![Wukong Pagoda 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Wukong_Pagoda_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Pagoda_13.jpg)\nIf you head along the outside path, you'll find another open jail cell bars to re-enter the interior hall and reach another green Wisp, but be ready to deal with the ambushing Cyan Bat above and Abomination below.\"\n        - Following Text: \"You'll have to take the outside path to proceed further, but be ready for the beguiling chant to reveal two more Lantern Sentries that patrol this section, and take them out carefully when their backs are turned.\n![Wukong Pagoda 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Wukong_Pagoda_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong*, where the player character, armed with a staff, is attacking a glowing, spectral enemy in a dark, rocky environment. This scene aligns with the preceding text, which mentions ambushes by enemies such as a Cyan Bat and an Abomination, suggesting that the player is navigating a dangerous area with hostile creatures. The following text indicates progression along an exterior path, emphasizing the need for caution against patrolling enemies ahead."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 7671926966,
-    "source_file": "Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Shigandang_4.jpg",
-    "alt_text": "Wukong Shigandang 4.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Shigandang 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Shigandang_3.jpg)\nThe Shigandang will often start the fight by racing toward you on all fours, slamming the ground with each step that can make it hard to avoid if you don’t have a head start on sprinting back or using Cloud Step to give him the slip.",
-    "img_below_text": "When the boss leaps into the air, he’ll slam down on all fours again to send out a tremor, but will also cause a stone pillar to shoot up by whichever part of his body you're closest to. The pillar will glow (as will his front arms), and after a moment explode and deal damage, so keep strafing away to attack a different part of his body.\nWhen attacking him from the front, be ready to deal with backhanded sweeps along the ground that you can parry with Rock Solid, or dodge and keep your combo going. However, if he stands up and pulls one arm back, you can expect a surprisingly far-reaching and fast lunging punch, followed by a slam into the ground.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Shigandang_3.jpg)\nThe Shigandang will often start the fight by racing toward you on all fours, slamming the ground with each step that can make it hard to avoid if you don’t have a head start on sprinting back or using Cloud Step to give him the slip.\"\n            - Following Text: \"When the boss leaps into the air, he’ll slam down on all fours again to send out a tremor, but will also cause a stone pillar to shoot up by whichever part of his body you're closest to. The pillar will glow (as will his front arms), and after a moment explode and deal damage, so keep strafing away to attack a different part of his body.\nWhen attacking him from the front, be ready to deal with backhanded sweeps along the ground that you can parry with Rock Solid, or dodge and keep your combo going. However, if he stands up and pulls one arm back, you can expect a surprisingly far-reaching and fast lunging punch, followed by a slam into the ground.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Shigandang_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game, showcasing a boss fight against the Shigandang. The Shigandang is a formidable creature that attacks by slamming the ground, causing tremors and stone pillars to emerge, which can explode and deal damage. The player must strategically avoid these attacks by strafing and using abilities like Cloud Step and Rock Solid to dodge or parry the boss's moves. The image captures the intense moment of the battle, highlighting the dynamic environment and the player's challenge in navigating the fight."
+    "chunk_id": 815849449263,
+    "source_file": "Top_Takes_Bottom,_Bottom_Takes_Top_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Top_Takes_Bottom_Spirit.jpg",
+    "alt_text": "Top Takes Bottom Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "The foes will also use each half of the iron ball as a shield of sorts. You will not do any damage to them by hitting this shield, so try to get behind them whenever they are shielding themselves. They are both armed with weapons as well as the dangerous ball, so keep an eye out for their swings and watch your back for the other enemy at all times.\n## Top Takes Bottom, Bottom Takes Top Spirit",
+    "img_below_text": "* **Two in One**\n* Equipped Effect: Significantly increases Defense, but moderately reduces Attack.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The foes will also use each half of the iron ball as a shield of sorts. You will not do any damage to them by hitting this shield, so try to get behind them whenever they are shielding themselves. They are both armed with weapons as well as the dangerous ball, so keep an eye out for their swings and watch your back for the other enemy at all times.\n## Top Takes Bottom, Bottom Takes Top Spirit\"\n        - Following Text: \"* **Two in One**\n* Equipped Effect: Significantly increases Defense, but moderately reduces Attack.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Equipment\" menu in a video game, specifically highlighting a spirit named \"Top Takes Bottom, Bottom Takes Top.\" This spirit has an epic rarity and a high Qi cost. Its ability, \"Two in One,\" allows it to transform into an iron ball that bounces and slams down, striking enemies three times. The equipped effect significantly increases defense but moderately reduces attack. The menu also provides options to equip the spirit, view a demo of its ability, and examine its details."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 880252303186,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_NewShop.jpg",
-    "alt_text": "Wukong NewShop.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.",
-    "img_below_text": "Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.\"\n            - Following Text: \"Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_NewShop.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character named Shen Monkey from the game Black Myth: Wukong, who appears to be an NPC that offers various services such as upgrading gourds and drinks, brewing, and trading items. This character likely plays a role in enhancing the player's abilities and resources, emphasizing the importance of interacting with NPCs to progress in the game. The surrounding context suggests that NPCs like Shen Monkey are crucial for acquiring key items and crafting abilities, and players should revisit them to access new features and upgrades."
+    "chunk_id": 560008998995,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Woods_Ember_Walkthrough_%2830%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(30\\).png",
+    "position_desc": 15,
+    "img_above_text": "![Woods Ember Walkthrough \\(28\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Woods_Ember_Walkthrough_%2828%29.png)\nAt the top of the stairs, you'll have another set of steps immediately to the left. But first, go to the treasure chests on the right. There's just one here to be looted, which will give you some gold to sell. Then, directly opposite the stairs, you can find another Fire Bellflower to be harvested.",
+    "img_below_text": "Once you've collected everything, head up the next set of stairs. At the top of these steps, the health bar for the Brown-Iron Cart will appear and you can find it blocking the path to the left. However, there's also a broken set of stairs to the immediate right, which you can climb up. This will bring you to a small roof you can run along to collect a green Wisp.\n![Woods Ember Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Woods_Ember_Walkthrough_%2832%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(28\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Woods_Ember_Walkthrough_%2828%29.png)\nAt the top of the stairs, you'll have another set of steps immediately to the left. But first, go to the treasure chests on the right. There's just one here to be looted, which will give you some gold to sell. Then, directly opposite the stairs, you can find another Fire Bellflower to be harvested.\"\n        - Following Text: \"Once you've collected everything, head up the next set of stairs. At the top of these steps, the health bar for the Brown-Iron Cart will appear and you can find it blocking the path to the left. However, there's also a broken set of stairs to the immediate right, which you can climb up. This will bring you to a small roof you can run along to collect a green Wisp.\n![Woods Ember Walkthrough \\(32\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Woods_Ember_Walkthrough_%2832%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a section of the \"Black Myth: Wukong\" walkthrough, showing a path split into two directions. The red arrows highlight the player's options: ascending a broken staircase to the right or heading left toward a bridge. The area features a dark, rocky environment with stone structures and a looming enemy (the Brown-Iron Cart) visible in the background. This scene aligns with the guide's instructions to explore the stairs and prepare for an encounter with the enemy blocking the path."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 67197395991,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg",
-    "alt_text": "Wukong Pagoda 80.jpg",
-    "position_desc": 78,
-    "img_above_text": "After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.",
-    "img_below_text": "It can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\n![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 78 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.\"\n            - Following Text: \"It can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\n![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, ominous scene from the game \"Black Myth: Wukong,\" featuring a boss fight against a creature named \"Captain Wise-Voice.\" The creature is shown in a menacing stance, surrounded by electrical energy on the ground. The preceding and following text describe the creature's attack patterns, including laser blasts, lightning strikes, and an electrical ring attack, providing players with strategies to evade these attacks during the fight."
+    "chunk_id": 819694324223,
+    "source_file": "Snake_Sheriff_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Snake_Shriff_Power.jpg",
+    "alt_text": "Snake Shriff Power.jpg",
+    "position_desc": 3,
+    "img_above_text": "The Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.\n## Snake Sheriff Spirit",
+    "img_below_text": "* **Tiger Roar**\n* Equipped Effect: Moderately increases Attack, but considerably reduces Defense.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.\n## Snake Sheriff Spirit\"\n        - Following Text: \"* **Tiger Roar**\n* Equipped Effect: Moderately increases Attack, but considerably reduces Defense.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Snake Sheriff\" spirit in the equipment menu of a video game. This spirit has the \"Tiger Roar\" ability, which allows the player to take the form of the Snake Sheriff and unleash a powerful roar that affects nearby enemies. The equipped effect moderately increases attack but significantly reduces defense. The interface also displays the player's stats, resistances, and other available spirits for selection."
 }

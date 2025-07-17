@@ -1,28 +1,11 @@
 {
-    "chunk_id": 118387492108,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg",
-    "alt_text": "Wukong Snowhill 10.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\nYou can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.",
-    "img_below_text": "Head back up the main path through more Frozen Corpses, taking them on one at a time so you don't get overwhelmed. Once you reach the top of this area you'll find a large snowy field where the monkey is waiting for you.\n### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\nYou can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.\"\n            - Following Text: \"Head back up the main path through more Frozen Corpses, taking them on one at a time so you don't get overwhelmed. Once you reach the top of this area you'll find a large snowy field where the monkey is waiting for you.\n### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is navigating through a snowy path. In this particular area, Wukong encounters two Frozen Corpses guarding a large column with a green Wisp that can be absorbed. The preceding text suggests an alternate path leading to this encounter, while the following text advises players to proceed carefully through more Frozen Corpses to avoid being overwhelmed, eventually leading to a snowy field where a miniboss fight with the Macaque Chief awaits."
+    "chunk_id": 101665009167,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Brook_1.jpg",
+    "alt_text": "Wukong Brook 1.jpg",
+    "position_desc": 41,
+    "img_above_text": "Since the main path down below leads on to the Longevity Road, we'll instead head to the right side of the Forest Shrine where a hilltop is teeming with a few praying Frozen Corpses and various plants to harvest. There are two paths here -- one before the shrine, and one after the archway where the Fox Guai spoke to you, and both lead down to the next sub-region.\n## Brook of Bliss",
+    "img_below_text": "There are two easy paths to take down to the Brook of Bliss: one right next to the Forest Shrine, and one a bit further up along the main path. Both paths are lined with various Frozen Corpses and likely a Cyan Bat or two hiding up in the trees.\n![Wukong Brook 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Since the main path down below leads on to the Longevity Road, we'll instead head to the right side of the Forest Shrine where a hilltop is teeming with a few praying Frozen Corpses and various plants to harvest. There are two paths here -- one before the shrine, and one after the archway where the Fox Guai spoke to you, and both lead down to the next sub-region.\n## Brook of Bliss\"\n        - Following Text: \"There are two easy paths to take down to the Brook of Bliss: one right next to the Forest Shrine, and one a bit further up along the main path. Both paths are lined with various Frozen Corpses and likely a Cyan Bat or two hiding up in the trees.\n![Wukong Brook 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest setting from the game *Black Myth: Wukong*, where the player character, armed with a staff, is engaged in combat with a Frozen Corpse enemy. The interface shows health and ability icons, suggesting active gameplay. This scene aligns with the walkthrough's description of exploring paths near the Forest Shrine, encountering Frozen Corpses, and progressing toward the Brook of Bliss."
 }

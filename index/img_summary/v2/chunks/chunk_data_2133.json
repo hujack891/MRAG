@@ -1,28 +1,11 @@
 {
-    "chunk_id": 155015056852,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
-    "alt_text": "Wukong Thunderclap 90.jpg",
-    "position_desc": 89,
-    "img_above_text": "![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!",
-    "img_below_text": "Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 89 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!\"\n            - Following Text: \"Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the Macaque Chief. The player character is engaged in combat, with the Macaque Chief visible in the air, likely preparing to summon shadow versions of himself to attack. The preceding text explains the strategy of staggering the Macaque Chief with heavy hits, while the following text warns of the Chief's aerial attack and advises repositioning to handle the shadow clones effectively."
+    "chunk_id": 416621280241,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_Pagoda_124.jpg",
+    "alt_text": "Wukong Pagoda 124.jpg",
+    "position_desc": 119,
+    "img_above_text": "![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\nAs an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.",
+    "img_below_text": "When you've depleted the Macaque Chief's health yet again, he'll retreat for a second time, but the Wise Master will ask that you hold off your pursuit. In exchange for staying put for a bit, he will impart to you the secret of his **Ring of Fire Spell**!\nMacaque Chief (Warding Temple)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\nAs an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\"\n        - Following Text: \"When you've depleted the Macaque Chief's health yet again, he'll retreat for a second time, but the Wise Master will ask that you hold off your pursuit. In exchange for staying put for a bit, he will impart to you the secret of his **Ring of Fire Spell**!\nMacaque Chief (Warding Temple)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Ancient Master surrounded by a fiery circle, likely demonstrating the **Ring of Fire Spell** mentioned in the text. This spell creates a protective barrier that players can use strategically during the fight against the Macaque Chief. The fire serves both as a defensive tool and a way to manage combat, as the enemy cannot cross it. The scene is set in a snowy temple environment, emphasizing the contrast between fire and frost."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 101185024968,
-    "source_file": "Non-Able.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Brook_26.jpg",
-    "alt_text": "Wukong Brook 26.jpg",
-    "position_desc": 11,
-    "img_above_text": "When using his fists, he'll often employ a three hit combo starting with an overhand swing with his right fist, and then a quick straight punch with his left, before expelling energy by opening his left palm for one last strike.\nAny time any of his limbs glow, you'll need to be extremely careful, as getting hit can take off a huge chunk of your life (making consumables that raise your max health even more important!)",
-    "img_below_text": "This limbs will often glow after he expels energy around him in a damaging wave. Some will start a longer combo move, while others can be a single strike, like leaping into the air to smash down with two glowing fists.\n![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"When using his fists, he'll often employ a three hit combo starting with an overhand swing with his right fist, and then a quick straight punch with his left, before expelling energy by opening his left palm for one last strike.\nAny time any of his limbs glow, you'll need to be extremely careful, as getting hit can take off a huge chunk of your life (making consumables that raise your max health even more important!)\"\n            - Following Text: \"This limbs will often glow after he expels energy around him in a damaging wave. Some will start a longer combo move, while others can be a single strike, like leaping into the air to smash down with two glowing fists.\n![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Brook_26.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in mid-air, preparing to strike with glowing fists, set against a snowy landscape with a pagoda in the background. The context suggests that this character is executing a powerful attack move, which is part of a combat sequence involving energy-expelling strikes. The preceding and following text highlight the importance of avoiding these glowing limb attacks due to their high damage potential, emphasizing the need for strategic use of health-boosting consumables in the game."
+    "chunk_id": 647925597125,
+    "source_file": "Quick_as_Fire,_Fast_as_Wind.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Woods_Ember_Walkthrough_%28111%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(111\\).png",
+    "position_desc": 7,
+    "img_above_text": "![Woods Ember Walkthrough \\(112\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Woods_Ember_Walkthrough_%28112%29.png)\nWhen Quick as Fire is down, the intensity of Fast as Wind's attacks will increase. He'll now start to charge at you, sweeping down as close as possible to the ground, to hit you with his tusks. The best counter to this is a dodge, which will see him hit the ground and get his tusks stuck for a few seconds.",
+    "img_below_text": "Be ready to follow him and hit him as soon as this happens. Even when he pulls his tusks out from the ground, he'll be temporarily stunned, giving you enough time to attack. He will continue to chase you, blowing wind on you, but will also start to spit gusts of wind out. These will turn into small tornados but they're extremely short-lived, so as long as you can dodge the initial gust, you should be able to quickly get out of the way of the tornado.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(112\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Woods_Ember_Walkthrough_%28112%29.png)\nWhen Quick as Fire is down, the intensity of Fast as Wind's attacks will increase. He'll now start to charge at you, sweeping down as close as possible to the ground, to hit you with his tusks. The best counter to this is a dodge, which will see him hit the ground and get his tusks stuck for a few seconds.\"\n        - Following Text: \"Be ready to follow him and hit him as soon as this happens. Even when he pulls his tusks out from the ground, he'll be temporarily stunned, giving you enough time to attack. He will continue to chase you, blowing wind on you, but will also start to spit gusts of wind out. These will turn into small tornados but they're extremely short-lived, so as long as you can dodge the initial gust, you should be able to quickly get out of the way of the tornado.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense moment in the video game *Black Myth: Wukong*, showcasing a battle between the player character and a large, tusked, beast-like enemy. The player wields a fiery weapon, preparing to counter the creature's aggressive charge. The surrounding environment is dark and foreboding, with flames visible in the background, emphasizing the intensity of the encounter. This scene aligns with the guide's instructions on dodging the enemy's tusk attacks and exploiting its temporary vulnerability after its tusks get stuck in the ground."
 }

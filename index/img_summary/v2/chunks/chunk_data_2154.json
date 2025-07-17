@@ -1,28 +1,11 @@
 {
-    "chunk_id": 864242959923,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg",
-    "alt_text": "Wukong Thunderclap 110.jpg",
-    "position_desc": 110,
-    "img_above_text": "![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)\nOther times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.",
-    "img_below_text": "If he starts to channel energy within himself, watch for light to shine out of his body and electrical threads appear all around. You'll need to quickly sprint away as the very air around him will raise your shock meter, and after a few moments, he'll explode and deal a lethal amount of damage in a very large radius.\n![Wukong Thunderclap 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Thunderclap_109.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 110 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)\nOther times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.\"\n            - Following Text: \"If he starts to channel energy within himself, watch for light to shine out of his body and electrical threads appear all around. You'll need to quickly sprint away as the very air around him will raise your shock meter, and after a few moments, he'll explode and deal a lethal amount of damage in a very large radius.\n![Wukong Thunderclap 109.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Thunderclap_109.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a combat encounter with a boss named Yellowbrow. The boss appears to be channeling energy, as indicated by the electrical threads surrounding him, which aligns with the context of preparing for a powerful attack. The player character is seen in the foreground, seemingly affected by the energy, which suggests the need for strategic evasion to avoid a potentially lethal explosion. The image serves to illustrate the intensity and challenge of this particular boss fight, emphasizing the importance of timing and movement to survive the encounter."
+    "chunk_id": 469064992569,
+    "source_file": "Poison_Chiefs.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Foothills_Walkthrough_%28133%29.png",
+    "alt_text": "Foothills Walkthrough \\(133\\).png",
+    "position_desc": 5,
+    "img_above_text": "![Foothills Walkthrough \\(129\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)\n. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff.",
+    "img_below_text": "On the opposite side of the water, there's a clearing, with what appears to be a big rock sitting by the edge of it. This is actually one of the Poison Chiefs in the area, so fly over to it to tackle your next miniboss.\nPoison Chief 1",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(129\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)\n. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff.\"\n        - Following Text: \"On the opposite side of the water, there's a clearing, with what appears to be a big rock sitting by the edge of it. This is actually one of the Poison Chiefs in the area, so fly over to it to tackle your next miniboss.\nPoison Chief 1\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character flying over a grassy clearing surrounded by cliffs and trees. In the clearing, a large rock is visible near the edge of the area, which is identified in the walkthrough as one of the Poison Chiefs, a miniboss. The image serves to guide players toward this encounter after ascending from the previous area."
 }

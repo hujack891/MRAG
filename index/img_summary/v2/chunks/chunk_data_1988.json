@@ -1,28 +1,11 @@
 {
-    "chunk_id": 432303961854,
-    "source_file": "Meditation_Spots.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/The_Bottom_Pagoda_Realm_Meditation_Spot.jpg",
-    "alt_text": "The Bottom Pagoda Realm Meditation Spot.jpg",
-    "position_desc": 11,
-    "img_above_text": "### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot",
-    "img_below_text": "This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot\"\n            - Following Text: \"This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/The_Bottom_Pagoda_Realm_Meditation_Spot.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, secluded Meditation Spot in the Pagoda Realm, accessible only after completing the area and defeating Captain Wise-Voice. The player character stands near a barren tree and a small altar, holding a glowing weapon, with an option to \"Meditate\" visible on the screen. This location serves as a hidden reward area, offering a tranquil moment for reflection and gameplay progression after smashing a fence and discovering the Celestial Taiyi Pill."
+    "chunk_id": 890652512549,
+    "source_file": "Non-Void_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Non_Void_2.jpg",
+    "alt_text": "Non Void 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Non-Void Fight\n* Non-Void Spirit",
+    "img_below_text": "## Non-Void Location\nNon-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Non-Void Fight\n* Non-Void Spirit\"\n        - Following Text: \"## Non-Void Location\nNon-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. The image depicts a character in a richly detailed, mystical environment, possibly tied to the \"Non-Void\" theme mentioned in the context. The character's attire, including a robe and prayer beads, suggests a spiritual or monk-like role.\n\n2. Based on the preceding and following text, the image likely illustrates a key figure or NPC (Non-Player Character) involved in the \"Non-Void\" side quest, which revolves around a moral or philosophical narrative about a man, a fox, and the consequences of fear-driven actions."
 }

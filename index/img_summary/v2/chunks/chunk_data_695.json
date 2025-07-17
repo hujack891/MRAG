@@ -1,28 +1,11 @@
 {
-    "chunk_id": 855832749388,
-    "source_file": "Commander_Beetle.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg",
-    "alt_text": "Wukong YellowFlower 21.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong YellowFlower 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg)\nHe can quickly charge at you in a lunging backhanded slice attack, which will result in a whirlwind of blade strikes all around him after a moment you'll also need to dodge.",
-    "img_below_text": "As mentioned previously, the Commander Beetle can also perform of series of sword slams with his bigger left sword. The small line that extends from his strike won't look like much for a moment, until a large fissure erupts from the path of his weapon which he can do several times in a row.\n![Wukong YellowFlower 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Commander_Beetle.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg)\nHe can quickly charge at you in a lunging backhanded slice attack, which will result in a whirlwind of blade strikes all around him after a moment you'll also need to dodge.\"\n            - Following Text: \"As mentioned previously, the Commander Beetle can also perform of series of sword slams with his bigger left sword. The small line that extends from his strike won't look like much for a moment, until a large fissure erupts from the path of his weapon which he can do several times in a row.\n![Wukong YellowFlower 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the Commander Beetle mid-attack. The beetle is performing a powerful sword strike, causing debris and sparks to fly, while the player character lies on the ground, seemingly knocked down. This visual highlights the beetle's aggressive and dynamic attack patterns, including lunging slices and fissure-generating sword slams, as described in the preceding and following text."
+    "chunk_id": 992512294585,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Fine_Gold_Thread_.jpg",
+    "alt_text": "Fine Gold Thread .jpg",
+    "position_desc": 10,
+    "img_above_text": "![Refined Iron Sand .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Refined_Iron_Sand_.jpg)| Refined Iron Sand| Epic | General weapon upgrade material | • Dropped from Frog Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores in The New West and beyond\n![Cold Iron Leaves .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Cold_Iron_Leaves_.jpg)| Cold Iron Leaves| Epic | General armor material | • Dropped from Frog Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores",
+    "img_below_text": "• Purchased from Shrine Stores in The Webbed Hollow• Dropped from Yaoguai Chiefs and Yaoguai Kings in The Webbed Hollow\n![Black-myth-wukong-celestial-ribbon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Black-myth-wukong-celestial-ribbon.jpg)  1 | Celestial Ribbon| Mythical | General armor material | • Defeat Hundred-Eye Daoist Master in The Webbed Hollow• Defeat bosses in Flaming Mountain • Defeat bosses in Mount Huaguo • Purchased from the Shrine in Mount Huaguo • Occassionally found in chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Refined Iron Sand .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Refined_Iron_Sand_.jpg)| Refined Iron Sand| Epic | General weapon upgrade material | • Dropped from Frog Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores in The New West and beyond\n![Cold Iron Leaves .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Cold_Iron_Leaves_.jpg)| Cold Iron Leaves| Epic | General armor material | • Dropped from Frog Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores\"\n        - Following Text: \"• Purchased from Shrine Stores in The Webbed Hollow• Dropped from Yaoguai Chiefs and Yaoguai Kings in The Webbed Hollow\n![Black-myth-wukong-celestial-ribbon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Black-myth-wukong-celestial-ribbon.jpg)  1 | Celestial Ribbon| Mythical | General armor material | • Defeat Hundred-Eye Daoist Master in The Webbed Hollow• Defeat bosses in Flaming Mountain • Defeat bosses in Mount Huaguo • Purchased from the Shrine in Mount Huaguo • Occassionally found in chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Celestial Ribbon,\" a Mythical-grade general armor material in the video game *Black Myth: Wukong*. It is used for crafting or upgrading armor and can be obtained by defeating specific bosses (e.g., Hundred-Eye Daoist Master in The Webbed Hollow, bosses in Flaming Mountain and Mount Huaguo), occasionally found in chests, or purchased from the Shrine in Mount Huaguo."
 }

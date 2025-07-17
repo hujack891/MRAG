@@ -1,28 +1,11 @@
 {
-    "chunk_id": 831184284655,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-    "alt_text": "Wukong RedLoong 3.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.",
-    "img_below_text": "You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to unlock the boss.\n## Cyan Loong Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\"\n            - Following Text: \"You can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to unlock the boss.\n## Cyan Loong Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image depicts a character standing in a dimly lit cave-like area, facing a mural or wall painting illuminated by light. The setting suggests exploration or discovery within the game environment.  \n\n2. Based on the context, the image likely represents the moment after breaking through the cracked wall during the fight with the First Rat Prince. The character is exploring the area beyond the wall, possibly near the chest containing the Loong Scales, which are crucial for progressing to the Cyan Loong boss fight."
+    "chunk_id": 273634766237,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Sandgate_40.jpg",
+    "alt_text": "Wukong Sandgate 40.jpg",
+    "position_desc": 5,
+    "img_above_text": "It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.",
+    "img_below_text": "The Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.\n![Wukong Sandgate 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.\"\n        - Following Text: \"The Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.\n![Wukong Sandgate 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a video game battling an \"Earth Wolf\" in an outdoor setting with ancient, Asian-inspired architecture in the background. The Earth Wolf appears to be in mid-attack, while the player character is evading or recovering from a previous move. The image serves to illustrate the combat mechanics and the appearance of the Earth Wolf, as described in the surrounding text."
 }

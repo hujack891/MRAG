@@ -1,28 +1,11 @@
 {
-    "chunk_id": 249693068601,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg",
-    "alt_text": "Wukong Snowhill 23.jpg",
-    "position_desc": 22,
-    "img_above_text": "![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)\nClimbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.",
-    "img_below_text": "Entering the large temple complex, there's actually not as much to explore as you might think. A large open area to the right leads to a sealed building, but guarding it is a new enemy - the Yaksha Patroller.\n![Wukong Snowhill 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Snowhill_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)\nClimbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.\"\n            - Following Text: \"Entering the large temple complex, there's actually not as much to explore as you might think. A large open area to the right leads to a sealed building, but guarding it is a new enemy - the Yaksha Patroller.\n![Wukong Snowhill 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Snowhill_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character, Wukong, is engaged in combat with an enemy in a snowy temple courtyard. The preceding text suggests that the player has just navigated through broken wooden platforms to find a treasure chest, while the following text indicates that the player is about to encounter a new enemy, the Yaksha Patroller, in a large temple complex. This image serves to illustrate the challenging combat and exploration elements within the game."
+    "chunk_id": 267449513702,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Brook_14.jpg",
+    "alt_text": "Wukong Brook 14.jpg",
+    "position_desc": 54,
+    "img_above_text": "![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)\nAt the top, you'll find lots of Frozen Corpses to smash apart, as well as a Thunder Rhino Master and two Frozen Corpses guarding a **Treasure Chest** at the foot of a giant stone pillar that overlooks the path you took to get up here.",
+    "img_below_text": "Just past the crowd of Frozen Corpses, you'll find the most important thing in this region: A lone man bound and kneeling in front of a large stone pagoda on the hill above.\n## Yaoguai Chief Miniboss Fight - Non-Able",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)\nAt the top, you'll find lots of Frozen Corpses to smash apart, as well as a Thunder Rhino Master and two Frozen Corpses guarding a **Treasure Chest** at the foot of a giant stone pillar that overlooks the path you took to get up here.\"\n        - Following Text: \"Just past the crowd of Frozen Corpses, you'll find the most important thing in this region: A lone man bound and kneeling in front of a large stone pagoda on the hill above.\n## Yaoguai Chief Miniboss Fight - Non-Able\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player-controlled character traversing a snowy environment with a staff in hand. The context suggests this area is near a group of Frozen Corpses and a Thunder Rhino Master guarding a treasure chest. The player is likely progressing toward the next key objective, which involves encountering a bound man near a stone pagoda. The HUD displays various abilities and resources, including \"Will\" with a count of 84."
 }

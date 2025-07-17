@@ -1,28 +1,11 @@
 {
-    "chunk_id": 56810372476,
-    "source_file": "Earth_Wolf.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg",
-    "alt_text": "Wukong Sandgate 39.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.",
-    "img_below_text": "It will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.\n![Wukong Sandgate 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Earth_Wolf.md'.\n\n            Context:\n            - Preceding Text: \"## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.\"\n            - Following Text: \"It will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.\n![Wukong Sandgate 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Earth Wolf miniboss mid-leap during an intense combat encounter in *Black Myth: Wukong*. The player character is shown preparing to react, emphasizing the guide's advice to dodge the wolf's leaping attack and counter as it recovers. The scene highlights the dynamic and challenging nature of the fight, set in a desolate, atmospheric environment."
+    "chunk_id": 727081754091,
+    "source_file": "Father_of_Stones_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Father_of_Stones_Location.png",
+    "alt_text": "Father of Stones Location.png",
+    "position_desc": 2,
+    "img_above_text": "## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.",
+    "img_below_text": "## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.\"\n        - Following Text: \"## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, atmospheric environment in a video game, likely within the Flaming Mountains mentioned in the context. A character in ornate armor, wielding a staff, stands near a small shrine illuminated by firelight. The barren, rocky landscape and twisted trees create an ominous setting, suggesting this is part of the journey leading up to the encounter with the Father of Stones. The shrine may serve as a point of interest or a preparatory location before the upcoming battle."
 }

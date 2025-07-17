@@ -1,28 +1,11 @@
 {
-    "chunk_id": 107767663762,
-    "source_file": "Monk_from_the_Sea.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_19.jpg",
-    "alt_text": "Wukong Thunderclap 19.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Thunderclap 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg)\nIn addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.",
-    "img_below_text": "What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Monk_from_the_Sea.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg)\nIn addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.\"\n            - Following Text: \"What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy battlefield where the player character faces off against a boss named \"Monk from the Sea.\" The monk is mid-air, seemingly preparing or executing an attack, while the environment is covered in snow, with frosty mountains and traditional architecture in the background. The UI elements suggest this is a gameplay moment from an action RPG.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a boss fight against the \"Monk from the Sea,\" emphasizing the monk's frost-based abilities and the environmental challenges posed by the snowy terrain. This visual ties into the preceding and following text, which describe the monk's frost attacks and the difficulty of navigating the frost-coated battlefield. It serves to showcase the game's mechanics, environmental design, and the strategic elements of the encounter."
+    "chunk_id": 147227229392,
+    "source_file": "Old_Ginseng_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Old_Gensing_Guai_Location_3.png",
+    "alt_text": "Old Gensing Guai Location 3.png",
+    "position_desc": 2,
+    "img_above_text": "## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.",
+    "img_below_text": "## Old Ginseng Guai Fight\nThe Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.\"\n        - Following Text: \"## Old Ginseng Guai Fight\nThe Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in a snowy forest clearing, armed with a glowing red weapon, likely preparing to encounter the Old Ginseng Guai as described in the walkthrough. The setting matches the context of the Towers of Karma Keeper's Shrine area, with the player seemingly approaching the central clearing where the Old Ginseng Guai is located. The HUD elements suggest the player is equipped with items and abilities for the upcoming challenge."
 }

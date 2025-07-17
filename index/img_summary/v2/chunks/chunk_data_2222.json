@@ -1,28 +1,11 @@
 {
-    "chunk_id": 251331971048,
-    "source_file": "Non-White.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_MindCliff_19.jpg",
-    "alt_text": "Wukong MindCliff 19.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Mindcliff 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Wukong_Mindcliff_18.jpg)\nNon-White will charge his blade by lunging at you with a quick back-handed slice, before dragging his blade along the ground to slash upward and send out a row of icy spikes in a straight line.",
-    "img_below_text": "He'll now also swap his stance to pivot and look back at you over his shoulder, before leaping over with a quick slash and then jumping up to hang in the air a moment as his blade charges before making an extremely fast dash across the room with his frost sword.\nSince you'll need to fully defeat him this round, it's more than likely that you'll end up smashing through the defense from his weapon and removing the bar entirely. Unfortunately, this isn't necessarily a good thing.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Non-White.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Mindcliff 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Wukong_Mindcliff_18.jpg)\nNon-White will charge his blade by lunging at you with a quick back-handed slice, before dragging his blade along the ground to slash upward and send out a row of icy spikes in a straight line.\"\n            - Following Text: \"He'll now also swap his stance to pivot and look back at you over his shoulder, before leaping over with a quick slash and then jumping up to hang in the air a moment as his blade charges before making an extremely fast dash across the room with his frost sword.\nSince you'll need to fully defeat him this round, it's more than likely that you'll end up smashing through the defense from his weapon and removing the bar entirely. Unfortunately, this isn't necessarily a good thing.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_MindCliff_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring a character named Non-White. Non-White is seen performing a powerful attack, likely involving icy spikes or a frost sword, as indicated by the context. The scene is set in a rocky, icy environment, and the action appears to be part of a challenging boss fight where the player needs to overcome Non-White's defenses. The image captures the dynamic and fast-paced nature of the combat, highlighting the game's emphasis on strategic and skillful gameplay."
+    "chunk_id": 708994050530,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_9.jpg",
+    "alt_text": "Wukong Sandgate 9.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Sandgate 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Wukong_Sandgate_8.jpg)\nPast the Rat Governor, you may see a flooded pit below with a large Toad Yaoguai, but for now it’s better to return to where the first Rat Soldier was and look for a path up into the hills that skirts this pit.",
+    "img_below_text": "Keep following it along some wooden scaffolding above a ravine leading back to the pit, and you’ll see a settlement up ahead, plus the first of the Keeper’s Shrines guarded by another Rat Soldier.\n## Village Entrance",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Wukong_Sandgate_8.jpg)\nPast the Rat Governor, you may see a flooded pit below with a large Toad Yaoguai, but for now it’s better to return to where the first Rat Soldier was and look for a path up into the hills that skirts this pit.\"\n        - Following Text: \"Keep following it along some wooden scaffolding above a ravine leading back to the pit, and you’ll see a settlement up ahead, plus the first of the Keeper’s Shrines guarded by another Rat Soldier.\n## Village Entrance\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist overlooking a rocky, arid area with a small pit below. In the pit, a large Toad Yaoguai and other enemies are visible, suggesting a potential combat encounter. The setting includes natural terrain with sparse vegetation, wooden scaffolding, and a looming ravine. This moment appears to guide players toward exploring an alternate path up into the hills, bypassing the immediate confrontation with the Toad Yaoguai."
 }

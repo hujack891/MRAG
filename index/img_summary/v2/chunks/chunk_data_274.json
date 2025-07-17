@@ -1,28 +1,11 @@
 {
-    "chunk_id": 439113471642,
-    "source_file": "Black_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_BlackLoong_5.jpg",
-    "alt_text": "Wukong BlackLoong 5.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong BlackLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_BlackLoong_9.jpg)\nAnother lengthy combo that can be hard to get away from will be when Black Loong starts to repeatedly pound the ground with alternate weapon slams, expelling electric blasts from each one. This can go on for up to nine slams, with the final attack being the one that causes the biggest explosion. If you try to interrupt him with Immobilize, be sure to follow up with a strong attack that can stagger, or he’ll simply keep the combo going.",
-    "img_below_text": "If you spot the Black Loong raising his weapons high in a slow manner while they crackle to life, it’s a sign he’s going to bang them together slowly three times, causing explosions in the air that gradually increase in range. This is a good time to sprint to safety and use your medicines while you wait for the attack to end.\n![Wukong BlackLoong 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_BlackLoong_7.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Black_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_BlackLoong_9.jpg)\nAnother lengthy combo that can be hard to get away from will be when Black Loong starts to repeatedly pound the ground with alternate weapon slams, expelling electric blasts from each one. This can go on for up to nine slams, with the final attack being the one that causes the biggest explosion. If you try to interrupt him with Immobilize, be sure to follow up with a strong attack that can stagger, or he’ll simply keep the combo going.\"\n            - Following Text: \"If you spot the Black Loong raising his weapons high in a slow manner while they crackle to life, it’s a sign he’s going to bang them together slowly three times, causing explosions in the air that gradually increase in range. This is a good time to sprint to safety and use your medicines while you wait for the attack to end.\n![Wukong BlackLoong 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_BlackLoong_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_BlackLoong_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts the Black Loong mid-combat, unleashing a powerful electric explosion, likely during its multi-slam combo or another devastating attack. The scene highlights the intense visual effects of the electric blasts and the player's perspective as they prepare to evade or counter.\n\n2. **Purpose/Context**: The image complements the preceding and following text by visually showcasing the Black Loong's electrified attacks, emphasizing the danger and scale of its abilities. It serves to illustrate the player's need to strategize, evade, and time their actions carefully during these high-damage moments."
+    "chunk_id": 672591328284,
+    "source_file": "Black_Wind_Cave_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_BlackWind_5.jpg",
+    "alt_text": "Wukong BlackWind 5.jpg",
+    "position_desc": 4,
+    "img_above_text": "Next to the Meditation Spot, you can also find a small golden pot that holds a **Celestial Taiyi Pill** , which will greatly increase your maximum mana like the other pill did for your health.\nBlack Wind Mountain Celestial Taiyi Pill",
+    "img_below_text": "Return to the path and take the stairs up to fight against another Wolf Assassin as the cave grows dark, and draw them into the light if needed.\nAs you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Next to the Meditation Spot, you can also find a small golden pot that holds a **Celestial Taiyi Pill** , which will greatly increase your maximum mana like the other pill did for your health.\nBlack Wind Mountain Celestial Taiyi Pill\"\n        - Following Text: \"Return to the path and take the stairs up to fight against another Wolf Assassin as the cave grows dark, and draw them into the light if needed.\nAs you reach an open part of the cave, you’ll have to face one more assassin along the darkened path, and you may notice they’ll go out of their way to destroy the torches along the path to further envelop them in darkness. If you have trouble facing them, always try to bring them to a brighter spot.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character, armed with a staff, approaching an enemy (likely a Wolf Assassin) in a dimly lit cave. The scene aligns with the walkthrough's context, where players are advised to engage enemies strategically by drawing them into brighter areas to counter their advantage in darkness. The interface displays health, mana, and ability icons, emphasizing combat readiness."
 }

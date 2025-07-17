@@ -1,28 +1,11 @@
 {
-    "chunk_id": 127786177990,
-    "source_file": "The_Duskveil.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg",
-    "alt_text": "Wukong PurpleCloud 63.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong PurpleCloud 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg)\nLuckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.",
-    "img_below_text": "The Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\n![Wukong PurpleCloud 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg)\nLuckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.\"\n            - Following Text: \"The Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\n![Wukong PurpleCloud 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" featuring a battle against the formidable enemy known as The Duskveil. The environment is shrouded in a red mist, which is likely the blood mist mentioned in the context, used by The Duskveil to obscure himself and complicate the player's ability to anticipate his attacks. The image serves to illustrate the challenging nature of this encounter, emphasizing the need for strategic retreat and careful maneuvering to avoid the enemy's unpredictable sword formations and attacks."
+    "chunk_id": 626400604419,
+    "source_file": "Webbed_Hollow_-_Middle_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_MiddleHollow_33.jpg",
+    "alt_text": "Wukong MiddleHollow 33.jpg",
+    "position_desc": 27,
+    "img_above_text": "As you drop down, be sure to look to the right for a **Meditation Spot** , and over to the left you'll find the Middle Hollow Shrine guarded by an archer and Puppet Spider.\nThe Tree, Middle of the Hollow Meditation Spot",
+    "img_below_text": "There's a ledge nearby that will lead you straight to the next boss (as well as a few Skeletal Snakes we haven't seen since Chapter 1), but first it's a good idea to check the alternate path.\n![Wukong MiddleHollow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_MiddleHollow_27.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you drop down, be sure to look to the right for a **Meditation Spot** , and over to the left you'll find the Middle Hollow Shrine guarded by an archer and Puppet Spider.\nThe Tree, Middle of the Hollow Meditation Spot\"\n        - Following Text: \"There's a ledge nearby that will lead you straight to the next boss (as well as a few Skeletal Snakes we haven't seen since Chapter 1), but first it's a good idea to check the alternate path.\n![Wukong MiddleHollow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_MiddleHollow_27.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character approaching a wooden bridge in a dark, cavernous environment. To the left stands a shrine-like structure, while the red arrow indicates a path leading forward. This area appears to be part of the Middle Hollow, where players can explore a Meditation Spot and encounter enemies such as Skeletal Snakes. The image serves as a visual guide to navigate toward the next boss or an alternate path."
 }

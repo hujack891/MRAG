@@ -1,28 +1,11 @@
 {
-    "chunk_id": 371690438577,
-    "source_file": "Fungiman_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Fungiman_attack.png",
-    "alt_text": "Fungiman attack.png",
-    "position_desc": 3,
-    "img_above_text": "Fungiman is armed with a giant staff and plenty of poisonous spores to surround you with. In addition to blunt attacks with the staff, make sure not to step on any of the poison gas on the floor. Making contact with the gas will start to poison you and eat away at your health. When casting Immobilize, wait until the ground is clear of poison so you can really lay it on him without worrying about getting poisoned at the same time.\n## Fungiman Spirit",
-    "img_below_text": "* **Whirl**\n* Equipped Effect: Moderately increases the recovery speed of Might.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Fungiman_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Fungiman is armed with a giant staff and plenty of poisonous spores to surround you with. In addition to blunt attacks with the staff, make sure not to step on any of the poison gas on the floor. Making contact with the gas will start to poison you and eat away at your health. When casting Immobilize, wait until the ground is clear of poison so you can really lay it on him without worrying about getting poisoned at the same time.\n## Fungiman Spirit\"\n            - Following Text: \"* **Whirl**\n* Equipped Effect: Moderately increases the recovery speed of Might.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Fungiman_attack.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image showcases the \"Fungiman\" Spirit in the Equipment menu of a game. It highlights its rarity, high Qi cost, and its ability \"Whirl,\" which allows the player to take the form of Fungiman and attack enemies with a spinning staff. The equipped effect moderately boosts the recovery speed of Might.  \n\n2. The image serves to provide detailed information about the Fungiman Spirit, its combat utility, and its passive benefits, aligning with the preceding text's description of its abilities and the following text's focus on its equipped effect."
+    "chunk_id": 488845153953,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg",
+    "alt_text": "Wukong Karma 7.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Karma 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Karma_6.jpg)\nOnce you reach the Valley of Ecstasy region, head along the main path through the Forest of Felicity and take a left down a slope to enter the Towers of Karma area. Search along the back of this sub-region to find the same Treasure Hunter freezing from the cold sitting in a large gnarled tree, left of the main Shrine in this area.",
+    "img_below_text": "Perform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\n![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Karma_6.jpg)\nOnce you reach the Valley of Ecstasy region, head along the main path through the Forest of Felicity and take a left down a slope to enter the Towers of Karma area. Search along the back of this sub-region to find the same Treasure Hunter freezing from the cold sitting in a large gnarled tree, left of the main Shrine in this area.\"\n        - Following Text: \"Perform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\n![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist uses the Circle of Fire Spell to warm up a Treasure Hunter sitting in the snow near a large gnarled tree. The setting is the Towers of Karma area, characterized by snowy terrain and Buddhist-inspired structures. The act of warming the Treasure Hunter progresses the narrative, as he provides clues about a secret Melon Field after being helped."
 }

@@ -1,32 +1,16 @@
 {
-    "chunk_id": 25021019673,
-    "source_file": "Black_Bear_Guai.md",
-    "h1_title": "Black Bear Guai",
-    "h2_title": "Black Bear Guai Boss Fight and Guide",
+    "chunk_id": 331815998476,
+    "source_file": "black-myth-wukong.md",
+    "h1_title": "Black Myth: Wukong Guide",
+    "h2_title": "",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg",
-    "alt_text": "Wukong BlackWind 32.jpg",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+    "alt_text": "WukongHeader.jpg",
     "position_desc": 0,
-    "img_above_text": "# Black Bear Guai\nThe Black Bear Guai is a required Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located at the very end of Chapter 1 at the top of Black Wind Mountain, this is the second of two forms you'll fight the self-imposed King. Now in the form of a giant bear, he'll harness the power of fire to try and burn you alive.\n* **Rewards:** Craving Eyes Relic, Flame Ebongold, Yarn x5, Silk x2, Spirit Stone x1, Yaoguai Core x1, Mind Core x1, 1641 Experience, 990 Will\n## Black Bear Guai Boss Fight and Guide\nInstead of a spear, the Black Wind King is now going for overwhelming size and power, and similar to the main boss of the Forest of Wolves, you’ll be up against a very large opponent with huge attack swings. To make matters worse, several parts of the arena are on fire and will absolutely start burning you if you roll into them for too long.",
+    "img_above_text": "# Black Myth: Wukong Guide",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Black_Bear_Guai.md', located under Black Bear Guai Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Black Bear Guai\n                - Section Title: Black Bear Guai Boss Fight and Guide\n                - Alt Text: Wukong BlackWind 32.jpg\n\n                Context:\n                - Preceding Text: \"# Black Bear Guai\nThe Black Bear Guai is a required Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located at the very end of Chapter 1 at the top of Black Wind Mountain, this is the second of two forms you'll fight the self-imposed King. Now in the form of a giant bear, he'll harness the power of fire to try and burn you alive.\n* **Rewards:** Craving Eyes Relic, Flame Ebongold, Yarn x5, Silk x2, Spirit Stone x1, Yaoguai Core x1, Mind Core x1, 1641 Experience, 990 Will\n## Black Bear Guai Boss Fight and Guide\nInstead of a spear, the Black Wind King is now going for overwhelming size and power, and similar to the main boss of the Forest of Wolves, you’ll be up against a very large opponent with huge attack swings. To make matters worse, several parts of the arena are on fire and will absolutely start burning you if you roll into them for too long.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the video game \"Black Myth Wukong,\" specifically during the boss fight against the Black Bear Guai, a giant bear with fire-based attacks. The setting is a fiery arena at the top of Black Wind Mountain, where the player character is engaged in combat with the massive bear. The image highlights the intense and dangerous nature of the battle, with flames visible in the background and the bear's menacing presence dominating the scene. This boss fight occurs at the end of Chapter 1 and is crucial for progressing in the game.",
-    "embedding_prompt": "This is an image from the file 'Black_Bear_Guai.md', This is the 0th image in the document, located in the main section titled 'Black Bear Guai'. The sub-section is titled 'Black Bear Guai Boss Fight and Guide', The preceding text of this image is: # Black Bear Guai\nThe Black Bear Guai is a required Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located at the very end of Chapter 1 at the top of Black Wind Mountain, this is the second of two forms you'll fight the self-imposed King. Now in the form of a giant bear, he'll harness the power of fire to try and burn you alive.\n* **Rewards:** Craving Eyes Relic, Flame Ebongold, Yarn x5, Silk x2, Spirit Stone x1, Yaoguai Core x1, Mind Core x1, 1641 Experience, 990 Will\n## Black Bear Guai Boss Fight and Guide\nInstead of a spear, the Black Wind King is now going for overwhelming size and power, and similar to the main boss of the Forest of Wolves, you’ll be up against a very large opponent with huge attack swings. To make matters worse, several parts of the arena are on fire and will absolutely start burning you if you roll into them for too long.,The following text of this image is: ,The summary of this picture is:The image depicts a scene from the video game \"Black Myth Wukong,\" specifically during the boss fight against the Black Bear Guai, a giant bear with fire-based attacks. The setting is a fiery arena at the top of Black Wind Mountain, where the player character is engaged in combat with the massive bear. The image highlights the intense and dangerous nature of the battle, with flames visible in the background and the bear's menacing presence dominating the scene. This boss fight occurs at the end of Chapter 1 and is crucial for progressing in the game."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Black Myth: Wukong Guide\n\n            Context:\n            - Preceding Text: \"# Black Myth: Wukong Guide\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image is a cover for a wiki guide on \"Black Myth: Wukong,\" featuring a character in elaborate, ornate armor. The guide is likely intended to provide detailed information and assistance related to the game \"Black Myth: Wukong.\"",
+    "embedding_prompt": "The image is a cover for a wiki guide on \"Black Myth: Wukong,\" featuring a character in elaborate, ornate armor. The guide is likely intended to provide detailed information and assistance related to the game \"Black Myth: Wukong.\"",
+    "generate_prompt": "This is an image from the file 'black-myth-wukong.md', This is the 0th image in the document, located in the main section titled 'Black Myth: Wukong Guide'. The preceding text of this image is: # Black Myth: Wukong Guide,The following text of this image is: ,The summary of this picture is:The image is a cover for a wiki guide on \"Black Myth: Wukong,\" featuring a character in elaborate, ornate armor. The guide is likely intended to provide detailed information and assistance related to the game \"Black Myth: Wukong.\""
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 301940804893,
-    "source_file": "Lang-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg",
-    "alt_text": "Wukong Felicity 5.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong Felicity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg)\nHis tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.",
-    "img_below_text": "He can also take a deep breath and bellow chilled air straight at you, which can make it tough to get out of his range unless you lock him down with Immobilize or Cloud Step away.\nAny time his icy attacks create a frost field, you'll need to evacuate quickly from the affected area, or you'll rapidly become chilled and eventually immobile while your stamina is sapped.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Lang-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Felicity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg)\nHis tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.\"\n            - Following Text: \"He can also take a deep breath and bellow chilled air straight at you, which can make it tough to get out of his range unless you lock him down with Immobilize or Cloud Step away.\nAny time his icy attacks create a frost field, you'll need to evacuate quickly from the affected area, or you'll rapidly become chilled and eventually immobile while your stamina is sapped.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the creature Lang-Li-Guhh-Lang. The player character is engaged in combat on a frosty terrain, facing the creature's icy attacks. The context highlights the creature's tongue-lashing attack that creates frost fields and hurls rocks, requiring the player to stay mobile. Additionally, the creature can exhale chilled air, necessitating strategic maneuvers like Immobilize or Cloud Step to escape its range. The image illustrates the challenging and dynamic nature of the encounter, emphasizing the need for quick reactions to avoid becoming immobilized by the frost fields."
+    "chunk_id": 927152700000,
+    "source_file": "Monk_from_the_Sea.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg",
+    "alt_text": "Wukong Thunderclap 24.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.",
+    "img_below_text": "Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg)\nIf he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\"\n        - Following Text: \"Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character standing near a defeated Yaoguai Chief in a snowy courtyard. The \"Pick Up\" prompt indicates the player can collect an item, likely the reward mentioned in the following text: Hoarfrost, which unlocks a new Transformation Spell to inflict frost damage on enemies. This scene appears to mark the conclusion of a battle and the acquisition of a significant gameplay upgrade."
 }

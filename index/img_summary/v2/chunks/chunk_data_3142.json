@@ -1,28 +1,11 @@
 {
-    "chunk_id": 20676787877,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Karma_8.jpg",
-    "alt_text": "Wukong Karma 8.jpg",
-    "position_desc": 81,
-    "img_above_text": "![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nWhen you cast the Ring of Fire Spell, the man will gratefully hop into the center, the Treasure Hunter will relay a story about a Melon Garden supposedly hidden nearby, and a chubby boy jumping from a cliff. Putting two and two together, you may realize he's talking about the cliff at the edge of the Brook of Bliss, where we found a cave below it. You can now head to this location, but you'll have to fight a very dangerous foe. It's well worth doing, as you'll gain a very important spell for doing so!",
-    "img_below_text": "Back at the Towers of Karma Shrine, look ahead to find a large series of statues carved into a wall with a new enemy standing in front of them. This fearsome foe is a Dual-Blade Monk, and has a lot of health and damaging moves (but thankfully won't respawn).\n![Wukong Karma 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Karma_9.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 81 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nWhen you cast the Ring of Fire Spell, the man will gratefully hop into the center, the Treasure Hunter will relay a story about a Melon Garden supposedly hidden nearby, and a chubby boy jumping from a cliff. Putting two and two together, you may realize he's talking about the cliff at the edge of the Brook of Bliss, where we found a cave below it. You can now head to this location, but you'll have to fight a very dangerous foe. It's well worth doing, as you'll gain a very important spell for doing so!\"\n            - Following Text: \"Back at the Towers of Karma Shrine, look ahead to find a large series of statues carved into a wall with a new enemy standing in front of them. This fearsome foe is a Dual-Blade Monk, and has a lot of health and damaging moves (but thankfully won't respawn).\n![Wukong Karma 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Karma_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Karma_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" where the protagonist is engaged in combat with a Dual-Blade Monk in front of a series of statues carved into a wall. The snowy environment and the detailed carvings suggest a significant location, likely the Towers of Karma Shrine. This encounter is crucial as it involves a formidable enemy with high health and damaging moves, adding a challenging aspect to the gameplay narrative."
+    "chunk_id": 518669291647,
+    "source_file": "Yellow_Wind_Sage.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
+    "alt_text": "Wukong Sandgate 62.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** Samahdi Wind Agate, Cold Iron Leaves x2, Refined Iron Sand x1, Silk x5, Yaoguai Core x2, Mind Core x1, 2583 Experience, 1944 Will\n## Where to Find the Yellow Wind Sage",
+    "img_below_text": "As the main objective of Chapter 2's Yellow Wind Ridge, you'll need to defeat the Yellow Wind Sage to put a stop to the chaos in this region. However, the sage has locked himself within the center of the Yellow Wind Formation area, and each door leading to him is locked requiring two Key Items.\nThe Sterness of Stone can be gained by defeating the Stone Vanguard in the Fright Cliff Region.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Rewards:** Samahdi Wind Agate, Cold Iron Leaves x2, Refined Iron Sand x1, Silk x5, Yaoguai Core x2, Mind Core x1, 2583 Experience, 1944 Will\n## Where to Find the Yellow Wind Sage\"\n        - Following Text: \"As the main objective of Chapter 2's Yellow Wind Ridge, you'll need to defeat the Yellow Wind Sage to put a stop to the chaos in this region. However, the sage has locked himself within the center of the Yellow Wind Formation area, and each door leading to him is locked requiring two Key Items.\nThe Sterness of Stone can be gained by defeating the Stone Vanguard in the Fright Cliff Region.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a player character stands before a locked door requiring two key items, \"Sterness of Stone\" and \"Keenness of Tiger,\" to proceed. This is part of the main objective in Chapter 2, where the player must defeat the Yellow Wind Sage, who is located within the Yellow Wind Formation area. The text indicates that one of the required items, \"Sterness of Stone,\" can be obtained by defeating the Stone Vanguard in the Fright Cliff Region."
 }

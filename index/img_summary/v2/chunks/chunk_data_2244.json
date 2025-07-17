@@ -1,28 +1,11 @@
 {
-    "chunk_id": 21249273699,
-    "source_file": "Old_Ginseng_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Old_Gensing_Guai_Location_3.png",
-    "alt_text": "Old Gensing Guai Location 3.png",
-    "position_desc": 2,
-    "img_above_text": "## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.",
-    "img_below_text": "## Old Ginseng Guai Fight\nThe Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Old_Ginseng_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Old Ginseng Guai Location\nYou can find Old Ginseng Guai in a clearing near the Towers of Karma Keeper's Shrine. From there, head left to find yourself in the small open area beneath a stone pagoda. The clearing is filled with Ginseng plants, but the one in the very center is the Old Ginseng Guai. Pluck the plant out of the frozen ground to draw the creature out.\"\n            - Following Text: \"## Old Ginseng Guai Fight\nThe Old Ginseng Guai battles similarly to the regular Ginseng enemies you will have faced throughout your adventure so far. In addition to the swipes and poison damage, however, the Old Ginseng Guai has one other unique move up his sleeve. At multiple points throughout the battle, Old Ginseng Guai will thrust his hands into the ground, spreading roots over the battlefield. When he pulls his arms back out, several other Ginsenling enemies will rise from the ground as well.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Old_Gensing_Guai_Location_3.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy forest clearing, likely the location where players can encounter the Old Ginseng Guai, as described in the preceding text. A character stands in the foreground, holding a glowing weapon, suggesting readiness for the upcoming battle against the Old Ginseng Guai. The setting is serene yet ominous, hinting at the challenging fight described in the following text, where the Old Ginseng Guai uses unique moves and summons additional enemies. This image sets the stage for the player's adventure and impending combat in the game."
+    "chunk_id": 937070798694,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg",
+    "alt_text": "Wukong Sandgate 38.jpg",
+    "position_desc": 36,
+    "img_above_text": "![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\nHeading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.",
+    "img_below_text": "Heading to the left of the lone shack, you’ll find a gate guarded by a Rat Governor and another Archer on the rooftops that connects to the one you climbed earlier. Defeat them to gain access to a large open field inside the Village’s main area. From across the field, a voice pleading to be freed calls out, but in your way is a large loping creature that will want to engage you first.\n### Yaoguai Chief Mini-Boss Fight - Earth Wolf",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\nHeading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.\"\n        - Following Text: \"Heading to the left of the lone shack, you’ll find a gate guarded by a Rat Governor and another Archer on the rooftops that connects to the one you climbed earlier. Defeat them to gain access to a large open field inside the Village’s main area. From across the field, a voice pleading to be freed calls out, but in your way is a large loping creature that will want to engage you first.\n### Yaoguai Chief Mini-Boss Fight - Earth Wolf\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game *Black Myth: Wukong*, showing the player character engaged in a battle near a wooden gate. The character wields a glowing staff and is mid-action, suggesting an intense fight. This moment aligns with the walkthrough's description of encountering enemies, such as the Rat Governor and an Archer, while progressing toward the Village’s main area. The setting features a rustic, overgrown environment with a focus on dynamic combat mechanics."
 }

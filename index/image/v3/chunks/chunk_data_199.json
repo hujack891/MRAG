@@ -1,32 +1,16 @@
 {
-    "chunk_id": 953416477883,
+    "chunk_id": 73405538545,
     "source_file": "Forest_of_Wolves_Walkthrough.md",
     "h1_title": "Prologue",
-    "h2_title": "Boss Fight - Erlang, the Sacred Divinity",
+    "h2_title": "",
     "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Prologue_6.jpg",
-    "alt_text": "Wukong Prologue 6.jpg",
-    "position_desc": 5,
-    "img_above_text": "# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nWhen Erlang falls to less than half health, another small scene will  out before the final bout, and Erlang will start invoking more of his divinity to blast you with projectiles. Since you can’t really take lasting damage, you can simply try dodging around, or hold the L2 button to deflect them.",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Prologue_1.jpg",
+    "alt_text": "Wukong Prologue 1.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Prologue",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 5 from the file 'Forest_of_Wolves_Walkthrough.md', located under Boss Fight - Erlang, the Sacred Divinity.\n\n                Metadata:\n                - Document Title: Prologue\n                - Section Title: Boss Fight - Erlang, the Sacred Divinity\n                - Alt Text: Wukong Prologue 6.jpg\n\n                Context:\n                - Preceding Text: \"# Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nWhen Erlang falls to less than half health, another small scene will  out before the final bout, and Erlang will start invoking more of his divinity to blast you with projectiles. Since you can’t really take lasting damage, you can simply try dodging around, or hold the L2 button to deflect them.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Prologue_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the \"Boss Fight - Erlang, the Sacred Divinity\" section of the document titled \"Prologue.\" It shows multiple warriors, likely including the character Erlang, engaged in a fierce battle amid a stormy, lightning-filled environment. The visual intensity suggests that this moment occurs when Erlang is invoking his divinity to unleash powerful projectiles, as described in the preceding text. This image serves to illustrate the heightened action and challenge faced by the player during this critical phase of the boss fight.",
-    "embedding_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 5th image in the document, located in the main section titled 'Prologue'. The sub-section is titled 'Boss Fight - Erlang, the Sacred Divinity', The preceding text of this image is: # Prologue\n## Boss Fight - Erlang, the Sacred Divinity\n\nWhen Erlang falls to less than half health, another small scene will  out before the final bout, and Erlang will start invoking more of his divinity to blast you with projectiles. Since you can’t really take lasting damage, you can simply try dodging around, or hold the L2 button to deflect them.,The following text of this image is: ,The summary of this picture is:The image depicts a dramatic scene from the \"Boss Fight - Erlang, the Sacred Divinity\" section of the document titled \"Prologue.\" It shows multiple warriors, likely including the character Erlang, engaged in a fierce battle amid a stormy, lightning-filled environment. The visual intensity suggests that this moment occurs when Erlang is invoking his divinity to unleash powerful projectiles, as described in the preceding text. This image serves to illustrate the heightened action and challenge faced by the player during this critical phase of the boss fight."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Prologue\n\n            Context:\n            - Preceding Text: \"# Prologue\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a lone warrior facing three colossal, armored figures in a misty, ethereal landscape. The warrior is poised with a long staff, suggesting readiness for confrontation or a significant challenge. The preceding text \"# Prologue\" indicates that this scene sets the stage for the narrative, introducing a pivotal moment or conflict that will unfold in the story. The document title \"Prologue\" reinforces the idea that this image serves as an introductory visual to the broader tale.",
+    "embedding_prompt": "The image depicts a lone warrior facing three colossal, armored figures in a misty, ethereal landscape. The warrior is poised with a long staff, suggesting readiness for confrontation or a significant challenge. The preceding text \"# Prologue\" indicates that this scene sets the stage for the narrative, introducing a pivotal moment or conflict that will unfold in the story. The document title \"Prologue\" reinforces the idea that this image serves as an introductory visual to the broader tale.",
+    "generate_prompt": "This is an image from the file 'Forest_of_Wolves_Walkthrough.md', This is the 0th image in the document, located in the main section titled 'Prologue'. The preceding text of this image is: # Prologue,The following text of this image is: ,The summary of this picture is:The image depicts a lone warrior facing three colossal, armored figures in a misty, ethereal landscape. The warrior is poised with a long staff, suggesting readiness for confrontation or a significant challenge. The preceding text \"# Prologue\" indicates that this scene sets the stage for the narrative, introducing a pivotal moment or conflict that will unfold in the story. The document title \"Prologue\" reinforces the idea that this image serves as an introductory visual to the broader tale."
 }

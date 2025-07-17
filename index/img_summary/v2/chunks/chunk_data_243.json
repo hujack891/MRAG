@@ -1,28 +1,11 @@
 {
-    "chunk_id": 717176599402,
-    "source_file": "black-myth-wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
-    "alt_text": "WukongHeader.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Black Myth: Wukong Guide",
-    "img_below_text": "**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Black Myth: Wukong Guide\"\n            - Following Text: \"**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image serves as the title card for a \"Black Myth: Wukong\" guide, showcasing the game's protagonist in ornate armor. It introduces the guide and sets the tone for the detailed information about the game, including its release date and platform availability."
+    "chunk_id": 73845948955,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_BlackWind_39.jpg",
+    "alt_text": "Wukong BlackWind 39.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong BlackWind 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_34.jpg)\nOne of the more easy attacks to punish will have him gallop around to your side before leaping into the air for a big diving attack. It will take him a few moments to get up off the ground and back into his neutral stance, which is a great time to use the Wight’s Spirit Attack to headbutt him for massive damage.",
+    "img_below_text": "For most of this fight, your key strategy should involve picking your moments to attack wisely, waiting for his bigger slams that take him a while to get back up and unleash your combo attacks.\n![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_34.jpg)\nOne of the more easy attacks to punish will have him gallop around to your side before leaping into the air for a big diving attack. It will take him a few moments to get up off the ground and back into his neutral stance, which is a great time to use the Wight’s Spirit Attack to headbutt him for massive damage.\"\n        - Following Text: \"For most of this fight, your key strategy should involve picking your moments to attack wisely, waiting for his bigger slams that take him a while to get back up and unleash your combo attacks.\n![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense moment from a boss fight in *Black Myth: Wukong*, showcasing the player character engaging in combat with the \"Black Bear Guai\" boss. The scene highlights the boss's dynamic attack patterns, with the surrounding environment showing signs of destruction and fire. This visual accompanies the guide's advice on exploiting the boss's recovery time after its heavy attacks to deal significant damage."
 }

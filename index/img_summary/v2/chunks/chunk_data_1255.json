@@ -1,28 +1,11 @@
 {
-    "chunk_id": 10941587849,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Fright_17.jpg",
-    "alt_text": "Wukong Fright 17.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Wukong Fright 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Fright_16.jpg)\nReturning back down the slope, you’ll find a small crevice cutting through the area, with ruins above on the right. Stick to these ruins for the moment so you don’t get ambushed by ranged attackers when exploring the crevice.",
-    "img_below_text": "Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Fright_16.jpg)\nReturning back down the slope, you’ll find a small crevice cutting through the area, with ruins above on the right. Stick to these ruins for the moment so you don’t get ambushed by ranged attackers when exploring the crevice.\"\n            - Following Text: \"Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Fright_17.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character in *Black Myth: Wukong* approaching a yellow chest near a ruined structure in a rocky, desolate environment. The chest is likely a lootable object containing valuable items, as indicated by the following text mentioning rewards like **Yaoguai Core** and **Tiny Piece of Gold**.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate a key moment in the walkthrough where the player is encouraged to explore a ruined area to find hidden treasures. The chest shown in the image is highlighted as a significant reward, reinforcing the importance of thorough exploration in the game."
+    "chunk_id": 874959915618,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Furnace_Valley_Walkthrough_%28103%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(103\\).png",
+    "position_desc": 44,
+    "img_above_text": "![Furnace Valley Walkthrough \\(102\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Furnace_Valley_Walkthrough_%28102%29.png)\nExit the temple and stick to the lava path on the left. Take out the two giants (the Sea Rakshasa) by aiming for their ankles and knocking them down. Behind the first one, you'll find green Wisps to collect. Meanwhile, for defeating the second one, you'll be rewarded with the Golden Button curio.",
+    "img_below_text": "Return to the stairs where you first left to see the old man. Cross the covered bridge in the center, then take out the bull guard and master by the stairs on the left. Head up here, and activate the next Keeper's Shrine.\n![Furnace Valley Walkthrough \\(104\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Furnace_Valley_Walkthrough_%28104%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Furnace Valley Walkthrough \\(102\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Furnace_Valley_Walkthrough_%28102%29.png)\nExit the temple and stick to the lava path on the left. Take out the two giants (the Sea Rakshasa) by aiming for their ankles and knocking them down. Behind the first one, you'll find green Wisps to collect. Meanwhile, for defeating the second one, you'll be rewarded with the Golden Button curio.\"\n        - Following Text: \"Return to the stairs where you first left to see the old man. Cross the covered bridge in the center, then take out the bull guard and master by the stairs on the left. Head up here, and activate the next Keeper's Shrine.\n![Furnace Valley Walkthrough \\(104\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Furnace_Valley_Walkthrough_%28104%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a temple structure with a staircase marked by a red arrow, indicating the next path to follow in the \"Furnace Valley\" area of the game *Black Myth: Wukong*. The preceding text describes exiting the temple and battling two giants along a lava path, while the following text instructs players to return to the stairs and proceed across a covered bridge to continue the walkthrough. The image serves as a visual guide to direct players back to the stairs for the next stage of progression."
 }

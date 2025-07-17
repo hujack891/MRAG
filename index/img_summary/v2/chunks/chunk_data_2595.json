@@ -1,28 +1,11 @@
 {
-    "chunk_id": 862686046572,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_Secrets_.png",
-    "alt_text": "Wukong Secrets .png",
-    "position_desc": 25,
-    "img_above_text": "When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top",
-    "img_below_text": "Once you've entered Bishui Cave, you can find the first of the two bosses just after the Purge Pit Keeper's Shrine.\n## Bishui Cave - Bishui Golden-Eyed Beast",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top\"\n            - Following Text: \"Once you've entered Bishui Cave, you can find the first of the two bosses just after the Purge Pit Keeper's Shrine.\n## Bishui Cave - Bishui Golden-Eyed Beast\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_Secrets_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, ominous cave environment with two characters, likely enemies, poised for battle. The characters are equipped with large, circular shields and appear to be in a defensive stance. This scene is likely from the game \"Black Myth: Wukong\" and is set in the Bishui Cave, a significant location in the game. The image serves to illustrate the challenging encounters players will face within the Bishui Cave, specifically highlighting the presence of formidable frog bosses and the intense atmosphere of the cave."
+    "chunk_id": 218629007471,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg",
+    "alt_text": "Wukong Wight 1.jpg",
+    "position_desc": 17,
+    "img_above_text": "Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.",
+    "img_below_text": "Note that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.\"\n        - Following Text: \"Note that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game combat encounter from *Black Myth: Wukong*, showing the player character battling a large enemy named \"Wandering Wight\" in a forested environment. The preceding and following text discuss the mechanics of heavy attacks, including their damage potential, focus point usage, and stance-specific benefits, such as the Smash Stance's effectiveness for single-target damage. This image likely serves to illustrate the gameplay mechanics described, showcasing a practical application of combat strategies against a formidable foe."
 }

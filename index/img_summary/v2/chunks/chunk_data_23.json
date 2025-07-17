@@ -1,28 +1,11 @@
 {
-    "chunk_id": 308199598965,
+    "chunk_id": 340413183267,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Monkey_Shop.jpg",
     "alt_text": "Monkey Shop.jpg",
     "position_desc": 2,
     "img_above_text": "## Marsh of the White Mist Awaken Wine Worms\nMarsh of the White Mist Awaken Wine Worms",
     "img_below_text": "Once you reach Chapter 3, you can revisit the Monkey at his cave in the Marsh of the White Mist and purchase more Awaken Wine Worms from him.\n## Yellow Wind Ridge Awaken Wine Worm",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Marsh of the White Mist Awaken Wine Worms\nMarsh of the White Mist Awaken Wine Worms\"\n            - Following Text: \"Once you reach Chapter 3, you can revisit the Monkey at his cave in the Marsh of the White Mist and purchase more Awaken Wine Worms from him.\n## Yellow Wind Ridge Awaken Wine Worm\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Monkey_Shop.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a character, likely the player, is interacting with a monkey NPC in a cave setting. This interaction occurs in the Marsh of the White Mist, a location where players can acquire Awaken Wine Worms, an in-game item. The setting is atmospheric, with a large stone carving visible in the background, suggesting a mystical or ancient environment. The image serves to illustrate the in-game interaction and the location where players can purchase the item from the monkey character."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Marsh of the White Mist Awaken Wine Worms\nMarsh of the White Mist Awaken Wine Worms\"\n        - Following Text: \"Once you reach Chapter 3, you can revisit the Monkey at his cave in the Marsh of the White Mist and purchase more Awaken Wine Worms from him.\n## Yellow Wind Ridge Awaken Wine Worm\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character is interacting with a monkey-like figure in a cave setting. This interaction likely involves purchasing or acquiring \"Awaken Wine Worms\" from the monkey, as suggested by the context of revisiting the character in the Marsh of the White Mist during Chapter 3. The setting is atmospheric, with barrels and a small fire, indicating a trading or quest-related location."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 215078869013,
-    "source_file": "How_to_Increase_Gourd_Uses_and_Healing_Amount.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Shen2.jpg",
-    "alt_text": "Wukong Shen2.jpg",
-    "position_desc": 5,
-    "img_above_text": "Follow the Shen Monkey into the cave after this, and speak to him. You’ll now have the option appear to Upgrade Gourds, Upgrade Drinks, and Brew. Whenever you want to upgrade your Gourd or the drink you’re using, you’ll need to return to the Shen Monkey.\n## How to Upgrade Gourds",
-    "img_below_text": "Now that you have access to the Upgrade Gourds menu, you’ll be able to increase the number of uses. To do this, you’ll need to collect Luojia Fragrant Vine. Using these will not upgrade all your Gourds; you’ll need to improve each one individually.\nLooking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'How_to_Increase_Gourd_Uses_and_Healing_Amount.md'.\n\n            Context:\n            - Preceding Text: \"Follow the Shen Monkey into the cave after this, and speak to him. You’ll now have the option appear to Upgrade Gourds, Upgrade Drinks, and Brew. Whenever you want to upgrade your Gourd or the drink you’re using, you’ll need to return to the Shen Monkey.\n## How to Upgrade Gourds\"\n            - Following Text: \"Now that you have access to the Upgrade Gourds menu, you’ll be able to increase the number of uses. To do this, you’ll need to collect Luojia Fragrant Vine. Using these will not upgrade all your Gourds; you’ll need to improve each one individually.\nLooking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Shen2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a mystical tree adorned with glowing orange vines, likely representing Luojia Fragrant Vine, a key item required to upgrade Gourds in the game. The setting appears to be a cave or secluded area, emphasizing its importance as a resource location for enhancing healing items.\n\n2. **Purpose and Narrative Role**:  \nThe image serves to visually identify Luojia Fragrant Vine, which players must collect to increase the uses of their Gourds individually. It complements the guide's instructions on upgrading Gourds and hints at the exploration required to find these vines in specific locations."
+    "chunk_id": 693269990442,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg",
+    "alt_text": "Wukong Snowhill 44.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Snowhill 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Snowhill_43.jpg)\nUsing the Pillar Stance is a great bet for this fight since you'll have both increased height and range on your strikes even if your lock-on isn't on the exact right spot that might cause your Thrust Stance to miss. Hit them hard enough with a few Focus Points banked, and you can often send her staggering to the ground.",
+    "img_below_text": "Any time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\n![Wukong Snowhill 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Snowhill_43.jpg)\nUsing the Pillar Stance is a great bet for this fight since you'll have both increased height and range on your strikes even if your lock-on isn't on the exact right spot that might cause your Thrust Stance to miss. Hit them hard enough with a few Focus Points banked, and you can often send her staggering to the ground.\"\n        - Following Text: \"Any time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\n![Wukong Snowhill 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a character engaged in a battle against a dragon in a snowy landscape. The character appears to be using various abilities and items, such as \"Immobilize\" and \"Spirit Attacks,\" to gain an advantage in the fight. The context provided suggests that the player should capitalize on moments when the dragon is knocked to the ground to deal maximum damage and keep it immobilized for as long as possible."
 }

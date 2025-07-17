@@ -1,28 +1,11 @@
 {
-    "chunk_id": 815575442639,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg",
-    "alt_text": "Wukong Sandgate 36.jpg",
-    "position_desc": 34,
-    "img_above_text": "![Wukong Sandgate 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg)\nHead up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.",
-    "img_below_text": "At the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.\n![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 34 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Sandgate_35.jpg)\nHead up the hill checking the houses. One has a Rat Soldier waiting to ambush you in the back, as well as another green Wisp inside. Higher up past where the Rat Archers were is a larger and open building with some Licorice.\"\n            - Following Text: \"At the top of the hill is one last shack, where you’ll find a big chest holding a **Blood of the Iron Bull** , 1 **Small Piece of Gold** , and 4 **Tiny Piece of Gold**. Plus, if you circle around the back, you can harvest a Fragrant Jade Flower.\n![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a game walkthrough where the player character is approaching a structure, likely on a quest or exploration mission. The context suggests that this is part of the Sandgate Village walkthrough, where players are advised to be cautious of ambushes by enemies such as Rat Soldiers and to explore for items like green Wisps and Licorice. The narrative role of this image is to guide players through the area, highlighting potential threats and rewards as they progress up the hill towards the final shack containing valuable items."
+    "chunk_id": 862527793166,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_YellowFlower_63.jpg",
+    "alt_text": "Wukong YellowFlower 63.jpg",
+    "position_desc": 60,
+    "img_above_text": "![Wukong YellowFlower 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_YellowFlower_62.jpg)\nIf he tries to shoot out various wing-tip projectiles at you, don't panic and just use your staff spin to knock them all aside.",
+    "img_below_text": "Once the battle comes to a conclusion, a Heron Noble will intervene, calling his attack... hand, off. He'll reprimand you (or Wukong) for your foolish acts, and despite destroying the altars, it seems they are set on keeping the Spider Sister who has been helping you from breaking free of her life in the Webbed Hollow.\nThat's all you can do with him for now, but at the very least, you can now approach the table behind where the purple talisman altar was placed to find a **Celestial Nonary Pill** , increasing your stamina by a bit more!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_YellowFlower_62.jpg)\nIf he tries to shoot out various wing-tip projectiles at you, don't panic and just use your staff spin to knock them all aside.\"\n        - Following Text: \"Once the battle comes to a conclusion, a Heron Noble will intervene, calling his attack... hand, off. He'll reprimand you (or Wukong) for your foolish acts, and despite destroying the altars, it seems they are set on keeping the Spider Sister who has been helping you from breaking free of her life in the Webbed Hollow.\nThat's all you can do with him for now, but at the very least, you can now approach the table behind where the purple talisman altar was placed to find a **Celestial Nonary Pill** , increasing your stamina by a bit more!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, featuring a Heron Noble character overlooking Wukong from a rooftop. The Heron Noble, dressed in a golden robe, appears to be reprimanding Wukong, as indicated by the text: \"Foul monkey. No matter how many times you reincarnate, you're still blind to the ways of this world.\" This moment ties into the narrative where the Heron Noble intervenes after a battle, expressing disdain for Wukong's actions and reinforcing the game's themes of conflict and moral consequence."
 }

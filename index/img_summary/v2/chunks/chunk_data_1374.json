@@ -1,28 +1,11 @@
 {
-    "chunk_id": 990328778012,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(80\\).png",
-    "position_desc": 35,
-    "img_above_text": "![Furnace Valley Walkthrough \\(70\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Furnace_Valley_Walkthrough_%2870%29.png)\nHead back the other way and toward the steps. Before you go up them, you'll want to explore the lava on either side.",
-    "img_below_text": "Go left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.\n![Furnace Valley Walkthrough \\(72\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Furnace_Valley_Walkthrough_%2872%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(70\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Furnace_Valley_Walkthrough_%2870%29.png)\nHead back the other way and toward the steps. Before you go up them, you'll want to explore the lava on either side.\"\n            - Following Text: \"Go left first and tackle the Bull Soldier, then look underneath the first curved portion of the bridge to absorb a green Wisp.\n![Furnace Valley Walkthrough \\(72\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Furnace_Valley_Walkthrough_%2872%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image shows a player character in \"Black Myth: Wukong\" traversing a lava-filled area beneath a curved bridge. A glowing green Wisp, marked with a red circle, is visible under the bridge, indicating an interactable or collectible item.\n\n2. **Purpose/Narrative Role**: This image highlights the exploration of the lava area mentioned in the preceding text. It visually guides the player to notice and collect the green Wisp located underneath the bridge, as referenced in the following text."
+    "chunk_id": 467937730162,
+    "source_file": "How_to_Defeat_the_Stone_Vanguard_With_Another_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+    "alt_text": "Wukong Shigandang 1.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)\nStick to the left side, and you'll find an archway leading into a large field with floating stones that become the Stone Vanguard Yaoguai King boss. However, you may also notice a large rock on the left as you enter.",
+    "img_below_text": "If you try interacting with it early, you'll find an inscription about how this rock is actually the Shigandang Yaoguai King Boss, sealed away with six items of divinity, which you can use to release him.\n## How to Summon the Shigandang Boss",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)\nStick to the left side, and you'll find an archway leading into a large field with floating stones that become the Stone Vanguard Yaoguai King boss. However, you may also notice a large rock on the left as you enter.\"\n        - Following Text: \"If you try interacting with it early, you'll find an inscription about how this rock is actually the Shigandang Yaoguai King Boss, sealed away with six items of divinity, which you can use to release him.\n## How to Summon the Shigandang Boss\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a large rock formation with humanoid faces embedded in it, which is identified as the Shigandang Yaoguai King Boss in the game. A character, likely the player, stands in front of the rock with an interaction prompt (\"RT Deliver\") visible, suggesting the option to interact with or activate the object. The rock is described as being sealed with six divine items, which are required to release the boss."
 }

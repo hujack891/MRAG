@@ -1,28 +1,11 @@
 {
-    "chunk_id": 339011796836,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Pagoda_72.jpg",
-    "alt_text": "Wukong Pagoda 72.jpg",
-    "position_desc": 69,
-    "img_above_text": "![Wukong Pagoda 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_71.jpg)\nHis most dangerous attack is a repeated spinning divebomb attack he can perform repeatedly to dash at you from all angles. Once you get the timing down, a Rock Solid deflection can stop him cold, or you can Cloud Step to the side and retaliate as he flies past.",
-    "img_below_text": "Once defeated, look to the right past where he appeared to find a broken walkway with several rock platforms you can carefully drop down to find the other side of the pagoda's Level 4 walkway.\n![Wukong Pagoda 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Pagoda_73.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 69 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_71.jpg)\nHis most dangerous attack is a repeated spinning divebomb attack he can perform repeatedly to dash at you from all angles. Once you get the timing down, a Rock Solid deflection can stop him cold, or you can Cloud Step to the side and retaliate as he flies past.\"\n            - Following Text: \"Once defeated, look to the right past where he appeared to find a broken walkway with several rock platforms you can carefully drop down to find the other side of the pagoda's Level 4 walkway.\n![Wukong Pagoda 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Pagoda_73.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Pagoda_72.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist, Wukong, standing on a snowy ledge. This image follows a description of a challenging enemy encounter involving a spinning divebomb attack and precedes instructions on navigating to a broken walkway with rock platforms. The image likely serves to illustrate the aftermath of defeating the enemy and the next steps in the player's progression through the pagoda's Level 4 walkway."
+    "chunk_id": 848870743357,
+    "source_file": "Skandha_of_Thought.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
+    "alt_text": "Wukong Mindcliff 9.jpg",
+    "position_desc": 1,
+    "img_above_text": "_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.",
+    "img_below_text": "Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.\"\n        - Following Text: \"Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing on a snowy cliff near a large Buddha head statue. A glowing green item, likely the \"Skandha of Thought,\" is highlighted in the distance, marked by a red circle. The image serves as a visual guide to help players locate the treasure within the Valley of Ecstasy, specifically at Mindfulness Cliff."
 }

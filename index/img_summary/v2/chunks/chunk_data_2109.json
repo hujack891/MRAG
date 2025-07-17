@@ -1,28 +1,11 @@
 {
-    "chunk_id": 452976503252,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Thunderclap_63.jpg",
-    "alt_text": "Wukong Thunderclap 63.jpg",
-    "position_desc": 65,
-    "img_above_text": "![Wukong Thunderclap 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Thunderclap_67.jpg)\nIf you try attacking him when his glove is powered up two many times, he'll eventually retaliate with a counterattack, stunning you for a moment and then unleashing a spin attack that you may not be able to evade in time.",
-    "img_below_text": "One of Non-Pure's most common attacks will be jogging up to you before thrusting his spade forward. A moment later, he'll perform a flourish as he twirls his body so that the weapon's shaft rests on his shoulder, and then spin his body quickly to perform a follow-up horizontal slice.\n![Wukong Thunderclap 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_65.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 65 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Thunderclap_67.jpg)\nIf you try attacking him when his glove is powered up two many times, he'll eventually retaliate with a counterattack, stunning you for a moment and then unleashing a spin attack that you may not be able to evade in time.\"\n            - Following Text: \"One of Non-Pure's most common attacks will be jogging up to you before thrusting his spade forward. A moment later, he'll perform a flourish as he twirls his body so that the weapon's shaft rests on his shoulder, and then spin his body quickly to perform a follow-up horizontal slice.\n![Wukong Thunderclap 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_65.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Thunderclap_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" featuring a character named Non-Pure in mid-attack. The preceding text describes a counterattack mechanism where the enemy retaliates after being attacked multiple times, while the following text details one of Non-Pure's common attack patterns involving a spade thrust followed by a spinning horizontal slice. The image serves to illustrate the intense and dynamic combat mechanics players will encounter in the game."
+    "chunk_id": 21518770954,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg",
+    "alt_text": "Wukong Pagoda 99.jpg",
+    "position_desc": 95,
+    "img_above_text": "![Wukong Pagoda 98.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg)\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.",
+    "img_below_text": "After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 98.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg)\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.\"\n        - Following Text: \"After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the player character approaching a Meditation Spot located by a small tree at the base of frozen falls. This spot grants the player a free Spark Skill Point after defeating a tentacled enemy."
 }

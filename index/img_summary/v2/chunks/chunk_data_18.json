@@ -1,28 +1,11 @@
 {
-    "chunk_id": 118619172502,
+    "chunk_id": 117454751986,
     "source_file": "Ashen_Slumber.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Black-myth-wukong-ashen-slumber-3.jpg",
     "alt_text": "Black-myth-wukong-ashen-slumber-3.jpg",
     "position_desc": 3,
     "img_above_text": "![Black-myth-wukong-ashen-slumber-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Black-myth-wukong-ashen-slumber-2.jpg)\n* **Spell: Fiery Burst - Upon self-detonation, deals area damage triggers de-transform.** This is a manual de-transform attack that can be activated to have Ashen Slumber blow up.",
     "img_below_text": "## Black Myth: Wukong Ashen Slumber Location\nThe Ashen Slumber spell can be found in the first cell within the Pagoda Realm, near the Lower Pagoda Shrine in The New West. However, you will need to interact with the hut in Sandgate Village - Village Entrance, just next to the entrance to the Valley of Despair Shrine area. Its on the first incline up the hill by that large door to the Shrine area.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Ashen_Slumber.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-ashen-slumber-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Black-myth-wukong-ashen-slumber-2.jpg)\n* **Spell: Fiery Burst - Upon self-detonation, deals area damage triggers de-transform.** This is a manual de-transform attack that can be activated to have Ashen Slumber blow up.\"\n            - Following Text: \"## Black Myth: Wukong Ashen Slumber Location\nThe Ashen Slumber spell can be found in the first cell within the Pagoda Realm, near the Lower Pagoda Shrine in The New West. However, you will need to interact with the hut in Sandgate Village - Village Entrance, just next to the entrance to the Valley of Despair Shrine area. Its on the first incline up the hill by that large door to the Shrine area.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Black-myth-wukong-ashen-slumber-3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a fiery transformation of a character in *Black Myth: Wukong*, showcasing the \"Fiery Burst\" spell. The character, engulfed in flames, appears to be activating the spell, which involves self-detonation to deal area damage and trigger a de-transformation. The game's interface highlights the spell's mechanics, including light and heavy attacks.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual demonstration of the \"Fiery Burst\" spell in action, emphasizing its destructive power and strategic use in combat. It complements the preceding text, which explains the spell's functionality, and the following text, which provides details on where to find the spell in the game."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-ashen-slumber-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Black-myth-wukong-ashen-slumber-2.jpg)\n* **Spell: Fiery Burst - Upon self-detonation, deals area damage triggers de-transform.** This is a manual de-transform attack that can be activated to have Ashen Slumber blow up.\"\n        - Following Text: \"## Black Myth: Wukong Ashen Slumber Location\nThe Ashen Slumber spell can be found in the first cell within the Pagoda Realm, near the Lower Pagoda Shrine in The New West. However, you will need to interact with the hut in Sandgate Village - Village Entrance, just next to the entrance to the Valley of Despair Shrine area. Its on the first incline up the hill by that large door to the Shrine area.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases gameplay from *Black Myth: Wukong*, highlighting the \"Ashen Slumber\" transformation. The character, engulfed in flames, is preparing to use the \"Fiery Burst\" spell, which deals area damage and triggers de-transformation. The left side of the screen displays controls for light and heavy attacks, as well as the activation of the \"Fiery Burst\" spell. This visual serves as a demonstration of the spell's mechanics and its fiery self-detonation effect."
 }

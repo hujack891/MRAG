@@ -1,28 +1,11 @@
 {
-    "chunk_id": 342621373507,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_MiddleHollow_58.jpg",
-    "alt_text": "Wukong MiddleHollow 58.jpg",
-    "position_desc": 6,
-    "img_above_text": "Thankfully, there's ample opportunities to attack the hand after many of its attacks, but the fun is only just beginning.\nAfter you get the Buddha's Right Hand to around half of its health it will retreat, and you'll finally meet the owner of the hand.",
-    "img_below_text": "The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"Thankfully, there's ample opportunities to attack the hand after many of its attacks, but the fun is only just beginning.\nAfter you get the Buddha's Right Hand to around half of its health it will retreat, and you'll finally meet the owner of the hand.\"\n            - Following Text: \"The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_MiddleHollow_58.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss battle against \"Buddha's Right Hand\" in a dark, narrow arena. The player is engaged in combat, with the health bar for the hand visible at the bottom of the screen. The environment is ominous, featuring rocky walls, glowing fire, and greenish poison on the ground, foreshadowing the upcoming phase where a larger, terrifying creature will emerge and spew poison.\n\n2. **Narrative Role**:  \nThis image captures the climactic moment before the battle transitions. After reducing the hand's health to half, the hand retreats, revealing its monstrous owner. The scene sets up the next challenge, where the player must navigate poison-filled attacks in a confined space, requiring strategic movement and positioning."
+    "chunk_id": 651466231761,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_32.jpg",
+    "alt_text": "Wukong Pagoda 32.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Pagoda 30X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Pagoda_30X.jpg)\nOne of four Captains of the Pagoda Realm, Captain Lotus-Vision is responsible for sealing many of the prison cells, and must be defeated before you can unlock them. He is a strange Yaoguai Chief, and doesn't really have any melee attacks to speak of, instead opting for a series of projectiles and lasers to attack you with. With that in mind, it's highly recommended that you equip the Cloud Step Spell over Rock Solid for help evading some of his attacks.",
+    "img_below_text": "You'll find find Captain Lotus-Vision in front of a large group of kneeling corpses, which he can randomly imbue with magic to create a Withered Corpse that will come to life and attack you. These are nothing more than a distraction, but should still be dealt with immediately so they don't hamstring you later.\nLuckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 30X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Pagoda_30X.jpg)\nOne of four Captains of the Pagoda Realm, Captain Lotus-Vision is responsible for sealing many of the prison cells, and must be defeated before you can unlock them. He is a strange Yaoguai Chief, and doesn't really have any melee attacks to speak of, instead opting for a series of projectiles and lasers to attack you with. With that in mind, it's highly recommended that you equip the Cloud Step Spell over Rock Solid for help evading some of his attacks.\"\n        - Following Text: \"You'll find find Captain Lotus-Vision in front of a large group of kneeling corpses, which he can randomly imbue with magic to create a Withered Corpse that will come to life and attack you. These are nothing more than a distraction, but should still be dealt with immediately so they don't hamstring you later.\nLuckily, he'll get rid of all the corpses later in the fight, and they won't respawn for future attempts.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle against Captain Lotus-Vision in *Black Myth: Wukong*. The scene is set in a dark, atmospheric environment with detailed statues in the background. Captain Lotus-Vision, a floating enemy wielding purple magic, is surrounded by kneeling corpses, some of which he can imbue with magic to create Withered Corpses that attack the player. The player character is engaged in combat, with visible health and spell icons indicating gameplay mechanics. This encounter is part of the progression to unlock prison cells in the Pagoda Realm."
 }

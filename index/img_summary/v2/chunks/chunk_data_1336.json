@@ -1,28 +1,11 @@
 {
-    "chunk_id": 951367847420,
-    "source_file": "Fungiwoman.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_YellowFlower_42.jpg",
-    "alt_text": "Wukong YellowFlower 42.jpg",
-    "position_desc": 4,
-    "img_above_text": "For all their extra health, they don't have too many more moves than a regular enemy, so keep on the offensive so they don't have a chance to sprout more spore projectiles, using Immobilize to lock them down and Rock Solid when they try to swipe at you with their staff.\nOnce defeated, you'll gain a Knot of Voidness, and a Monkey-Head Fungus Seed to take back to the Zodiac Village, as well as their Fungiwoman Spirit to absorb.",
-    "img_below_text": "Be sure to check the shack on the far end before leaving, as you'll find the **Sunset of the Nine Skies Drink** sittng on a table, which will restore Qi as well as health!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Fungiwoman.md'.\n\n            Context:\n            - Preceding Text: \"For all their extra health, they don't have too many more moves than a regular enemy, so keep on the offensive so they don't have a chance to sprout more spore projectiles, using Immobilize to lock them down and Rock Solid when they try to swipe at you with their staff.\nOnce defeated, you'll gain a Knot of Voidness, and a Monkey-Head Fungus Seed to take back to the Zodiac Village, as well as their Fungiwoman Spirit to absorb.\"\n            - Following Text: \"Be sure to check the shack on the far end before leaving, as you'll find the **Sunset of the Nine Skies Drink** sittng on a table, which will restore Qi as well as health!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_YellowFlower_42.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character crouched near a shack in a game environment, wielding a fiery staff. The player appears to be exploring or preparing for action, with a glowing item highlighted on a table inside the shack. The interface shows \"Will x40,\" suggesting resource collection or interaction. The scene aligns with the context of finding the **Sunset of the Nine Skies Drink**, a valuable item that restores Qi and health.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image likely represents the moment before or during the acquisition of the **Sunset of the Nine Skies Drink**, a key item mentioned in the following text. The player is exploring the area after defeating the Fungiwoman and collecting rewards, emphasizing the importance of thorough exploration to uncover useful resources."
+    "chunk_id": 970230888010,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Martial_2.jpg",
+    "alt_text": "Wukong Martial 2.jpg",
+    "position_desc": 8,
+    "img_above_text": "## Green-Capped Martialist Boss Fight and Guide\nThe strange Green-Capped Martialist is a strong fighter who wields a fiery chakram that he can use in a variety of ways to surprise you with. It's not a bad idea to make sure you have some medicine on hand to cure burns, as you may find yourself in danger of taking fire damage often against this foes. Due to his prowess, you should also take other medicine to boost your damage and defenses, as he can be a relentless foes.",
+    "img_below_text": "To start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.\n![Wukong Martial 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Green-Capped Martialist Boss Fight and Guide\nThe strange Green-Capped Martialist is a strong fighter who wields a fiery chakram that he can use in a variety of ways to surprise you with. It's not a bad idea to make sure you have some medicine on hand to cure burns, as you may find yourself in danger of taking fire damage often against this foes. Due to his prowess, you should also take other medicine to boost your damage and defenses, as he can be a relentless foes.\"\n        - Following Text: \"To start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.\n![Wukong Martial 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Green-Capped Martialist boss fight from *Black Myth: Wukong*. The boss is shown using a fiery chakram attack, creating a beam of fire aimed at the player. The surrounding environment is a rocky, snowy terrain, and the player's health and abilities are visible in the HUD. This visual corresponds to the guide's description of the boss's fiery beam attack, emphasizing the need for quick dodges and preparation against fire damage."
 }

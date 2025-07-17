@@ -1,28 +1,11 @@
 {
-    "chunk_id": 182281251884,
-    "source_file": "Stone_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg",
-    "alt_text": "Wukong Fright 38.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nYou can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.",
-    "img_below_text": "Look for an archway on the left wall in this area to find this boss arena.\n## Stone Vanguard Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nYou can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.\"\n            - Following Text: \"Look for an archway on the left wall in this area to find this boss arena.\n## Stone Vanguard Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character approaching a significant area in the Fright Cliff Region. The character is navigating through a rocky terrain towards a structure, possibly indicating the entrance to the Stone Vanguard boss arena. This location is reached after defeating the King of Flowing Sand and Second Rat Prince, and crossing a bridge into Rockrest Flat. The image sets the stage for the upcoming boss fight and guide."
+    "chunk_id": 869925311214,
+    "source_file": "Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Walkthrough3.jpg",
+    "alt_text": "Walkthrough3.jpg",
+    "position_desc": 3,
+    "img_above_text": "* **Chapter 2 Secret - Kingdom of Sahali**\n##  Chapter 3 - White Snow, Ice Cold",
+    "img_below_text": "In Chapter 3, the Destined One arrives in The New West, and must traverse treacherous mountain paths to find Goldenbrow's Temple where the next Sage's Will is hidden.\n* **Snowhill Path**",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Chapter 2 Secret - Kingdom of Sahali**\n##  Chapter 3 - White Snow, Ice Cold\"\n        - Following Text: \"In Chapter 3, the Destined One arrives in The New West, and must traverse treacherous mountain paths to find Goldenbrow's Temple where the next Sage's Will is hidden.\n* **Snowhill Path**\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy mountainous landscape with a lone figure, possibly the protagonist, overlooking a distant temple surrounded by snow and ice. This scene likely represents the beginning of Chapter 3 in the game, where the player must navigate the harsh Snowhill Path to reach Goldenbrow's Temple, a key location in the narrative."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 212828891266,
-    "source_file": "Captain_Lotus-Vision.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Pagoda_37.jpg",
-    "alt_text": "Wukong Pagoda 37.jpg",
-    "position_desc": 7,
-    "img_above_text": "Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.",
-    "img_below_text": "Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Captain_Lotus-Vision.md'.\n\n            Context:\n            - Preceding Text: \"Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.\"\n            - Following Text: \"Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Pagoda_37.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a critical phase of the boss fight against Captain Lotus-Vision, showcasing his powerful attack sequence. Captain Lotus-Vision is surrounded by a glowing, intricate circle of runic energy, with smaller rings forming around him. A continuous purple laser beam is emitted from his crystal, targeting the player. The rings behind him are preparing to unleash blasts from multiple directions, creating a visually intense and dangerous moment that requires strategic dodging and use of abilities like Cloud Step to survive. The player's health bar and abilities are visible, emphasizing the high-stakes nature of this encounter."
+    "chunk_id": 417084395770,
+    "source_file": "Celestial_Jade_Lotus_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Jade_Lotus_Pill_Location.jpg",
+    "alt_text": "Jade Lotus Pill Location.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Wind Mountain Celestial Jade Lotus Pill\nBlack Wind Mountain Celestial Jade Lotus Pill",
+    "img_below_text": "You can find the first Celestial Jade Lotus Pill after defeating Lingxuzi at Guanyin Temple. Once you've defeated Lingxuzi, head straight through the temple on the opposite side of the arena and turn left. There, you will find the Celestial Jade Lotus Pill in a small golden chest sitting on a table.\n## Yellow Wind Ridge Celestial Jade Lotus Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Wind Mountain Celestial Jade Lotus Pill\nBlack Wind Mountain Celestial Jade Lotus Pill\"\n        - Following Text: \"You can find the first Celestial Jade Lotus Pill after defeating Lingxuzi at Guanyin Temple. Once you've defeated Lingxuzi, head straight through the temple on the opposite side of the arena and turn left. There, you will find the Celestial Jade Lotus Pill in a small golden chest sitting on a table.\n## Yellow Wind Ridge Celestial Jade Lotus Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene in a dimly lit temple, where a character stands before a table holding a glowing golden chest. This setting aligns with the context of locating the Celestial Jade Lotus Pill after defeating Lingxuzi at Guanyin Temple, as described in the walkthrough. The chest likely contains the item mentioned, serving as a key objective in the narrative."
 }

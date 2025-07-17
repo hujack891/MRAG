@@ -1,28 +1,11 @@
 {
-    "chunk_id": 142940552088,
+    "chunk_id": 793740905046,
     "source_file": "Best_Skills_to_Unlock.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Best_Skills_to_Unlock_%283%29.png",
-    "alt_text": "Best Skills to Unlock \\(3\\).png",
-    "position_desc": 4,
-    "img_above_text": "Alteration applies to spells like Cloud Step and Rock Solid and will improve the health of your decoy, movement speed, and unlock the chance to deflect attacks with a parry.\nThe Transformations menu applies to any Transformation spells you collect and you'll find skills to improve might recovery, maximum health when transformed, increased defense, and more.",
-    "img_below_text": "Finally, in the Strand menu, you'll find the spell A Pluck of Many, where you can send out multiple Duplicates to help you. The skills you can unlock here will increase the health of your Duplicates, along with their attack power, and more.\n### Best Foundation Skills to Unlock",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Best_Skills_to_Unlock.md'.\n\n            Context:\n            - Preceding Text: \"Alteration applies to spells like Cloud Step and Rock Solid and will improve the health of your decoy, movement speed, and unlock the chance to deflect attacks with a parry.\nThe Transformations menu applies to any Transformation spells you collect and you'll find skills to improve might recovery, maximum health when transformed, increased defense, and more.\"\n            - Following Text: \"Finally, in the Strand menu, you'll find the spell A Pluck of Many, where you can send out multiple Duplicates to help you. The skills you can unlock here will increase the health of your Duplicates, along with their attack power, and more.\n### Best Foundation Skills to Unlock\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Best_Skills_to_Unlock_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image displays the \"Strand\" skill tree from a game, focusing on the spell \"A Pluck of Many.\" This spell allows players to create multiple duplicates that can fight, flee, or engage enemies when the caster is attacked. The skill tree highlights potential upgrades to enhance the spell's effectiveness.\n\n2. The image serves to illustrate the \"Strand\" menu and its associated skills, aligning with the surrounding text that discusses unlocking abilities to improve duplicates' health, attack power, and other attributes. It provides a visual representation of the gameplay mechanics related to this specific spell."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Best_Skills_to_Unlock_%282%29.png",
+    "alt_text": "Best Skills to Unlock \\(2\\).png",
+    "position_desc": 8,
+    "img_above_text": "**Ferocious Form**|  Attack is increased while Transformed\nTransformations add some spice to combat and can be hugely beneficial, especially as they have completely different health and status bars to your character.",
+    "img_below_text": "When you're transformed, you want the Transformation to last as long as possible and deal as much damage as you can. The combination of Moon Roam, Evergreen, and Ferocious Form will allow you to do just that.\nIf you want to spend additional Sparks in this category, Might Reserve will let you keep some Might when you transform back into primate form and Hidden Might increases your max Might level.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"**Ferocious Form**|  Attack is increased while Transformed\nTransformations add some spice to combat and can be hugely beneficial, especially as they have completely different health and status bars to your character.\"\n        - Following Text: \"When you're transformed, you want the Transformation to last as long as possible and deal as much damage as you can. The combination of Moon Roam, Evergreen, and Ferocious Form will allow you to do just that.\nIf you want to spend additional Sparks in this category, Might Reserve will let you keep some Might when you transform back into primate form and Hidden Might increases your max Might level.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Transformations\" menu in a video game, specifically highlighting the \"Moon Roam\" talent. This talent increases the damage of the next attack after executing a Perfect Dodge, with its effectiveness scaling with talent levels. The menu allows players to allocate Sparks to awaken or upgrade abilities, enhancing their transformed combat capabilities."
 }

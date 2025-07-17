@@ -1,28 +1,11 @@
 {
-    "chunk_id": 338041503758,
-    "source_file": "Lang-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg",
-    "alt_text": "Wukong Felicity 9.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Felicity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg)\nWhile you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.",
-    "img_below_text": "His tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.\n![Wukong Felicity 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Lang-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Felicity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg)\nWhile you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.\"\n            - Following Text: \"His tongue-lashing attack has now been altered to be even more deadly: It will create fields of frost on the ground as it swings back and forth -- and also lob rocks at you each time his tongue whips back, forcing you to stay mobile out of the frost and dodging the boulders at the same time.\n![Wukong Felicity 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Felicity_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a boss battle scene from *Black Myth: Wukong* against the yaoguai chief \"Lang-Li-Guhh-Lang\" on a frozen lake. The player character, armed with a staff, faces off against the frog-like boss, who is mid-attack, hurling a large boulder while surrounded by frost effects. The setting emphasizes the icy terrain and the boss's frost-based abilities, aligning with the preceding and following text that describes the boss's frost fields, tongue attacks, and rock-throwing mechanics."
+    "chunk_id": 259174277726,
+    "source_file": "Monk_from_the_Sea.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Thunderclap_22.jpg",
+    "alt_text": "Wukong Thunderclap 22.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Thunderclap 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg)\nIt'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.",
+    "img_below_text": "If he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\n![Wukong Thunderclap 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Thunderclap_20.jpg)\nIt'll take a lot of repositioning to survive this fight, and you'll also need to be aware of one other new attack that seems harmless but can deal a good amount of damage, as the Monk from the Sea can either leap toward or away from you with a deceptive blast.\"\n        - Following Text: \"If he uses it to jump at you, he'll use his appendages to stab down as he lands, and after a pause, will slam down to the ground that creates another damaging blast.\n![Wukong Thunderclap 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character facing off against the \"Monk from the Sea\" in a snowy courtyard. The Monk is mid-air, preparing to execute a leaping attack that creates a damaging blast upon landing. The preceding and following text highlight the importance of repositioning and awareness of this attack's deceptive nature during the fight."
 }

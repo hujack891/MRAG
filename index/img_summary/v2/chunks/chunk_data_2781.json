@@ -1,28 +1,11 @@
 {
-    "chunk_id": 576562161334,
-    "source_file": "Stone_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Fright_44.jpg",
-    "alt_text": "Wukong Fright 44.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Fright 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Fright_47.jpg)\nWhile the explosion and rocky spikes can be dodged with good timing — it’s also possible to negate the effect by using your charged Pillar Stance. When done at a reasonable distance, you’ll simply ignore the tremor below you, and can follow up with a charged strike that often staggers the monster. However, if you try to create a pillar too close to his hands, the explosion can send you tumbling, though it usually absorbs the damage.",
-    "img_below_text": "In an alternative attack, he’ll slam down with both arm points straight up, meaning the detonation will cover a larger wide circle on all sides of him, instead of just a frontal cone. Again, you can use the Pillar Stance with enough lead time to heft yourself over the tremor and attack from above.\n![Wukong Fright 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Fright_48.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Fright_47.jpg)\nWhile the explosion and rocky spikes can be dodged with good timing — it’s also possible to negate the effect by using your charged Pillar Stance. When done at a reasonable distance, you’ll simply ignore the tremor below you, and can follow up with a charged strike that often staggers the monster. However, if you try to create a pillar too close to his hands, the explosion can send you tumbling, though it usually absorbs the damage.\"\n            - Following Text: \"In an alternative attack, he’ll slam down with both arm points straight up, meaning the detonation will cover a larger wide circle on all sides of him, instead of just a frontal cone. Again, you can use the Pillar Stance with enough lead time to heft yourself over the tremor and attack from above.\n![Wukong Fright 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Fright_48.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Fright_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against a large, rocky creature known as the Stone Vanguard. The player character is seen dodging the creature's attack, which involves an explosion and the emergence of rocky spikes from the ground. The context provided suggests that the player can use a defensive maneuver called the Pillar Stance to avoid damage and counterattack effectively. The image illustrates the intensity and strategy involved in this particular encounter."
+    "chunk_id": 7510556843,
+    "source_file": "Wandering_Wight.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Wight_4.jpg",
+    "alt_text": "Wukong Wight 4.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Wight 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg)\nEven worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.",
+    "img_below_text": "However, the nastiest attack in the Wandering Wight’s disposal is easily his earthquake causing slam attack. If you see him wave his hands before holding one up in the air, be ready to dodge or start running away fast, as he’ll slam his fist into the ground and cause an explosion around him.\n![Wukong Wight 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wight_5.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wight 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg)\nEven worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.\"\n        - Following Text: \"However, the nastiest attack in the Wandering Wight’s disposal is easily his earthquake causing slam attack. If you see him wave his hands before holding one up in the air, be ready to dodge or start running away fast, as he’ll slam his fist into the ground and cause an explosion around him.\n![Wukong Wight 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wight_5.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic moment during a boss fight with the \"Wandering Wight\" in *Black Myth: Wukong*. The scene shows the aftermath of the Wight's powerful slam attack, causing an explosion of debris and glowing energy. The player character is seen evading the attack, emphasizing the need for quick reflexes to avoid the destructive area-of-effect damage. This visual aligns with the guide's description of the Wight's dangerous moveset."
 }

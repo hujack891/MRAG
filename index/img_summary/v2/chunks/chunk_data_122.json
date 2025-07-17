@@ -1,28 +1,11 @@
 {
-    "chunk_id": 418928538525,
-    "source_file": "Best_Skills_to_Unlock.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Best_Skills_to_Unlock_%287%29.png",
-    "alt_text": "Best Skills to Unlock \\(7\\).png",
-    "position_desc": 5,
-    "img_above_text": "Foundation Skills are full of useful abilities and we'd recommend focusing your Sparks in this category, especially at the start of the game.\nRobust Constitution and Rampant Vigor will give you boosts to your health and stamina respectively, helping you in those early fights. Similan Agility works well with Rampant Vigor, reducing the stamina cost of dodging, while you're already benefiting from an increase to max stamina. Being able to dodge consistently and worry less about stamina will get you out of some sticky situations.",
-    "img_below_text": "Along with the suggested skills, we'd suggest unlocking skills that will allow you to complete combos without interruption, with more attack power on finishers, and those that build focus quickly.\n### Best Staff Stances Skills to Unlock",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Best_Skills_to_Unlock.md'.\n\n            Context:\n            - Preceding Text: \"Foundation Skills are full of useful abilities and we'd recommend focusing your Sparks in this category, especially at the start of the game.\nRobust Constitution and Rampant Vigor will give you boosts to your health and stamina respectively, helping you in those early fights. Similan Agility works well with Rampant Vigor, reducing the stamina cost of dodging, while you're already benefiting from an increase to max stamina. Being able to dodge consistently and worry less about stamina will get you out of some sticky situations.\"\n            - Following Text: \"Along with the suggested skills, we'd suggest unlocking skills that will allow you to complete combos without interruption, with more attack power on finishers, and those that build focus quickly.\n### Best Staff Stances Skills to Unlock\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Best_Skills_to_Unlock_%287%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image displays the \"Foundation\" skill tree in a game, specifically focusing on the \"Stamina\" branch. It highlights various unlockable abilities that enhance sprinting, dodging, and overall stamina management during combat. The description emphasizes the importance of stamina for agility and survival in battles.\n\n2. The image supports the preceding text by visually showcasing the recommended skills like \"Robust Constitution\" and \"Rampant Vigor\" that boost health and stamina, as well as complementary abilities like reducing stamina costs for dodging. It sets the stage for the following text, which transitions to unlocking skills that improve attack combos and focus-building."
+    "chunk_id": 389091710003,
+    "source_file": "Best_Spirits_to_Use.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Best_Spirits_.png",
+    "alt_text": "Best Spirits .png",
+    "position_desc": 1,
+    "img_above_text": "Remember that Spirits can be upgraded! At any Keeper's Shrine, you can choose to Cultivate Spirits from the Self-Advance menu. This will allow you to upgrade your Spirits using a combination of Will and items like Blood of the Iron Bull and Tadpoles. If you like a Spirit, cultivate them so you can max out their buffs.\n### Wandering Wight",
+    "img_below_text": "This Spirit is entirely missable if you get to the end of Chapter 1 without picking it up, but you'll also likely encounter it before you've got your Gourd. Thankfully, you can pick it up from the nearest Keeper's Shrine once you've got the Gourd, and we'd recommend you do so because it's a great one to have equipped especially in the early game.\nThe Wandering Wight provides a substantial buff to your defence, which can make all the difference in fights. Not only this, but its Faithful Kowtow special attack allows you to deal a chunk of damage by smashing the giant's head into an enemy.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Remember that Spirits can be upgraded! At any Keeper's Shrine, you can choose to Cultivate Spirits from the Self-Advance menu. This will allow you to upgrade your Spirits using a combination of Will and items like Blood of the Iron Bull and Tadpoles. If you like a Spirit, cultivate them so you can max out their buffs.\n### Wandering Wight\"\n        - Following Text: \"This Spirit is entirely missable if you get to the end of Chapter 1 without picking it up, but you'll also likely encounter it before you've got your Gourd. Thankfully, you can pick it up from the nearest Keeper's Shrine once you've got the Gourd, and we'd recommend you do so because it's a great one to have equipped especially in the early game.\nThe Wandering Wight provides a substantial buff to your defence, which can make all the difference in fights. Not only this, but its Faithful Kowtow special attack allows you to deal a chunk of damage by smashing the giant's head into an enemy.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Equipment\" menu in a video game, featuring a Spirit character that can be upgraded and cultivated at a Keeper's Shrine. This Spirit, likely the Wandering Wight mentioned in the context, provides defensive buffs and a special attack called Faithful Kowtow. The menu allows players to manage their inventory, journal, and settings, emphasizing the importance of enhancing Spirits for improved gameplay."
 }

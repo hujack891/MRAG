@@ -1,28 +1,11 @@
 {
-    "chunk_id": 86985819325,
-    "source_file": "Bullguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Wolves_18.jpg",
-    "alt_text": "Wukong Wolves 18.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Wolves 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Wolves_17.jpg)\nThe Bullguard swings a mean halberd, which he can use to perform devastating overhand slams, and much quicker horizontal slashes that swing twice before a third overhead attack. Luckily, each of these combo hits usually end with him taking a long time to pull his weapon back out of the ground and reset his positioning, which is the perfect time to strike with a light combo or sneak in a heavy attack when he’s recovering.",
-    "img_below_text": "He can also perform multiple overhead swings at once ending with a massive jump attack, so it’s safe to assume that unless he’s charging at you, his swings will almost always come out in multiple hits, and you’ll want to be ready to dodge them all first before you move in and attack.\n![Wukong Wolves 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Wolves_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Bullguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Wolves_17.jpg)\nThe Bullguard swings a mean halberd, which he can use to perform devastating overhand slams, and much quicker horizontal slashes that swing twice before a third overhead attack. Luckily, each of these combo hits usually end with him taking a long time to pull his weapon back out of the ground and reset his positioning, which is the perfect time to strike with a light combo or sneak in a heavy attack when he’s recovering.\"\n            - Following Text: \"He can also perform multiple overhead swings at once ending with a massive jump attack, so it’s safe to assume that unless he’s charging at you, his swings will almost always come out in multiple hits, and you’ll want to be ready to dodge them all first before you move in and attack.\n![Wukong Wolves 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Wolves_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Wolves_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat moment in *Black Myth: Wukong*, showcasing the player character battling the Bullguard, a large, armored enemy wielding a halberd. The Bullguard is mid-swing, with visible motion blur on his weapon, while the player appears to be dodging or countering the attack. The environment is a lush, forested area with a shallow stream, adding to the immersive setting. The health bar at the bottom indicates the Bullguard has sustained some damage.\n\n2. **Purpose and Narrative Role**:  \nThe image visually supports the preceding and following text by illustrating the Bullguard's aggressive combat style, particularly his halberd attacks. It emphasizes the need for players to time their dodges and counterattacks carefully during his slow recovery windows, reinforcing the strategic gameplay described in the text."
+    "chunk_id": 398532769107,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Pagoda_43.jpg",
+    "alt_text": "Wukong Pagoda 43.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)\nKeep building up your Focus with light combos by chasing him down and using Immobilize to keep him from teleporting away, and use any lulls in his projectile attacks to rack up damage, and then unleash a charged pillar or thrust attack before he can escape.",
+    "img_below_text": "When Captain Lotus-Vision finally falls, you'll gain the **Frostsprout Twig Curio** , and **The Spirit of Captain Lotus-Vision** , which surprisingly cannot be cultivated like other Spirits.\nMore importantly, the purple seals on many of the cell doors are now gone in the Pagoda Realm, allowing you to kick them down and access a few secrets. There's some we haven't encountered in the Upper Pagoda, but be sure to go back and check these cells:",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)\nKeep building up your Focus with light combos by chasing him down and using Immobilize to keep him from teleporting away, and use any lulls in his projectile attacks to rack up damage, and then unleash a charged pillar or thrust attack before he can escape.\"\n        - Following Text: \"When Captain Lotus-Vision finally falls, you'll gain the **Frostsprout Twig Curio** , and **The Spirit of Captain Lotus-Vision** , which surprisingly cannot be cultivated like other Spirits.\nMore importantly, the purple seals on many of the cell doors are now gone in the Pagoda Realm, allowing you to kick them down and access a few secrets. There's some we haven't encountered in the Upper Pagoda, but be sure to go back and check these cells:\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the protagonist engaging in a battle against Captain Lotus-Vision. The dark environment features intricate pagoda architecture, with glowing projectiles and energy effects highlighting the intensity of the fight. This moment aligns with the preceding text, which advises strategies for defeating Captain Lotus-Vision, and the following text, which describes rewards and unlocked areas after the battle."
 }

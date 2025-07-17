@@ -1,28 +1,11 @@
 {
-    "chunk_id": 798002416409,
-    "source_file": "Man-in-Stone_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg",
-    "alt_text": "Wukong Fright 31.jpg",
-    "position_desc": 9,
-    "img_above_text": "Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.",
-    "img_below_text": "There’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\n![Wukong Fright 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"Once you’ve defeated two waves of single Palestones each, the third wave will consist of two Palestones at the same time. This can be a huge problem fast if they gang up on you with alternating attacks. Deflecting their ranged quartz missiles isn’t too bad… until you’re also dealing with one trying to body slam you.\nThis is the time to use everything in your arsenal to stay alive. Make sure you’re using your Spirit attacks to focus fire a target, unleash any stored Focus Points, and use Immobilize or Cloud Step to stay out of danger.\"\n            - Following Text: \"There’s one last wave of two after this, for a total of six Palestones for the whole fight. Again, don’t hold back, and use your Transformation Spell to power down at least one of the enemies as quickly as possible so you aren’t overwhelmed. Don’t be afraid to back well off and heal to stay out of range of their projectiles.\n![Wukong Fright 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_31.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is engaged in combat with a formidable enemy named \"Mother of Stones.\" The setting is dark and atmospheric, with a rocky terrain and a small fire providing illumination. The image illustrates the intensity of the battle, as the player must strategically use their abilities and resources to overcome waves of enemies, including Palestones, as described in the preceding and following text. The narrative emphasizes the importance of using Spirit attacks, Focus Points, and defensive maneuvers to survive and defeat the enemies, highlighting the challenging nature of the questline."
+    "chunk_id": 4025132,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Thunderclap_86.jpg",
+    "alt_text": "Wukong Thunderclap 86.jpg",
+    "position_desc": 85,
+    "img_above_text": "![Wukong Thunderclap 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Thunderclap_85.jpg)\nOnce you've taken out his entire health bar, he'll disappear again, sometimes summoning a lightning storm to track you as you try and race back over to him. Take it slow and focus on evasion rather than trying to close the distance.",
+    "img_below_text": "This battle may be won, but the war is far from over. Yellowbrow will freeze you in place, and use his magic seed sack to draw you into a perilous prison.\n![Wukong Thunderclap 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Thunderclap_85.jpg)\nOnce you've taken out his entire health bar, he'll disappear again, sometimes summoning a lightning storm to track you as you try and race back over to him. Take it slow and focus on evasion rather than trying to close the distance.\"\n        - Following Text: \"This battle may be won, but the war is far from over. Yellowbrow will freeze you in place, and use his magic seed sack to draw you into a perilous prison.\n![Wukong Thunderclap 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic and intense moment from the video game *Black Myth: Wukong*. It showcases a fiery red scene, likely during a boss battle or significant encounter. The preceding text suggests the player has depleted the enemy's health bar, prompting the enemy to vanish and summon a lightning storm, while the following text hints at the next phase of the conflict involving magical imprisonment. The image visually represents the chaotic and perilous atmosphere of this encounter."
 }

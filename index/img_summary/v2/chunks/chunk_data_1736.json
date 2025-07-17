@@ -1,28 +1,11 @@
 {
-    "chunk_id": 159512116618,
-    "source_file": "Kang-Jin_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg",
-    "alt_text": "Wukong Snowhill 42.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Snowhill 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg)\nAnother wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.",
-    "img_below_text": "Be wary when Kang-Jin Loong begins to roar and emit lightning all around, as they can perform an attack to summon a series of lightning strikes along the ground. They'll track your position, so keep strafing and dodging to outpace them, and don't worry about fighting while in this evasive mode.\n![Wukong Snowhill 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Snowhill_45.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Kang-Jin_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg)\nAnother wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.\"\n            - Following Text: \"Be wary when Kang-Jin Loong begins to roar and emit lightning all around, as they can perform an attack to summon a series of lightning strikes along the ground. They'll track your position, so keep strafing and dodging to outpace them, and don't worry about fighting while in this evasive mode.\n![Wukong Snowhill 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Snowhill_45.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment from the game *Black Myth: Wukong*, showcasing the player character being struck by a lightning attack from the boss, Kang-Jin Loong, in a snowy battlefield. The preceding and following text describe the boss's powerful abilities, including a tail slam and lightning-based attacks that track the player's position, emphasizing the need for evasive maneuvers during the fight. The image visually reinforces the intensity and danger of Kang-Jin Loong's lightning strikes."
+    "chunk_id": 39266787705,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
+    "alt_text": "Wukong Fright 28.jpg",
+    "position_desc": 6,
+    "img_above_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone",
+    "img_below_text": "This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\n![Wukong Fright 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone\"\n        - Following Text: \"This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\n![Wukong Fright 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing the encounter with the miniboss \"Mother of Stone.\" The large crystal-embedded statue is central to the scene, surrounded by glowing blue shards and effects. The health bar labeled \"Mother of Stones\" indicates the player's progress in chipping away at its high health. The preceding and following text clarify that the statue does not actively fight or move, making this a unique boss battle focused on endurance and strategy."
 }

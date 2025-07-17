@@ -1,28 +1,11 @@
 {
-    "chunk_id": 522655387241,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_Fright_56.jpg",
-    "alt_text": "Wukong Fright 56.jpg",
-    "position_desc": 62,
-    "img_above_text": "![Wukong Fright 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Fright_55.jpg)\nAs you slide, try to angle yourself to the left, and you can find a large structure that you can jump to.",
-    "img_below_text": "Clear out the archers as best you can and look for some Fragrant Jade Flowers to harvest (plus a green Wisp to absorb on the far side of the upper ridge) before dropping down to the bottom floor of the structure.\n![Wukong Fright 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Fright_58.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 62 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Fright_55.jpg)\nAs you slide, try to angle yourself to the left, and you can find a large structure that you can jump to.\"\n            - Following Text: \"Clear out the archers as best you can and look for some Fragrant Jade Flowers to harvest (plus a green Wisp to absorb on the far side of the upper ridge) before dropping down to the bottom floor of the structure.\n![Wukong Fright 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Fright_58.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_Fright_56.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* standing on a rocky ledge overlooking a rugged, canyon-like area filled with jagged terrain and sparse vegetation. The preceding text suggests this is part of a sliding sequence where players aim for a large structure to jump to, while the following text indicates the next objective involves clearing out archers and collecting items like Fragrant Jade Flowers and a green Wisp before descending further. The image serves to illustrate the exploration and traversal mechanics in this section of the game."
+    "chunk_id": 169474794608,
+    "source_file": "Gold_Spikeplate.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Longevity_2.jpg",
+    "alt_text": "Wukong Longevity 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Myth: Wukong Gold Spikeplate Location\nThe Gold Spikeplate can be found in The New West, specifically within the Valley of Ecstasy, Longevity Road Shrine area. Follow the road along until you reach the Dark-faced Overlord in the back of the area. Defeat it to get the Curios item.",
+    "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Gold Spikeplate Location\nThe Gold Spikeplate can be found in The New West, specifically within the Valley of Ecstasy, Longevity Road Shrine area. Follow the road along until you reach the Dark-faced Overlord in the back of the area. Defeat it to get the Curios item.\"\n        - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing a battle against the Dark-faced Overlord in a snowy environment. The player character, armed with a staff, is engaged in combat with the towering enemy, which emits green energy from its arm. This scene aligns with the preceding text, which describes defeating the Dark-faced Overlord in the Valley of Ecstasy to obtain the Gold Spikeplate item. The image serves as a visual reference for the guide's instructions."
 }

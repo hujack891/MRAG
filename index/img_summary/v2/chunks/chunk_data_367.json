@@ -1,28 +1,11 @@
 {
-    "chunk_id": 513110517189,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_MiddleHollow_55.jpg",
-    "alt_text": "Wukong MiddleHollow 55.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong MiddleHollow 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_MiddleHollow_53.jpg)\nThe strange hand has a few different moves it can use both up close and at range you'll need to become familiar with. One of its opening moves will be to slap the wall near you, but that's not all -- the move will cause several rocks to fall from above, and with your limited visibility you'll need to keep dodging around 3-4 large rocks with the last one often being delayed.",
-    "img_below_text": "If you see the hand curl into a fist before raising up, be ready for it to slam down on the ground nearby and claw into the ground, before scraping along the a length of the arena in a quick dash.\n![Wukong MiddleHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_MiddleHollow_53.jpg)\nThe strange hand has a few different moves it can use both up close and at range you'll need to become familiar with. One of its opening moves will be to slap the wall near you, but that's not all -- the move will cause several rocks to fall from above, and with your limited visibility you'll need to keep dodging around 3-4 large rocks with the last one often being delayed.\"\n            - Following Text: \"If you see the hand curl into a fist before raising up, be ready for it to slam down on the ground nearby and claw into the ground, before scraping along the a length of the arena in a quick dash.\n![Wukong MiddleHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_MiddleHollow_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a boss fight against an entity referred to as \"Buddha's Right Hand.\" The image captures the moment when the massive hand slams down onto the ground, causing debris and dust to scatter. The preceding text describes the hand's attack patterns, including slapping the wall and causing rocks to fall, while the following text warns of the hand curling into a fist before a powerful ground slam. This visual and narrative context highlights the challenging and dynamic nature of the encounter within a confined arena."
+    "chunk_id": 737398539526,
+    "source_file": "Captain_Kalpa-Wave.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Longevity_26.jpg",
+    "alt_text": "Wukong Longevity 26.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Longevity 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Wukong_Longevity_25.jpg)\nMuch of this fight will come down to being constantly mobile to evade the various pools of blood Kalpa-Wave will create, and find times after deflecting his projectiles to run up and unleash damage on the boss.",
+    "img_below_text": "Be especially careful if Captain Kalpa-Wave starts to jump up and down repeatedly. On the third jump, all pools of blood will explode into explosive lotus flowers, meaning you'll need to either be on the move, or use your Pillar Stance to rise above the attacks.\n![Wukong Longevity 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Longevity_21.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Wukong_Longevity_25.jpg)\nMuch of this fight will come down to being constantly mobile to evade the various pools of blood Kalpa-Wave will create, and find times after deflecting his projectiles to run up and unleash damage on the boss.\"\n        - Following Text: \"Be especially careful if Captain Kalpa-Wave starts to jump up and down repeatedly. On the third jump, all pools of blood will explode into explosive lotus flowers, meaning you'll need to either be on the move, or use your Pillar Stance to rise above the attacks.\n![Wukong Longevity 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Longevity_21.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against Captain Kalpa-Wave in *Black Myth: Wukong*. The scene shows the player character engaging the boss amidst a chaotic explosion of blood-like effects, likely caused by the boss's attacks. The preceding and following text highlights the importance of mobility to evade pools of blood and explosive lotus flowers, as well as strategic use of deflection and positioning to deal damage effectively. The health bar at the bottom indicates the ongoing battle's progress."
 }

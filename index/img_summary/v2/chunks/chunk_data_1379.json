@@ -1,28 +1,11 @@
 {
-    "chunk_id": 916343230772,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Furnace_Valley_Walkthrough_%2899%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(99\\).png",
-    "position_desc": 40,
-    "img_above_text": "Keep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.\nCross the bridge and up the small set of stairs, towards the giants. On the right, you'll encounter a Bull Governor. Though it's best to deal with the creature now, don't go to the right just yet.",
-    "img_below_text": "Instead, take the path to the left. You'll see a set of stares with the Flame Rhino Master at the top, and a small temple with a flame glowing inside. Head for the stairs first and take out the Flame Rhino Master, then hop over to the temple.\n![Furnace Valley Walkthrough \\(101\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 40 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Keep following the staircases, turning right after the next set to cross the bridge toward the bull guard with the two staffs and the two Flame Rhino Masters.\nCross the bridge and up the small set of stairs, towards the giants. On the right, you'll encounter a Bull Governor. Though it's best to deal with the creature now, don't go to the right just yet.\"\n            - Following Text: \"Instead, take the path to the left. You'll see a set of stares with the Flame Rhino Master at the top, and a small temple with a flame glowing inside. Head for the stairs first and take out the Flame Rhino Master, then hop over to the temple.\n![Furnace Valley Walkthrough \\(101\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Furnace_Valley_Walkthrough_%2899%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, volcanic environment with glowing lava streams cutting through the rocky terrain. A staircase leads to a central pathway flanked by ruins, while a large, imposing enemy resembling a Bull Governor stands in the distance, guarding the area. A red directional arrow points to the left, suggesting an alternate path or route.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players navigate the Furnace Valley area. It highlights the environment's layout, the presence of a significant enemy (the Bull Governor), and the suggested path to the left, aligning with the preceding and following text that advises players to avoid the right path temporarily and explore the left route first."
+    "chunk_id": 882562071839,
+    "source_file": "How_to_Defeat_the_Stone_Vanguard_With_Another_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_ShiganSecret4.jpg",
+    "alt_text": "Wukong ShiganSecret4.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong ShiganSecret3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_ShiganSecret3.jpg)\nHowever, after losing around a fourth or more of its health, the Shigandang will most likely grab the Stone Vanguard and perform a devastating pile-driver slam, before flinging the Stone Vanguard aside as it breaks apart.",
+    "img_below_text": "This will effectively defeat the Stone Vanguard for you, and you'll earn all the associated experience and item rewards, like the Sterness of Stone.\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong ShiganSecret3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_ShiganSecret3.jpg)\nHowever, after losing around a fourth or more of its health, the Shigandang will most likely grab the Stone Vanguard and perform a devastating pile-driver slam, before flinging the Stone Vanguard aside as it breaks apart.\"\n        - Following Text: \"This will effectively defeat the Stone Vanguard for you, and you'll earn all the associated experience and item rewards, like the Sterness of Stone.\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the defeat of the \"Yaoguai King: Stone Vanguard\" in the video game \"Black Myth: Wukong.\" The text indicates that the Stone Vanguard is defeated after the Shigandang performs a pile-driver slam, earning the player experience and item rewards, such as the Sterness of Stone."
 }

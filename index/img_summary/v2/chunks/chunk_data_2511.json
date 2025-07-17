@@ -1,28 +1,11 @@
 {
-    "chunk_id": 558151653188,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_28.jpg",
-    "alt_text": "Wukong Sandgate 28.jpg",
-    "position_desc": 25,
-    "img_above_text": "![Wukong Sandgate 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Sandgate_27.jpg)\nTake the left path to reach the next open area where you’ll face off against both a Rat Soldier and a Rat Governor. Lure the Soldier out of range of the Governor’s lightning attacks to take them on separately, and don’t move yourself out too far, as more enemies and archers are waiting up ahead.",
-    "img_below_text": "You should also inspect the raised altar on the wooden platform here, as you can find a turtle-shaped box that holds **Laurel Buds** inside, a new Soak for your Gourd.\n![Wukong Sandgate 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Sandgate_27.jpg)\nTake the left path to reach the next open area where you’ll face off against both a Rat Soldier and a Rat Governor. Lure the Soldier out of range of the Governor’s lightning attacks to take them on separately, and don’t move yourself out too far, as more enemies and archers are waiting up ahead.\"\n            - Following Text: \"You should also inspect the raised altar on the wooden platform here, as you can find a turtle-shaped box that holds **Laurel Buds** inside, a new Soak for your Gourd.\n![Wukong Sandgate 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Sandgate_29.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character approaching a raised altar on a wooden platform. The altar has a turtle-shaped box containing **Laurel Buds**, a new Soak for the character's Gourd. The setting includes a large statue and various items, indicating a significant location for players to explore and collect valuable items."
+    "chunk_id": 695346984527,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_YellowFlower_55.jpg",
+    "alt_text": "Wukong YellowFlower 55.jpg",
+    "position_desc": 51,
+    "img_above_text": "Once the Daoist is defeated for good, he'll impart a mysterious message, telling you to \"find the needle on Purple Cloud Mountain\". As he departs, he mural will form on the nearby wall, which you can now interact with to travel to **Chapter 4's Secret Area: Purple Cloud Mountain**. As with other Secret Areas, we recommend exploring it before you proceed to the final boss of this chapter, as it will be instrumental in helping to defeat the final boss of this area.\nVenom Daoist (Temple of Yellow Flowers)",
+    "img_below_text": "Before you do, you should also head through the nearby gateway to find a large field with a giant tree in the middle. Off on the right, you can find a wooden ledge overlooking the mountains with a **Treasure Chest** full of random materials and a Soul Remigration Pill.\n## Court of Illumination",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once the Daoist is defeated for good, he'll impart a mysterious message, telling you to \"find the needle on Purple Cloud Mountain\". As he departs, he mural will form on the nearby wall, which you can now interact with to travel to **Chapter 4's Secret Area: Purple Cloud Mountain**. As with other Secret Areas, we recommend exploring it before you proceed to the final boss of this chapter, as it will be instrumental in helping to defeat the final boss of this area.\nVenom Daoist (Temple of Yellow Flowers)\"\n        - Following Text: \"Before you do, you should also head through the nearby gateway to find a large field with a giant tree in the middle. Off on the right, you can find a wooden ledge overlooking the mountains with a **Treasure Chest** full of random materials and a Soul Remigration Pill.\n## Court of Illumination\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is exploring a rocky area near a large tree. A **Treasure Chest**, highlighted with a red circle, is visible on a wooden ledge to the right, overlooking the mountains. This aligns with the following text, which mentions finding a chest containing random materials and a Soul Remigration Pill in this location. The image serves as a visual guide for players to locate the chest during their exploration."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 696354823802,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_YellowFlower_16.jpg",
-    "alt_text": "Wukong YellowFlower 16.jpg",
-    "position_desc": 14,
-    "img_above_text": "![Wukong YellowFlower 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg)\nLook for a main stone path cutting through the forest, leading past another group of Daoists before the road curves right where a Snake Herbalist patrols.",
-    "img_below_text": "Follow the pathway, and you'll find a set of stairs leading up to a large courtyard where a tough Yaoguai Chief is training a large group of Sword Daoists.\n## Yaoguai Chief Miniboss Battle - Commander Beetle",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg)\nLook for a main stone path cutting through the forest, leading past another group of Daoists before the road curves right where a Snake Herbalist patrols.\"\n            - Following Text: \"Follow the pathway, and you'll find a set of stairs leading up to a large courtyard where a tough Yaoguai Chief is training a large group of Sword Daoists.\n## Yaoguai Chief Miniboss Battle - Commander Beetle\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_YellowFlower_16.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character, likely the protagonist, standing in a forested area near a traditional building. In the background, a group of Daoists can be seen training, possibly under the supervision of a Yaoguai Chief. This scene sets the stage for an upcoming encounter with the Yaoguai Chief, who is training Sword Daoists in preparation for a miniboss battle. The image serves to illustrate the environment and the narrative progression towards the challenging fight ahead."
+    "chunk_id": 3680568837,
+    "source_file": "Webbed_Hollow_-_Lower_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_LowerHollow_1.jpg",
+    "alt_text": "Wukong LowerHollow 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow.\n## Cliff of Oblivion",
+    "img_below_text": "Now that you've defeated Buddha's Right Hand and created a path with its corpse, the last section of the Webbed Hollow awaits you.\n![Wukong LowerHollow 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_LowerHollow_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow.\n## Cliff of Oblivion\"\n        - Following Text: \"Now that you've defeated Buddha's Right Hand and created a path with its corpse, the last section of the Webbed Hollow awaits you.\n![Wukong LowerHollow 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_LowerHollow_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the \"Webbed Hollow\" section of Chapter 4 in *Black Myth: Wukong*. It shows the aftermath of a boss fight with \"Buddha's Right Hand,\" whose large, grotesque corpse lies in the foreground. The player character is seen moving forward, with a red arrow indicating the next path to progress further into the area. This visual serves as a guide for navigating to the final section of the Webbed Hollow."
 }

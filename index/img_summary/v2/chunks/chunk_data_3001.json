@@ -1,28 +1,11 @@
 {
-    "chunk_id": 931739112605,
-    "source_file": "Thunderbone.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Thunderbone-2.jpg",
-    "alt_text": "Thunderbone-2.jpg",
-    "position_desc": 1,
-    "img_above_text": "Thunderbone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunderbone can be used to craft the Loongwreathe Staff from the Shrine.",
-    "img_below_text": "To obtain the Thunderbone, you need to defeat Black Loong in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need the Loong Scales to be able to trigger this fight.\n![Wukong Fright 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Thunderbone.md'.\n\n            Context:\n            - Preceding Text: \"Thunderbone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunderbone can be used to craft the Loongwreathe Staff from the Shrine.\"\n            - Following Text: \"To obtain the Thunderbone, you need to defeat Black Loong in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need the Loong Scales to be able to trigger this fight.\n![Wukong Fright 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Thunderbone-2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the \"Thunderbone,\" an epic special crafting material. The Thunderbone, described as emitting lightning and striking with the force of thunder, is used to craft unique gear such as the Loongwreathe Staff. To obtain this material, players must defeat Black Loong in Fright Cliff, Rockrest Flat, after acquiring Loong Scales."
+    "chunk_id": 774612190501,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Woods_Ember_Walkthrough_%2876%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(76\\).png",
+    "position_desc": 38,
+    "img_above_text": "![Woods Ember Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2852%29.png)\nThe way to approach this fight is to build up your combos and then land a finishing blow on him as often as you can. When you attack like this, the heavy blow will knock him over and leave him vulnerable to a beat down.",
+    "img_below_text": "When you've bested him, collect the Father of Stones Spirit he leaves behind.\nFather of Stones",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2852%29.png)\nThe way to approach this fight is to build up your combos and then land a finishing blow on him as often as you can. When you attack like this, the heavy blow will knock him over and leave him vulnerable to a beat down.\"\n        - Following Text: \"When you've bested him, collect the Father of Stones Spirit he leaves behind.\nFather of Stones\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a desolate, foggy environment with barren trees, stone pathways, and ruins, setting the stage for a battle in the game *Black Myth: Wukong*. A player character, armed with a staff, approaches a glowing blue spirit-like object, which likely signifies a key item or reward obtained after defeating an enemy, as described in the surrounding text."
 }

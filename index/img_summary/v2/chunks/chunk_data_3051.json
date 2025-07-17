@@ -1,28 +1,11 @@
 {
-    "chunk_id": 135905190100,
-    "source_file": "Top_Takes_Bottom,_Bottom_Takes_Top_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Top_Takes_Bottom_Spirit.jpg",
-    "alt_text": "Top Takes Bottom Spirit.jpg",
-    "position_desc": 3,
-    "img_above_text": "The foes will also use each half of the iron ball as a shield of sorts. You will not do any damage to them by hitting this shield, so try to get behind them whenever they are shielding themselves. They are both armed with weapons as well as the dangerous ball, so keep an eye out for their swings and watch your back for the other enemy at all times.\n## Top Takes Bottom, Bottom Takes Top Spirit",
-    "img_below_text": "* **Two in One**\n* Equipped Effect: Significantly increases Defense, but moderately reduces Attack.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Top_Takes_Bottom,_Bottom_Takes_Top_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The foes will also use each half of the iron ball as a shield of sorts. You will not do any damage to them by hitting this shield, so try to get behind them whenever they are shielding themselves. They are both armed with weapons as well as the dangerous ball, so keep an eye out for their swings and watch your back for the other enemy at all times.\n## Top Takes Bottom, Bottom Takes Top Spirit\"\n            - Following Text: \"* **Two in One**\n* Equipped Effect: Significantly increases Defense, but moderately reduces Attack.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Top_Takes_Bottom_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image shows a game interface displaying an equipment menu with a specific spirit called \"Top Takes Bottom, Bottom Takes Top.\" This spirit has a high Qi cost and offers the ability \"Two in One,\" which allows the player to transform into an iron ball that strikes enemies three times. The equipped effect significantly increases defense but moderately reduces attack.\n\n2. The image's purpose is to provide detailed information about the \"Top Takes Bottom, Bottom Takes Top\" spirit, including its abilities, effects, and how to use it in combat. This context fits into the narrative by explaining the strategic advantages and disadvantages of using this spirit, complementing the preceding text about enemy tactics and the following text about the spirit's effects."
+    "chunk_id": 350898521812,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Thunderclap_101.jpg",
+    "alt_text": "Wukong Thunderclap 101.jpg",
+    "position_desc": 17,
+    "img_above_text": "You'll need to defeat the Macaque Chief inside his magic sack to escape, whereupon you'll be transported to his floating shelf, and you'll be able to fight him one last time.\n## Yellowbrow Boss Fight (Second Encounter)",
+    "img_below_text": "When this final match begins, you'll still be stuck in the Macaque Chief form, but only for a short duration (and won't return to this form if you die and respawn) so you might as well unleash as many attacks as possible while you can.\nYellowbrow has a lot of his same moves from your last fight, but several new ones that are even more devious and annoying to deal with.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You'll need to defeat the Macaque Chief inside his magic sack to escape, whereupon you'll be transported to his floating shelf, and you'll be able to fight him one last time.\n## Yellowbrow Boss Fight (Second Encounter)\"\n        - Following Text: \"When this final match begins, you'll still be stuck in the Macaque Chief form, but only for a short duration (and won't return to this form if you die and respawn) so you might as well unleash as many attacks as possible while you can.\nYellowbrow has a lot of his same moves from your last fight, but several new ones that are even more devious and annoying to deal with.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the second encounter with the Yellowbrow boss in a video game. The player character, temporarily in the form of the Macaque Chief, is engaged in combat with Yellowbrow, who wields fiery attacks. The setting appears to be a dimly lit, ornate arena with statues and decorative elements. The health bar at the bottom indicates the ongoing boss fight, emphasizing the challenge of dealing with Yellowbrow's upgraded moves."
 }

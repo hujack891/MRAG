@@ -1,28 +1,11 @@
 {
-    "chunk_id": 92960314507,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Water_Curtain_Cave_Walkthrough_%2817%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(17\\).png",
-    "position_desc": 15,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Water_Curtain_Cave_Walkthrough_%2814%29.png)\nWhen the boat ride is over, you'll be at the Birthstone portion of the Water Curtain Cave. In the distance, you'll see a monkey sitting cross-legged in the water.",
-    "img_below_text": "As the cutscene sees you move toward the Stone Monkey, you'll be automatically thrown into a fight against it.\nNote! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Water_Curtain_Cave_Walkthrough_%2814%29.png)\nWhen the boat ride is over, you'll be at the Birthstone portion of the Water Curtain Cave. In the distance, you'll see a monkey sitting cross-legged in the water.\"\n            - Following Text: \"As the cutscene sees you move toward the Stone Monkey, you'll be automatically thrown into a fight against it.\nNote! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Water_Curtain_Cave_Walkthrough_%2817%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player encounters a significant character, the Stone Monkey, in the Birthstone portion of the Water Curtain Cave. The Stone Monkey is shown sitting cross-legged in the water, setting the stage for an imminent cutscene and subsequent battle. This moment is crucial as it transitions the player into a combat scenario against the Stone Monkey, highlighting a key narrative and gameplay event."
+    "chunk_id": 790215816317,
+    "source_file": "Willow_Wood_Staff.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Willow_Wood_Staff.jpg",
+    "alt_text": "Willow Wood Staff.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Willow Wood Staff is the basic weapon you get at the beginning of Black Myth: Wukong. It comes with standard stats, little damage, and overall isn't much use beyond the initial opening moments of the game. Before long you will want to switch to one of the other Weapons.\nThe weapon has a basic 30 damage stat, with no additional critical hit chance bonus. It also doesn't have any unique effect.",
+    "img_below_text": "With it being given to you at the beginning of Chapter 1 - Black Wind Mountain, you can't craft it. However, it can be crafted into a variety of other weapons as you progress.\nWeapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Willow Wood Staff is the basic weapon you get at the beginning of Black Myth: Wukong. It comes with standard stats, little damage, and overall isn't much use beyond the initial opening moments of the game. Before long you will want to switch to one of the other Weapons.\nThe weapon has a basic 30 damage stat, with no additional critical hit chance bonus. It also doesn't have any unique effect.\"\n        - Following Text: \"With it being given to you at the beginning of Chapter 1 - Black Wind Mountain, you can't craft it. However, it can be crafted into a variety of other weapons as you progress.\nWeapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Willow Wood Staff,\" a basic weapon in *Black Myth: Wukong*. It has an attack stat of 30 and lacks critical hit bonuses or unique effects, making it suitable only for the game's early stages. The staff is given at the start of Chapter 1 and cannot be crafted, though it can later be upgraded into other weapons using materials found throughout the game. The accompanying description highlights its limited effectiveness, emphasizing its modest utility for initial encounters."
 }

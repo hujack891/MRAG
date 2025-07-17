@@ -1,28 +1,11 @@
 {
-    "chunk_id": 302740414076,
-    "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Bitter_58.jpg",
-    "alt_text": "Wukong Bitter 58.jpg",
-    "position_desc": 90,
-    "img_above_text": "![Wukong Bitter 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Bitter_57.jpg)\nHead left from the pavilion, and you'll find one such large crowned Buddha statue between two columns that you can interact with and pray to.",
-    "img_below_text": "With one Buddha located, it's time to find the rest. Keep heading left to the edge of the large open plaza to find a path leading down. Absorb a green Wisp as you go, and descend the long flight of stairs leading to the right.\n![Wukong Bitter 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Bitter_59.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 90 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Bitter_57.jpg)\nHead left from the pavilion, and you'll find one such large crowned Buddha statue between two columns that you can interact with and pray to.\"\n            - Following Text: \"With one Buddha located, it's time to find the rest. Keep heading left to the edge of the large open plaza to find a path leading down. Absorb a green Wisp as you go, and descend the long flight of stairs leading to the right.\n![Wukong Bitter 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Bitter_59.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Bitter_58.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the protagonist from *Black Myth: Wukong* exploring a snow-covered plaza surrounded by ornate stone columns and rocky terrain. The character is mid-stride, holding a staff, and appears to be heading toward a glowing green Wisp (circled in red) in the distance.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image illustrates the player's progression in the game as they navigate the environment to locate key objectives. The glowing green Wisp serves as a guide or collectible, leading the player down a path toward the next area, as described in the following text. The setting emphasizes exploration and interaction with the environment, aligning with the preceding context of finding Buddha statues."
+    "chunk_id": 68879740877,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Main_Page_BMW_.png",
+    "alt_text": "Main Page BMW .png",
+    "position_desc": 2,
+    "img_above_text": "# Black Myth: Wukong Wiki Sections\n## Beginner's Guide and Getting Started",
+    "img_below_text": "Black Myth: Wukong throws you into the action with only a brief tutorial. So, to help you understand some of the gameplay mechanics and features, we've compiled a list of handy beginner tips and tricks, as well as things that the game doesn't explain to you.\n* Essential Tips and Tricks",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Black Myth: Wukong Wiki Sections\n## Beginner's Guide and Getting Started\"\n        - Following Text: \"Black Myth: Wukong throws you into the action with only a brief tutorial. So, to help you understand some of the gameplay mechanics and features, we've compiled a list of handy beginner tips and tricks, as well as things that the game doesn't explain to you.\n* Essential Tips and Tricks\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image appears to be a scene from the video game \"Black Myth: Wukong,\" showcasing a character in detailed armor, likely during a moment of action or narrative significance. The text \"My Master - safe!\" suggests a dialogue or thought from the character, possibly indicating a moment of relief or assurance. This image likely serves to illustrate a key moment or character within the game's storyline, as part of a beginner's guide or walkthrough to help players understand the game's context and mechanics."
 }

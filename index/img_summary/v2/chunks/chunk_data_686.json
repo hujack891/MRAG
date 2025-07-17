@@ -1,28 +1,11 @@
 {
-    "chunk_id": 190696843958,
-    "source_file": "Cloudy_Mist,_Misty_Cloud.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Furnace_Valley_Walkthrough_%2850%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(50\\).png",
-    "position_desc": 6,
-    "img_above_text": "Misty Cloud will soon appear, though he will look almost see-through initially. He will often pop up as soon as Cloudy Mist has finished a set of moves, hoping to catch you off guard and hit you with his flaming bundle.\nThe key to keeping track of this creature is to see where the cloud moves and jump out of the way when it gets close to you. Misty Cloud favors the use of a flaming bundle, operating it like a hammer and delivering fire attacks.",
-    "img_below_text": "As Cloudy Mist is the first to appear, this should be where you first attack. Things will change when you manage to hit Cloudy Mist enough times that it will send out a bright light as a flashbang that can stun both you and Misty Cloud. For a brief moment, Misty Cloud won't be able to see you and Cloudy Mist will become its eyes.\n![Furnace Valley Walkthrough \\(56\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Furnace_Valley_Walkthrough_%2856%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Cloudy_Mist,_Misty_Cloud.md'.\n\n            Context:\n            - Preceding Text: \"Misty Cloud will soon appear, though he will look almost see-through initially. He will often pop up as soon as Cloudy Mist has finished a set of moves, hoping to catch you off guard and hit you with his flaming bundle.\nThe key to keeping track of this creature is to see where the cloud moves and jump out of the way when it gets close to you. Misty Cloud favors the use of a flaming bundle, operating it like a hammer and delivering fire attacks.\"\n            - Following Text: \"As Cloudy Mist is the first to appear, this should be where you first attack. Things will change when you manage to hit Cloudy Mist enough times that it will send out a bright light as a flashbang that can stun both you and Misty Cloud. For a brief moment, Misty Cloud won't be able to see you and Cloudy Mist will become its eyes.\n![Furnace Valley Walkthrough \\(56\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Furnace_Valley_Walkthrough_%2856%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Furnace_Valley_Walkthrough_%2850%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a dark and ominous scene featuring a spectral figure, likely Misty Cloud, emerging in a misty environment while wielding a staff. The glowing red and fiery background suggests the presence of Cloudy Mist, who is described in the text as the first to appear and capable of emitting a flashbang attack. The dialogue at the bottom, \"Halt! Intruders... to the Princess' palace face death,\" adds narrative tension, indicating the player is entering a dangerous area guarded by these entities. The health bars for \"Cloudy Mist\" and \"Misty Cloud\" suggest an impending battle where both creatures will play distinct roles."
+    "chunk_id": 366771111279,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg",
+    "alt_text": "Tiny Piece of Gold .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Crafting Material | Rarity | Quality/Use | Location\n---|---|---|---|---",
+    "img_below_text": "![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Image | Crafting Material | Rarity | Quality/Use | Location\n---|---|---|---|---\"\n        - Following Text: \"![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a crafting material or treasure item from the video game *Black Myth: Wukong*. Based on the surrounding text, it is likely related to collectible or sellable items, such as the \"Small Piece of Gold\" or \"Gold Ridge Beast,\" which are described as rare or epic treasures found in specific locations, including chests or dropped by enemies. The image serves as a visual reference for players identifying in-game materials."
 }

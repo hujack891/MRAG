@@ -1,28 +1,11 @@
 {
-    "chunk_id": 917661650678,
-    "source_file": "Dark_Thunder.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Thunderclap_43.jpg",
-    "alt_text": "Wukong Thunderclap 43.jpg",
-    "position_desc": 3,
-    "img_above_text": "### Horse Guai The New West Location\nAs you progress through the temple, you will eventually meet two mages with a large door behind them. Before heading ahead, take the path along the balcony on the left, to a walkway with a large statue. The Horse Guai is standing by one of these pillars on the walkway.",
-    "img_below_text": "### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Dark_Thunder.md'.\n\n            Context:\n            - Preceding Text: \"### Horse Guai The New West Location\nAs you progress through the temple, you will eventually meet two mages with a large door behind them. Before heading ahead, take the path along the balcony on the left, to a walkway with a large statue. The Horse Guai is standing by one of these pillars on the walkway.\"\n            - Following Text: \"### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Thunderclap_43.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a tense encounter between a player character and the Horse Guai, a formidable enemy, on a wooden walkway within a temple-like setting. The scene aligns with the preceding context, where players are instructed to explore a balcony leading to a walkway with a large statue and pillars, where the Horse Guai can be found. The image emphasizes the setting and the impending battle, contributing to the guide's narrative on locating and confronting this enemy."
+    "chunk_id": 536426242607,
+    "source_file": "Elder_Jinchi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Guanyin_4.jpg",
+    "alt_text": "Wukong Guanyin 4.jpg",
+    "position_desc": 4,
+    "img_above_text": "## Elder Jinchi Fight and Guide\nIf you fought the Wandering Wight then the good news is you’ll have a good idea of what to expect in this fight, as he shares many of the same moves. That said, he does hit harder and can empower certain moves, so don’t assume this will be a cakewalk. You’ll want to have upgraded your staff after defeating the Whiteclad Noble to dish out more damage, and using the Wandering Wight’s Spirit on this guy can help tremendously.",
+    "img_below_text": "The big twist on this fight that you’ll notice immediately is all the wandering bronze-colored corpses milling about the arena. The good news is they actually aren’t a threat — at least at first. This means you can focus on attacking the boss without worrying about one of them randomly clawing at you, but there’s more to it than that.\nThough you can’t directly target them, you can kill them with a single swipe of your staff. Doing so will actually cause their spirit to be directly absorbed, and heal you for a small amount. It’s not enough that you should be turning your back to the boss to seek them out exactly, but there are situations where you’ll need to distance yourself from Jinchi’s tremor and earthquake attacks that provide a pause in combat where you might as well hit one nearby to get a bit of your health restored. That’s not all these corpses do, but we’ll get to the rest in a bit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Elder Jinchi Fight and Guide\nIf you fought the Wandering Wight then the good news is you’ll have a good idea of what to expect in this fight, as he shares many of the same moves. That said, he does hit harder and can empower certain moves, so don’t assume this will be a cakewalk. You’ll want to have upgraded your staff after defeating the Whiteclad Noble to dish out more damage, and using the Wandering Wight’s Spirit on this guy can help tremendously.\"\n        - Following Text: \"The big twist on this fight that you’ll notice immediately is all the wandering bronze-colored corpses milling about the arena. The good news is they actually aren’t a threat — at least at first. This means you can focus on attacking the boss without worrying about one of them randomly clawing at you, but there’s more to it than that.\nThough you can’t directly target them, you can kill them with a single swipe of your staff. Doing so will actually cause their spirit to be directly absorbed, and heal you for a small amount. It’s not enough that you should be turning your back to the boss to seek them out exactly, but there are situations where you’ll need to distance yourself from Jinchi’s tremor and earthquake attacks that provide a pause in combat where you might as well hit one nearby to get a bit of your health restored. That’s not all these corpses do, but we’ll get to the rest in a bit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight arena from a video game, featuring the player character facing Elder Jinchi, a large, imposing, bronze-colored humanoid boss. The arena is populated with wandering, bronze-colored corpses that are not initially hostile but serve a dual purpose: they can be defeated with a single staff strike to restore the player's health, and they play a role in the fight's mechanics. The image aligns with the guide's instructions on managing these corpses and focusing on the boss while utilizing the environment strategically."
 }

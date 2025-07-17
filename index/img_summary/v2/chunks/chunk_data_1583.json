@@ -1,28 +1,11 @@
 {
-    "chunk_id": 152233290971,
-    "source_file": "How_to_Increase_Gourd_Uses_and_Healing_Amount.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Shen3.jpg",
-    "alt_text": "Wukong Shen3.jpg",
-    "position_desc": 6,
-    "img_above_text": "Looking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.\n## How to Upgrade Healing Amount",
-    "img_below_text": "To increase the amount of heals the Gourd will grant you, you’ll want to choose the Upgrade Drinks menu. Here you can see all the Drinks you’ve collected, but you’ll need Awaken Wine Worm to increase the efficiency of Drinks.\nLooking for the locations of all Awaken Wine Worm? Collect every one of them with our guide here.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'How_to_Increase_Gourd_Uses_and_Healing_Amount.md'.\n\n            Context:\n            - Preceding Text: \"Looking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.\n## How to Upgrade Healing Amount\"\n            - Following Text: \"To increase the amount of heals the Gourd will grant you, you’ll want to choose the Upgrade Drinks menu. Here you can see all the Drinks you’ve collected, but you’ll need Awaken Wine Worm to increase the efficiency of Drinks.\nLooking for the locations of all Awaken Wine Worm? Collect every one of them with our guide here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Shen3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a glowing pot in a dimly lit, rustic cave or mine setting, surrounded by wooden beams and rocky terrain. Its purpose aligns with the context of upgrading the healing efficiency of the Gourd in the game. This pot may symbolize or represent the \"Upgrade Drinks\" menu or a location tied to collecting resources like Awaken Wine Worms, which are essential for enhancing healing effectiveness."
+    "chunk_id": 38651143870,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg",
+    "alt_text": "Wukong Snowhill 48.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.",
+    "img_below_text": "When you finally deplete the bosses health, you'll send her into the icy depths below the lake.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\"\n        - Following Text: \"When you finally deplete the bosses health, you'll send her into the icy depths below the lake.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an underwater scene, likely showing the aftermath of a boss battle in *Black Myth: Wukong*. It aligns with the guide's description of the dragon boss being defeated and sent into the icy depths of the lake."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 612937652662,
-    "source_file": "Nine-Capped_Lingzhi_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Field_Fire_Walkthrough_%284%29.png",
-    "alt_text": "Field Fire Walkthrough \\(4\\).png",
-    "position_desc": 4,
-    "img_above_text": "He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.",
-    "img_below_text": "These tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.\nWhen they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Nine-Capped_Lingzhi_Guai.md'.\n\n            Context:\n            - Preceding Text: \"He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.\"\n            - Following Text: \"These tiny red mushrooms will appear in any area that his attack lands -- including on you. If they start to grow on you, they'll reduce your movement significantly. This doesn't affect dodging, however, just walking. The biggest problem with this is that as you move around, the red mushrooms will appear on the floor around you and continue to explode, so you'll need to keep moving.\nWhen they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Field_Fire_Walkthrough_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky landscape where a menacing figure wielding a spiked mace is engaged in combat. Surrounding the figure are small red mushrooms that appear to be growing and exploding, releasing a red mist. This mist is poisonous and poses a significant threat to anyone in the vicinity. The preceding and following text suggests that these mushrooms reduce movement speed and create hazardous conditions that require constant evasion and the use of Antimiasma Powder to counteract the poison buildup. The image serves to illustrate the dangerous environment and the mechanics of the fight against this formidable opponent."
+    "chunk_id": 73261734616,
+    "source_file": "Pungent_Flesh_Chunk.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
+    "alt_text": "Pungent Flesh Chunk USe.jpg",
+    "position_desc": 3,
+    "img_above_text": "Using it will cause the First Prince of Flowing Sands boss to spawn. In order to obtain the Loong Scales, you will need to have the boss destroy the wall in the arena with all the small statues. Destroying it will open up a small gap you can pass through to get the Loong Scales.\nThe best way to do this is to stand against the wall at a short-to-medium distance from the boss and have it do its slam with its hand. It will do this by turning to its right with its fist along the ground. Alternatively, you can bait the boss' charge and take a hit to ensure the boss hits the wall.",
+    "img_below_text": "If you kill the boss without destroying the wall, extremely strong attacks from yourself can also destroy it. However, you will need to use one of the Transformation Spells, specifically Red Tides, as they have the strength to make an impact on the wall.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Using it will cause the First Prince of Flowing Sands boss to spawn. In order to obtain the Loong Scales, you will need to have the boss destroy the wall in the arena with all the small statues. Destroying it will open up a small gap you can pass through to get the Loong Scales.\nThe best way to do this is to stand against the wall at a short-to-medium distance from the boss and have it do its slam with its hand. It will do this by turning to its right with its fist along the ground. Alternatively, you can bait the boss' charge and take a hit to ensure the boss hits the wall.\"\n        - Following Text: \"If you kill the boss without destroying the wall, extremely strong attacks from yourself can also destroy it. However, you will need to use one of the Transformation Spells, specifically Red Tides, as they have the strength to make an impact on the wall.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"First Prince of Flowing Sands\" boss in an arena setting, mid-battle. The context suggests that the player must strategically position themselves to have the boss destroy a specific wall in the arena, enabling access to the Loong Scales. The boss appears to be performing a ground slam, which aligns with the described method of breaking the wall."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 352506171417,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png",
-    "alt_text": "Foothills Walkthrough \\(23\\).png",
-    "position_desc": 11,
-    "img_above_text": "![Foothills Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png)\nHe'll either launch himself at you and then spin the unicycle around until he flips it up and lands down heavily where you are, or he'll start to spin around the entirety of the arena and multiple duplicates of the unicycle will appear. These will then launch into a crisscross attack to get you, and he'll follow up with a heavy attack.",
-    "img_below_text": "When his health is down to the last third, he will cover the arena with a red haze, reducing the size of the arena that you'll fight the creature in. He will also begin to use two swords instead of one. This is when you want to throw out the Plantain Fan. It will clear the red haze immediately and continuously stun him, giving you more time to whittle down his health.\nSupreme Celestial Inspector",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png)\nHe'll either launch himself at you and then spin the unicycle around until he flips it up and lands down heavily where you are, or he'll start to spin around the entirety of the arena and multiple duplicates of the unicycle will appear. These will then launch into a crisscross attack to get you, and he'll follow up with a heavy attack.\"\n            - Following Text: \"When his health is down to the last third, he will cover the arena with a red haze, reducing the size of the arena that you'll fight the creature in. He will also begin to use two swords instead of one. This is when you want to throw out the Plantain Fan. It will clear the red haze immediately and continuously stun him, giving you more time to whittle down his health.\nSupreme Celestial Inspector\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss battle scene from *Black Myth: Wukong*. The player character, wielding a staff-like weapon, faces off against a winged, humanoid enemy on a fiery unicycle. The arena is engulfed in a red haze, with flames and glowing red energy emphasizing the chaotic and dangerous environment.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a critical moment in the fight against the \"Supreme Celestial Inspector.\" It highlights the boss's unique attack patterns, including the fiery unicycle and the red haze that reduces the arena's size. This visual serves to complement the text's strategy advice, such as using the Plantain Fan to clear the haze and stun the boss during this challenging phase."
+    "chunk_id": 270181672928,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Wolves_13.jpg",
+    "alt_text": "Wukong Wolves 13.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Wukong Wolves 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Wolves_12.jpg)\nGoing left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.",
+    "img_below_text": "Further down by the stream, you can spy a curious sight - a small Rat Guai will be looking around a small stone statue head at the end of the stream, before scurrying out of sight. If you go to check out what he was interacting with, you can touch the stone head to gain the **Skandha of Form** Key Item. Its purpose isn’t known just yet, but might be worth hanging onto…\nHead upstream to find another Purple**Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Wolves_12.jpg)\nGoing left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.\"\n        - Following Text: \"Further down by the stream, you can spy a curious sight - a small Rat Guai will be looking around a small stone statue head at the end of the stream, before scurrying out of sight. If you go to check out what he was interacting with, you can touch the stone head to gain the **Skandha of Form** Key Item. Its purpose isn’t known just yet, but might be worth hanging onto…\nHead upstream to find another Purple**Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the player character encounters a small Rat Guai near a stream. The Rat Guai is interacting with a stone statue head, which the player can later inspect to obtain the **Skandha of Form** Key Item. The environment features a forested area with rocks, a stream, and dense foliage, setting the stage for exploration and item discovery."
 }

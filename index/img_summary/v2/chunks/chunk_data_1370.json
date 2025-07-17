@@ -1,28 +1,11 @@
 {
-    "chunk_id": 448764818816,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(61\\).png",
-    "position_desc": 31,
-    "img_above_text": "The fight can feel quite fast-paced as they swap in and out to attack, so to put an end to their teamwork and slow things down, make use of spells like Immobilize. You should then aim to build as much Focus as possible and look for opportunities to perform heavy attacks. Both bosses can be staggered by this, giving you a chance to whittle down their health.\nCloudy Mist, Misty Cloud",
-    "img_below_text": "After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 31 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The fight can feel quite fast-paced as they swap in and out to attack, so to put an end to their teamwork and slow things down, make use of spells like Immobilize. You should then aim to build as much Focus as possible and look for opportunities to perform heavy attacks. Both bosses can be staggered by this, giving you a chance to whittle down their health.\nCloudy Mist, Misty Cloud\"\n            - Following Text: \"After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a dimly lit, snowy environment near a glowing purple Spirit. The prompt \"E - Take\" indicates an interaction option to collect the Spirit, which is likely a reward for defeating the preceding bosses.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual representation of the next step after defeating the bosses \"Cloudy Mist\" and \"Misty Cloud.\" It highlights the collection of the Spirit they drop, marking progression in the walkthrough toward the palace."
+    "chunk_id": 533984755987,
+    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/How_To_Claim_Deluxe_Edition_Items_%283%29.png",
+    "alt_text": "How To Claim Deluxe Edition Items \\(3\\).png",
+    "position_desc": 6,
+    "img_above_text": "### Curio\n* Wind Chimes",
+    "img_below_text": "",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Curio\n* Wind Chimes\"\n        - Following Text: \"\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays an in-game item called \"Wind Chimes\" from the \"Curio\" category in the Equipment menu of a video game. The item is highlighted for inspection, with intricate details and engravings visible. The context suggests it may serve a specific purpose or hold significance within the game's narrative or mechanics."
 }

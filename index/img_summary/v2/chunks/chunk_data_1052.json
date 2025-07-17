@@ -1,28 +1,11 @@
 {
-    "chunk_id": 82659609802,
-    "source_file": "Fiery_Gourd.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
-    "alt_text": "Wukong Mindcliff 9.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Black Myth: Wukong Fiery Gourd Location\nThe Fiery Gourd in Black Myth: Wukong can be found in Mindfulness Cliff in the Valley of Ecstasy in The New West. From the Shrine, drop down into the area below and continue through the caves and cliffs.",
-    "img_below_text": "Along the path, you will find a chest which holds the Fiery Gourd. Continue along the path to also find the Skandha of Thought, one of the Key Items you need to find a secret boss in the game's sixth chapter.\n![Wukong Mindcliff 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Mindcliff_13.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fiery_Gourd.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Fiery Gourd Location\nThe Fiery Gourd in Black Myth: Wukong can be found in Mindfulness Cliff in the Valley of Ecstasy in The New West. From the Shrine, drop down into the area below and continue through the caves and cliffs.\"\n            - Following Text: \"Along the path, you will find a chest which holds the Fiery Gourd. Continue along the path to also find the Skandha of Thought, one of the Key Items you need to find a secret boss in the game's sixth chapter.\n![Wukong Mindcliff 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Mindcliff_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy cliffside area in *Black Myth: Wukong*, specifically within Mindfulness Cliff in the Valley of Ecstasy. The player character is positioned near a ledge, with a glowing item highlighted in the distance (circled in red), suggesting the location of the Fiery Gourd. The scene aligns with the preceding and following text, which describes the path to finding the Fiery Gourd and other key items in the game. The visual serves as a guide to help players identify the exact location of the Fiery Gourd during exploration."
+    "chunk_id": 705164833832,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Foothills_Walkthrough_%28138%29.png",
+    "alt_text": "Foothills Walkthrough \\(138\\).png",
+    "position_desc": 50,
+    "img_above_text": "If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\nLang-Baw-Baw",
+    "img_below_text": "When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of the water. You'll see red trees in the distance, but it's the area on the right you'll want to go to first.\n### Yaoguai Chief - Poison Chief 3",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\nLang-Baw-Baw\"\n        - Following Text: \"When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of the water. You'll see red trees in the distance, but it's the area on the right you'll want to go to first.\n### Yaoguai Chief - Poison Chief 3\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character flying on a cloud over a lush, forested landscape with rocky cliffs. A red arrow points toward a specific area on the ground, likely indicating the next destination or objective in the game. Based on the context, this scene follows the defeat of Lang-Baw-Baw and precedes exploration toward red trees and the Poison Chief encounter. The arrow suggests the player should head to the marked area first."
 }

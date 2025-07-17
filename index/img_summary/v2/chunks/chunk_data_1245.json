@@ -1,28 +1,11 @@
 {
-    "chunk_id": 309230156568,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg",
-    "alt_text": "Wukong Fright 7.jpg",
-    "position_desc": 8,
-    "img_above_text": "### The First Buddha’s Eyeball\n![Wukong Fright 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Fright_6.jpg) Just up the sloping path, you should spot the smoke trail of the Fright Cliff’s Shrine up ahead, and just before it, ominous chanting. The chanting comes from a large buddha head statue in the ground, and by interacting with it, you can claim the Buddha’s Eyeball. In fact, there are six of them to find the Fright Cliff, and we’ll track them all down before long, as they can unlock a secret boss fight!",
-    "img_below_text": "After resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.\n![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"### The First Buddha’s Eyeball\n![Wukong Fright 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Fright_6.jpg) Just up the sloping path, you should spot the smoke trail of the Fright Cliff’s Shrine up ahead, and just before it, ominous chanting. The chanting comes from a large buddha head statue in the ground, and by interacting with it, you can claim the Buddha’s Eyeball. In fact, there are six of them to find the Fright Cliff, and we’ll track them all down before long, as they can unlock a secret boss fight!\"\n            - Following Text: \"After resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.\n![Wukong Fright 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows the player character standing in a grassy area near a rocky cliffside, with a small fire burning to the right and a darkened wooden structure partially hidden in the shadows to the left. A red arrow points towards the structure, suggesting it as the next point of interest or exploration.\n\n2. **Narrative Role**:  \nThe image serves as a visual guide for players navigating the Fright Cliff area in *Black Myth: Wukong*. It highlights the path leading to a darkened area on the left, as mentioned in the following text, contrasting with the brighter path along the cliffs. This visual cue helps players decide their next move after resting at the Shrine."
+    "chunk_id": 987114270005,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Furnace_Valley_Walkthrough_%2870%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(70\\).png",
+    "position_desc": 34,
+    "img_above_text": "Flaming Mountains Celestial Taiyi Pill\nThen look opposite the golden box to see a treasure chest inside the small building. Open this to pick up Blood of the Iron Bull and some gold pieces.",
+    "img_below_text": "Head back the other way and toward the steps. Before you go up them, you'll want to explore the lava on either side.\n![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Flaming Mountains Celestial Taiyi Pill\nThen look opposite the golden box to see a treasure chest inside the small building. Open this to pick up Blood of the Iron Bull and some gold pieces.\"\n        - Following Text: \"Head back the other way and toward the steps. Before you go up them, you'll want to explore the lava on either side.\n![Furnace Valley Walkthrough \\(80\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Furnace_Valley_Walkthrough_%2880%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, volcanic environment with lava flows and a staircase leading to a bridge in the background. A character, possibly the player, stands in the foreground holding a weapon, while an arrow highlights a path across the lava toward the staircase. This scene aligns with the preceding and following text, suggesting exploration of the lava area before ascending the steps as part of the \"Furnace Valley\" walkthrough in *Black Myth: Wukong*."
 }

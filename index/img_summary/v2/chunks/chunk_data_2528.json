@@ -1,28 +1,11 @@
 {
-    "chunk_id": 239978000845,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Sandgate_42.jpg",
-    "alt_text": "Wukong Sandgate 42.jpg",
-    "position_desc": 42,
-    "img_above_text": "Though it can often rise up on its hind legs to slash at you with its front claws, certain times its wild swings will make it crash forward to land belly up. After a moment it will thrash around and try to damage you if close, but with an exposed unarmored part of its body, you can try freezing it in place and expending a charged attack - preferably with the Smash or Pillar Style to slam down on its ribs for extra damage.\nYou can also get an opportune strike after dodging its grab by using that moment to hit it hard with a Spirit attack from the Wandering Wight, and big enough hits can cause it to fall on its belly as well.",
-    "img_below_text": "With enough damage dealt, the Earth Wolf will fall, revealing its Spirit to be claimed by you. You can look around the arena to harvest some Jade Lotus in the pond, or check the back of the houses to find other materials like Aged Ginseng.\nEarth Wolf",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 42 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Though it can often rise up on its hind legs to slash at you with its front claws, certain times its wild swings will make it crash forward to land belly up. After a moment it will thrash around and try to damage you if close, but with an exposed unarmored part of its body, you can try freezing it in place and expending a charged attack - preferably with the Smash or Pillar Style to slam down on its ribs for extra damage.\nYou can also get an opportune strike after dodging its grab by using that moment to hit it hard with a Spirit attack from the Wandering Wight, and big enough hits can cause it to fall on its belly as well.\"\n            - Following Text: \"With enough damage dealt, the Earth Wolf will fall, revealing its Spirit to be claimed by you. You can look around the arena to harvest some Jade Lotus in the pond, or check the back of the houses to find other materials like Aged Ginseng.\nEarth Wolf\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Sandgate_42.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a critical moment in a battle against the Earth Wolf, a formidable enemy. The Earth Wolf is shown lying on its back, vulnerable, while the player character prepares to deliver a powerful attack. This scene aligns with the preceding text, which describes strategies for exploiting the Earth Wolf's exposed belly to deal significant damage. The following text suggests that defeating the Earth Wolf will allow the player to claim its Spirit and gather valuable resources in the surrounding area."
+    "chunk_id": 170866405672,
+    "source_file": "The_Great_Sage%27s_Broken_Shell.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Water_Curtain_Cave_Walkthrough_%2860%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(60\\).png",
+    "position_desc": 1,
+    "img_above_text": "For this fight, you can expect two phases as well. You'll essentially be going up against a better version of yourself, with access to fully unlocked skills and stances that are also available to you.\nHe'll use variations of **Vengeful Mirage, which leaves an exploding illusion behind, Rock Solid, Ring of Fire, and Pluck of Many**. On top of this, he'll use Smash, Pillar, and Thrust Stance attacks.",
+    "img_below_text": "We'd recommend having Ring of Fire equipped, so you can match him, and upgrade it as much as possible. Strangely enough, if you step into his Ring of Fire, you can also use it to build your Focus.\nHowever, you may prefer to use Spell Binder (if you've unlocked it) and increase your Attack and Critical Hit Chance. We'd also suggest using Plantain Fan again in this phase. You should also use Medicines like the Loong Aura Amplification Pellets, Ginseng Pellets, and Enhanced Tiger Subduing Pellets to buff your Focus gain and attack.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"For this fight, you can expect two phases as well. You'll essentially be going up against a better version of yourself, with access to fully unlocked skills and stances that are also available to you.\nHe'll use variations of **Vengeful Mirage, which leaves an exploding illusion behind, Rock Solid, Ring of Fire, and Pluck of Many**. On top of this, he'll use Smash, Pillar, and Thrust Stance attacks.\"\n        - Following Text: \"We'd recommend having Ring of Fire equipped, so you can match him, and upgrade it as much as possible. Strangely enough, if you step into his Ring of Fire, you can also use it to build your Focus.\nHowever, you may prefer to use Spell Binder (if you've unlocked it) and increase your Attack and Critical Hit Chance. We'd also suggest using Plantain Fan again in this phase. You should also use Medicines like the Loong Aura Amplification Pellets, Ginseng Pellets, and Enhanced Tiger Subduing Pellets to buff your Focus gain and attack.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic confrontation between two armored characters in a serene, sunset-lit water setting. This scene likely represents the pivotal boss fight described in the walkthrough, where the player faces a mirror-like opponent with similar skills and stances. The setting emphasizes the duel's intensity and significance, aligning with the guide's strategy recommendations for overcoming this challenging encounter."
 }

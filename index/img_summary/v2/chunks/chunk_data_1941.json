@@ -1,28 +1,11 @@
 {
-    "chunk_id": 152954975679,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg",
-    "alt_text": "Licorice .jpg",
-    "position_desc": 7,
-    "img_above_text": "![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng",
-    "img_below_text": "![Black-myth-wukong-fragrant-jade-flower-icon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg)| Fragrant Jade Flower | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\n![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Aged Ginseg .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Aged_Ginseg_.jpg)| Aged Ginseng | Uncommon | Ingredient | Found in Black Wind Mountain and onwards (is a small thin plant) Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\"\n            - Following Text: \"![Black-myth-wukong-fragrant-jade-flower-icon.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg)| Fragrant Jade Flower | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\n![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a collection of ginseng roots, likely representing the Millenium Ginseng, a rare ingredient in the context of the game \"Black Myth: Wukong.\" This ingredient is obtained randomly from collecting Aged Ginseng, which is found in Black Wind Mountain and can be purchased from the Shrine store after saving the Shen Monkey Vendor. The image serves to visually represent the Millenium Ginseng's role as a valuable and rare item within the game's narrative, contributing to the player's progression and resource management."
+    "chunk_id": 637217810386,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Thunderclap_106.jpg",
+    "alt_text": "Wukong Thunderclap 106.jpg",
+    "position_desc": 105,
+    "img_above_text": "One of his hardest hitting new attacks will start with him holding his mace up and imbuing it with light, causing a huge light to shine out from its end as he holds it back over his head.\nYou'll need to avoid this overhead strike at all costs by rapidly strafing and dodging around him, as the vertical slam will cause that giant bolt of lightning to cleave the ground, creating a permanent electric scar in the ground (and will almost certainly cleave more than half your health on hit, or instantly kill you if you're taking double damage from a Shocked state).",
+    "img_below_text": "The scar will persist and continue to deal lightning damage if you walk too close to it, and as you learn this attack, you may want to try baiting him into slamming down in a corner to cover the least amount of ground.\nAmong his more familiar attacks, he can also detonate his mace after slamming into the ground after a short delay, so be ready if you notice the mace continue to glow (if it doesn't, you'll be a bit safer to engage near his weapon).",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"One of his hardest hitting new attacks will start with him holding his mace up and imbuing it with light, causing a huge light to shine out from its end as he holds it back over his head.\nYou'll need to avoid this overhead strike at all costs by rapidly strafing and dodging around him, as the vertical slam will cause that giant bolt of lightning to cleave the ground, creating a permanent electric scar in the ground (and will almost certainly cleave more than half your health on hit, or instantly kill you if you're taking double damage from a Shocked state).\"\n        - Following Text: \"The scar will persist and continue to deal lightning damage if you walk too close to it, and as you learn this attack, you may want to try baiting him into slamming down in a corner to cover the least amount of ground.\nAmong his more familiar attacks, he can also detonate his mace after slamming into the ground after a short delay, so be ready if you notice the mace continue to glow (if it doesn't, you'll be a bit safer to engage near his weapon).\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from a video game, showcasing a heavily armored enemy named \"Yellowbrow\" wielding a glowing, lightning-imbued mace. The environment features a dimly lit arena with ornate architectural elements and a glowing doorway in the background. The player character is seen on the ground, likely recovering or defeated, while the boss delivers a taunting line: \"You are at the end of your wits, with no one to turn to. Why persist with this farce?\" This scene aligns with the preceding and following text, highlighting the boss's devastating lightning-based attacks and the need for strategic evasion."
 }

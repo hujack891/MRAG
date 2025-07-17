@@ -1,28 +1,11 @@
 {
-    "chunk_id": 357392912758,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Field_Fire_Walkthrough_%2838%29.png",
-    "alt_text": "Field Fire Walkthrough \\(38\\).png",
-    "position_desc": 39,
-    "img_above_text": "When Baw-Lang-Lang whips its tongue, it will be coated in fire. The frog will whip it left to right, or shoot it straight out at you. You can jump over its tongue or dodge the attacks.\nYou'll then find it uses a leaping attack, where it swipes at you twice and then leaps up and over to you, to try and catch you. When it lands, a little burst of fire will emerge from underneath it.",
-    "img_below_text": "Changes in its attack pattern will begin around the halfway mark, and it will lean up toward the top of the cave and spit fireballs all around it. Hang back as far as you can when this happens to avoid them.\nIt will then start to breathe fire from its mouth as a jet, in which case, you'll want to get behind it and attack. Lastly, you'll see a change in its leap attacks. Wherever it jumps, it will send out small waves of fire in a circle around it. As you see it leaping, dodge and create distance between the two of you to avoid the circle of flames.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When Baw-Lang-Lang whips its tongue, it will be coated in fire. The frog will whip it left to right, or shoot it straight out at you. You can jump over its tongue or dodge the attacks.\nYou'll then find it uses a leaping attack, where it swipes at you twice and then leaps up and over to you, to try and catch you. When it lands, a little burst of fire will emerge from underneath it.\"\n            - Following Text: \"Changes in its attack pattern will begin around the halfway mark, and it will lean up toward the top of the cave and spit fireballs all around it. Hang back as far as you can when this happens to avoid them.\nIt will then start to breathe fire from its mouth as a jet, in which case, you'll want to get behind it and attack. Lastly, you'll see a change in its leap attacks. Wherever it jumps, it will send out small waves of fire in a circle around it. As you see it leaping, dodge and create distance between the two of you to avoid the circle of flames.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Field_Fire_Walkthrough_%2838%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Image Summary:**  \nThe image depicts a fiery battle scene between a player-character and Baw-Lang-Lang, a large frog-like creature engulfed in flames. The creature is shown spitting fireballs into the air, a key attack described in the walkthrough. The player-character, armed with a weapon, stands at a cautious distance, preparing to counter the creature's fiery onslaught.\n\n2. **Purpose/Narrative Role:**  \nThe image visually represents a critical moment in the fight against Baw-Lang-Lang, highlighting its fireball-spitting attack phase. This phase marks a shift in the creature's attack patterns, as described in the accompanying text, emphasizing the need for strategic positioning and evasion to survive the fight."
+    "chunk_id": 184620392218,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Foothills_Walkthrough_%28135%29.png",
+    "alt_text": "Foothills Walkthrough \\(135\\).png",
+    "position_desc": 32,
+    "img_above_text": "Now drop down from the Feng-Tail General and activate the nearby Keeper's Shrine. You'll see a field straight in front of you that's strewn with soldiers and fire. Before you head here, let's go find the second optional Poison Chief miniboss that's nearby.\n## Rhino Watch Slope",
+    "img_below_text": "Facing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.\n![Foothills Walkthrough \\(136\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Now drop down from the Feng-Tail General and activate the nearby Keeper's Shrine. You'll see a field straight in front of you that's strewn with soldiers and fire. Before you head here, let's go find the second optional Poison Chief miniboss that's nearby.\n## Rhino Watch Slope\"\n        - Following Text: \"Facing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.\n![Foothills Walkthrough \\(136\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a forested area with rocky cliffs in the background, viewed from an elevated perspective. A red arrow points toward a specific location in the forest, indicating a path or destination. The context suggests this is part of a walkthrough for *Black Myth: Wukong*, guiding players to navigate from the Keeper's Shrine to locate a nearby objective, possibly the second optional Poison Chief miniboss."
 }

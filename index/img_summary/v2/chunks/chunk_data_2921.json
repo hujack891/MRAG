@@ -1,28 +1,11 @@
 {
-    "chunk_id": 686010619891,
-    "source_file": "The_Scorpionlord.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_14.jpg",
-    "alt_text": "Wukong PurpleCloud 14.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong PurpleCloud 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg)\nDo note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!",
-    "img_below_text": "Another move he often follows up his initial combo with will start when you see him roll forward on the ground. He'll start rapidly spinning to send his tail whirling along the ground with him three times in quick succession, before rising up and slashing upward with his tail as he does.\n![Wukong PurpleCloud 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_PurpleCloud_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'The_Scorpionlord.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_PurpleCloud_17.jpg)\nDo note that later on in the fight, he can bait you with this attack by whirling away and starting to leap, but extending his tail far head instead to stab you!\"\n            - Following Text: \"Another move he often follows up his initial combo with will start when you see him roll forward on the ground. He'll start rapidly spinning to send his tail whirling along the ground with him three times in quick succession, before rising up and slashing upward with his tail as he does.\n![Wukong PurpleCloud 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_PurpleCloud_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_PurpleCloud_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game, showcasing a battle against a creature known as \"The Scorpionlord.\" The creature is in the midst of executing a dynamic attack move, possibly involving its tail, as suggested by the surrounding text. The preceding and following context describes the creature's combat tactics, including baiting with tail attacks and rolling forward to initiate a spinning tail combo. The image serves to visually illustrate the gameplay mechanics and strategies players might encounter during this boss fight."
+    "chunk_id": 237584305662,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_UpperHollow_2.jpg",
+    "alt_text": "Wukong UpperHollow 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "After facing certain doom trapped in the web of the spider guais of this realm, the Destined One will suddenly awake safe in a bed, somewhere deep underground below the Lanxi Village.\nOnce you are up again, you'll find a helpful gold box has been placed by the bed, and you can open the small **Treasure Chest** to claim 3 Antimiasma Powder and 1 Longevity Decoction. If you can't take the hint, it means you're likely to run into a lot of poison-inducing enemies in this area.",
+    "img_below_text": "Before following the golden trail of a nearby Shrine, look to the left of the bed and small chest to find a path leading to another larger **Treasure Chest** you can open to claim a **Cuo Jin-Yin Belt Hook Curio** , another item that can help resist all the poison you'll be encountering.\n## Upper Hollow",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After facing certain doom trapped in the web of the spider guais of this realm, the Destined One will suddenly awake safe in a bed, somewhere deep underground below the Lanxi Village.\nOnce you are up again, you'll find a helpful gold box has been placed by the bed, and you can open the small **Treasure Chest** to claim 3 Antimiasma Powder and 1 Longevity Decoction. If you can't take the hint, it means you're likely to run into a lot of poison-inducing enemies in this area.\"\n        - Following Text: \"Before following the golden trail of a nearby Shrine, look to the left of the bed and small chest to find a path leading to another larger **Treasure Chest** you can open to claim a **Cuo Jin-Yin Belt Hook Curio** , another item that can help resist all the poison you'll be encountering.\n## Upper Hollow\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character exploring a dark, rocky, and web-filled underground area, likely near Lanxi Village. The red-circled object in the distance appears to be a **Treasure Chest**, which aligns with the preceding text mentioning a small chest containing **Antimiasma Powder** and **Longevity Decoction** to prepare for poison-inducing enemies. The inventory on the right confirms the acquisition of these items. This scene serves as a preparatory moment in the narrative, emphasizing the importance of gathering resources to resist poison threats in the upcoming area."
 }

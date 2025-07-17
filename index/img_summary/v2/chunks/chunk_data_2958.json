@@ -1,28 +1,11 @@
 {
-    "chunk_id": 685420851164,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(9\\).png",
-    "position_desc": 11,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png)\nGo to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.",
-    "img_below_text": "When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png)\nGo to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.\"\n            - Following Text: \"When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scenic, sunlit forest path with a character in ornate armor holding a weapon, likely from the game \"Black Myth: Wukong.\" This image serves to illustrate the moment after the player emerges from a cave, highlighting the final stretch of the path leading to the Peak of Innocence Keeper's Shrine, as described in the preceding and following text."
+    "chunk_id": 125663093360,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_UpperHollow_45.jpg",
+    "alt_text": "Wukong UpperHollow 45.jpg",
+    "position_desc": 47,
+    "img_above_text": "![Wukong UpperHollow 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_UpperHollow_44.jpg)\nHead back to the Pool of Shattered Jade Shrine, and look back to the path where the Scorpion Prince was to spot a large wooden scaffold bridge. Be sure to check around the left side first for a green Wisp, then cross the two-tiered bridge to drop down a level.",
+    "img_below_text": "Look out for an archer on the lower floor here, and get rid of him before crossing the bridge to find a ledge with another green Wisp.\n![Wukong UpperHollow 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_UpperHollow_46.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_UpperHollow_44.jpg)\nHead back to the Pool of Shattered Jade Shrine, and look back to the path where the Scorpion Prince was to spot a large wooden scaffold bridge. Be sure to check around the left side first for a green Wisp, then cross the two-tiered bridge to drop down a level.\"\n        - Following Text: \"Look out for an archer on the lower floor here, and get rid of him before crossing the bridge to find a ledge with another green Wisp.\n![Wukong UpperHollow 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_UpperHollow_46.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the player character in *Black Myth: Wukong* standing on a wooden scaffold bridge, holding a glowing staff. The scene highlights a downward path indicated by a red arrow, suggesting the next step in the exploration. The environment features a dark, rocky area with vegetation and a glowing light in the distance, aligning with the guide's instructions to navigate the bridge and descend to the next level."
 }

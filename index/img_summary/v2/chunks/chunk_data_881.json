@@ -1,28 +1,11 @@
 {
-    "chunk_id": 210357065613,
-    "source_file": "Drinks.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg",
-    "alt_text": "Lambrew .jpg",
-    "position_desc": 2,
-    "img_above_text": "---|---|---|---|---|---\n![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine",
-    "img_below_text": "![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance\n![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Drinks.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---|---\n![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine\"\n            - Following Text: \"![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance\n![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a unique drinking vessel shaped like a horse's head, likely made of ceramic or stone. Its design suggests it could be an ancient or artistic artifact, possibly symbolizing strength or nobility.\n\n2. **Purpose, Content, or Narrative Role**:  \nBased on the preceding and following text, the image likely represents a drink or item featured in the game *Black Myth: Wukong*. It may signify a special or thematic drink, akin to the \"Coconut Wine\" and \"Bluebridge Romance\" mentioned in the context. The vessel's distinctive design could hint at its cultural or mythical significance within the game's narrative."
+    "chunk_id": 130430881511,
+    "source_file": "Emerald-Armed_Mantis.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png",
+    "alt_text": "Foothills Walkthrough \\(97\\).png",
+    "position_desc": 6,
+    "img_above_text": "![Foothills Walkthrough \\(95\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png)\nIt's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.",
+    "img_below_text": "The mantis will now become quite erratic with its movements, flipping all around the stomach. Immobilize will help out with this, but so will the Plantain Fan, which will push the Mantis back to a part of the stomach and pin it there for you to attack. It will also stop it from being able to fly too much in the air.\n![Foothills Walkthrough \\(104\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%28104%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(95\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png)\nIt's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\"\n        - Following Text: \"The mantis will now become quite erratic with its movements, flipping all around the stomach. Immobilize will help out with this, but so will the Plantain Fan, which will push the Mantis back to a part of the stomach and pin it there for you to attack. It will also stop it from being able to fly too much in the air.\n![Foothills Walkthrough \\(104\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%28104%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic moment in the boss fight against a mantis-like creature in *Black Myth: Wukong*. The creature's blades, now glowing red after being dipped in a liquid, signify a shift in the battle's intensity, as described in the preceding text. The dark, organic environment and the creature's aggressive stance emphasize the heightened danger and erratic behavior mentioned in the following text."
 }

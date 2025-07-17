@@ -1,28 +1,11 @@
 {
-    "chunk_id": 269994951481,
-    "source_file": "Hundred-Eyed_Daoist_Master.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg",
-    "alt_text": "Wukong YellowFlower 68.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Wukong YellowFlower 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_67.jpg)\nHe often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.",
-    "img_below_text": "Most times, he'll also begin the fight with stamping down with his two front talons, following up with a quick sword slash, and will then imbue his sword with lightning for a moment, before triggering a delayed downward slash to electrify you.\n![Wukong YellowFlower 69.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_YellowFlower_69.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Hundred-Eyed_Daoist_Master.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_67.jpg)\nHe often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.\"\n            - Following Text: \"Most times, he'll also begin the fight with stamping down with his two front talons, following up with a quick sword slash, and will then imbue his sword with lightning for a moment, before triggering a delayed downward slash to electrify you.\n![Wukong YellowFlower 69.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_YellowFlower_69.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the \"Hundred-Eyed Daoist Master,\" a formidable boss character in *Black Myth: Wukong*. The scene showcases the master mid-attack, wielding talismans and a sword while mounted on a spider-like creature. The preceding and following text describe his combat style, including lightning-based attacks and sword slashes, emphasizing the need for strategic dodging and timing to counter his moves effectively. The image visually reinforces the intensity and complexity of the encounter, highlighting his dynamic abilities and the challenging nature of the fight."
+    "chunk_id": 412749564643,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_92.jpg",
+    "alt_text": "Wukong Thunderclap 92.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.",
+    "img_below_text": "If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.\"\n        - Following Text: \"If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense boss battle against the \"Macaque Chief\" in *Black Myth: Wukong*. The scene is dominated by a red, fiery atmosphere, highlighting the boss's powerful attack, which appears to involve a spinning or slashing motion. The player's HUD is visible, showing health, abilities, and items, emphasizing the high-stakes nature of the fight. This moment aligns with the guide's description of the boss's fast-diving slash and subsequent cyclone of blade slashes."
 }

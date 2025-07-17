@@ -1,28 +1,11 @@
 {
-    "chunk_id": 222190640140,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg",
-    "alt_text": "Wukong RedLoong 16.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Wukong Wight 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg)\nNote that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.",
-    "img_below_text": "The pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.\n![Wukong Tiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wight 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg)\nNote that the Smash Stance heavy attack is the best for single target damage, and that you can run while charging it, but it has by far the worst range.\"\n            - Following Text: \"The pillar stance heavy attack is quite slow, but does big AOE damage and can knock enemies flying off ledges.\n![Wukong Tiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from \"Black Myth: Wukong,\" showcasing a battle against a creature named \"Red Loong.\" The context suggests that the image is part of a guide discussing combat strategies, specifically focusing on the effectiveness of different attack stances. The preceding text highlights the Smash Stance heavy attack for single target damage, while the following text mentions the Pillar Stance heavy attack for area-of-effect damage. The image likely illustrates the use of these combat techniques in a practical scenario within the game."
+    "chunk_id": 787287064013,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Woods_Ember_Walkthrough_%2845%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(45\\).png",
+    "position_desc": 28,
+    "img_above_text": "![Woods Ember Walkthrough \\(48\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Woods_Ember_Walkthrough_%2848%29.png)\nWatch out for the next Lavabat, and when you've tackled it, **don't head up the long set of stairs**. Instead, go to the left first. Take out the Revenant Archer and the Revenant that will emerge from the floor as you get close. When it's clear, head for the end of the path and turn right.",
+    "img_below_text": "Take out the Revenant Charface and Charbone guarding the chest, then open it to collect Fine Gold Thread and a Mind Core.\n![Woods Ember Walkthrough \\(50\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Woods_Ember_Walkthrough_%2850%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(48\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Woods_Ember_Walkthrough_%2848%29.png)\nWatch out for the next Lavabat, and when you've tackled it, **don't head up the long set of stairs**. Instead, go to the left first. Take out the Revenant Archer and the Revenant that will emerge from the floor as you get close. When it's clear, head for the end of the path and turn right.\"\n        - Following Text: \"Take out the Revenant Charface and Charbone guarding the chest, then open it to collect Fine Gold Thread and a Mind Core.\n![Woods Ember Walkthrough \\(50\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Woods_Ember_Walkthrough_%2850%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the \"Black Myth: Wukong\" walkthrough, showing the player character approaching a Revenant Archer and another enemy near a wooden barricade. The red arrow highlights the direction of the enemies, aligning with the guide's instructions to take out these foes before proceeding further along the path. The environment features rugged terrain, a broken rope bridge, and a dark, atmospheric setting."
 }

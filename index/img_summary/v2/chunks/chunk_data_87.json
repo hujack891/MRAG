@@ -1,28 +1,11 @@
 {
-    "chunk_id": 332924670079,
+    "chunk_id": 342484415018,
     "source_file": "Baw-Baw-Lang-Lang_Spirit.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Baw-Baw-Lang-Lang_ice.jpg",
     "alt_text": "Baw-Baw-Lang-Lang ice.jpg",
     "position_desc": 1,
     "img_above_text": "* How to Get the Baw-Baw-Lang-Lang Spirit\n* Baw-Baw-Lang-Lang Spirit",
     "img_below_text": "## How to Get the Baw-Baw-Lang-Lang Spirit\nInstead of finding Baw-Baw-Lang-Lang lurking somewhere waiting for a fight, you have to evolve this one from an existing Spirit you will have picked up in Chapter 1, Baw-Li-Guh-Lang. Baw-Li-Guh-Lang can be found after reaching the Snake Trail Keeper's Shrine on Black Wind Mountain. Once you're there, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Baw-Baw-Lang-Lang_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* How to Get the Baw-Baw-Lang-Lang Spirit\n* Baw-Baw-Lang-Lang Spirit\"\n            - Following Text: \"## How to Get the Baw-Baw-Lang-Lang Spirit\nInstead of finding Baw-Baw-Lang-Lang lurking somewhere waiting for a fight, you have to evolve this one from an existing Spirit you will have picked up in Chapter 1, Baw-Li-Guh-Lang. Baw-Li-Guh-Lang can be found after reaching the Snake Trail Keeper's Shrine on Black Wind Mountain. Once you're there, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Baw-Baw-Lang-Lang_ice.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a creature, likely the Baw-Li-Guh-Lang Spirit, is performing an action that creates a burst of energy or mist. The context suggests that this image is part of a guide on how to evolve the Baw-Li-Guh-Lang Spirit into the Baw-Baw-Lang-Lang Spirit. The creature is shown in a dynamic pose, possibly indicating a moment of transformation or a special ability being used. The image serves to visually represent the in-game process or action described in the accompanying text."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* How to Get the Baw-Baw-Lang-Lang Spirit\n* Baw-Baw-Lang-Lang Spirit\"\n        - Following Text: \"## How to Get the Baw-Baw-Lang-Lang Spirit\nInstead of finding Baw-Baw-Lang-Lang lurking somewhere waiting for a fight, you have to evolve this one from an existing Spirit you will have picked up in Chapter 1, Baw-Li-Guh-Lang. Baw-Li-Guh-Lang can be found after reaching the Snake Trail Keeper's Shrine on Black Wind Mountain. Once you're there, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a wolf-like creature crouched on the ground, seemingly performing or being affected by a special ability or action, as indicated by the burst of energy or mist emanating from its front. The on-screen interface includes ability icons and a health or stamina bar, suggesting gameplay mechanics. This scene likely illustrates a moment related to evolving or interacting with the Baw-Baw-Lang-Lang Spirit, as described in the surrounding text."
 }

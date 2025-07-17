@@ -1,28 +1,11 @@
 {
-    "chunk_id": 686987992936,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_12.jpg",
-    "alt_text": "Wukong Thunderclap 12.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Thunderclap 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Thunderclap_11.jpg)\nThe sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.",
-    "img_below_text": "At the top of the slope, two Censor Holders and a Supporter Monk are praying to statues of Turtle and Snake General, and you can ignore them or unleash a surprise attack if you wish.\n![Wukong Thunderclap 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Thunderclap_11.jpg)\nThe sloping path itself is lined with several Supporter Monks, but are thankfully slow to attack and allow you to charge up your focus points with light combos and unleash big hits before they can react.\"\n            - Following Text: \"At the top of the slope, two Censor Holders and a Supporter Monk are praying to statues of Turtle and Snake General, and you can ignore them or unleash a surprise attack if you wish.\n![Wukong Thunderclap 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**:  \nThe image depicts Wukong standing in a snowy courtyard near a red temple building, with a glowing item highlighted in the background (circled in red). The setting suggests a moment of exploration or preparation before advancing further up the slope, where more enemies await.\n\n2. **Narrative Role**:  \nThis scene serves as a transitional area where players can explore and potentially collect items (e.g., the glowing object) before engaging with the enemies described in the following text. It provides a brief respite and an opportunity to prepare for the upcoming encounter."
+    "chunk_id": 918082459977,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Pagoda_17X.jpg",
+    "alt_text": "Wukong Pagoda 17X.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong Pagoda 16X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_16X.jpg)\nBehind where the Blade Monk is, you can find a statue with an altar and a tiny chest that holds a **Fine China Tea Bowl Curio**.",
+    "img_below_text": "Next, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.\n## Lower Pagoda (Level 2)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 16X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Pagoda_16X.jpg)\nBehind where the Blade Monk is, you can find a statue with an altar and a tiny chest that holds a **Fine China Tea Bowl Curio**.\"\n        - Following Text: \"Next, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.\n## Lower Pagoda (Level 2)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark underground area in the game *Black Myth: Wukong*, where the player character is approaching an enemy, identified as a Blade Monk, guarding a treasure chest. The red-dotted circle highlights the chest, which likely contains valuable items. This scene aligns with the walkthrough's guidance to defeat the Blade Monk and loot the chest for assorted materials."
 }

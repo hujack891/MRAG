@@ -1,28 +1,11 @@
 {
-    "chunk_id": 14433989403,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png",
-    "alt_text": "Foothills Walkthrough \\(136\\).png",
-    "position_desc": 33,
-    "img_above_text": "![Foothills Walkthrough \\(135\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Foothills_Walkthrough_%28135%29.png)\nFacing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.",
-    "img_below_text": "In the midst of the trees, there's a small patch of ground with no grass. The Poison Chief can be found here.\n### Yaoguai Chief - Poison Chief 2",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 33 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(135\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Foothills_Walkthrough_%28135%29.png)\nFacing the Keeper's Shrine, fly up from it and look to the right. Get as high as you can, and you'll see a large rock. Head straight toward it and over it, then continue past and turn slightly to the right again.\"\n            - Following Text: \"In the midst of the trees, there's a small patch of ground with no grass. The Poison Chief can be found here.\n### Yaoguai Chief - Poison Chief 2\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Foothills_Walkthrough_%28136%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a lush forest landscape with a clear patch of ground, highlighted by an arrow, indicating a significant location within the game \"Black Myth: Wukong.\" This area is identified as the spot where the Poison Chief, a notable enemy, can be found. The preceding text suggests navigating from the Keeper's Shrine, flying up and over a large rock, to reach this location, providing guidance for players exploring the game."
+    "chunk_id": 499060535200,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Wolves_39.jpg",
+    "alt_text": "Wukong Wolves 39.jpg",
+    "position_desc": 46,
+    "img_above_text": "![Wukong Wolves 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Wolves_37.jpg)\nHe can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.",
+    "img_below_text": "Another quick moving attack has a lengthy start up, as he’ll keep somersaulting backward and leaping to build up momentum, jumping high and pausing in the air before slamming forward with weapon blazing. If you have the Pillar Style unlocked, you can actually hold your Heavy Attack button to lift yourself off the ground and avoid the attack entirely! He’ll waste time twirling his blade after this strike, making it a good time to get your own hits in.\n![Wukong Wolves 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_Wolves_40.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Wolves_37.jpg)\nHe can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.\"\n        - Following Text: \"Another quick moving attack has a lengthy start up, as he’ll keep somersaulting backward and leaping to build up momentum, jumping high and pausing in the air before slamming forward with weapon blazing. If you have the Pillar Style unlocked, you can actually hold your Heavy Attack button to lift yourself off the ground and avoid the attack entirely! He’ll waste time twirling his blade after this strike, making it a good time to get your own hits in.\n![Wukong Wolves 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_Wolves_40.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a moment from a boss battle in *Black Myth: Wukong*, showing the player character, armed with a staff, facing off against Guangzhi, a fiery, humanoid enemy mid-attack. The glowing enemy appears to be dashing forward with flames and sparks trailing behind, aligning with the preceding text's description of a high-speed dash attack. The player's stance suggests readiness to evade or counter the incoming strike."
 }

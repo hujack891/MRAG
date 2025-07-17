@@ -1,28 +1,11 @@
 {
-    "chunk_id": 962691634058,
-    "source_file": "Stone_Essence.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Stone_Essence_3.jpg",
-    "alt_text": "Stone Essence 3.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Where To Use The Stone Essence in Black Myth: Wukong\nWith the Stone Essence in hand, you can give it to the Man-In-Stone, who is located along the central path between the two raised paths from the Fright Cliff - Squall Hideout Shrine.",
-    "img_below_text": "Giving it to him will cause him to stand up and he will tell you to go away. However, you can now target him and kill him, which is what you should do to get the Azure Dust Transformation Spells. For a full guide on the boss, be sure to check our Mother of Stones boss guide and our walkthrough of Fright Cliff.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Stone_Essence.md'.\n\n            Context:\n            - Preceding Text: \"## Where To Use The Stone Essence in Black Myth: Wukong\nWith the Stone Essence in hand, you can give it to the Man-In-Stone, who is located along the central path between the two raised paths from the Fright Cliff - Squall Hideout Shrine.\"\n            - Following Text: \"Giving it to him will cause him to stand up and he will tell you to go away. However, you can now target him and kill him, which is what you should do to get the Azure Dust Transformation Spells. For a full guide on the boss, be sure to check our Mother of Stones boss guide and our walkthrough of Fright Cliff.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Stone_Essence_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player's character standing in a rocky, desolate landscape. An arrow points towards a path, indicating the direction to the Man-In-Stone, who is central to the narrative involving the Stone Essence. The preceding and following text suggests that the player should interact with the Man-In-Stone by giving him the Stone Essence, which will lead to a confrontation necessary for acquiring the Azure Dust Transformation Spells. The image serves as a visual guide to help players locate the Man-In-Stone along the described path."
+    "chunk_id": 200058066531,
+    "source_file": "Virtuous_Bamboo_Engraving.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_YellowFlower_14.jpg",
+    "alt_text": "Wukong YellowFlower 14.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Myth: Wukong Virtuous Bamboo Engraving Location\nThe Virtuous Bamboo Engraving Curios item can be found randomly by defeating Snake Heads enemies in The Webbed Hollow. The best spot to farm it is at the Temple of Yellow Flowers entrance.",
+    "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Virtuous Bamboo Engraving Location\nThe Virtuous Bamboo Engraving Curios item can be found randomly by defeating Snake Heads enemies in The Webbed Hollow. The best spot to farm it is at the Temple of Yellow Flowers entrance.\"\n        - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a gameplay scene from *Black Myth: Wukong*, highlighting the location near the Temple of Yellow Flowers entrance in The Webbed Hollow. The player character, equipped with a flaming staff, is positioned in a lush, forested area with a red-circled marker indicating a point of interest, likely related to farming the Virtuous Bamboo Engraving Curios item by defeating Snake Heads enemies. The image serves as a visual aid to guide players in locating the optimal farming spot for this item."
 }

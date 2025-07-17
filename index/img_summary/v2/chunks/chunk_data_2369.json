@@ -1,28 +1,11 @@
 {
-    "chunk_id": 89464950091,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg",
-    "alt_text": "Wukong Pagoda 98.jpg",
-    "position_desc": 94,
-    "img_above_text": "This will lead to the bottom of a giant frozen waterfall, and guarding it is a strange type of Abomination enemy. This foe sports two tentacle-like appendages growing over his shoulder that he can use to attack with, alternating lashes with both sides before bringing them both upward.\nHe can also spin in place while using his appendages to grab a snow-covered rock out of the ground, using his momentum to slam it down on you for a startling amount of damage, requiring you to dodge quickly to avoid taking damage.",
-    "img_below_text": "He can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.\n![Wukong Pagoda 99.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 94 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"This will lead to the bottom of a giant frozen waterfall, and guarding it is a strange type of Abomination enemy. This foe sports two tentacle-like appendages growing over his shoulder that he can use to attack with, alternating lashes with both sides before bringing them both upward.\nHe can also spin in place while using his appendages to grab a snow-covered rock out of the ground, using his momentum to slam it down on you for a startling amount of damage, requiring you to dodge quickly to avoid taking damage.\"\n            - Following Text: \"He can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.\n![Wukong Pagoda 99.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character, resembling a monkey-like figure, is engaged in combat with a formidable Abomination enemy near a frozen waterfall. The enemy is characterized by its tentacle-like appendages, which it uses to attack the player. The surrounding snowy environment and the presence of other figures suggest a challenging battle scenario. The preceding and following text describe the enemy's attack patterns and strategies for defeating it, emphasizing the need for quick dodges and the use of spells and Spirit Attacks to keep the enemy staggered."
+    "chunk_id": 979793993667,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Snowhill_24.jpg",
+    "alt_text": "Wukong Snowhill 24.jpg",
+    "position_desc": 23,
+    "img_above_text": "![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)\nEntering the large temple complex, there's actually not as much to explore as you might think. A large open area to the right leads to a sealed building, but guarding it is a new enemy - the Yaksha Patroller.",
+    "img_below_text": "These formidable foes are pretty beefy, and use their wicked weapons to throw at you like boomerangs from a distance. They can also string long combo attacks together, requiring you to interrupt one with a Rock Solid deflection or wait until their final leaping slash or delayed uppercut to retaliate.\nOnce the Patroller is down, you can find a green Wisp to absorb at the foot of the building to replenish your gourd, but there's not much else here.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)\nEntering the large temple complex, there's actually not as much to explore as you might think. A large open area to the right leads to a sealed building, but guarding it is a new enemy - the Yaksha Patroller.\"\n        - Following Text: \"These formidable foes are pretty beefy, and use their wicked weapons to throw at you like boomerangs from a distance. They can also string long combo attacks together, requiring you to interrupt one with a Rock Solid deflection or wait until their final leaping slash or delayed uppercut to retaliate.\nOnce the Patroller is down, you can find a green Wisp to absorb at the foot of the building to replenish your gourd, but there's not much else here.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the protagonist engaged in battle with a Yaksha Patroller in a snowy environment near a temple complex. The Yaksha Patroller is mid-attack, while the protagonist appears to be evading or countering. The HUD displays health bars, abilities, and controls, emphasizing the game's action-oriented mechanics. This moment aligns with the walkthrough's description of encountering and defeating the Yaksha Patroller to progress in the area."
 }

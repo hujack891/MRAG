@@ -1,28 +1,11 @@
 {
-    "chunk_id": 237725744719,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg",
-    "alt_text": "Wukong Sandgate 56.jpg",
-    "position_desc": 54,
-    "img_above_text": "![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\nIf you hear him start to yell at a distance, be prepared for a charge attack that comes with a three hit smashing sweep attack, and wait until his final attack to retaliate with your own combo attack.",
-    "img_below_text": "Sometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.\n![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 54 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\nIf you hear him start to yell at a distance, be prepared for a charge attack that comes with a three hit smashing sweep attack, and wait until his final attack to retaliate with your own combo attack.\"\n            - Following Text: \"Sometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.\n![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong.\" The player character, labeled as \"Second Rat Prince,\" is engaged in combat with a formidable enemy known as the \"King of Flowing Sands.\" The preceding text advises players to prepare for a charge attack with a three-hit smashing sweep and to counterattack after the final move. The following text suggests dodging a headbutt slam to exploit the enemy's stagger for a counterattack. The image illustrates the game's combat mechanics and strategic elements during a boss fight."
+    "chunk_id": 704574132753,
+    "source_file": "The_Second_Sister.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Lanxi_27.jpg",
+    "alt_text": "Wukong Lanxi 27.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Lanxi 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Lanxi_26.jpg)\nThe Second Sister also has a few unorthodox attacks that can be hard to spot, but easier to punish once you get the hang of them. One of these attacks will start as he twists her body away from you first, and then rapidly spins her body around while launching herself forward, and is better avoided than trying to deflect it.",
+    "img_below_text": "Another move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.\n![Wukong Lanxi 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Lanxi 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Lanxi_26.jpg)\nThe Second Sister also has a few unorthodox attacks that can be hard to spot, but easier to punish once you get the hang of them. One of these attacks will start as he twists her body away from you first, and then rapidly spins her body around while launching herself forward, and is better avoided than trying to deflect it.\"\n        - Following Text: \"Another move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.\n![Wukong Lanxi 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, featuring the boss \"The Second Sister.\" The boss is executing an attack, likely the spinning forward lunge described in the preceding text, as indicated by the glowing projectiles and dynamic movement. The player character appears to be evading or recovering from the attack. The environment includes a dark, eerie setting with trees and a traditional building in the background, emphasizing the game's atmospheric tone."
 }

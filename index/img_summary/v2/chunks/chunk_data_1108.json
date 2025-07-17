@@ -1,28 +1,11 @@
 {
-    "chunk_id": 469189067582,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Foothills_Walkthrough_%28111%29.png",
-    "alt_text": "Foothills Walkthrough \\(111\\).png",
-    "position_desc": 20,
-    "img_above_text": "![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)\nYou can generally stay close to this boss, but just watch out for its roar that will stun you for a few seconds. To combat Jiao-Loong of Waves, you'll want to use heavy attacks. It's not so steady on its feet, so you can easily knock it over or at least temporarily stun it. This will give you longer periods of time to give it a beatdown without interruption. If you use the Plantain Fan here, it'll be constantly knocked down on the floor, giving you even more time to attack.",
-    "img_below_text": "When its health has been knocked down past the halfway mark, it will start to dive into the water where you won't be able to reach it. It will move underneath the surface to try and dive up and attack you. Look for where the water is rippling to work out where it'll emerge.\n![Foothills Walkthrough \\(123\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%28123%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)\nYou can generally stay close to this boss, but just watch out for its roar that will stun you for a few seconds. To combat Jiao-Loong of Waves, you'll want to use heavy attacks. It's not so steady on its feet, so you can easily knock it over or at least temporarily stun it. This will give you longer periods of time to give it a beatdown without interruption. If you use the Plantain Fan here, it'll be constantly knocked down on the floor, giving you even more time to attack.\"\n            - Following Text: \"When its health has been knocked down past the halfway mark, it will start to dive into the water where you won't be able to reach it. It will move underneath the surface to try and dive up and attack you. Look for where the water is rippling to work out where it'll emerge.\n![Foothills Walkthrough \\(123\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%28123%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Foothills_Walkthrough_%28111%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows the tail of a large aquatic creature, likely Jiao-Loong of Waves, submerged in a calm, forested body of water. Ripples and splashes around the tail suggest movement, indicating the creature is active and possibly preparing to attack or reposition.\n\n2. **Purpose and Narrative Role**:  \nThe image visually represents the phase of the boss fight where Jiao-Loong dives into the water after its health drops below half. It highlights the creature's underwater movement and sets the stage for the player to anticipate its next attack by observing ripples on the water's surface."
+    "chunk_id": 776853876070,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wolves_25.jpg",
+    "alt_text": "Wukong Wolves 25.jpg",
+    "position_desc": 33,
+    "img_above_text": "## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.",
+    "img_below_text": "You’ll be transformed into a small Golden Cicada, which will allow you to fly around the next area to get a look at the dangers to come before you face them yourself. However, your flight time will be limited by the meter slowly fading in the bottom left, and whenever you run out of juice (or manually de-transform) you may find yourself in hot water, so how much you actually want to explore in this form is up to you.\nThe main path through is area is a very straightforward one, as you can simply follow the straight path past the first two Wolf guards near the Shrine, to a axe-wielding Wolf Stalwart by a small bridge over a stream, and then straight through a tunnel that’s guarded by an extremely tough (and very optional) mini-boss with a giant head.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.\"\n        - Following Text: \"You’ll be transformed into a small Golden Cicada, which will allow you to fly around the next area to get a look at the dangers to come before you face them yourself. However, your flight time will be limited by the meter slowly fading in the bottom left, and whenever you run out of juice (or manually de-transform) you may find yourself in hot water, so how much you actually want to explore in this form is up to you.\nThe main path through is area is a very straightforward one, as you can simply follow the straight path past the first two Wolf guards near the Shrine, to a axe-wielding Wolf Stalwart by a small bridge over a stream, and then straight through a tunnel that’s guarded by an extremely tough (and very optional) mini-boss with a giant head.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts gameplay where the player has transformed into a Golden Cicada to scout the upcoming area. The perspective shows the cicada flying through a forested path, with a meter in the bottom left indicating limited flight time. This transformation allows the player to explore and assess potential dangers ahead before proceeding in their normal form."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 216857435428,
-    "source_file": "Elder_Jinchi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Guanyin_5.jpg",
-    "alt_text": "Wukong Guanyin 5.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Guanyin 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Guanyin_6.jpg)\nAs previously mentioned, Jinchi shares a lot of moves with the Wandering Wight. He can perform one or several spinning attacks that can be hard to judge the range of their attack, and can combo them into other moves like one or two stomp attacks, or a frighteningly fast jumping stomp attack.",
-    "img_below_text": "He can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.\n![Wukong Guanyin 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_Guanyin_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Elder_Jinchi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Guanyin 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Guanyin_6.jpg)\nAs previously mentioned, Jinchi shares a lot of moves with the Wandering Wight. He can perform one or several spinning attacks that can be hard to judge the range of their attack, and can combo them into other moves like one or two stomp attacks, or a frighteningly fast jumping stomp attack.\"\n            - Following Text: \"He can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.\n![Wukong Guanyin 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_Guanyin_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Guanyin_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showcasing a battle against Elder Jinchi, a boss character. Jinchi is performing an attack in a dark, atmospheric arena surrounded by wandering spirits, which are likely part of his abilities to enhance his moves. The player character is positioned in the foreground, preparing to engage while dodging Jinchi's powerful attacks, such as spinning strikes and stomps, as described in the preceding and following text."
+    "chunk_id": 242230989197,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Field_Fire_Walkthrough_%2833%29.png",
+    "alt_text": "Field Fire Walkthrough \\(33\\).png",
+    "position_desc": 25,
+    "img_above_text": "As you head into the next barren section, you may notice the glow of a treasure chest up ahead. Be warned that there are also little glowing patches leading up to, and inside the next clearing, and these are all Flamlings. Clear them out before you go over to the chest, where you can collect Refined Iron Sand from it.\nWhen you've looted the chest, go around to the other side of the rock. There will be an open clearing here, that looks like it's empty. Again, remove any Flamlings from the area, then go to the center of the clearing. Here you'll find a larger glowing patch.",
+    "img_below_text": "This is actually where you can summon a miniboss called the Mother of Flamlings, and to do so, all you need to give over is 4x Flame Ores. Thankfully, Flame Ores are dropped by Flamlings, so you'll hopefully have enough by this point to summon her immediately. Approach the glowing patch and deliver the Flame Ores.\n### Yaoguai Chief - Mother of Flamlings",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you head into the next barren section, you may notice the glow of a treasure chest up ahead. Be warned that there are also little glowing patches leading up to, and inside the next clearing, and these are all Flamlings. Clear them out before you go over to the chest, where you can collect Refined Iron Sand from it.\nWhen you've looted the chest, go around to the other side of the rock. There will be an open clearing here, that looks like it's empty. Again, remove any Flamlings from the area, then go to the center of the clearing. Here you'll find a larger glowing patch.\"\n        - Following Text: \"This is actually where you can summon a miniboss called the Mother of Flamlings, and to do so, all you need to give over is 4x Flame Ores. Thankfully, Flame Ores are dropped by Flamlings, so you'll hopefully have enough by this point to summon her immediately. Approach the glowing patch and deliver the Flame Ores.\n### Yaoguai Chief - Mother of Flamlings\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a barren, rocky clearing with a glowing patch in the center, highlighted by a red arrow. This glowing patch is significant as it marks the location where players can summon the miniboss \"Mother of Flamlings\" by offering 4 Flame Ores. Flame Ores are obtained from defeating Flamlings scattered throughout the area. The preceding text advises clearing out Flamlings before approaching the chest or the glowing patch."
 }

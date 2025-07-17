@@ -1,28 +1,11 @@
 {
-    "chunk_id": 115256961304,
-    "source_file": "Field_of_Fire_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Field_of_Fire_Walkthrough_%281%29.png",
-    "alt_text": "Field of Fire Walkthrough \\(1\\).png",
-    "position_desc": 6,
-    "img_above_text": "![Field Fire Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png)\nWhen they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.",
-    "img_below_text": "At times, he will also throw his cap and it acts like a boomerang. This is his only ranged attack, and it will try to hit you from behind, so again, keep moving to avoid this.\nOnce you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Field Fire Walkthrough \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Field_Fire_Walkthrough_%286%29.png)\nWhen they land in areas of the clearing, they will explode into a red mist. This is poisonous, so you'll want to evade the direct blows from the mace and the fungi to avoid poison buildup. Be sure to have Antimiasma Powder equipped to help with any poison buildup during this fight.\"\n            - Following Text: \"At times, he will also throw his cap and it acts like a boomerang. This is his only ranged attack, and it will try to hit you from behind, so again, keep moving to avoid this.\nOnce you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Field_of_Fire_Walkthrough_%281%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a grotesque, humanoid creature wielding a large, red fungal mace in a rocky, desolate environment. This enemy is part of a boss fight in *Black Myth: Wukong*, where its attacks include poisonous explosions and a boomerang-like ranged attack using its fungal cap. Players are advised to evade its direct blows and use Antimiasma Powder to counter poison buildup. Defeating this creature rewards the Nine-Capped Lingzhi Guai Spirit."
+    "chunk_id": 778099043005,
+    "source_file": "Flint_Vanguard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Flint_Vanguard.jpg",
+    "alt_text": "Flint Vanguard.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Flint Vanguard Fight\n* Flint Vanguard Spirit",
+    "img_below_text": "## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Flint Vanguard Fight\n* Flint Vanguard Spirit\"\n        - Following Text: \"## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Flint Vanguard, a fiery, rock-like creature encountered in a video game. It appears to be part of a combat sequence, as indicated by the health bar labeled \"Flint Vanguard\" and the player interface showing abilities and resources. The preceding and following text suggests this creature is awakened near a pile of glowing rocks in the Flaming Mountains after completing specific challenges and unlocking a shrine."
 }

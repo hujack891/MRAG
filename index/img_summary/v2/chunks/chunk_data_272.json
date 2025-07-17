@@ -1,28 +1,11 @@
 {
-    "chunk_id": 867484031332,
-    "source_file": "Black_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_BlackLoong_8.jpg",
-    "alt_text": "Wukong BlackLoong 8.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong BlackLoong 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_BlackLoong_6.jpg)\nThe Black Loong has a particularly devastating but slow combo where he’ll begin to swing a weapon in the air above his head and then swing it down in a sweeping electrical arc in front of him, before doing the same as his other weapon. Thankfully the movements are very slow and easy to dodge if you aren’t using up all your stamina when attacking. They do however send out currents in front of him, so don’t think that just backpedaling will be enough to stop you from getting hurt.",
-    "img_below_text": "Sometimes he’ll end the two sweeping electrical swings by finally bringing both weapons together in front of him, and create a shockwave with an expanding electrical ring as they connect that you’ll need to dodge or jump over — or even rise up on your Pillar Stance to retaliate with a heavy attack as it passes under you.\n![Wukong BlackLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_BlackLoong_9.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Black_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackLoong 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_BlackLoong_6.jpg)\nThe Black Loong has a particularly devastating but slow combo where he’ll begin to swing a weapon in the air above his head and then swing it down in a sweeping electrical arc in front of him, before doing the same as his other weapon. Thankfully the movements are very slow and easy to dodge if you aren’t using up all your stamina when attacking. They do however send out currents in front of him, so don’t think that just backpedaling will be enough to stop you from getting hurt.\"\n            - Following Text: \"Sometimes he’ll end the two sweeping electrical swings by finally bringing both weapons together in front of him, and create a shockwave with an expanding electrical ring as they connect that you’ll need to dodge or jump over — or even rise up on your Pillar Stance to retaliate with a heavy attack as it passes under you.\n![Wukong BlackLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_BlackLoong_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_BlackLoong_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense moment during the boss fight with the Black Loong in *Black Myth: Wukong*. The boss is in the middle of executing an electrical attack, with visible arcs of energy emanating from its weapons. The environment is chaotic, with dust and debris in the air, emphasizing the destructive nature of the battle. The player's health and stamina bars, along with ability icons, are visible in the HUD, indicating active gameplay.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the Black Loong's devastating electrical combo attack, as described in the preceding text. It highlights the danger of the boss's sweeping weapon strikes and the electrical currents they generate, reinforcing the need for strategic dodging and stamina management. This visual serves to immerse the player in the high-stakes combat and provide context for the boss's attack patterns."
+    "chunk_id": 985803215428,
+    "source_file": "Black_Wind_Cave_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_BlackWind_3.jpg",
+    "alt_text": "Wukong BlackWind 3.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.",
+    "img_below_text": "Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.\"\n        - Following Text: \"Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game walkthrough where the player character is navigating through a dimly lit cave. The character has just collected Gentian plants, as indicated by the on-screen text showing \"Gentian x2.\" The player is likely preparing for an encounter with a Wolf Assassin, as suggested by the preceding and following text, which advises on combat strategy due to low visibility in the cave. The image serves to illustrate the in-game environment and the player's progress in gathering resources and preparing for upcoming challenges."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 235733359043,
-    "source_file": "Shen_Monkey_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Bamboo_35.jpg",
-    "alt_text": "Wukong Bamboo 35.jpg",
+    "chunk_id": 102232129950,
+    "source_file": "Tiger_Relic.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Keeness_of_Tiger_3.jpg",
+    "alt_text": "Keeness of Tiger 3.jpg",
     "position_desc": 1,
-    "img_above_text": "## How to Save the Shen Monkey\nYou’ll first meet the Shen Monkey halfway into Chapter 1 in the Bamboo Grove of the Black Wind Mountain. After defeating the Yaoguai Chief, Guangmou, you’ll reach the **Marsh of the White Mist** Shrine.",
-    "img_below_text": "Heading down the path from the shrine, you’ll encounter a Snake Patroller harassing a monkey hanging from a ceiling, and requesting your aid. Defeat the snake, and the **Shen Monkey** will offer his thanks, and usher you into a nearby cave where he resides.\nShen Monkey's Quest",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Shen_Monkey_Questline.md'.\n\n            Context:\n            - Preceding Text: \"## How to Save the Shen Monkey\nYou’ll first meet the Shen Monkey halfway into Chapter 1 in the Bamboo Grove of the Black Wind Mountain. After defeating the Yaoguai Chief, Guangmou, you’ll reach the **Marsh of the White Mist** Shrine.\"\n            - Following Text: \"Heading down the path from the shrine, you’ll encounter a Snake Patroller harassing a monkey hanging from a ceiling, and requesting your aid. Defeat the snake, and the **Shen Monkey** will offer his thanks, and usher you into a nearby cave where he resides.\nShen Monkey's Quest\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Bamboo_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is engaged in combat with a Snake Patroller on a wooden bridge in a forested area. This encounter is part of the questline involving the Shen Monkey, who is being harassed by the snake. The player is tasked with defeating the Snake Patroller to assist the Shen Monkey, who will then express gratitude and lead the player to his cave. The image captures a pivotal moment in the narrative where the player must intervene to help the Shen Monkey, advancing the storyline."
+    "img_above_text": "The Tiger Relic is found on a platform beneath the Crouching Tiger Temple in Yellow Wind Ridge. To get it, you will need the Keeness of Tiger and Sterness of Stone from the Tiger Vanguard and Stone Vanguard in the chapter.\nYou can then open the Tally in the arena and head beneath the temple.",
+    "img_below_text": "At the end of the pathway, you will reach a slope leading down. As you step on the slope, jump to reach the platform above, which has the Soak.\n![Wukong Tiger 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Tiger_29.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Tiger Relic is found on a platform beneath the Crouching Tiger Temple in Yellow Wind Ridge. To get it, you will need the Keeness of Tiger and Sterness of Stone from the Tiger Vanguard and Stone Vanguard in the chapter.\nYou can then open the Tally in the arena and head beneath the temple.\"\n        - Following Text: \"At the end of the pathway, you will reach a slope leading down. As you step on the slope, jump to reach the platform above, which has the Soak.\n![Wukong Tiger 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Tiger_29.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showcasing the player character standing in a pool of red liquid, facing a large stone statue resembling a tiger at the Crouching Tiger Temple in Yellow Wind Ridge. This location is tied to obtaining the Tiger Relic, which requires specific items (Keeness of Tiger and Sterness of Stone) to progress. The setting features intricate architecture and statues, emphasizing the game's atmospheric and mythological design."
 }

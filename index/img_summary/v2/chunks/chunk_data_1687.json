@@ -1,28 +1,11 @@
 {
-    "chunk_id": 641853565850,
-    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Zodiac_Village_%2837%29.png",
-    "alt_text": "Zodiac Village \\(37\\).png",
-    "position_desc": 10,
-    "img_above_text": "You'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.\n## How to Use Seeds and Harvest Ingredients",
-    "img_below_text": "If you've acquired any seeds so far in your journey, you can give them to Chen Loong. He sits behind the Shen Monkey and Xu Dog, up the stairs. Just before the stairs, you can find baskets where you can harvest ingredients, or you can speak to him and the option to harvest the ingredients will appear.\n### Happy Harvest!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"You'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.\n## How to Use Seeds and Harvest Ingredients\"\n            - Following Text: \"If you've acquired any seeds so far in your journey, you can give them to Chen Loong. He sits behind the Shen Monkey and Xu Dog, up the stairs. Just before the stairs, you can find baskets where you can harvest ingredients, or you can speak to him and the option to harvest the ingredients will appear.\n### Happy Harvest!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Zodiac_Village_%2837%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing in front of baskets filled with harvested ingredients, likely in a village setting. The scene is illuminated by nearby torches, and there is a staircase leading up to a higher area. This image is related to the context of using seeds and harvesting ingredients in a game. The character is probably about to interact with the baskets or proceed to speak with Chen Loong, who is mentioned in the following text as the person to give seeds to and harvest ingredients from. The image serves to visually illustrate the process of harvesting ingredients in the game."
+    "chunk_id": 545908058621,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg",
+    "alt_text": "Wukong Thunderclap 87.jpg",
+    "position_desc": 11,
+    "img_above_text": "Macaque Chief (Warding Temple)\n### Final Encounter - Mahavira Hall",
+    "img_below_text": "For this last bout with the Macaque Chief, your friend Zhu Bajie will be here to help, but will warn you that the sack's magic draws out evil to empower this foe beyond his normal limits.\nEven though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Macaque Chief (Warding Temple)\n### Final Encounter - Mahavira Hall\"\n        - Following Text: \"For this last bout with the Macaque Chief, your friend Zhu Bajie will be here to help, but will warn you that the sack's magic draws out evil to empower this foe beyond his normal limits.\nEven though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the final encounter with the Macaque Chief in Mahavira Hall, where the protagonist is joined by Zhu Bajie to fight the empowered foe. The scene is set in a red-hued environment, emphasizing the intensity of the battle. The text \"Join me, let's fight our way out!\" suggests cooperation and determination in facing the challenging enemy."
 }

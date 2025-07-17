@@ -1,28 +1,11 @@
 {
-    "chunk_id": 522036338802,
-    "source_file": "Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sahali_30.jpg",
-    "alt_text": "Wukong Sahali 30.jpg",
-    "position_desc": 31,
-    "img_above_text": "![Wukong Sahali 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Sahali_29.jpg)\nAfter he lands, you’ll be instructed to strike at its claws, so move yourself to the side and lock onto one of the front claws of the beast. Fuban won’t move around too much during this period, but may shake its head around requiring you to dodge a few slams.",
-    "img_below_text": "Fuban can also slowly pull one of its claws back to then sweep upward in front of his face, which can damage you if you aren’t paying attention. If you’re worried about getting hit, you can also play it safe and stick with the Thrust Stance to hit its claws with a long range heavy attack.\n![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 31 from the file 'Chapter_2_Secret_-_Kingdom_of_Sahali_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Sahali_29.jpg)\nAfter he lands, you’ll be instructed to strike at its claws, so move yourself to the side and lock onto one of the front claws of the beast. Fuban won’t move around too much during this period, but may shake its head around requiring you to dodge a few slams.\"\n            - Following Text: \"Fuban can also slowly pull one of its claws back to then sweep upward in front of his face, which can damage you if you aren’t paying attention. If you’re worried about getting hit, you can also play it safe and stick with the Thrust Stance to hit its claws with a long range heavy attack.\n![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sahali_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Image Summary**: The image depicts a combat scene from *Black Myth: Wukong*, showing the player character attacking the claws of the boss enemy, Fuban, in a desert environment. The glowing weapon and action blur suggest a heavy strike, while the health bar indicates ongoing battle mechanics.\n\n2. **Narrative Role**: The image illustrates the player's strategy of targeting Fuban's claws during a specific phase of the fight. It aligns with the preceding text's instructions to move to the side and focus on the claws, and the following text's advice to use long-range heavy attacks to avoid damage from Fuban's sweeping claw movements."
+    "chunk_id": 892713324891,
+    "source_file": "Chapter_3_Secret_-_Mount_Mei_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Mount_Mei_Walkthrough_%2818%29.png",
+    "alt_text": "Mount Mei Walkthrough \\(18\\).png",
+    "position_desc": 15,
+    "img_above_text": "![Mount Mei Walkthrough \\(16\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Mount_Mei_Walkthrough_%2816%29.png)\nAround the halfway mark, Erlang Shen will grab you and breath fire on you. Your health bar will drain all the way down, but you won't die. instead, you'll switch to Fiery Fist and be able to perform Scorch Shower instead of Icy Fists. Your health bar will slowly replenish after this, and the second part of the fight will begin.",
+    "img_below_text": "Just keep pummelling away at Erlang Shen and making use of all the Spells until he's defeated.\nErlang Shen",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Mount Mei Walkthrough \\(16\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Mount_Mei_Walkthrough_%2816%29.png)\nAround the halfway mark, Erlang Shen will grab you and breath fire on you. Your health bar will drain all the way down, but you won't die. instead, you'll switch to Fiery Fist and be able to perform Scorch Shower instead of Icy Fists. Your health bar will slowly replenish after this, and the second part of the fight will begin.\"\n        - Following Text: \"Just keep pummelling away at Erlang Shen and making use of all the Spells until he's defeated.\nErlang Shen\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic moment from the video game *Black Myth: Wukong*, showcasing the intense battle against Erlang Shen. It highlights fiery visuals, with the character seemingly engulfed in flames and surrounded by molten elements, aligning with the narrative where Erlang Shen breathes fire on the player, initiating a transformation into Fiery Fist mode and the second phase of the fight."
 }

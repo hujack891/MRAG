@@ -1,28 +1,11 @@
 {
-    "chunk_id": 862437743752,
-    "source_file": "Snake_Sheriff_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Snake_shriff_picture.jpg",
-    "alt_text": "Snake shriff picture.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Snake Sheriff Fight\n* Snake Sheriff Spirit",
-    "img_below_text": "## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Snake_Sheriff_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Snake Sheriff Fight\n* Snake Sheriff Spirit\"\n            - Following Text: \"## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Snake_shriff_picture.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image depicts an intense battle scene from a video game, where the player character is engaged in combat with a large, menacing creature known as the Snake Sheriff. The creature appears to be attacking the player on a set of stone stairs, with various game HUD elements visible, indicating health and abilities.\n\n2. Based on the preceding and following text, the image serves to illustrate the \"Snake Sheriff Fight\" and \"Snake Sheriff Spirit\" sections, providing a visual representation of the encounter with the Snake Sheriff. It highlights the action and danger involved in this part of the game, setting the stage for the subsequent instructions on how to locate the Snake Sheriff within the Temple of the Yellow Flowers."
+    "chunk_id": 976146988085,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Wukong_Mindcliff_16.jpg",
+    "alt_text": "Wukong Mindcliff 16.jpg",
+    "position_desc": 15,
+    "img_above_text": "As you leave the tunnel, you'll spot a peculiar yet familiar site -- that same old rat who was spotted in the Forest of Wolves is lurking around here too, and quickly darts away.\nCheck where he was lingering, and you'll find a small statue head holding the **Skandha of Thought** \\- the third Skandha in as many chapters! This ledge should also put you right above where you fought Non-White, so grab a nearby green Wisp before hopping down and chasing after him.",
+    "img_below_text": "There are more Monk Supporters in a darkened room at the top of the stairway, and try to take them on one at a time if you can. More can be found in the next room, alongside a few Frozen Corpse Censor Holders who will try to blast freezing wind at you, or create vortexes along the ground you'll need to stay away from.\nTake out the pair and Monk Supporter praying to a large statue altar, and you'll find a small gold box you can open that contains **Maitreya's Orb** , a peculiar and fairly risky curio to equip.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"As you leave the tunnel, you'll spot a peculiar yet familiar site -- that same old rat who was spotted in the Forest of Wolves is lurking around here too, and quickly darts away.\nCheck where he was lingering, and you'll find a small statue head holding the **Skandha of Thought** \\- the third Skandha in as many chapters! This ledge should also put you right above where you fought Non-White, so grab a nearby green Wisp before hopping down and chasing after him.\"\n        - Following Text: \"There are more Monk Supporters in a darkened room at the top of the stairway, and try to take them on one at a time if you can. More can be found in the next room, alongside a few Frozen Corpse Censor Holders who will try to blast freezing wind at you, or create vortexes along the ground you'll need to stay away from.\nTake out the pair and Monk Supporter praying to a large statue altar, and you'll find a small gold box you can open that contains **Maitreya's Orb** , a peculiar and fairly risky curio to equip.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment where the player character, armed with a staff-like weapon, confronts two Monk Supporters kneeling in prayer before a large statue altar in a dimly lit, rocky environment. This scene aligns with the following text, which mentions defeating Monk Supporters and interacting with the altar to obtain a small gold box containing **Maitreya's Orb**, a risky curio. The red arrow in the image likely highlights the location of the gold box or a key interaction point near the statue."
 }

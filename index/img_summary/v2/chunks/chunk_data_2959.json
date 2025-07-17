@@ -1,28 +1,11 @@
 {
-    "chunk_id": 731158612303,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Water_Curtain_Cave_Walkthrough_%284%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(4\\).png",
-    "position_desc": 12,
-    "img_above_text": "When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence",
-    "img_below_text": "Make your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.\n![Water Curtain Cave Walkthrough \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Water_Curtain_Cave_Walkthrough_%285%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence\"\n            - Following Text: \"Make your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.\n![Water Curtain Cave Walkthrough \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Water_Curtain_Cave_Walkthrough_%285%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Water_Curtain_Cave_Walkthrough_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a serene and rocky landscape leading up to the Peak of Innocence, a significant location in the narrative. It shows a path surrounded by trees and vegetation, with a character approaching a mysterious stone, which is central to the storyline. This stone is crucial as interacting with it transports the character to another realm, suggesting a pivotal moment in the journey. The image serves to visually guide the player to the next objective, enhancing the immersive experience of the game."
+    "chunk_id": 178090400334,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_UpperHollow_46.jpg",
+    "alt_text": "Wukong UpperHollow 46.jpg",
+    "position_desc": 48,
+    "img_above_text": "![Wukong UpperHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_UpperHollow_45.jpg)\nLook out for an archer on the lower floor here, and get rid of him before crossing the bridge to find a ledge with another green Wisp.",
+    "img_below_text": "The series of platforms below will connect with the other platforms you saw earlier, and both lead down to a connecting platform to reach the Shrine below. Just be warned that a Beetle Captain guards the Shrine along with an archer, and you may want to stun the captain or use Cloud Step so you can quickly eliminate the archer first.\nOnce you've activated the Verdure Bridge Shrine, it will be time to explore the even larger **Middle Hollow** portion of the Webbed Hollow Region.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_UpperHollow_45.jpg)\nLook out for an archer on the lower floor here, and get rid of him before crossing the bridge to find a ledge with another green Wisp.\"\n        - Following Text: \"The series of platforms below will connect with the other platforms you saw earlier, and both lead down to a connecting platform to reach the Shrine below. Just be warned that a Beetle Captain guards the Shrine along with an archer, and you may want to stun the captain or use Cloud Step so you can quickly eliminate the archer first.\nOnce you've activated the Verdure Bridge Shrine, it will be time to explore the even larger **Middle Hollow** portion of the Webbed Hollow Region.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing on a wooden platform overlooking a dimly lit, web-covered cavern. The character is equipped with a staff and appears to be preparing to progress through the area. A small shrine emitting light is visible nearby, suggesting a point of interest or checkpoint. The surrounding environment includes rocky terrain, green moss, and spiderwebs, indicating the \"Webbed Hollow\" region. This area connects to platforms leading to a Shrine guarded by enemies, as described in the accompanying text."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 250646073136,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg",
-    "alt_text": "Wukong Sandgate 58.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\nIt’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!",
-    "img_below_text": "His new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\n![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\nIt’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!\"\n            - Following Text: \"His new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\n![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts an intense moment in the battle against the \"Second Rat Prince\" in *Black Myth: Wukong*. The boss is shown mid-attack, unleashing a powerful ground-based shockwave with fissures erupting around the impact site of its glowing mace. The player character is positioned defensively, preparing to evade or counter the attack. This scene highlights the boss's upgraded abilities, emphasizing the need for strategic movement and timing to avoid damage."
+    "chunk_id": 584147687487,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/The_Pines_Temple_of_Yellow_FlowersMeditation_Spot.jpg",
+    "alt_text": "The Pines Temple of Yellow FlowersMeditation Spot.jpg",
+    "position_desc": 19,
+    "img_above_text": "### The Pines, Temple of Yellow Flowers Meditation Spot\nThe Pines, Temple of Yellow Flowers Meditation Spot",
+    "img_below_text": "Head through the door on the right as you enter the Temple of Yellow Flowers. You will find the Meditation Spot on the left, as well as Snake Shriff Spirit on the platform above.\n### The Ledge, Purple Cloud Mountain Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Pines, Temple of Yellow Flowers Meditation Spot\nThe Pines, Temple of Yellow Flowers Meditation Spot\"\n        - Following Text: \"Head through the door on the right as you enter the Temple of Yellow Flowers. You will find the Meditation Spot on the left, as well as Snake Shriff Spirit on the platform above.\n### The Ledge, Purple Cloud Mountain Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a serene meditation spot located at The Pines, Temple of Yellow Flowers. It features a tranquil setting with a person seated in meditation, surrounded by natural elements and soft lighting. This spot is part of a video game walkthrough, guiding players to find the meditation area and explore the surroundings, including the Snake Shriff Spirit on a nearby platform. The narrative role of this image is to provide players with a visual reference for locating and experiencing the meditation spot within the game."
 }

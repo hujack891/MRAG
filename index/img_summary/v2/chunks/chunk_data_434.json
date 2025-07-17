@@ -1,28 +1,11 @@
 {
-    "chunk_id": 488764263472,
-    "source_file": "Celestial_Jade_Lotus_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Jade_Lotus_Xu_Dog.jpg",
-    "alt_text": "Jade Lotus Xu Dog.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Xu-Dog Celestial Jade Lotus Pills\nXu-Dog Celestial Jade Lotus Pills",
-    "img_below_text": "Fall down the sand slide after exploring the Crouching Tiger Temple Cellar to meet the Xu-Dog. The Xu-Dog crafts Celestial Medicines for you in exchange for Mind Cores. You can craft a total of nine Celestial Jade Lotus Pills with the Xu-Dog. You can find Mind Cores in chests or as loot for defeating particularly vicious foes.\n## The New West Celestial Jade Lotus Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Celestial_Jade_Lotus_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Xu-Dog Celestial Jade Lotus Pills\nXu-Dog Celestial Jade Lotus Pills\"\n            - Following Text: \"Fall down the sand slide after exploring the Crouching Tiger Temple Cellar to meet the Xu-Dog. The Xu-Dog crafts Celestial Medicines for you in exchange for Mind Cores. You can craft a total of nine Celestial Jade Lotus Pills with the Xu-Dog. You can find Mind Cores in chests or as loot for defeating particularly vicious foes.\n## The New West Celestial Jade Lotus Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Jade_Lotus_Xu_Dog.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the crafting interface for \"Jade Lotus Pills,\" a celestial medicine that permanently increases Maximum Health. It shows the required resources, including \"Mind Cores,\" and the associated costs and stats changes. The context suggests this crafting system is tied to the Xu-Dog, a character encountered after exploring the Crouching Tiger Temple Cellar. The Xu-Dog offers celestial medicines in exchange for Mind Cores, which can be obtained from chests or defeating enemies."
+    "chunk_id": 392436855062,
+    "source_file": "Centipede_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg",
+    "alt_text": "Centipede Guai Pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Centipede Guai Fight\n* Centipede Guai Spirit",
+    "img_below_text": "## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Centipede Guai Fight\n* Centipede Guai Spirit\"\n        - Following Text: \"## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game boss fight against the \"Centipede Guai,\" a large, insect-like creature in a dark, eerie environment filled with bones and skulls. The player's health and ability bars are visible, indicating active combat. This scene aligns with the guide's description of the Centipede Guai encounter in the Bonevault, a pit of bones accessible from the Webbed Hollow area."
 }

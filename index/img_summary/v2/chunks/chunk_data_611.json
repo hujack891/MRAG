@@ -1,28 +1,11 @@
 {
-    "chunk_id": 722125133229,
-    "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg",
-    "alt_text": "Wukong PurpleCloud 63.jpg",
-    "position_desc": 70,
-    "img_above_text": "![Wukong PurpleCloud 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg)\nLuckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.",
-    "img_below_text": "The Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\n![Wukong PurpleCloud 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 70 from the file 'Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg)\nLuckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.\"\n            - Following Text: \"The Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\n![Wukong PurpleCloud 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene from *Black Myth: Wukong*, featuring a dark, ominous boss named \"The Duskveil.\" The environment is shrouded in a red, misty atmosphere, emphasizing the intensity of the fight. The boss appears to be mid-action, with its skeletal, monstrous form partially obscured by the blood-red mist. The player’s health and abilities are visible in the HUD, indicating an active combat scenario.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the challenging encounter with \"The Duskveil,\" a boss that uses blood mist to obscure visibility and execute unpredictable attacks. It complements the preceding and following text, which provide strategies for avoiding the boss's attacks and emphasize the importance of retreating to a safer position when visibility is compromised."
+    "chunk_id": 968753717139,
+    "source_file": "Charface_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Charface_Spirit.png",
+    "alt_text": "Charface Spirit.png",
+    "position_desc": 3,
+    "img_above_text": "Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit",
+    "img_below_text": "* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit\"\n        - Following Text: \"* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Equipment\" menu in a video game, specifically highlighting the \"Charface\" Spirit. This rare spirit allows the player to take the form of Charface and use the \"Magma Forged\" ability, which smashes a lava-forged blade into the ground to cause magma bursts that damage nearby enemies. The equipped effect moderately increases charging speed. The menu also displays other spirits available for selection, along with player stats and options to equip or preview abilities."
 }

@@ -1,6 +1,9 @@
 {
-    "chunk_id": 223856695927,
+    "chunk_id": 959298453183,
+    "source_file": "Mad_Tiger_Spirit.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Mad_Tiger_Battle.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image depicts a gameplay scene featuring a large, fur-covered enemy named \"Mad Tiger.\" The environment is dark and fiery, suggesting a tense battle setting. On the left side of the screen, there are instructions for two types of attacks: \"Light Attack 'Moon Dance'\" using the X button, which involves continuous slashing to build Focus, and \"Heavy Attack 'Moon Chase'\" using the Y button, which unleashes a series of dash attacks. At the bottom, a health bar labeled \"Mad Tiger\" indicates the enemy's current health status. Additionally, there are UI elements on the right side, including icons for abilities or items, and a circular icon featuring a stylized animal. These components guide the player in combat strategy against the enemy."
+    "alt_text": "Mad Tiger Battle.jpg",
+    "position_desc": 7,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image depicts a scene from a video game where a character is engaged in combat with a large creature named \"Mad Tiger.\" The environment is dark and fiery, suggesting an intense battle setting. On the left side of the screen, there are instructions for two types of attacks: \"Light Attack 'Moon Dance'\" which involves continuously slashing at the enemy to build up focus, and \"Heavy Attack 'Moon Chase'\" which unleashes a series of dash attacks. The bottom of the screen displays a health bar for the \"Mad Tiger,\" indicating the status of the enemy's health during the fight."
 }

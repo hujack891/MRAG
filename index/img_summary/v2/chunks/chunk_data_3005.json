@@ -1,28 +1,11 @@
 {
-    "chunk_id": 339266820239,
-    "source_file": "Tiger%27s_Acolyte.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Yellow_1.jpg",
-    "alt_text": "Wukong Yellow 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Rewards: Tiger's Acolyte Spirit, Old-Rattle Drum, Silk x2, Yarn x2, 758 Experience, 779 Will\n## Where to Find the Tiger's Acolyte",
-    "img_below_text": "As an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.\n![Wukong Yellow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Yellow_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Tiger's Acolyte Spirit, Old-Rattle Drum, Silk x2, Yarn x2, 758 Experience, 779 Will\n## Where to Find the Tiger's Acolyte\"\n            - Following Text: \"As an optional boss, the Tiger's Acolyte is easily missed as he resides in an entirely optional area in the Yellow Wind Formation, far at the back of the Yellow Wind Ridge in Chapter 2. To reach him, you'll need to head past the Crouching Tiger Temple, and up toward the Windrest Bridge.\n![Wukong Yellow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Yellow_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Yellow_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing on a rooftop overlooking a rugged, rocky landscape with ancient structures. This image serves to illustrate the path leading to the optional boss, the Tiger's Acolyte, located in the Yellow Wind Formation area. The character appears to be navigating towards the Windrest Bridge, past the Crouching Tiger Temple, as described in the context."
+    "chunk_id": 737187883030,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Woods_Ember_Walkthrough_%2882%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(82\\).png",
+    "position_desc": 42,
+    "img_above_text": "![Woods Ember Walkthrough \\(81\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Woods_Ember_Walkthrough_%2881%29.png)\nIt guards a chest, so once you've defeated it, open the chest to collect Knot of Voidness along with various medicines.",
+    "img_below_text": "Turn back on yourself, and now take the path down to the right. Clear the area of the Revenant Charbones, and head for the bottom of the stairs.\n![Woods Ember Walkthrough \\(85\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Woods_Ember_Walkthrough_%2885%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(81\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Woods_Ember_Walkthrough_%2881%29.png)\nIt guards a chest, so once you've defeated it, open the chest to collect Knot of Voidness along with various medicines.\"\n        - Following Text: \"Turn back on yourself, and now take the path down to the right. Clear the area of the Revenant Charbones, and head for the bottom of the stairs.\n![Woods Ember Walkthrough \\(85\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Woods_Ember_Walkthrough_%2885%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit, rocky outdoor area with a large, barren tree and a staircase leading to a structure in the background. A red arrow highlights a path to the right, guiding the player to proceed in that direction. This scene serves as a transition point in the walkthrough, directing players to clear enemies (Revenant Charbones) and continue exploring the area."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 251730019402,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Pagoda_37.jpg",
-    "alt_text": "Wukong Pagoda 37.jpg",
-    "position_desc": 38,
-    "img_above_text": "Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.",
-    "img_below_text": "Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.\"\n            - Following Text: \"Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Pagoda_37.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a critical moment in the battle against Captain Lotus-Vision. The boss is surrounded by a large, intricate circle of runic power, emitting a powerful laser beam. Smaller rings within the circle are preparing to unleash blasts from multiple directions, creating a highly dangerous and complex attack pattern. The player's character is visible in the foreground, with health and ability icons displayed, suggesting the need for strategic maneuvering and use of abilities like Cloud Step to survive this challenging phase of the fight."
+    "chunk_id": 620519998863,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
+    "alt_text": "Secrets Wukong \\(6\\).png",
+    "position_desc": 15,
+    "img_above_text": "Mother of Flamlings\n## Baw-Lang-Lang",
+    "img_below_text": "Baw-Lang-Lang can be found at the start of the Bishui Cave but not technically in it. Once you've completed the five cart questline and smashed through the frozen door of the Bishui Cave, you'll want to head inside and down to the left to find another of the frog bosses.\nBaw-Lang-Lang",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Mother of Flamlings\n## Baw-Lang-Lang\"\n        - Following Text: \"Baw-Lang-Lang can be found at the start of the Bishui Cave but not technically in it. Once you've completed the five cart questline and smashed through the frozen door of the Bishui Cave, you'll want to head inside and down to the left to find another of the frog bosses.\nBaw-Lang-Lang\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts \"Baw-Lang-Lang,\" a frog-like boss character from a video game. It is located near the entrance of Bishui Cave, outside the cave itself. The preceding and following text describes its role as a boss encountered after completing a questline involving five carts and breaking through a frozen door."
 }

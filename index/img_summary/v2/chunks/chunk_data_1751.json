@@ -1,28 +1,11 @@
 {
-    "chunk_id": 202705506627,
-    "source_file": "Kang-Jin_Star.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_10.jpg",
-    "alt_text": "Wukong Turtle 10.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Turtle 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg)\nWhen appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.",
-    "img_below_text": "At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg)\nWhen appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.\"\n            - Following Text: \"At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against a formidable opponent, Kang-Jin Star. The setting is a snowy, mountainous landscape where the player character is engaged in combat. Kang-Jin Star is seen summoning electrical bolts, which are part of her attack strategy as described in the preceding and following text. The narrative highlights her ability to summon electrical spikes and create tremors, as well as her enraged state at half health, which leads to a thunderstorm that affects the arena. The image captures the intensity and challenge of the encounter, emphasizing the need for strategic dodging and use of Shock-Quelling medicine to counter the electrical attacks."
+    "chunk_id": 58573483408,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Black-myth-wukong-fragrant-jade-flower-icon.jpg",
+    "alt_text": "Black-myth-wukong-fragrant-jade-flower-icon.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards",
+    "img_below_text": "![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Millenium Ginseng .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Millenium_Ginseng_.jpg)| Millenium Ginseng | Rare | Ingredient | Randomly obtained from collecting Aged Ginseng\n![Licorice .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Licorice_.jpg)| Licorice | Uncommon | Ingredient | Found in Yellow Wind Ridge and onwards\"\n        - Following Text: \"![Snake Head Mushroom .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Snake_Head_Mushroom_.jpg)| Snake-Head Mushroom | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a vibrant plant with pink flowers and green leaves, likely serving as an ingredient in the video game *Black Myth: Wukong*. Based on the surrounding context, it is part of a collection of items such as Millenium Ginseng, Licorice, Snake-Head Mushroom, and Monkey-Head Fungus, which are categorized by rarity and location. These ingredients appear to play a role in crafting, trading, or progression within the game."
 }

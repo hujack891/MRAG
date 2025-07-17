@@ -1,28 +1,11 @@
 {
-    "chunk_id": 550851153328,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Thunderclap_93.jpg",
-    "alt_text": "Wukong Thunderclap 93.jpg",
-    "position_desc": 15,
-    "img_above_text": "Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.",
-    "img_below_text": "The clones don't have a whole lot of health (but they can replicate most of his moves - including poison spewing!), so go all in and blitz them quickly with a combination of Spirits attacks and Transformation Spells like Ashen Slumber, getting in enough hits to detonate yourself and deal massive damage to everyone if possible.\nThe sooner you remove the clones from the fight, the sooner you'll be able to tag team the Macaque Chief again -- but be prepared for him to pull the similar trick later on if the fight is drawn out long enough.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.\"\n            - Following Text: \"The clones don't have a whole lot of health (but they can replicate most of his moves - including poison spewing!), so go all in and blitz them quickly with a combination of Spirits attacks and Transformation Spells like Ashen Slumber, getting in enough hits to detonate yourself and deal massive damage to everyone if possible.\nThe sooner you remove the clones from the fight, the sooner you'll be able to tag team the Macaque Chief again -- but be prepared for him to pull the similar trick later on if the fight is drawn out long enough.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Thunderclap_93.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene against the Macaque Chief in a fiery, red-hued environment. The player's character is utilizing various combat abilities, including \"Fiery Burst,\" a self-detonation spell that deals area damage and triggers a transformation. The preceding and following text suggests this moment is part of a strategy to quickly eliminate the Macaque Chief's shadow clones, which replicate his moves, including poison attacks. The goal is to blitz the clones using powerful attacks and spells, such as \"Ashen Slumber,\" to regain focus on the main boss fight. The image visually reinforces the chaotic and high-stakes nature of this encounter."
+    "chunk_id": 726028429697,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Thunderclap_37.jpg",
+    "alt_text": "Wukong Thunderclap 37.jpg",
+    "position_desc": 37,
+    "img_above_text": "![Wukong Thunderclap 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Thunderclap_38.jpg)\nWhile looking up at the stairs leading up to the pagoda, take the path left to a side stairway going down and guarded by a Thunder Rhino Master.",
+    "img_below_text": "Be sure to look to your right after defeating him, and you can spot a wooden platform beyond a tree along the walls that holds a **Treasure Chest** with materials inside.\n![Wukong Thunderclap 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_40.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_Thunderclap_38.jpg)\nWhile looking up at the stairs leading up to the pagoda, take the path left to a side stairway going down and guarded by a Thunder Rhino Master.\"\n        - Following Text: \"Be sure to look to your right after defeating him, and you can spot a wooden platform beyond a tree along the walls that holds a **Treasure Chest** with materials inside.\n![Wukong Thunderclap 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_Thunderclap_40.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a snowy area in *Black Myth: Wukong*, where the player character is approaching a wooden platform marked with a red indicator. This platform, located near a wall and supported by wooden beams, holds a **Treasure Chest** containing materials. The preceding and following text suggest this area is accessible after defeating a Thunder Rhino Master and is part of the exploration path near the pagoda stairs."
 }

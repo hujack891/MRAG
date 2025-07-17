@@ -1,28 +1,11 @@
 {
-    "chunk_id": 154910605654,
-    "source_file": "The_Second_Sister.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Lanxi_27.jpg",
-    "alt_text": "Wukong Lanxi 27.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Lanxi 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Lanxi_26.jpg)\nThe Second Sister also has a few unorthodox attacks that can be hard to spot, but easier to punish once you get the hang of them. One of these attacks will start as he twists her body away from you first, and then rapidly spins her body around while launching herself forward, and is better avoided than trying to deflect it.",
-    "img_below_text": "Another move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.\n![Wukong Lanxi 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'The_Second_Sister.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Lanxi 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Lanxi_26.jpg)\nThe Second Sister also has a few unorthodox attacks that can be hard to spot, but easier to punish once you get the hang of them. One of these attacks will start as he twists her body away from you first, and then rapidly spins her body around while launching herself forward, and is better avoided than trying to deflect it.\"\n            - Following Text: \"Another move can often happen when trying to flank her or attack on other sides, as she'll simply raise her body up high, and then slam down to the ground to deal massive damage on all sides.\n![Wukong Lanxi 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Wukong_Lanxi_28.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Lanxi_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a battle against the character known as \"The Second Sister.\" The image captures the moment when The Second Sister is performing one of her unorthodox attacks, likely the rapid spinning and launching move mentioned in the preceding text. The dark, atmospheric setting and the visual effects of the attack emphasize the intensity and danger of the encounter. The image serves to illustrate the challenging and dynamic nature of the boss fight, providing a visual context to the described combat strategies."
+    "chunk_id": 648952743220,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_UpperHollow_19.jpg",
+    "alt_text": "Wukong UpperHollow 19.jpg",
+    "position_desc": 20,
+    "img_above_text": "![Wukong UpperHollow 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_UpperHollow_18.jpg)\nTake the other path leading out of the cave-like passage, where you'll find a Lantern Holder waiting along with the Puppet Spider dangling above.",
+    "img_below_text": "You'll now find yourself on the opposite side of the Hollow from where you first started, with a group of platforms in front of you that offer a one-way ticket down to the start of the Middle Hollow and the Verdure Bridge. However, going down there now would cause to a miss a large optional area complete with a boss (but you can drop down early to grab the Shrine and warp back up if you want).\n## Pool of Shattered Jade",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_UpperHollow_18.jpg)\nTake the other path leading out of the cave-like passage, where you'll find a Lantern Holder waiting along with the Puppet Spider dangling above.\"\n        - Following Text: \"You'll now find yourself on the opposite side of the Hollow from where you first started, with a group of platforms in front of you that offer a one-way ticket down to the start of the Middle Hollow and the Verdure Bridge. However, going down there now would cause to a miss a large optional area complete with a boss (but you can drop down early to grab the Shrine and warp back up if you want).\n## Pool of Shattered Jade\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a scene from the video game \"Black Myth: Wukong,\" where the player character, holding a flaming staff, is navigating a lush, web-covered environment. The character is positioned near broken pots and appears to be approaching a Lantern Holder, as indicated by the glowing lantern in the distance. This setting is part of a cave-like passage leading to an area called the Hollow, which offers paths to explore, including a route to a large optional area with a boss encounter. The player's current resource count, \"Will x57,\" is displayed on the screen."
 }

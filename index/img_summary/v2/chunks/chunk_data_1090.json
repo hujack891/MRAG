@@ -1,28 +1,11 @@
 {
-    "chunk_id": 463487761147,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Foothills_Walkthrough_%288%29.png",
-    "alt_text": "Foothills Walkthrough \\(8\\).png",
-    "position_desc": 2,
-    "img_above_text": "Mind Core (x6) - 3000 Will | Find Gold Thread (x2) - 3000 Will | Celestial Ribbon (x1) - 9000 Will | Gold Tree Core (x1) - 4500 Wil\n## Verdant Path",
-    "img_below_text": "Continue straight up from the Keeper's Shrine and into the clearing that's adorned by chains. Make your way into the center of the clearing, where Bajie will exclaim it's a dead end. However, you'll soon be joined by the Supreme Celestial Inspector. If you found all of the Purple Talismans in Chapter 4, then this will be a familiar face to you.\n### Yaoguai Chief - Supreme Inspector",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Mind Core (x6) - 3000 Will | Find Gold Thread (x2) - 3000 Will | Celestial Ribbon (x1) - 9000 Will | Gold Tree Core (x1) - 4500 Wil\n## Verdant Path\"\n            - Following Text: \"Continue straight up from the Keeper's Shrine and into the clearing that's adorned by chains. Make your way into the center of the clearing, where Bajie will exclaim it's a dead end. However, you'll soon be joined by the Supreme Celestial Inspector. If you found all of the Purple Talismans in Chapter 4, then this will be a familiar face to you.\n### Yaoguai Chief - Supreme Inspector\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Foothills_Walkthrough_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a rocky clearing surrounded by cliffs and adorned with large, suspended chains. The chains, illuminated by glowing segments, create an ominous and mystical atmosphere. The setting appears to be part of the Verdant Path, leading to a pivotal narrative moment involving Bajie and the Supreme Celestial Inspector.\n\n2. **Purpose/Narrative Role**:  \nThis location serves as a transition point in the story, where players encounter a seemingly dead end before a significant interaction with the Supreme Celestial Inspector. The chains and dramatic environment emphasize the importance of the upcoming confrontation and its connection to the Purple Talismans from Chapter 4."
+    "chunk_id": 132666608132,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Wolves_4.jpg",
+    "alt_text": "Wukong Wolves 4.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Wolves 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Wolves_3.jpg)\nA voice will call out as you defeat the first two enemies, and we’ll be meeting the owner of this voice soon enough. For now, head straight up the woodland path, and you should spot a red plant to the right. Pluck it to gain some **Aged Ginseng** \\- a crafting material that we won’t be able to make use of until Chapter 2, but there’s no reason you can’t start stocking up on them now!",
+    "img_below_text": "When you reach the next Wolf Scout, you’ll be prompted to perform a Heavy Attack. Heavy Attacks work a bit differently here than in most other games: The more you land hits, the more your Focus bar in the bottom right corner grows. When it fills, you’ll gain a Focus Point, which allows you to add a Heavy Attack into your Light Attack Combos for massive damage. While you can still perform a Heavy Attack on its own, it will lack added punch without that Focus Point, and can’t be included in a combo attack without it.\nAlternatively, you can simply hold the Heavy Attack button to begin charging up your Focus, and letting go of the button will unleash the attack, which can be devastating on slow or unsuspecting enemies. It’s important to note that Focus won’t decay from performing light attacks, but you can’t keep the Focus from charging up, so knowing when to use which type of heavy attack can prove useful.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Wolves_3.jpg)\nA voice will call out as you defeat the first two enemies, and we’ll be meeting the owner of this voice soon enough. For now, head straight up the woodland path, and you should spot a red plant to the right. Pluck it to gain some **Aged Ginseng** \\- a crafting material that we won’t be able to make use of until Chapter 2, but there’s no reason you can’t start stocking up on them now!\"\n        - Following Text: \"When you reach the next Wolf Scout, you’ll be prompted to perform a Heavy Attack. Heavy Attacks work a bit differently here than in most other games: The more you land hits, the more your Focus bar in the bottom right corner grows. When it fills, you’ll gain a Focus Point, which allows you to add a Heavy Attack into your Light Attack Combos for massive damage. While you can still perform a Heavy Attack on its own, it will lack added punch without that Focus Point, and can’t be included in a combo attack without it.\nAlternatively, you can simply hold the Heavy Attack button to begin charging up your Focus, and letting go of the button will unleash the attack, which can be devastating on slow or unsuspecting enemies. It’s important to note that Focus won’t decay from performing light attacks, but you can’t keep the Focus from charging up, so knowing when to use which type of heavy attack can prove useful.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character mid-combat with a wolf-like enemy in a forested area. The on-screen prompt \"Perform Heavy Attack\" suggests this is a tutorial segment teaching the mechanics of heavy attacks. The accompanying text explains how heavy attacks work, emphasizing the role of the Focus bar and the strategic use of Focus Points to enhance combat effectiveness."
 }

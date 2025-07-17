@@ -1,28 +1,11 @@
 {
-    "chunk_id": 962301426911,
+    "chunk_id": 680760412605,
     "source_file": "Agate_Jar.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Agate_Jar_1.jpg",
     "alt_text": "Agate Jar 1.jpg",
     "position_desc": 2,
     "img_above_text": "## Black Myth: Wukong Agate Jar Location\nThe Agate Jar can be found in a box in the arena after fighting the Black Wind King in Black Wind Cave \\- Cave Interior in Black Wind Mountain. Simply defeat the Black Wind King and head over to this box in the arena to get the Agate Jar.",
     "img_below_text": "For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Agate_Jar.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Agate Jar Location\nThe Agate Jar can be found in a box in the arena after fighting the Black Wind King in Black Wind Cave \\- Cave Interior in Black Wind Mountain. Simply defeat the Black Wind King and head over to this box in the arena to get the Agate Jar.\"\n            - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Agate_Jar_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows a player character in \"Black Myth: Wukong\" standing in a dimly lit arena with a wooden platform. A box, likely containing the Agate Jar, is visible on a table in the background, positioned near a large bell structure. The setting suggests this is the area where the Black Wind King was defeated.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually depict the location of the Agate Jar in the game. It highlights the arena where players can find the item after defeating the Black Wind King, providing a reference for players to identify the setting and retrieve the item."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Agate Jar Location\nThe Agate Jar can be found in a box in the arena after fighting the Black Wind King in Black Wind Cave \\- Cave Interior in Black Wind Mountain. Simply defeat the Black Wind King and head over to this box in the arena to get the Agate Jar.\"\n        - Following Text: \"For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing in an arena-like area with a box placed on a table in the background. This box is likely the location of the Agate Jar, which can be obtained after defeating the Black Wind King in the Black Wind Cave. The image complements the walkthrough text by visually guiding players to the item’s location."
 }

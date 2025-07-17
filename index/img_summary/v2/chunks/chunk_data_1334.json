@@ -1,28 +1,11 @@
 {
-    "chunk_id": 753597783983,
-    "source_file": "Fungiwoman.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_YellowFlower_40.jpg",
-    "alt_text": "Wukong YellowFlower 40.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Wukong YellowFlower 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_YellowFlower_39.jpg)\nThe Fungiwoman can also expel toxic strands from its side to seek you out, but can thankfully by swept aside with a staff spin. The same can also happen if they slam their staff down, creating geysers that spawn additional projectiles.",
-    "img_below_text": "Like the Fungiman, this variant can fly through the air to slam down from above on you, only with this move they'll also create poison geysers all around them to spawn the aforementioned projectiles.\n![Wukong YellowFlower 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_YellowFlower_41.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Fungiwoman.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_YellowFlower_39.jpg)\nThe Fungiwoman can also expel toxic strands from its side to seek you out, but can thankfully by swept aside with a staff spin. The same can also happen if they slam their staff down, creating geysers that spawn additional projectiles.\"\n            - Following Text: \"Like the Fungiman, this variant can fly through the air to slam down from above on you, only with this move they'll also create poison geysers all around them to spawn the aforementioned projectiles.\n![Wukong YellowFlower 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_YellowFlower_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_YellowFlower_40.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts a combat encounter with the \"Fungiwoman\" in *Black Myth: Wukong*. The player character is engaged in battle against the creature, which appears to be emitting toxic projectiles or strands. The environment is a lush, forested area with rocky terrain and a small structure in the background. The health bar labeled \"Fungiwoman\" and various UI elements indicate an active fight sequence.\n\n2. **Inferred Purpose/Narrative Role:**  \nThe image illustrates the Fungiwoman's toxic attack mechanics, as described in the preceding and following text. These include expelling poisonous strands and creating geysers that spawn projectiles, showcasing the creature's dangerous abilities and reinforcing the need for strategic combat."
+    "chunk_id": 134479212647,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg",
+    "alt_text": "Wukong Brook 11.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nThis secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.",
+    "img_below_text": "When you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.\n![Wukong Martial 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nThis secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\"\n        - Following Text: \"When you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.\n![Wukong Martial 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character from *Black Myth: Wukong* standing on a snowy cliff edge near a lit brazier. This location appears to be part of a secret area mentioned in the preceding text, accessible from the Brook of Bliss' stream. The following text suggests the player is about to descend into a large cave containing a Buddha statue, indicating this is a transitional point leading to the next exploration area."
 }

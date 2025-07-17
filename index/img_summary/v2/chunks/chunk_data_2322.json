@@ -1,28 +1,11 @@
 {
-    "chunk_id": 192130400535,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg",
-    "alt_text": "Wukong Pagoda 46.jpg",
-    "position_desc": 47,
-    "img_above_text": "![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.",
-    "img_below_text": "* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.\"\n            - Following Text: \"* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts two scenes from the game \"Black Myth: Wukong.\" On the left, Wukong is climbing or navigating a rocky cliff, possibly indicating a challenging traversal or exploration segment. On the right, Wukong is facing a cell door with a Red-Haired Yaksha inside, guarding a **Treasure Chest**. This scene aligns with the narrative of reaching level 2 of the pagoda, where players must navigate through obstacles to find and unlock cells containing valuable items."
+    "chunk_id": 2494265860,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg",
+    "alt_text": "Wukong Fright 42.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** Heart of Stone, Skhanda of Feeling, Mind Core x1, Yaoguai Core x2, 1652 Experience, 1371 Will\n## Where to Find Shigandang",
+    "img_below_text": "It's possible to locate Shigandang without realizing what he is, as this boss is actually hiding in another Yaoguai King's arena. Travel through the Fright Cliff to Rockrest Flat, and enter the archway to the left to where the Vanguard of Stone dwells. As you enter, you may notice a large rock that on closer inspection has many carved heads on it. To activate it, you'll need to seek out six statue heads around the Fright Cliff and retrieve their Buddha's Eyeballs:\n![Wukong Eye1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Eye1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Rewards:** Heart of Stone, Skhanda of Feeling, Mind Core x1, Yaoguai Core x2, 1652 Experience, 1371 Will\n## Where to Find Shigandang\"\n        - Following Text: \"It's possible to locate Shigandang without realizing what he is, as this boss is actually hiding in another Yaoguai King's arena. Travel through the Fright Cliff to Rockrest Flat, and enter the archway to the left to where the Vanguard of Stone dwells. As you enter, you may notice a large rock that on closer inspection has many carved heads on it. To activate it, you'll need to seek out six statue heads around the Fright Cliff and retrieve their Buddha's Eyeballs:\n![Wukong Eye1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Eye1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character approaching a large rock formation with carved heads, marked by a red arrow for emphasis. This rock is located in the Fright Cliff area of the game and serves as a key element in activating the hidden boss Shigandang. To trigger the rock's activation, players must collect six Buddha's Eyeballs from statue heads scattered around the Fright Cliff."
 }

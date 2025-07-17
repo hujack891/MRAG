@@ -1,28 +1,11 @@
 {
-    "chunk_id": 921635187954,
-    "source_file": "Snake_Herbalist_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Snake_Herbalist_Spirit.jpg",
-    "alt_text": "Snake Herbalist Spirit.jpg",
-    "position_desc": 3,
-    "img_above_text": "The Snake Herbalist has a basket full of poison on its back as well, so keep an eye on your status effects during this fight. Take some Antimiasma Powder when necessary.\n## Snake Herbalist Spirit",
-    "img_below_text": "* **Venom Spray**\n* Equipped Effect: Recovers a small amount of Health when taking Medicines.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snake_Herbalist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Snake Herbalist has a basket full of poison on its back as well, so keep an eye on your status effects during this fight. Take some Antimiasma Powder when necessary.\n## Snake Herbalist Spirit\"\n            - Following Text: \"* **Venom Spray**\n* Equipped Effect: Recovers a small amount of Health when taking Medicines.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Snake_Herbalist_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image shows the in-game equipment menu for a character in a video game, specifically highlighting the \"Snake Herbalist\" spirit. This spirit has a moderate Qi cost and provides the ability \"Venom Spray,\" which creates poisonous pools on the ground that inflict Poison Bane on enemies. Additionally, when equipped, it grants a small health recovery when the player takes medicines. The context suggests that this spirit is useful for managing poison effects during combat."
+    "chunk_id": 803493091049,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg",
+    "alt_text": "Wukong Mindcliff 14.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Mindcliff 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Mindcliff_13.jpg)\nIt's here you'll find one last Monk Supporter guarding a **Treasure Chest** , but this is no ordinary chest, as it contains the **Fiery Gourd**! Though it cannot be upgraded, drinking from it will help keep any chill effects at bay, and also increase your maximum Stamina. As an added bonus, and it can also hold two different Soaks!",
+    "img_below_text": "As you leave the tunnel, you'll spot a peculiar yet familiar site -- that same old rat who was spotted in the Forest of Wolves is lurking around here too, and quickly darts away.\nCheck where he was lingering, and you'll find a small statue head holding the **Skandha of Thought** \\- the third Skandha in as many chapters! This ledge should also put you right above where you fought Non-White, so grab a nearby green Wisp before hopping down and chasing after him.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Mindcliff 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Mindcliff_13.jpg)\nIt's here you'll find one last Monk Supporter guarding a **Treasure Chest** , but this is no ordinary chest, as it contains the **Fiery Gourd**! Though it cannot be upgraded, drinking from it will help keep any chill effects at bay, and also increase your maximum Stamina. As an added bonus, and it can also hold two different Soaks!\"\n        - Following Text: \"As you leave the tunnel, you'll spot a peculiar yet familiar site -- that same old rat who was spotted in the Forest of Wolves is lurking around here too, and quickly darts away.\nCheck where he was lingering, and you'll find a small statue head holding the **Skandha of Thought** \\- the third Skandha in as many chapters! This ledge should also put you right above where you fought Non-White, so grab a nearby green Wisp before hopping down and chasing after him.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character approaching a staircase in a snowy, rocky environment. At the top of the stairs, a rat-like figure is highlighted with a red arrow, indicating its importance to the narrative. This moment aligns with the following text, where the rat is described as darting away, leading the player to discover the **Skandha of Thought** nearby. The image serves to guide players to this encounter and subsequent discovery."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 399294027192,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
-    "alt_text": "Wukong Sahali 10.jpg",
-    "position_desc": 10,
-    "img_above_text": "The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.",
-    "img_below_text": "Once you follow him through the large gate with the small crawlspace, you’ll find yourself overlooking an ancient and forgotten kingdom, and suddenly be transported into the past and into the Kingdom of Sahali.\nAfter besting the \"Tiger Vanguard\", you'll find none other than the Yellow Rat Sage, who needs your help defeating a giant scarab Guai in the sands below.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.\"\n            - Following Text: \"Once you follow him through the large gate with the small crawlspace, you’ll find yourself overlooking an ancient and forgotten kingdom, and suddenly be transported into the past and into the Kingdom of Sahali.\nAfter besting the \"Tiger Vanguard\", you'll find none other than the Yellow Rat Sage, who needs your help defeating a giant scarab Guai in the sands below.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a boar-like creature standing near a weathered stone wall or gate, possibly the \"large door\" mentioned in the preceding text. This scene likely represents the moment before the boar challenges the player to a duel over possession of the gold. The creature's posture and detailed design emphasize its role as a significant character in the narrative, setting the stage for the confrontation and subsequent exploration of the Realm of Gold."
+    "chunk_id": 628673367401,
+    "source_file": "Gourds.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg",
+    "alt_text": "Old Gourd .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Gourd | Rarity | Default Uses Per Life | Special Effect | Location | Collected\n---|---|---|---|---|---|---",
+    "img_below_text": "![Trailblazers Scarlet Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg)| Trailblazer’s Scarlet Gourd| Rare | 5 | When the Gourd is full, the first sip replenishes to full health. | Deluxe Edition exclusive item. Unlocked at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain\nAlso given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Image | Gourd | Rarity | Default Uses Per Life | Special Effect | Location | Collected\n---|---|---|---|---|---|---\"\n        - Following Text: \"![Trailblazers Scarlet Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg)| Trailblazer’s Scarlet Gourd| Rare | 5 | When the Gourd is full, the first sip replenishes to full health. | Deluxe Edition exclusive item. Unlocked at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain\nAlso given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Trailblazer’s Scarlet Gourd**, a rare item from the video game *Black Myth: Wukong*. This gourd has a default of 5 uses per life and provides a special effect where the first sip restores full health when the gourd is full. It is a Deluxe Edition exclusive item, obtainable at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain, or alternatively at Thunderclap Temple in The New West if the Deluxe Edition is not owned."
 }

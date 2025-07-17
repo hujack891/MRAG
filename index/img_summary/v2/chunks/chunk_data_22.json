@@ -1,28 +1,11 @@
 {
-    "chunk_id": 399864597684,
+    "chunk_id": 204933356803,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Black_Mountain_Awaken_Wine_Worm.jpg",
     "alt_text": "Black Mountain Awaken Wine Worm.jpg",
     "position_desc": 1,
     "img_above_text": "## Black Wind Cave Awaken Wine Worm\nBlack Wind Cave Awaken Wine Worm",
     "img_below_text": "The Awaken Wine Worm in Chapter 1 is hidden in a temple guarded by the Black Wind King. After defeating the boss, head to the left side of the temple and break the pots to uncover your first Awaken Wine Worm.\n## Marsh of the White Mist Awaken Wine Worms",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind Cave Awaken Wine Worm\nBlack Wind Cave Awaken Wine Worm\"\n            - Following Text: \"The Awaken Wine Worm in Chapter 1 is hidden in a temple guarded by the Black Wind King. After defeating the boss, head to the left side of the temple and break the pots to uncover your first Awaken Wine Worm.\n## Marsh of the White Mist Awaken Wine Worms\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Black_Mountain_Awaken_Wine_Worm.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing near a group of large pots in a dimly lit environment, with glowing particles emanating from the area. This scene aligns with the context of locating the first Awaken Wine Worm in the Black Wind Cave. The glowing effect suggests the hidden item (the Awaken Wine Worm) is being uncovered after breaking the pots, as described in the accompanying text. The image serves to visually guide players on where and how to find this collectible."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Wind Cave Awaken Wine Worm\nBlack Wind Cave Awaken Wine Worm\"\n        - Following Text: \"The Awaken Wine Worm in Chapter 1 is hidden in a temple guarded by the Black Wind King. After defeating the boss, head to the left side of the temple and break the pots to uncover your first Awaken Wine Worm.\n## Marsh of the White Mist Awaken Wine Worms\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near large pots in a dimly lit area, with glowing particles emanating from the surroundings, suggesting the discovery of an item or objective. The context indicates this is part of a walkthrough for locating the Awaken Wine Worm in Black Wind Cave, specifically after defeating the Black Wind King and breaking pots on the left side of the temple. The UI shows \"Will +4\" and \"x34,\" likely reflecting a reward or resource gained."
 }

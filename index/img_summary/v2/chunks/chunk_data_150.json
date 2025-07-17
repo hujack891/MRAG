@@ -1,28 +1,11 @@
 {
-    "chunk_id": 871493168488,
+    "chunk_id": 930957121679,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Turtle_7.jpg",
-    "alt_text": "Wukong Turtle 7.jpg",
-    "position_desc": 7,
-    "img_above_text": "After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.",
-    "img_below_text": "Later on, Kang-Jin Star will appear much closer above you in her dragon form, and use a familiar tail slam to explode the ground around you. Luckily, not only can you dodge or deflect this, but you can then strafe to the right to attack the dragon's head before she transforms back.\n![Wukong Turtle 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Turtle_8.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.\"\n            - Following Text: \"Later on, Kang-Jin Star will appear much closer above you in her dragon form, and use a familiar tail slam to explode the ground around you. Luckily, not only can you dodge or deflect this, but you can then strafe to the right to attack the dragon's head before she transforms back.\n![Wukong Turtle 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Turtle_8.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Turtle_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**: The image depicts a dynamic combat moment in a snowy, mountainous environment, where the player character is performing a defensive or evasive maneuver, possibly involving magic or energy, as indicated by the glowing, swirling effects. The enemy, \"Kang-Jin Star,\" is likely initiating an attack, as suggested by the visible health bar and the context of the ongoing battle.\n\n2. **Purpose, Content, or Narrative Role**: The image illustrates a critical moment in the fight against Kang-Jin Star, showcasing the player's ability to counter or evade her powerful attacks. It aligns with the preceding text describing her long-range lightning storm and the following text detailing her closer-range tail slam, emphasizing the need for strategic movement and timing during the encounter."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Turtle_11.jpg",
+    "alt_text": "Wukong Turtle 11.jpg",
+    "position_desc": 11,
+    "img_above_text": "At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.",
+    "img_below_text": "Right after she inflicts you with Shock, she'll trigger an even bigger lightning storm to try and maximize her damage against you, which is another good time to make yourself scarce with Cloud Step, and otherwise keep running around to avoid the attacks.\n![Wukong Turtle 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Turtle_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.\"\n        - Following Text: \"Right after she inflicts you with Shock, she'll trigger an even bigger lightning storm to try and maximize her damage against you, which is another good time to make yourself scarce with Cloud Step, and otherwise keep running around to avoid the attacks.\n![Wukong Turtle 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Turtle_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic boss battle in a snowy, darkened arena, where the player character faces off against \"Kang Jin Star,\" a large, imposing enemy. The scene is filled with intense lightning effects, emphasizing the boss's electrical attacks and the thunderstorm described in the text. The player appears to be dodging or preparing to counter the boss's powerful lightning-based abilities, which align with the guide's advice to use Cloud Step and avoid the Shock status effect."
 }

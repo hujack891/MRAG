@@ -1,28 +1,11 @@
 {
-    "chunk_id": 712773730504,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
-    "alt_text": "Snow Fox Questline .png",
-    "position_desc": 3,
-    "img_above_text": "![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.",
-    "img_below_text": "When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\"\n            - Following Text: \"When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, forested area with a wooden path leading to a body lying against a wooden structure, illuminated by torches. The scene is part of the Snow Fox Questline in the game \"Black Myth: Wukong,\" where the player approaches the body to interact with the soul of a fox guai. This interaction reveals the fox's tragic backstory involving a hunter's trap, a young scholar, and a quest for revenge. The player is prompted to transform into the fox to confront the monk responsible for the fox's demise."
+    "chunk_id": 572230177710,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Longevity_14.jpg",
+    "alt_text": "Wukong Longevity 14.jpg",
+    "position_desc": 110,
+    "img_above_text": "Make use of your spells to keep the foe off-balance and to get away from their explosive attacks, and once they've been defeated, jump and perform a heavy attack to smash the glowing pot on the small wooden platform to gain an Awaken Wine Worm!\nLongevity Road Awaken Wine Worm",
+    "img_below_text": "If you want something to pair with that worm, keep moving along the lower path as it goes up some stairs, and you'll eventually reach the end of this loop, where a small tree stands at the end of a large field with a Luojia Fragrant Vine. However, you'll need to defeat not one but two Falcon Fan-Makers to claim it!\n![Wukong Longevity 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Longevity_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Make use of your spells to keep the foe off-balance and to get away from their explosive attacks, and once they've been defeated, jump and perform a heavy attack to smash the glowing pot on the small wooden platform to gain an Awaken Wine Worm!\nLongevity Road Awaken Wine Worm\"\n        - Following Text: \"If you want something to pair with that worm, keep moving along the lower path as it goes up some stairs, and you'll eventually reach the end of this loop, where a small tree stands at the end of a large field with a Luojia Fragrant Vine. However, you'll need to defeat not one but two Falcon Fan-Makers to claim it!\n![Wukong Longevity 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Longevity_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy battlefield in *Black Myth: Wukong*, where the player character is engaging two Falcon Fan-Maker enemies. The red arrow highlights a small tree in the background, which is tied to the narrative goal of obtaining the Luojia Fragrant Vine. Defeating these foes is required to claim the item and progress along the lower path described in the guide."
 }

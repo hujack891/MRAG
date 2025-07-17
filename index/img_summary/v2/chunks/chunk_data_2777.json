@@ -1,28 +1,11 @@
 {
-    "chunk_id": 826131837225,
-    "source_file": "Stone_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg",
-    "alt_text": "Wukong Shigandang 2.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\nIf you've collected all six Buddha Eyeballs, you can actually interact with the large rock to the left before engaging the Stone Vanguard. This will summon the mighty Shigandang boss to arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!",
-    "img_below_text": "The bad news is once the Stone Vanguard is gone, the Shigandang will turn on you, and he is an extremely tough boss to fight this early, so only do this if you really don't want to fight the Stone Vanguard yourself! You can also resummon the Shigandang later for a fairer matchup once you've gotten stronger.\n![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\nIf you've collected all six Buddha Eyeballs, you can actually interact with the large rock to the left before engaging the Stone Vanguard. This will summon the mighty Shigandang boss to arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!\"\n            - Following Text: \"The bad news is once the Stone Vanguard is gone, the Shigandang will turn on you, and he is an extremely tough boss to fight this early, so only do this if you really don't want to fight the Stone Vanguard yourself! You can also resummon the Shigandang later for a fairer matchup once you've gotten stronger.\n![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Shigandang, a formidable rock-like boss character in the game \"Black Myth: Wukong.\" The context explains that summoning Shigandang by interacting with a large rock can help defeat the Stone Vanguard, but he will eventually turn on the player, presenting a challenging fight. This strategic choice allows players to avoid fighting the Stone Vanguard directly, but they must be prepared for a tough battle against Shigandang afterward."
+    "chunk_id": 101524246817,
+    "source_file": "Wandering_Wight.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg",
+    "alt_text": "Wukong Wight 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "If you do try to fight him early, we at least recommend making a quick detour left of the Wandering Wight to fight a much more manageable optional Yaoguai Chief — Guangzhi — as he drops a Transformation Spell that can be instrumental in surviving this fight.\nDo be warned however, that you should defeat this optional boss before you unlock the Chapter 1 Secret Area by ringing three large bells. Once you challenge the boss of the Ancient Guanyin Temple, the Wandering Wight will disappear, and you will no longer be able to challenge him and gain his rewards!",
+    "img_below_text": "The Wandering Wight patrols a large clearing in the Forest of Wolves, and you can actually use this to your advantage by sneaking up behind him and charging up a heavy smash attack to start the fight, dealing big damage right out of the gate.\n![Wukong Wight 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Wight_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"If you do try to fight him early, we at least recommend making a quick detour left of the Wandering Wight to fight a much more manageable optional Yaoguai Chief — Guangzhi — as he drops a Transformation Spell that can be instrumental in surviving this fight.\nDo be warned however, that you should defeat this optional boss before you unlock the Chapter 1 Secret Area by ringing three large bells. Once you challenge the boss of the Ancient Guanyin Temple, the Wandering Wight will disappear, and you will no longer be able to challenge him and gain his rewards!\"\n        - Following Text: \"The Wandering Wight patrols a large clearing in the Forest of Wolves, and you can actually use this to your advantage by sneaking up behind him and charging up a heavy smash attack to start the fight, dealing big damage right out of the gate.\n![Wukong Wight 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Wight_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game encounter with the \"Wandering Wight,\" a large, humanoid enemy in *Black Myth: Wukong*. The setting is a forest clearing, and the player character is engaged in combat with the creature. The preceding and following text suggests this enemy patrols the area and can be ambushed for an advantage. The image highlights the Wight's imposing size and the tense atmosphere of the fight."
 }

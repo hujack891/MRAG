@@ -1,28 +1,11 @@
 {
-    "chunk_id": 409803481331,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_Fright_5.jpg",
-    "alt_text": "Wukong Fright 5.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Fright 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_4.jpg)\nAs you enter the Fright Cliff proper, another Pitstone enemy waits up the path, with a Blazebone enemy on a ledge to the right to try and pepper you with projectiles.",
-    "img_below_text": "Make sure not to lock on and face the smaller threat, or you’ll be rammed by the Pitstone. Instead use your Cloud Step to get around and sneak attack.\n## Squall Hideout",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_4.jpg)\nAs you enter the Fright Cliff proper, another Pitstone enemy waits up the path, with a Blazebone enemy on a ledge to the right to try and pepper you with projectiles.\"\n            - Following Text: \"Make sure not to lock on and face the smaller threat, or you’ll be rammed by the Pitstone. Instead use your Cloud Step to get around and sneak attack.\n## Squall Hideout\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_Fright_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat scene in *Black Myth: Wukong*, showcasing the player character facing off against a large Pitstone enemy in the rugged terrain of Fright Cliff. The environment is rocky and sunlit, emphasizing the danger of the encounter. The player's health and abilities are visible in the UI, suggesting active gameplay.\n\n2. **Narrative Role**:  \nThe image illustrates a key moment in the Fright Cliff walkthrough, highlighting the threat posed by the Pitstone enemy. It visually supports the preceding text's warning about avoiding direct confrontation and using strategic movement, such as Cloud Step, to outmaneuver the enemy and execute a sneak attack."
+    "chunk_id": 155660791002,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Furnace_Valley_Walkthrough_%2863%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(63\\).png",
+    "position_desc": 32,
+    "img_above_text": "After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit",
+    "img_below_text": "Open the giant door at the top of the stairs. Go straight ahead and activate the Rakshasa Palace Keeper's Shrine.\n## Rakshasa Palace",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit\"\n        - Following Text: \"Open the giant door at the top of the stairs. Go straight ahead and activate the Rakshasa Palace Keeper's Shrine.\n## Rakshasa Palace\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, atmospheric staircase leading toward an ornate palace entrance, illuminated by warm light. A character holding a weapon stands at the base of the stairs, preparing to ascend. The red arrow highlights the path forward, directing the player to continue toward the palace doors, as described in the preceding and following text. This scene serves as a transitional moment in the walkthrough, guiding the player toward the Rakshasa Palace and its shrine."
 }

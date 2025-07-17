@@ -1,28 +1,11 @@
 {
-    "chunk_id": 714596061701,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg",
-    "alt_text": "Wukong Snowhill 26.jpg",
-    "position_desc": 25,
-    "img_above_text": "![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.",
-    "img_below_text": "There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.\"\n            - Following Text: \"There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in combat with two enemies, likely Frozen Corpses, near the entrance of a temple in a snowy environment. The preceding text advises players to be cautious of these enemies as they ascend the stairs, while the following text suggests tactics for dealing with a Yaksha Patroller and absorbing a green Wisp for healing."
+    "chunk_id": 570006565708,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Karma_2.jpg",
+    "alt_text": "Wukong Karma 2.jpg",
+    "position_desc": 75,
+    "img_above_text": "![Wukong Karma 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Karma_1.jpg)\nThe large forested field beyond the Forest of Felicity's canyon is fairly wide open, and as you exit the canyon you'll find a few small trails leading to the right, left and straight ahead.",
+    "img_below_text": "Take the left path first, and past a Monk Supporter enemy you'll be able to find the top of a stream, similar to the Brook of Bliss, that hugs that wraps around the far side of this region.\n![Wukong Karma 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Karma_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Karma_1.jpg)\nThe large forested field beyond the Forest of Felicity's canyon is fairly wide open, and as you exit the canyon you'll find a few small trails leading to the right, left and straight ahead.\"\n        - Following Text: \"Take the left path first, and past a Monk Supporter enemy you'll be able to find the top of a stream, similar to the Brook of Bliss, that hugs that wraps around the far side of this region.\n![Wukong Karma 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Karma_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a snowy forest environment from the video game *Black Myth: Wukong*. The protagonist, Wukong, is mid-action, wielding his staff in a dynamic attack against a large enemy near a shrine-like structure. The scene highlights the game's detailed environment and combat mechanics, aligning with the walkthrough's description of navigating the Forest of Felicity and its branching paths."
 }

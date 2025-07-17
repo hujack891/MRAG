@@ -1,28 +1,11 @@
 {
-    "chunk_id": 764498362068,
-    "source_file": "Red_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg",
-    "alt_text": "Wukong RedLoong 13.jpg",
-    "position_desc": 13,
-    "img_above_text": "Red Loong can also employ a deadly extended combo, first lunging at you with two claw swipes to create lightning spots, and then leaping into the air to feint around to the other side of you while swinging his tail below — all while finally landing behind you to attack as the lightning detonates on the other side.\nWith enough sustained damage, you can eventually stagger and knock down the Red Loong, which is your big moment to maximize your damage output.",
-    "img_below_text": "Look for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"Red Loong can also employ a deadly extended combo, first lunging at you with two claw swipes to create lightning spots, and then leaping into the air to feint around to the other side of you while swinging his tail below — all while finally landing behind you to attack as the lightning detonates on the other side.\nWith enough sustained damage, you can eventually stagger and knock down the Red Loong, which is your big moment to maximize your damage output.\"\n            - Following Text: \"Look for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.\n![Wukong RedLoong 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle between the protagonist and the Red Loong, a formidable dragon-like creature. The context suggests that the player has successfully staggered the Red Loong, presenting an opportunity to maximize damage. The image illustrates the intense atmosphere of the fight, with the protagonist poised to strike, highlighting the strategic moment to target the dragon's electric pots on its back for effective damage."
+    "chunk_id": 653296886906,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_YellowFlower_3.jpg",
+    "alt_text": "Wukong YellowFlower 3.jpg",
+    "position_desc": 3,
+    "img_above_text": "While resting at the Shrine, note that you can now craft the Spider Celestial Staff, which boasts an odd additional effect against enemies if you're currently poisoned. In fact, you can actually make this into an effective build by intentionally poisoning yourself with the Deathclaw Soak, and further boosting your skills by equipping the Elder Amourworm Spirit to increase critical hit chance when poisoned, but it is a bit of a risky tradeoff.\nAfter resting at the Shrine, you may start to notice giant pools of blood left by something on the run, meaning the Violet Spider must have come this way.",
+    "img_below_text": "At the top of a short stairway, you'll encounter new enemies guarding a green Wisp - a Sword Daoist. They attack with flowing sword combos and even a wave of force from certain swings, but on the plus side they aren't very durable, and a sustained light attack combo is enough to put them down.\n![Wukong YellowFlower 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"While resting at the Shrine, note that you can now craft the Spider Celestial Staff, which boasts an odd additional effect against enemies if you're currently poisoned. In fact, you can actually make this into an effective build by intentionally poisoning yourself with the Deathclaw Soak, and further boosting your skills by equipping the Elder Amourworm Spirit to increase critical hit chance when poisoned, but it is a bit of a risky tradeoff.\nAfter resting at the Shrine, you may start to notice giant pools of blood left by something on the run, meaning the Violet Spider must have come this way.\"\n        - Following Text: \"At the top of a short stairway, you'll encounter new enemies guarding a green Wisp - a Sword Daoist. They attack with flowing sword combos and even a wave of force from certain swings, but on the plus side they aren't very durable, and a sustained light attack combo is enough to put them down.\n![Wukong YellowFlower 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a rocky, forested area. A Sword Daoist enemy is preparing to attack the player, who is crouched and armed with a staff. A glowing green Wisp, likely an in-game collectible or objective, is visible in the background, marked with a red circle. This scene aligns with the guide's description of encountering Sword Daoists guarding a Wisp shortly after leaving the Shrine."
 }

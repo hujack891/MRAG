@@ -1,28 +1,11 @@
 {
-    "chunk_id": 157272632305,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg",
-    "alt_text": "Wukong Snowhill 17.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Snowhill 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg)\nIf he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.",
-    "img_below_text": "Once you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\n![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Snowhill_16.jpg)\nIf he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\"\n            - Following Text: \"Once you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\n![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a tense moment in the battle against the \"Macaque Chief\" in *Black Myth: Wukong*. The snowy environment sets the stage for the encounter, with the protagonist poised for combat while the boss prepares an attack, raising its arms in a threatening stance. The preceding text describes the boss's extended attack sequence, while the following text hints at a shift in behavior when the boss's health drops to half, signaling a retreat and feigned surrender. The image visually captures the intensity and strategic nature of the fight."
+    "chunk_id": 22140596715,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_30.jpg",
+    "alt_text": "Wukong Thunderclap 30.jpg",
+    "position_desc": 29,
+    "img_above_text": "After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).",
+    "img_below_text": "The four-legged creatures can emit fire from several places -- using a large opening on its chest to emit a huge flamethrower you'll need to Immobilize to shut down or stay well away from.\n![Wukong Thunderclap 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Thunderclap_31.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).\"\n        - Following Text: \"The four-legged creatures can emit fire from several places -- using a large opening on its chest to emit a huge flamethrower you'll need to Immobilize to shut down or stay well away from.\n![Wukong Thunderclap 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Thunderclap_31.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character, likely the protagonist, preparing to engage a four-legged enemy emitting a stream of fire from its chest. The setting is a snowy, mountainous area with traditional architecture in the background. This encounter aligns with the guide's description of a \"Clay Vajra,\" a formidable foe with fire-based attacks that require strategic evasion or disabling to overcome."
 }

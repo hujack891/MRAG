@@ -1,28 +1,11 @@
 {
-    "chunk_id": 201754889201,
-    "source_file": "Flint_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Field_Fire_Walkthrough_%2825%29.png",
-    "alt_text": "Field Fire Walkthrough \\(25\\).png",
+    "chunk_id": 570421082482,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Prologue_4.jpg",
+    "alt_text": "Wukong Prologue 4.jpg",
     "position_desc": 4,
-    "img_above_text": "![Field Fire Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Field_Fire_Walkthrough_%2822%29.png)\nWhen it comes to the Flint Vanguard, the main thing to watch out for is its thick rocky arms. It will punch down using these, creating pools of lava where they land. To counter these attacks, use Body-Cooling Powder and your Fireproof Mantle.",
-    "img_below_text": "Whenever you're close to the Flint Vanguard, it will go into combo punches. These are typical punches to the ground, and occasionally it will slam both arms down together. These can be dodged, and you'll be able to keep close to the Vanguard temporarily until pools of lava appear -- that's when you want to dash away.\nIt shifts to ranged attacks when you try to create distance, in the form of fireballs. This will just be a single shot each time, so it's easiest to dodge. It will also attempt to close the gap by flying over to you and smashing down.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Flint_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Field Fire Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Field_Fire_Walkthrough_%2822%29.png)\nWhen it comes to the Flint Vanguard, the main thing to watch out for is its thick rocky arms. It will punch down using these, creating pools of lava where they land. To counter these attacks, use Body-Cooling Powder and your Fireproof Mantle.\"\n            - Following Text: \"Whenever you're close to the Flint Vanguard, it will go into combo punches. These are typical punches to the ground, and occasionally it will slam both arms down together. These can be dodged, and you'll be able to keep close to the Vanguard temporarily until pools of lava appear -- that's when you want to dash away.\nIt shifts to ranged attacks when you try to create distance, in the form of fireballs. This will just be a single shot each time, so it's easiest to dodge. It will also attempt to close the gap by flying over to you and smashing down.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Field_Fire_Walkthrough_%2825%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the Flint Vanguard, a large, rocky, lava-infused creature, in a barren, volcanic landscape. Its glowing molten veins and massive rocky arms are prominent, emphasizing its fiery and destructive nature. A player character is seen engaging the creature, highlighting its role as a formidable enemy.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually supports the preceding and following text by showcasing the Flint Vanguard in its environment. It emphasizes the creature's key traits, such as its rocky arms and lava-based attacks, which players need to counter strategically. The image serves as a visual aid to prepare players for the encounter, reinforcing the importance of timing, dodging, and using fire-resistant items."
+    "img_above_text": "![Wukong Prologue 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Prologue_3.jpg)\nErlang fights in a very standard fashion with sweeps and thrusts of his spear, often slowing down and allowing you to test out your dodging skills. There’s no real block button to speak of in Wukong, so dodging — especially at the last second — is key to surviving combat encounters.",
+    "img_below_text": "Once you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\n![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Prologue 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Prologue_3.jpg)\nErlang fights in a very standard fashion with sweeps and thrusts of his spear, often slowing down and allowing you to test out your dodging skills. There’s no real block button to speak of in Wukong, so dodging — especially at the last second — is key to surviving combat encounters.\"\n        - Following Text: \"Once you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\n![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, where the player character is engaged in a battle with \"Erlang, the Sacred Divinity.\" The player is performing a heavy attack, as indicated by the on-screen prompt, while Erlang is struck, emitting red visual effects. The health bar at the bottom shows Erlang has lost a portion of his health, aligning with the guide's description of the fight's progression."
 }

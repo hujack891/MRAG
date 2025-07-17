@@ -1,28 +1,11 @@
 {
-    "chunk_id": 673802875344,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
-    "alt_text": "Wukong MadTiger 7.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.",
-    "img_below_text": "Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.\"\n            - Following Text: \"Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing at the edge of an old, stone well surrounded by skeletons in a desolate, overgrown area. The prompt on the screen indicates the player can \"Jump In\" by pressing the RT button. This scene is part of a questline in the game \"Black Myth: Wukong,\" where the player is invited by a spirit to descend into the well. The context suggests that jumping into the well will lead to a secret area where the player will encounter a challenging boss known as the Mad Tiger."
+    "chunk_id": 135685700310,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg",
+    "alt_text": "Wukong Sandgate 71.jpg",
+    "position_desc": 68,
+    "img_above_text": "Before you do that, instead take a left to where the sun shines down on a large rat statue and a curved wall, as well as a large pit. The pit holds one last major boss to deal with, which can arrive in a few ways.\n### Yaoguai Chief Mini-Boss Fight - First Prince of Flowing Sands",
+    "img_below_text": "If you didn’t kill the King of Flowing Sands when fighting him and his second son, he’ll have snuck over here to summon his even bigger first son to beat you into a pulp (the First Prince however, will promptly deal with the King himself). If you killed both King and Prince, you can instead toss down the Pungent Flesh Chunk to rouse the Prince out of his lair.\n![Wukong Sandgate 72.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_72.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Before you do that, instead take a left to where the sun shines down on a large rat statue and a curved wall, as well as a large pit. The pit holds one last major boss to deal with, which can arrive in a few ways.\n### Yaoguai Chief Mini-Boss Fight - First Prince of Flowing Sands\"\n        - Following Text: \"If you didn’t kill the King of Flowing Sands when fighting him and his second son, he’ll have snuck over here to summon his even bigger first son to beat you into a pulp (the First Prince however, will promptly deal with the King himself). If you killed both King and Prince, you can instead toss down the Pungent Flesh Chunk to rouse the Prince out of his lair.\n![Wukong Sandgate 72.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Sandgate_72.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Yaoguai Chief, a mini-boss from *Black Myth: Wukong*. This encounter occurs in a pit near a large rat statue and curved wall, where players can summon the First Prince of Flowing Sands either by defeating the King of Flowing Sands or by using a Pungent Flesh Chunk. The scene highlights the intense and dramatic atmosphere of the boss fight."
 }

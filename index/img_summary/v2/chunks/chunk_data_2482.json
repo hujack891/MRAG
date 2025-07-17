@@ -1,28 +1,11 @@
 {
-    "chunk_id": 585386879892,
-    "source_file": "Refined_Iron_Sand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Refined_Iron_Sand.jpg",
-    "alt_text": "Refined Iron Sand.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.",
-    "img_below_text": "Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Refined_Iron_Sand.md'.\n\n            Context:\n            - Preceding Text: \"# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.\"\n            - Following Text: \"Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Refined_Iron_Sand.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the \"Refined Iron Sand\" item. This material is categorized as an \"Epic\" general weapon material, with a description noting that it has been smelted nine times and can be used in crafting weapons. The inventory shows that the player currently holds 5 out of a possible 999 units of this item. The preceding and following text indicates that Refined Iron Sand is a basic material used for weapon upgrades and crafting new staff variants, and it can be found in chests throughout the game's six chapters."
+    "chunk_id": 818298151569,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_YellowFlower_14.jpg",
+    "alt_text": "Wukong YellowFlower 14.jpg",
+    "position_desc": 12,
+    "img_above_text": "First, you should head left to defeat a Snake Herbalist, and then explore a far cliff where a small ledge holds a **Meditation Spot** where you can get a free Skill Point.\nThe Height, Forest of Ferocity Meditation Spot",
+    "img_below_text": "Next, take the right path to defeat the group of Sword Daoists practicing, and beyond them you'll find two more Worm Practitioners by a broken building with a green Wisp. Defeat them both, and you should gain the **Virtuous Bamboo Engraving Curio**.\n![Wukong YellowFlower 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"First, you should head left to defeat a Snake Herbalist, and then explore a far cliff where a small ledge holds a **Meditation Spot** where you can get a free Skill Point.\nThe Height, Forest of Ferocity Meditation Spot\"\n        - Following Text: \"Next, take the right path to defeat the group of Sword Daoists practicing, and beyond them you'll find two more Worm Practitioners by a broken building with a green Wisp. Defeat them both, and you should gain the **Virtuous Bamboo Engraving Curio**.\n![Wukong YellowFlower 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_YellowFlower_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character wielding a fiery staff and standing on a stone path in a forested area. In the background, two enemies (likely Worm Practitioners) are visible near a broken building, with a glowing green Wisp marked by a red circle. This location aligns with the guide's description of the area where players must defeat the Worm Practitioners to obtain the **Virtuous Bamboo Engraving Curio**."
 }

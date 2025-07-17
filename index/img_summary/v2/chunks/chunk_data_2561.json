@@ -1,28 +1,11 @@
 {
-    "chunk_id": 953761706090,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-    "alt_text": "Wukong RedLoong 3.jpg",
-    "position_desc": 75,
-    "img_above_text": "![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.",
-    "img_below_text": "On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\n![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 75 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.\"\n            - Following Text: \"On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\n![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing in front of a mural inside a large tomb. The scene is likely from a video game, where the character has just entered through a crack in the wall formed during a boss fight. The tomb contains a chest, which holds an important item called the Loong Scale, essential for accessing secret bosses in the game. The setting is atmospheric, with detailed surroundings and a sense of discovery."
+    "chunk_id": 940937243221,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Water_Curtain_Cave_Walkthrough_%285%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(5\\).png",
+    "position_desc": 13,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Water_Curtain_Cave_Walkthrough_%284%29.png)\nMake your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.",
+    "img_below_text": "On the other side, you'll find the Old Monkey. He'll tell you to step onto a boat, and then transport you across the water, while he recites the memories of Wukong.\n## Birthstone - Heart of Birthstone",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Water Curtain Cave Walkthrough \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Water_Curtain_Cave_Walkthrough_%284%29.png)\nMake your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.\"\n        - Following Text: \"On the other side, you'll find the Old Monkey. He'll tell you to step onto a boat, and then transport you across the water, while he recites the memories of Wukong.\n## Birthstone - Heart of Birthstone\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene where characters are standing on a wooden boat near a rocky shore, surrounded by a mystical atmosphere. This moment aligns with the walkthrough narrative, where the Old Monkey instructs the player to step onto a boat to be transported across the water while recounting Wukong's memories. The setting suggests a transition to another realm or significant story progression."
 }

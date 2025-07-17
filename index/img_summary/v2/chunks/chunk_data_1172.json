@@ -1,28 +1,11 @@
 {
-    "chunk_id": 210686495768,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
-    "alt_text": "Five Skandhas \\(22\\).png",
-    "position_desc": 84,
-    "img_above_text": "![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.",
-    "img_below_text": "Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 84 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png)\nUnfortunately, despite its size, you will need to be on foot during the fight. The key to defeating this enormous rocky monster is to head for its fits and attack the blue crystals you can on them.\"\n            - Following Text: \"Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Five_Skandhas_%2822%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a rocky environment, facing a large stone structure embedded with glowing blue crystals. These crystals are likely the weak points of the Giant Shigandang, a boss mentioned in the context. The scene emphasizes the challenging terrain and the importance of targeting the crystals during the fight.\n\n2. **Purpose/Narrative Role**:  \nThe image visually supports the preceding and following text by showcasing the environment where the player encounters the Giant Shigandang. It highlights the blue crystals on the rocky surface, which are critical to defeating the boss. The image sets the tone for the battle and provides a visual cue for the player's strategy."
+    "chunk_id": 544282943648,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg",
+    "alt_text": "Wukong Fright 35.jpg",
+    "position_desc": 36,
+    "img_above_text": "![Wukong Fright 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg)\nOnce you hand it over, the Man-in-Stone will burst out of the ground and declare you gullible for just giving it to him. That’s not very nice, and it sounds like he deserves a beatdown.",
+    "img_below_text": "While he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\n![Wukong Fright 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg)\nOnce you hand it over, the Man-in-Stone will burst out of the ground and declare you gullible for just giving it to him. That’s not very nice, and it sounds like he deserves a beatdown.\"\n        - Following Text: \"While he technically has a boss health bar and everything, he’s kind of a pushover, barely having much more health than a regular Pinstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\n![Wukong Fright 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game combat scene from *Black Myth: Wukong*, showing the player character engaged in a fight with the \"Man-in-Stone\" boss. The boss is partially visible, surrounded by glowing effects and debris, indicating an attack or impact. The health bar at the bottom shows the boss's name and remaining health. The context suggests this is a relatively easy encounter, as the preceding and following text describe the boss as underwhelming and vulnerable to specific strategies."
 }

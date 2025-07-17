@@ -1,28 +1,11 @@
 {
-    "chunk_id": 422695726534,
+    "chunk_id": 857017426531,
     "source_file": "Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_PurpleCloud_35.jpg",
-    "alt_text": "Wukong PurpleCloud 35.jpg",
-    "position_desc": 39,
-    "img_above_text": "![Wukong PurpleCloud 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_PurpleCloud_34.jpg)\nBe sure to absorb the green Wisp in the building behind him, and then check the opposite path for two Daoists in front of a small house, and guard a **Treasure Chest** with random materials. The path around the back leads to a Fungiman, as well as the other end of the hamlet, but we have another path to take.",
-    "img_below_text": "There's a lengthy moat nearby leading under a bridge, but aside from several Croaky enemies and some green Wisps, you can't exit out the other side.\n![Wukong PurpleCloud 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_PurpleCloud_36.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Chapter_4_Secret_-_Purple_Cloud_Mountain_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_PurpleCloud_34.jpg)\nBe sure to absorb the green Wisp in the building behind him, and then check the opposite path for two Daoists in front of a small house, and guard a **Treasure Chest** with random materials. The path around the back leads to a Fungiman, as well as the other end of the hamlet, but we have another path to take.\"\n            - Following Text: \"There's a lengthy moat nearby leading under a bridge, but aside from several Croaky enemies and some green Wisps, you can't exit out the other side.\n![Wukong PurpleCloud 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_PurpleCloud_36.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_PurpleCloud_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts the player character standing near the edge of a rocky path overlooking a tranquil moat under a shaded bridge. The character wields a glowing red staff, and the lush environment is illuminated by dappled sunlight. The scene suggests exploration of the area, which contains enemies (Croaky) and collectible green Wisps, though the moat itself is a dead end.\n\n2. **Purpose/Role**: This image serves to visually highlight the serene yet mysterious environment of the moat area mentioned in the text. It emphasizes the exploration aspect of the game, showing the player navigating through the detailed landscape while preparing for potential encounters or collectibles."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_PurpleCloud_65.jpg",
+    "alt_text": "Wukong PurpleCloud 65.jpg",
+    "position_desc": 67,
+    "img_above_text": "There are quite a few ways The Duskveil can utilize his sword, and it's important to note that after each of these combo attacks, the sword will disappear, meaning he has to pull it out each time he starts an attack with it, which has a very visible animation (though there are a few times when its much harder to see coming).\nWhen he pulls his sword out of his mouth at range, he'll quickly launch into one of two attacks:",
+    "img_below_text": "One will be a series of projectiles slashes as he spins about, sending one horizontal projectiles followed by a cross slash projectile. He'll then take to the air and slam down with his sword for a third and final strike.\nIf he's at a middle distance, he's much more likely to perform the same spin attack, only extending his blade instead to slash at you physically with two quick spinning slashes, and then taking to the air.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There are quite a few ways The Duskveil can utilize his sword, and it's important to note that after each of these combo attacks, the sword will disappear, meaning he has to pull it out each time he starts an attack with it, which has a very visible animation (though there are a few times when its much harder to see coming).\nWhen he pulls his sword out of his mouth at range, he'll quickly launch into one of two attacks:\"\n        - Following Text: \"One will be a series of projectiles slashes as he spins about, sending one horizontal projectiles followed by a cross slash projectile. He'll then take to the air and slam down with his sword for a third and final strike.\nIf he's at a middle distance, he's much more likely to perform the same spin attack, only extending his blade instead to slash at you physically with two quick spinning slashes, and then taking to the air.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against \"The Duskveil\" in a dark, ominous setting with a red-hued sky and twisted, desolate surroundings. The boss, a large, menacing creature, is mid-action, wielding a massive sword. The player's health and ability bars are visible, indicating an ongoing battle. This scene aligns with the preceding and following text, which describe The Duskveil's sword-based attacks and combat patterns."
 }

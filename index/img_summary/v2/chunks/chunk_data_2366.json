@@ -1,28 +1,11 @@
 {
-    "chunk_id": 110204774311,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_95.jpg",
-    "alt_text": "Wukong Pagoda 95.jpg",
-    "position_desc": 91,
-    "img_above_text": "Outside the Wheel Luojia Fragrant Vine\nAs you exit the cave, you'll find yourself at the bottom of a gorge with more plants to harvest as you proceed.",
-    "img_below_text": "Absorb the green Wisp in a small tunnel you can pass through, and on the other side you'll see a few stone lanterns marking an area with a small gold pot. Open it, and you'll find a **Celestial Taiyi Pill** inside to boost your maximum mana.\nThe New West Celestial Taiyi Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 91 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Outside the Wheel Luojia Fragrant Vine\nAs you exit the cave, you'll find yourself at the bottom of a gorge with more plants to harvest as you proceed.\"\n            - Following Text: \"Absorb the green Wisp in a small tunnel you can pass through, and on the other side you'll see a few stone lanterns marking an area with a small gold pot. Open it, and you'll find a **Celestial Taiyi Pill** inside to boost your maximum mana.\nThe New West Celestial Taiyi Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_95.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character navigating through a snowy gorge, surrounded by stone lanterns and intricate rock carvings. The red arrow indicates a small tunnel on the right side, suggesting the next step in the journey. The preceding text mentions exiting a cave and harvesting plants, while the following text instructs absorbing a green Wisp in the tunnel to find a Celestial Taiyi Pill that boosts mana. The image serves as a visual guide for the player to locate the tunnel leading to the valuable item."
+    "chunk_id": 583553183259,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg",
+    "alt_text": "Wukong Snowhill 21.jpg",
+    "position_desc": 20,
+    "img_above_text": "When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)",
+    "img_below_text": "With the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\n![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When he runs out of health, you won't get the traditional \"boss defeated\" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you.\nMacaque Chief (Snowhill Path)\"\n        - Following Text: \"With the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\n![Wukong Snowhill 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" where the player character is advancing up a snowy path towards a large walled temple. The environment is wintry and desolate, with snow-covered ground and barren trees. The player character is armed with a staff and is approaching a staircase leading to the temple, where a Cyan Bat enemy is visible, suggesting an impending ambush as mentioned in the following text. The image illustrates the game's atmospheric setting and the player's progression towards a significant location in the narrative."
 }

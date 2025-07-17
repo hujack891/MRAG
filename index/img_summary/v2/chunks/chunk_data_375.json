@@ -1,28 +1,11 @@
 {
-    "chunk_id": 281843284436,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_MiddleHollow_63.jpg",
-    "alt_text": "Wukong MiddleHollow 63.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)\nIf you notice the monster begin to rise up to where you can't hit it with normal swings, back off and get ready, as it will likely try to punch you with its \"right hand\" slamming through under its body. The good news is the hand is also another target in addition to its head, giving you more places to swing your staff at.",
-    "img_below_text": "If the body appears to rise up and lurch backwards out of reach instead of straight up, it means that the boss is preparing to lunge forward with a headbutt, but this can be deflected and countered while its head is lowered for some prime damage output.\n![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)\nIf you notice the monster begin to rise up to where you can't hit it with normal swings, back off and get ready, as it will likely try to punch you with its \"right hand\" slamming through under its body. The good news is the hand is also another target in addition to its head, giving you more places to swing your staff at.\"\n            - Following Text: \"If the body appears to rise up and lurch backwards out of reach instead of straight up, it means that the boss is preparing to lunge forward with a headbutt, but this can be deflected and countered while its head is lowered for some prime damage output.\n![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_MiddleHollow_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense boss fight scene from the game *Black Myth: Wukong*. The player character, armed with a glowing staff, faces off against a large, spider-like creature named \"Buddha's Right Hand\" in a dimly lit cavern. The creature looms menacingly, with its glowing eyes and outstretched legs dominating the narrow space.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the moment when the boss, \"Buddha's Right Hand,\" is preparing to attack, as described in the preceding text. The text advises players to target the boss's hand or head when it rises, offering strategic tips for the fight. This image serves to visually reinforce the gameplay mechanics and the environment of the encounter."
+    "chunk_id": 216437769387,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Pagoda_36.jpg",
+    "alt_text": "Wukong Pagoda 36.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Pagoda 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Pagoda_33.jpg)\nThings will get more difficult any time you see the crystal on his staff flare brighter. These brief flashes indicate a laser beam blast that you'll only have a moment to dodge or take considerable damage, and you'll have to deal with even more as time goes on. Early on, watch for a laser to shoot out as he creates projectiles rings before you start spinning your staff.",
+    "img_below_text": "Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Pagoda_33.jpg)\nThings will get more difficult any time you see the crystal on his staff flare brighter. These brief flashes indicate a laser beam blast that you'll only have a moment to dodge or take considerable damage, and you'll have to deal with even more as time goes on. Early on, watch for a laser to shoot out as he creates projectiles rings before you start spinning your staff.\"\n        - Following Text: \"Once you take out around a third of his health, he'll teleport back near his original position, and shatter the remaining corpses as he draws power, creating a large and intricate circle of runic power behind him.\nThings will get extremely dangerous and annoying at this point, as he'll not only unleash a constant beam from his crystal, but the ring behind him will form smaller rings to blast you from four different locations. This will result in dodging on top of dodging as you have to escape the constant laser, and also four different blasts, and a final blast from all four circles at once.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle scene from *Black Myth: Wukong*, showcasing the enemy \"Captain Lotus Vision\" surrounded by a glowing, intricate circle of runic power. The character is positioned in a dark, ominous environment with statues and architectural details in the background. The glowing runic circle behind the boss is central to the fight, as described in the text, where it generates smaller rings and unleashes multiple laser blasts, creating a challenging phase for the player. The player's health bar, abilities, and interface are visible, emphasizing the intensity and complexity of the encounter."
 }

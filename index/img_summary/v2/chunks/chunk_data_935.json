@@ -1,28 +1,11 @@
 {
-    "chunk_id": 936025305013,
-    "source_file": "Elder_Armourworm_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Elder_Armourworm_Spirit.jpg",
-    "alt_text": "Elder Armourworm Spirit.jpg",
-    "position_desc": 4,
-    "img_above_text": "You can get Rice Cocoons from egg sacks throughout the Webbed Hollow!\n### Elder Armourworm Spirit",
-    "img_below_text": "* **Foul Spray**\n* Equipped Effect: Slightly increases Critical Hit Chance when in Poisoned state.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Elder_Armourworm_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"You can get Rice Cocoons from egg sacks throughout the Webbed Hollow!\n### Elder Armourworm Spirit\"\n            - Following Text: \"* **Foul Spray**\n* Equipped Effect: Slightly increases Critical Hit Chance when in Poisoned state.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Elder_Armourworm_Spirit.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Elder Armourworm Spirit\" in the game's equipment menu. This spirit allows the player to take the form of the Elder Armourworm, enabling the use of the \"Foul Spray\" ability to create poisonous pools that inflict Poison Bane on enemies. The equipped effect slightly boosts Critical Hit Chance when the player is in a poisoned state.  \n\n2. **Purpose/Narrative Role**:  \nThe Elder Armourworm Spirit serves as a strategic tool for players to enhance poison-based combat tactics, offering both offensive capabilities and synergy with the poisoned state for increased critical damage."
+    "chunk_id": 281713203347,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Field_Fire_Walkthrough_%2822%29.png",
+    "alt_text": "Field Fire Walkthrough \\(22\\).png",
+    "position_desc": 19,
+    "img_above_text": "![Field Fire Walkthrough \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Field_Fire_Walkthrough_%2821%29.png)\nThe fight with the Flint Vanguard is sadly not a one-on-one as Searing and Scorching-Fire enemies will accompany it. These will emerge as soon as you approach, and it's worth clearing them out first so you don't have to think about them while attacking the Flint Vanguard. To do this, run around the outskirts of the Flint Vanguard and bait the creatures into attacking you, then run into the middle of the rock circle to bring out the miniboss.",
+    "img_below_text": "When it comes to the Flint Vanguard, the main thing to watch out for is its thick rocky arms. It will punch down using these, creating pools of lava where they land. To counter these attacks, use Body-Cooling Powder and your Fireproof Mantle.\n![Field Fire Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Field_Fire_Walkthrough_%2825%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Field Fire Walkthrough \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Field_Fire_Walkthrough_%2821%29.png)\nThe fight with the Flint Vanguard is sadly not a one-on-one as Searing and Scorching-Fire enemies will accompany it. These will emerge as soon as you approach, and it's worth clearing them out first so you don't have to think about them while attacking the Flint Vanguard. To do this, run around the outskirts of the Flint Vanguard and bait the creatures into attacking you, then run into the middle of the rock circle to bring out the miniboss.\"\n        - Following Text: \"When it comes to the Flint Vanguard, the main thing to watch out for is its thick rocky arms. It will punch down using these, creating pools of lava where they land. To counter these attacks, use Body-Cooling Powder and your Fireproof Mantle.\n![Field Fire Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Field_Fire_Walkthrough_%2825%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from the video game *Black Myth: Wukong*, showing the player character facing the Flint Vanguard, a large, rocky enemy with glowing molten areas, accompanied by smaller Searing and Scorching-Fire enemies. The preceding text advises clearing out the smaller enemies first by baiting them around the outskirts before engaging the miniboss in the center. The following text highlights the Flint Vanguard's lava-pool attacks and suggests using Body-Cooling Powder and a Fireproof Mantle to counter its abilities."
 }

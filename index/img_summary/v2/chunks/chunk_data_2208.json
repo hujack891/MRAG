@@ -1,28 +1,11 @@
 {
-    "chunk_id": 312983791735,
-    "source_file": "Non-Void.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Thunderclap_53.jpg",
-    "alt_text": "Wukong Thunderclap 53.jpg",
-    "position_desc": 8,
-    "img_above_text": "While it can be dodged, the paper tornado will constantly follow you, and Non-Void will use this opportunity to cast more projectiles at you. Luckily, you can actually utilize your Staff Spin to disperse the tornado. The moment you see the papers flutter back to the ground, resume your assault!\nWhen trying to press your attack against him, watch for one of his incorporeal evasions where he twirls around to the side of you. He'll often end this movement by preparing a large palm blast attack. Though he'll do so while still transparent, it can be deflected with Rock Solid, or evaded as he'll return to solid form after the attack ends.",
-    "img_below_text": "Another attack he can perform while you engage him from the front will start when he bunches up his fists close to his body. He'll explode outward with a simultaneous punch and kick move, and then after a moment will follow up with two charging fist strikes while phased out, sending him forward several steps to pursue any backward evasions.\nOnce you learn to anticipate these attacks, you'll find it easier to outmaneuver him, and look for the best opening to expend your focus points and deal the most damage (doing so when he's Immobilized is also a good guarantee).",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Non-Void.md'.\n\n            Context:\n            - Preceding Text: \"While it can be dodged, the paper tornado will constantly follow you, and Non-Void will use this opportunity to cast more projectiles at you. Luckily, you can actually utilize your Staff Spin to disperse the tornado. The moment you see the papers flutter back to the ground, resume your assault!\nWhen trying to press your attack against him, watch for one of his incorporeal evasions where he twirls around to the side of you. He'll often end this movement by preparing a large palm blast attack. Though he'll do so while still transparent, it can be deflected with Rock Solid, or evaded as he'll return to solid form after the attack ends.\"\n            - Following Text: \"Another attack he can perform while you engage him from the front will start when he bunches up his fists close to his body. He'll explode outward with a simultaneous punch and kick move, and then after a moment will follow up with two charging fist strikes while phased out, sending him forward several steps to pursue any backward evasions.\nOnce you learn to anticipate these attacks, you'll find it easier to outmaneuver him, and look for the best opening to expend your focus points and deal the most damage (doing so when he's Immobilized is also a good guarantee).\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Thunderclap_53.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts an intense combat moment against the boss \"Non-Void\" in a dark, atmospheric environment. The player character is engaged in close-range melee combat, with visible sparks and impact effects suggesting a powerful attack or counter. Non-Void appears to be performing a dynamic move, possibly the simultaneous punch-and-kick attack described in the following text. The health bar at the bottom indicates the boss's remaining vitality, while the HUD displays player abilities and resources, emphasizing the strategic nature of the encounter. This visual serves to illustrate the challenging mechanics and timing required to outmaneuver and defeat Non-Void."
+    "chunk_id": 684652830786,
+    "source_file": "Red_Tides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-2.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.",
+    "img_below_text": "* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\n![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.\"\n        - Following Text: \"* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\n![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases gameplay from *Black Myth: Wukong*, highlighting the \"Red Tides\" moveset. The player character is engaged in combat with a wolf-like enemy, using fiery attacks. On-screen prompts detail the available moves: **Light Attack \"Moon Dance\"** for rapid slashes that build Focus, **Heavy Attack \"Moon Chase\"** for dashing strikes, and a dodge-followed heavy attack for a powerful move. The scene emphasizes the dynamic combat mechanics and the strategic use of these abilities."
 }

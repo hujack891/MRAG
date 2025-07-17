@@ -1,28 +1,11 @@
 {
-    "chunk_id": 907093926338,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Foothills_Walkthrough_%28128%29.png",
-    "alt_text": "Foothills Walkthrough \\(128\\).png",
-    "position_desc": 16,
-    "img_above_text": "Inside, it contains common versions of the Golden Feng-Tail Crown, Gold Suozi Armor, Dian-Cui Loong-Soaring Bracers, and Lotus Silk Cloudtreaders.\nNavigating the area to find all the bosses can be tricky, so we've suggested a route to take with the way we've listed bosses below. However, you can find these bosses at any time and tackle them in any order you wish (except for the Emeraled-Armed Mantis, which must be done last out of the main bosses). It’s also worth noting that you’ll go up against various bosses and mini-bosses that use some of the four banes, so you may want to swap your gear, curios, and spirits regularly.",
-    "img_below_text": "From the edge of the cliff, look straight down to see a pool of water. Go down and to the center of this water to fight our first optional boss, Jiao-Loong of Waves.\n### Yaoguai Chief - Jiao-Loong of Waves",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Inside, it contains common versions of the Golden Feng-Tail Crown, Gold Suozi Armor, Dian-Cui Loong-Soaring Bracers, and Lotus Silk Cloudtreaders.\nNavigating the area to find all the bosses can be tricky, so we've suggested a route to take with the way we've listed bosses below. However, you can find these bosses at any time and tackle them in any order you wish (except for the Emeraled-Armed Mantis, which must be done last out of the main bosses). It’s also worth noting that you’ll go up against various bosses and mini-bosses that use some of the four banes, so you may want to swap your gear, curios, and spirits regularly.\"\n            - Following Text: \"From the edge of the cliff, look straight down to see a pool of water. Go down and to the center of this water to fight our first optional boss, Jiao-Loong of Waves.\n### Yaoguai Chief - Jiao-Loong of Waves\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Foothills_Walkthrough_%28128%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character overlooking a cliff, gazing down at a pool of water below. A red arrow points to the center of the pool, indicating a specific location of interest. The lush, forested environment suggests a natural setting, and the character appears to be preparing to descend.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players locate the starting point for the optional boss fight against \"Jiao-Loong of Waves.\" It aligns with the preceding and following text, which describe navigating the area and jumping down to the pool to engage with the boss. The red arrow highlights the exact spot to aim for, aiding in exploration and progression."
+    "chunk_id": 676104498259,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_Wolves_21.jpg",
+    "alt_text": "Wukong Wolves 21.jpg",
+    "position_desc": 29,
+    "img_above_text": "When the beast finally falls, you’ll likely get a ton of experience, which you can invest in more skill trees that include a new one for your spells like Immobilize. The path forward is now clear to tread, but it’s still a little ways to the next Shrine. If you’re low on health, you can always head back to the Shrine and rest, as enemies like the Bullguard won’t respawn.\nBullguard",
+    "img_below_text": "Past the wooden gate the Bullguard was blocking, you’ll find another forested area with a sloping path up to the left. If you want to explore a bit first, head to the right to find a Wolf and some **Purple Lingzhi** , and a small pool of water where two Croaky enemies wait alongside some **Jade Lotus**.\nTaking the path up to the left, be ready to deal with a few more Wolf Scouts and Swordsworns. Grab the **Aged Ginseng** by a stone pillar as the path curves right.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When the beast finally falls, you’ll likely get a ton of experience, which you can invest in more skill trees that include a new one for your spells like Immobilize. The path forward is now clear to tread, but it’s still a little ways to the next Shrine. If you’re low on health, you can always head back to the Shrine and rest, as enemies like the Bullguard won’t respawn.\nBullguard\"\n        - Following Text: \"Past the wooden gate the Bullguard was blocking, you’ll find another forested area with a sloping path up to the left. If you want to explore a bit first, head to the right to find a Wolf and some **Purple Lingzhi** , and a small pool of water where two Croaky enemies wait alongside some **Jade Lotus**.\nTaking the path up to the left, be ready to deal with a few more Wolf Scouts and Swordsworns. Grab the **Aged Ginseng** by a stone pillar as the path curves right.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a forested area in a video game, where the player character is navigating a path with two possible directions, highlighted by red arrows. This scene follows the defeat of the Bullguard and the opening of a wooden gate, leading to an exploration area with enemies like Wolves and Croaky, as well as collectible items such as Purple Lingzhi and Jade Lotus. The image serves to illustrate the branching paths and guide the player’s next steps in the game."
 }

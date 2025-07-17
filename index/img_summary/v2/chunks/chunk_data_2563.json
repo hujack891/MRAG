@@ -1,28 +1,11 @@
 {
-    "chunk_id": 89466470370,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg",
-    "alt_text": "Wukong Sandgate 78.jpg",
-    "position_desc": 77,
-    "img_above_text": "![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)\nThere’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.",
-    "img_below_text": "On the other side, you’ll encounter a very strong Swift Bat. These enemies can dash at you very fast with their powerful swings to hit hard, or hit you from a distance with waves of force. This one in particular is stronger than the rest because after defeating it, you’ll gain the Swift Bat Spirit.\n![Wukong Sandgate 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Sandgate_79.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 77 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg)\nThere’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.\"\n            - Following Text: \"On the other side, you’ll encounter a very strong Swift Bat. These enemies can dash at you very fast with their powerful swings to hit hard, or hit you from a distance with waves of force. This one in particular is stronger than the rest because after defeating it, you’ll gain the Swift Bat Spirit.\n![Wukong Sandgate 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Sandgate_79.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a battle against a Swift Bat enemy. The context reveals that this encounter occurs after navigating through a crack in the wall in the Valley of Despair. The Swift Bat is noted for its speed and powerful attacks, and defeating this particular enemy will reward the player with the Swift Bat Spirit."
+    "chunk_id": 571648753740,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Water_Curtain_Cave_Walkthrough_%2817%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(17\\).png",
+    "position_desc": 15,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Water_Curtain_Cave_Walkthrough_%2814%29.png)\nWhen the boat ride is over, you'll be at the Birthstone portion of the Water Curtain Cave. In the distance, you'll see a monkey sitting cross-legged in the water.",
+    "img_below_text": "As the cutscene sees you move toward the Stone Monkey, you'll be automatically thrown into a fight against it.\nNote! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Water Curtain Cave Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Water_Curtain_Cave_Walkthrough_%2814%29.png)\nWhen the boat ride is over, you'll be at the Birthstone portion of the Water Curtain Cave. In the distance, you'll see a monkey sitting cross-legged in the water.\"\n        - Following Text: \"As the cutscene sees you move toward the Stone Monkey, you'll be automatically thrown into a fight against it.\nNote! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the \"Water Curtain Cave\" section of *Black Myth: Wukong*, showing a large, humanoid monkey figure standing in the foreground, observing another armored figure in the water. This moment precedes a cutscene where the player approaches the Stone Monkey, triggering a boss fight. The setting features a misty, rocky landscape with water and distant formations, emphasizing the narrative's transition to the Birthstone area."
 }

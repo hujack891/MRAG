@@ -1,28 +1,11 @@
 {
-    "chunk_id": 404032932820,
-    "source_file": "Serpentscale_Set.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Serpentscale_Bracers_1.jpg",
-    "alt_text": "Serpentscale Bracers 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Wave Rider - Massively reduces stamina cost when in water (3 pieces equipped)\nAll of the Serpentscale Set Armor and Gear pieces are unlocked upon defeating Whiteclad Noble in Bamboo Grove in Chapter 1 - Black Wind Mountain. You can craft them from any Shrine and once the mandatory boss has been defeated.",
-    "img_below_text": "The Serpentscale Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 1,350 Will - body",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Serpentscale_Set.md'.\n\n            Context:\n            - Preceding Text: \"* Wave Rider - Massively reduces stamina cost when in water (3 pieces equipped)\nAll of the Serpentscale Set Armor and Gear pieces are unlocked upon defeating Whiteclad Noble in Bamboo Grove in Chapter 1 - Black Wind Mountain. You can craft them from any Shrine and once the mandatory boss has been defeated.\"\n            - Following Text: \"The Serpentscale Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 5 Yarn, 1,350 Will - body\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Serpentscale_Bracers_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the crafting interface for the Serpentscale Bracers in a game, showcasing their attributes and crafting requirements. The bracers provide defense and poison resistance, and feature the \"Wave-Rider\" ability, which significantly reduces stamina cost when in water. The preceding and following text explain that the Serpentscale Set, including these bracers, can be crafted after defeating the Whiteclad Noble in Chapter 1, and specify the materials needed for crafting."
+    "chunk_id": 580505125159,
+    "source_file": "Tiger%27s_Acolyte_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Tigers_Acolyte_Power.png",
+    "alt_text": "Tigers Acolyte Power.png",
+    "position_desc": 3,
+    "img_above_text": "The Tiger's Acolyte is very fast and very strong. Immobilize will be a big help here, as will perfect dodging. The longer you tussle on the bridge, the more chance you have of falling off. Pull out all your spells in this fight to defeat him as quickly as possible.\n## Tiger's Acolyte Spirit",
+    "img_below_text": "* **Sharp Edge**\n* Equipped Effect: Moderately increases Critical Damage.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Tiger's Acolyte is very fast and very strong. Immobilize will be a big help here, as will perfect dodging. The longer you tussle on the bridge, the more chance you have of falling off. Pull out all your spells in this fight to defeat him as quickly as possible.\n## Tiger's Acolyte Spirit\"\n        - Following Text: \"* **Sharp Edge**\n* Equipped Effect: Moderately increases Critical Damage.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the in-game \"Equipment\" menu, focusing on the \"Tiger's Acolyte\" spirit. This spirit has an \"Epic\" rarity and a skill called \"Sharp Edge,\" which allows the player to quickly close the distance to an enemy and deal a single instance of damage. Its equipped effect moderately increases critical damage. The menu also shows the player's stats, resistances, and the option to equip or demo the spirit."
 }

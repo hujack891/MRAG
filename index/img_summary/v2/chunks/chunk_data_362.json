@@ -1,28 +1,11 @@
 {
-    "chunk_id": 797995056533,
-    "source_file": "Buddha%27s_Eyeball_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Buddhas_Eyeball_9.jpg",
-    "alt_text": "Buddhas Eyeball 9.jpg",
-    "position_desc": 7,
-    "img_above_text": "Continue up the hill and you will find the Mother of Stones boss. Either fight her, or leave her for later. Take a right where the light is shining through the cave at the top, and you will find the Buddha statue with the eyeball on the cliff edge.\nBuddha's Eyeball 5",
-    "img_below_text": "### Black Myth: Wukong Buddha's Eyeball 6 Location\nThe final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Buddha%27s_Eyeball_Locations.md'.\n\n            Context:\n            - Preceding Text: \"Continue up the hill and you will find the Mother of Stones boss. Either fight her, or leave her for later. Take a right where the light is shining through the cave at the top, and you will find the Buddha statue with the eyeball on the cliff edge.\nBuddha's Eyeball 5\"\n            - Following Text: \"### Black Myth: Wukong Buddha's Eyeball 6 Location\nThe final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Buddhas_Eyeball_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image\n\nThe image depicts a player character in *Black Myth: Wukong* standing at the edge of a rocky path, gazing toward a cliff illuminated by sunlight. On the cliff edge, a Buddha statue is visible, marking the location of Buddha's Eyeball 5. This area is part of a questline where players must locate Buddha's Eyeball statues scattered throughout the game world. The preceding text describes how to reach this specific statue, while the following text transitions to the location of Buddha's Eyeball 6."
+    "chunk_id": 659910715961,
+    "source_file": "Captain_Kalpa-Wave.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Longevity_20.jpg",
+    "alt_text": "Wukong Longevity 20.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)\nTo find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.",
+    "img_below_text": "As you approach, a large bloody miasma will block your advance. Once it congeals, you'll find yourself facing the last of the four captains.\n### Captain Kalpa-Wave Miniboss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)\nTo find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.\"\n        - Following Text: \"As you approach, a large bloody miasma will block your advance. Once it congeals, you'll find yourself facing the last of the four captains.\n### Captain Kalpa-Wave Miniboss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character approaching a large, ominous pagoda tower surrounded by snow-covered terrain. A glowing red miasma emanates from the structure, blocking the path forward and signaling an impending encounter. This moment sets the stage for the miniboss fight against Captain Kalpa-Wave, as described in the following text."
 }

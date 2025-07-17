@@ -1,28 +1,11 @@
 {
-    "chunk_id": 423895072540,
-    "source_file": "Flint_Vanguard_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Flint_Vanguard_Location.jpg",
-    "alt_text": "Flint Vanguard Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.",
-    "img_below_text": "## Flint Vanguard Fight\nThe Flint Vanguard is a lava-rock copy of the Stone Vanguard you face in Yellow Wind Ridge. He has all the same attacks, but the battle is further complicated by his fire abilities and the horde of enemies that join the fight as well.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Flint_Vanguard_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\"\n            - Following Text: \"## Flint Vanguard Fight\nThe Flint Vanguard is a lava-rock copy of the Stone Vanguard you face in Yellow Wind Ridge. He has all the same attacks, but the battle is further complicated by his fire abilities and the horde of enemies that join the fight as well.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Flint_Vanguard_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character approaching a pile of glowing rocks in a dark, rocky clearing, likely within a volcanic or desolate environment. This scene aligns with the preceding text, which describes the location where the Flint Vanguard is awakened after completing specific challenges. The glowing rocks in the image appear to signify the awakening point of the Flint Vanguard, setting the stage for the upcoming battle described in the following text."
+    "chunk_id": 224761784748,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Prologue_8.jpg",
+    "alt_text": "Wukong Prologue 8.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Prologue 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Prologue_7.jpg)\nOnce nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.",
+    "img_below_text": "Centuries later, an elder monkey recounts the tale of the Monkey King, and decrees that a Destined One may yet be able to follow in Sun Wukong’s footsteps by seeking out the Six Relics of the Monkey King’s Spirit - the Six Senses of the Great Sage. As luck would have it, you are that Destined One!Forest of Wolves\n# The Forest of Wolves",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Prologue 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Prologue_7.jpg)\nOnce nearly all his health is gone, a final scene will ensue, and as Sun Wukong transforms to fly off toward the forests, the Buddha’s magical circlet that Sun Wukong had been tricked into putting on flares, causing him to reel from an excruciating headache. Erlang seizes this moment to cast down Sun Wukong into the mountain, sealing him within a large stone egg and ending the tale of Sun Wukong.\"\n        - Following Text: \"Centuries later, an elder monkey recounts the tale of the Monkey King, and decrees that a Destined One may yet be able to follow in Sun Wukong’s footsteps by seeking out the Six Relics of the Monkey King’s Spirit - the Six Senses of the Great Sage. As luck would have it, you are that Destined One!Forest of Wolves\n# The Forest of Wolves\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts two characters overlooking a vast, mountainous landscape shrouded in mist, symbolizing a moment of reflection or anticipation. The elder monkey, likely recounting the tale of Sun Wukong, stands alongside the protagonist, the \"Destined One,\" who carries a staff and appears ready for the journey ahead. The accompanying text suggests a narrative transition, as the elder speaks of the potential revival of Sun Wukong upon the return of the Six Relics to Mount Huaguo, setting the stage for the protagonist's quest."
 }

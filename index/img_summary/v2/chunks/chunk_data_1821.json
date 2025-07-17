@@ -1,28 +1,11 @@
 {
-    "chunk_id": 292542640201,
-    "source_file": "Lang-Li-Guhh-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg",
-    "alt_text": "Wukong Sandgate 12.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find Lang-Li-Guhh-Baw\nAs an optional battle, Lang-Li-Guhh-Baw is located very close to the start of Chapter 2 in the Yellow Wind Ridge. As soon as you arrive, you can head along the brackish pond water to its very end, where you'll find the Frog Guai in a large watery pit.",
-    "img_below_text": "This is located on the opposite side of the Village Entrance Shrine when heading to Sandgate Village. From the Shrine, you can also hop down a nearby ditch and pass under a bridge to find a tunnel leading to a friendly Xu Dog Guai, who will ask for your help in defeating the Yaoguai Chief.\n### Lang-Li-Guhh-Baw Mini-Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Lang-Li-Guhh-Baw\nAs an optional battle, Lang-Li-Guhh-Baw is located very close to the start of Chapter 2 in the Yellow Wind Ridge. As soon as you arrive, you can head along the brackish pond water to its very end, where you'll find the Frog Guai in a large watery pit.\"\n            - Following Text: \"This is located on the opposite side of the Village Entrance Shrine when heading to Sandgate Village. From the Shrine, you can also hop down a nearby ditch and pass under a bridge to find a tunnel leading to a friendly Xu Dog Guai, who will ask for your help in defeating the Yaoguai Chief.\n### Lang-Li-Guhh-Baw Mini-Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Sandgate_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing near a lit brazier in a rocky, arid environment with a red arrow pointing toward a tunnel entrance partially obscured by a large stone statue. This scene likely serves as a visual guide to help players locate the tunnel leading to the Xu Dog Guai, mentioned in the context as a friendly NPC who requests assistance in defeating the Yaoguai Chief. The image emphasizes the environmental details to aid navigation."
+    "chunk_id": 408324132522,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3a/Mind_Core_-_Windrest_Hamlet.jpg",
+    "alt_text": "Mind Core - Windrest Hamlet.jpg",
+    "position_desc": 11,
+    "img_above_text": "The next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.\nWhen you reach the inner hamlet, you will come across a Spearbone on the bridge. Defeating it will give you a Mind Core.",
+    "img_below_text": "### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.\nWhen you reach the inner hamlet, you will come across a Spearbone on the bridge. Defeating it will give you a Mind Core.\"\n        - Following Text: \"### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character facing off against a Spearbone enemy on a sandy path near a bridge in Windrest Hamlet, part of the Yellow Sand Formation in Yellow Wind Ridge. This encounter is part of the process to obtain a Mind Core, as defeating the Spearbone rewards the player with this item. The setting features a rugged, desolate environment with dilapidated structures in the background, aligning with the walkthrough's guidance for locating Mind Core 8."
 }

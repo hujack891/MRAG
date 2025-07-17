@@ -1,28 +1,11 @@
 {
-    "chunk_id": 100337995638,
-    "source_file": "Black_Wind_King.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_BlackWind_14.jpg",
-    "alt_text": "Wukong BlackWind 14.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong BlackWind 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg)\nOnce you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.",
-    "img_below_text": "After losing about half his health, the Black Wind King will get even more aggressive with his titular wind, and start disappearing entirely in a gust without forming into a wisp. When this happens, retreat and regain your stamina, and be ready for the moment he appears, as he’ll likely do so in mid-combo attack.\n![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Black_Wind_King.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg)\nOnce you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.\"\n            - Following Text: \"After losing about half his health, the Black Wind King will get even more aggressive with his titular wind, and start disappearing entirely in a gust without forming into a wisp. When this happens, retreat and regain your stamina, and be ready for the moment he appears, as he’ll likely do so in mid-combo attack.\n![Wukong BlackWind 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Wukong_BlackWind_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_BlackWind_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image captures an intense moment during the battle with the Black Wind King in *Black Myth: Wukong*. The protagonist is shown mid-action, evading or countering the boss's wind-based attack, with swirling debris and dynamic motion effects emphasizing the chaos of the encounter.\n\n2. The image serves to illustrate the Black Wind King's aggressive and unpredictable combat style, as described in the surrounding text. It highlights the need for players to stay alert, manage stamina, and time their movements carefully during this challenging phase of the fight."
+    "chunk_id": 806674424691,
+    "source_file": "Buddha%27s_Eyeball_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Buddhas_Eyeball_1.jpg",
+    "alt_text": "Buddhas Eyeball 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "### Black Myth: Wukong Buddha's Eyeball 1 Location\nThe first Buddha statue with the Buddha's Eyeball is easy to find in Black Myth: Wukong. You should naturally spot it as you head towards the Squall Hideout shrine in Fright Cliff along the main path.",
+    "img_below_text": "Buddha's Eyeball 1\n### Black Myth: Wukong Buddha's Eyeball 2 Location",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Black Myth: Wukong Buddha's Eyeball 1 Location\nThe first Buddha statue with the Buddha's Eyeball is easy to find in Black Myth: Wukong. You should naturally spot it as you head towards the Squall Hideout shrine in Fright Cliff along the main path.\"\n        - Following Text: \"Buddha's Eyeball 1\n### Black Myth: Wukong Buddha's Eyeball 2 Location\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist approaching a large, fallen Buddha statue head with glowing eyes in a desolate, rocky area. This location is likely tied to the quest for the first \"Buddha's Eyeball,\" as described in the preceding text, and serves as a key visual marker on the path to the Squall Hideout shrine in Fright Cliff."
 }

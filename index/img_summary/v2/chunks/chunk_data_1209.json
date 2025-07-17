@@ -1,28 +1,11 @@
 {
-    "chunk_id": 691716172125,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wolves_25.jpg",
-    "alt_text": "Wukong Wolves 25.jpg",
-    "position_desc": 33,
-    "img_above_text": "## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.",
-    "img_below_text": "You’ll be transformed into a small Golden Cicada, which will allow you to fly around the next area to get a look at the dangers to come before you face them yourself. However, your flight time will be limited by the meter slowly fading in the bottom left, and whenever you run out of juice (or manually de-transform) you may find yourself in hot water, so how much you actually want to explore in this form is up to you.\nThe main path through is area is a very straightforward one, as you can simply follow the straight path past the first two Wolf guards near the Shrine, to a axe-wielding Wolf Stalwart by a small bridge over a stream, and then straight through a tunnel that’s guarded by an extremely tough (and very optional) mini-boss with a giant head.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 33 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Outside the Forest\nAs you begin to leave the Shrine, the Keeper will stop and warn you of the dangers to come in this next area, and opt to give you a way to do some scouting first.\"\n            - Following Text: \"You’ll be transformed into a small Golden Cicada, which will allow you to fly around the next area to get a look at the dangers to come before you face them yourself. However, your flight time will be limited by the meter slowly fading in the bottom left, and whenever you run out of juice (or manually de-transform) you may find yourself in hot water, so how much you actually want to explore in this form is up to you.\nThe main path through is area is a very straightforward one, as you can simply follow the straight path past the first two Wolf guards near the Shrine, to a axe-wielding Wolf Stalwart by a small bridge over a stream, and then straight through a tunnel that’s guarded by an extremely tough (and very optional) mini-boss with a giant head.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wolves_25.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player's perspective while transformed into a Golden Cicada, flying through a dense, atmospheric forest area. The transformation allows for scouting potential dangers ahead, as indicated by the text overlay: \"The cicada form may help you explore.\" A meter in the bottom left tracks the limited flight time, emphasizing the strategic nature of this exploration mechanic.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the gameplay mechanic introduced after leaving the Shrine, where players temporarily adopt the Cicada form to safely survey the upcoming area. This transformation is part of the narrative progression, enabling players to assess threats like Wolf guards and mini-bosses before engaging directly. The forest setting reinforces the tension and danger of the journey ahead."
+    "chunk_id": 463512457049,
+    "source_file": "Fungiman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Fungiman.jpg",
+    "alt_text": "Fungiman.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Fungiman Fight\n* Fungiman Spirit",
+    "img_below_text": "## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Fungiman Fight\n* Fungiman Spirit\"\n        - Following Text: \"## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from a video game, featuring a player character battling a glowing, mushroom-like enemy, likely the \"Fungiman.\" This encounter aligns with the preceding and following text, which describe the Fungiman fight and its hidden location in the Pagoda Realm. The image visually represents the gameplay mechanics and action during this specific battle."
 }

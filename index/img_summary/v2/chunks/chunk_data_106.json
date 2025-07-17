@@ -1,28 +1,11 @@
 {
-    "chunk_id": 455646702413,
-    "source_file": "Baw-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Bamboo_15.jpg",
-    "alt_text": "Wukong Bamboo 15.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Bamboo 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bamboo_16.jpg)\nHis most standard attack includes a series of swipes with both arms that sends him forward, ending in a small leaping splash attack that allows him to reposition. By dodging the first swipe to the side, you can wait for him to leap back towards you and then use Immobilize to keep in place while you attack. He can also use any of these swipes and slams independently as well as in a three-hit combo, so look for a follow-up attack before deciding to commit to countering with your own attacks.",
-    "img_below_text": "There are two extremely fast and damaging attacks you’ll need to beware of. The first comes when he’s directly facing you, and the toad will pause momentarily lowering his arms across his chest. He’ll then lunge at you belly first in an extremely quick dash, and you’ll have to dodge the body slam quickly to the side before striking back.\n![Wukong Bamboo 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Bamboo_17.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Baw-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bamboo_16.jpg)\nHis most standard attack includes a series of swipes with both arms that sends him forward, ending in a small leaping splash attack that allows him to reposition. By dodging the first swipe to the side, you can wait for him to leap back towards you and then use Immobilize to keep in place while you attack. He can also use any of these swipes and slams independently as well as in a three-hit combo, so look for a follow-up attack before deciding to commit to countering with your own attacks.\"\n            - Following Text: \"There are two extremely fast and damaging attacks you’ll need to beware of. The first comes when he’s directly facing you, and the toad will pause momentarily lowering his arms across his chest. He’ll then lunge at you belly first in an extremely quick dash, and you’ll have to dodge the body slam quickly to the side before striking back.\n![Wukong Bamboo 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Bamboo_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Bamboo_15.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dynamic moment in a boss fight against \"Baw-Li-Guhh-Lang,\" a toad-like creature in a lush, forested environment with intricate stone carvings in the background. The creature is mid-attack, lunging forward with outstretched arms, emphasizing its aggressive and fast-paced combat style. The player's HUD is visible, showing health, stamina, and abilities.\n\n2. **Purpose and Narrative Role**:  \nThe image illustrates the toad boss's swift and dangerous attack patterns, specifically the lunging belly slam described in the following text. It visually supports the gameplay strategy discussion, highlighting the need for precise dodging and counterattacks during this challenging encounter."
+    "chunk_id": 615340199916,
+    "source_file": "Baw-Li-Guhh-Lang_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Baw-Li-Guhh-Lang.jpg",
+    "alt_text": "Baw-Li-Guhh-Lang.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Baw-Li-Guhh-Lang Spirit\nBaw-Li-Guhh-Lang can be fully upgraded using Tadpoles to unlock the Baw-Baw-Lang-Lang Spirit!",
+    "img_below_text": "## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Baw-Li-Guhh-Lang Spirit\nBaw-Li-Guhh-Lang can be fully upgraded using Tadpoles to unlock the Baw-Baw-Lang-Lang Spirit!\"\n        - Following Text: \"## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene featuring the creature \"Baw-Li-Guhh-Lang,\" as indicated by the health bar at the bottom. The player is shown engaging in combat, with options for \"Light Attack\" (Moon Dance) and \"Heavy Attack\" (Moon Chase) displayed on the left side of the screen. The fiery effects and dynamic pose of the creature suggest an active fight, aligning with the guide's context of locating and upgrading Baw-Li-Guhh-Lang."
 }

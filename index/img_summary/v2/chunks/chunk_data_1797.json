@@ -1,28 +1,11 @@
 {
-    "chunk_id": 405621475166,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Sandgate_55.jpg",
-    "alt_text": "Wukong Sandgate 55.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Sandgate 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sandgate_51.jpg)\nLeft to his own devices, he’ll most often emerge to scurry up one of the five large stone pillars in this boss arena, and begin pelting you with rocks from afar. One or two rocks won’t be lethal, but he can soon start to hurl a ton your way and stagger you when you’re trying to survive against the Prince.",
-    "img_below_text": "That said, if you keep the Prince between you and his dad, there’s a very good chance he’ll lob a rock at his son’s own head — thank goodness for friendly fire!\n![Wukong Sandgate 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sandgate_52.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sandgate_51.jpg)\nLeft to his own devices, he’ll most often emerge to scurry up one of the five large stone pillars in this boss arena, and begin pelting you with rocks from afar. One or two rocks won’t be lethal, but he can soon start to hurl a ton your way and stagger you when you’re trying to survive against the Prince.\"\n            - Following Text: \"That said, if you keep the Prince between you and his dad, there’s a very good chance he’ll lob a rock at his son’s own head — thank goodness for friendly fire!\n![Wukong Sandgate 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sandgate_52.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Sandgate_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a boss battle in *Black Myth: Wukong* featuring the \"King of Flowing Sands\" and the \"Second Rat Prince.\" The player character is engaged in combat with the Second Rat Prince, who appears to be calling for help from his father. The preceding and following text suggests a dynamic interaction where the King of Flowing Sands can inadvertently harm his son with ranged attacks, introducing a \"friendly fire\" mechanic that players can strategically exploit during the fight. The environment is a barren arena with stone pillars, emphasizing the intensity of the encounter."
+    "chunk_id": 806520500833,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/The_Bottom_Pagoda_Realm_Meditation_Spot.jpg",
+    "alt_text": "The Bottom Pagoda Realm Meditation Spot.jpg",
+    "position_desc": 11,
+    "img_above_text": "### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot",
+    "img_below_text": "This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot\"\n        - Following Text: \"This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character stands in a snowy landscape next to a barren tree and a rock, holding a fiery staff. The on-screen prompt suggests the player can \"Meditate\" at this location, indicating it is a Meditation Spot. This spot is likely the \"Bottom, Pagoda Realm Meditation Spot,\" which is hidden and becomes accessible after completing the Pagoda Realm and defeating Captain Wise-Voice."
 }

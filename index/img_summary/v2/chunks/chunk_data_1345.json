@@ -1,28 +1,11 @@
 {
-    "chunk_id": 109648645677,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Furnace_Valley_Walkthrough_%2816%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(16\\).png",
-    "position_desc": 6,
-    "img_above_text": "![Furnace Valley Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Furnace_Valley_Walkthrough_%2814%29.png)\nStick to the path, as it curves around to the left. You'll enter a cave, with columns of ruins visible and lava all over the place.",
-    "img_below_text": "Continue along the path, where it curves down to the right. Here you'll find another Earth Rakshasa patrolling. Once you've dealt with the fire-breathing Rakshasa, keep going toward the pillar.\n![Furnace Valley Walkthrough \\(17\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Furnace_Valley_Walkthrough_%2817%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Furnace_Valley_Walkthrough_%2814%29.png)\nStick to the path, as it curves around to the left. You'll enter a cave, with columns of ruins visible and lava all over the place.\"\n            - Following Text: \"Continue along the path, where it curves down to the right. Here you'll find another Earth Rakshasa patrolling. Once you've dealt with the fire-breathing Rakshasa, keep going toward the pillar.\n![Furnace Valley Walkthrough \\(17\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Furnace_Valley_Walkthrough_%2817%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Furnace_Valley_Walkthrough_%2816%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, cavernous environment filled with rocky terrain and illuminated by glowing lava streams in the background. A player character, armed with a weapon, stands on a path overlooking the area. In the mid-ground, an enemy resembling a fire-themed creature, possibly an Earth Rakshasa, is visible near a stone lantern.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the treacherous environment of the Furnace Valley, emphasizing the hazardous lava-filled surroundings and the presence of enemies. It highlights the player's progression through the cave and sets the stage for an encounter with the fire-breathing Earth Rakshasa, as described in the accompanying text."
+    "chunk_id": 311949599962,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Martial_11.jpg",
+    "alt_text": "Wukong Martial 11.jpg",
+    "position_desc": 17,
+    "img_above_text": "![Wukong Martial 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_10.jpg)\nOnce he's below half health, he may start to launch two flaming chakram wheels around the arena instead of one. It may seem impossible, but the key to surviving this phase is to always keep the two chakrams in view as much as possible. They will almost always alternate charging at you, so as long as you keep track of their positions, you can keep dodging them as they charge you.",
+    "img_below_text": "The Martialist will often end this phase by trying to ambush you out of nowhere, slicing both weapons to create a half-ring of fire in front of him. Dodge around to the side of the fire he creates so you can flank him without getting burned.\nSince he's such a cagey foe, getting a lock on him will be the hardest part of the fight, so you'll want to rely on slowing him down by deflecting his ambushes, or Immobilizing him before he can flee and expend your focus points for big hits. Don't bet on slow attacks or Spirits that take too long, or he'll run away before the hits can land.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Martial 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_10.jpg)\nOnce he's below half health, he may start to launch two flaming chakram wheels around the arena instead of one. It may seem impossible, but the key to surviving this phase is to always keep the two chakrams in view as much as possible. They will almost always alternate charging at you, so as long as you keep track of their positions, you can keep dodging them as they charge you.\"\n        - Following Text: \"The Martialist will often end this phase by trying to ambush you out of nowhere, slicing both weapons to create a half-ring of fire in front of him. Dodge around to the side of the fire he creates so you can flank him without getting burned.\nSince he's such a cagey foe, getting a lock on him will be the hardest part of the fight, so you'll want to rely on slowing him down by deflecting his ambushes, or Immobilizing him before he can flee and expend your focus points for big hits. Don't bet on slow attacks or Spirits that take too long, or he'll run away before the hits can land.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against the \"Green-Capped Martialist\" in *Black Myth: Wukong*. The boss is shown creating a fiery half-ring attack with dual flaming chakrams, a move described in the guide as an ambush meant to trap the player. The surrounding fire and sparks emphasize the danger of the attack, requiring precise dodging to avoid damage and flank the boss effectively. The player interface shows health, abilities, and focus points, highlighting the tactical elements of the fight."
 }

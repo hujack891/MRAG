@@ -1,28 +1,11 @@
 {
-    "chunk_id": 439176206262,
-    "source_file": "Black_Wind_King.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_BlackWind_8.jpg",
-    "alt_text": "Wukong BlackWind 8.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Black Wind King Boss Fight and Guide\nThe self-imposed King of the Black Wind Mountain has been waiting for you, and though he’s only facing you now in his human form, he’s got a lot of powerful attacks to watch out for.",
-    "img_below_text": "The Black Wind King will start the fight with a jumping spear thrust, pausing in mid-air briefly before lunging forward, and powering his spear with the Black Wind to throw it into the ground in front of him as he lands.\nHe’ll often follow this jumping attack with two spins of his spear until it lands behind him, and give you a big opportunity to commence an attack of your own as he recovers from the move.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Black_Wind_King.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind King Boss Fight and Guide\nThe self-imposed King of the Black Wind Mountain has been waiting for you, and though he’s only facing you now in his human form, he’s got a lot of powerful attacks to watch out for.\"\n            - Following Text: \"The Black Wind King will start the fight with a jumping spear thrust, pausing in mid-air briefly before lunging forward, and powering his spear with the Black Wind to throw it into the ground in front of him as he lands.\nHe’ll often follow this jumping attack with two spins of his spear until it lands behind him, and give you a big opportunity to commence an attack of your own as he recovers from the move.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_BlackWind_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the Black Wind King mid-air, executing a jumping spear thrust attack during a boss fight. The scene is set in a dimly lit, overgrown courtyard with traditional architecture in the background. The player character is positioned below, seemingly preparing to evade or counter the attack.\n\n2. **Purpose/Content/Narrative Role**:  \nThe image visually illustrates the Black Wind King's opening attack, as described in the accompanying text. It highlights the boss's dynamic and aggressive combat style, providing players with a preview of the fight's intensity and the need to anticipate and respond to his moves."
+    "chunk_id": 212897508417,
+    "source_file": "Blood_of_the_Iron_Bull.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg",
+    "alt_text": "Wukong MadTiger 10.jpg",
+    "position_desc": 16,
+    "img_above_text": "After defeating the Tiger's Acolyte in Yellow Sand Formation \\- Windrest Hamlet, you will get the Old Rattle-Drum. You will need to complete this questline to then take on the Mad Tiger. Defeating the Mad-Tiger will give you another Blood of the Iron Bull.\nA full breakdown of this quest can be found here.",
+    "img_below_text": "From Chapter 3 onwards, the Blood of the Iron Bull becomes far more common, and you can find several in each sub-area. Simply kill as many enemies and bosses, and keep an eye out for chests as you explore.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"After defeating the Tiger's Acolyte in Yellow Sand Formation \\- Windrest Hamlet, you will get the Old Rattle-Drum. You will need to complete this questline to then take on the Mad Tiger. Defeating the Mad-Tiger will give you another Blood of the Iron Bull.\nA full breakdown of this quest can be found here.\"\n        - Following Text: \"From Chapter 3 onwards, the Blood of the Iron Bull becomes far more common, and you can find several in each sub-area. Simply kill as many enemies and bosses, and keep an eye out for chests as you explore.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against the \"Mad Tiger,\" a large, ferocious creature in a rocky, desolate environment. This encounter is part of a questline following the defeat of the Tiger's Acolyte, where players obtain the Old Rattle-Drum. Successfully defeating the Mad Tiger rewards the player with \"Blood of the Iron Bull,\" a resource that becomes more common in later chapters. The image highlights the intensity of the battle and the player's interface during the fight."
 }

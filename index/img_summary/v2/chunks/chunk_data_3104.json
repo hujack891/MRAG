@@ -1,28 +1,11 @@
 {
-    "chunk_id": 1133854294,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg",
-    "alt_text": "Wukong Brook 3.jpg",
-    "position_desc": 43,
-    "img_above_text": "![Wukong Brook 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg)\nTaking the path by the Shrine, you'll head down the slope and take a right to find the start of the river, which has a green Wisp to absorb and plants to harvest. Leave the other side of the ravine for the moment, and take the closer path on the side of a ravine nearest to where you came down.",
-    "img_below_text": "On this side, you'll find a few fallen trees creating makeshift bridges above the brook below, and one of them has another green Wisp to absorb along the tree, while the other has a green Wisp on top of a giant rock.\n![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 43 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg)\nTaking the path by the Shrine, you'll head down the slope and take a right to find the start of the river, which has a green Wisp to absorb and plants to harvest. Leave the other side of the ravine for the moment, and take the closer path on the side of a ravine nearest to where you came down.\"\n            - Following Text: \"On this side, you'll find a few fallen trees creating makeshift bridges above the brook below, and one of them has another green Wisp to absorb along the tree, while the other has a green Wisp on top of a giant rock.\n![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts the player character in *Black Myth: Wukong* navigating a snowy ravine. The character is mid-jump, wielding a glowing staff, heading toward a fallen tree bridge. A green Wisp, marked with a red circle, is visible in the distance atop a rock, indicating an interactable or collectible item.\n\n2. **Narrative Role**: The image illustrates a key moment in the walkthrough where the player progresses through the ravine, utilizing fallen trees as makeshift bridges to reach collectible green Wisps. This scene emphasizes exploration and resource gathering in the game's environment."
+    "chunk_id": 74715439898,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
+    "alt_text": "Wukong Sahali 10.jpg",
+    "position_desc": 38,
+    "img_above_text": "![Wukong Sahali 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg)\nHowever, when you approach the field, you’ll find him off to the right on the stairs leading to the large door. He’ll become angry that you have the gold, and try to fight you for it.",
+    "img_below_text": "Should you manage to best him in combat, he’ll offer to help you unlock this “Realm of Gold”, and open the doorway up the stairs that will lead you to another memory - a Secret Area known as the **Kingdom of Sahali**.\nWe highly recommend checking this place out before taking on the Chapter 2 Boss, as much like Chapter 1, its reward can greatly help you in that battle, and you’ll also find a Meditation Spot in this secret area!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sahali 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg)\nHowever, when you approach the field, you’ll find him off to the right on the stairs leading to the large door. He’ll become angry that you have the gold, and try to fight you for it.\"\n        - Following Text: \"Should you manage to best him in combat, he’ll offer to help you unlock this “Realm of Gold”, and open the doorway up the stairs that will lead you to another memory - a Secret Area known as the **Kingdom of Sahali**.\nWe highly recommend checking this place out before taking on the Chapter 2 Boss, as much like Chapter 1, its reward can greatly help you in that battle, and you’ll also find a Meditation Spot in this secret area!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a creature standing near a weathered stone wall or door, likely the \"large door\" mentioned in the preceding text. This creature appears to be the character who becomes angry and initiates combat over the gold. The image visually represents the narrative moment where the player encounters this adversary before progressing to unlock the \"Realm of Gold\" and access the secret area, **Kingdom of Sahali**."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 663921915028,
-    "source_file": "The_Duskveil.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_PurpleCloud_69.jpg",
-    "alt_text": "Wukong PurpleCloud 69.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong PurpleCloud 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_PurpleCloud_68.jpg)\nHe'll leap backward after this, sprouting a lot more bony projectiles to throw at you in a concentrated burst. Like before, they can be dodged or even deflected with your staff spin (but they will eat up a lot of stamina).",
-    "img_below_text": "He will immediately follow this by taking to the air, and launching a string of projectiles that arc across the air to hit you in salvos. If you're already low on stamina from deflecting the first attack, you're better off running to the side to avoid them.\nThe good news is that his loud crow leaves enough time for you to interrupt the attack entirely by hitting him with a charged attack or Spirit Attack, cancelling the move entirely.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_PurpleCloud_68.jpg)\nHe'll leap backward after this, sprouting a lot more bony projectiles to throw at you in a concentrated burst. Like before, they can be dodged or even deflected with your staff spin (but they will eat up a lot of stamina).\"\n            - Following Text: \"He will immediately follow this by taking to the air, and launching a string of projectiles that arc across the air to hit you in salvos. If you're already low on stamina from deflecting the first attack, you're better off running to the side to avoid them.\nThe good news is that his loud crow leaves enough time for you to interrupt the attack entirely by hitting him with a charged attack or Spirit Attack, cancelling the move entirely.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_PurpleCloud_69.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing a fierce battle against a boss named \"The Duskveil.\" The boss is airborne, surrounded by glowing red projectiles, preparing to launch a concentrated burst of bony projectiles at the player. The preceding text explains the boss's attack pattern, which involves leaping backward and throwing projectiles that can be dodged or deflected. The following text describes the boss's subsequent aerial attack, emphasizing the importance of managing stamina and timing to interrupt the attack. The image serves to illustrate the intensity and strategic complexity of this boss fight."
+    "chunk_id": 421024327954,
+    "source_file": "Webbed_Hollow_-_Middle_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Wukong_MiddleHollow_31.jpg",
+    "alt_text": "Wukong MiddleHollow 31.jpg",
+    "position_desc": 30,
+    "img_above_text": "![Wukong MiddleHollow 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_MiddleHollow_30.jpg)\nAs you pass under the bridge, watch for a Puppet Spider to drop from above, and be sure to look along the left wall to notice its actually a row of hanging cocoons.",
+    "img_below_text": "Beat them aside to find a small cave room, where you'll find an empowered Puppet Spider and a few cocoons hiding Amourworms inside.\n![Wukong MiddleHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_MiddleHollow_32.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_MiddleHollow_30.jpg)\nAs you pass under the bridge, watch for a Puppet Spider to drop from above, and be sure to look along the left wall to notice its actually a row of hanging cocoons.\"\n        - Following Text: \"Beat them aside to find a small cave room, where you'll find an empowered Puppet Spider and a few cocoons hiding Amourworms inside.\n![Wukong MiddleHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_MiddleHollow_32.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist facing an empowered Puppet Spider in a cave room. The environment is filled with cocoons, some of which contain Amourworms, and the setting is illuminated by a fire. The player is engaged in combat, as indicated by the health bar and game interface elements visible on the screen."
 }

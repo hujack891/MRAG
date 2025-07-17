@@ -1,5 +1,5 @@
 {
-    "chunk_id": 45636425210,
+    "chunk_id": 403517846956,
     "source_file": "Cloudy_Mist,_Misty_Cloud.md",
     "h1_title": "Cloudy Mist, Misty Cloud",
     "h2_title": "How to Find Cloudy Mist, Misty Cloud",
@@ -9,23 +9,6 @@
     "position_desc": 0,
     "img_above_text": "# Cloudy Mist, Misty Cloud\nCloudy Mist, Misty Cloud are a pair of Yaoguai Chiefs you'll fight before you reach The Emerald Hall in Chapter 5 in Black Myth: Wukong. This is the second duo of chiefs you'll fight in Chapter 5 and they'll try a number of tricks to disappear right before your eyes.\n## How to Find Cloudy Mist, Misty Cloud\nContinue up the path, past where you'll fight the Flint Chief. At the top, you'll reach a crossroads, where you can go left, or right. Take the path up to the right and at the top, you'll come to another archway and the start of Rakshasa Palace.",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Cloudy_Mist,_Misty_Cloud.md', located under How to Find Cloudy Mist, Misty Cloud.\n\n                Metadata:\n                - Document Title: Cloudy Mist, Misty Cloud\n                - Section Title: How to Find Cloudy Mist, Misty Cloud\n                - Alt Text: Furnace Valley Walkthrough \\(45\\).png\n\n                Context:\n                - Preceding Text: \"# Cloudy Mist, Misty Cloud\nCloudy Mist, Misty Cloud are a pair of Yaoguai Chiefs you'll fight before you reach The Emerald Hall in Chapter 5 in Black Myth: Wukong. This is the second duo of chiefs you'll fight in Chapter 5 and they'll try a number of tricks to disappear right before your eyes.\n## How to Find Cloudy Mist, Misty Cloud\nContinue up the path, past where you'll fight the Flint Chief. At the top, you'll reach a crossroads, where you can go left, or right. Take the path up to the right and at the top, you'll come to another archway and the start of Rakshasa Palace.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2845%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a mysterious and atmospheric scene within a dark, misty landscape, featuring ancient architectural elements such as pillars and archways. It appears to be part of a walkthrough for the game \"Black Myth: Wukong,\" specifically guiding players to the Rakshasa Palace, where they will encounter the Yaoguai Chiefs, Cloudy Mist and Misty Cloud, in Chapter 5. The setting is likely intended to evoke a sense of anticipation and intrigue as players approach a significant battle location."
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Cloudy Mist, Misty Cloud\n            - Section Title: How to Find Cloudy Mist, Misty Cloud\n\n            Context:\n            - Preceding Text: \"# Cloudy Mist, Misty Cloud\nCloudy Mist, Misty Cloud are a pair of Yaoguai Chiefs you'll fight before you reach The Emerald Hall in Chapter 5 in Black Myth: Wukong. This is the second duo of chiefs you'll fight in Chapter 5 and they'll try a number of tricks to disappear right before your eyes.\n## How to Find Cloudy Mist, Misty Cloud\nContinue up the path, past where you'll fight the Flint Chief. At the top, you'll reach a crossroads, where you can go left, or right. Take the path up to the right and at the top, you'll come to another archway and the start of Rakshasa Palace.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, misty pathway leading to an ancient, ornate archway and structures illuminated by a fiery glow. This scene is likely part of the Rakshasa Palace area in the game \"Black Myth: Wukong,\" specifically mentioned in the section \"How to Find Cloudy Mist, Misty Cloud.\" The image serves to illustrate the eerie and mystical environment players will encounter as they navigate towards the Yaoguai Chiefs, Cloudy Mist and Misty Cloud, before reaching The Emerald Hall in Chapter 5."
 }

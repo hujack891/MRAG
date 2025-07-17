@@ -1,28 +1,11 @@
 {
-    "chunk_id": 741217564217,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%289%29.png",
-    "alt_text": "Five Skandhas \\(9\\).png",
-    "position_desc": 14,
-    "img_above_text": "# Chapter 4 Secrets\n## Skandha of Choice",
-    "img_below_text": "The Skandha of Choice can be found in Chapter 4. Go right from The Purifying Spring Keeper's Choice and up the stairs and through the gap in the wall. Follow this path along to the right, and cross the bridge. Then turn left and look for the white sacs that block a path going down. Smash through these and go down here to find a Buddha head, where the monkey from previous chapters will be sitting. Once the monkey has run off, take the Skandha of Choice from the Buddha's head.\n## Yellow Loong and Transformation Spell: Golden Lining",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Chapter 4 Secrets\n## Skandha of Choice\"\n            - Following Text: \"The Skandha of Choice can be found in Chapter 4. Go right from The Purifying Spring Keeper's Choice and up the stairs and through the gap in the wall. Follow this path along to the right, and cross the bridge. Then turn left and look for the white sacs that block a path going down. Smash through these and go down here to find a Buddha head, where the monkey from previous chapters will be sitting. Once the monkey has run off, take the Skandha of Choice from the Buddha's head.\n## Yellow Loong and Transformation Spell: Golden Lining\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%289%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky cavern with several white, sac-like structures and two lit torches illuminating the area. This scene is likely the location described in the text where the Skandha of Choice can be found. The setting includes a Buddha head, which is a key element in the narrative, indicating where the protagonist must go to retrieve the Skandha of Choice after the monkey from previous chapters has fled."
+    "chunk_id": 972669165822,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_ResetSkills.jpg",
+    "alt_text": "Wukong ResetSkills.jpg",
+    "position_desc": 6,
+    "img_above_text": "Be sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!\n### 3\\. It’s Really Easy to Reset Your Skills",
+    "img_below_text": "Want to switch up your gameplay, or the skills you’ve unlocked just aren’t working for you? You can reset your skills in seconds. When you’re at a Keeper’s Shrine, go down to the Self-Advance menu and choose Reignite the Sparks. Without costing a thing you can recover all your Sparks and redistribute them however you wish. You can also do this for single skills if you don’t want to wipe all of them, but just want to take back one or two that you’re not getting on with.\n![Wukong RelicReset.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_RelicReset.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Be sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!\n### 3\\. It’s Really Easy to Reset Your Skills\"\n        - Following Text: \"Want to switch up your gameplay, or the skills you’ve unlocked just aren’t working for you? You can reset your skills in seconds. When you’re at a Keeper’s Shrine, go down to the Self-Advance menu and choose Reignite the Sparks. Without costing a thing you can recover all your Sparks and redistribute them however you wish. You can also do this for single skills if you don’t want to wipe all of them, but just want to take back one or two that you’re not getting on with.\n![Wukong RelicReset.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_RelicReset.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. The image displays the \"Self-Advance\" menu from a video game, where players can manage their character's abilities, foundation, and spells. It highlights options to enhance vigor, redistribute skill points (Sparks), and customize gameplay.\n\n2. The menu ties into the preceding and following text by illustrating how players can reset and adjust their skills at a Keeper’s Shrine, allowing for flexible gameplay customization without penalties."
 }

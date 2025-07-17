@@ -1,28 +1,11 @@
 {
-    "chunk_id": 252378219427,
-    "source_file": "Golden_Lining.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_LowerHollow_10.jpg",
-    "alt_text": "Wukong LowerHollow 10.jpg",
-    "position_desc": 2,
-    "img_above_text": "Finally, once you reach Turtle Island in the Bitter Lake in The New West, head to the right side of the island to activate the Cyan Loong fight.\nWith these three fights completed, you now need to wait until you enter Chapter 4 - The Webbed Hollow. While exploring, you will stumble upon the Relief of the Fallen Loong and Yellow Loong past the rope bridges in the middle of the hollow.",
-    "img_below_text": "Once defeated, the boss will drop the Golden Lining Transformation spell. For some key tips on how to defeat Yellow Loong, our page on the boss has a list of key tips and a breakdown of every move and how to counter it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Golden_Lining.md'.\n\n            Context:\n            - Preceding Text: \"Finally, once you reach Turtle Island in the Bitter Lake in The New West, head to the right side of the island to activate the Cyan Loong fight.\nWith these three fights completed, you now need to wait until you enter Chapter 4 - The Webbed Hollow. While exploring, you will stumble upon the Relief of the Fallen Loong and Yellow Loong past the rope bridges in the middle of the hollow.\"\n            - Following Text: \"Once defeated, the boss will drop the Golden Lining Transformation spell. For some key tips on how to defeat Yellow Loong, our page on the boss has a list of key tips and a breakdown of every move and how to counter it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_LowerHollow_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a player-character in a lush, mystical forest environment, approaching a rope bridge and a distant pagoda-like structure (highlighted by a red arrow). This scene appears to be part of the exploration in Chapter 4, \"The Webbed Hollow,\" where players encounter key landmarks such as rope bridges and the Relief of the Fallen Loong and Yellow Loong. The setting is integral to progressing the narrative and preparing for the Yellow Loong boss fight, which rewards the Golden Lining Transformation spell upon defeat."
+    "chunk_id": 530399118402,
+    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Five_Skandhas_%287%29.png",
+    "alt_text": "Five Skandhas \\(7\\).png",
+    "position_desc": 11,
+    "img_above_text": "![Five Skandhas \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Five_Skandhas_%286%29.png)\nHug the wall on the right as you follow the path up to the next set of stairs and a wooden bridge. Cross the wooden bridge, and follow the path as it curves around to the left.",
+    "img_below_text": "When you get to the end, you'll see a pathway leading up to the right and white sacs to the left of it. Behind these sacs is a bridge that will take you down to where you want to go.\n![Five Skandhas \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Five_Skandhas_%288%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Five Skandhas \\(6\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Five_Skandhas_%286%29.png)\nHug the wall on the right as you follow the path up to the next set of stairs and a wooden bridge. Cross the wooden bridge, and follow the path as it curves around to the left.\"\n        - Following Text: \"When you get to the end, you'll see a pathway leading up to the right and white sacs to the left of it. Behind these sacs is a bridge that will take you down to where you want to go.\n![Five Skandhas \\(8\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Five_Skandhas_%288%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky area with white sacs scattered throughout the environment, some close to the foreground and others in the distance. Two red arrows indicate pathways: one leading to the left across a bridge and another leading to the right toward a higher area. The scene aligns with the walkthrough instructions, guiding players to navigate the terrain by choosing paths and identifying landmarks like the white sacs and bridges to progress further in the game."
 }

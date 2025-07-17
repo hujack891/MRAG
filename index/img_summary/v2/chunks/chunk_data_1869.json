@@ -1,28 +1,11 @@
 {
-    "chunk_id": 536806045790,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg",
-    "alt_text": "Wukong Snowhill 12.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.",
-    "img_below_text": "His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.\"\n            - Following Text: \"His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Macaque Chief, a character from the game \"Black Myth: Wukong,\" engaged in combat on a snowy terrain. The scene captures the character mid-action, showcasing his dynamic fighting style, which includes spinning slice attacks and powerful slashes. The preceding and following text describe his combat abilities, emphasizing his agility and the reach of his attacks, as well as his signature move involving a blade slam and claw swipes. The image serves to illustrate the intensity and skill involved in the character's battle sequences."
+    "chunk_id": 498996888571,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_26.jpg",
+    "alt_text": "Wukong Thunderclap 26.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong Thunderclap 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_25.jpg)\nNow that you've dealt with the Yaoguai Chief, you can explore this large size plaza. Up ahead, you'll find several Overseeing Monks praying to a Turtle General statue and three more practicing punching a large tree (you can sidestep them and keep on the main path if you wish since they won't notice you unless you draw close).",
+    "img_below_text": "Head down the stairs, where you'll find another sealed building on the right guarded by an Overseeing Monk and some Thunder Rhino Masters, and several sets of stairs to the left.\n![Wukong Thunderclap 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_25.jpg)\nNow that you've dealt with the Yaoguai Chief, you can explore this large size plaza. Up ahead, you'll find several Overseeing Monks praying to a Turtle General statue and three more practicing punching a large tree (you can sidestep them and keep on the main path if you wish since they won't notice you unless you draw close).\"\n        - Following Text: \"Head down the stairs, where you'll find another sealed building on the right guarded by an Overseeing Monk and some Thunder Rhino Masters, and several sets of stairs to the left.\n![Wukong Thunderclap 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the player character in a crouched position, wielding a spear, and seemingly preparing to engage or avoid an enemy Overseeing Monk positioned on a raised platform. The setting features a snowy courtyard with traditional stone and wooden architecture. This scene likely represents a stealth or combat moment within the game, as the player approaches cautiously, possibly planning their next move."
 }

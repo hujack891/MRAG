@@ -1,28 +1,11 @@
 {
-    "chunk_id": 498572284192,
-    "source_file": "Red_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-    "alt_text": "Wukong RedLoong 7.jpg",
-    "position_desc": 8,
-    "img_above_text": "You can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.\n## Yaoguai King Boss Battle - Red Loong",
-    "img_below_text": "The Red Loong is a fearsome red dragon imbued with the power of electricity, which is both his greatest strength and weakness once you know how to exploit it. It’s important to note that while you can face this boss once you find the required Key Item early in Chapter 2, you may want to wait until after completing Chapter 2, or even starting Chapter 3, due to the difficulty of this encounter. In particular, it’s a good idea to stock up on medicine to increase your shock resistance, and buy the Thunderbolt Horn Soak from the Shen Monkey as well.\n![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"You can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.\n## Yaoguai King Boss Battle - Red Loong\"\n            - Following Text: \"The Red Loong is a fearsome red dragon imbued with the power of electricity, which is both his greatest strength and weakness once you know how to exploit it. It’s important to note that while you can face this boss once you find the required Key Item early in Chapter 2, you may want to wait until after completing Chapter 2, or even starting Chapter 3, due to the difficulty of this encounter. In particular, it’s a good idea to stock up on medicine to increase your shock resistance, and buy the Thunderbolt Horn Soak from the Shen Monkey as well.\n![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Red Loong Dragon, a formidable boss in the game \"Black Myth: Wukong.\" The dragon is surrounded by sparks and glowing particles, emphasizing its connection to electricity, which is both its strength and vulnerability. This visual accompanies the narrative of encountering and battling the Red Loong, highlighting the importance of preparing for the fight by increasing shock resistance and acquiring specific items like the Thunderbolt Horn Soak."
+    "chunk_id": 50161244979,
+    "source_file": "Swift_Bat_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Swift_Bat_Power.png",
+    "alt_text": "Swift Bat Power.png",
+    "position_desc": 3,
+    "img_above_text": "The Swift Bat isn't a boss like the Earth Wolf or Wandering Wight, but is still a reasonably difficult fight in its own right. Swift Bats are extremely fast and can be difficult to reach when they're up in the sky. You can expect to be swooped by the Swift Bat, hit with a volley of projectiles, or swiped at with the beast's clawed hands.\n## Swift Bat Spirit",
+    "img_below_text": "* **Wing Flapper**\n* Equipped Effect: Moderately increases Stamina recovery.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Swift Bat isn't a boss like the Earth Wolf or Wandering Wight, but is still a reasonably difficult fight in its own right. Swift Bats are extremely fast and can be difficult to reach when they're up in the sky. You can expect to be swooped by the Swift Bat, hit with a volley of projectiles, or swiped at with the beast's clawed hands.\n## Swift Bat Spirit\"\n        - Following Text: \"* **Wing Flapper**\n* Equipped Effect: Moderately increases Stamina recovery.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image is from a video game equipment menu, showcasing the \"Swift Bat Spirit\" as a rare item with moderate Qi cost. The Swift Bat Spirit allows players to take the form of a Swift Bat, using the \"Wing Flapper\" ability to unfurl wings and strike foes with gravel. When equipped, it moderately increases stamina recovery. The menu provides options to equip the spirit and watch a demo of its abilities."
 }

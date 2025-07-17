@@ -1,28 +1,11 @@
 {
-    "chunk_id": 99143202954,
+    "chunk_id": 789516581847,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
-    "alt_text": "Wukong Bitter 13.jpg",
-    "position_desc": 44,
-    "img_above_text": "![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.",
-    "img_below_text": "He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 44 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\"\n            - Following Text: \"He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a dramatic moment from the game *Black Myth: Wukong*, showcasing the boss \"Chen Loong\" unleashing a powerful lightning attack. The boss is airborne, emitting a beam of energy that strikes the ground, creating a splash and shockwave effect. The snowy environment and traditional architecture in the background add to the atmospheric tension. The preceding and following text describe Chen Loong's lightning-based attacks, including orb tosses and energy beams, emphasizing the need for precise dodging to avoid damage during this challenging encounter."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg",
+    "alt_text": "Wukong Bitter 10.jpg",
+    "position_desc": 48,
+    "img_above_text": "![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\nThe dragon won't just stop at wacking you with his tail up close, either. If he proclaims \"To the deepest trench I dive!\" Be ready for him to stick his tail in the ground, only for several giant electrified tails to sprout up in a cluster nearby. You'll need to quickly break off your attack and give them a wide berth, as they'll quickly perform a single huge spin attack all at once!",
+    "img_below_text": "Other times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\n![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\nThe dragon won't just stop at wacking you with his tail up close, either. If he proclaims \"To the deepest trench I dive!\" Be ready for him to stick his tail in the ground, only for several giant electrified tails to sprout up in a cluster nearby. You'll need to quickly break off your attack and give them a wide berth, as they'll quickly perform a single huge spin attack all at once!\"\n        - Following Text: \"Other times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\n![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense boss battle in *Black Myth: Wukong* against \"Chen Loong,\" a dragon-like creature. The scene showcases the dragon unleashing a powerful electrified tail attack, with bolts of energy radiating across the battlefield. The player character is seen dodging the attack, emphasizing the need for quick reflexes and strategic movement to avoid damage. The HUD elements indicate the player's health, abilities, and the boss's health bar."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 553071451417,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Martial_7.jpg",
-    "alt_text": "Wukong Martial 7.jpg",
-    "position_desc": 13,
-    "img_above_text": "This boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.\nCertain times, he'll vanish before performing a spinning leap with twin chakrams you'll need to anticipate and evade. Other times, he'll simply toss his chakram at you from afar and let it ride toward you.",
-    "img_below_text": "When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"This boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.\nCertain times, he'll vanish before performing a spinning leap with twin chakrams you'll need to anticipate and evade. Other times, he'll simply toss his chakram at you from afar and let it ride toward you.\"\n            - Following Text: \"When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Martial_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment in a video game battle against the Green-Capped Martialist boss. The fiery chakram, a key weapon of the boss, is seen spinning across the battlefield, creating a trail of flames. This visual emphasizes the boss's strategy of using teleportation and ranged attacks to challenge the player. The context suggests that players must focus on evading the chakram's unpredictable movements and seize the opportunity to attack when the boss retrieves his weapon, highlighting a critical gameplay tactic."
+    "chunk_id": 4383031762,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(2\\).png",
+    "position_desc": 1,
+    "img_above_text": "## How to Find the Venom Daoist\nAfter the fight with the Second Sister in Estate of the Zhu, you’ll drop down into a hole that will take you to the Upper Hollow. From here, go up the slope toward the Upper Hollow Shrine.",
+    "img_below_text": "Just behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.\n![Chapter 4 Secret Area \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Chapter_4_Secret_Area_%281%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## How to Find the Venom Daoist\nAfter the fight with the Second Sister in Estate of the Zhu, you’ll drop down into a hole that will take you to the Upper Hollow. From here, go up the slope toward the Upper Hollow Shrine.\"\n        - Following Text: \"Just behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.\n![Chapter 4 Secret Area \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Chapter_4_Secret_Area_%281%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player's character standing near a shrine in a dark, cavernous environment. A red arrow points toward a wooden path leading to the right, indicating the next step in the walkthrough. This visual guide aligns with the instructions in the text, directing players to proceed up the stairs along the path to reach a small drop-down area."
 }

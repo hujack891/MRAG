@@ -1,28 +1,11 @@
 {
-    "chunk_id": 96441221475,
-    "source_file": "Skandha_of_Thought.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
-    "alt_text": "Wukong Mindcliff 9.jpg",
-    "position_desc": 1,
-    "img_above_text": "_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.",
-    "img_below_text": "Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Skandha_of_Thought.md'.\n\n            Context:\n            - Preceding Text: \"_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.\"\n            - Following Text: \"Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image depicts a character standing on a snowy cliffside, overlooking a cave entrance adorned with a large Buddha head. The environment is rugged and wintry, with a highlighted area in the distance indicating a point of interest.\n\n2. The image serves as a visual guide for players navigating the Valley of Ecstasy in Mindfulness Cliff to locate the Skandha of Thought. It shows the specific location where players need to jump down to reach the lower cave area, which is part of the path leading to the hidden treasure."
+    "chunk_id": 105040821027,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_MindCliff_2.jpg",
+    "alt_text": "Wukong MindCliff 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "However, as you begin to head up the path around the pit, you'll be interrupted by the arrival of a jester-like figure who wants to wear your face.\n## Yaoguai Chief Miniboss Fight - Non-White",
+    "img_below_text": "Non-White is a peculiar foe who attacks in haphazard fashion with his large thin blade. The most important thing to note is the smaller bar above his health bar: Non-White can use his blade to repeatedly block and parry your attacks, which can at times effectively give him a second health bar. Finding the right times to strike can be useful in circumventing his defenses, but you'll want to be wary of his frost and poison attacks. Stock up on both Antimiasma and Body-Warming medicine to deal with both scenarios should they arise.\n![Wukong MindCliff 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Wukong_MindCliff_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"However, as you begin to head up the path around the pit, you'll be interrupted by the arrival of a jester-like figure who wants to wear your face.\n## Yaoguai Chief Miniboss Fight - Non-White\"\n        - Following Text: \"Non-White is a peculiar foe who attacks in haphazard fashion with his large thin blade. The most important thing to note is the smaller bar above his health bar: Non-White can use his blade to repeatedly block and parry your attacks, which can at times effectively give him a second health bar. Finding the right times to strike can be useful in circumventing his defenses, but you'll want to be wary of his frost and poison attacks. Stock up on both Antimiasma and Body-Warming medicine to deal with both scenarios should they arise.\n![Wukong MindCliff 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Wukong_MindCliff_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Yaoguai Chief miniboss, \"Non-White,\" from *Black Myth: Wukong*. He is shown in a rocky environment, wielding a large thin blade and wearing ornate armor and accessories. The preceding and following text describe his erratic attack patterns, ability to block and parry attacks, and use of frost and poison effects during combat. Players are advised to prepare with Antimiasma and Body-Warming medicine to counter his elemental attacks."
 }

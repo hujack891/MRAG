@@ -1,28 +1,11 @@
 {
-    "chunk_id": 839318158009,
-    "source_file": "Gore-Eye_Daoist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
-    "alt_text": "Wukong Sandgate 62.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Rewards: Gore-Eye Daoist Spirit\n## Where to Find the Gore-Eye Daoist",
-    "img_below_text": "As an optional boss, the Gore-Eye Daoist is easy to miss if you enter the Yellow Wind Formation through other routes. He lies on the road behind the large stone door featured where you can fight the King of Flowing Sands and Second Rat Prince.\n![Wukong Yellow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Yellow_39.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Gore-Eye_Daoist.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Gore-Eye Daoist Spirit\n## Where to Find the Gore-Eye Daoist\"\n            - Following Text: \"As an optional boss, the Gore-Eye Daoist is easy to miss if you enter the Yellow Wind Formation through other routes. He lies on the road behind the large stone door featured where you can fight the King of Flowing Sands and Second Rat Prince.\n![Wukong Yellow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Yellow_39.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character interacting with a glowing statue in a dark, weathered environment, likely near the large stone door mentioned in the context. The text overlay, \"Required: Sterness of Stone, Keeness of Tiger,\" suggests the statue is part of a puzzle or mechanism that requires specific attributes or items to proceed. This interaction appears to be a step in accessing the road leading to the optional boss, Gore-Eye Daoist, in *Black Myth: Wukong*."
+    "chunk_id": 254195485280,
+    "source_file": "How_to_Increase_Gourd_Uses_and_Healing_Amount.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Shen3.jpg",
+    "alt_text": "Wukong Shen3.jpg",
+    "position_desc": 6,
+    "img_above_text": "Looking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.\n## How to Upgrade Healing Amount",
+    "img_below_text": "To increase the amount of heals the Gourd will grant you, you’ll want to choose the Upgrade Drinks menu. Here you can see all the Drinks you’ve collected, but you’ll need Awaken Wine Worm to increase the efficiency of Drinks.\nLooking for the locations of all Awaken Wine Worm? Collect every one of them with our guide here.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Looking for the locations of all Luojia Fragrant Vine? Collect every one of them with our guide here.\n## How to Upgrade Healing Amount\"\n        - Following Text: \"To increase the amount of heals the Gourd will grant you, you’ll want to choose the Upgrade Drinks menu. Here you can see all the Drinks you’ve collected, but you’ll need Awaken Wine Worm to increase the efficiency of Drinks.\nLooking for the locations of all Awaken Wine Worm? Collect every one of them with our guide here.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a glowing pot in a dimly lit, rocky cave or mine setting. This scene likely represents a location where players can find or interact with an item related to upgrading healing abilities in the game, as suggested by the surrounding text discussing upgrading healing amounts and collecting specific items like Luojia Fragrant Vine and Awaken Wine Worm."
 }

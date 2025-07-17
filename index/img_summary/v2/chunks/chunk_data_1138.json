@@ -1,28 +1,11 @@
 {
-    "chunk_id": 889478944878,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Foothills_Walkthrough_%28138%29.png",
-    "alt_text": "Foothills Walkthrough \\(138\\).png",
-    "position_desc": 50,
-    "img_above_text": "If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\nLang-Baw-Baw",
-    "img_below_text": "When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of the water. You'll see red trees in the distance, but it's the area on the right you'll want to go to first.\n### Yaoguai Chief - Poison Chief 3",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 50 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\nLang-Baw-Baw\"\n            - Following Text: \"When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of the water. You'll see red trees in the distance, but it's the area on the right you'll want to go to first.\n### Yaoguai Chief - Poison Chief 3\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Foothills_Walkthrough_%28138%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows a character flying on a cloud over a lush, mountainous landscape. A red arrow points to a specific area on the ground, suggesting the next destination or point of interest. Red trees are visible in the distance, adding to the scenic environment.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide to indicate the player's next objective or location after defeating the boss Lang-Baw-Baw. The arrow highlights the area on the right side of the water where the player should proceed, aligning with the text's instructions."
+    "chunk_id": 635083544480,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg",
+    "alt_text": "Wukong Fright 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nFright Cliff is one of the two sub-regions you’ll need to explore in Chapter 2 of Black Myth Wukong in order to unlock the large sealed doors that lead to the end of the chapter. You can first reach this area by heading through the Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then crossing the bridge to the right of the sealed door.",
+    "img_below_text": "As you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.\n![Wukong Fright 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Fright_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)\nFright Cliff is one of the two sub-regions you’ll need to explore in Chapter 2 of Black Myth Wukong in order to unlock the large sealed doors that lead to the end of the chapter. You can first reach this area by heading through the Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then crossing the bridge to the right of the sealed door.\"\n        - Following Text: \"As you cross the bridge, you can harvest some Licorice on the other side, and look to the left to spot a large archway in the distance, with a whirling black tornado even further left in a canyon separating the Fright Cliffs from the Crouching Tiger Temple.\n![Wukong Fright 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Fright_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the player character in *Black Myth: Wukong* running toward a large, ornate archway in a rugged, canyon-like environment. This area is likely part of the Fright Cliff sub-region in Chapter 2, which players must explore to progress through the game. The setting features dry grass, rocky terrain, and sparse, barren trees, emphasizing a desolate and challenging landscape."
 }

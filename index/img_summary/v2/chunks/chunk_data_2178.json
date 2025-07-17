@@ -1,28 +1,11 @@
 {
-    "chunk_id": 471277195537,
-    "source_file": "Non-Able.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg",
-    "alt_text": "Wukong Brook 28.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)\nAnother can be done at range, so even if you think you're at a safe distance, be ready to dodge if he adopts a stance and then dashes up for a glowing elbow strike attack.",
-    "img_below_text": "By far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.\n![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)\nAnother can be done at range, so even if you think you're at a safe distance, be ready to dodge if he adopts a stance and then dashes up for a glowing elbow strike attack.\"\n            - Following Text: \"By far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.\n![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a character in a red outfit facing off against an enemy in a snowy landscape. The preceding text describes a ranged attack by the enemy, while the following text warns of a dangerous martial arts stance. The image likely illustrates the tense moment before an attack, emphasizing the need for the player to be prepared for the enemy's moves."
+    "chunk_id": 749077964457,
+    "source_file": "Rat_Archer_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Rat_Archer_Door.jpg",
+    "alt_text": "Rat Archer Door.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Rat Archer is somewhat tricky to find and doesn't spawn until you defeat the Earth Wolf Spirit in Sandgate Village. From the Sandgate Village Keeper's Shrine, run over the bridge to find several enemies, a few of which are perched on top of an inaccessible roof. You cannot reach them at this point, so head right and work your way around Sandgate Village.\nYou will eventually find yourself in the Earth Wolf's arena. Take down the wolf and open the door to continue onward. As soon as you open the door, the Rat Archer and his minions will jump down and ambush you.",
+    "img_below_text": "## Rat Archer Fight\nThe Rat Archer isn't a boss and fights like any other Rat Archer, so you will be familiar with his move set by the time you encounter him. Choose your times to attack wisely and don't forget to make use of Staff Spin to deflect any incoming projectiles. That is the best way to avoid attacks from any archer.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Rat Archer is somewhat tricky to find and doesn't spawn until you defeat the Earth Wolf Spirit in Sandgate Village. From the Sandgate Village Keeper's Shrine, run over the bridge to find several enemies, a few of which are perched on top of an inaccessible roof. You cannot reach them at this point, so head right and work your way around Sandgate Village.\nYou will eventually find yourself in the Earth Wolf's arena. Take down the wolf and open the door to continue onward. As soon as you open the door, the Rat Archer and his minions will jump down and ambush you.\"\n        - Following Text: \"## Rat Archer Fight\nThe Rat Archer isn't a boss and fights like any other Rat Archer, so you will be familiar with his move set by the time you encounter him. Choose your times to attack wisely and don't forget to make use of Staff Spin to deflect any incoming projectiles. That is the best way to avoid attacks from any archer.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in an action pose, wielding a staff while approaching a wooden door within a stone-walled structure in Sandgate Village. This scene aligns with the walkthrough's description of the path leading to the Earth Wolf Spirit's arena, which must be defeated to trigger the Rat Archer ambush. The UI elements suggest combat readiness and available abilities, emphasizing the game's focus on strategic action."
 }

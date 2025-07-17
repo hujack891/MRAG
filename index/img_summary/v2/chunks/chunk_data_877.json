@@ -1,28 +1,11 @@
 {
-    "chunk_id": 579239403397,
-    "source_file": "Dragonfly_Guai_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Dragonfly_Guai_pic.jpg",
-    "alt_text": "Dragonfly Guai pic.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Dragonfly Guai Fight\n* Dragonfly Guai Spirit",
-    "img_below_text": "## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Dragonfly_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Dragonfly Guai Fight\n* Dragonfly Guai Spirit\"\n            - Following Text: \"## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Dragonfly_Guai_pic.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat scene from a game, showcasing a player character battling the Dragonfly Guai Spirit on a precarious wooden platform. The glowing, spectral appearance of the Dragonfly Guai Spirit highlights its supernatural nature, while the HUD elements indicate the player's health, abilities, and resources during the fight.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image illustrates the Dragonfly Guai Spirit fight, emphasizing the challenging and atmospheric nature of the encounter. It serves to visually represent the preceding text's mention of the \"Dragonfly Guai Spirit\" and sets the stage for the following text, which guides players to the location of the Dragonfly Guai."
+    "chunk_id": 402895271394,
+    "source_file": "Emerald-Armed_Mantis.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Foothills_Walkthrough_%2877%29.png",
+    "alt_text": "Foothills Walkthrough \\(77\\).png",
+    "position_desc": 2,
+    "img_above_text": "## Emerald-Armed Mantis Boss Fight and Guide\nZhu Bajie will be on the floor and pick up a mantis from the ground. It will hop inside Bajie's mouth, and you'll need to do the same to be able to fight the insect. You'll soon be transformed and literally entering the belly of the beast.",
+    "img_below_text": "Note! If you die here, you'll be automatically transported back to near Zhu Bajie. There's a nearby Mantis-Catching Swamp that can also be activated, just behind where Bajie stands against the tree. To get back inside him, approach him and talk to him.\nBecause the fight takes place inside Bajie's stomach, the area is limited. You'll find the mantis hacking and slashing away at the lining of Bajie's stomach, and it will soon turn its attention to you.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Emerald-Armed Mantis Boss Fight and Guide\nZhu Bajie will be on the floor and pick up a mantis from the ground. It will hop inside Bajie's mouth, and you'll need to do the same to be able to fight the insect. You'll soon be transformed and literally entering the belly of the beast.\"\n        - Following Text: \"Note! If you die here, you'll be automatically transported back to near Zhu Bajie. There's a nearby Mantis-Catching Swamp that can also be activated, just behind where Bajie stands against the tree. To get back inside him, approach him and talk to him.\nBecause the fight takes place inside Bajie's stomach, the area is limited. You'll find the mantis hacking and slashing away at the lining of Bajie's stomach, and it will soon turn its attention to you.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene inside Zhu Bajie's stomach, featuring the player character facing off against the Emerald-Armed Mantis. The environment is dark and organic, resembling the interior of a creature, with fleshy textures and a pool of liquid. This visual corresponds to the guide's description of battling the mantis within the confined space of Bajie's stomach after undergoing a transformation."
 }

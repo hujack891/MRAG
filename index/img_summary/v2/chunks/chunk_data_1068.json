@@ -1,28 +1,11 @@
 {
-    "chunk_id": 650154146327,
-    "source_file": "Flame_Ebongold.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Flame_Ebongold.jpg",
-    "alt_text": "Flame Ebongold.jpg",
-    "position_desc": 1,
-    "img_above_text": "Flame Ebongold is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Flame Ebongold can be used to craft the Wind Bear Staff from the Shrine.",
-    "img_below_text": "To obtain the Flame Ebongold, you need to defeat Black Bear Guai in Black Wind Cave in Black Wind Mountain.\n![Wukong BlackWind 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Flame_Ebongold.md'.\n\n            Context:\n            - Preceding Text: \"Flame Ebongold is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Flame Ebongold can be used to craft the Wind Bear Staff from the Shrine.\"\n            - Following Text: \"To obtain the Flame Ebongold, you need to defeat Black Bear Guai in Black Wind Cave in Black Wind Mountain.\n![Wukong BlackWind 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Flame_Ebongold.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the in-game inventory screen from *Black Myth: Wukong*, showcasing the \"Flame Ebongold,\" a rare crafting material. The item description highlights its use in crafting weapons and armor, with a poetic quote emphasizing its value. This material is tied to the game's progression, as it can be used to craft unique gear like the Wind Bear Staff after defeating specific bosses. The surrounding context suggests its acquisition involves defeating Black Bear Guai in Black Wind Cave."
+    "chunk_id": 175039217422,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Foothills_Walkthrough_%2874%29.png",
+    "alt_text": "Foothills Walkthrough \\(74\\).png",
+    "position_desc": 78,
+    "img_above_text": "![Foothills Walkthrough \\(75\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Foothills_Walkthrough_%2875%29.png)\nUnlike other stone bosses, the Son of Stones mostly uses an elemental attack. The blue glow coming from him is in fact a charge, and he will throw out projectiles or summon waves of lightning to crash down around him. Have Shock-Quelling Powder equipped to combat any lightning damage he might inflict.",
+    "img_below_text": "When the lighting attacks begin, get as far away from them as possible. He will start to lift his arms up and the lightning will get more intense, eventually ending in an explosion. As he does this, he will knock himself out and fall to the ground. The recovery from this attack takes a while, so dash at him and attack as much as you can. Here's a good opportunity to use Pluck of Many to maximize the time he's down for.\n![Foothills Walkthrough \\(71\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Foothills_Walkthrough_%2871%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Foothills Walkthrough \\(75\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Foothills_Walkthrough_%2875%29.png)\nUnlike other stone bosses, the Son of Stones mostly uses an elemental attack. The blue glow coming from him is in fact a charge, and he will throw out projectiles or summon waves of lightning to crash down around him. Have Shock-Quelling Powder equipped to combat any lightning damage he might inflict.\"\n        - Following Text: \"When the lighting attacks begin, get as far away from them as possible. He will start to lift his arms up and the lightning will get more intense, eventually ending in an explosion. As he does this, he will knock himself out and fall to the ground. The recovery from this attack takes a while, so dash at him and attack as much as you can. Here's a good opportunity to use Pluck of Many to maximize the time he's down for.\n![Foothills Walkthrough \\(71\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Foothills_Walkthrough_%2871%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Son of Stones,\" a large, glowing stone boss in *Black Myth: Wukong*. The boss is shown mid-battle, surrounded by a blue glow and lightning effects, emphasizing its use of elemental lightning attacks. The context suggests players should prepare with Shock-Quelling Powder to mitigate lightning damage and look for opportunities to counterattack during its recovery phase. The environment is a dark, forested area, adding to the intense atmosphere of the encounter."
 }

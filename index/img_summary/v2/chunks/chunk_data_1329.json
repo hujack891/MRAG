@@ -1,28 +1,11 @@
 {
-    "chunk_id": 61575024972,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_43.jpg",
-    "alt_text": "Wukong Sahali 43.jpg",
-    "position_desc": 26,
-    "img_above_text": "That’s your cue to rush in and hit Fuban’s exposed area with your biggest hits, using charged strikes, Spirit Attacks, and Transformation Spells to unload on the beetle before he can rise up.\nWhen following this strategy, you’ll quickly burn through the rest of Fuban’s health bar, and between you and the Yellow Wind Sage, the beetle will stand little chance. He can still repeatedly slam his head in the ground to create shockwaves, and finally pull up with a massive explosion. Again, the Pillar Stance can be useful for dodging these blasts, so long as you have a bit of distance away from him too.",
-    "img_below_text": "When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"That’s your cue to rush in and hit Fuban’s exposed area with your biggest hits, using charged strikes, Spirit Attacks, and Transformation Spells to unload on the beetle before he can rise up.\nWhen following this strategy, you’ll quickly burn through the rest of Fuban’s health bar, and between you and the Yellow Wind Sage, the beetle will stand little chance. He can still repeatedly slam his head in the ground to create shockwaves, and finally pull up with a massive explosion. Again, the Pillar Stance can be useful for dodging these blasts, so long as you have a bit of distance away from him too.\"\n            - Following Text: \"When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_43.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a climactic moment in the battle against Fuban, a massive beetle-like creature, set in a desert environment. The scene captures the intensity of the fight, with debris and sand flying as the player character and the Yellow Wind Sage engage the beast. This visual aligns with the preceding text, which describes the strategy for exploiting Fuban's vulnerabilities and dodging his shockwave attacks. The following text confirms the imminent victory, rewarding the player with valuable items like the Sky-Piercing Horn and the Wind Tamer Vessel. The image serves to highlight the action-packed and pivotal phase of the encounter."
+    "chunk_id": 962371794567,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Bitter_18.jpg",
+    "alt_text": "Wukong Bitter 18.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rewards: Spell-Binder Spell, Cold Iron Leaves, Random Materials, 1847 Experience, 1190 Will\n## Where to Find the Green-Capped Martialist",
+    "img_below_text": "To unlock this secret boss fight, you'll first need to encounter a simple-looking Treasure Hunter Human in Chapter 3, at the North Shore of the Bitter Lake in The New West.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Rewards: Spell-Binder Spell, Cold Iron Leaves, Random Materials, 1847 Experience, 1190 Will\n## Where to Find the Green-Capped Martialist\"\n        - Following Text: \"To unlock this secret boss fight, you'll first need to encounter a simple-looking Treasure Hunter Human in Chapter 3, at the North Shore of the Bitter Lake in The New West.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment in the video game *Black Myth: Wukong*, with a character navigating through the terrain near an ornate, weathered gate. The player appears to have collected \"Fire Bellflower x2,\" as indicated on the screen. This scene likely serves as part of the walkthrough or guide, helping players locate resources or progress toward unlocking the secret boss fight mentioned in the following text."
 }

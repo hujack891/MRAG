@@ -1,28 +1,11 @@
 {
-    "chunk_id": 599314642152,
-    "source_file": "Non-Void.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg",
-    "alt_text": "Wukong Thunderclap 68.jpg",
-    "position_desc": 10,
-    "img_above_text": "When Non-Void finally falls to your assault, you'll be able to absorb the Non-Void Spirit.\n### Completing the Snow Fox Questline",
-    "img_below_text": "You should make a point to return to the Forest of Felicity the next chance you get, and return to talk to the Snow Fox pelt on the corpse near the Shrine. As thanks, The Fox will give the **Snow Fox Brush Curio** , which will extend your Transformation times by a great deal!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Non-Void.md'.\n\n            Context:\n            - Preceding Text: \"When Non-Void finally falls to your assault, you'll be able to absorb the Non-Void Spirit.\n### Completing the Snow Fox Questline\"\n            - Following Text: \"You should make a point to return to the Forest of Felicity the next chance you get, and return to talk to the Snow Fox pelt on the corpse near the Shrine. As thanks, The Fox will give the **Snow Fox Brush Curio** , which will extend your Transformation times by a great deal!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\nThe image depicts a snowy forest scene with a character standing near a wooden structure. The character appears to be holding a staff and is dressed in fur clothing. In the background, a notification indicates the acquisition of the \"Snow Fox Brush,\" a curio item.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image serves to illustrate the moment when the player receives the \"Snow Fox Brush\" after completing the Snow Fox questline. The preceding text mentions absorbing the Non-Void Spirit, suggesting a progression in the game. The following text explains that the Snow Fox Brush extends transformation times, indicating its importance as a reward for completing the quest and interacting with the Snow Fox pelt near the Shrine in the Forest of Felicity."
+    "chunk_id": 564666903958,
+    "source_file": "Red_Tides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-3.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)\n* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.",
+    "img_below_text": "## Black Myth: Wukong Red Tides Location\nRed Tides can be obtained by defeating Guangzhi in Forest of Wolves - Outside the Forest area in Black Wind Mountain. He is located at the far back, past the small bridge in the forest.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)\n* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\"\n        - Following Text: \"## Black Myth: Wukong Red Tides Location\nRed Tides can be obtained by defeating Guangzhi in Forest of Wolves - Outside the Forest area in Black Wind Mountain. He is located at the far back, past the small bridge in the forest.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the \"Red Tides\" ability in action. The character is performing a powerful slam attack, generating fiery visual effects and dealing significant damage. This move is described as a series of devastating vertical slams triggered by following a dodge with repeated Heavy Attacks. The preceding and following text explains the ability's mechanics and its acquisition by defeating Guangzhi in the Forest of Wolves area."
 }

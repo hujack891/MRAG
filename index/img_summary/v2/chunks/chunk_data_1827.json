@@ -1,28 +1,11 @@
 {
-    "chunk_id": 872806402510,
-    "source_file": "Lang-Li-Guhh-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg",
-    "alt_text": "Wukong Sandgate 18.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\nThese can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.",
-    "img_below_text": "If instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\n![Wukong Sandgate 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\nThese can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.\"\n            - Following Text: \"If instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\n![Wukong Sandgate 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character facing off against a large frog-like enemy named \"Lang-Li-Guhh-Baw\" in a watery arena. The frog is unleashing electric attacks, with bolts of lightning striking the ground and illuminating the environment. The player appears to be dodging or preparing to counter the attack, emphasizing the need for strategic movement and positioning.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the challenging mechanics of the boss fight, where the frog enemy uses electric attacks, such as summoning lightning strikes and electric tadpoles, to create hazards for the player. It ties into the preceding and following text, which advises players on using techniques like the Pillar Stance to avoid these attacks and watching for signs of impending lightning strikes to dodge effectively."
+    "chunk_id": 998642204375,
+    "source_file": "Monk_from_the_Sea.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Wukong_Thunderclap_14.jpg",
+    "alt_text": "Wukong Thunderclap 14.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Where to Find The Monk from the Sea\nThe Monk from the Sea is an optional boss, and hides within the New Thunderclap Temple at the far end of the Valley of Ecstasy in The New West. To find him, you'll need to explore an optional path once inside the temple grounds.",
+    "img_below_text": "From the Temple Entrance Shrine, take the far right path and head up a narrow sloping path filled with Supporter Monks to find a side area, and continue through the large gate past where Censor Holders are praying, and the monk will jump out of an altar as you enter the next large open part of the temple grounds.\n### Monk from the Sea Miniboss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Where to Find The Monk from the Sea\nThe Monk from the Sea is an optional boss, and hides within the New Thunderclap Temple at the far end of the Valley of Ecstasy in The New West. To find him, you'll need to explore an optional path once inside the temple grounds.\"\n        - Following Text: \"From the Temple Entrance Shrine, take the far right path and head up a narrow sloping path filled with Supporter Monks to find a side area, and continue through the large gate past where Censor Holders are praying, and the monk will jump out of an altar as you enter the next large open part of the temple grounds.\n### Monk from the Sea Miniboss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character, armed with a glowing red spear, approaches a group of kneeling monks in snowy temple grounds. This appears to be part of the walkthrough for locating \"The Monk from the Sea\" miniboss in the New Thunderclap Temple, as described in the preceding and following text. The monks are likely \"Supporter Monks\" mentioned in the guide, encountered along the path leading to the miniboss."
 }

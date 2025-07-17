@@ -28,11 +28,11 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 class SummaryData:
     chunk_id: int
     source_file: str
-    img_url: str             # 图片url
-    alt_text: str            # 图片alt文本
-    position_desc: int       # 第几张图片
-    summary_promot: str      # 
-    img_summary: str         # 
+    img_url: str             
+    alt_text: str            
+    position_desc: int       
+    summary_promot: str       
+    img_summary: str          
 
     def to_serializable_dict(self) -> Dict[str, Any]:
         return {
@@ -49,16 +49,12 @@ def extract_chunks_from_markdown(content: str, filename: str) -> List[SummaryDat
     pattern = r'!\[([^\]]*?)\]\(\s*(<.*?>|[^)\s]+(?:\s[^)\s]+)*)\s*\)'
     matches = list(re.finditer(pattern, content))
 
-    lines = content.split('\n')
     summary_chunks = []
     position = 1
 
     for match in matches:
         alt_text = match.group(1).strip()
         img_url = match.group(2).strip('<>')
-
-        # 获取当前图片在全文的位置（通过字符索引）
-        start_idx = match.start()
 
         summary_chunks.append(SummaryData(
             chunk_id=0,
@@ -74,8 +70,8 @@ def extract_chunks_from_markdown(content: str, filename: str) -> List[SummaryDat
 
     return summary_chunks
 
-def build_prompt_text(chunk_data):
-    """构造文本提示词内容"""
+def build_prompt_text(chunk_data:SummaryData):
+    """构造摘要提示词"""
     return f"""
         "You are shown an image extracted from a video game walkthrough or strategy guide.\n\n"
         "Your task is to write a short, clear, and informative **English summary** of the image.\n"
@@ -85,8 +81,6 @@ def build_prompt_text(chunk_data):
 def deduplicate_data(data_list: List[SummaryData]) -> List[SummaryData]:
     seen = {}
     for item in data_list:
-        # 去除空内容项
-        # 若 chunk_id 未出现过，则添加
         if item.chunk_id not in seen:
             seen[item.chunk_id] = item
     return list(seen.values())

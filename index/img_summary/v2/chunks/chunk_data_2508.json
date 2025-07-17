@@ -1,28 +1,11 @@
 {
-    "chunk_id": 627958754205,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
-    "alt_text": "Wukong Sandgate 25.jpg",
-    "position_desc": 22,
-    "img_above_text": "Before leaving the area, be sure to look around the rim of the pit past where the Xu Dog was, and you can find a high ledge path leading to a small altar with a giant statue head, and a **Meditation Spot** in front of it, granting you a free Spark Skill Point.\nThe Altar, Sandgate Village Meditation Spot",
-    "img_below_text": "Returning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\n![Wukong Sandgate 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Before leaving the area, be sure to look around the rim of the pit past where the Xu Dog was, and you can find a high ledge path leading to a small altar with a giant statue head, and a **Meditation Spot** in front of it, granting you a free Spark Skill Point.\nThe Altar, Sandgate Village Meditation Spot\"\n            - Following Text: \"Returning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\n![Wukong Sandgate 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in combat near a large, sealed doorway in Sandgate Village. The doorway is heavily guarded by Rat Archers positioned on the roof, making them difficult to attack. The image captures the intense atmosphere and strategic challenge of this encounter."
+    "chunk_id": 907214620155,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg",
+    "alt_text": "Wukong YellowFlower 51.jpg",
+    "position_desc": 48,
+    "img_above_text": "![Wukong YellowFlower 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg)\nIf his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.",
+    "img_below_text": "His hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.\n![Wukong YellowFlower 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_YellowFlower_50.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg)\nIf his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.\"\n        - Following Text: \"His hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.\n![Wukong YellowFlower 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_YellowFlower_50.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character engaged in a battle with an enemy named \"Venom Daoist.\" The enemy is mid-attack, wielding dual swords, with a dynamic visual effect highlighting the motion and impact of the strike. The health bar at the bottom indicates the enemy's name and remaining health, while the HUD displays the player's abilities and resources. This moment aligns with the guide's description of the Venom Daoist's powerful combo attacks, emphasizing the need for strategic positioning to avoid heavy damage."
 }

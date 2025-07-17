@@ -1,28 +1,11 @@
 {
-    "chunk_id": 101093112997,
-    "source_file": "The_Second_Sister.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg",
-    "alt_text": "Wukong Lanxi 23.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Lanxi 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Lanxi_22.jpg)\nWhen she follows up her mad dance with a giant leap, roll forward to dodge under her slam, and you'll be able to pivot and unleash an attack of your own.",
-    "img_below_text": "She has a particularly damaging attack where she'll extend both front legs far to the sides, and you'll be able to spot a gleam along them before she thrusts both legs together in a pincer strike. Time it right by using Rock Solid when you spot the legs gleam, and you can knock her back.\n![Wukong Lanxi 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Lanxi_25.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'The_Second_Sister.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Lanxi 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Lanxi_22.jpg)\nWhen she follows up her mad dance with a giant leap, roll forward to dodge under her slam, and you'll be able to pivot and unleash an attack of your own.\"\n            - Following Text: \"She has a particularly damaging attack where she'll extend both front legs far to the sides, and you'll be able to spot a gleam along them before she thrusts both legs together in a pincer strike. Time it right by using Rock Solid when you spot the legs gleam, and you can knock her back.\n![Wukong Lanxi 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Lanxi_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment in a battle against \"The Second Sister,\" a formidable enemy in the game \"Black Myth: Wukong.\" The scene shows the player character, armed with a glowing staff, facing off against a large, spider-like creature in a dark, atmospheric setting. The image captures the creature mid-attack, with a bright gleam indicating the imminent danger of its pincer strike. This visual serves to illustrate the combat strategy described in the surrounding text, highlighting the need for precise timing and defensive maneuvers to counter the enemy's powerful attacks."
+    "chunk_id": 192308797192,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_UpperHollow_15.jpg",
+    "alt_text": "Wukong UpperHollow 15.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong UpperHollow 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_UpperHollow_14.jpg)\nGrab the green Wisp near where the archer was posted, and continue on through another large cave full of more cocoons, with some Puppet Ticks tending to them, and a few Wasp Guai stuck in the cocoons. They can be a little tricky to pin down with their constant darting around, so either bait them into diving into a Rock Solid, or use your Thrust or Pillar Stance to knock them out of the air.",
+    "img_below_text": "As you near the end of the passage, keep your eyes on the right to spot a small alcove where the glow of a green Wisp will entice you over to investigate. There's a few Puppet Spiders waiting to ambush you when you draw close, however.\n![Wukong UpperHollow 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_UpperHollow_16.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_UpperHollow_14.jpg)\nGrab the green Wisp near where the archer was posted, and continue on through another large cave full of more cocoons, with some Puppet Ticks tending to them, and a few Wasp Guai stuck in the cocoons. They can be a little tricky to pin down with their constant darting around, so either bait them into diving into a Rock Solid, or use your Thrust or Pillar Stance to knock them out of the air.\"\n        - Following Text: \"As you near the end of the passage, keep your eyes on the right to spot a small alcove where the glow of a green Wisp will entice you over to investigate. There's a few Puppet Spiders waiting to ambush you when you draw close, however.\n![Wukong UpperHollow 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_UpperHollow_16.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist navigating through a dark cave filled with web-like structures and cocoon-like formations. A green Wisp is visible in the distance, indicating a point of interest or collectible item. The preceding text suggests that the player should grab the green Wisp near the archer's location and continue through the cave, while the following text warns of Puppet Spiders waiting to ambush near another green Wisp. The image serves to illustrate the environment and objectives within this section of the game."
 }

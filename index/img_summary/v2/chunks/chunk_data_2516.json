@@ -1,28 +1,11 @@
 {
-    "chunk_id": 978342929767,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Sandgate_33.jpg",
-    "alt_text": "Wukong Sandgate 33.jpg",
-    "position_desc": 30,
-    "img_above_text": "![Wukong Sandgate 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Sandgate_32.jpg)\nPutting the large door to the right on pause for a moment, turn your attention to the large valley in the opposite direction where the second Rat Captain patrols. The ridge above is crawling with multiple Rat Archers, plus another Rat Archer on the rooftop to the left will make trying to take him on a pain.",
-    "img_below_text": "Instead, use Cloud Step to race past, and climb the hill to take out the archers and avoid the Soldier.\n![Wukong Sandgate 35X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Sandgate_35X.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 30 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Sandgate_32.jpg)\nPutting the large door to the right on pause for a moment, turn your attention to the large valley in the opposite direction where the second Rat Captain patrols. The ridge above is crawling with multiple Rat Archers, plus another Rat Archer on the rooftop to the left will make trying to take him on a pain.\"\n            - Following Text: \"Instead, use Cloud Step to race past, and climb the hill to take out the archers and avoid the Soldier.\n![Wukong Sandgate 35X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Sandgate_35X.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Sandgate_33.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist using a special ability, likely \"Cloud Step,\" to quickly move through a rugged, valley-like terrain. The context suggests that this maneuver is part of a strategy to bypass enemies, specifically Rat Archers and a Rat Captain, by swiftly climbing a hill to eliminate the archers and avoid direct confrontation with a Soldier."
+    "chunk_id": 811116705787,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_YellowFlower_59.jpg",
+    "alt_text": "Wukong YellowFlower 59.jpg",
+    "position_desc": 56,
+    "img_above_text": "Head back to the altar, and pluck what should be the fourth and final talisman. Before you can celebrate this act, a large winged monster with a hand for a face will appear to aggressively punish you for this deed!\n## Boss Fight - Supreme Inspector",
+    "img_below_text": "In truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.\n![Wukong YellowFlower 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Head back to the altar, and pluck what should be the fourth and final talisman. Before you can celebrate this act, a large winged monster with a hand for a face will appear to aggressively punish you for this deed!\n## Boss Fight - Supreme Inspector\"\n        - Following Text: \"In truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.\n![Wukong YellowFlower 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Supreme Inspector, a large winged humanoid monster with intricate armor and a menacing presence, standing in front of a temple-like structure. This scene occurs immediately after the player retrieves the fourth and final talisman from an altar, triggering the appearance of the boss. The player character is shown in the foreground, preparing for an intense encounter. Although this fight is designed to be unwinnable, the player can end it by reducing the Supreme Inspector's health by 10%."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 515479908709,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg",
-    "alt_text": "Wukong YellowFlower 60.jpg",
-    "position_desc": 57,
-    "img_above_text": "![Wukong YellowFlower 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_YellowFlower_59.jpg)\nIn truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.",
-    "img_below_text": "With that in mind, do you best to dodge his wing attacks after he extends them slightly, and unleash everything you've got in your arsenal to try burning down that 10%.\n![Wukong YellowFlower 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_YellowFlower_61.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 57 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_YellowFlower_59.jpg)\nIn truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.\"\n            - Following Text: \"With that in mind, do you best to dodge his wing attacks after he extends them slightly, and unleash everything you've got in your arsenal to try burning down that 10%.\n![Wukong YellowFlower 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_YellowFlower_61.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing a fierce battle between the protagonist and the Supreme Inspector, a formidable boss character. The Supreme Inspector, characterized by his large wings and intimidating presence, is engaged in combat, with the protagonist's weapon glowing red from the intense clash. This encounter is described as a prelude to a later, more significant boss fight, emphasizing the difficulty and the need for strategic dodging and attacking to reduce the boss's health by 10%."
+    "chunk_id": 60684720539,
+    "source_file": "Webbed_Hollow_-_Lower_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_LowerHollow_55.jpg",
+    "alt_text": "Wukong LowerHollow 55.jpg",
+    "position_desc": 52,
+    "img_above_text": "Fight carefully, and take note of which of his rake attacks swing fast, vs the ones that take time to swing around to dodge at the right times, or have a focus point in reserve to use a Thrust Stance varied combo and get out of his attack range.\nOnce you take off half his health bar, things will get real messy fast. Zhu Bajie will go back to his roots, in a sense, and transform into a giant boar that just can't wait to roll around in the mud with you.",
+    "img_below_text": "In this form, he'll start by performing a series of charge attacks after stamping the ground to cause muddy geysers to erupt all around.\n![Wukong LowerHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_LowerHollow_56.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Fight carefully, and take note of which of his rake attacks swing fast, vs the ones that take time to swing around to dodge at the right times, or have a focus point in reserve to use a Thrust Stance varied combo and get out of his attack range.\nOnce you take off half his health bar, things will get real messy fast. Zhu Bajie will go back to his roots, in a sense, and transform into a giant boar that just can't wait to roll around in the mud with you.\"\n        - Following Text: \"In this form, he'll start by performing a series of charge attacks after stamping the ground to cause muddy geysers to erupt all around.\n![Wukong LowerHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_LowerHollow_56.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from *Black Myth: Wukong*, showcasing Zhu Bajie in his transformed giant boar form. The player character is engaged in combat in a muddy battlefield, with Zhu Bajie causing muddy geysers to erupt through ground-stamping attacks. The image highlights the chaotic environment and the intensity of the encounter, with debris and mud flying as part of the boar's aggressive charge attacks."
 }

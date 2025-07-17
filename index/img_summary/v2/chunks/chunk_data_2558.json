@@ -1,28 +1,11 @@
 {
-    "chunk_id": 709022346041,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Sandgate_76.jpg",
-    "alt_text": "Wukong Sandgate 76.jpg",
-    "position_desc": 72,
-    "img_above_text": "![Wukong Sandgate 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Sandgate_75.jpg)\nSome scarier attacks that the First Prince can employ will have him stand up holding his arms to the side, then stumbling forward in a large swing as he topples down on his side, which covers a large area both from the arm swipe and body slam. Be sure to dodge to the side he puts his arms up and you’ll avoid him swinging in the opposite direction.",
-    "img_below_text": "He also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.\n![Wukong Sandgate 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 72 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Sandgate_75.jpg)\nSome scarier attacks that the First Prince can employ will have him stand up holding his arms to the side, then stumbling forward in a large swing as he topples down on his side, which covers a large area both from the arm swipe and body slam. Be sure to dodge to the side he puts his arms up and you’ll avoid him swinging in the opposite direction.\"\n            - Following Text: \"He also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.\n![Wukong Sandgate 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Sandgate_76.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense moment from the game \"Black Myth: Wukong,\" showing the protagonist engaged in combat with the First Prince of Flowing Sands. The First Prince is performing a large swing attack, which is described in the preceding text as a dangerous move that covers a wide area. The following text advises players on how to anticipate and counter the First Prince's quick lunge attack. The image serves to illustrate the challenging and dynamic nature of the boss fight, emphasizing the need for strategic dodging and timing."
+    "chunk_id": 389612744291,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(8\\).png",
+    "position_desc": 10,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png)\nJust keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.",
+    "img_below_text": "Go to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.\n![Water Curtain Cave Walkthrough \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Water Curtain Cave Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png)\nJust keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.\"\n        - Following Text: \"Go to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.\n![Water Curtain Cave Walkthrough \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a dark, rocky cave entrance with a glowing orange light inside, suggesting the next area to explore. A red arrow points toward the illuminated section, guiding the player to proceed into the cave. This scene aligns with the walkthrough's instructions to enter the cave after passing a fiery path and continue navigating upward."
 }

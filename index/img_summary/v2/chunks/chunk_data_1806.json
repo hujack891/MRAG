@@ -1,28 +1,11 @@
 {
-    "chunk_id": 480489592098,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg",
-    "alt_text": "Wukong Sandgate 59.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)\nHis new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.",
-    "img_below_text": "His overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.\n![Wukong Sandgate 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)\nHis new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\"\n            - Following Text: \"His overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.\n![Wukong Sandgate 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a gameplay moment from *Black Myth: Wukong*, showcasing the \"Second Rat Prince\" boss fight. The boss is seen performing a powerful ground slam attack, creating a shockwave or fissure effect. The player character appears to be knocked down or evading the attack, emphasizing the need for strategic movement, as suggested in the preceding and following text. The image highlights the dynamic and challenging nature of the encounter."
+    "chunk_id": 968726118772,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/The_Ledge_Purple_Cloud_Mountain_Meditation_Spots.jpg",
+    "alt_text": "The Ledge Purple Cloud Mountain Meditation Spots.jpg",
+    "position_desc": 20,
+    "img_above_text": "### The Ledge, Purple Cloud Mountain Meditation Spot\nThe Ledge, Purple Cloud Mountain Meditation Spot",
+    "img_below_text": "This Meditation Spot is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to open the secret area.\nOnce at the Purple Cloud Mountain, follow the path up the hill and defeat the Scorpion Yaoguai. Continue along the path up the mountain until you reach the top. There, you will find the last Meditation Spot in Chapter 4.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Ledge, Purple Cloud Mountain Meditation Spot\nThe Ledge, Purple Cloud Mountain Meditation Spot\"\n        - Following Text: \"This Meditation Spot is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to open the secret area.\nOnce at the Purple Cloud Mountain, follow the path up the hill and defeat the Scorpion Yaoguai. Continue along the path up the mountain until you reach the top. There, you will find the last Meditation Spot in Chapter 4.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a serene, autumnal forest setting with vibrant foliage and a rocky path. At the center of the image, a character is seen meditating, which aligns with the context of a \"Meditation Spot\" in the game. This specific Meditation Spot is located at the top of Purple Cloud Mountain, a secret area in Chapter 4, reached after defeating certain enemies and following a specific path."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 357877528110,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Fright_48.jpg",
-    "alt_text": "Wukong Fright 48.jpg",
-    "position_desc": 53,
-    "img_above_text": "![Wukong Fright 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Fright_44.jpg)\nIn an alternative attack, he’ll slam down with both arm points straight up, meaning the detonation will cover a larger wide circle on all sides of him, instead of just a frontal cone. Again, you can use the Pillar Stance with enough lead time to heft yourself over the tremor and attack from above.",
-    "img_below_text": "If you watch him raise both arms to the side in a half-swing motion, he’ll begin to stab the ground repeatedly, alternating his arms four times, before raising both arms high for a ground-bursting blast with both of his arms.\n![Wukong Fright 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Fright_46.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 53 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Fright_44.jpg)\nIn an alternative attack, he’ll slam down with both arm points straight up, meaning the detonation will cover a larger wide circle on all sides of him, instead of just a frontal cone. Again, you can use the Pillar Stance with enough lead time to heft yourself over the tremor and attack from above.\"\n            - Following Text: \"If you watch him raise both arms to the side in a half-swing motion, he’ll begin to stab the ground repeatedly, alternating his arms four times, before raising both arms high for a ground-bursting blast with both of his arms.\n![Wukong Fright 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Fright_46.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Fright_48.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist engaging the \"Stone Vanguard\" boss. The boss appears to be executing a powerful ground attack, causing debris and shockwaves to erupt around it. This moment aligns with the preceding and following text, which describe the boss's various attack patterns, including wide-area tremors and ground-bursting strikes. The player is shown actively evading or preparing to counter the attack, emphasizing the need for strategic movement and timing during the fight."
+    "chunk_id": 268000975496,
+    "source_file": "Golden_Lining.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
+    "alt_text": "Pungent Flesh Chunk USe.jpg",
+    "position_desc": 1,
+    "img_above_text": "Golden Lining can be found in Relief of the Fallen Loong Shrine in The Webbed Hollow upon defeating Yellow Loong after you have killed Red Loong, Black Loong, and Cyan Loong. This requires you to have the Loong Scales.\nThe Loong Scales can be found by defeating the First Prince of Flowing Sands in Yellow Wind Ridge. The boss is located underneath the arena where you fight the King of Flowing Sand and Second Rat Prince upon throwing the Pungent Flesh Chunk off the cliff. Get the boss to destroy the mural wall in the arena, or use a powerful Transformation ability and head through to pick up the Key Item.",
+    "img_below_text": "You can then use these scales on the sand waterfall in Fright Cliff in Yellow Wind Ridge to fight Black Loong.\nSecondly, head to the Forest of Wolves in Black Wind Mountain and head through the waterfall to defeat Red Loong.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Golden Lining can be found in Relief of the Fallen Loong Shrine in The Webbed Hollow upon defeating Yellow Loong after you have killed Red Loong, Black Loong, and Cyan Loong. This requires you to have the Loong Scales.\nThe Loong Scales can be found by defeating the First Prince of Flowing Sands in Yellow Wind Ridge. The boss is located underneath the arena where you fight the King of Flowing Sand and Second Rat Prince upon throwing the Pungent Flesh Chunk off the cliff. Get the boss to destroy the mural wall in the arena, or use a powerful Transformation ability and head through to pick up the Key Item.\"\n        - Following Text: \"You can then use these scales on the sand waterfall in Fright Cliff in Yellow Wind Ridge to fight Black Loong.\nSecondly, head to the Forest of Wolves in Black Wind Mountain and head through the waterfall to defeat Red Loong.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against the \"First Prince of Flowing Sands\" in a sandy, cavernous environment. This encounter is crucial for obtaining the Loong Scales, a key item required to progress in the game by accessing other boss fights, such as Black Loong in Yellow Wind Ridge. The player's interface shows abilities and health, emphasizing the combat-focused nature of this sequence."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 315595915902,
-    "source_file": "Commander_Beetle_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Commander_Beetle.jpg",
-    "alt_text": "Commander Beetle.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Commander Beetle Fight\n* Commander Beetle Spirit",
-    "img_below_text": "## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Commander_Beetle_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Commander Beetle Fight\n* Commander Beetle Spirit\"\n            - Following Text: \"## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Commander_Beetle.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is engaged in combat with Commander Beetle. The Commander Beetle, a formidable enemy, is shown wielding weapons and surrounded by a dark, eerie environment. The preceding text suggests that this is part of a fight sequence, while the following text indicates that Commander Beetle will later be found teaching a class near the Temple of Yellow Flowers after being defeated. The image serves to illustrate the intense battle that players must overcome before encountering Commander Beetle in a different context."
+    "chunk_id": 573996230624,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg",
+    "alt_text": "Thunderbone.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Thunder Tail .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg)| Thunder Tail| Epic | Special crafting material | • Defeat  Red Loong behind waterfall in Forest of Wolves - Outside the Forest in Black Wind Mountain ( Loong Scales required)\n![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge",
+    "img_below_text": "![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)\n![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Thunder Tail .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg)| Thunder Tail| Epic | Special crafting material | • Defeat  Red Loong behind waterfall in Forest of Wolves - Outside the Forest in Black Wind Mountain ( Loong Scales required)\n![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\"\n        - Following Text: \"![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)\n![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image is likely related to a special crafting material in the video game \"Black Myth: Wukong.\" The surrounding text mentions various crafting materials and their acquisition methods, suggesting that the image depicts one such material. The materials are obtained by defeating specific bosses in designated locations within the game, indicating the image's role in guiding players on where to find and how to acquire these items for crafting purposes."
 }

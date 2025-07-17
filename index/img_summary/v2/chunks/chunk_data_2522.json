@@ -1,28 +1,11 @@
 {
-    "chunk_id": 380544784114,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg",
-    "alt_text": "Wukong Sandgate 38.jpg",
-    "position_desc": 36,
-    "img_above_text": "![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\nHeading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.",
-    "img_below_text": "Heading to the left of the lone shack, you’ll find a gate guarded by a Rat Governor and another Archer on the rooftops that connects to the one you climbed earlier. Defeat them to gain access to a large open field inside the Village’s main area. From across the field, a voice pleading to be freed calls out, but in your way is a large loping creature that will want to engage you first.\n### Yaoguai Chief Mini-Boss Fight - Earth Wolf",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Sandgate_37.jpg)\nHeading back down the hill towards the path at the bottom, be sure to stop by a lone shack far apart from the others. You’ll hear some whispering as you draw close, and a voice will speak out as you interact with the shack, telling you to go away for fear the two-headed Rat Captains will find them. Keep talking with the mysterious voice, and after you’ve rid the area of captains, they’ll thank you, and mention they may go off in search of the missing Third Prince somewhere in the West.\"\n            - Following Text: \"Heading to the left of the lone shack, you’ll find a gate guarded by a Rat Governor and another Archer on the rooftops that connects to the one you climbed earlier. Defeat them to gain access to a large open field inside the Village’s main area. From across the field, a voice pleading to be freed calls out, but in your way is a large loping creature that will want to engage you first.\n### Yaoguai Chief Mini-Boss Fight - Earth Wolf\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a battle with a Rat Governor near a gate. This gate leads to a large open field within the village's main area. The context suggests that defeating the Rat Governor and an Archer on the rooftops will grant access to this field, where further challenges, including a plea for help and a confrontation with a large creature, await."
+    "chunk_id": 693934870422,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_YellowFlower_88.jpg",
+    "alt_text": "Wukong YellowFlower 88.jpg",
+    "position_desc": 85,
+    "img_above_text": "Once you've finally defeated the Hundred-Eyed Daoist Master, you'll be treated to the finale of the Spider Sisters and their mother. Note that you'll now gain all the Yaoguai Chief entries for the First, Third, Fourth, and Fifth Sister (despite you not having actually fought against them).\nHundred-Eyed Daoist Master",
+    "img_below_text": "With a bittersweet ending to this chapter, you'll gain the next piece of the Great Sage's Senses - the Envious Tongue, which has some interesting talents you can pick from:\n* **Refreshing Taste** \\- After consuming medicine, increases the Critical Hit Chance of the next attack.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once you've finally defeated the Hundred-Eyed Daoist Master, you'll be treated to the finale of the Spider Sisters and their mother. Note that you'll now gain all the Yaoguai Chief entries for the First, Third, Fourth, and Fifth Sister (despite you not having actually fought against them).\nHundred-Eyed Daoist Master\"\n        - Following Text: \"With a bittersweet ending to this chapter, you'll gain the next piece of the Great Sage's Senses - the Envious Tongue, which has some interesting talents you can pick from:\n* **Refreshing Taste** \\- After consuming medicine, increases the Critical Hit Chance of the next attack.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the aftermath of a battle with the Hundred-Eyed Daoist Master, showcasing a defeated creature lying on the ground surrounded by greenery and yellow flowers. This scene marks the conclusion of the Spider Sisters' storyline, leading to the acquisition of the Yaoguai Chief entries for the sisters and the Envious Tongue, a piece of the Great Sage's Senses, which offers new talents like \"Refreshing Taste.\""
 }

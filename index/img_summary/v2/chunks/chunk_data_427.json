@@ -1,28 +1,11 @@
 {
-    "chunk_id": 128372501378,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg",
-    "alt_text": "Wukong Pagoda 89.jpg",
-    "position_desc": 12,
-    "img_above_text": "Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).",
-    "img_below_text": "With a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.\n![Wukong Pagoda 90.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Pagoda_90.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).\"\n            - Following Text: \"With a massive blast, the ground will explode in color, dealing a ton of damage if you aren't grounded at the top of your staff, and then the sphere will return to the construct body.\n![Wukong Pagoda 90.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Pagoda_90.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_89.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense moment in a boss battle against \"Captain Wise-Voice\" in *Black Myth: Wukong*. The scene is filled with vibrant red and orange energy as lightning strikes and explosions dominate the environment. The player character, Wukong, is seen elevated on his staff, likely using the \"Pillar Stance\" to avoid the deadly ground-based attack.\n\n2. **Purpose and Narrative Role**:  \nThe image illustrates the climactic phase of the fight where the floor becomes engulfed in criss-crossing lightning strikes, culminating in a massive explosion. It visually emphasizes the importance of timing and strategic use of abilities, such as the Pillar Stance, to evade damage and survive this high-stakes moment in the battle."
+    "chunk_id": 947358928671,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_MiddleHollow_42.jpg",
+    "alt_text": "Wukong MiddleHollow 42.jpg",
+    "position_desc": 3,
+    "img_above_text": "When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.",
+    "img_below_text": "It can also rear back while still crouched on the ground, and extend its head to lunge at you up to two times in a row with reaching claw swipes.\n![Wukong MiddleHollow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_MiddleHollow_39.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.\"\n        - Following Text: \"It can also rear back while still crouched on the ground, and extend its head to lunge at you up to two times in a row with reaching claw swipes.\n![Wukong MiddleHollow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_MiddleHollow_39.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character engaged in combat with the Centipede Guai, a large, armored insect-like enemy in a dark, skeletal-filled cavern. The health bar labeled \"Centipede Guai\" indicates the ongoing battle, with the player preparing to attack while surrounded by environmental details such as webs and bones. The preceding and following text provides strategies for dodging the enemy's attacks and exploiting its vulnerabilities during specific movements."
 }

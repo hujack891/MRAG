@@ -1,28 +1,11 @@
 {
-    "chunk_id": 506487416077,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_92.jpg",
-    "alt_text": "Wukong Thunderclap 92.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.",
-    "img_below_text": "If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.\"\n            - Following Text: \"If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_92.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing an intense battle with the \"Macaque Chief\" boss. The environment is bathed in a fiery red hue, emphasizing the ferocity of the encounter. The preceding text describes the Macaque Chief's ability to fly and execute a fast-diving slash attack, while the following text warns of a subsequent jumping slash attack that creates a cyclone of blade slashes. The image visually captures the chaos and danger of the battle, highlighting the player's need to strategically deflect or dodge the boss's powerful moves."
+    "chunk_id": 525351765160,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Thunderclap_41.jpg",
+    "alt_text": "Wukong Thunderclap 41.jpg",
+    "position_desc": 40,
+    "img_above_text": "Head back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.\nThe darkened room is small, and hides another Overseeing Monk, as well as stairs leading upward to the right.",
+    "img_below_text": "Beware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.\n![Wukong Thunderclap 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Head back to the main building and quickly dart inside to avoid the lightning strikes of the Thunder Rhino Masters on the balcony above.\nThe darkened room is small, and hides another Overseeing Monk, as well as stairs leading upward to the right.\"\n        - Following Text: \"Beware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.\n![Wukong Thunderclap 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character ascending a dimly lit staircase inside a wooden structure. An Overseeing Monk enemy is visible at the top of the stairs, preparing for combat. A large statue, possibly of a deity or monk, is positioned on the right side of the staircase, adding to the atmospheric setting. The image aligns with the preceding and following text, emphasizing caution while dealing with Overseeing Monks using ranged thrust attacks to avoid their counters. HUD elements, including health and abilities, are visible at the bottom of the screen."
 }

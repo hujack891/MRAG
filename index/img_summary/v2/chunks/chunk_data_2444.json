@@ -1,28 +1,11 @@
 {
-    "chunk_id": 186548990731,
-    "source_file": "Rat_Governor_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Rat_Governor_power.png",
-    "alt_text": "Rat Governor power.png",
-    "position_desc": 3,
-    "img_above_text": "The Rat Governor fights like the other enemies of his kind throughout Yellow Wind Ridge. His main go-to attacks include summoning lightning strikes with his staff and using it to beat you around. The location is kind of difficult to traverse, so luring him up further to a flatter area could help if you're having trouble taking him down.\n## Rat Governor Spirit",
-    "img_below_text": "* **Tribute**\n* Equipped Effect: Moderately increases Thunder Damage.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Rat_Governor_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Rat Governor fights like the other enemies of his kind throughout Yellow Wind Ridge. His main go-to attacks include summoning lightning strikes with his staff and using it to beat you around. The location is kind of difficult to traverse, so luring him up further to a flatter area could help if you're having trouble taking him down.\n## Rat Governor Spirit\"\n            - Following Text: \"* **Tribute**\n* Equipped Effect: Moderately increases Thunder Damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Rat_Governor_power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image is a screenshot from a game, showing the player's equipment menu with a focus on the \"Rat Governor\" spirit. This spirit, when equipped, allows the player to take the form of the Rat Governor, enabling them to leap and shoot lightning from their staff to deal Thunder Damage. The equipped effect moderately increases Thunder Damage. The player's stats and resistances are also displayed on the right side of the screen."
+    "chunk_id": 730226526711,
+    "source_file": "Sterness_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg",
+    "alt_text": "Sterness of Stone 3.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Sterness of Stone can be used on the Tallies located in Chapter 2 - Yellow Wind Ridge. They allow you to access the path under the Crouching Tiger Temple, and open the locked doors at Sandgate Village - Valley of Despair and Yellow Sand Formation - Windrest Gate Shrines. You will need to use this with the Keeness of Tiger Key Item, which can be found at the Crouching Tiger Temple upon defeating the Tiger Vanguard.\nThe first Tally is at the Crouching Tiger Temple, within the arena where you fought the Tiger Vanguard.",
+    "img_below_text": "The first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\n![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Sterness of Stone can be used on the Tallies located in Chapter 2 - Yellow Wind Ridge. They allow you to access the path under the Crouching Tiger Temple, and open the locked doors at Sandgate Village - Valley of Despair and Yellow Sand Formation - Windrest Gate Shrines. You will need to use this with the Keeness of Tiger Key Item, which can be found at the Crouching Tiger Temple upon defeating the Tiger Vanguard.\nThe first Tally is at the Crouching Tiger Temple, within the arena where you fought the Tiger Vanguard.\"\n        - Following Text: \"The first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\n![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, where the player character is approaching a large stone statue within a temple-like setting. The area is surrounded by rugged cliffs, traditional architecture, and a pool of red liquid. This location is likely the Crouching Tiger Temple, mentioned in the context as the arena where the Tiger Vanguard was defeated, and where the Keeness of Tiger Key Item can be obtained. The setting highlights the game's atmospheric and detailed environment design."
 }

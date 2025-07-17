@@ -1,28 +1,11 @@
 {
-    "chunk_id": 679224050145,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_YellowFlower_59.jpg",
-    "alt_text": "Wukong YellowFlower 59.jpg",
-    "position_desc": 56,
-    "img_above_text": "Head back to the altar, and pluck what should be the fourth and final talisman. Before you can celebrate this act, a large winged monster with a hand for a face will appear to aggressively punish you for this deed!\n## Boss Fight - Supreme Inspector",
-    "img_below_text": "In truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.\n![Wukong YellowFlower 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 56 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Head back to the altar, and pluck what should be the fourth and final talisman. Before you can celebrate this act, a large winged monster with a hand for a face will appear to aggressively punish you for this deed!\n## Boss Fight - Supreme Inspector\"\n            - Following Text: \"In truth, this is only a prelude to an actual boss fight you won't encounter until much later, but it doesn't make the Supreme Inspector any less intimidating. He's got a ton of attacks that hit extremely hard, and even though you're supposed to \"lose\" this fight, you can end it by taking off 10% of his health.\n![Wukong YellowFlower 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_YellowFlower_60.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_YellowFlower_59.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic encounter between the player character and a formidable boss known as the Supreme Inspector in the game \"Black Myth: Wukong.\" The Supreme Inspector is a large, intimidating creature with wings and a hand for a face, standing in a menacing pose. This scene occurs immediately after the player collects the fourth and final talisman at an altar, triggering the appearance of the boss. The encounter is a prelude to a more significant boss fight later in the game, and although the player is expected to lose, they can end the fight by reducing the boss's health by 10%."
+    "chunk_id": 83976067969,
+    "source_file": "Webbed_Hollow_-_Lower_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_LowerHollow_54.jpg",
+    "alt_text": "Wukong LowerHollow 54.jpg",
+    "position_desc": 51,
+    "img_above_text": "A few moves will be altered slightly, as instead of tearing up the ground with his rake, he can send muddy projectiles your way instead, which seem to have a more more narrow arc to compensate for your diminished evasion.\nHe can also still spin into a tornado (which you should try to sprint away from rather than dodge), and getting hit by it can send you flying. However, he won't get dizzy this time around, so prepare for him to quickly move into his next move rather than standing around for awhile.",
+    "img_below_text": "One new move (and herald of things to come) will often appear after one of his jumping slash attacks. Once he hits the ground, he'll use his own transformation attack to turn into a giant muddy carp, which will quickly roll forward to try and flatten you, but you can dodge under it with some timing.\nFight carefully, and take note of which of his rake attacks swing fast, vs the ones that take time to swing around to dodge at the right times, or have a focus point in reserve to use a Thrust Stance varied combo and get out of his attack range.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"A few moves will be altered slightly, as instead of tearing up the ground with his rake, he can send muddy projectiles your way instead, which seem to have a more more narrow arc to compensate for your diminished evasion.\nHe can also still spin into a tornado (which you should try to sprint away from rather than dodge), and getting hit by it can send you flying. However, he won't get dizzy this time around, so prepare for him to quickly move into his next move rather than standing around for awhile.\"\n        - Following Text: \"One new move (and herald of things to come) will often appear after one of his jumping slash attacks. Once he hits the ground, he'll use his own transformation attack to turn into a giant muddy carp, which will quickly roll forward to try and flatten you, but you can dodge under it with some timing.\nFight carefully, and take note of which of his rake attacks swing fast, vs the ones that take time to swing around to dodge at the right times, or have a focus point in reserve to use a Thrust Stance varied combo and get out of his attack range.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle against \"Zhu Bajie\" in a dark, muddy arena surrounded by rocky terrain. The player character is positioned in the foreground, preparing to engage the large, imposing boss visible in the distance. The context suggests Zhu Bajie employs a mix of physical and transformation attacks, including muddy projectiles, tornado spins, and a carp transformation. The HUD displays health bars, abilities, and combat options, emphasizing strategic gameplay and timing."
 }

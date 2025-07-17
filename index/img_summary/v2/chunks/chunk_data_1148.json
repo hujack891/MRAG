@@ -1,28 +1,11 @@
 {
-    "chunk_id": 708666472276,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Foothills_Walkthrough_%28140%29.png",
-    "alt_text": "Foothills Walkthrough \\(140\\).png",
-    "position_desc": 60,
-    "img_above_text": "Cloudtreading Deer\nOnce the Cloudtreading Deer is down, you'll receive the Lotus Silk Cloudtreaders, and it's time to continue the sweep of the mountain.",
-    "img_below_text": "Head back to the Keeper's Shrine once you've defeated the deer. Fly up high again, and look straight ahead for another rocky part of the cliff. It'll be hard to see from here, but fly straight forward and you should see a distinctive tall white tree. Next to it is a clearing, where you can find the final Poison Chief.\n### Yaoguai Chief - Poison Chief 4",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 60 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Cloudtreading Deer\nOnce the Cloudtreading Deer is down, you'll receive the Lotus Silk Cloudtreaders, and it's time to continue the sweep of the mountain.\"\n            - Following Text: \"Head back to the Keeper's Shrine once you've defeated the deer. Fly up high again, and look straight ahead for another rocky part of the cliff. It'll be hard to see from here, but fly straight forward and you should see a distinctive tall white tree. Next to it is a clearing, where you can find the final Poison Chief.\n### Yaoguai Chief - Poison Chief 4\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Foothills_Walkthrough_%28140%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character flying through a mountainous and forested landscape, using a cloud as a mode of transport. A red arrow points toward a rocky cliff area, indicating the next destination in the game. The scene aligns with the narrative progression of locating the next objective, which involves flying toward a tall white tree near a clearing to find the final Poison Chief.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide for the player, highlighting the direction to proceed after defeating the Cloudtreading Deer. It helps orient the player toward the next key location in the walkthrough, emphasizing exploration and navigation in the game's expansive environment."
+    "chunk_id": 325801336954,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Fright_11.jpg",
+    "alt_text": "Wukong Fright 11.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)\nPalestones, like Pitstones, are durable bulky enemies who will try to spin and bash into you with their sharp quartz shells to deal a lot of damage. Even worse, they’ll shake violently to shoot quartz projectiles out around them, and then target you even at a distance. Luckily, a charged hardy smack can severely wound them, so keep your distance and strafe until charged to cut them down to size.",
+    "img_below_text": "Look at the top of the ridge near where the Palestone emerged, and you can find a chest to open above the doorway you came through that holds 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**. Nearby, you can also find a wooden walkway taking you along the scaffolding that leads to the ranged Bladeblone that was harassing you earlier so you can deal with it.\n![Wukong Fright 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Fright_12.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Fright_10.jpg)\nPalestones, like Pitstones, are durable bulky enemies who will try to spin and bash into you with their sharp quartz shells to deal a lot of damage. Even worse, they’ll shake violently to shoot quartz projectiles out around them, and then target you even at a distance. Luckily, a charged hardy smack can severely wound them, so keep your distance and strafe until charged to cut them down to size.\"\n        - Following Text: \"Look at the top of the ridge near where the Palestone emerged, and you can find a chest to open above the doorway you came through that holds 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**. Nearby, you can also find a wooden walkway taking you along the scaffolding that leads to the ranged Bladeblone that was harassing you earlier so you can deal with it.\n![Wukong Fright 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Fright_12.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character interacting with a chest located near a rocky ridge and a damaged wooden walkway in the game *Black Myth: Wukong*. The chest contains 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**, as mentioned in the following text. The area appears to be part of a progression path where players can explore scaffolding to confront a ranged enemy nearby."
 }

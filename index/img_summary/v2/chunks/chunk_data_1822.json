@@ -1,28 +1,11 @@
 {
-    "chunk_id": 927424287677,
-    "source_file": "Lang-Li-Guhh-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg",
-    "alt_text": "Wukong Sandgate 14.jpg",
-    "position_desc": 2,
-    "img_above_text": "### Lang-Li-Guhh-Baw Mini-Boss Fight and Guide\nThe frog in question is the one you may have seen from the pond earlier, down in a large flooded pit nearby. While he has much in common with the other optional frog boss from Black Wind Mountain, he’s got a few new attacks you’ll need to prepare for.",
-    "img_below_text": "This particular boss is infused with the power of lightning, and like the Rat Governor you faced, he’ll try to shock you repeatedly until you suffer from a debuff that increases all your damage taken. Luckily, the Shrine’s shop sells a few Shock-Quelling Powder if you find yourself struggling to survive from these attacks.\n![Wukong Sandgate 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_15.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"### Lang-Li-Guhh-Baw Mini-Boss Fight and Guide\nThe frog in question is the one you may have seen from the pond earlier, down in a large flooded pit nearby. While he has much in common with the other optional frog boss from Black Wind Mountain, he’s got a few new attacks you’ll need to prepare for.\"\n            - Following Text: \"This particular boss is infused with the power of lightning, and like the Rat Governor you faced, he’ll try to shock you repeatedly until you suffer from a debuff that increases all your damage taken. Luckily, the Shrine’s shop sells a few Shock-Quelling Powder if you find yourself struggling to survive from these attacks.\n![Wukong Sandgate 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing on a wooden platform overlooking a large, lightning-infused frog mini-boss in a flooded pit. The setting is rugged and enclosed, with makeshift wooden fences and rocky terrain. The player appears to be preparing for the encounter, as indicated by the visible HUD elements and the text at the bottom of the screen warning about the dangers of the area.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually introduce the \"Lang-Li-Guhh-Baw\" mini-boss fight in *Black Myth: Wukong*. It highlights the setting of the battle—a perilous, waterlogged pit—and reinforces the preceding and following text's focus on the boss's unique lightning-based attacks and the need for preparation, such as using Shock-Quelling Powder."
+    "chunk_id": 35391410347,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
+    "alt_text": "Mind Core - Crouching Tiger Temple 1.jpg",
+    "position_desc": 12,
+    "img_above_text": "### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.",
+    "img_below_text": "### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.\"\n        - Following Text: \"### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is in a dimly lit temple or shrine area, standing before an incense offering spot. This setting is likely related to the quest for obtaining the ninth Mind Core, which involves interacting with Xu Dog in the Crouching Tiger Temple - Cellar Shrine area."
 }

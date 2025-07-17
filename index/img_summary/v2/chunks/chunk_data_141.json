@@ -1,28 +1,11 @@
 {
-    "chunk_id": 412279883802,
-    "source_file": "Bishui_Golden-Eyed_Beast.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Bishui_Cave_Walkthrough_%2843%29.png",
-    "alt_text": "Bishui Cave Walkthrough \\(43\\).png",
-    "position_desc": 8,
-    "img_above_text": "Head up the stairs in this section and on the right, you'll be able to harvest a Fire Date. On the left, you can find an Awaken Wine Worm, and straight up ahead before the stairs, you'll see a green Wisp on the left.\nBishui Cave Awaken Wine Worm",
-    "img_below_text": "Continue up the stairs, and you'll see the beast leaping around the rooftops. Go along the corridor, where you'll come to a frozen room with a doorway that has fire blocking it.\n![Bishui Cave Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Bishui_Cave_Walkthrough_%2845%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Bishui_Golden-Eyed_Beast.md'.\n\n            Context:\n            - Preceding Text: \"Head up the stairs in this section and on the right, you'll be able to harvest a Fire Date. On the left, you can find an Awaken Wine Worm, and straight up ahead before the stairs, you'll see a green Wisp on the left.\nBishui Cave Awaken Wine Worm\"\n            - Following Text: \"Continue up the stairs, and you'll see the beast leaping around the rooftops. Go along the corridor, where you'll come to a frozen room with a doorway that has fire blocking it.\n![Bishui Cave Walkthrough \\(45\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Bishui_Cave_Walkthrough_%2845%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Bishui_Cave_Walkthrough_%2843%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, cavernous room with a doorway engulfed in flames, surrounded by icy formations and dimly lit by hanging fire sconces. It serves as a visual representation of the \"frozen room with a doorway that has fire blocking it,\" mentioned in the following text. This scene likely marks a pivotal obstacle or challenge in the Bishui Cave section of the game, requiring the player to navigate or overcome the fire barrier to progress."
+    "chunk_id": 116002724921,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Turtle_2.jpg",
+    "alt_text": "Wukong Turtle 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Yoaguai King Boss Fight - Kang-Jin Star\nLike the other Kang-Jin, expect this fight to involve a heaping helping of electricity, and stock up accordingly on Shock-Quelling medicine, or you'll be taking a lot of damage. Though all of her attacks involve lightning, some can come at close range while others come at a distance, meaning there are benefits to either Rock Solid or Cloud Step. Similarly, the new Ring of Fire Spell can help you retreat to a spot to heal, but won't protect against her projectiles, so it may be better to use Immobilize instead.",
+    "img_below_text": "When the battle starts, Kang-Jin Star will often summon small serpent-like electric projectiles to swim around her in the air before sending them your way. Watch her movement to see when she directs them so you'll know when to dodge their quick movement.\nThis boss doesn't move all that much, though she can teleport, meaning you'll be able to close the distance quite fast, but Kang-Jin Star will use a lot of spells to keep you at arms length.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Yoaguai King Boss Fight - Kang-Jin Star\nLike the other Kang-Jin, expect this fight to involve a heaping helping of electricity, and stock up accordingly on Shock-Quelling medicine, or you'll be taking a lot of damage. Though all of her attacks involve lightning, some can come at close range while others come at a distance, meaning there are benefits to either Rock Solid or Cloud Step. Similarly, the new Ring of Fire Spell can help you retreat to a spot to heal, but won't protect against her projectiles, so it may be better to use Immobilize instead.\"\n        - Following Text: \"When the battle starts, Kang-Jin Star will often summon small serpent-like electric projectiles to swim around her in the air before sending them your way. Watch her movement to see when she directs them so you'll know when to dodge their quick movement.\nThis boss doesn't move all that much, though she can teleport, meaning you'll be able to close the distance quite fast, but Kang-Jin Star will use a lot of spells to keep you at arms length.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the start of the Yoaguai King boss fight against Kang-Jin Star in a snowy, rocky environment. The player character, armed with a staff, faces Kang-Jin Star, who is surrounded by electric energy. The interface shows health, abilities, and consumables, suggesting preparation for a challenging battle involving lightning-based attacks."
 }

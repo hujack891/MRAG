@@ -1,28 +1,11 @@
 {
-    "chunk_id": 861137790824,
+    "chunk_id": 769019832352,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Awaken_Wine_Worm_Zhu_Estate.jpg",
     "alt_text": "Awaken Wine Worm Zhu Estate.jpg",
     "position_desc": 6,
     "img_above_text": "## The Estate of the Zhu Awaken Wine Worm\nThe Estate of the Zhu Awaken Wine Worm",
     "img_below_text": "Upon starting Chapter 4, you will find yourself in a small town called the Estate of the Zhu, where you will fight the Second Sister. Explore one of the shacks to the right of the Second Sister fight arena to find the next Awaken Wine Worm.\n## Temple of Yellow Flowers Awaken Wine Worm",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## The Estate of the Zhu Awaken Wine Worm\nThe Estate of the Zhu Awaken Wine Worm\"\n            - Following Text: \"Upon starting Chapter 4, you will find yourself in a small town called the Estate of the Zhu, where you will fight the Second Sister. Explore one of the shacks to the right of the Second Sister fight arena to find the next Awaken Wine Worm.\n## Temple of Yellow Flowers Awaken Wine Worm\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Awaken_Wine_Worm_Zhu_Estate.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game set in a dimly lit shack within the Estate of the Zhu, a location where players encounter the Second Sister in Chapter 4. The player character is seen interacting with barrels, possibly searching for the Awaken Wine Worm, a collectible or quest item mentioned in the context. The image serves to illustrate the in-game environment and the player's exploration to find the Awaken Wine Worm within this specific area."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## The Estate of the Zhu Awaken Wine Worm\nThe Estate of the Zhu Awaken Wine Worm\"\n        - Following Text: \"Upon starting Chapter 4, you will find yourself in a small town called the Estate of the Zhu, where you will fight the Second Sister. Explore one of the shacks to the right of the Second Sister fight arena to find the next Awaken Wine Worm.\n## Temple of Yellow Flowers Awaken Wine Worm\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a player character exploring a dimly lit shack in the Estate of the Zhu, a location from Chapter 4 of the game. The character is positioned near barrels and a decorative window, with glowing particles suggesting an interactive or collectible element nearby. This setting aligns with the guide's mention of finding the next Awaken Wine Worm in a shack near the Second Sister fight arena."
 }

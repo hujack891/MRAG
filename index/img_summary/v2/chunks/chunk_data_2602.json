@@ -1,28 +1,11 @@
 {
-    "chunk_id": 299270264030,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Secrets_Wukong_%282%29.png",
-    "alt_text": "Secrets Wukong \\(2\\).png",
-    "position_desc": 4,
-    "img_above_text": "Shigandang\n## Black Loong",
-    "img_below_text": "When you've got the Loong Scales, you can also access the secret boss in Chapter 2 that you can find behind a sandfall. From Rockrest Flat Keeper's Shrine, go right and up the stairs to find the sandfall. With the Loong Scales in your inventory, you can step right through it into the hidden cave.\nBlack Loong",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Shigandang\n## Black Loong\"\n            - Following Text: \"When you've got the Loong Scales, you can also access the secret boss in Chapter 2 that you can find behind a sandfall. From Rockrest Flat Keeper's Shrine, go right and up the stairs to find the sandfall. With the Loong Scales in your inventory, you can step right through it into the hidden cave.\nBlack Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Secrets_Wukong_%282%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a player character in combat with a large, formidable creature named \"Black Loong.\" The context provided indicates that this encounter is a secret boss fight accessible in Chapter 2 of the game, which can be reached by obtaining the Loong Scales and passing through a sandfall near the Rockrest Flat Keeper's Shrine. The purpose of the image is to illustrate the intense battle with the Black Loong, highlighting a significant and hidden challenge within the game."
+    "chunk_id": 733469901061,
+    "source_file": "Thunderbone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Thunderbone-2.jpg",
+    "alt_text": "Thunderbone-2.jpg",
+    "position_desc": 1,
+    "img_above_text": "Thunderbone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunderbone can be used to craft the Loongwreathe Staff from the Shrine.",
+    "img_below_text": "To obtain the Thunderbone, you need to defeat Black Loong in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need the Loong Scales to be able to trigger this fight.\n![Wukong Fright 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Thunderbone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunderbone can be used to craft the Loongwreathe Staff from the Shrine.\"\n        - Following Text: \"To obtain the Thunderbone, you need to defeat Black Loong in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need the Loong Scales to be able to trigger this fight.\n![Wukong Fright 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the inventory screen from the game *Black Myth: Wukong*, highlighting the \"Thunderbone,\" an epic special crafting material. The item description notes that it emits lightning and holds mysterious potential for future use. The Thunderbone is used for crafting unique gear, such as the Loongwreathe Staff, and is obtained by defeating the Black Loong boss in the game."
 }

@@ -1,6 +1,9 @@
 {
-    "chunk_id": 187912133938,
+    "chunk_id": 109234487596,
+    "source_file": "Key_Items.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/StoneEssence.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image depicts a cluster of glowing blue crystals, which appear to be a collectible or resource within the game. The crystals emit a bright blue light, suggesting they may be important for gameplay, possibly used for crafting, upgrading, or as a source of energy. The environment around the crystals is dark, highlighting their luminescence. There are no visible characters, enemies, or UI components in the image, focusing solely on the crystals themselves."
+    "alt_text": "StoneEssence.jpg",
+    "position_desc": 7,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image shows a cluster of glowing blue crystals. The crystals have a rough, jagged surface and emit a bright, ethereal blue light. They are set against a dark background, which enhances the luminescence of the crystals. The lighting and texture suggest that these crystals might be a significant or collectible item within a video game."
 }

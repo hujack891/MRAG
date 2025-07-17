@@ -1,28 +1,11 @@
 {
-    "chunk_id": 682083136076,
-    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%2814%29.png",
-    "alt_text": "Five Skandhas \\(14\\).png",
-    "position_desc": 8,
-    "img_above_text": "![Five Skandhas \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Five_Skandhas_%284%29.png)\nContinue along the cliff's edge, where you'll see a statue above another cave entrance. Go inside here and up the stairs on the opposite side, where you'll see the monkey you saw near the first Skandha.",
-    "img_below_text": "Once it's run away again, go up the stairs and get the Skandha of Thought from the head it was stood near.\n## How to Find the Skandha of Choice",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Five_Skandhas_%284%29.png)\nContinue along the cliff's edge, where you'll see a statue above another cave entrance. Go inside here and up the stairs on the opposite side, where you'll see the monkey you saw near the first Skandha.\"\n            - Following Text: \"Once it's run away again, go up the stairs and get the Skandha of Thought from the head it was stood near.\n## How to Find the Skandha of Choice\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%2814%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a richly adorned monkey character standing near a large, weathered statue head and skeletal remains in a snowy, rocky environment. This scene is part of a guide for locating the \"Skandha of Thought\" in *Black Myth: Wukong*. The preceding text describes the journey through a cliffside cave to reach this area, while the following text suggests interacting with the statue head to obtain the Skandha of Thought after the monkey character moves away. The image visually highlights the narrative progression and serves as a reference point for players navigating this section of the game."
+    "chunk_id": 191983141853,
+    "source_file": "Jade_Fang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Jade_Fang.jpg",
+    "alt_text": "Jade Fang.jpg",
+    "position_desc": 1,
+    "img_above_text": "Jade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.",
+    "img_below_text": "To obtain the Jade Fang, you need to defeat Whiteclad Noble in Bamboo Grove in Black Wind Mountain.\n![Wukong Bamboo 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Bamboo_42.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Jade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.\"\n        - Following Text: \"To obtain the Jade Fang, you need to defeat Whiteclad Noble in Bamboo Grove in Black Wind Mountain.\n![Wukong Bamboo 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Bamboo_42.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from the video game \"Black Myth: Wukong,\" showcasing the Jade Fang, a special crafting material. It is described as an uncommon item obtained by defeating the Whiteclad Noble, and it can be used for crafting weapons, specifically the Twin Serpents Staff. The Jade Fang is highlighted as a unique material essential for crafting gear unlocked after boss battles."
 }

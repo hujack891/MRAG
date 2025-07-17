@@ -1,28 +1,11 @@
 {
-    "chunk_id": 43043358981,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg",
-    "alt_text": "Wukong MadTiger 4.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)\n* The first location is further back in the Windrest Hamlet. Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses.",
-    "img_below_text": "* The second location on the path down from the sealed stone door where you fought the King of Flowing Sand and his Second Rat Prince son. Head down from the door towards a bridge, but take a right to pass through a ruined building overhang where there’s a long roof-like walkway and several Withering Corpses milling about.\n![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)\n* The first location is further back in the Windrest Hamlet. Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses.\"\n            - Following Text: \"* The second location on the path down from the sealed stone door where you fought the King of Flowing Sand and his Second Rat Prince son. Head down from the door towards a bridge, but take a right to pass through a ruined building overhang where there’s a long roof-like walkway and several Withering Corpses milling about.\n![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the protagonist, Wukong, exploring a desolate, rocky area with dry grass and a weathered wooden structure in the background. He is holding a rattle-like object in his left hand and a staff in his right, suggesting he is prepared for combat or exploration.\n\n2. **Purpose and Narrative Role**:  \nBased on the context, this image illustrates a key exploration point in *Black Myth: Wukong*. It likely represents the path leading to or near the first location in Windrest Hamlet, where players encounter Withering Corpses. The rattle in Wukong's hand may signify a tool or item relevant to the gameplay or narrative progression in this area."
+    "chunk_id": 257478122330,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Thunderclap_46.jpg",
+    "alt_text": "Wukong Thunderclap 46.jpg",
+    "position_desc": 45,
+    "img_above_text": "![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)\nHead back along the bridge and through the balcony to the large doorway, and on the other side you can find a green Wisp to absorb hiding in the corner, and a small ramp leading to a large building at the top of several stone stairs.",
+    "img_below_text": "Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)\nHead back along the bridge and through the balcony to the large doorway, and on the other side you can find a green Wisp to absorb hiding in the corner, and a small ramp leading to a large building at the top of several stone stairs.\"\n        - Following Text: \"Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character, armed with a glowing staff, standing in a snowy courtyard in front of a large, ornate building. A red-circled green Wisp is visible near a stone structure, indicating an interactable collectible. This area is part of a walkthrough section where players explore the surroundings, encounter praying NPCs, and prepare to face Thunder Rhino Masters guarding the building's entrance."
 }

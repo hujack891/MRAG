@@ -1,28 +1,11 @@
 {
-    "chunk_id": 553840207447,
-    "source_file": "Loong_Scales.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
-    "alt_text": "Pungent Flesh Chunk USe.jpg",
-    "position_desc": 1,
-    "img_above_text": "To defeat the First Prince of Flowing Sands, you will need to obtain the Pungent Flesh Chunk from defeating the King of Flowing Sand and Second Rat Prince in Sandgate Village. This is a mandatory boss, so you can't miss them.\nFrom there you can head into the caves below the Valley of Despair Shrine and use the Pungent Flesh Chunk on the cliff edge. The best method to get the boss to destroy the wall is to stand against the wall at a short-to-medium distance from the boss and have it do its slam with its hand. It will do this by turning to its right with its fist along the ground. Alternatively, you can bait the boss' charge and take a hit to ensure the boss hits the wall.",
-    "img_below_text": "Following that you can head through the wall to get the Loong Scales from the chest.\n## Where To Use The Loong Scales in Black Myth: Wukong",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Loong_Scales.md'.\n\n            Context:\n            - Preceding Text: \"To defeat the First Prince of Flowing Sands, you will need to obtain the Pungent Flesh Chunk from defeating the King of Flowing Sand and Second Rat Prince in Sandgate Village. This is a mandatory boss, so you can't miss them.\nFrom there you can head into the caves below the Valley of Despair Shrine and use the Pungent Flesh Chunk on the cliff edge. The best method to get the boss to destroy the wall is to stand against the wall at a short-to-medium distance from the boss and have it do its slam with its hand. It will do this by turning to its right with its fist along the ground. Alternatively, you can bait the boss' charge and take a hit to ensure the boss hits the wall.\"\n            - Following Text: \"Following that you can head through the wall to get the Loong Scales from the chest.\n## Where To Use The Loong Scales in Black Myth: Wukong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Pungent_Flesh_Chunk_USe.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a battle against the First Prince of Flowing Sands, a significant boss character. The context suggests that defeating this boss is crucial for progressing in the game, as it leads to obtaining the Loong Scales. The image captures the intense moment of the fight, emphasizing the player's challenge in overcoming this formidable opponent to advance the storyline."
+    "chunk_id": 897887975036,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Thunderclap_3.jpg",
+    "alt_text": "Wukong Thunderclap 3.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Thunderclap 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg)\nBe sure to turn around from the Shrine and look back toward the main gate, and you should spot a **Treasure Chest** to the right in front of an altar.",
+    "img_below_text": "From the chest, be sure to keep exploring this side a bit farther to find a frozen lake and falls where a number of Censor Holders are wandering around while a lesser Sea Monk watches over them. Remember to watch out for their snow boulder tossing and rapidly extending appendages to find a moment to dodge around strike at them.\nOnce defeated, you can check the statues by the frozen falls to find a green Wisp to absorb.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg)\nBe sure to turn around from the Shrine and look back toward the main gate, and you should spot a **Treasure Chest** to the right in front of an altar.\"\n        - Following Text: \"From the chest, be sure to keep exploring this side a bit farther to find a frozen lake and falls where a number of Censor Holders are wandering around while a lesser Sea Monk watches over them. Remember to watch out for their snow boulder tossing and rapidly extending appendages to find a moment to dodge around strike at them.\nOnce defeated, you can check the statues by the frozen falls to find a green Wisp to absorb.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a frozen lake area within the game *Black Myth: Wukong*. The player character is engaged in a battle against multiple enemies, including Censor Holders and a lesser Sea Monk, while navigating icy terrain. In the background, statues near frozen waterfalls are visible, suggesting the location mentioned in the following text where a green Wisp can be absorbed after defeating the enemies. The image aligns with the walkthrough's guidance to explore this area and overcome challenges."
 }

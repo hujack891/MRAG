@@ -1,28 +1,11 @@
 {
-    "chunk_id": 882850751015,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_106.jpg",
-    "alt_text": "Wukong Pagoda 106.jpg",
-    "position_desc": 102,
-    "img_above_text": "Be sure to check the right corner first to find Tree Pearls to harvest, and a floating green Wisp in the left corner to absorb.\nMaking your way up the snowfield, the winds will die down as the giant titular pagoda of this realm appears to loom up in front of you. This may seem like the main path to advance, but in reality it's more of a teaser.",
-    "img_below_text": "You'll find a large empty field up the slope, leading to a shrouded gate of fog that lets you enter The Great Pagoda. Inside, you can activate a Shrine, but you'll find there's no one in this grand room.\n![Wukong Pagoda 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 102 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Be sure to check the right corner first to find Tree Pearls to harvest, and a floating green Wisp in the left corner to absorb.\nMaking your way up the snowfield, the winds will die down as the giant titular pagoda of this realm appears to loom up in front of you. This may seem like the main path to advance, but in reality it's more of a teaser.\"\n            - Following Text: \"You'll find a large empty field up the slope, leading to a shrouded gate of fog that lets you enter The Great Pagoda. Inside, you can activate a Shrine, but you'll find there's no one in this grand room.\n![Wukong Pagoda 107.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_106.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character approaching a grand, intricately carved gate in a snowy landscape. This gate leads to The Great Pagoda, a significant location in the realm. The preceding text describes the journey through a snowfield towards the pagoda, while the following text mentions entering the pagoda through a shrouded gate of fog and finding an empty grand room with a Shrine inside. The image serves to illustrate the moment of arrival at the imposing entrance of The Great Pagoda, emphasizing the transition from the snowy exterior to the mysterious interior."
+    "chunk_id": 395908489052,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_32.jpg",
+    "alt_text": "Wukong Snowhill 32.jpg",
+    "position_desc": 31,
+    "img_above_text": "When at last you reach your destination and return to monkey form, you'll find yourself at the foot of the Mirrormere Shrine. The Keeper of the New West will bid you to plunder the small temple on the frozen lake to find the next Sense of the Great Sage.\nBefore you do that however, there's a couple things to check out before crossing the giant frozen lake.",
+    "img_below_text": "First, start by exploring the area to the right when facing the lakeshore. You'll find assorted materials to harvest here, including **Fire Bellflowers** and a **Celestial Pear** tree in the far corner. Be on the lookout for a few scattered Frozen Corpses as you explore, and a Cyan Bat or two hiding up in the trees.\nThough the massive frozen lake expanse is largely empty, there is one thing worth stepping onto the ice for while on the right side. Head around a section of impassible rocks when stepping onto the ice, and run around past it to find a small alcove section with a small tree along another shore on the right.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When at last you reach your destination and return to monkey form, you'll find yourself at the foot of the Mirrormere Shrine. The Keeper of the New West will bid you to plunder the small temple on the frozen lake to find the next Sense of the Great Sage.\nBefore you do that however, there's a couple things to check out before crossing the giant frozen lake.\"\n        - Following Text: \"First, start by exploring the area to the right when facing the lakeshore. You'll find assorted materials to harvest here, including **Fire Bellflowers** and a **Celestial Pear** tree in the far corner. Be on the lookout for a few scattered Frozen Corpses as you explore, and a Cyan Bat or two hiding up in the trees.\nThough the massive frozen lake expanse is largely empty, there is one thing worth stepping onto the ice for while on the right side. Head around a section of impassible rocks when stepping onto the ice, and run around past it to find a small alcove section with a small tree along another shore on the right.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a player character exploring a snowy area near the Mirrormere Shrine, as described in the walkthrough. The player has just harvested **Fire Bellflower Seeds**, with a notification confirming the collection of two Fire Bellflowers. The setting features rugged, snow-covered terrain with scattered vegetation and a prominent tree, aligning with the guide's suggestion to explore the lakeshore area for materials before crossing the frozen lake."
 }

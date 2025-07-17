@@ -1,28 +1,11 @@
 {
-    "chunk_id": 779082985960,
-    "source_file": "Celestial_Registry_Tablet.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_PurpleCloud_30.jpg",
-    "alt_text": "Wukong PurpleCloud 30.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Black Myth: Wukong Celestial Registry Tablet Location\nThe Celestial Reistry Tablet is found in the secret Purple Cloud Mountain area of The Webbed Hollow. It is in a small gazebo in the initial area of the secret location.",
-    "img_below_text": "A full guide on how to access Purple Cloud Mountain can be found in the video below:\nFor even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Celestial_Registry_Tablet.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Celestial Registry Tablet Location\nThe Celestial Reistry Tablet is found in the secret Purple Cloud Mountain area of The Webbed Hollow. It is in a small gazebo in the initial area of the secret location.\"\n            - Following Text: \"A full guide on how to access Purple Cloud Mountain can be found in the video below:\nFor even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_PurpleCloud_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character in *Black Myth: Wukong* approaching a small gazebo in a forested area, identified as part of the secret Purple Cloud Mountain location in The Webbed Hollow. A red circle highlights the Celestial Registry Tablet's location within the gazebo.\n\n2. **Purpose and Narrative Role**:  \nThe image serves as a visual guide to help players locate the Celestial Registry Tablet, a collectible item in the game. It complements the preceding text by showing the exact in-game setting and the highlighted tablet, aiding players in navigating the secret area."
+    "chunk_id": 886329301702,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Guanyin_5.jpg",
+    "alt_text": "Wukong Guanyin 5.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Guanyin 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Guanyin_6.jpg)\nAs previously mentioned, Jinchi shares a lot of moves with the Wandering Wight. He can perform one or several spinning attacks that can be hard to judge the range of their attack, and can combo them into other moves like one or two stomp attacks, or a frighteningly fast jumping stomp attack.",
+    "img_below_text": "He can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.\n![Wukong Guanyin 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_Guanyin_11.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Guanyin 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Guanyin_6.jpg)\nAs previously mentioned, Jinchi shares a lot of moves with the Wandering Wight. He can perform one or several spinning attacks that can be hard to judge the range of their attack, and can combo them into other moves like one or two stomp attacks, or a frighteningly fast jumping stomp attack.\"\n        - Following Text: \"He can also perform the palm blast wave after charging up, only Jinchi will also summon all of the wandering spirits to increase the power of his blast and delay its attack, which you’ll really want to be careful to dodge at the right time.\n![Wukong Guanyin 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_Guanyin_11.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against \"Elder Jinchi\" in *Black Myth: Wukong*. The player character is engaged in combat within a dark, atmospheric arena surrounded by wandering spirits. Jinchi appears to be executing a powerful attack, with sparks and energy effects visible. The preceding and following text describe Jinchi's moves, including spinning attacks, stomps, and a charged palm blast wave enhanced by summoned spirits, emphasizing the need for precise dodging during the encounter."
 }

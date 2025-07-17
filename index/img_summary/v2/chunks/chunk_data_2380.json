@@ -1,28 +1,11 @@
 {
-    "chunk_id": 389141888030,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg",
-    "alt_text": "Wukong Pagoda 109.jpg",
-    "position_desc": 105,
-    "img_above_text": "![Wukong Pagoda 108.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg)\nHead up the slope full of Frozen Corpses to the large forested area full of rocks. A golden trail will soon appear leading straight ahead and up a broken stairway to the Warding Temple on the hill, but there's an optional area to consider first off to the left.",
-    "img_below_text": "Exploring this large rock-filled forest, you'll find a lot of Frozen Corpses that will come to lift, and more than a few plants to harvest as well.\n![Wukong Pagoda 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_110.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 105 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 108.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg)\nHead up the slope full of Frozen Corpses to the large forested area full of rocks. A golden trail will soon appear leading straight ahead and up a broken stairway to the Warding Temple on the hill, but there's an optional area to consider first off to the left.\"\n            - Following Text: \"Exploring this large rock-filled forest, you'll find a lot of Frozen Corpses that will come to lift, and more than a few plants to harvest as well.\n![Wukong Pagoda 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_110.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_109.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character facing off against a large, menacing Frozen Corpse in a snowy, rock-filled forest. This encounter occurs in an optional area off to the left of the main path leading to the Warding Temple. The surrounding environment is covered in snow, with large boulders and sparse vegetation. The image serves to illustrate the challenging combat and exploration elements within this optional area, as described in the preceding and following text."
+    "chunk_id": 583989369580,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Snowhill_35.jpg",
+    "alt_text": "Wukong Snowhill 35.jpg",
+    "position_desc": 34,
+    "img_above_text": "Returning to the Mirrormere Shrine, this time go left when facing the shore. There's a few more plants to harvest, but the bigger attraction here is a larger group of Frozen Corpses in a field leading to the shore. You'll need to rouse and defeat the entire group, and doing so will earn you an exclusive reward - the **Mani Band curio** , which can help you out when fighting frost-inflicting enemies.\nYou'll also find a small **Treasure Chest** nearby, and you can loot it for assorted items that may include a Mind Core and possibly Refined Iron Sand.",
+    "img_below_text": "Finally, head to the right of where all the Frozen Corpses were gathered to find a large gnarled tree hanging over the frozen water, and a **Meditation Spot** below it you can rest at for a free Skill Point Spark.\nThe Shade, Mirrormere Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Returning to the Mirrormere Shrine, this time go left when facing the shore. There's a few more plants to harvest, but the bigger attraction here is a larger group of Frozen Corpses in a field leading to the shore. You'll need to rouse and defeat the entire group, and doing so will earn you an exclusive reward - the **Mani Band curio** , which can help you out when fighting frost-inflicting enemies.\nYou'll also find a small **Treasure Chest** nearby, and you can loot it for assorted items that may include a Mind Core and possibly Refined Iron Sand.\"\n        - Following Text: \"Finally, head to the right of where all the Frozen Corpses were gathered to find a large gnarled tree hanging over the frozen water, and a **Meditation Spot** below it you can rest at for a free Skill Point Spark.\nThe Shade, Mirrormere Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy landscape with a character standing in the foreground, facing towards a shrine across a frozen lake. The preceding text indicates that the player has just defeated a group of Frozen Corpses and obtained the Mani Band curio, while the following text directs the player to a Meditation Spot near a large gnarled tree for a Skill Point Spark. The image likely serves to illustrate the location of the shrine and the Meditation Spot in the game."
 }

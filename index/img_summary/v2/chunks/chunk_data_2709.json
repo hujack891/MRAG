@@ -1,28 +1,11 @@
 {
-    "chunk_id": 652354655956,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Snow_Fox_Questline_%288%29.png",
-    "alt_text": "Snow Fox Questline \\(8\\).png",
-    "position_desc": 4,
-    "img_above_text": "### Returning to Fox Form\nMuch like previous transformations, if you're in this state and are hit, you'll automatically return back to your original form. The difference with this instance, however, is that you can rest at a Keeper's Shrine and then use the Snow Fox Brush from your inventory to return to fox form.",
-    "img_below_text": "Although you're automatically thrown into the fox form, we'd recommend **not worrying about it until you are ready to explore the New Thunderclap Temple.** To get there, you'll need to follow the wooden paths behind the body and turn right when you see the stone figures.\nKeep following this snowy path through the archways. You'll go past a red one with torches, where you'll take the path around to the left and end up at the Longevity Road Keeper's Shrine.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"### Returning to Fox Form\nMuch like previous transformations, if you're in this state and are hit, you'll automatically return back to your original form. The difference with this instance, however, is that you can rest at a Keeper's Shrine and then use the Snow Fox Brush from your inventory to return to fox form.\"\n            - Following Text: \"Although you're automatically thrown into the fox form, we'd recommend **not worrying about it until you are ready to explore the New Thunderclap Temple.** To get there, you'll need to follow the wooden paths behind the body and turn right when you see the stone figures.\nKeep following this snowy path through the archways. You'll go past a red one with torches, where you'll take the path around to the left and end up at the Longevity Road Keeper's Shrine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Snow_Fox_Questline_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a snowy forest path with a character in traditional attire holding a staff, following a path marked by an arrow. The path leads towards a stone figure in the distance, suggesting a direction or destination within the game environment.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves as a visual guide for players to navigate through the snowy forest towards the New Thunderclap Temple. It illustrates the specific path to follow, emphasizing the importance of the stone figures and the snowy path mentioned in the text. This visual aid helps players understand the route they need to take to progress in the Snow Fox Questline."
+    "chunk_id": 205938288681,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Longevity_15.jpg",
+    "alt_text": "Wukong Longevity 15.jpg",
+    "position_desc": 111,
+    "img_above_text": "![Wukong Longevity 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Longevity_14.jpg)\nIf you want something to pair with that worm, keep moving along the lower path as it goes up some stairs, and you'll eventually reach the end of this loop, where a small tree stands at the end of a large field with a Luojia Fragrant Vine. However, you'll need to defeat not one but two Falcon Fan-Makers to claim it!",
+    "img_below_text": "Defeating the pair is no easy attacks when you consider their hit-and-run tactics, so you may need to even the odds with A Pluck of Many Spell, or use a combination of Cloud Step and Immobilize to isolate and focus fire one of the Falcons, and then take out the second.\nLongevity Road Luojia Fragrant Vine",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Longevity_14.jpg)\nIf you want something to pair with that worm, keep moving along the lower path as it goes up some stairs, and you'll eventually reach the end of this loop, where a small tree stands at the end of a large field with a Luojia Fragrant Vine. However, you'll need to defeat not one but two Falcon Fan-Makers to claim it!\"\n        - Following Text: \"Defeating the pair is no easy attacks when you consider their hit-and-run tactics, so you may need to even the odds with A Pluck of Many Spell, or use a combination of Cloud Step and Immobilize to isolate and focus fire one of the Falcons, and then take out the second.\nLongevity Road Luojia Fragrant Vine\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game \"Black Myth: Wukong,\" where the player character is engaged in battle with two Falcon Fan-Makers. This encounter is crucial for obtaining the Luojia Fragrant Vine located at the end of a path. The text suggests using strategic spells and maneuvers, like A Pluck of Many Spell and Cloud Step, to overcome the enemies' hit-and-run tactics."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 971126985916,
-    "source_file": "How_to_Unlock_the_Chapter_1_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/How_To_Ring_The_Three_Bells_%284%29.png",
-    "alt_text": "How To Ring The Three Bells \\(4\\).png",
-    "position_desc": 10,
-    "img_above_text": "## Bell 3\nThe final bell can be found in the Marsh of the White Mist. After the fight against the Whiteclad Noble, don’t go toward the building that leads to the Black Wind Cave.",
-    "img_below_text": "Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'How_to_Unlock_the_Chapter_1_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"## Bell 3\nThe final bell can be found in the Marsh of the White Mist. After the fight against the Whiteclad Noble, don’t go toward the building that leads to the Black Wind Cave.\"\n            - Following Text: \"Instead, go to the left and through the small cave to find the final bell. It'll be at the end of the path, where a wolf hangs from the nearby tree.\n## How to Enter the Secret Area in Chapter 1\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/How_To_Ring_The_Three_Bells_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing in a misty marsh, facing a small cave entrance highlighted by a red arrow. This visual serves as a guide to direct players toward the path leading to the final bell in the Marsh of the White Mist, as described in the preceding and following text. The cave is the key location to progress toward unlocking the Chapter 1 secret area."
+    "chunk_id": 175330037586,
+    "source_file": "Key_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Black-myth-wukong-skandha-of-consciousness.jpg",
+    "alt_text": "Black-myth-wukong-skandha-of-consciousness.jpg",
+    "position_desc": 24,
+    "img_above_text": "![Black-myth-wukong-violet-hail.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Black-myth-wukong-violet-hail.jpg)  9 | Violet Hail (Key Item)| Rare | \"The remains of the deceased Daoists of Petal Fall Hamlet may be just what Daoist Mi outside the temple is seeking.\" | Found in Purple Cloud Mountain in The Webbed Hollow by Petalfall Hamlet, after talking with Daoist Mi and killing an enemy nearby Item is a random drop from enemies | • Give to Daoist Mi in Purple Cloud Mountain in The Webbed Hollow to fight him | Violet Hail (Key Item)\n![Black-myth-wukong-blood-stained-needle.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Black-myth-wukong-blood-stained-needle.jpg)  10 | Blood Stained Needle| Legendary | \"With our hearts entwined, even after a century together, we still yearn for more time.\" | Defeat Zhu Bajie for a second time in The Lower Hollow in The Webbed Hollow| • Used automatically after fighting The Duskveil in The Webbed Hollow| Blood Stained Needle",
+    "img_below_text": "Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-violet-hail.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Black-myth-wukong-violet-hail.jpg)  9 | Violet Hail (Key Item)| Rare | \"The remains of the deceased Daoists of Petal Fall Hamlet may be just what Daoist Mi outside the temple is seeking.\" | Found in Purple Cloud Mountain in The Webbed Hollow by Petalfall Hamlet, after talking with Daoist Mi and killing an enemy nearby Item is a random drop from enemies | • Give to Daoist Mi in Purple Cloud Mountain in The Webbed Hollow to fight him | Violet Hail (Key Item)\n![Black-myth-wukong-blood-stained-needle.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Black-myth-wukong-blood-stained-needle.jpg)  10 | Blood Stained Needle| Legendary | \"With our hearts entwined, even after a century together, we still yearn for more time.\" | Defeat Zhu Bajie for a second time in The Lower Hollow in The Webbed Hollow| • Used automatically after fighting The Duskveil in The Webbed Hollow| Blood Stained Needle\"\n        - Following Text: \"Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness\n### From IGN Shopping: Our Favorite Gaming Accessory Right Now\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Skandha of Consciousness, a key item in the video game \"Black Myth: Wukong.\" This item is dropped by a boss and is used alongside other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge."
 }

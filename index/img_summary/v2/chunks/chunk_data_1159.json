@@ -1,28 +1,11 @@
 {
-    "chunk_id": 65564609774,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png",
-    "alt_text": "Foothills Walkthrough \\(95\\).png",
-    "position_desc": 71,
-    "img_above_text": "![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.",
-    "img_below_text": "It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 71 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(78\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Foothills_Walkthrough_%2878%29.png)\nIt will then start to use one blade at a time, and start to slash away. Occasionally, this will see the mantis spin around in a circle with the blades doing the same.\"\n            - Following Text: \"It's only when the mantis' health bar drops to around 70% that the fight changes drastically. A cutscene will play and the mantis will sharpen its blades, then dip them in the liquid, pulling them out so that they're now red.\n![Foothills Walkthrough \\(97\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Foothills_Walkthrough_%2897%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Foothills_Walkthrough_%2895%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a menacing mantis-like creature, standing upright with its blade-like arms extended, exuding an aura of danger. The creature appears to be in a combat-ready stance, likely during a boss fight in the game *Black Myth: Wukong*. The preceding text describes its attack patterns, including spinning slashes, while the following text hints at an upcoming transformation in the fight, where the mantis sharpens its blades and enhances them with a red liquid. This image likely represents the creature in its initial combat phase, emphasizing its threatening presence."
+    "chunk_id": 11858973681,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
+    "alt_text": "Wukong Fright 22.jpg",
+    "position_desc": 23,
+    "img_above_text": "![Wukong Fright 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_21.jpg)\nAs you leave the crevice with the Man-in-Stone, stick to the left wall going up to find several paths leading toward the large cave. Halfway up this sloping path just above where the Man-in-Stone is in the crevice below, you’ll find another of the large stone heads chanting, and can claim it’s Buddha’s Eyeball.",
+    "img_below_text": "Now take one of the side paths to return to the large cave entrance, and look for a tunnel with some torches and a faint green light. The dark cave tunnel holds a green Wisp you can absorb to refill a bit of your Gourd, but beware, as the place is the perfect ambush spot.\n![Wukong Fright 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Fright_23.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_21.jpg)\nAs you leave the crevice with the Man-in-Stone, stick to the left wall going up to find several paths leading toward the large cave. Halfway up this sloping path just above where the Man-in-Stone is in the crevice below, you’ll find another of the large stone heads chanting, and can claim it’s Buddha’s Eyeball.\"\n        - Following Text: \"Now take one of the side paths to return to the large cave entrance, and look for a tunnel with some torches and a faint green light. The dark cave tunnel holds a green Wisp you can absorb to refill a bit of your Gourd, but beware, as the place is the perfect ambush spot.\n![Wukong Fright 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Fright_23.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character holding a staff and standing near the entrance of a dark cave. The cave is illuminated by torches and faint green lights, likely representing a green Wisp mentioned in the guide. The setting suggests a cautious approach, as the guide warns of a potential ambush in this area. The player’s HUD and abilities are visible, indicating gameplay readiness."
 }

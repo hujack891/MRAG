@@ -1,28 +1,11 @@
 {
-    "chunk_id": 54871862815,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
-    "alt_text": "Wukong MadTiger 7.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.",
-    "img_below_text": "Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Mini-Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.\"\n            - Following Text: \"Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Mini-Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, ominous well surrounded by skeletal remains in a desolate field, hinting at danger and death. The player character stands at the edge of the well, with an interactive prompt to \"Jump In,\" signaling a pivotal moment in the narrative. Based on the context, this area is tied to the rescue of the Horse Guai and the Earth Wolf fight, and using the Rattle-Drum here summons a spirit that invites the player to descend into the well, setting the stage for an encounter with a hostile entity below."
+    "chunk_id": 224391491878,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Wukong_Thunderclap_48.jpg",
+    "alt_text": "Wukong Thunderclap 48.jpg",
+    "position_desc": 47,
+    "img_above_text": "The monk who killed the Fox Guai you encountered in the Forest of Felicity, Non-Void is one of the disciples of Yellowbrow, and has his own set of peculiar moves. While he doesn't deal elemental damage, he can be a hard target to pin down due to his ability to become non-corporeal, causing some of your attacks to pass right through him!\nThe key to defeating this foe is to learn his attacks, and more importantly learning which parts leave him vulnerable to counters, and when you won't able to hurt him. Whenever he becomes transparent, avoid using any moves like Immobilize as you'll just waste their cooldowns and mana.",
+    "img_below_text": "Instead, watch his attacks carefully. His most basic attack will begin when he draws his arm in before lashing out with a straight jab with his long claws. Ignore the urge to retaliate, and instead wait a moment for him to follow-up with an incorporeal backhand followed by a blazing palm strike.\nYou'll have two options to counter this move: by dodging the third and final strike, you can use this time to capitalize on the end of his combo with Immobilize or Spirit Attacks to send him stumbling.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The monk who killed the Fox Guai you encountered in the Forest of Felicity, Non-Void is one of the disciples of Yellowbrow, and has his own set of peculiar moves. While he doesn't deal elemental damage, he can be a hard target to pin down due to his ability to become non-corporeal, causing some of your attacks to pass right through him!\nThe key to defeating this foe is to learn his attacks, and more importantly learning which parts leave him vulnerable to counters, and when you won't able to hurt him. Whenever he becomes transparent, avoid using any moves like Immobilize as you'll just waste their cooldowns and mana.\"\n        - Following Text: \"Instead, watch his attacks carefully. His most basic attack will begin when he draws his arm in before lashing out with a straight jab with his long claws. Ignore the urge to retaliate, and instead wait a moment for him to follow-up with an incorporeal backhand followed by a blazing palm strike.\nYou'll have two options to counter this move: by dodging the third and final strike, you can use this time to capitalize on the end of his combo with Immobilize or Spirit Attacks to send him stumbling.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle against \"Non-Void,\" a monk-like enemy in a richly detailed temple environment. Non-Void is shown in a semi-transparent state, emphasizing his ability to become incorporeal, which makes some attacks ineffective. The player character is armed with a spear and appears mid-combat, surrounded by scattered debris and glowing effects. The preceding and following text explain strategies for countering Non-Void's moves, highlighting the importance of timing and avoiding attacks while he is incorporeal. The image serves to illustrate the encounter and mechanics described in the guide."
 }

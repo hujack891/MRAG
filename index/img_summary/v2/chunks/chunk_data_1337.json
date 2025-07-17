@@ -1,28 +1,11 @@
 {
-    "chunk_id": 8456135250,
-    "source_file": "Fungiwoman_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Funghi_Woman.jpg",
-    "alt_text": "Funghi Woman.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Fungiwoman Fight\n* Fungiwoman Spirit",
-    "img_below_text": "## Fungiwoman Location\nThe Fungiwoman can be found near the Temple of the Yellow Flowers. From the temple entrance, take the path on the left and head up the stairs, taking out enemies as you go. You will come across a small, concrete clearing with two Snake Herbalists and a couple of centipedes to defeat.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fungiwoman_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Fungiwoman Fight\n* Fungiwoman Spirit\"\n            - Following Text: \"## Fungiwoman Location\nThe Fungiwoman can be found near the Temple of the Yellow Flowers. From the temple entrance, take the path on the left and head up the stairs, taking out enemies as you go. You will come across a small, concrete clearing with two Snake Herbalists and a couple of centipedes to defeat.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Funghi_Woman.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene featuring a confrontation with the \"Fungiwoman,\" a mysterious and hostile creature with fungal growths and a glowing, spore-like head. The player character is armed with a staff and appears to be engaging in combat, as indicated by the health bar labeled \"Fungiwoman\" and the visible combat interface. This encounter aligns with the preceding text's reference to the \"Fungiwoman Spirit,\" suggesting a thematic or narrative connection to mystical or supernatural elements. The following text provides context for locating the Fungiwoman near the Temple of the Yellow Flowers, emphasizing exploration and combat challenges in the surrounding environment."
+    "chunk_id": 303323571539,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg",
+    "alt_text": "Wukong Martial 3.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Martial 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Martial_2.jpg)\nTo start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.",
+    "img_below_text": "A second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.\n![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Martial 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Martial_2.jpg)\nTo start, he can spin his flaming chakram in front of him, using it as portal to open a quick fiery beam in your direction, which will require a quick dodge to the side to avoid.\"\n        - Following Text: \"A second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.\n![Wukong Martial 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" featuring a battle with an enemy named \"Green-Capped Martialist.\" The player character is engaged in combat, facing a series of fiery projectiles likely launched by the enemy's chakram attack. This image illustrates a moment where the player must dodge these projectiles, as described in the accompanying text."
 }

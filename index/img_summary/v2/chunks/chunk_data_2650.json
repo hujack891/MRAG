@@ -1,28 +1,11 @@
 {
-    "chunk_id": 436479963650,
-    "source_file": "Snake_Herbalist_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Snake_Herbalist_Location_Black_Myth_Wukong.jpg",
-    "alt_text": "Snake Herbalist Location Black Myth Wukong.jpg",
-    "position_desc": 2,
-    "img_above_text": "The Snake Herbalist is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\nOnce you're at Purple Cloud Mountain, head down the path, past the snake, and over the bridge. Turn left and run up the hill to find the Snake Herbalist.",
-    "img_below_text": "## Snake Herbalist Fight\nThe Snake Herbalist fights like all other enemies of its type. Its main weapons are a sharp spear and its long neck that it can use to strike you at very high speeds. The Snake Herbalist pulls its neck all the way back before launching this attack, giving you a visual indication of when to dodge.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snake_Herbalist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Snake Herbalist is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\nOnce you're at Purple Cloud Mountain, head down the path, past the snake, and over the bridge. Turn left and run up the hill to find the Snake Herbalist.\"\n            - Following Text: \"## Snake Herbalist Fight\nThe Snake Herbalist fights like all other enemies of its type. Its main weapons are a sharp spear and its long neck that it can use to strike you at very high speeds. The Snake Herbalist pulls its neck all the way back before launching this attack, giving you a visual indication of when to dodge.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Snake_Herbalist_Location_Black_Myth_Wukong.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing on a forest path in a game environment, with an arrow pointing towards a hill in the background. This scene is likely guiding the player towards the location of the Snake Herbalist at Purple Cloud Mountain, as described in the preceding text. The image serves to visually indicate the direction the player needs to take to find the Snake Herbalist for the upcoming fight."
+    "chunk_id": 592852544915,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_Mindcliff_13.jpg",
+    "alt_text": "Wukong Mindcliff 13.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Mindcliff 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_12.jpg)\nTake a right at the end and keep following the narrow path to find a third Monk Supporter and Golden Lotus Guai in front of another cave entrance.",
+    "img_below_text": "It's here you'll find one last Monk Supporter guarding a **Treasure Chest** , but this is no ordinary chest, as it contains the **Fiery Gourd**! Though it cannot be upgraded, drinking from it will help keep any chill effects at bay, and also increase your maximum Stamina. As an added bonus, and it can also hold two different Soaks!\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Mindcliff 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_12.jpg)\nTake a right at the end and keep following the narrow path to find a third Monk Supporter and Golden Lotus Guai in front of another cave entrance.\"\n        - Following Text: \"It's here you'll find one last Monk Supporter guarding a **Treasure Chest** , but this is no ordinary chest, as it contains the **Fiery Gourd**! Though it cannot be upgraded, drinking from it will help keep any chill effects at bay, and also increase your maximum Stamina. As an added bonus, and it can also hold two different Soaks!\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the game *Black Myth: Wukong*, showing the protagonist navigating a dimly lit cave. The player is approaching a Golden Lotus Guai enemy near a cave entrance, as indicated in the preceding text. The red-circled area highlights a significant point of interest, possibly marking the location of the **Treasure Chest** mentioned in the following text, which contains the **Fiery Gourd**. The interface displays the player's abilities and resources, emphasizing preparation for the encounter."
 }

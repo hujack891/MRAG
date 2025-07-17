@@ -1,28 +1,11 @@
 {
-    "chunk_id": 419465888600,
-    "source_file": "Elder_Amourworm.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_7.jpg",
-    "alt_text": "Wukong MiddleHollow 7.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Elder Amourworm Boss Fight and Guide\nWhile not a particularly challenging fight, the Elder Amourworm is a hefty foe that makes up for its lack of abilities with a few dirty tricks you'll need to be ready for, and also be stocked up on Antimiasma Medicine.",
-    "img_below_text": "The Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.\n![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Elder_Amourworm.md'.\n\n            Context:\n            - Preceding Text: \"## Elder Amourworm Boss Fight and Guide\nWhile not a particularly challenging fight, the Elder Amourworm is a hefty foe that makes up for its lack of abilities with a few dirty tricks you'll need to be ready for, and also be stocked up on Antimiasma Medicine.\"\n            - Following Text: \"The Elder Amourworm sports a large creepy mask that you can see when it rears up, and it will use it to shoot out sticky threads in frontal arc. If you get caught, you'll have to mash to get out before being charged and attacked while unable to defend yourself.\n![Wukong MiddleHollow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_8.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Elder Amourworm boss fight from *Black Myth: Wukong*. The scene showcases the worm-like creature rearing up to attack, surrounded by a dark, eerie environment filled with egg-like structures. Sticky threads are visible shooting out in a frontal arc, highlighting one of its key attack mechanics described in the guide. The player character is engaged in combat, emphasizing the need for strategy and preparation, such as using Antimiasma Medicine to counter the boss's tricks."
+    "chunk_id": 44737807682,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Field_Fire_Walkthrough_%2810%29.png",
+    "alt_text": "Field Fire Walkthrough \\(10\\).png",
+    "position_desc": 9,
+    "img_above_text": "* **Use Cloudstep.** On the longer sections, where it seems like a mad dash to try and reach the next point, use Cloudstep to cover the ground quicker.\n* **Whenever you can, back enemies into the path of the ball.** They're not immune to the attacks, so it can make light work of them saving you the hassle.",
+    "img_below_text": "In the first section, go right and into the dip with the Searing-Fire. Wait until the ball rolls past, then dash forward and to the left, where a Flamling will appear.\n![Field Fire Walkthrough \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Field_Fire_Walkthrough_%2813%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Use Cloudstep.** On the longer sections, where it seems like a mad dash to try and reach the next point, use Cloudstep to cover the ground quicker.\n* **Whenever you can, back enemies into the path of the ball.** They're not immune to the attacks, so it can make light work of them saving you the hassle.\"\n        - Following Text: \"In the first section, go right and into the dip with the Searing-Fire. Wait until the ball rolls past, then dash forward and to the left, where a Flamling will appear.\n![Field Fire Walkthrough \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Field_Fire_Walkthrough_%2813%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky landscape with a player character standing in the foreground, equipped with a staff-like weapon. A glowing orange object resembling Searing-Fire is visible on the right, while a large, ornate rolling ball is positioned in the background. A red arrow indicates the suggested path forward, guiding the player to move toward the left side of the terrain. This scene aligns with the walkthrough instructions, which advise navigating the area strategically, avoiding hazards like the rolling ball, and preparing for an encounter with a Flamling enemy."
 }

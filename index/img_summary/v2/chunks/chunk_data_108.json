@@ -1,28 +1,11 @@
 {
-    "chunk_id": 408706663544,
-    "source_file": "Baw-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Bamboo_18.jpg",
-    "alt_text": "Wukong Bamboo 18.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Bamboo 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Bamboo_17.jpg)\nBe wary when dodging around to his back, or when you see him reposition himself by hopping and turning his body. Instead of landing from the hop, he’ll spring out his legs with surprising reach to perform a frog leg kick with massive power, and can use it twice in a row!",
-    "img_below_text": "Finally, he can unleash a tongue attack that sweeps back and forth with a large reach several times, and will require you to dodge back and forth out of its path — or use your Immobilize to stop him in the act. Using your Red Tide spell to transform can also help out during these attacks as he’ll be vulnerable to getting hit from the side.\n![Wukong Bamboo 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Bamboo_19.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Baw-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Bamboo_17.jpg)\nBe wary when dodging around to his back, or when you see him reposition himself by hopping and turning his body. Instead of landing from the hop, he’ll spring out his legs with surprising reach to perform a frog leg kick with massive power, and can use it twice in a row!\"\n            - Following Text: \"Finally, he can unleash a tongue attack that sweeps back and forth with a large reach several times, and will require you to dodge back and forth out of its path — or use your Immobilize to stop him in the act. Using your Red Tide spell to transform can also help out during these attacks as he’ll be vulnerable to getting hit from the side.\n![Wukong Bamboo 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Bamboo_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Bamboo_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a gameplay moment from *Black Myth: Wukong*, showcasing a battle against a frog-like enemy named \"Baw-Li-Guhh-Lang.\" The enemy is mid-attack, extending its tongue in a sweeping motion, which aligns with the following text describing its tongue attack with large reach. The on-screen UI highlights player abilities, including \"Moon Dance\" and \"Moon Chase,\" suggesting strategies for countering the enemy's powerful moves. The preceding text warns of the frog's leg kick and repositioning tactics, emphasizing the need for precise dodging and timing during combat. This image serves to illustrate the dynamic and challenging nature of the encounter."
+    "chunk_id": 235376502808,
+    "source_file": "Baw-Li-Guhh-Lang_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Spirit_Power_Baw_Li_Guhh_Lang.jpg",
+    "alt_text": "Spirit Power Baw Li Guhh Lang.jpg",
+    "position_desc": 3,
+    "img_above_text": "The main thing to remember when fighting Baw-Lu-Guhh-Lang or any other frog boss is to avoid getting caught behind it. The Double-Leg Kick can be devastating and is very sudden. Stick to its front where you can more easily predict its moves.\n## Baw-Li-Guhh-Lang Spirit",
+    "img_below_text": "* **Tongue Whip**\n* Equipped Effect: Moderately reduces the Stamina cost for Jumps and Jump Attacks.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The main thing to remember when fighting Baw-Lu-Guhh-Lang or any other frog boss is to avoid getting caught behind it. The Double-Leg Kick can be devastating and is very sudden. Stick to its front where you can more easily predict its moves.\n## Baw-Li-Guhh-Lang Spirit\"\n        - Following Text: \"* **Tongue Whip**\n* Equipped Effect: Moderately reduces the Stamina cost for Jumps and Jump Attacks.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the equipment menu in a video game, specifically highlighting the \"Baw-Li-Guhh-Lang Spirit,\" an epic item with high Qi cost. Its ability, \"Tongue Whip,\" allows the player to take the form of Baw-Li-Guhh-Lang and use a tongue attack to damage enemies from afar. The equipped effect reduces stamina costs for jumps and jump attacks. A demo option is available to preview the ability in action. The menu also displays other spirits and player stats."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 325276932581,
-    "source_file": "Commander_Beetle.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg",
-    "alt_text": "Wukong YellowFlower 24.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong YellowFlower 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg)\nAs mentioned previously, the Commander Beetle can also perform of series of sword slams with his bigger left sword. The small line that extends from his strike won't look like much for a moment, until a large fissure erupts from the path of his weapon which he can do several times in a row.",
-    "img_below_text": "Even when not slamming the ground, his bigger sword can also cut through the air to send a slicing wave of force at you from a distance, which comes out much faster than his slams, and can be done multiple times.\n![Wukong YellowFlower 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_YellowFlower_18.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Commander_Beetle.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg)\nAs mentioned previously, the Commander Beetle can also perform of series of sword slams with his bigger left sword. The small line that extends from his strike won't look like much for a moment, until a large fissure erupts from the path of his weapon which he can do several times in a row.\"\n            - Following Text: \"Even when not slamming the ground, his bigger sword can also cut through the air to send a slicing wave of force at you from a distance, which comes out much faster than his slams, and can be done multiple times.\n![Wukong YellowFlower 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_YellowFlower_18.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_YellowFlower_24.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" featuring a battle against the Commander Beetle. The Commander Beetle is shown executing a powerful sword slam, generating a bright, slicing wave of force that cuts through the air and ground. This visual highlights the beetle's ability to perform devastating attacks both up close and from a distance, emphasizing the challenge players face when confronting this formidable enemy."
+    "chunk_id": 574050808599,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Black-myth-wukong-celestial-ribbon.jpg",
+    "alt_text": "Black-myth-wukong-celestial-ribbon.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Fine Gold Thread .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Fine_Gold_Thread_.jpg)| Fine Gold Thread| Legendary | General armor upgrade material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n• Purchased from Shrine Stores in The Webbed Hollow• Dropped from Yaoguai Chiefs and Yaoguai Kings in The Webbed Hollow",
+    "img_below_text": "![Jade Fang .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Jade_Fang_.jpg)| Jade Fang| Uncommon | Special crafting material | • Dropped from Whiteclad Noble in Bamboo Grove - Marsh of White Mist (mandatory boss) in Black Wind Mountain\n![Flame Ebongold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Flame_Ebongold_.jpg)| Flame Ebongold| Rare | Special weapon upgrade material | • Dropped from Black Bear Guai in Black Wind Cave - Bodhi Peak (mandatory boss) in Black Wind Mountain",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Fine Gold Thread .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Fine_Gold_Thread_.jpg)| Fine Gold Thread| Legendary | General armor upgrade material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n• Purchased from Shrine Stores in The Webbed Hollow• Dropped from Yaoguai Chiefs and Yaoguai Kings in The Webbed Hollow\"\n        - Following Text: \"![Jade Fang .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Jade_Fang_.jpg)| Jade Fang| Uncommon | Special crafting material | • Dropped from Whiteclad Noble in Bamboo Grove - Marsh of White Mist (mandatory boss) in Black Wind Mountain\n![Flame Ebongold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Flame_Ebongold_.jpg)| Flame Ebongold| Rare | Special weapon upgrade material | • Dropped from Black Bear Guai in Black Wind Cave - Bodhi Peak (mandatory boss) in Black Wind Mountain\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Fine Gold Thread,\" a legendary armor upgrade material in the video game *Black Myth: Wukong*. It can be obtained by defeating Cyan Loong near Bitter-Lake - Turtle Island, purchased from Shrine Stores in The Webbed Hollow, or dropped by Yaoguai Chiefs and Kings in the same region. The item is part of a crafting and upgrade system, as indicated by its inclusion alongside other materials like Jade Fang and Flame Ebongold."
 }

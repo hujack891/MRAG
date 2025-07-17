@@ -1,28 +1,11 @@
 {
-    "chunk_id": 774574254297,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sahali_27.jpg",
-    "alt_text": "Wukong Sahali 27.jpg",
-    "position_desc": 11,
-    "img_above_text": "After besting the \"Tiger Vanguard\", you'll find none other than the Yellow Rat Sage, who needs your help defeating a giant scarab Guai in the sands below.\n## Fuban Boss Fight and Guide",
-    "img_below_text": "Once you make your way down either of the slopes into the large sandy dunes where the giant Scarab Yaoguai called Fuban has emerged, you’ll be in for a battle against a juggernaut of a scarab beetle.\nDon’t let its imposing size scare you too much - this battle isn’t as hard as many others in Chapter 2 despite being a secret boss, as long as you know when and where to attack.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"After besting the \"Tiger Vanguard\", you'll find none other than the Yellow Rat Sage, who needs your help defeating a giant scarab Guai in the sands below.\n## Fuban Boss Fight and Guide\"\n            - Following Text: \"Once you make your way down either of the slopes into the large sandy dunes where the giant Scarab Yaoguai called Fuban has emerged, you’ll be in for a battle against a juggernaut of a scarab beetle.\nDon’t let its imposing size scare you too much - this battle isn’t as hard as many others in Chapter 2 despite being a secret boss, as long as you know when and where to attack.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sahali_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Fuban, a massive scarab Yaoguai (demonic creature) encountered in a sandy, desert-like environment. This imposing enemy serves as a secret boss in Chapter 2 of the game, introduced after the Yellow Rat Sage requests the player's help. Despite its intimidating size and appearance, the text suggests that the battle against Fuban is manageable with proper strategy and timing. The visual emphasizes the creature's menacing design and the dramatic setting of the fight."
+    "chunk_id": 960930152574,
+    "source_file": "Gourds.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg",
+    "alt_text": "Trailblazers Scarlet Gourd .jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---|---\n![Old Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg)| Old Gourd| Common | 4 | N/A | Default Gourd at the start of Chapter 1 - Black Wind Mountain| Old Gourd",
+    "img_below_text": "Also given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd\n![Jade Lotus Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Jade_Lotus_Gourd_.jpg)| Jade Lotus Gourd| Epic | 6 | Recovers a considerable amount of health for nearby duplicates upon using the Gourd. | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of White Mist in Black Wind Mountain. Requires completion of Chapter 2 - Yellow Wind Ridge | Jade Lotus Gourd",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"---|---|---|---|---|---|---\n![Old Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg)| Old Gourd| Common | 4 | N/A | Default Gourd at the start of Chapter 1 - Black Wind Mountain| Old Gourd\"\n        - Following Text: \"Also given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd\n![Jade Lotus Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Jade_Lotus_Gourd_.jpg)| Jade Lotus Gourd| Epic | 6 | Recovers a considerable amount of health for nearby duplicates upon using the Gourd. | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of White Mist in Black Wind Mountain. Requires completion of Chapter 2 - Yellow Wind Ridge | Jade Lotus Gourd\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Trailblazer’s Scarlet Gourd**, a red, ornate item held in a character's hand from the video game *Black Myth: Wukong*. According to the context, this gourd is available at **Thunderclap Temple in The New West** upon meeting the Horse Guai, provided the player does not own the **Deluxe Edition** or its upgrade. It is part of a sequence discussing various gourd items and their roles in the game."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 271802141660,
-    "source_file": "Blood_of_the_Iron_Bull.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Blood_of_the_Iron_Bull_-_Specific_Location_Fright_Cliff_Rock_Clash_Platform_Slope_Down_2.jpg",
-    "alt_text": "Blood of the Iron Bull - Specific Location Fright Cliff Rock Clash Platform Slope Down 2.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Blood of the Iron Bull - Specific Location Fright Cliff Rock Clash Platform Slope Down.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Blood_of_the_Iron_Bull_-_Specific_Location_Fright_Cliff_Rock_Clash_Platform_Slope_Down.jpg)\nThat way you can jump on the cliff-face and down towards the statue and chest.",
-    "img_below_text": "### Blood of the Iron Bull Location 11\nAt the base of the sand slope in Fright Cliff, you will see the Yellow Sand Formation \\- Windseal Gate Shrine in Yellow Wind Ridge. Instead of going through the gate with the Sterness of Stone and Keeness of Tiger, head up the path opposite the slope.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Blood_of_the_Iron_Bull.md'.\n\n            Context:\n            - Preceding Text: \"![Blood of the Iron Bull - Specific Location Fright Cliff Rock Clash Platform Slope Down.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Blood_of_the_Iron_Bull_-_Specific_Location_Fright_Cliff_Rock_Clash_Platform_Slope_Down.jpg)\nThat way you can jump on the cliff-face and down towards the statue and chest.\"\n            - Following Text: \"### Blood of the Iron Bull Location 11\nAt the base of the sand slope in Fright Cliff, you will see the Yellow Sand Formation \\- Windseal Gate Shrine in Yellow Wind Ridge. Instead of going through the gate with the Sterness of Stone and Keeness of Tiger, head up the path opposite the slope.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Blood_of_the_Iron_Bull_-_Specific_Location_Fright_Cliff_Rock_Clash_Platform_Slope_Down_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a treasure chest located near a statue in a rocky, dimly lit environment. The chest appears ornate, suggesting it contains valuable loot. A character is positioned close to the chest, seemingly interacting with it, while game interface elements are visible, indicating this is an in-game moment.\n\n2. **Purpose, Content, or Narrative Role**:  \nBased on the preceding and following text, the image illustrates a specific location in the game \"Blood of the Iron Bull\" where players can find a chest near a statue after jumping down a cliff-face. This serves as a visual guide for players navigating Fright Cliff to locate the chest and associated rewards."
+    "chunk_id": 240970109649,
+    "source_file": "Buddha%27s_Right_Hand.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Wukong_MiddleHollow_63.jpg",
+    "alt_text": "Wukong MiddleHollow 63.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)\nIf you notice the monster begin to rise up to where you can't hit it with normal swings, back off and get ready, as it will likely try to punch you with its \"right hand\" slamming through under its body. The good news is the hand is also another target in addition to its head, giving you more places to swing your staff at.",
+    "img_below_text": "If the body appears to rise up and lurch backwards out of reach instead of straight up, it means that the boss is preparing to lunge forward with a headbutt, but this can be deflected and countered while its head is lowered for some prime damage output.\n![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_MiddleHollow_60.jpg)\nIf you notice the monster begin to rise up to where you can't hit it with normal swings, back off and get ready, as it will likely try to punch you with its \"right hand\" slamming through under its body. The good news is the hand is also another target in addition to its head, giving you more places to swing your staff at.\"\n        - Following Text: \"If the body appears to rise up and lurch backwards out of reach instead of straight up, it means that the boss is preparing to lunge forward with a headbutt, but this can be deflected and countered while its head is lowered for some prime damage output.\n![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss encounter in *Black Myth: Wukong*, showcasing the player character facing off against a large, insect-like creature named \"Buddha's Right Hand\" in a narrow cave environment. The preceding and following text provide combat tips, emphasizing targeting the creature's hand and head for damage while avoiding its rising slam attack or deflecting its headbutt. The image visually supports these strategies by highlighting the boss's imposing presence and the confined battle space."
 }

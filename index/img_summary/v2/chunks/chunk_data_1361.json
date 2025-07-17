@@ -1,28 +1,11 @@
 {
-    "chunk_id": 416006415820,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Furnace_Valley_Walkthrough_.png",
-    "alt_text": "Furnace Valley Walkthrough .png",
-    "position_desc": 22,
-    "img_above_text": "Flint Chief\nFollow the lava path back up the archway, collecting more Fire Dates on the way, and be careful of Scorching and Searing-Fire enemies that will pop out along the way.",
-    "img_below_text": "When you're back up to the arch, continue forward to the top of the slope. The path goes left and right here. Right is the main path, so for now, let's take a look at the left side. As you head over, you'll see an Earth Rakshasa waiting for you that guards a chest. It also has a Spirit for you to collect once you defeat it.\nAs soon as you pass by the torch, a Flamling will appear. Take down the Flamling and Rakshasa, then collect the Earth Rakshasa Spirit. After this, open the chest and collect Celestial Ribbon and a Mind Core.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Flint Chief\nFollow the lava path back up the archway, collecting more Fire Dates on the way, and be careful of Scorching and Searing-Fire enemies that will pop out along the way.\"\n            - Following Text: \"When you're back up to the arch, continue forward to the top of the slope. The path goes left and right here. Right is the main path, so for now, let's take a look at the left side. As you head over, you'll see an Earth Rakshasa waiting for you that guards a chest. It also has a Spirit for you to collect once you defeat it.\nAs soon as you pass by the torch, a Flamling will appear. Take down the Flamling and Rakshasa, then collect the Earth Rakshasa Spirit. After this, open the chest and collect Celestial Ribbon and a Mind Core.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Furnace_Valley_Walkthrough_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows a player character in a dark, rocky environment illuminated by a nearby ornate torch. The character is approaching a glowing, floating object outlined in red, suggesting it is an interactable or collectible item. The scene has a foreboding atmosphere, with lava and shadows adding to the tension.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image likely depicts the moment before encountering the Earth Rakshasa mentioned in the following text. The glowing object may represent the Earth Rakshasa Spirit or a key item to collect after defeating the enemy. The image serves to visually guide players to this specific location and highlight the significance of the glowing object in the progression of the walkthrough."
+    "chunk_id": 402750271136,
+    "source_file": "Hoarfrost.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Black-myth-wukong-hoarfrost.jpg",
+    "alt_text": "Black-myth-wukong-hoarfrost.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Myth: Wukong Hoarfrost Location\nHoarfrost can be found in The New West, from the New Thunderclap Temple - Temple Entrance Shrine. From the Shrine, turn and head inside the temple through the opening in the large red wall. Follow the path up, and then to the left until you see some open doors. On this overlook through the doors, you can find the Monk from the Sea boss, whom you will need to defeat to earn the Transformation.",
+    "img_below_text": "This boss isn't too tricky compared to the harder boss fights in the game, but the boss' speed can be a major hurdle. You can find a full boss guide on our wiki page on the Monk From The Sea. Generally, you want to deflect his attacks and also have high Chill resistance armor and gear if possible. Focusing on repositioning to avoid attacks is also key to success.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Hoarfrost Location\nHoarfrost can be found in The New West, from the New Thunderclap Temple - Temple Entrance Shrine. From the Shrine, turn and head inside the temple through the opening in the large red wall. Follow the path up, and then to the left until you see some open doors. On this overlook through the doors, you can find the Monk from the Sea boss, whom you will need to defeat to earn the Transformation.\"\n        - Following Text: \"This boss isn't too tricky compared to the harder boss fights in the game, but the boss' speed can be a major hurdle. You can find a full boss guide on our wiki page on the Monk From The Sea. Generally, you want to deflect his attacks and also have high Chill resistance armor and gear if possible. Focusing on repositioning to avoid attacks is also key to success.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in *Black Myth: Wukong* approaching a snowy courtyard area within the New Thunderclap Temple. The red arrow highlights the path forward, leading toward an opening in the temple wall where the Monk From The Sea boss encounter is located. This scene serves as a visual guide for players navigating to the boss fight location."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 186839880224,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
-    "alt_text": "Wukong Sandgate 63.jpg",
-    "position_desc": 1,
-    "img_above_text": "As an optional secret boss, Cyan Loong can be found once you reach Turtle Island on the Bitter Lake. You can find his frozen body apparently fishing off the side of the \"island\" by heading right from the Turtle Island Shrine.\nHowever, in order to activate this secret boss, you'll need to obtain the Loong Scales from the Yellow Wind Ridge in Chapter 2.",
-    "img_below_text": "Head through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"As an optional secret boss, Cyan Loong can be found once you reach Turtle Island on the Bitter Lake. You can find his frozen body apparently fishing off the side of the \"island\" by heading right from the Turtle Island Shrine.\nHowever, in order to activate this secret boss, you'll need to obtain the Loong Scales from the Yellow Wind Ridge in Chapter 2.\"\n            - Following Text: \"Head through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character in *Black Myth: Wukong* navigating a rocky, arid environment. The character is armed with a staff and appears to be approaching a glowing object or entity in the distance, possibly a point of interest or a progression marker. The setting is consistent with the game's narrative involving exploration and combat in mystical landscapes.\n\n2. **Narrative Role**:  \nBased on the preceding and following text, this image likely represents the journey to activate the Cyan Loong secret boss or the transition toward the Sandgate Village and Valley of Despair. The glowing object may signify a key location or item relevant to the quest progression."
+    "chunk_id": 979866099418,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Sandgate_38.jpg",
+    "alt_text": "Wukong Sandgate 38.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nThe Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.",
+    "img_below_text": "Take the path to the right of the sealed gate, and fight past two Rat Captains while keeping the village shacks on your left. As you circle the area, you can find a pathway leading to an archway guarded by a Rat Archer and Rat Governor, and you'll find the boss inside.\n## Earth Wolf Miniboss Fight and Guide",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nThe Earth Wolf is located early in Chapter 2's Yellow Wind Ridge, once you enter the Sandgate Village and pass the Village Entrance Shrine. The miniboss is located behind a large gate guarded by many archers, forcing you to take the long way around.\"\n        - Following Text: \"Take the path to the right of the sealed gate, and fight past two Rat Captains while keeping the village shacks on your left. As you circle the area, you can find a pathway leading to an archway guarded by a Rat Archer and Rat Governor, and you'll find the boss inside.\n## Earth Wolf Miniboss Fight and Guide\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the player character is engaged in combat near a wooden gate in Sandgate Village during Chapter 2's Yellow Wind Ridge. This area is part of the lead-up to the Earth Wolf miniboss encounter, requiring players to navigate past enemies and obstacles to reach the boss. The image highlights the game's combat mechanics and environmental design."
 }

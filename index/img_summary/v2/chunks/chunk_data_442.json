@@ -1,28 +1,11 @@
 {
-    "chunk_id": 362680181483,
-    "source_file": "Celestial_Nonary_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Nonary_Xy_Dog.jpg",
-    "alt_text": "Nonary Xy Dog.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Xu-Dog Celestial Nonary Pill\nXu-Dog Celestial Nonary Pill",
-    "img_below_text": "Fall down the sand slide after exploring the Crouching Tiger Temple Cellar to meet the Xu-Dog. The Xu-Dog crafts Celestial Medicines for you in exchange for Mind Cores. You can craft a total of nine Celestial Nonary Pills with the Xu-Dog. You can find Mind Cores in chests or as loot for defeating particularly vicious foes.\n## The New West Celestial Nonary Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Celestial_Nonary_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Xu-Dog Celestial Nonary Pill\nXu-Dog Celestial Nonary Pill\"\n            - Following Text: \"Fall down the sand slide after exploring the Crouching Tiger Temple Cellar to meet the Xu-Dog. The Xu-Dog crafts Celestial Medicines for you in exchange for Mind Cores. You can craft a total of nine Celestial Nonary Pills with the Xu-Dog. You can find Mind Cores in chests or as loot for defeating particularly vicious foes.\n## The New West Celestial Nonary Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Nonary_Xy_Dog.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an in-game crafting menu for creating a \"Nonary Pill,\" a celestial medicine that permanently increases Maximum Stamina. The crafting process requires 360 Will and specific ingredients, including \"Mind Cores.\" The interface also displays the player's current stats and the changes the pill will make. A character stands nearby in a dimly lit, cave-like environment with a fire burning in the background.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the crafting system for Celestial Nonary Pills, which are created through interaction with the Xu-Dog, as described in the preceding and following text. The pills play a key role in enhancing the player's stamina, and the Xu-Dog serves as the crafting facilitator, requiring Mind Cores as a resource. This scene emphasizes the gameplay mechanics of resource gathering and stat improvement within the context of the game's world."
+    "chunk_id": 627065516604,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Guanyin_2.jpg",
+    "alt_text": "Wukong Guanyin 2.jpg",
+    "position_desc": 4,
+    "img_above_text": "* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\n## Ancient Guanyin Temple",
+    "img_below_text": "Ringing all three bells will transport you back in time to an earlier version of the Guanyin Temple, presumably shortly after it was set on fire long ago. Despite looking similar to the area you explored previously to fight the Yaoguai King, Lingxuzi, you’ll find new items at the entrance.\n![Wukong Guanyin 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Guanyin_3.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\n## Ancient Guanyin Temple\"\n        - Following Text: \"Ringing all three bells will transport you back in time to an earlier version of the Guanyin Temple, presumably shortly after it was set on fire long ago. Despite looking similar to the area you explored previously to fight the Yaoguai King, Lingxuzi, you’ll find new items at the entrance.\n![Wukong Guanyin 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_Guanyin_3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Ancient Guanyin Temple, a location within the video game \"Black Myth: Wukong.\" The temple is shown in a dark, eerie setting, surrounded by twisted trees and a stone pathway leading up to its entrance. This image represents a significant narrative point where ringing three bells transports the player back in time to an earlier version of the temple, shortly after it was set on fire. This setting is crucial for exploring new items and continuing the storyline involving the Yaoguai King, Lingxuzi."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 992934717215,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(8\\).png",
-    "position_desc": 10,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png)\nJust keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.",
-    "img_below_text": "Go to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.\n![Water Curtain Cave Walkthrough \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2811%29.png)\nJust keep working your way up to the top of the path, taking out as many soldiers as you want along the way. You'll pass by a portion of the path covered in fire, and then enter into a cave.\"\n            - Following Text: \"Go to the top of the cave, then turn left, and follow the path until you need to squeeze through a gap in the wall.\n![Water Curtain Cave Walkthrough \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Water_Curtain_Cave_Walkthrough_%289%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Water_Curtain_Cave_Walkthrough_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark cave entrance with a red arrow pointing towards a gap in the wall, suggesting a direction for the player to follow. The preceding text indicates the player is navigating through a path filled with soldiers and fire, while the following text instructs the player to go to the top of the cave, turn left, and squeeze through a gap. The image serves as a visual guide to help players identify the specific gap in the cave wall they need to pass through to continue their journey in the game \"Black Myth: Wukong.\""
+    "chunk_id": 412522203818,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_UpperHollow_44.jpg",
+    "alt_text": "Wukong UpperHollow 44.jpg",
+    "position_desc": 46,
+    "img_above_text": "Venom Daoist (Webbed Hollow)\nWith everything cleared on the top floor of the Webbed Hollow, it's time to make your way down.",
+    "img_below_text": "Head back to the Pool of Shattered Jade Shrine, and look back to the path where the Scorpion Prince was to spot a large wooden scaffold bridge. Be sure to check around the left side first for a green Wisp, then cross the two-tiered bridge to drop down a level.\n![Wukong UpperHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_UpperHollow_45.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Venom Daoist (Webbed Hollow)\nWith everything cleared on the top floor of the Webbed Hollow, it's time to make your way down.\"\n        - Following Text: \"Head back to the Pool of Shattered Jade Shrine, and look back to the path where the Scorpion Prince was to spot a large wooden scaffold bridge. Be sure to check around the left side first for a green Wisp, then cross the two-tiered bridge to drop down a level.\n![Wukong UpperHollow 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_UpperHollow_45.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* showing the player character, Wukong, standing on a grassy ledge overlooking a dimly lit cavern with wooden scaffold bridges and hanging torches. A red-circled green Wisp is visible in the distance, indicating an item or collectible. The setting aligns with the guide's instructions to explore the area near the Pool of Shattered Jade Shrine and cross the scaffold bridge. The HUD displays the equipped item, \"Evil Repelling Medicament,\" and various abilities."
 }

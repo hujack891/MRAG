@@ -1,28 +1,11 @@
 {
-    "chunk_id": 661398721613,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg",
-    "alt_text": "Wukong Pagoda 18.jpg",
-    "position_desc": 19,
-    "img_above_text": "Next, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.\n## Lower Pagoda (Level 2)",
-    "img_below_text": "Making your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.\n![Wukong Pagoda 19X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_Pagoda_19X.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Next, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.\n## Lower Pagoda (Level 2)\"\n            - Following Text: \"Making your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.\n![Wukong Pagoda 19X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_Pagoda_19X.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts the protagonist, Wukong, preparing to ascend a set of stairs within a dark, rocky tunnel. He is poised for combat, likely anticipating an attack from a Yaksha Archer positioned above.\n\n2. **Narrative Role**: The image serves to illustrate the moment just before Wukong encounters the Yaksha Archer on the second level of the Lower Pagoda. It highlights the tense atmosphere and readiness for battle as players navigate through the dark, treacherous environment."
+    "chunk_id": 844498104226,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
+    "alt_text": "Secrets Wukong \\(6\\).png",
+    "position_desc": 24,
+    "img_above_text": "Getting the Samadhi Fire Crystals will allow you to craft the Staff of Blazing Karma.\n## Baw-Lang-Lang",
+    "img_below_text": "When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Getting the Samadhi Fire Crystals will allow you to craft the Staff of Blazing Karma.\n## Baw-Lang-Lang\"\n        - Following Text: \"When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a frog-like boss character in a dark, rocky environment, likely encountered in the context of progressing through the Bishui Cave area in the game. The preceding and following text suggests this boss is part of a sequence where players must defeat carts and navigate icy terrain to access the cave, with an optional detour to face additional frog bosses."
 }

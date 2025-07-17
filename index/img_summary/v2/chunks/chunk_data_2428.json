@@ -1,28 +1,11 @@
 {
-    "chunk_id": 117009275103,
-    "source_file": "Puppet_Tick_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg",
-    "alt_text": "Puppet Tick .jpg",
-    "position_desc": 1,
-    "img_above_text": "* Puppet Tick Fight\n* Puppet Tick Spirit",
-    "img_below_text": "## Puppet Tick Location\nThe Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Puppet_Tick_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Puppet Tick Fight\n* Puppet Tick Spirit\"\n            - Following Text: \"## Puppet Tick Location\nThe Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a dark, eerie setting within a game, featuring a character holding a glowing object, possibly a weapon or a source of light. The character appears to be preparing for a confrontation with enemies visible in the distance. The game's interface elements, such as health and ability icons, are also visible on the screen.\n\n2. **Purpose, Content, or Narrative Role:**\n   Based on the preceding and following text, the image serves to illustrate a moment from a game where the player is about to engage in a fight with the Puppet Tick Spirit. The dark environment and the character's readiness suggest a tense and challenging encounter. This image likely aims to provide a visual context for the player's journey and the battles they will face, particularly highlighting the Puppet Tick Spirit confrontation."
+    "chunk_id": 603520896209,
+    "source_file": "Soaks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-guanyins-willow-leaf.jpg",
+    "alt_text": "Black-myth-wukong-guanyins-willow-leaf.jpg",
+    "position_desc": 27,
+    "img_above_text": "![Black-myth-wukong-flower-primes.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Black-myth-wukong-flower-primes.jpg)| Flower Primes| Mythical | Using the gourd removes all Four Bane states | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of the White Mist Shrine in Black Wind Mountain from Chapter 6 onwards | Flower Primes\n![Black-myth-wukong-graceful-orchid.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Black-myth-wukong-graceful-orchid.jpg)| Graceful Orchid| Epic | Using the gourd slowly recovers a small amount of Health for a short duration | Give all 15 seeds to Chen Loong in The New West| Graceful Orchid",
+    "img_below_text": "",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-flower-primes.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Black-myth-wukong-flower-primes.jpg)| Flower Primes| Mythical | Using the gourd removes all Four Bane states | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of the White Mist Shrine in Black Wind Mountain from Chapter 6 onwards | Flower Primes\n![Black-myth-wukong-graceful-orchid.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Black-myth-wukong-graceful-orchid.jpg)| Graceful Orchid| Epic | Using the gourd slowly recovers a small amount of Health for a short duration | Give all 15 seeds to Chen Loong in The New West| Graceful Orchid\"\n        - Following Text: \"\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gourd item featured in the video game *Black Myth: Wukong*. Based on the preceding text, this specific gourd is associated with the \"Graceful Orchid,\" an Epic item that provides a temporary health recovery effect when used. It is obtained by giving 15 seeds to Chen Loong in The New West. The gourd's design aligns with its in-game functionality and narrative significance."
 }

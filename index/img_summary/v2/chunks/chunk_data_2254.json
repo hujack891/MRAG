@@ -1,28 +1,11 @@
 {
-    "chunk_id": 990679691783,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
-    "alt_text": "Wukong Sandgate 62.jpg",
-    "position_desc": 3,
-    "img_above_text": "A visual cue will appear along with the **voice of a child** beckoning you, and you’ll be able to use the Rattle-Drum in front of the house. Be warned, as doing so will provoke all the nearby corpses to attack you, but you’ll also get some interesting dialogue from the child.\n## Second Location - Windseal Gate",
-    "img_below_text": "The second location where you can use the Old-Rattle Drum is on the path down from the sealed stone door where you fought the King of Flowing Sands and his Second Rat Prince son, using the **Keenness of Tiger** and **Sterness of Stone** items from the Vanguard bosses (The Stone Vanguard and Tiger Vanguard) to open the door.\n![Wukong Yellow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Yellow_39.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"A visual cue will appear along with the **voice of a child** beckoning you, and you’ll be able to use the Rattle-Drum in front of the house. Be warned, as doing so will provoke all the nearby corpses to attack you, but you’ll also get some interesting dialogue from the child.\n## Second Location - Windseal Gate\"\n            - Following Text: \"The second location where you can use the Old-Rattle Drum is on the path down from the sealed stone door where you fought the King of Flowing Sands and his Second Rat Prince son, using the **Keenness of Tiger** and **Sterness of Stone** items from the Vanguard bosses (The Stone Vanguard and Tiger Vanguard) to open the door.\n![Wukong Yellow 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Yellow_39.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts a character standing in front of an ancient stone door, preparing to use a special item called a \"Tally\" to proceed. The door requires the \"Sterness of Stone\" and \"Keenness of Tiger\" items to open, which are obtained from defeating specific bosses.\n\n2. **Narrative Role**: The image illustrates a key moment in the questline where the player must use the Tally at the Windseal Gate, after acquiring necessary items from previous boss battles. This action is essential for progressing further in the game."
+    "chunk_id": 393346872362,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg",
+    "alt_text": "Wukong Sandgate 65.jpg",
+    "position_desc": 63,
+    "img_above_text": "![Wukong Sandgate 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg)\nYou’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.",
+    "img_below_text": "On the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.\n![Wukong Sandgate 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg)\nYou’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.\"\n        - Following Text: \"On the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.\n![Wukong Sandgate 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character approaching a large, intricately designed sealed door within a dimly lit cave. The preceding text mentions a nearby Shrine and a cave entrance guarded by enemies, while the following text describes a tunnel leading to a valley and another inaccessible door. This image likely illustrates the sealed door mentioned in the walkthrough, emphasizing the player's progression through the cave area."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 611535546223,
-    "source_file": "Gore-Eye_Daoist_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Gore_eye_daoist.png",
-    "alt_text": "Gore eye daoist.png",
+    "chunk_id": 175159003470,
+    "source_file": "How_to_Parry.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/How_To_Parry_%281%29.png",
+    "alt_text": "How To Parry \\(1\\).png",
     "position_desc": 1,
-    "img_above_text": "* Gore-Eye Daoist Fight\n* Gore-Eye Daoist Spirit",
-    "img_below_text": "## Gore-Eye Daoist Location\nGore-Eye Daoist can be found after defeating both the Stone Vanguard and Tiger Vanguard bosses. After defeating them, return to the area where you fought the King of Flowing Sands and Second Rat Price and place the Keenness of Tiger and Keenness of Stone items into the receptacle by the large stone door. Open the door, head down the hill, and over the bridge to reach an open cave area with a statue carved into the rock face.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Gore-Eye_Daoist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Gore-Eye Daoist Fight\n* Gore-Eye Daoist Spirit\"\n            - Following Text: \"## Gore-Eye Daoist Location\nGore-Eye Daoist can be found after defeating both the Stone Vanguard and Tiger Vanguard bosses. After defeating them, return to the area where you fought the King of Flowing Sands and Second Rat Price and place the Keenness of Tiger and Keenness of Stone items into the receptacle by the large stone door. Open the door, head down the hill, and over the bridge to reach an open cave area with a statue carved into the rock face.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Gore_eye_daoist.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene featuring the \"Gore-Eye Daoist,\" a formidable enemy surrounded by a blood-soaked environment. The character wields a staff emitting fiery energy, suggesting magical or spiritual abilities. The player's interface is visible, indicating this is part of an action RPG gameplay sequence.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the \"Gore-Eye Daoist Fight,\" as referenced in the preceding text, showcasing the intense and dangerous nature of the encounter. It serves to highlight the dramatic and challenging combat players face before progressing to the next stage of the game, as described in the following text detailing the location and steps to continue the quest."
+    "img_above_text": "* Spells to Unlock to Upgrade Rock Solid\n## How to Unlock the Rock Solid Spell",
+    "img_below_text": "Can you parry in Black Myth: Wukong? The short answer is no, not in the traditional sense. But you can deflect enemy attacks, and to do so requires the **Rock Solid spell**. This is a defensive spell that will allow you to stagger enemies and open up the possibility of performing counterattacks.\n![How To Parry \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/How_To_Parry_%282%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Spells to Unlock to Upgrade Rock Solid\n## How to Unlock the Rock Solid Spell\"\n        - Following Text: \"Can you parry in Black Myth: Wukong? The short answer is no, not in the traditional sense. But you can deflect enemy attacks, and to do so requires the **Rock Solid spell**. This is a defensive spell that will allow you to stagger enemies and open up the possibility of performing counterattacks.\n![How To Parry \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/How_To_Parry_%282%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character in *Black Myth: Wukong* performing or demonstrating the **Rock Solid spell**, which is a defensive ability. The character appears encased in a metallic, stone-like texture, with debris floating around, emphasizing the spell's protective and sturdy nature. The accompanying text at the bottom states, \"This body of yours is perfect for the art of Rock Solid,\" reinforcing the focus on mastering this spell. The image supports the guide's explanation of using the Rock Solid spell to deflect enemy attacks and stagger opponents."
 }

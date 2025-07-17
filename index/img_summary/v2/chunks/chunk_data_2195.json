@@ -1,28 +1,11 @@
 {
-    "chunk_id": 171358161718,
-    "source_file": "Non-Pure.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Thunderclap_70.jpg",
-    "alt_text": "Wukong Thunderclap 70.jpg",
-    "position_desc": 8,
-    "img_above_text": "Even his single attack can deal big damage if you aren't ready for their relatively fast speed. He may feint his blade in an upward swing, before launching himself high into the air and crash down with an overhand swing.\nWatch his movements carefully to see if he goes back to his default positioning. If he comes out of the jump attack by pulling his blade around with him, he'll follow up with two spinning slashes that need to be avoided to deflected to stop him in his tracks.",
-    "img_below_text": "The one thing his powered up gauntlet isn't great at deflecting is Transformation attacks -- both from Spirits and Spells. The Ashen Slumber in particular is a good bet, as the Rat Captain has a very long evasive dash, and you can breath fire on him that can't be blocked, nor can your Fiery Burst detonation.\nTime your attacks well to find the gaps in his defenses, and remember to cultivate your Spirits and upgrade your Transformation Spell abilities as needed. When Non-Pure is finally defeated, you'll be able to absorb the last disciples spirit, the Non-Pure Spirit.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Non-Pure.md'.\n\n            Context:\n            - Preceding Text: \"Even his single attack can deal big damage if you aren't ready for their relatively fast speed. He may feint his blade in an upward swing, before launching himself high into the air and crash down with an overhand swing.\nWatch his movements carefully to see if he goes back to his default positioning. If he comes out of the jump attack by pulling his blade around with him, he'll follow up with two spinning slashes that need to be avoided to deflected to stop him in his tracks.\"\n            - Following Text: \"The one thing his powered up gauntlet isn't great at deflecting is Transformation attacks -- both from Spirits and Spells. The Ashen Slumber in particular is a good bet, as the Rat Captain has a very long evasive dash, and you can breath fire on him that can't be blocked, nor can your Fiery Burst detonation.\nTime your attacks well to find the gaps in his defenses, and remember to cultivate your Spirits and upgrade your Transformation Spell abilities as needed. When Non-Pure is finally defeated, you'll be able to absorb the last disciples spirit, the Non-Pure Spirit.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Thunderclap_70.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where a character, likely the player, is engaged in combat with an enemy named \"Non-Pure.\" The enemy is engulfed in flames, suggesting the use of a fire-based attack or spell, possibly the \"Fiery Burst\" mentioned in the text. The image illustrates a critical moment in the battle, emphasizing the use of strategic attacks to exploit the enemy's weaknesses. The context provided in the preceding and following text highlights the importance of timing and skill in overcoming the enemy's defenses and ultimately defeating them to progress in the game."
+    "chunk_id": 732844373309,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_RedLoong_4.jpg",
+    "alt_text": "Wukong RedLoong 4.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nYou can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.",
+    "img_below_text": "Return to the Forest of Wolves and head to the Outside the Forest Shrine.\n![Wukong RedLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nYou can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.\"\n        - Following Text: \"Return to the Forest of Wolves and head to the Outside the Forest Shrine.\n![Wukong RedLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist navigating through a lush forest environment. The character is likely on a quest related to the Loong Scales, as mentioned in the preceding text, which allows players to uncover the lair of the Loong Dragons. The following text suggests the next destination is the Forest of Wolves, indicating progression in the game's narrative."
 }

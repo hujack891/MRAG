@@ -1,28 +1,11 @@
 {
-    "chunk_id": 431199358538,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg",
-    "alt_text": "Wukong Pagoda 87.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)\nOnce enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.",
-    "img_below_text": "This is your best chance to get in some real damage, but it's worth noting that a big charged heavy strike can sometimes knock it completely out of its dazed state. Instead, build up some more focus with one or two light combos, and then expend all your focus points on a bit charged hit to end its daze, taking off a huge amount of health in the process.\nRepeat the process of damaging its leg, or look for any opportunities to strike at its head -- particularly when it triggers the beguiling chant again to take off a chunk of your maximum HP.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)\nOnce enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.\"\n            - Following Text: \"This is your best chance to get in some real damage, but it's worth noting that a big charged heavy strike can sometimes knock it completely out of its dazed state. Instead, build up some more focus with one or two light combos, and then expend all your focus points on a bit charged hit to end its daze, taking off a huge amount of health in the process.\nRepeat the process of damaging its leg, or look for any opportunities to strike at its head -- particularly when it triggers the beguiling chant again to take off a chunk of your maximum HP.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense moment during a boss fight against \"Captain Wise-Voice\" in *Black Myth: Wukong*. The boss, a grotesque creature with tangled, tree-like appendages, is shown in a staggered state, indicated by glowing damage on its leg. This moment aligns with the preceding text, where the player is advised to exploit the staggered state by targeting the exposed core for maximum damage. The following text suggests strategies for dealing significant damage while maintaining the boss's dazed state, emphasizing the importance of timing and focus management during this phase of the battle."
+    "chunk_id": 710036822099,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_MiddleHollow_37.jpg",
+    "alt_text": "Wukong MiddleHollow 37.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Centipede Guai Boss Fight and Guide\nWhile this fight will be a tougher one than the previous optional bosses you've faced in the Hollow, the Centipede Guai still has some predictable attack patterns that you can soon anticipate and counter and win the day. It's still worth having anti-poison Curios and Antimiasma medicine on hand.",
+    "img_below_text": "After he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.\n![Wukong MiddleHollow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_MiddleHollow_38.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Centipede Guai Boss Fight and Guide\nWhile this fight will be a tougher one than the previous optional bosses you've faced in the Hollow, the Centipede Guai still has some predictable attack patterns that you can soon anticipate and counter and win the day. It's still worth having anti-poison Curios and Antimiasma medicine on hand.\"\n        - Following Text: \"After he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.\n![Wukong MiddleHollow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_MiddleHollow_38.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense boss fight scene from a video game, showcasing the \"Centipede Guai,\" a large, menacing, spider-like creature with a glowing red eye. The player character is positioned in a dark, eerie arena littered with skulls and bones, preparing to engage the boss. The on-screen HUD displays health bars, abilities, and items, emphasizing the fight's strategic elements. This moment aligns with the guide's description of the Centipede Guai's attack patterns and the need for preparation with anti-poison items."
 }

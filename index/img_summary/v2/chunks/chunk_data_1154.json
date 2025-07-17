@@ -1,28 +1,11 @@
 {
-    "chunk_id": 962766861010,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png",
-    "alt_text": "Foothills Walkthrough \\(70\\).png",
-    "position_desc": 66,
-    "img_above_text": "![Foothills Walkthrough \\(67\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Foothills_Walkthrough_%2867%29.png)\nYou can then detransform and follow up with your own strong attacks and it will continue to burn for a while until it douses itself off with the water.",
-    "img_below_text": "As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.\nWater-Wood Beast",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 66 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(67\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Foothills_Walkthrough_%2867%29.png)\nYou can then detransform and follow up with your own strong attacks and it will continue to burn for a while until it douses itself off with the water.\"\n            - Following Text: \"As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.\nWater-Wood Beast\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character engaging with a glowing, tree-like creature emerging from water in a lush, forested environment. Based on the context, this scene is part of a combat sequence in *Black Myth: Wukong*, where the player battles the Water-Wood Beast. The preceding text suggests using strong attacks to exploit the creature's vulnerability while it burns, and the following text describes its behavior as its health decreases, including diving into the water and attempting surprise attacks. The image visually represents the creature's appearance and its interaction with the environment during the encounter."
+    "chunk_id": 313728520978,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Fright_17.jpg",
+    "alt_text": "Wukong Fright 17.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong Fright 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Fright_16.jpg)\nReturning back down the slope, you’ll find a small crevice cutting through the area, with ruins above on the right. Stick to these ruins for the moment so you don’t get ambushed by ranged attackers when exploring the crevice.",
+    "img_below_text": "Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Fright_16.jpg)\nReturning back down the slope, you’ll find a small crevice cutting through the area, with ruins above on the right. Stick to these ruins for the moment so you don’t get ambushed by ranged attackers when exploring the crevice.\"\n        - Following Text: \"Start by luring the shieldless Spearbone out of range of the Blazebones above, then climb the stairs to rush down the projectile throwers. Be sure to look at the ruined home at the first landing below the first Blazebone for a yellow chest that has 2 **Yaoguai Core** and 3 **Tiny Piece of Gold**.\n### The Third Buddha’s Eyeball\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a scene from the video game *Black Myth: Wukong*, where the player character is approaching a yellow chest located near a ruined structure. The chest is positioned on a stone platform surrounded by rugged terrain and overgrown vegetation. This area is part of a guided exploration, with the chest containing valuable items such as **Yaoguai Core** and **Tiny Piece of Gold**, as mentioned in the accompanying walkthrough text. The player is advised to clear nearby enemies before looting the chest."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 665450347577,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Pagoda_10.jpg",
-    "alt_text": "Wukong Pagoda 10.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong Pagoda 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_9.jpg)\nPast the Shrine, the path will lead into the cells, and a long tunnel through the dark. Up ahead, be wary of a Yaksha Archer who will try and bait you into charging him, only for a Cyan Bat above him to divebomb you from behind with its ice attack.",
-    "img_below_text": "Just past the duo, you'll find an open gate leading back to the outer ring, while the interior passageway also continues. If you dip out for a moment, you can look right back the way you came to find two enemies guarding a green Wisp by a pile of rubble with another Yaksha Archer at the top.\n![Wukong Pagoda 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Pagoda_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_9.jpg)\nPast the Shrine, the path will lead into the cells, and a long tunnel through the dark. Up ahead, be wary of a Yaksha Archer who will try and bait you into charging him, only for a Cyan Bat above him to divebomb you from behind with its ice attack.\"\n            - Following Text: \"Just past the duo, you'll find an open gate leading back to the outer ring, while the interior passageway also continues. If you dip out for a moment, you can look right back the way you came to find two enemies guarding a green Wisp by a pile of rubble with another Yaksha Archer at the top.\n![Wukong Pagoda 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Pagoda_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Pagoda_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky area within a game, where the player character is approaching two enemies. One enemy is positioned on a ledge above, likely a Yaksha Archer, and another is on the ground ahead, possibly preparing to attack. The scene follows a treacherous tunnel and precedes an open gate leading back to the outer ring, indicating a strategic point in the game where the player must navigate past these foes to progress. The image serves to illustrate the challenging encounter described in the surrounding text."
+    "chunk_id": 695483938023,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Purple_Talismans_Chapter_4.png",
+    "alt_text": "Purple Talismans Chapter 4.png",
+    "position_desc": 16,
+    "img_above_text": "* How to Find Yellow Loong\n## Purple Talisman Altars and the Supreme Inspector",
+    "img_below_text": "You can find 4 Purple Talismans in the Webbed Hollow and Temple of the Yellow Flowers. Find them all to interact with a secret mini-boss for the chapter called Supreme Inspector and an additional character for your Journal.\n### Relevant Guide Pages",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* How to Find Yellow Loong\n## Purple Talisman Altars and the Supreme Inspector\"\n        - Following Text: \"You can find 4 Purple Talismans in the Webbed Hollow and Temple of the Yellow Flowers. Find them all to interact with a secret mini-boss for the chapter called Supreme Inspector and an additional character for your Journal.\n### Relevant Guide Pages\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit area featuring ornate structures resembling altars or shrines, surrounded by twisted tree roots and a cavernous environment. Based on the preceding and following text, this location is likely tied to the \"Purple Talisman Altars\" mentioned in the guide and serves as a key area for collecting Purple Talismans in the Webbed Hollow or Temple of the Yellow Flowers. These talismans are required to unlock a secret mini-boss encounter, the Supreme Inspector, and an additional character for the Journal."
 }

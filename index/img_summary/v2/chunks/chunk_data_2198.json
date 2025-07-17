@@ -1,28 +1,11 @@
 {
-    "chunk_id": 753905307353,
-    "source_file": "Non-Pure_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2c/Non_pure.png",
-    "alt_text": "Non pure.png",
-    "position_desc": 1,
-    "img_above_text": "* Non-Pure Fight\n* Non-Pure Spirit",
-    "img_below_text": "## Non-Pure Location\nNon-Pure is guarding the New Thunderclap Temple Meditation Spot. To reach him, battle your way through the New Thunderclap Temple and unlock the Mahavira Hall Keeper's Shrine. from the Shrine, turn around so your back is facing it and head down the stairs to enter the building on your left. That is where you will find Non-Pure and The Hall, New Thunderclap Temple Meditation Spot.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Non-Pure_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Non-Pure Fight\n* Non-Pure Spirit\"\n            - Following Text: \"## Non-Pure Location\nNon-Pure is guarding the New Thunderclap Temple Meditation Spot. To reach him, battle your way through the New Thunderclap Temple and unlock the Mahavira Hall Keeper's Shrine. from the Shrine, turn around so your back is facing it and head down the stairs to enter the building on your left. That is where you will find Non-Pure and The Hall, New Thunderclap Temple Meditation Spot.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2c/Non_pure.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is confronting a large, armored enemy wielding a massive axe. The context suggests that this encounter takes place in the New Thunderclap Temple, specifically near the Mahavira Hall Keeper's Shrine. The player must defeat this enemy, referred to as \"Non-Pure,\" to access the New Thunderclap Temple Meditation Spot."
+    "chunk_id": 832115843218,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
+    "alt_text": "Wukong RedLoong 7.jpg",
+    "position_desc": 8,
+    "img_above_text": "You can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.\n## Yaoguai King Boss Battle - Red Loong",
+    "img_below_text": "The Red Loong is a fearsome red dragon imbued with the power of electricity, which is both his greatest strength and weakness once you know how to exploit it. It’s important to note that while you can face this boss once you find the required Key Item early in Chapter 2, you may want to wait until after completing Chapter 2, or even starting Chapter 3, due to the difficulty of this encounter. In particular, it’s a good idea to stock up on medicine to increase your shock resistance, and buy the Thunderbolt Horn Soak from the Shen Monkey as well.\n![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.\n## Yaoguai King Boss Battle - Red Loong\"\n        - Following Text: \"The Red Loong is a fearsome red dragon imbued with the power of electricity, which is both his greatest strength and weakness once you know how to exploit it. It’s important to note that while you can face this boss once you find the required Key Item early in Chapter 2, you may want to wait until after completing Chapter 2, or even starting Chapter 3, due to the difficulty of this encounter. In particular, it’s a good idea to stock up on medicine to increase your shock resistance, and buy the Thunderbolt Horn Soak from the Shen Monkey as well.\n![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Red Loong, a formidable red dragon boss in *Black Myth: Wukong*. It is surrounded by glowing electrical effects, emphasizing its association with electricity, which serves as both its strength and exploitable weakness. This scene aligns with the walkthrough's guidance on preparing for the challenging Yaoguai King boss battle, including strategies to mitigate shock damage and exploit the dragon's vulnerabilities."
 }

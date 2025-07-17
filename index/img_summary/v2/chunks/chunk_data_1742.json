@@ -1,28 +1,11 @@
 {
-    "chunk_id": 138365489316,
-    "source_file": "Kang-Jin_Staff.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Snowhill_36.jpg",
-    "alt_text": "Wukong Snowhill 36.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Black Myth: Wukong Kang-Jin Staff Location\nThe Kang-Jin Staff can be found in Chapter 3 in The New West, upon defeating Kang-JIn Loong. This is a mandatory boss.",
-    "img_below_text": "Weapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies. To craft the Kang-Jin Staff you will need:\n* 1 Starlit Cloud-Bidden Antler",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Kang-Jin_Staff.md'.\n\n            Context:\n            - Preceding Text: \"## Black Myth: Wukong Kang-Jin Staff Location\nThe Kang-Jin Staff can be found in Chapter 3 in The New West, upon defeating Kang-JIn Loong. This is a mandatory boss.\"\n            - Following Text: \"Weapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies. To craft the Kang-Jin Staff you will need:\n* 1 Starlit Cloud-Bidden Antler\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Snowhill_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "**Summary:**  \nThe image depicts a dramatic moment from *Black Myth: Wukong*, showcasing the protagonist facing off against Kang-Jin Loong, a serpentine dragon-like boss in a snowy, mountainous environment. This encounter occurs in Chapter 3, \"The New West,\" and defeating Kang-Jin Loong is necessary to obtain the Kang-Jin Staff. The staff can later be crafted at Shrines using specific materials, including the Starlit Cloud-Bidden Antler. The image visually emphasizes the intensity of the battle and the game's mythical setting."
+    "chunk_id": 360696117735,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
+    "alt_text": "Wukong Fright 36.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, The Man-in-Stone \"boss\" kind of a pushover, barely having much more health than a regular Pitstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.",
+    "img_below_text": "Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nUnlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, The Man-in-Stone \"boss\" kind of a pushover, barely having much more health than a regular Pitstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\"\n        - Following Text: \"Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nUnlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist interacting with a glowing, web-like structure, likely extracting or interacting with the \"Stone Essence\" mentioned in the text. This action appears to be part of the process of defeating the Man-in-Stone boss and obtaining the **Azure Dust Transformation Spell**, which grants the player the ability to transform into the powerful yet slow Rock Guai form. The surrounding environment suggests a cave-like setting, aligning with the narrative of the boss encounter."
 }

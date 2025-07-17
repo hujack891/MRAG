@@ -1,28 +1,11 @@
 {
-    "chunk_id": 959741852227,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg",
-    "alt_text": "Wukong Sandgate 26.jpg",
-    "position_desc": 23,
-    "img_above_text": "![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nReturning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.",
-    "img_below_text": "Instead, stay out of their range and look for a small hilltop altar to the right that holds a chest, and you can find 3x **Tiny Piece of Gold** and 2x **Silk** inside.\nJust beyond the chest, you can spot another large open plain. Head to the right and down the hill onto a long wooden walkway, where you’ll find a path leading back to where the Xu Dog was, and a green Wisp to grab for its Will.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nReturning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\"\n            - Following Text: \"Instead, stay out of their range and look for a small hilltop altar to the right that holds a chest, and you can find 3x **Tiny Piece of Gold** and 2x **Silk** inside.\nJust beyond the chest, you can spot another large open plain. Head to the right and down the hill onto a long wooden walkway, where you’ll find a path leading back to where the Xu Dog was, and a green Wisp to grab for its Will.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a detailed, rustic wooden structure with intricate carvings, situated in a dry, grassy area of Sandgate Village. The foreground features a character interacting with a chest, which likely contains valuable items such as gold and silk, as indicated by the surrounding context. The background reveals a village setting with buildings and a large open plain, suggesting the player is navigating through this area while avoiding enemies like Rat Archers and collecting resources."
+    "chunk_id": 842815642007,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_YellowFlower_50.jpg",
+    "alt_text": "Wukong YellowFlower 50.jpg",
+    "position_desc": 49,
+    "img_above_text": "![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\nHis hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.",
+    "img_below_text": "Much of the rest of this fight will revolve around avoiding his lengthy combo attacks and retaliating after his last hit, or quickly evading or deflecting his charging dash attacks to stop him in his tracks.\n![Wukong YellowFlower 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_YellowFlower_54.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\nHis hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.\"\n        - Following Text: \"Much of the rest of this fight will revolve around avoiding his lengthy combo attacks and retaliating after his last hit, or quickly evading or deflecting his charging dash attacks to stop him in his tracks.\n![Wukong YellowFlower 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_YellowFlower_54.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from the video game \"Black Myth: Wukong,\" showcasing a confrontation between the player character and an enemy named \"Venom Daoist.\" The enemy is executing a powerful attack, likely part of a combo sequence described in the preceding text, which involves quick hits and a \"Flood of Blood\" slam. The player must strategically avoid these attacks and retaliate effectively, as mentioned in the following text. The image serves to illustrate the intensity and challenge of this particular fight sequence."
 }

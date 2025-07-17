@@ -1,28 +1,11 @@
 {
-    "chunk_id": 7835831413,
-    "source_file": "Hundred-Eyed_Daoist_Master.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_YellowFlower_81.jpg",
-    "alt_text": "Wukong YellowFlower 81.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Wukong YellowFlower 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_80.jpg)\nTo free yourself, you'll need to use the Weaver's Needle Vessel. It will take a moment to work so be prepared to dodge his next attack while the needle begins to shoot all around him.",
-    "img_below_text": "Once it hits, he'll be knocked to the ground, the curse will be broken, and you'll get a massive opportunity to attack him with everything you've got! Still, don't expect him to go down without a fight after the stun wears off. He's got more tricks than ever, and is able to create huge blasts that can end the fight quickly if you don't react fast.\n![Wukong YellowFlower 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_YellowFlower_87.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Hundred-Eyed_Daoist_Master.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_80.jpg)\nTo free yourself, you'll need to use the Weaver's Needle Vessel. It will take a moment to work so be prepared to dodge his next attack while the needle begins to shoot all around him.\"\n            - Following Text: \"Once it hits, he'll be knocked to the ground, the curse will be broken, and you'll get a massive opportunity to attack him with everything you've got! Still, don't expect him to go down without a fight after the stun wears off. He's got more tricks than ever, and is able to create huge blasts that can end the fight quickly if you don't react fast.\n![Wukong YellowFlower 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_YellowFlower_87.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Wukong_YellowFlower_81.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a pivotal moment in combat from *Black Myth: Wukong*, where the protagonist, Wukong, is seen delivering a powerful attack to the Hundred-Eyed Daoist Master, who lies stunned on the ground amidst a field of yellow flowers. This follows the successful use of the Weaver's Needle Vessel to break the enemy's curse, creating an opportunity for Wukong to unleash a decisive assault. The game's interface displays various abilities and items, emphasizing strategic gameplay elements. The scene highlights the intensity of the battle and the importance of timing and preparation in overcoming the enemy's tricks and powerful attacks."
+    "chunk_id": 99681869999,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_MadTiger_15.jpg",
+    "alt_text": "Wukong MadTiger 15.jpg",
+    "position_desc": 12,
+    "img_above_text": "Many of his attacks can then transition into two quick claw swipes with each hand where his arms will remain across his body, and after a moment, will violently lash out with both arms and an outward cross slash you can try to Immobilize to stop. Rock Solid can also help, but it’s unlikely to stagger him out of the move.\nJust be wary, as he’ll often follow up the two arm slash by leaping straight up into the air before crashing down in a slamming attack.",
+    "img_below_text": "After beating on him for bit, you may sometimes hear him yell out in anger, which will be a quick tell that he’s about to perform an ear-shattering roar that can damage you if you’re near him, and will also cause rocks to fall from the ceiling onto you, and will require quick thinking to avoid.\n![Wukong MadTiger 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_MadTiger_16.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Many of his attacks can then transition into two quick claw swipes with each hand where his arms will remain across his body, and after a moment, will violently lash out with both arms and an outward cross slash you can try to Immobilize to stop. Rock Solid can also help, but it’s unlikely to stagger him out of the move.\nJust be wary, as he’ll often follow up the two arm slash by leaping straight up into the air before crashing down in a slamming attack.\"\n        - Following Text: \"After beating on him for bit, you may sometimes hear him yell out in anger, which will be a quick tell that he’s about to perform an ear-shattering roar that can damage you if you’re near him, and will also cause rocks to fall from the ceiling onto you, and will require quick thinking to avoid.\n![Wukong MadTiger 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_MadTiger_16.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against the \"Mad Tiger.\" The scene shows the player character engaging the towering, beast-like enemy in a rocky, cavernous environment with water on the ground. The Mad Tiger is mid-action, possibly preparing an attack or roar, as described in the preceding and following text. The player’s health and abilities are visible in the UI, emphasizing the combat mechanics and the need for strategic responses to the boss's powerful moves, including claw swipes, leaps, and a damaging roar that triggers falling debris."
 }

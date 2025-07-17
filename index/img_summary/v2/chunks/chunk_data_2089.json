@@ -1,28 +1,11 @@
 {
-    "chunk_id": 530802930360,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Thunderclap_46.jpg",
-    "alt_text": "Wukong Thunderclap 46.jpg",
-    "position_desc": 45,
-    "img_above_text": "![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)\nHead back along the bridge and through the balcony to the large doorway, and on the other side you can find a green Wisp to absorb hiding in the corner, and a small ramp leading to a large building at the top of several stone stairs.",
-    "img_below_text": "Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 45 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)\nHead back along the bridge and through the balcony to the large doorway, and on the other side you can find a green Wisp to absorb hiding in the corner, and a small ramp leading to a large building at the top of several stone stairs.\"\n            - Following Text: \"Many Censor Holders pray around this area, but most will ignore you. There's also a lone Overseeing Monk praying to an altar off to the left, which holds another green Wisp to absorb.\nOnce you reach the top of the stairs, you'll find a few small sealed shacks on the side with Overseeing Monks, and the main building entrance guarded by two Thunder Rhino Masters.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Thunderclap_46.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character, holding a staff with a fiery tip, stands in a snowy courtyard outside a large temple-like structure. The setting suggests a mystical or ancient atmosphere, with snow-covered ground and traditional architecture. This scene is part of a walkthrough where the player is navigating through a temple area, encountering various characters like Censor Holders and Overseeing Monks, and collecting items such as green Wisps. The image serves to illustrate the environment and context of the player's journey as they approach a significant building guarded by formidable enemies, the Thunder Rhino Masters."
+    "chunk_id": 350613558197,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg",
+    "alt_text": "Wukong Pagoda 66.jpg",
+    "position_desc": 63,
+    "img_above_text": "![Wukong Pagoda 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg)\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.",
+    "img_below_text": "Then head to the cell on the right to find another Blade Monk guarding a **Treasure Chest** full of random materials. There's also a green Wisp just outside on the ledge.\n![Wukong Pagoda 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Pagoda_67.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg)\nHead outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\"\n        - Following Text: \"Then head to the cell on the right to find another Blade Monk guarding a **Treasure Chest** full of random materials. There's also a green Wisp just outside on the ledge.\n![Wukong Pagoda 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Pagoda_67.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the protagonist facing a Blade Monk in a dimly lit, rocky area. The red-dotted circle highlights a **Treasure Chest**, which is mentioned in the following text as containing random materials. This scene aligns with the walkthrough's guidance to explore the cells and engage enemies while collecting rewards."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 407834370816,
-    "source_file": "Tiger%27s_Acolyte.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_Yellow_28.jpg",
-    "alt_text": "Wukong Yellow 28.jpg",
-    "position_desc": 10,
-    "img_above_text": "If he holds his sword back without moving, he’ll charge up for a combo attack consisting of two quick horizontal slashes, and then a short jump into the air to land with a downward slash attack. Retaliate cautiously if he doesn’t move away, and be ready for him to assume his next stance.\nHe can also charge at you with his sword behind his back in a sheathed stance, and then quickly slash forward with a follow up jab for a two-hit strike. The jabs are straight ahead, which you can dodge around to the side and punish.",
-    "img_below_text": "On rare occasions, he may even go for a varied combo of his own using all the weapons at his disposal. Starting with a forward kick, he’ll launch into three spinning slash attacks with a reverse grip, followed by a quick claw swipe and upward sword swing all in quick succession. When he stops to raise his sword up, that’s your moment to stagger him with a heavy hit of your own to stop him in his tracks.\n![Wukong Yellow 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Yellow_26.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"If he holds his sword back without moving, he’ll charge up for a combo attack consisting of two quick horizontal slashes, and then a short jump into the air to land with a downward slash attack. Retaliate cautiously if he doesn’t move away, and be ready for him to assume his next stance.\nHe can also charge at you with his sword behind his back in a sheathed stance, and then quickly slash forward with a follow up jab for a two-hit strike. The jabs are straight ahead, which you can dodge around to the side and punish.\"\n            - Following Text: \"On rare occasions, he may even go for a varied combo of his own using all the weapons at his disposal. Starting with a forward kick, he’ll launch into three spinning slash attacks with a reverse grip, followed by a quick claw swipe and upward sword swing all in quick succession. When he stops to raise his sword up, that’s your moment to stagger him with a heavy hit of your own to stop him in his tracks.\n![Wukong Yellow 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Yellow_26.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_Yellow_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic combat scene from the game \"Black Myth: Wukong,\" showcasing an intense battle between the player character and the enemy, Tiger's Acolyte. The player character is airborne, executing a powerful downward slash attack, while Tiger's Acolyte is positioned defensively on the ground. This visual captures the game's intricate combat mechanics, emphasizing the strategic use of light and heavy attacks, such as \"Moon Dance\" and \"Moon Chase,\" to build focus and unleash dash attacks. The preceding and following text describes various attack patterns and strategies, highlighting the need for tactical responses during combat encounters."
+    "chunk_id": 1101996422,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Woods_Ember_Walkthrough_%2891%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(91\\).png",
+    "position_desc": 51,
+    "img_above_text": "![Woods Ember Walkthrough \\(95\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Woods_Ember_Walkthrough_%2895%29.png)\nThe cave is very dark, but you'll be able to see the faint glow of a green Wisp to the left and lava to the right. Head for the lava, to find a Revenant Charbone, but also a pathway that leads outside.",
+    "img_below_text": "Go out here and toward the statues to collect the Amber Prayer Beads curio from the box.\nAmber Prayer Beads",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(95\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Woods_Ember_Walkthrough_%2895%29.png)\nThe cave is very dark, but you'll be able to see the faint glow of a green Wisp to the left and lava to the right. Head for the lava, to find a Revenant Charbone, but also a pathway that leads outside.\"\n        - Following Text: \"Go out here and toward the statues to collect the Amber Prayer Beads curio from the box.\nAmber Prayer Beads\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing at the exit of a dark, intricately carved cave, facing an outdoor area filled with stone statues. The scene aligns with the walkthrough's guidance to leave the cave and approach the statues to collect the Amber Prayer Beads curio. The red marker in the image highlights the next objective or point of interest."
 }

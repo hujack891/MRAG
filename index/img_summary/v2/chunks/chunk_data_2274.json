@@ -1,28 +1,11 @@
 {
-    "chunk_id": 259635290865,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_MadTiger_18.jpg",
-    "alt_text": "Wukong MadTiger 18.jpg",
-    "position_desc": 23,
-    "img_above_text": "![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)\nIf you don’t dodge as he lands, he’ll send you into the air, grab you, and slam you repeatedly into the ground — which usually ends in instant death if you have anything less than full health.",
-    "img_below_text": "Expect this fight to take a lot of practice, and considerable upgrades in skills on your part to deal enough damage to survive the fight. While most Rock Solid deflections won’t be enough to stop him, retaliating with charged heavy strikes or crashing an Immobilize can sometimes stagger him several times and give you several openings. Using the Azure Dust Transformation is also useful to soak up his most damaging combos and retaliate with heavy charged hits to take chunks off his health.\nKeep practicing against dodging his moves, finding the right times to deflect the end of his combos (or just use Cloud Step to get out of the way) and always watch carefully when you stagger him to avoid his rising grab. Having the concoction to increase your max health can be beneficial if you’re unable to evade his grab or lengthy combos.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)\nIf you don’t dodge as he lands, he’ll send you into the air, grab you, and slam you repeatedly into the ground — which usually ends in instant death if you have anything less than full health.\"\n            - Following Text: \"Expect this fight to take a lot of practice, and considerable upgrades in skills on your part to deal enough damage to survive the fight. While most Rock Solid deflections won’t be enough to stop him, retaliating with charged heavy strikes or crashing an Immobilize can sometimes stagger him several times and give you several openings. Using the Azure Dust Transformation is also useful to soak up his most damaging combos and retaliate with heavy charged hits to take chunks off his health.\nKeep practicing against dodging his moves, finding the right times to deflect the end of his combos (or just use Cloud Step to get out of the way) and always watch carefully when you stagger him to avoid his rising grab. Having the concoction to increase your max health can be beneficial if you’re unable to evade his grab or lengthy combos.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_MadTiger_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist fighting against a formidable enemy named \"Mad Tiger.\" The scene is set in a rocky, dimly lit environment with debris and dust flying around, emphasizing the ferocity of the encounter. The on-screen prompts suggest using specific attacks, \"Earth Shatter\" and \"Mountain Splitter,\" to strike and dash at the enemy. The preceding and following text provides strategic advice for surviving this challenging fight, highlighting the need for precise dodging, skill upgrades, and effective use of abilities to overcome the powerful adversary."
+    "chunk_id": 469350882263,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black_Myth_Wukong_Secrets_%282%29.png",
+    "alt_text": "Black Myth Wukong Secrets \\(2\\).png",
+    "position_desc": 4,
+    "img_above_text": "* Elder Jinchi Boss Guide\n## Red Loong",
+    "img_below_text": "Though Red Loong can be found in Chapter 1, you'll actually **need to wait until Chapter 2 before you can access the secret boss.** Once you've collected the Loong Scales from Chapter 2, return to the Keeper's Shrine called Outside the Forest and head to the nearby waterfall. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\n### Relevant Guide Pages",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Elder Jinchi Boss Guide\n## Red Loong\"\n        - Following Text: \"Though Red Loong can be found in Chapter 1, you'll actually **need to wait until Chapter 2 before you can access the secret boss.** Once you've collected the Loong Scales from Chapter 2, return to the Keeper's Shrine called Outside the Forest and head to the nearby waterfall. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\n### Relevant Guide Pages\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character facing off against a large, menacing creature in a dark, rocky environment, likely representing the secret boss \"Red Loong\" from the game. The preceding and following text explains that Red Loong is accessible in Chapter 2 after obtaining the Loong Scales and entering a waterfall near the Keeper's Shrine called Outside the Forest. This image likely illustrates the encounter with Red Loong as part of the walkthrough or guide."
 }

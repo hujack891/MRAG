@@ -1,28 +1,11 @@
 {
-    "chunk_id": 451506183529,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Foothills_Walkthrough_%28125%29.png",
-    "alt_text": "Foothills Walkthrough \\(125\\).png",
-    "position_desc": 12,
-    "img_above_text": "When the cutscene is over, you'll be at the edge of the cliff, so hop on to Somersault Cloud to get started exploring the area.\n### Secret Chest",
-    "img_below_text": "![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the cutscene is over, you'll be at the edge of the cliff, so hop on to Somersault Cloud to get started exploring the area.\n### Secret Chest\"\n            - Following Text: \"![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Foothills_Walkthrough_%28125%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character riding the Somersault Cloud in a lush, rocky forested area. An arrow points upward, indicating the next destination or path above, near a curved tree. This scene serves as a visual guide for navigating the environment after the cutscene in the game \"Black Myth: Wukong.\"\n\n2. **Purpose/Narrative Role**:  \nThe image highlights the transition from the cliffside exploration to the next objective, guiding players to fly upward and locate a secret chest near the curved tree above the starting path. It visually supports the walkthrough instructions for progressing in the level."
+    "chunk_id": 800443714430,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_Wolves_14.jpg",
+    "alt_text": "Wukong Wolves 14.jpg",
+    "position_desc": 22,
+    "img_above_text": "Further down by the stream, you can spy a curious sight - a small Rat Guai will be looking around a small stone statue head at the end of the stream, before scurrying out of sight. If you go to check out what he was interacting with, you can touch the stone head to gain the **Skandha of Form** Key Item. Its purpose isn’t known just yet, but might be worth hanging onto…\nHead upstream to find another Purple**Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant.",
+    "img_below_text": "Where the stream widens and is full of more statue heads, you’ll encounter a few Frog Guai called a Croaky. They will hop toward you with sword in hand, and pause in midair before slicing forward, giving you a clear moment to dodge around them and counter. Just be sure you back away after killing one, as they’ll explode on death with poison gas.\n![Wukong Wolves 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wolves_15.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Further down by the stream, you can spy a curious sight - a small Rat Guai will be looking around a small stone statue head at the end of the stream, before scurrying out of sight. If you go to check out what he was interacting with, you can touch the stone head to gain the **Skandha of Form** Key Item. Its purpose isn’t known just yet, but might be worth hanging onto…\nHead upstream to find another Purple**Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant.\"\n        - Following Text: \"Where the stream widens and is full of more statue heads, you’ll encounter a few Frog Guai called a Croaky. They will hop toward you with sword in hand, and pause in midair before slicing forward, giving you a clear moment to dodge around them and counter. Just be sure you back away after killing one, as they’ll explode on death with poison gas.\n![Wukong Wolves 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wolves_15.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a stream environment from the game *Black Myth: Wukong*. A player-controlled character, armed with a staff, is engaged in battle with a Frog Guai enemy mid-air. The setting includes moss-covered rocks and flowing water, aligning with the narrative of encountering Croaky enemies near statue heads upstream. The enemy appears to be attacking, consistent with the description of their sword-wielding leap and poison gas explosion upon defeat. HUD elements show health and stamina bars, along with an ability icon."
 }

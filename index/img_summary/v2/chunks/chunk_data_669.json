@@ -1,28 +1,11 @@
 {
-    "chunk_id": 584952729197,
-    "source_file": "Clay_Vajra_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Clay_Vajra_Power_2.jpg",
-    "alt_text": "Clay Vajra Power 2.jpg",
-    "position_desc": 3,
-    "img_above_text": "In addition to its knees and belly, the Clay Vajra is also armed with a fork-like weapon that it uses to stab and swipe at you.\n## Clay Vajra Spirit",
-    "img_below_text": "* **Flames of Doom**\n* Equipped Effect: Moderately increases Burn Resistance.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Clay_Vajra_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"In addition to its knees and belly, the Clay Vajra is also armed with a fork-like weapon that it uses to stab and swipe at you.\n## Clay Vajra Spirit\"\n            - Following Text: \"* **Flames of Doom**\n* Equipped Effect: Moderately increases Burn Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Clay_Vajra_Power_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**:  \nThe image showcases the \"Clay Vajra Spirit\" in a game interface, highlighting its abilities and effects. The spirit can unleash \"Flames of Doom,\" spewing fire from its knees to damage enemies while increasing the user's burn resistance when equipped.\n\n2. **Purpose/Role**:  \nThe image serves as a detailed description of the Clay Vajra Spirit, emphasizing its combat utility and defensive benefits, aligning with the preceding and following text that describes its weaponry and equipped effects."
+    "chunk_id": 724247012045,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Black-myth-wukong-evil-tonifying-decoction.jpg",
+    "alt_text": "Black-myth-wukong-evil-tonifying-decoction.jpg",
+    "position_desc": 13,
+    "img_above_text": "• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\n![Longevity Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Longevity_Decoction_.jpg)| Longevity Decoction | Rare | Upon use, considerably increases maximum health for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| Not craftable | Longevity Decoction",
+    "img_below_text": "• 1 Licorice | Tonifying Decoction\n![Black-myth-wukong-essence-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Black-myth-wukong-essence-decoction.jpg)| Essence Decoction | Rare | Upon use, considerably increases maximum mana for a long duration. | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar in Yellow Wind RidgeBought from the Shrine Store | • 1 Flower",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\n![Longevity Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Longevity_Decoction_.jpg)| Longevity Decoction | Rare | Upon use, considerably increases maximum health for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| Not craftable | Longevity Decoction\"\n        - Following Text: \"• 1 Licorice | Tonifying Decoction\n![Black-myth-wukong-essence-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Black-myth-wukong-essence-decoction.jpg)| Essence Decoction | Rare | Upon use, considerably increases maximum mana for a long duration. | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar in Yellow Wind RidgeBought from the Shrine Store | • 1 Flower\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Longevity Decoction**, a rare consumable item in *Black Myth: Wukong*. Upon use, it significantly increases maximum health for an extended duration. The formula for crafting this item can be purchased from Xu Dog in the Crouching Tiger Temple - Cellar after completing Chapter 2 - Yellow Wind Ridge, or it can be bought from the Shrine Store in The New West. The item is **not craftable**."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 307515482241,
-    "source_file": "Blood_of_the_Iron_Bull.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Blood_of_the_Iron_Bull.jpg",
-    "alt_text": "Blood of the Iron Bull.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Blood of the Iron Bull\nBlood of the Iron Bull is one of the rarest and most important Crafting Materials in Black Myth: Wukong. They are vital for upgrading all your Spirits and powering them up to their maximum level. Blood of the Iron Bull can be found throughout the game in various locations, so you will always be stumbling upon them while defeating Yaoguai Kings, Chiefs, and bosses.",
-    "img_below_text": "## Where To Use Blood of the Iron Bull in Black Myth: Wukong\nBlood of the Iron Bull materials can be used at the Shrines to upgrade your Spirits. Higher upgrades for them require more Blood of the Iron Bull materials, so it is important to find as many as you can.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Blood_of_the_Iron_Bull.md'.\n\n            Context:\n            - Preceding Text: \"# Blood of the Iron Bull\nBlood of the Iron Bull is one of the rarest and most important Crafting Materials in Black Myth: Wukong. They are vital for upgrading all your Spirits and powering them up to their maximum level. Blood of the Iron Bull can be found throughout the game in various locations, so you will always be stumbling upon them while defeating Yaoguai Kings, Chiefs, and bosses.\"\n            - Following Text: \"## Where To Use Blood of the Iron Bull in Black Myth: Wukong\nBlood of the Iron Bull materials can be used at the Shrines to upgrade your Spirits. Higher upgrades for them require more Blood of the Iron Bull materials, so it is important to find as many as you can.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Blood_of_the_Iron_Bull.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the in-game inventory screen from *Black Myth: Wukong*, highlighting the \"Blood of the Iron Bull,\" a rare and epic crafting material. Its description emphasizes its importance for upgrading Spirits to their maximum potential, aligning with the preceding and following text that discusses its rarity and usage at Shrines for Spirit enhancement. The item is visually represented as a carved, reddish artifact, reinforcing its significance in the game's progression system."
+    "chunk_id": 145397453866,
+    "source_file": "Buddha%27s_Eyeball_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Buddhas_Eyeball_10.jpg",
+    "alt_text": "Buddhas Eyeball 10.jpg",
+    "position_desc": 8,
+    "img_above_text": "The final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\nBuddha's Eyeball 6",
+    "img_below_text": "For a more detailed run-through of the entirety of Yellow Wind Ridge, check out our walkthrough.\nBuddha's Eyeball",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\nBuddha's Eyeball 6\"\n        - Following Text: \"For a more detailed run-through of the entirety of Yellow Wind Ridge, check out our walkthrough.\nBuddha's Eyeball\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a large Buddha's Eyeball statue with glowing yellow eyes, located in a rocky, arid environment. This statue is identified as the sixth and final Buddha's Eyeball, situated near the Rockrest Flat shrine in Fright Cliff. The image serves as a visual reference for locating the statue, as described in the walkthrough text."
 }

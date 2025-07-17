@@ -1,28 +1,11 @@
 {
-    "chunk_id": 401604458114,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-enhanced-ginseng-pellets.jpg",
-    "alt_text": "Black-myth-wukong-enhanced-ginseng-pellets.jpg",
-    "position_desc": 18,
-    "img_above_text": "![Black-myth-wukong-body-fleeting-powder.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Black-myth-wukong-body-fleeting-powder.jpg)| Body-Fleeting Powder | Epic | Upon use, all actions cost no stamina for a short duration | • Formula obtained from a container in New Thunderclap Temple by the Horse Guai in The New West• Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Purple Lingzhi\n• 1 Celestial Pear | Body-Fleeting Powder",
-    "img_below_text": "• 1 Millennium Ginseng\n• 1 Licorice | Enhanced Ginseng Pellets",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-body-fleeting-powder.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Black-myth-wukong-body-fleeting-powder.jpg)| Body-Fleeting Powder | Epic | Upon use, all actions cost no stamina for a short duration | • Formula obtained from a container in New Thunderclap Temple by the Horse Guai in The New West• Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Purple Lingzhi\n• 1 Celestial Pear | Body-Fleeting Powder\"\n            - Following Text: \"• 1 Millennium Ginseng\n• 1 Licorice | Enhanced Ginseng Pellets\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-enhanced-ginseng-pellets.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a three-tiered, blue potion bottle with a red stopper, likely representing the Body-Fleeting Powder from the game \"Black Myth: Wukong.\" This item is classified as epic and grants the user a temporary period during which all actions cost no stamina. The formula for this powder can be obtained from specific locations and characters within the game, and it requires ingredients such as Purple Lingzhi and Celestial Pear. The preceding text details its acquisition and usage, while the following text lists additional ingredients for another item, the Enhanced Ginseng Pellets."
+    "chunk_id": 297799559077,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg",
+    "alt_text": "Knot Of Voidness .jpg",
+    "position_desc": 36,
+    "img_above_text": "![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters",
+    "img_below_text": "",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\"\n        - Following Text: \"\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an in-game item from the video game \"Black Myth: Wukong.\" It is likely a collectible or upgrade material, similar to the \"Luojia Fragrant Vine\" and \"Awaken Wine Worm\" mentioned in the preceding text. These items are categorized as \"Legendary\" and are used for upgrading rare gourds, with specific locations for acquisition (e.g., trees or vases in various chapters). The image's purpose is to visually represent one such upgrade material."
 }

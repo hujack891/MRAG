@@ -1,28 +1,11 @@
 {
-    "chunk_id": 623324150530,
-    "source_file": "Flint_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
-    "alt_text": "B1 19 09 2024 16 00 13 copy.png",
+    "chunk_id": 734643375445,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Prologue_6.jpg",
+    "alt_text": "Wukong Prologue 6.jpg",
     "position_desc": 6,
-    "img_above_text": "When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.",
-    "img_below_text": "When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Flint_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.\"\n            - Following Text: \"When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character in a rocky, desolate environment, facing the Flint Vanguard, a fiery enemy highlighted by a red dashed circle. The Vanguard is shown launching fireballs, consistent with its enraged attack pattern described in the preceding text. The image visually supports the gameplay strategy of avoiding fireballs while staying close to the Vanguard to dodge punches and execute heavy attacks. The following text suggests that this encounter leads to collecting the Flint Vanguard Spirit and a green Wisp nearby."
+    "img_above_text": "![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)\nWhen Erlang falls to less than half health, another small scene will play out before the final bout, and Erlang will start invoking more of his divinity to blast you with projectiles. Since you can’t really take lasting damage, you can simply try dodging around, or hold the L2 button to deflect them.",
+    "img_below_text": "When Erlang returns to the ground, it's also a good time to try out your spells early if you want, by holding R2 and then pressing one of the three button icons:\n* The top button is **Rock Solid** , which acts like a parry that turns you into stone to deflect an incoming attack.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)\nWhen Erlang falls to less than half health, another small scene will play out before the final bout, and Erlang will start invoking more of his divinity to blast you with projectiles. Since you can’t really take lasting damage, you can simply try dodging around, or hold the L2 button to deflect them.\"\n        - Following Text: \"When Erlang returns to the ground, it's also a good time to try out your spells early if you want, by holding R2 and then pressing one of the three button icons:\n* The top button is **Rock Solid** , which acts like a parry that turns you into stone to deflect an incoming attack.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showing the boss character, Erlang, the Sacred Divinity, unleashing a powerful divine attack with lightning and projectiles. The player is likely navigating this phase of the fight, where dodging or deflecting the projectiles is key, as described in the accompanying walkthrough text. The interface displays available spells, suggesting an opportunity to experiment with abilities during the encounter."
 }

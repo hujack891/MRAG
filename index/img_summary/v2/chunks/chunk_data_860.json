@@ -1,28 +1,11 @@
 {
-    "chunk_id": 531761672371,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Turtle_34.jpg",
-    "alt_text": "Wukong Turtle 34.jpg",
-    "position_desc": 15,
-    "img_above_text": "![Wukong Turtle 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Turtle_36.jpg)\nThe good news is that his blade won't stay enchanted forever, often ending with the previously mentioned attack. Once you no longer see electricity crackling along his blade, that's your cue to go back to pressing the attack by getting in staggering blows.",
-    "img_below_text": "In particular, we recommend the Red Tides transformation spell to evade around his attacks while burning him, as he swings are slow enough that you can have an easier time performing the wolf guai's ultimate spell attack for big damage.\nThis fight will largely come down to learning his moves enough that you can anticipate and avoid his powerful attacks, and find your opening to keep him staggered and on the defensive. Once you learn how to keep away from his sword swings, you'll be able to take him down for good.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_Turtle_36.jpg)\nThe good news is that his blade won't stay enchanted forever, often ending with the previously mentioned attack. Once you no longer see electricity crackling along his blade, that's your cue to go back to pressing the attack by getting in staggering blows.\"\n            - Following Text: \"In particular, we recommend the Red Tides transformation spell to evade around his attacks while burning him, as he swings are slow enough that you can have an easier time performing the wolf guai's ultimate spell attack for big damage.\nThis fight will largely come down to learning his moves enough that you can anticipate and avoid his powerful attacks, and find your opening to keep him staggered and on the defensive. Once you learn how to keep away from his sword swings, you'll be able to take him down for good.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Turtle_34.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic battle scene from the game *Black Myth: Wukong*, showcasing the player character facing off against the boss \"Cyan Loong\" in a snowy mountainous environment. Cyan Loong is wielding an electrified sword, with lightning effects and fiery elements emphasizing the intensity of the encounter. The preceding text highlights the temporary nature of the boss's blade enchantment, suggesting an opportunity to counterattack once the electricity dissipates. The following text provides strategic advice, recommending the use of transformation spells like \"Red Tides\" to evade and burn the boss while exploiting openings for stagger attacks. The image visually reinforces the narrative of mastering the boss's attack patterns to achieve victory."
+    "chunk_id": 881962165722,
+    "source_file": "Ebon_Flow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Wukong_Yin_1.jpg",
+    "alt_text": "Wukong Yin 1.jpg",
+    "position_desc": 5,
+    "img_above_text": "Defeat him using our Chen Loong boss guide. Once defeated, he will become friendly and you will be able to talk to him. He will ask you for some medicine to help him. This can be obtained from Xu Dog by just talking with him back at the Cellar Shrine in the Crouching Tiger Temple. With it, you can then return to Chen Loong, who will give you Ruyi Scroll, teleporting you to the Zodiac Village.\nIn the Zodiac Village, you can talk to Yin Tiger, who is a blacksmith sitting amongst the other merchants.",
+    "img_below_text": "Upon talking to Yin Tiger, you can choose to have a duel, which starts a boss battle. Our breakdown of the Yin Tiger boss has a detailed overview of the moves to watch out for and tips to succeed. If you are successful at taking down Yin Tiger, you will obtain the Ebon Flow Transformation.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Defeat him using our Chen Loong boss guide. Once defeated, he will become friendly and you will be able to talk to him. He will ask you for some medicine to help him. This can be obtained from Xu Dog by just talking with him back at the Cellar Shrine in the Crouching Tiger Temple. With it, you can then return to Chen Loong, who will give you Ruyi Scroll, teleporting you to the Zodiac Village.\nIn the Zodiac Village, you can talk to Yin Tiger, who is a blacksmith sitting amongst the other merchants.\"\n        - Following Text: \"Upon talking to Yin Tiger, you can choose to have a duel, which starts a boss battle. Our breakdown of the Yin Tiger boss has a detailed overview of the moves to watch out for and tips to succeed. If you are successful at taking down Yin Tiger, you will obtain the Ebon Flow Transformation.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the Zodiac Village in the video game, where the player character is interacting with Yin Tiger, a blacksmith. Yin Tiger is shown working at his forge, surrounded by tools and a large sword, emphasizing his role as a craftsman. This moment aligns with the walkthrough's context, where players can engage with Yin Tiger for dialogue or initiate a duel that leads to a boss battle."
 }

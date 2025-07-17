@@ -1,28 +1,11 @@
 {
-    "chunk_id": 406254930962,
-    "source_file": "Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Eye6.jpg",
-    "alt_text": "Wukong Eye6.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Eye5P1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Eye5P1.jpg)\n* Between the Squall Hideout and Rockrest Flat Shrines, you can find a large cave and tunnel leading to the Mother of Stones Yaoguai Chief fight. Take a right when looking at the boss to find a cave exit onto a small raised platform, and you'll find a statue head here.",
-    "img_below_text": "* Finally, when resting at the Rockrest Flat Shrine, you need only advance forward toward the entrance to the Stone Vanguard / Shigandang Boss Fights to find the final statue and Buddha's Eyeball.\n## Shigandang Boss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Eye5P1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Eye5P1.jpg)\n* Between the Squall Hideout and Rockrest Flat Shrines, you can find a large cave and tunnel leading to the Mother of Stones Yaoguai Chief fight. Take a right when looking at the boss to find a cave exit onto a small raised platform, and you'll find a statue head here.\"\n            - Following Text: \"* Finally, when resting at the Rockrest Flat Shrine, you need only advance forward toward the entrance to the Stone Vanguard / Shigandang Boss Fights to find the final statue and Buddha's Eyeball.\n## Shigandang Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Eye6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character in a rocky, arid landscape near Rockrest Flat. The character is positioned near a small shrine, with a red-circled point of interest in the distance.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves as a visual guide for players navigating the area between the Squall Hideout and Rockrest Flat Shrines. It highlights a specific location near Rockrest Flat, likely indicating a point of interest or a strategic spot related to the upcoming Shigandang Boss Fights. The red circle in the distance may mark an important item or objective, such as the Buddha's Eyeball mentioned in the context."
+    "chunk_id": 73654300468,
+    "source_file": "Tiny_Piece_of_Gold.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Tiny_Piece_of_Gold.jpg",
+    "alt_text": "Tiny Piece of Gold.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Tiny Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the lowest rarity, only providing a small Will buff.",
+    "img_below_text": "The Tiny Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Tiny Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the lowest rarity, only providing a small Will buff.\"\n        - Following Text: \"The Tiny Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows the inventory screen from the video game \"Black Myth: Wukong,\" specifically highlighting the item \"Tiny Piece of Gold.\" This item is categorized as an uncommon treasure and can be sold for extra Will, providing a small Will buff. The preceding and following text explain that the Tiny Piece of Gold is a basic treasure found in chests throughout the game's six chapters and has no practical use other than being sold."
 }

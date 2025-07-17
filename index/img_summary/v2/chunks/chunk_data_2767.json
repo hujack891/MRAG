@@ -1,28 +1,11 @@
 {
-    "chunk_id": 420503991519,
-    "source_file": "Sterness_of_Stone.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg",
-    "alt_text": "Sterness of Stone 2.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Sterness of Stone 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg)\nThe first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.",
-    "img_below_text": "The second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\n![Sterness of Stone 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Sterness_of_Stone.md'.\n\n            Context:\n            - Preceding Text: \"![Sterness of Stone 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg)\nThe first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\"\n            - Following Text: \"The second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\n![Sterness of Stone 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing before a large, ancient stone gate near the Sandgate Village - Valley of Despair Shrine. The character appears to be preparing to interact with or pass through the gate, which is part of the game's progression. This gate is identified as the first gate in the series of gates the player must navigate, with the next gate located at the base of a sand slope near the Fright Cliff - Rock Clash Platform Shrine. The image serves to illustrate the location and context of this first gate within the game's narrative."
+    "chunk_id": 517724995934,
+    "source_file": "Violet_Spider.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_LowerHollow_81.jpg",
+    "alt_text": "Wukong LowerHollow 81.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong LowerHollow 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_LowerHollow_78.jpg)\nOnce she reaches about half of her health or less, you'll need to keep your eyes peeled for when she dives her head into the ground. This will leave only her rear abdomen sticking out of the ground, but resist the urge to smack at it. Zhu Bajie may try to warn you, but it may not come out in time that she's preparing a deadly poison explosion!",
+    "img_below_text": "The poison blast has an extremely wide area of effect, and can be difficult to escape if you're still very close to her when she burrows in. Luckily, as long as you have a lot of stamina saved up, you can also negate the blast by using the Pillar Stance. It will likely take 50% of your stamina bar to soak, but you'll be free of any damage or poison!\n![Wukong LowerHollow 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_LowerHollow_82.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong LowerHollow 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_LowerHollow_78.jpg)\nOnce she reaches about half of her health or less, you'll need to keep your eyes peeled for when she dives her head into the ground. This will leave only her rear abdomen sticking out of the ground, but resist the urge to smack at it. Zhu Bajie may try to warn you, but it may not come out in time that she's preparing a deadly poison explosion!\"\n        - Following Text: \"The poison blast has an extremely wide area of effect, and can be difficult to escape if you're still very close to her when she burrows in. Luckily, as long as you have a lot of stamina saved up, you can also negate the blast by using the Pillar Stance. It will likely take 50% of your stamina bar to soak, but you'll be free of any damage or poison!\n![Wukong LowerHollow 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_LowerHollow_82.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character engaging with a boss named \"Violet Spider.\" The spider appears partially burrowed into the ground, likely preparing its deadly poison explosion, as described in the preceding text. The player is advised to avoid attacking its exposed abdomen and instead prepare to mitigate the incoming poison blast using stamina-saving techniques like the Pillar Stance. The health bar of the Violet Spider is visible, indicating the ongoing fight."
 }

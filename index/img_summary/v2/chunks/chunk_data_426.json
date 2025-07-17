@@ -1,28 +1,11 @@
 {
-    "chunk_id": 103093099719,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_Pagoda_88.jpg",
-    "alt_text": "Wukong Pagoda 88.jpg",
-    "position_desc": 11,
-    "img_above_text": "However, you'll also need to be ready to deal with its one major attack, which usually comes after you've assaulted its sphere at least once.\nAt a certain point, the construct will step into a corner of the room while the sphere lifts up and float high up toward the center, spinning wildly. It will send out beams of electricity in all direction as it twirls around, and the music swells.",
-    "img_below_text": "Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"However, you'll also need to be ready to deal with its one major attack, which usually comes after you've assaulted its sphere at least once.\nAt a certain point, the construct will step into a corner of the room while the sphere lifts up and float high up toward the center, spinning wildly. It will send out beams of electricity in all direction as it twirls around, and the music swells.\"\n            - Following Text: \"Keep strafing, and wait for lasers to start hitting the ground near you to trigger incoming lightning strikes on your position. This is a great time to use Cloud Step to give it the slip, allowing you to conserve stamina for the final act.\nEventually, you'll see the entire floor light up with criss-crossing lines over almost every inch of the surface. Keep dodging the lightning strikes, and as soon as the floor glows red, hop onto your Pillar Stance to extend off the ground (the more stamina you have built up, the better).\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_Pagoda_88.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a climactic boss battle scene against \"Captain Wise-Voice\" in a dark, ornate chamber. The glowing, spinning sphere at the center emits beams of energy, suggesting an imminent or ongoing powerful attack. The player character, partially obscured and seemingly mid-dodge, is positioned in the foreground, with visible health and stamina indicators, emphasizing the tense and strategic nature of the encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents the described moment in the text where the boss's sphere begins its high-energy attack, sending out beams of electricity. It highlights the need for the player to anticipate and evade the incoming lightning strikes, as described in the preceding and following text. This serves as a visual aid to emphasize the danger and mechanics of this phase of the battle."
+    "chunk_id": 569597856520,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_MiddleHollow_38.jpg",
+    "alt_text": "Wukong MiddleHollow 38.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong MiddleHollow 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_MiddleHollow_37.jpg)\nAfter he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.",
+    "img_below_text": "When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MiddleHollow 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_MiddleHollow_37.jpg)\nAfter he crashes into the skull pile, the armored bug boss will waste no time lunging through the air at you, and then launch into one of its more common attacks.\"\n        - Following Text: \"When attacking from the front, he'll often slam down his head repeatedly to hit you with two times, and then quickly stand up while pivoting around to fall on its back to squash you with its armored hide. Be ready to dodge the third slam, and then immediately begin a combo attack while it struggles to rise up again.\nThe Centipede Guai can also perform two slow frontal sweeps with its main claws, alternating a claw on each side, but with its fairly slow swings you can step to the side to focus on its legs.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showcasing a boss fight against the Centipede Guai. The player character is seen in combat with the large, armored centipede-like creature in a dark, cavernous environment filled with bones and skulls. The preceding and following text provides strategies for dodging the boss's attacks and finding opportunities to counterattack while it is vulnerable."
 }

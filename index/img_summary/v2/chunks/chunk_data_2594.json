@@ -1,28 +1,11 @@
 {
-    "chunk_id": 886906590232,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
-    "alt_text": "Secrets Wukong \\(6\\).png",
-    "position_desc": 24,
-    "img_above_text": "Getting the Samadhi Fire Crystals will allow you to craft the Staff of Blazing Karma.\n## Baw-Lang-Lang",
-    "img_below_text": "When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Getting the Samadhi Fire Crystals will allow you to craft the Staff of Blazing Karma.\n## Baw-Lang-Lang\"\n            - Following Text: \"When you've beaten the five carts and cracked through the ice to get into the cave, you're not quite yet in the Bishui Cave realm. To do this, you need to step toward the center of the room. However, if you take a left first and go to the open zone, you can find another of the frog bosses\n## Bishui Cave - Top Takes Bottom, Bottom Takes Top\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Secrets_Wukong_%286%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a frog-like creature, likely one of the frog bosses mentioned in the context. It is set in a dark, rocky environment, possibly the cave referenced in the text. The creature appears to be in a defensive or aggressive stance, suggesting an impending battle or encounter. This image serves to visually introduce players to one of the challenges they will face in the game \"Black Myth: Wukong,\" specifically within the Bishui Cave area."
+    "chunk_id": 791818233141,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Wolves_5.jpg",
+    "alt_text": "Wukong Wolves 5.jpg",
+    "position_desc": 16,
+    "img_above_text": "Each region has a number of Meditation Spots to uncover and every time you take a quiet moment to reflect, you’ll gain Sparks. If you want to unlock all those skills quickly, it’s worth tracking down every Meditation Spot and enjoying a moment of calm.\n### 11\\. Heavy Attacks Work Differently",
+    "img_below_text": "Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Each region has a number of Meditation Spots to uncover and every time you take a quiet moment to reflect, you’ll gain Sparks. If you want to unlock all those skills quickly, it’s worth tracking down every Meditation Spot and enjoying a moment of calm.\n### 11\\. Heavy Attacks Work Differently\"\n        - Following Text: \"Heavy attacks work very differently than in most action games, as their function differs depending on whether they’re used in or outside of a combo, and also depending on what stance you’re in. When used outside of a combo, they can be charged up to the number of focus points that you have unlocked, with each level of charge dramatically increasing the amount of damage the heavy attack will deal.\nWhen used in combos with the standard attack button, you'll perform a Varied Combo, assuming you’ve unlocked the specific Varied Combo from the skill tree in that stance. Varied combos require one point of focus, and unlike standalone heavy attacks, cannot be charged. That said, further upgrades can be purchased in the skill tree that can power them up and allow for follow up attacks that use additional focus points.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character is engaged in combat or performing an action near a fallen enemy. The environment is a lush forest with detailed vegetation, a large fallen tree, and a treasure chest nearby. The red glow suggests the collection of energy or resources, possibly Sparks, aligning with the preceding text about Meditation Spots and gaining Sparks. The HUD elements, including health and focus bars, indicate gameplay mechanics tied to combat and resource management, which connects to the following text discussing heavy attacks and focus points."
 }

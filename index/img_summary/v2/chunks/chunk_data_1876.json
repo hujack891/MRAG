@@ -1,28 +1,11 @@
 {
-    "chunk_id": 227984165115,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg",
-    "alt_text": "Wukong Pagoda 123.jpg",
-    "position_desc": 10,
-    "img_above_text": "Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple",
-    "img_below_text": "When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple\"\n            - Following Text: \"When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay moment from the second encounter with the Macaque Chief at the Warding Temple. The player character is positioned near a glowing circle of fire, which serves as a strategic element in the fight. The fire acts as a barrier that the Macaque Chief cannot cross, allowing the player to evade attacks or heal safely. The snowy environment and temple architecture in the background set the scene for this intense boss battle."
+    "chunk_id": 928181273404,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Thunderclap_33.jpg",
+    "alt_text": "Wukong Thunderclap 33.jpg",
+    "position_desc": 32,
+    "img_above_text": "Heading through here will lead you to the same central plaza that can be reached from the Temple Entrance Shrine's main path, or the higher path on the right.\nTaking either side path to each this plaza leads to a large road with a few patrolling Monk Supporters and an Overseeing Monk, with two Thunder Rhino Masters guarding the main stairs upward.",
+    "img_below_text": "If you check to the side of the stairs first, you can find a green Wisp to absorb in a large pot, but you'll need to watch out for a Wolf Guardian standing on a wooden platform above looking to ambush you.\n![Wukong Thunderclap 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Thunderclap_34.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Heading through here will lead you to the same central plaza that can be reached from the Temple Entrance Shrine's main path, or the higher path on the right.\nTaking either side path to each this plaza leads to a large road with a few patrolling Monk Supporters and an Overseeing Monk, with two Thunder Rhino Masters guarding the main stairs upward.\"\n        - Following Text: \"If you check to the side of the stairs first, you can find a green Wisp to absorb in a large pot, but you'll need to watch out for a Wolf Guardian standing on a wooden platform above looking to ambush you.\n![Wukong Thunderclap 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Thunderclap_34.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy outdoor area in *Black Myth: Wukong*, where the player character approaches a glowing green Wisp located inside a large pot near a stone wall. The Wisp is highlighted with a red circle, indicating its importance. Above the pot, a Wolf Guardian stands on a wooden platform, suggesting an ambush threat. The game's interface shows health, abilities, and inventory, with \"Fire Bellflower x2\" displayed as a collected item. This scene aligns with the guide's instructions to check near the stairs for the Wisp while being cautious of the ambush."
 }

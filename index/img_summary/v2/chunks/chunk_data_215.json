@@ -1,28 +1,11 @@
 {
-    "chunk_id": 910835517275,
+    "chunk_id": 946047669052,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg",
-    "alt_text": "Wukong Bitter 35.jpg",
-    "position_desc": 72,
-    "img_above_text": "![Wukong Bitter 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Bitter_38.jpg)\nIt's most common attack in the air is spreading its wings wide before beating them together, creating a cross slash projectile down at your location that requires some quick dodging.",
-    "img_below_text": "If you see its legs extend upwards (similar to the lesser variants) it's preparing to slam down its talons on you in a quick downward slam. However, deflecting with Rock Solid will send it flying backward, only to topple out of the sky and provide you a moment to sprint over and retaliate.\n![Wukong Bitter 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 72 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Bitter_38.jpg)\nIt's most common attack in the air is spreading its wings wide before beating them together, creating a cross slash projectile down at your location that requires some quick dodging.\"\n            - Following Text: \"If you see its legs extend upwards (similar to the lesser variants) it's preparing to slam down its talons on you in a quick downward slam. However, deflecting with Rock Solid will send it flying backward, only to topple out of the sky and provide you a moment to sprint over and retaliate.\n![Wukong Bitter 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense moment in the game *Black Myth: Wukong*, showing the player facing an airborne \"Apramana Bat\" enemy. The bat is in a threatening position, likely preparing to unleash an attack from above. The player's HUD displays various abilities and items, suggesting a strategic combat scenario.\n\n2. **Purpose and Narrative Role**:  \nThe image highlights the bat's aerial dominance and its potential for devastating attacks, as described in the preceding text. It visually reinforces the need for quick dodging or defensive maneuvers, such as using \"Rock Solid\" to counter its downward slam attack, as mentioned in the following text. This serves as a tutorial-like moment for players to learn how to deal with this formidable enemy."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_50.jpg",
+    "alt_text": "Wukong Bitter 50.jpg",
+    "position_desc": 83,
+    "img_above_text": "![Wukong Bitter 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Bitter_49.jpg)\nBeware of another tentacle abomination monk waiting for you as you drop down, and then head through the tunnel passage as it begins to narrow.",
+    "img_below_text": "Once you reach a fork in the tunnel, take the left exit to head outside, where you'll find a **Treasure Chest** on the right by a large mural, and several Frozen Corpses on a wooden platform to the left.\n![Wukong Bitter 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Bitter_52.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bitter 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Bitter_49.jpg)\nBeware of another tentacle abomination monk waiting for you as you drop down, and then head through the tunnel passage as it begins to narrow.\"\n        - Following Text: \"Once you reach a fork in the tunnel, take the left exit to head outside, where you'll find a **Treasure Chest** on the right by a large mural, and several Frozen Corpses on a wooden platform to the left.\n![Wukong Bitter 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Wukong_Bitter_52.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit cave environment from the video game *Black Myth: Wukong*. The player character is seen approaching a narrow passage with a wooden fence and a statue illuminated by warm light, suggesting a significant area or transition point. This scene aligns with the preceding text, which warns of an enemy encounter and describes the narrowing tunnel, and the following text, which mentions a fork in the tunnel leading to outdoor areas with collectibles."
 }

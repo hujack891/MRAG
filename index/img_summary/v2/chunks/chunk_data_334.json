@@ -1,28 +1,11 @@
 {
-    "chunk_id": 407482921603,
-    "source_file": "Blade_Monk_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Blade_Monk_Power.png",
-    "alt_text": "Blade Monk Power.png",
-    "position_desc": 3,
-    "img_above_text": "The Blade Monk fights like all other enemies of his kind with a massive sword. This sword hits hard, but the plus side is that it appears to be extremely heavy. Dodge each hit of the Blade Monk's combo and take the opportunity to land your own while he's recovering and gearing up for the next one.\n## Blade Monk Spirit",
-    "img_below_text": "* **Slaughter**\n* Equipped Effect: Moderately increases Attack for a short duration after defeating an enemy.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Blade_Monk_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Blade Monk fights like all other enemies of his kind with a massive sword. This sword hits hard, but the plus side is that it appears to be extremely heavy. Dodge each hit of the Blade Monk's combo and take the opportunity to land your own while he's recovering and gearing up for the next one.\n## Blade Monk Spirit\"\n            - Following Text: \"* **Slaughter**\n* Equipped Effect: Moderately increases Attack for a short duration after defeating an enemy.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Blade_Monk_Power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Blade Monk Spirit\" in a game’s equipment or inventory menu. This spirit allows the player to take the form of the Blade Monk, performing a powerful two-swing sword attack followed by a downward cleave. It has a high Qi cost and provides an equipped effect that temporarily boosts attack power after defeating an enemy. The interface also includes stats, other spirits, and a demo of the Blade Monk's ability in action.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a detailed overview of the Blade Monk Spirit, highlighting its combat utility and strategic value. It fits into the broader narrative of mastering spirits and leveraging their unique abilities to enhance gameplay and combat effectiveness."
+    "chunk_id": 25471632070,
+    "source_file": "Buddha%27s_Eyeball_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Buddhas_Eyeball_9.jpg",
+    "alt_text": "Buddhas Eyeball 9.jpg",
+    "position_desc": 7,
+    "img_above_text": "Continue up the hill and you will find the Mother of Stones boss. Either fight her, or leave her for later. Take a right where the light is shining through the cave at the top, and you will find the Buddha statue with the eyeball on the cliff edge.\nBuddha's Eyeball 5",
+    "img_below_text": "### Black Myth: Wukong Buddha's Eyeball 6 Location\nThe final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Continue up the hill and you will find the Mother of Stones boss. Either fight her, or leave her for later. Take a right where the light is shining through the cave at the top, and you will find the Buddha statue with the eyeball on the cliff edge.\nBuddha's Eyeball 5\"\n        - Following Text: \"### Black Myth: Wukong Buddha's Eyeball 6 Location\nThe final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing in a dimly lit cave area, looking toward a bright, illuminated cliff edge. In the distance, a Buddha statue with an eyeball is visible, aligning with the guide's description of the location for \"Buddha's Eyeball 5.\" The setting emphasizes exploration and discovery within the game's atmospheric environment."
 }

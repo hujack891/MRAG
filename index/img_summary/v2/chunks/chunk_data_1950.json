@@ -1,28 +1,11 @@
 {
-    "chunk_id": 103094479999,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg",
-    "alt_text": "Black-myth-wukong-fire-date.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards",
-    "img_below_text": "![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\"\n            - Following Text: \"![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Flame Ore, an uncommon ingredient in the game \"Black Myth: Wukong.\" This item is found in the Flaming Mountains by defeating Flamlings or can be purchased from the Shrine Store. It is part of a series of ingredients and formulas used within the game's narrative, contributing to the player's ability to craft or purchase items that aid in their journey."
+    "chunk_id": 407252998683,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Thunderclap_115.jpg",
+    "alt_text": "Wukong Thunderclap 115.jpg",
+    "position_desc": 114,
+    "img_above_text": "With enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake.\nYellowbrow",
+    "img_below_text": "The true mischievous lord that you've met beforehand will finally take his rightful place, and bestow upon you the third Sage's Relic: the Hubris Nose. You'll be able to reveal one of three perks with it:\n* Lingering Aroma - Gains a moderate Damage Bonus for a short time after casting a spell.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"With enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake.\nYellowbrow\"\n        - Following Text: \"The true mischievous lord that you've met beforehand will finally take his rightful place, and bestow upon you the third Sage's Relic: the Hubris Nose. You'll be able to reveal one of three perks with it:\n* Lingering Aroma - Gains a moderate Damage Bonus for a short time after casting a spell.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic scene set in a snowy mountainous landscape, featuring a large, ominous creature with red and dark features flying above. This likely represents Yellowbrow, a boss character mentioned in the preceding text, fleeing the temple toward the frozen lake at Mirrormere before being consumed by the Sage's Relic. The visual emphasizes the climactic moment of his defeat, tying into the narrative progression toward acquiring the third Sage's Relic, the Hubris Nose."
 }

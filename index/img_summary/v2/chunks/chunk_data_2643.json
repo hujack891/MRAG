@@ -1,28 +1,11 @@
 {
-    "chunk_id": 821033648169,
-    "source_file": "Skandha_of_Form.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Skanda_of_Form_1.jpg",
-    "alt_text": "Skanda of Form 1.jpg",
-    "position_desc": 2,
-    "img_above_text": "![Skanda of Form 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Skanda_of_Form_3.jpg)\nThe Skandha of Form can be found within the Forest of Wolves, Front Hills Shrine in Black Wind Mountain. This is the first Shrine in the game. Upon crossing the bridge soon after the Shrine, loop around to the left to find a river and a monkey.",
-    "img_below_text": "The monkey will run off, leaving behind the Skandha of Form on the ground for you to use.\n![Skanda of Form 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Skanda_of_Form_2.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Skandha_of_Form.md'.\n\n            Context:\n            - Preceding Text: \"![Skanda of Form 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Skanda_of_Form_3.jpg)\nThe Skandha of Form can be found within the Forest of Wolves, Front Hills Shrine in Black Wind Mountain. This is the first Shrine in the game. Upon crossing the bridge soon after the Shrine, loop around to the left to find a river and a monkey.\"\n            - Following Text: \"The monkey will run off, leaving behind the Skandha of Form on the ground for you to use.\n![Skanda of Form 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Skanda_of_Form_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Skanda_of_Form_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is standing in a forested area near a river. The image highlights a specific object, the Skandha of Form, marked by a red dashed circle. This object is left behind by a monkey that runs off, as described in the preceding and following text. The Skandha of Form is an item that players can find and use within the game, specifically in the Forest of Wolves, near the Front Hills Shrine in Black Wind Mountain."
+    "chunk_id": 525758716814,
+    "source_file": "Vajra_Armguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_30.jpg",
+    "alt_text": "Wukong Thunderclap 30.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Moderately reduces cooldown of all mysticism spells\nThe Vajra Armguard is obtained upon defeating any Clay Vajra enemy in New Thunderclap Temple in Chapter 3 - The New West. Simply farm the enemy until it drops.",
+    "img_below_text": "Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Moderately reduces cooldown of all mysticism spells\nThe Vajra Armguard is obtained upon defeating any Clay Vajra enemy in New Thunderclap Temple in Chapter 3 - The New West. Simply farm the enemy until it drops.\"\n        - Following Text: \"Armor can be upgraded, with Silk once you reach Chen Loong and open the Zodiac Realm in The New West in Chapter 3.\nFor even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character engaging in combat with a fiery centaur-like enemy in a snowy environment near a temple. This scene is likely part of Chapter 3 - The New West, where players can defeat Clay Vajra enemies to obtain the Vajra Armguard, which moderately reduces cooldowns for mysticism spells. The guide also mentions armor upgrades and additional item locations, encouraging players to explore further resources for optimizing gameplay."
 }

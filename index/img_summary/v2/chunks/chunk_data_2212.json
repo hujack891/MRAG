@@ -1,28 +1,11 @@
 {
-    "chunk_id": 838510282513,
-    "source_file": "Non-Void_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Non_Void_Location.jpg",
-    "alt_text": "Non Void Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "Non-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.\nWhile exploring the New West, you will come across a corpse slumped over at a gate. Interact with the corpse to get a mission from the fox. She wants you to take her to the man who took her life. The man in question is Non-Void, and he can be found on the left wing of the New Thunderclap Temple complex.",
-    "img_below_text": "To get there, head to the New Thunderclap Temple and pass through the entrance. Head straight ahead through the second building and take the stairs on the left. Keep heading left and into the red building on the side. Run up the stairs on the right, around the veranda, and up the stairs at the back to find yourself in the left-wing courtyard. Run up the stone stairs to find Non-Void waiting in the temple.\nIf you get hit as the fox you will transform back into the monkey. Use the Snow Fox Brush to turn back into the fox again before entering the temple to complete her quest. The brush will be in your inventory after initiating the quest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Non-Void_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Non-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.\nWhile exploring the New West, you will come across a corpse slumped over at a gate. Interact with the corpse to get a mission from the fox. She wants you to take her to the man who took her life. The man in question is Non-Void, and he can be found on the left wing of the New Thunderclap Temple complex.\"\n            - Following Text: \"To get there, head to the New Thunderclap Temple and pass through the entrance. Head straight ahead through the second building and take the stairs on the left. Keep heading left and into the red building on the side. Run up the stairs on the right, around the veranda, and up the stairs at the back to find yourself in the left-wing courtyard. Run up the stone stairs to find Non-Void waiting in the temple.\nIf you get hit as the fox you will transform back into the monkey. Use the Snow Fox Brush to turn back into the fox again before entering the temple to complete her quest. The brush will be in your inventory after initiating the quest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Non_Void_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, serene temple entrance with a set of stone stairs leading up to it. In the foreground, a fox stands, seemingly preparing to ascend the stairs. This scene aligns with the context of a quest where the player, in the form of a fox, is on a mission to find Non-Void in the New Thunderclap Temple complex. The image serves to illustrate the environment and the player's perspective as they approach the temple to complete the fox's quest."
+    "chunk_id": 483021316812,
+    "source_file": "Refined_Iron_Sand.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Refined_Iron_Sand.jpg",
+    "alt_text": "Refined Iron Sand.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.",
+    "img_below_text": "Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.\"\n        - Following Text: \"Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from the video game *Black Myth: Wukong*, highlighting the \"Refined Iron Sand\" material. It is categorized as an \"Epic\" general weapon material, with a description stating it has been smelt nine times and is used for crafting weapons. The player currently holds 5 units out of a maximum of 999. This material is essential for weapon upgrades and crafting new staff variants, as mentioned in the preceding text."
 }

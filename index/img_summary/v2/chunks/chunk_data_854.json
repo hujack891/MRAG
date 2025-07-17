@@ -1,28 +1,11 @@
 {
-    "chunk_id": 59570654107,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg",
-    "alt_text": "Wukong Turtle 27.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Turtle 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg)\nThe good news is his final sword slice allows for an extended moment to dodge around and attack him from behind. However, you'll need to keep your eyes open when trying to attack from behind, as he can easily whip his mace-like tail around to hit you. Watch for it to rise up to the top left before slashing down to the bottom right to know when to deflect or evade.",
-    "img_below_text": "In addition to his standard sword swings and combos, the Cyan Loong can change things up by charging up and holding his sword back pointed straight at you before launching into a slow two-handed swing, or pausing to spin for a backhand slash as he whirls around.\n![Wukong Turtle 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Turtle_31.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg)\nThe good news is his final sword slice allows for an extended moment to dodge around and attack him from behind. However, you'll need to keep your eyes open when trying to attack from behind, as he can easily whip his mace-like tail around to hit you. Watch for it to rise up to the top left before slashing down to the bottom right to know when to deflect or evade.\"\n            - Following Text: \"In addition to his standard sword swings and combos, the Cyan Loong can change things up by charging up and holding his sword back pointed straight at you before launching into a slow two-handed swing, or pausing to spin for a backhand slash as he whirls around.\n![Wukong Turtle 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Turtle_31.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene in a snowy, rocky environment from *Black Myth: Wukong*. The player character, Wukong, is engaged in combat with the Cyan Loong, a humanoid dragon-like boss wielding a sword. The health bar at the bottom indicates the ongoing boss fight, while the player character appears to be preparing an attack or evading.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a pivotal moment in the boss fight against the Cyan Loong, emphasizing the need for strategic positioning and awareness of the boss's attack patterns. It complements the surrounding text, which provides tips on avoiding the Cyan Loong's tail whip and describes his varied sword techniques."
+    "chunk_id": 112340103861,
+    "source_file": "Earth_Wolf_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Earth_wolf_power.jpg",
+    "alt_text": "Earth wolf power.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Earth Wolf hits very hard, but winds up a lot of its moves, giving you a chance to dodge out of the way before they hit.\n## Earth Wolf Spirit",
+    "img_below_text": "* **Wild Rapture**\n* Equipped Effect: Grants a small amount of additional Focus on hit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Earth Wolf hits very hard, but winds up a lot of its moves, giving you a chance to dodge out of the way before they hit.\n## Earth Wolf Spirit\"\n        - Following Text: \"* **Wild Rapture**\n* Equipped Effect: Grants a small amount of additional Focus on hit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. The image displays the \"Earth Wolf\" Spirit in a video game's equipment menu. The Spirit is classified as Epic, has a high Qi cost, and features the ability \"Wild Rapture,\" which allows the player to transform into the Earth Wolf and charge at enemies to make them stumble. The equipped effect grants additional Focus on hit.  \n2. The image serves to showcase the Spirit's abilities, stats, and its role in combat, aligning with the guide's description of its powerful but telegraphed attacks."
 }

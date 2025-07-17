@@ -1,28 +1,11 @@
 {
-    "chunk_id": 393019718376,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Pagoda_75.jpg",
-    "alt_text": "Wukong Pagoda 75.jpg",
-    "position_desc": 72,
-    "img_above_text": "![Wukong Pagoda 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Pagoda_74.jpg)\nPast where the Yaksha was patrolling, you should find two cells. One is already open, and holds a green Wisp inside near a Frozen Corpse keep traveling down this cell tunnel past an Abomination, and you can find a **Treasure Chest** with some materials inside.",
-    "img_below_text": "Next door, you can find the final sealed cell, which you can now open if you defeated Captain Lotus-Vision. Inside is another **Treasure Chest** that has more random materials, but it's guarded by an Enslaved Yaksha.\nPast that last cell door, there's a big open area with a few final important things to do:",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 72 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Pagoda_74.jpg)\nPast where the Yaksha was patrolling, you should find two cells. One is already open, and holds a green Wisp inside near a Frozen Corpse keep traveling down this cell tunnel past an Abomination, and you can find a **Treasure Chest** with some materials inside.\"\n            - Following Text: \"Next door, you can find the final sealed cell, which you can now open if you defeated Captain Lotus-Vision. Inside is another **Treasure Chest** that has more random materials, but it's guarded by an Enslaved Yaksha.\nPast that last cell door, there's a big open area with a few final important things to do:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Pagoda_75.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character standing in front of a sealed cell door. Inside the cell, there is a treasure chest and an Enslaved Yaksha. The context suggests that this cell can be opened after defeating Captain Lotus-Vision, and it contains valuable materials guarded by the Yaksha. The image serves to illustrate the location and the challenge of accessing the treasure within the game."
+    "chunk_id": 966544391437,
+    "source_file": "Small_Piece_of_Gold.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Small_Piece_of_Gold.jpg",
+    "alt_text": "Small Piece of Gold.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Small Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the middle rarity, providing a significant Will amount.",
+    "img_below_text": "The Small Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Small Piece of Gold is one of the basic Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the middle rarity, providing a significant Will amount.\"\n        - Following Text: \"The Small Piece of Gold can be found throughout the game's six chapters in the following locations:\n* In Chests\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the inventory screen from *Black Myth: Wukong*, specifically highlighting the \"Small Piece of Gold,\" a rare treasure item. The description notes that it is a small gold fragment mixed with stone, potentially tradable at the Keeper's Shrine. According to the context, this item serves no crafting purpose but can be sold for extra Will, making it a mid-tier resource in terms of value."
 }

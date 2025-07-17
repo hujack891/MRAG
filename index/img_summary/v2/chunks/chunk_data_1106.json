@@ -1,28 +1,11 @@
 {
-    "chunk_id": 34800596297,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Foothills_Walkthrough_%28112%29.png",
-    "alt_text": "Foothills Walkthrough \\(112\\).png",
-    "position_desc": 18,
-    "img_above_text": "![Foothills Walkthrough \\(119\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%28119%29.png)\nJiao-Loong of Waves has a limited moveset, so you can quickly pick up on the attack patterns. It will mainly use its tale to try and whip you, either by spinning or flipping around to catch you with it.",
-    "img_below_text": "As well as this, it will lunge and swipe at you, and occasionally sidestep or leap up and pounce on you in an attempt to bite you. With all of these attacks, simply dodging or jumping back should be enough to keep you out of harm's way.\n![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(119\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%28119%29.png)\nJiao-Loong of Waves has a limited moveset, so you can quickly pick up on the attack patterns. It will mainly use its tale to try and whip you, either by spinning or flipping around to catch you with it.\"\n            - Following Text: \"As well as this, it will lunge and swipe at you, and occasionally sidestep or leap up and pounce on you in an attempt to bite you. With all of these attacks, simply dodging or jumping back should be enough to keep you out of harm's way.\n![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Foothills_Walkthrough_%28112%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense battle scene between the player character, armed with a staff-like weapon, and the boss \"Jiao-Loong of Waves,\" a large, serpentine creature with a muscular build and a long tail. The fight takes place in a shallow, reflective body of water surrounded by a dense, shadowy forest. The preceding and following text suggests the image highlights the boss's attack patterns, such as tail whips and lunges, and serves to visually immerse players in the encounter while providing context for the combat strategy."
+    "chunk_id": 44203145972,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Wolves_23.jpg",
+    "alt_text": "Wukong Wolves 23.jpg",
+    "position_desc": 31,
+    "img_above_text": "Past another Wolf, you’ll come upon the top of the path where a large wooden balcony overlooks the temple below. There’s a small orange pillow you can interact with to activate a **Meditation Spot**. Each chapter has a few of these, and resting at one will grant you a **free Spark Skill Point**\nThe Arbor, Forest of Wolves Meditation Spot",
+    "img_below_text": "Be sure to also look around near the wooden balcony for pots to smash for free Will, and a **Gentian** plant to gather.\n![Wukong Wolves 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Wolves_24.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Past another Wolf, you’ll come upon the top of the path where a large wooden balcony overlooks the temple below. There’s a small orange pillow you can interact with to activate a **Meditation Spot**. Each chapter has a few of these, and resting at one will grant you a **free Spark Skill Point**\nThe Arbor, Forest of Wolves Meditation Spot\"\n        - Following Text: \"Be sure to also look around near the wooden balcony for pots to smash for free Will, and a **Gentian** plant to gather.\n![Wukong Wolves 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Wolves_24.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from a video game, where the player character is smashing wooden pots near a wooden balcony in a forested area. This action rewards the player with \"Will\" points (+9) and collectible \"Gentian\" plants (+2), as indicated by the on-screen text. The setting aligns with the preceding and following text, describing exploration near a Meditation Spot in the Forest of Wolves."
 }

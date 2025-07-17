@@ -1,28 +1,11 @@
 {
-    "chunk_id": 305949357487,
-    "source_file": "Stone_Vanguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg",
-    "alt_text": "Wukong Sandgate 81.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find the Stone Vanguard\nAs a required boss, you won't be able to proceed to the Chapter 2 End Boss without defeating and him and obtaining one half of the Key Items needed to open various doors in Chapter 2's Yellow Wind Ridge.",
-    "img_below_text": "You can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.\n![Wukong Fright 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find the Stone Vanguard\nAs a required boss, you won't be able to proceed to the Chapter 2 End Boss without defeating and him and obtaining one half of the Key Items needed to open various doors in Chapter 2's Yellow Wind Ridge.\"\n            - Following Text: \"You can find this Vanguard in the Fright Cliff Region by taking a right after heading through the Sandgate Village and defeating the King of Flowing Sand and Second Rat Prince, and then crossing a bridge into this region until you reach Rockrest Flat.\n![Wukong Fright 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Fright_38.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player's character navigating a rugged terrain in the Fright Cliff Region. This area is crucial for progressing in Chapter 2, as players must defeat the Stone Vanguard to obtain a key item necessary for unlocking doors leading to the end boss. The image serves to illustrate the journey and challenges faced by the player in this specific part of the game."
+    "chunk_id": 311045810543,
+    "source_file": "Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Walkthrough2.jpg",
+    "alt_text": "Walkthrough2.jpg",
+    "position_desc": 2,
+    "img_above_text": "* **Chapter 1 Secret - Ancient Guanyin Temple**\n##  Chapter 2 - Yellow Sand, Desolate Dusk",
+    "img_below_text": "Chapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n* **Sandgate Village**",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* **Chapter 1 Secret - Ancient Guanyin Temple**\n##  Chapter 2 - Yellow Sand, Desolate Dusk\"\n        - Following Text: \"Chapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n* **Sandgate Village**\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a desolate desert landscape, likely representing the setting of Chapter 2 in the game. A lone warrior stands in the foreground, overlooking a rugged terrain of cliffs, twisted trees, and a towering sand vortex in the distance. This scene aligns with the narrative of the \"Yellow Sand, Desolate Dusk\" chapter, where the protagonist ventures into the harsh deserts of Yellow Wind Ridge, a region controlled by the Yellow Wind Sage and his rat army."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 803187681934,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Furnace_Valley_Walkthrough_%28106%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(106\\).png",
-    "position_desc": 55,
-    "img_above_text": "Then go back to the stairs and head for the balcony (facing opposite the altar in The Emerald Hall). Turn to the right, and go up the stairs to find the Meditation Spot.\nThe Buddha, Emerald Hall Meditation Spot",
-    "img_below_text": "Now go back to The Emerald Hall and up to the altar near where you respawned. Collect the Loong Balm drink from the altar then turn left.\n![Furnace Valley Walkthrough \\(107\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Furnace_Valley_Walkthrough_%28107%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 55 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Then go back to the stairs and head for the balcony (facing opposite the altar in The Emerald Hall). Turn to the right, and go up the stairs to find the Meditation Spot.\nThe Buddha, Emerald Hall Meditation Spot\"\n            - Following Text: \"Now go back to The Emerald Hall and up to the altar near where you respawned. Collect the Loong Balm drink from the altar then turn left.\n![Furnace Valley Walkthrough \\(107\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Furnace_Valley_Walkthrough_%28107%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Furnace_Valley_Walkthrough_%28106%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character standing in front of an ornate altar in a dimly lit, intricately designed hall. The altar features candles, statues, and a glowing item highlighted with a red circle, suggesting it is an interactive or collectible object, likely the \"Loong Balm drink\" mentioned in the following text.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players locate the \"Loong Balm drink\" on the altar in The Emerald Hall. It provides context for the walkthrough, showing the exact position of the collectible item in relation to the environment."
+    "chunk_id": 55727027297,
+    "source_file": "How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Buddhas_Eye_Secret_Boss_%2813%29.png",
+    "alt_text": "Buddhas Eye Secret Boss \\(13\\).png",
+    "position_desc": 14,
+    "img_above_text": "If you haven’t got all 6 of the Buddha Eyes, when you go toward it and examine it, will say:_\"Bound by six seals, eternally confined. In yellow earth, the evil’s fate entwined.\"_\nWhen you have all 6 of the Budda Eyes, the prompt for Deliver will appear. Doing so will enter the Buddha’s Eyeballs into the rock and a secret boss Shigandang will appear.",
+    "img_below_text": "Om Mani Padme Hum\n### Secret - Defeat the Stone Vanguard with the Shigandang",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"If you haven’t got all 6 of the Buddha Eyes, when you go toward it and examine it, will say:_\"Bound by six seals, eternally confined. In yellow earth, the evil’s fate entwined.\"_\nWhen you have all 6 of the Budda Eyes, the prompt for Deliver will appear. Doing so will enter the Buddha’s Eyeballs into the rock and a secret boss Shigandang will appear.\"\n        - Following Text: \"Om Mani Padme Hum\n### Secret - Defeat the Stone Vanguard with the Shigandang\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the secret boss \"Shigandang,\" a stone-like creature that appears after delivering all six Buddha Eyes into a rock as part of a video game quest. This encounter is tied to unlocking and defeating the Stone Vanguard, as referenced in the following text. The environment suggests a rocky, desolate area fitting for the boss battle."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 422708948254,
+    "chunk_id": 674286544842,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg",
-    "alt_text": "Wukong Turtle 6.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Turtle 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg)\nOther times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.",
-    "img_below_text": "After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg)\nOther times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.\"\n            - Following Text: \"After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene in a snowy, mountainous environment from the game *Black Myth: Wukong*. The player character is seen evading a powerful lightning attack, with bolts of electricity striking the ground around them. The name \"Kang-Jin Star\" is displayed on the screen, indicating the boss or enemy involved in the encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a critical moment in the fight against a lightning-based boss, Kang-Jin Star. It visually complements the preceding and following text by showcasing the boss's electrical abilities, such as lightning bursts and spear-like projectiles, emphasizing the need for quick reactions and strategic evasion during the encounter."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_10.jpg",
+    "alt_text": "Wukong Turtle 10.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Turtle 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg)\nWhen appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.",
+    "img_below_text": "At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Turtle 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg)\nWhen appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.\"\n        - Following Text: \"At around half health, she'll start to get madder, and teleport high up to summon several groups of electrical bolts that will fly out in small clusters to track you down. You can't deflect them with your staff, so either use Cloud Step or stick to dodging.\nAfter this, she'll trigger a thunderstorm that darkens the arena, filling you the area with static electricity and most likely giving you the Shocked status effect. Take a moment to use a Shock-Quelling medicine.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle in *Black Myth: Wukong*, featuring a snowy mountainous arena. The player character, armed with a fiery staff, faces off against a floating enemy surrounded by glowing electrical orbs. The preceding and following text describe the enemy's attack patterns, including summoning electrical spikes, creating ground tremors, and triggering thunderstorms that inflict the Shocked status effect. The battle requires precise dodging and the use of Shock-Quelling medicine to counter the effects of static electricity."
 }

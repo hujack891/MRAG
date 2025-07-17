@@ -1,28 +1,11 @@
 {
-    "chunk_id": 192824750800,
-    "source_file": "Flint_Chief_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Flint_Chief_Location.jpg",
-    "alt_text": "Flint Chief Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Flint Chief Location\nThe Flint Chief is a large magma-rock enemy found in Furnace Valley. To get there, travel to the Valley Entrance Keeper's Shrine and head forward until you can drop into the lava flow on the left. Continue heading forward until you start nearing the end of the lava flow. Once you see a collection of rocks in the lava, approach them to lure the Flint Chief out of hiding.",
-    "img_below_text": "## Flint Chief Fight\nThe Flint Chief fight takes place on the lava, so you will want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without worrying about your health constantly depleting.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Flint_Chief_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Flint Chief Location\nThe Flint Chief is a large magma-rock enemy found in Furnace Valley. To get there, travel to the Valley Entrance Keeper's Shrine and head forward until you can drop into the lava flow on the left. Continue heading forward until you start nearing the end of the lava flow. Once you see a collection of rocks in the lava, approach them to lure the Flint Chief out of hiding.\"\n            - Following Text: \"## Flint Chief Fight\nThe Flint Chief fight takes place on the lava, so you will want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without worrying about your health constantly depleting.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Flint_Chief_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Flint Chief fight in Furnace Valley, showcasing the intense, lava-filled battlefield where the encounter takes place. The player character is positioned on the molten terrain, wielding a weapon and seemingly engaged in combat with the Flint Chief, a large magma-rock enemy visible in the background. The image aligns with the preceding text, which describes how to locate the Flint Chief, and the following text, which advises using the Xiang River Goddess Gourd for lava immunity during the fight. The scene emphasizes the hazardous environment and the need for preparation to survive the encounter."
+    "chunk_id": 162747087057,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Foothills_Walkthrough_%28144%29.png",
+    "alt_text": "Foothills Walkthrough \\(144\\).png",
+    "position_desc": 87,
+    "img_above_text": "![Five Skandhas .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_.png)\nWith all five in your inventory, go to Xu Dog and deliver the Skandhas. You'll then have the option to tell Xu Dog to make the Five Skandhas Pill. Receiving this will boost your health, mana, and stamina.",
+    "img_below_text": "Now it's time to head back to almost where you fought the Son of Stones. We mentioned earlier the clearing with the water and the big rock with golden trees on either side. Instead of going right, where you fought the Giant Shigandang, you now want to go left.\n![Foothills Walkthrough \\(145\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Five Skandhas .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_.png)\nWith all five in your inventory, go to Xu Dog and deliver the Skandhas. You'll then have the option to tell Xu Dog to make the Five Skandhas Pill. Receiving this will boost your health, mana, and stamina.\"\n        - Following Text: \"Now it's time to head back to almost where you fought the Son of Stones. We mentioned earlier the clearing with the water and the big rock with golden trees on either side. Instead of going right, where you fought the Giant Shigandang, you now want to go left.\n![Foothills Walkthrough \\(145\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scenic area in a forested valley with rocky cliffs, where the player character is hovering on a cloud, preparing to move in the direction indicated by a red arrow. The arrow points toward a path on the left side of the screen, guiding players to proceed in that direction. This image serves as a visual cue in the walkthrough to help players navigate toward the next objective after delivering the Five Skandhas to Xu Dog."
 }

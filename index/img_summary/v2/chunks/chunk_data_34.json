@@ -1,28 +1,11 @@
 {
-    "chunk_id": 852238172647,
+    "chunk_id": 35554953966,
     "source_file": "Azure_Dust.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-azure-dust-3.jpg",
     "alt_text": "Black-myth-wukong-azure-dust-3.jpg",
     "position_desc": 3,
     "img_above_text": "![Black-myth-wukong-azure-dust-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg)\n* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.",
     "img_below_text": "## Black Myth: Wukong Azure Dust Location\nThe Azure Dust Transformation can be found in Fright Cliff - Squall Hideout in Yellow Wind Ridge. After defeating both the Mother of Stones boss and the Man-In-Stone boss with the Stone Essence in your inventory, you will unlock the Transformation. Our walkthrough and boss guides of the Fright Cliff area will help you complete this side quest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Azure_Dust.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-azure-dust-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg)\n* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.\"\n            - Following Text: \"## Black Myth: Wukong Azure Dust Location\nThe Azure Dust Transformation can be found in Fright Cliff - Squall Hideout in Yellow Wind Ridge. After defeating both the Mother of Stones boss and the Man-In-Stone boss with the Stone Essence in your inventory, you will unlock the Transformation. Our walkthrough and boss guides of the Fright Cliff area will help you complete this side quest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-azure-dust-3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts gameplay from *Black Myth: Wukong*, showcasing the Azure Dust Transformation in action. The player appears to be performing a powerful attack, possibly the \"Body Slam\" or another ability, in a barren, rocky environment. The HUD displays attack options like \"Earth Shatter\" and \"Mountain Splitter,\" emphasizing the combat mechanics tied to this transformation.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the combat capabilities of the Azure Dust Transformation, a key gameplay feature unlocked after completing specific boss fights and quests. It visually complements the preceding text about the \"Body Slam\" attack and the following text detailing how to acquire this transformation in the game."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-azure-dust-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg)\n* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.\"\n        - Following Text: \"## Black Myth: Wukong Azure Dust Location\nThe Azure Dust Transformation can be found in Fright Cliff - Squall Hideout in Yellow Wind Ridge. After defeating both the Mother of Stones boss and the Man-In-Stone boss with the Stone Essence in your inventory, you will unlock the Transformation. Our walkthrough and boss guides of the Fright Cliff area will help you complete this side quest.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts gameplay from *Black Myth: Wukong*, showcasing the \"Azure Dust\" transformation ability in action. The player appears to be in a desolate, rocky environment with sparse vegetation, possibly during a combat sequence. On-screen prompts display two attack options: \"Light Attack 'Earth Shatter'\" and \"Heavy Attack 'Mountain Splitter',\" indicating the available moves for the transformation. This scene is part of a guide explaining the Azure Dust's abilities and its role in the game."
 }

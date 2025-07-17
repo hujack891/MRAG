@@ -1,28 +1,11 @@
 {
-    "chunk_id": 203393198404,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
-    "alt_text": "Wukong Pagoda 57.jpg",
-    "position_desc": 54,
-    "img_above_text": "![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.",
-    "img_below_text": "Further up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.\n![Wukong Pagoda 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 54 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Pagoda_56.jpg)\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.\"\n            - Following Text: \"Further up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.\n![Wukong Pagoda 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character wielding a glowing staff in a dimly lit, rocky tunnel. The character is approaching a cluster of glowing mushrooms, which are likely the Snake-Head Mushrooms mentioned in the context. The preceding text describes an encounter with a Red-Haired Yaksha and a green Wisp, while the following text warns of a strong Fungiman enemy that appears when attempting to harvest the glowing mushrooms. The image serves to illustrate the in-game environment and the challenges players will face in this section of the walkthrough."
+    "chunk_id": 112184215018,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+    "alt_text": "Wukong Shigandang 1.jpg",
+    "position_desc": 8,
+    "img_above_text": "Though they appear in the same arena, the Shigandang is a much harder challenge compared to the Stone Vanguard. Because of this, it’s recommended that you save challenging this foe until you’re almost complete with Chapter 2 and have a good set of gear and medicines at your disposal to increase damage negation. He’s worth defeating before you fight the final boss of this chapter, as you’ll be able to craft a new weapon upon his defeat.\n### Secret - Defeat the Stone Vanguard with the Shigandang",
+    "img_below_text": "If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the Shigandang in an unexpected way!\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Though they appear in the same arena, the Shigandang is a much harder challenge compared to the Stone Vanguard. Because of this, it’s recommended that you save challenging this foe until you’re almost complete with Chapter 2 and have a good set of gear and medicines at your disposal to increase damage negation. He’s worth defeating before you fight the final boss of this chapter, as you’ll be able to craft a new weapon upon his defeat.\n### Secret - Defeat the Stone Vanguard with the Shigandang\"\n        - Following Text: \"If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the Shigandang in an unexpected way!\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character is interacting with a large rock formation that resembles a cluster of stone faces. The prompt \"RT Deliver\" suggests an action the player can perform, likely related to the game's mechanics. The context indicates that this scene is part of a strategy to defeat the Stone Vanguard with the help of the Shigandang, hinting at a secret or alternative method to tackle the challenge in the game."
 }

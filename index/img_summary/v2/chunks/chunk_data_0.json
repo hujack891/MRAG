@@ -1,28 +1,11 @@
 {
-    "chunk_id": 110151092958,
+    "chunk_id": 57275890399,
     "source_file": "Achievements_and_Trophies_Guide.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Family_Finished_Trophy_.png",
     "alt_text": "Family Finished Trophy .png",
     "position_desc": 1,
     "img_above_text": "A Family Finished\nTogether at last, the scorpions united.",
     "img_below_text": "* Pool of Shattered Jade\n* The Verdure Bridge (collect the Scorpion Prince Spirit from this one)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Achievements_and_Trophies_Guide.md'.\n\n            Context:\n            - Preceding Text: \"A Family Finished\nTogether at last, the scorpions united.\"\n            - Following Text: \"* Pool of Shattered Jade\n* The Verdure Bridge (collect the Scorpion Prince Spirit from this one)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Family_Finished_Trophy_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**:  \nThe image depicts a dark, rocky environment with lush green vegetation and a large, armored scorpion-like creature in the foreground. The setting appears to be a cavern or ancient ruin, with a backdrop of a weathered wall featuring carved niches. This scene likely represents the \"Scorpions united\" moment referenced in the preceding text, tying into the narrative of reuniting the scorpion family.\n\n2. **Purpose/Role**:  \nThe image serves to visually represent the \"A Family Finished\" achievement, where the scorpions are reunited. It likely highlights the environment where this event occurs, setting the stage for the player to collect the Scorpion Prince Spirit mentioned in the following text."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"A Family Finished\nTogether at last, the scorpions united.\"\n        - Following Text: \"* Pool of Shattered Jade\n* The Verdure Bridge (collect the Scorpion Prince Spirit from this one)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky environment with moss-covered terrain and a towering wall featuring carved niches. At the center is a large, armored scorpion-like creature, likely representing the \"Scorpion Prince\" mentioned in the context. This scene aligns with the preceding text about the scorpions being united and serves as a key narrative or gameplay moment in the walkthrough before progressing to the next locations, \"Pool of Shattered Jade\" and \"The Verdure Bridge.\""
 }

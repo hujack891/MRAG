@@ -1,28 +1,11 @@
 {
-    "chunk_id": 12366579295,
-    "source_file": "Earth_Rakshasa_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Burning_Shield_Guy.png",
-    "alt_text": "Burning Shield Guy.png",
-    "position_desc": 1,
-    "img_above_text": "* Earth Rakshasa Fight\n* Earth Rakshasa Spirit",
-    "img_below_text": "## Earth Rakshasa Location\nEarth Rakshasa is a foe you can find in Furnace Valley in the Flaming Mountains. From the Valley Entrance Keeper's Shrine, run straight ahead until the stone pillars marking the entrance to the Misty Cloud, Cloudy Mist boss arena become visible. Take the path branching off to the left before you enter the boss arena to find Earth Rakshasa guarding a chest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Earth_Rakshasa_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Earth Rakshasa Fight\n* Earth Rakshasa Spirit\"\n            - Following Text: \"## Earth Rakshasa Location\nEarth Rakshasa is a foe you can find in Furnace Valley in the Flaming Mountains. From the Valley Entrance Keeper's Shrine, run straight ahead until the stone pillars marking the entrance to the Misty Cloud, Cloudy Mist boss arena become visible. Take the path branching off to the left before you enter the boss arena to find Earth Rakshasa guarding a chest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Burning_Shield_Guy.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character engaged in combat with the Earth Rakshasa Spirit, a formidable enemy guarding a chest in a dark, rocky environment. The Earth Rakshasa is a large, armored foe wielding a massive weapon and shield, while the player appears equipped with a staff and various combat abilities visible in the interface. The scene suggests a challenging encounter tied to exploration and treasure acquisition.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the Earth Rakshasa Spirit fight, highlighting the enemy's imposing presence and the context of the encounter. It visually complements the preceding text about the Earth Rakshasa Spirit and the following text describing its location and role as a guardian of a chest in Furnace Valley."
+    "chunk_id": 423273144832,
+    "source_file": "Father_of_Stones.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Woods_Ember_Walkthrough_%2856%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(56\\).png",
+    "position_desc": 3,
+    "img_above_text": "![Woods Ember Walkthrough \\(55\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Woods_Ember_Walkthrough_%2855%29.png)\nJust like fights against other stone bosses, it's best to skip elemental damage and go for pure attack power in this fight. You want your attacks to be heavy and hit hard, and for your defense to be up as much as possible.",
+    "img_below_text": "Father of Stones will use a variety of attacks in this fight, however, he's limited by the fact that he's holding a skeleton in one arm. This means he'll only ever try to hit you with one arm, giving you more opportunity to evade attacks or dodge them.\n![Woods Ember Walkthrough \\(51\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Woods_Ember_Walkthrough_%2851%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(55\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Woods_Ember_Walkthrough_%2855%29.png)\nJust like fights against other stone bosses, it's best to skip elemental damage and go for pure attack power in this fight. You want your attacks to be heavy and hit hard, and for your defense to be up as much as possible.\"\n        - Following Text: \"Father of Stones will use a variety of attacks in this fight, however, he's limited by the fact that he's holding a skeleton in one arm. This means he'll only ever try to hit you with one arm, giving you more opportunity to evade attacks or dodge them.\n![Woods Ember Walkthrough \\(51\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Woods_Ember_Walkthrough_%2851%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character facing off against the \"Father of Stones,\" a large, hulking stone-like boss. The setting is an outdoor area with a somber, dark atmosphere, featuring barren trees and a stone wall. The preceding and following text provides context for the fight, emphasizing the importance of heavy, pure attack power and noting the boss's limited attack range due to holding a skeleton in one arm."
 }

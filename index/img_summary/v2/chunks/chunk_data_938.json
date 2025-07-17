@@ -1,28 +1,11 @@
 {
-    "chunk_id": 565716497344,
-    "source_file": "Elder_Jinchi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
-    "alt_text": "Wukong Bamboo 55.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.",
-    "img_below_text": "* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\nNote - Before facing this boss, be sure to defeat the optional **Wandering Wight** that is found in the Forest of Wolves region of Black Wind Mountain if you haven’t faced him already. Not only does he share many attacks with this secret boss, but defeating this one will cause the Wandering Wight to disappear, and you will not be able to gain the Curio and Spirit that the Wight drops.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Elder_Jinchi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.\"\n            - Following Text: \"* **Bamboo Grove** \\- Traveling through the very short region of the Marsh of the White Mists, you’ll have to defeat a character boss, the Whiteclad Noble. Once he retreats, look for a path off to the left instead of heading straight into Black Wind Cave, and you’ll find a large plaza past the marsh where several Wolf Guai sit before a wolf that has been hung from a tree. Just beyond them is the final bell.\nNote - Before facing this boss, be sure to defeat the optional **Wandering Wight** that is found in the Forest of Wolves region of Black Wind Mountain if you haven’t faced him already. Not only does he share many attacks with this secret boss, but defeating this one will cause the Wandering Wight to disappear, and you will not be able to gain the Curio and Spirit that the Wight drops.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter in *Black Myth: Wukong*, where the protagonist faces a group of Wolf Guai in a dimly lit, eerie bamboo grove. The setting includes a stone pathway leading to a plaza with a wolf hanging from a tree in the background, emphasizing the dark and foreboding atmosphere of the game.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the Bamboo Grove region, where players must defeat several Wolf Guai before progressing. This encounter is part of the path leading to the final bell, as described in the following text. It highlights the game's challenging combat and atmospheric storytelling, tying into the narrative of exploring dangerous areas and facing formidable foes."
+    "chunk_id": 586525522203,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
+    "alt_text": "B1 19 09 2024 16 00 13 copy.png",
+    "position_desc": 22,
+    "img_above_text": "When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.",
+    "img_below_text": "When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.\"\n        - Following Text: \"When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character facing off against the Flint Vanguard in a rocky, desolate environment. The Vanguard, outlined in red, appears to be launching fireballs, consistent with its enraged attack phase described in the preceding text. The player is positioned at a safe distance, likely preparing to dodge or counterattack. This scene aligns with the guide's instructions to avoid fireballs, stay close to the Vanguard, and exploit its vulnerable state when knocked down."
 }

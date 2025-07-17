@@ -1,28 +1,11 @@
 {
-    "chunk_id": 688338866072,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_Pagoda_124.jpg",
-    "alt_text": "Wukong Pagoda 124.jpg",
-    "position_desc": 119,
-    "img_above_text": "![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\nAs an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.",
-    "img_below_text": "When you've depleted the Macaque Chief's health yet again, he'll retreat for a second time, but the Wise Master will ask that you hold off your pursuit. In exchange for staying put for a bit, he will impart to you the secret of his **Ring of Fire Spell**!\nMacaque Chief (Warding Temple)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 119 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\nAs an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\"\n            - Following Text: \"When you've depleted the Macaque Chief's health yet again, he'll retreat for a second time, but the Wise Master will ask that you hold off your pursuit. In exchange for staying put for a bit, he will impart to you the secret of his **Ring of Fire Spell**!\nMacaque Chief (Warding Temple)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_Pagoda_124.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character, likely the Ancient Master, surrounded by a circle of fire in a snowy, temple-like environment. This fire circle serves as a strategic advantage during the fight against the Macaque Chief, as the Chief cannot cross it. The preceding text explains how to use this fire circle to evade the Chief's attacks and heal, while the following text indicates that the Ancient Master will later teach the player the secret of the Ring of Fire Spell."
+    "chunk_id": 805397583645,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png",
+    "alt_text": "Snow Fox Questline \\(14\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\nWhen you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.",
+    "img_below_text": "As you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.\n![Snow Fox Questline \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\nWhen you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.\"\n        - Following Text: \"As you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.\n![Snow Fox Questline \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an interior area of a building in *Black Myth: Wukong*, highlighting a staircase on the right with a red arrow pointing upward. The preceding and following text suggests this staircase is part of the Snow Fox Questline, guiding players to ascend it to progress further in the quest. The setting features ornate decorations, including statues, wooden furniture, and intricate carvings, emphasizing the game's detailed environment design."
 }

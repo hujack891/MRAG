@@ -1,28 +1,11 @@
 {
-    "chunk_id": 991592986685,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg",
-    "alt_text": "Wukong Thunderclap 42.jpg",
-    "position_desc": 41,
-    "img_above_text": "![Wukong Thunderclap 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Thunderclap_41.jpg)\nBeware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.",
-    "img_below_text": "Once at the top of the building, be ready for another Overseeing Monk to ambush you, and then head out to the balcony to deal with the lightning mages.\nBefore heading through the doors behind the two mages, look instead for another path along the balcony leading to a large bridge.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 41 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Thunderclap_41.jpg)\nBeware of more Overseeing Monks as you ascend, and try to stay patient using thrust attacks from out of their range to conserve your health from getting hit by their martial arts counters.\"\n            - Following Text: \"Once at the top of the building, be ready for another Overseeing Monk to ambush you, and then head out to the balcony to deal with the lightning mages.\nBefore heading through the doors behind the two mages, look instead for another path along the balcony leading to a large bridge.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Thunderclap_42.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a gameplay scene from *Black Myth: Wukong*, showing the player character stealthily approaching two enemies on a snow-covered balcony of a temple-like structure. The enemies appear to be Overseeing Monks, identifiable by their distinct attire and combat readiness. The player is armed with a spear and positioned strategically to engage them.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the walkthrough where players are advised to cautiously deal with Overseeing Monks using thrust attacks to avoid their counters. This section emphasizes patience and strategy as the player ascends the temple, preparing for further challenges, including lightning mages and ambushes."
+    "chunk_id": 11918723079,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg",
+    "alt_text": "Wukong Pagoda 64.jpg",
+    "position_desc": 59,
+    "img_above_text": "![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\nIf you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.",
+    "img_below_text": "At the far end of this path past another open cell with a green Wisp, the walkway will have crumbled before you can reach the last green Wisp, but there's a side passage into an open cell. (a Lantern Sentry will also appear walking out of this cell when the chanting is active!)\n![Wukong Pagoda 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Pagoda_62.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Pagoda_61.jpg)\nIf you keep heading past the two sentries, you'll find a few more open cells that have Snake-Head Mushrooms and a glowing green Wisp to absorb. The third cell has a purple seal on it -- unless you already defeated the Yaoguai Chief Captain -- in which case you can open it to grab a second green Wisp guarded by a Withered Corpse.\"\n        - Following Text: \"At the far end of this path past another open cell with a green Wisp, the walkway will have crumbled before you can reach the last green Wisp, but there's a side passage into an open cell. (a Lantern Sentry will also appear walking out of this cell when the chanting is active!)\n![Wukong Pagoda 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Pagoda_62.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist approaching a dark, eerie cell guarded by a tall, menacing creature with glowing features. The setting is a dimly lit, rocky environment, with the ground appearing muddy or decayed. The preceding and following text suggests this area contains open cells with items like Snake-Head Mushrooms and green Wisps, and the player may encounter enemies such as a Withered Corpse or Lantern Sentry. The image aligns with the narrative of exploring the pagoda and engaging in combat or collecting resources."
 }

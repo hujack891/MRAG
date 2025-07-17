@@ -1,28 +1,11 @@
 {
-    "chunk_id": 594257782259,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Foothills_Walkthrough_%28133%29.png",
-    "alt_text": "Foothills Walkthrough \\(133\\).png",
-    "position_desc": 23,
-    "img_above_text": "![Foothills Walkthrough \\(129\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)\nWith your first optional miniboss defeated, it's time to work on clearing out the rest of the Foothills. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff.",
-    "img_below_text": "On the opposite side of the water, there's a clearing, with what appears to be a big rock sitting by the edge of it. This is actually one of the Poison Chiefs in the area, so fly over to it to tackle your next miniboss.\n### Yaoguai Chief - Poison Chief 1",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(129\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)\nWith your first optional miniboss defeated, it's time to work on clearing out the rest of the Foothills. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff.\"\n            - Following Text: \"On the opposite side of the water, there's a clearing, with what appears to be a big rock sitting by the edge of it. This is actually one of the Poison Chiefs in the area, so fly over to it to tackle your next miniboss.\n### Yaoguai Chief - Poison Chief 1\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Foothills_Walkthrough_%28133%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a lush, open clearing surrounded by cliffs and trees, with a large rock near the edge of the clearing. A character, likely the player, is seen flying over the water on a cloud-like platform, heading toward the rock. This area appears to be the setup for an encounter with a miniboss, identified as one of the Poison Chiefs.\n\n2. **Purpose/Narrative Role**:  \nThe image serves to visually guide the player toward the next objective in the \"Foothills\" area of *Black Myth: Wukong*. It highlights the location of the Poison Chief miniboss, which is disguised as a rock, and sets the stage for the upcoming battle."
+    "chunk_id": 451010820309,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_Wolves_29.jpg",
+    "alt_text": "Wukong Wolves 29.jpg",
+    "position_desc": 36,
+    "img_above_text": "![Wukong Wolves 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Wolves_28.jpg)\nThere’s more optional things to explore in this wide area however, starting by taking the path to the left past the first two Wolves near the Shrine. Past several fallen trees, some **Purple Lingzhi** and **Aged Ginseng** , you can reach a small peak with broken pillars and a Wolf guarding some pots to break for Will.",
+    "img_below_text": "Near this peak is a bridge, where you’ll find a Bandit Chief with a large sword guarding a chest. He can perform some surprisingly agile lunging attacks, and his multi-hit sword swings can deal a lot of damage. Each of his combos end with a large downward slam, and gives you a wide opening to begin your counter-attack as he struggles to pull his blade out of the ground. For as tough as he is, he luckily won’t respawn when defeated.\nOnce he’s gone, help yourself to the chest to find 2 **Evil Repelling Medicament** and 5 **Tiny Piece of Gold**!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Wolves_28.jpg)\nThere’s more optional things to explore in this wide area however, starting by taking the path to the left past the first two Wolves near the Shrine. Past several fallen trees, some **Purple Lingzhi** and **Aged Ginseng** , you can reach a small peak with broken pillars and a Wolf guarding some pots to break for Will.\"\n        - Following Text: \"Near this peak is a bridge, where you’ll find a Bandit Chief with a large sword guarding a chest. He can perform some surprisingly agile lunging attacks, and his multi-hit sword swings can deal a lot of damage. Each of his combos end with a large downward slam, and gives you a wide opening to begin your counter-attack as he struggles to pull his blade out of the ground. For as tough as he is, he luckily won’t respawn when defeated.\nOnce he’s gone, help yourself to the chest to find 2 **Evil Repelling Medicament** and 5 **Tiny Piece of Gold**!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character approaching a Wolf enemy near a chest highlighted with a red circle. The surrounding environment is a lush forest with broken pillars and fallen trees, aligning with the walkthrough's description of an optional exploration area. This location features collectible items and enemies, with the chest likely containing rewards for defeating the Wolf."
 }

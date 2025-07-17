@@ -1,28 +1,11 @@
 {
-    "chunk_id": 218654623723,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_101.jpg",
-    "alt_text": "Wukong Pagoda 101.jpg",
-    "position_desc": 97,
-    "img_above_text": "Back on the main path, be wary of Frozen Corpses that you'll find littered around this area. As the gorge path opens up, you can spy an even bigger pagoda than the one you just escape from high up above you.\nHead through this area either taking the low path to the left, or check the upper path on the right where many Frozen Corpses have gathered around a Tree Pearl you can harvest.",
-    "img_below_text": "The lower left path leads to another tentacle abomination you'll have to deal with carefully to avoid his lashing an boulder slam, and then head into a tunnel on the right.\n![Wukong Pagoda 102.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 97 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Back on the main path, be wary of Frozen Corpses that you'll find littered around this area. As the gorge path opens up, you can spy an even bigger pagoda than the one you just escape from high up above you.\nHead through this area either taking the low path to the left, or check the upper path on the right where many Frozen Corpses have gathered around a Tree Pearl you can harvest.\"\n            - Following Text: \"The lower left path leads to another tentacle abomination you'll have to deal with carefully to avoid his lashing an boulder slam, and then head into a tunnel on the right.\n![Wukong Pagoda 102.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_101.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a battle with a tentacle abomination amidst a snowy, rugged landscape. This encounter takes place on the lower left path of a gorge, as described in the preceding text, and is part of the player's journey through a perilous area filled with Frozen Corpses and other dangers. The image serves to illustrate the challenging enemies and harsh environment the player must navigate."
+    "chunk_id": 698796601186,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Snowhill_27.jpg",
+    "alt_text": "Wukong Snowhill 27.jpg",
+    "position_desc": 26,
+    "img_above_text": "There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.",
+    "img_below_text": "Take the path straight first, and you'll find a supercharged Yaksha Patroller surrounded by a horde of Frozen Corpses, making this fight a lot harder than usual. Don't worry about conserving your power here -- let loose with your Pluck of Many and Spirit Transformations spells to even the odds as much as you can so you can take down all the extra enemies and then focus on whittling down the Patroller's health.\n![Wukong Snowhill 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_Snowhill_28.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.\"\n        - Following Text: \"Take the path straight first, and you'll find a supercharged Yaksha Patroller surrounded by a horde of Frozen Corpses, making this fight a lot harder than usual. Don't worry about conserving your power here -- let loose with your Pluck of Many and Spirit Transformations spells to even the odds as much as you can so you can take down all the extra enemies and then focus on whittling down the Patroller's health.\n![Wukong Snowhill 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_Snowhill_28.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scenario in a snowy environment, where the player character is using the \"Rockfall\" spell to create a large area-of-effect attack against multiple enemies, including Frozen Corpses. The setting features a ruined structure and a staircase, aligning with the guide's description of a challenging encounter on the snowy path. The on-screen prompts highlight available attacks and spells, emphasizing the strategic use of abilities to manage the fight."
 }

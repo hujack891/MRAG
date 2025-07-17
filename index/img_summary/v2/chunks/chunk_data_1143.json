@@ -1,28 +1,11 @@
 {
-    "chunk_id": 903468065029,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Foothills_Walkthrough_%2858%29.png",
-    "alt_text": "Foothills Walkthrough \\(58\\).png",
-    "position_desc": 55,
-    "img_above_text": "![Foothills Walkthrough \\(57\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Foothills_Walkthrough_%2857%29.png)\nIn this first phase, you'll want to have plenty of Body-Warming Powder, as the Cloudtreading Deer uses frost as its elemental attacks. But the most dangerous aspect of this first stage is the fact that the deer sends out lots of little tornadoes. While the small whirlwinds of ice are easy to dodge, these tornadoes are much harder to avoid and also signal when the deer will ramp up its attacks.",
-    "img_below_text": "To make the first part of this fight easier, we'd recommend equipping the Wind Tamer as your vessel. It will wipe these tornadoes out as soon as you use it, and mean there's one less thing to focus on. The deer will still leap in the air and tread the clouds to attack you, but you won't need to worry about being hit by the annoying tornadoes. While this is useful once, you'll obviously need to wait for it to become available again, and in the meantime, the deer will continue to use this attack.\n![Foothills Walkthrough \\(54\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Foothills_Walkthrough_%2854%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 55 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(57\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Foothills_Walkthrough_%2857%29.png)\nIn this first phase, you'll want to have plenty of Body-Warming Powder, as the Cloudtreading Deer uses frost as its elemental attacks. But the most dangerous aspect of this first stage is the fact that the deer sends out lots of little tornadoes. While the small whirlwinds of ice are easy to dodge, these tornadoes are much harder to avoid and also signal when the deer will ramp up its attacks.\"\n            - Following Text: \"To make the first part of this fight easier, we'd recommend equipping the Wind Tamer as your vessel. It will wipe these tornadoes out as soon as you use it, and mean there's one less thing to focus on. The deer will still leap in the air and tread the clouds to attack you, but you won't need to worry about being hit by the annoying tornadoes. While this is useful once, you'll obviously need to wait for it to become available again, and in the meantime, the deer will continue to use this attack.\n![Foothills Walkthrough \\(54\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Foothills_Walkthrough_%2854%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Foothills_Walkthrough_%2858%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the Cloudtreading Deer, a boss in *Black Myth: Wukong*, leaping amidst several large ice tornadoes in a frosty, mountainous environment. The tornadoes, part of the deer's frost-based attacks, create a hazardous battlefield for the player.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the challenging first phase of the Cloudtreading Deer boss fight, emphasizing the danger posed by the ice tornadoes. It visually supports the preceding and following text, which provide strategies for mitigating this attack, such as using Body-Warming Powder and the Wind Tamer vessel."
+    "chunk_id": 704551781373,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Fright_6.jpg",
+    "alt_text": "Wukong Fright 6.jpg",
+    "position_desc": 7,
+    "img_above_text": "## Squall Hideout\n### The First Buddha’s Eyeball",
+    "img_below_text": "![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Squall Hideout\n### The First Buddha’s Eyeball\"\n        - Following Text: \"![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing in a grassy, desolate area near the head of a large Buddha statue with glowing yellow eyes. The \"Examine\" prompt suggests this is an interactive object, likely tied to the \"First Buddha’s Eyeball\" quest mentioned in the preceding text. The setting emphasizes exploration and decision-making, as the following text describes branching paths after resting at a nearby Shrine."
 }

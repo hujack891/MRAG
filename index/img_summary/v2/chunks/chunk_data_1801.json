@@ -1,28 +1,11 @@
 {
-    "chunk_id": 111016132133,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg",
-    "alt_text": "Wukong Sandgate 50.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Sandgate 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg)\nThe Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.",
-    "img_below_text": "This usually ends with a quick wave of force as he pulls his weapon up that you’ll need to dodge, so don’t get too gutsy trying to retaliate early on this attack.\n![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg)\nThe Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\"\n            - Following Text: \"This usually ends with a quick wave of force as he pulls his weapon up that you’ll need to dodge, so don’t get too gutsy trying to retaliate early on this attack.\n![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat sequence from *Black Myth: Wukong*, showcasing the protagonist, Wukong, engaging in a battle against the Second Rat Prince in a desolate, sandy environment. The Second Rat Prince is mid-attack, swinging his spiked mace in a dashing motion, stirring up dust and debris. The player’s interface is visible, including health bars for both Wukong and the Second Rat Prince, as well as ability icons.\n\n2. **Narrative Role**:  \nThe image illustrates the Second Rat Prince executing one of his basic attacks—a dashing stab with his spiked mace—mentioned in the preceding text. This sets the stage for the player to anticipate and dodge the follow-up force wave described in the following text. It highlights the tactical nature of the fight and the need for precise timing during combat."
+    "chunk_id": 275420201178,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/The_Carvings_Pool_of_Shattered_Jade_Meditation_Spots.jpg",
+    "alt_text": "The Carvings Pool of Shattered Jade Meditation Spots.jpg",
+    "position_desc": 15,
+    "img_above_text": "### The Carvings, Pool of Shattered Jade Meditation Spot\nThe Carvings, Pool of Shattered Jade Meditation Spot",
+    "img_below_text": "This is likely the first Meditation Spot you will encounter in the Hollow. You can find it by heading up the stairs next to the first Keeper's Shrine in Upper Hollow. Shortly after reaching the top of the stairs, you will notice a platform on the left with a torch beside it. Drop down to the area below and drop down once more.\nFollow the path to the right through a hall of hanging webs until you reach the Pool of Shattered Jade. The Meditation Spot is in the center of the pool.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### The Carvings, Pool of Shattered Jade Meditation Spot\nThe Carvings, Pool of Shattered Jade Meditation Spot\"\n        - Following Text: \"This is likely the first Meditation Spot you will encounter in the Hollow. You can find it by heading up the stairs next to the first Keeper's Shrine in Upper Hollow. Shortly after reaching the top of the stairs, you will notice a platform on the left with a torch beside it. Drop down to the area below and drop down once more.\nFollow the path to the right through a hall of hanging webs until you reach the Pool of Shattered Jade. The Meditation Spot is in the center of the pool.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game featuring a character standing near a Meditation Spot at the Pool of Shattered Jade. The environment is dark and atmospheric, with water, vegetation, and stone structures visible. This location is described as likely the first Meditation Spot encountered in the Hollow, accessible by following a path through a hall of hanging webs. The Meditation Spot is central to the pool, indicating a place for reflection or gaining abilities within the game."
 }

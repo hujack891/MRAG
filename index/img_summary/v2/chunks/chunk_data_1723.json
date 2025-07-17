@@ -1,28 +1,11 @@
 {
-    "chunk_id": 640409763073,
-    "source_file": "Jiao-Loong_of_Waves.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Foothills_Walkthrough_%28112%29.png",
-    "alt_text": "Foothills Walkthrough \\(112\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Foothills Walkthrough \\(119\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%28119%29.png)\nJiao-Loong of Waves has a limited moveset, so you can quickly pick up on the attack patterns. It will mainly use its tale to try and whip you, either by spinning or flipping around to catch you with it.",
-    "img_below_text": "As well as this, it will lunge and swipe at you, and occasionally sidestep or leap up and pounce on you in an attempt to bite you. With all of these attacks, simply dodging or jumping back should be enough to keep you out of harm's way.\n![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Jiao-Loong_of_Waves.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(119\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%28119%29.png)\nJiao-Loong of Waves has a limited moveset, so you can quickly pick up on the attack patterns. It will mainly use its tale to try and whip you, either by spinning or flipping around to catch you with it.\"\n            - Following Text: \"As well as this, it will lunge and swipe at you, and occasionally sidestep or leap up and pounce on you in an attempt to bite you. With all of these attacks, simply dodging or jumping back should be enough to keep you out of harm's way.\n![Foothills Walkthrough \\(122\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Foothills_Walkthrough_%28122%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Foothills_Walkthrough_%28112%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic encounter between a warrior and a large, serpentine creature known as Jiao-Loong of Waves in a dark, forested area with a water body. The context provided suggests that the image is part of a guide or walkthrough for a game, illustrating the creature's attack patterns and the recommended strategies for dodging its moves. The preceding and following text describe the creature's limited moveset, including tail whips, lunges, swipes, and pounces, and advise players on how to avoid these attacks effectively."
+    "chunk_id": 903945608245,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+    "alt_text": "Wukong MadTiger 7.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons and a well.",
+    "img_below_text": "Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Fight",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons and a well.\"\n        - Following Text: \"Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Fight\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character standing near a decrepit well surrounded by skeletons in a barren, desolate field. The on-screen prompt \"Jump In\" suggests the player is given the option to descend into the well, which is tied to the narrative context of encountering a potentially hostile entity below. This scene follows the use of the Rattle-Drum to summon the spirit of a boy, who invites the player to explore the ominous depths of the well."
 }

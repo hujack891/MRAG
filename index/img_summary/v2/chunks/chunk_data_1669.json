@@ -1,28 +1,11 @@
 {
-    "chunk_id": 217773790699,
-    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png",
-    "alt_text": "Secret Loong Bosses \\(20\\).png",
-    "position_desc": 12,
-    "img_above_text": "![Secret Loong Bosses \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Secret_Loong_Bosses_%2819%29.png)\nThis one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.",
-    "img_below_text": "You'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.\n![Secret Loong Bosses \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"![Secret Loong Bosses \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Secret_Loong_Bosses_%2819%29.png)\nThis one is slightly different than the bosses you'll find in Chapters 1 and 2, as there's nothing you need to interact with. Instead, play through Chapter 3 until you reach the Bitter Lake and the Turtle Island Keeper's Shrine.\"\n            - Following Text: \"You'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.\n![Secret Loong Bosses \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy cliffside near a body of water, with a character dressed in yellow standing in the foreground. A red arrow points toward the edge of the cliff, suggesting a specific area of interest. This scene is part of the exploration in Chapter 3 of *Black Myth: Wukong*, guiding players to locate a Dragon Statue near the water.\n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual cue to help players identify the location of the Dragon Statue mentioned in the context. It highlights the area near the cliff edge, which players must approach after interacting with the Turtle Island Keeper's Shrine."
+    "chunk_id": 392622221627,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/North_Shore_of_the_Bitter_Lake_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "North Shore of the Bitter Lake Luojia Fragrant Vine.jpg",
+    "position_desc": 5,
+    "img_above_text": "### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine",
+    "img_below_text": "The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine\"\n        - Following Text: \"The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment where a character is interacting with a tree covered in orange vines, identified as the Luojia Fragrant Vine. The \"Gather\" prompt suggests the player can collect resources from the vine. This scene aligns with the preceding and following text, which describes the location and steps to find the North Shore of the Bitter Lake Luojia Fragrant Vine."
 }

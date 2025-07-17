@@ -1,28 +1,11 @@
 {
-    "chunk_id": 446210764253,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg",
-    "alt_text": "Wukong Pagoda 20.jpg",
-    "position_desc": 21,
-    "img_above_text": "As you head outside, mind the Frozen Corpse, and look to the left first. There's a nearby open cell door you can find that has a **Treasure Chest** containing a few materials, guarded by a Withered Corpse.\nBeyond this lone cell, you can find the outside walkway path abruptly ends near a Frozen Corpse, and a darkened pit holds a series of rocky platforms you can drop down. The only thing down here at the moment is a cell with a purple seal, and a route back to where you first arrived in the Pagoda Realm, so unless you really want the green Wisp hovering over the drop back down to the start, it's better to leave this area for later.",
-    "img_below_text": "Back at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.\n![Wukong Pagoda 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As you head outside, mind the Frozen Corpse, and look to the left first. There's a nearby open cell door you can find that has a **Treasure Chest** containing a few materials, guarded by a Withered Corpse.\nBeyond this lone cell, you can find the outside walkway path abruptly ends near a Frozen Corpse, and a darkened pit holds a series of rocky platforms you can drop down. The only thing down here at the moment is a cell with a purple seal, and a route back to where you first arrived in the Pagoda Realm, so unless you really want the green Wisp hovering over the drop back down to the start, it's better to leave this area for later.\"\n            - Following Text: \"Back at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.\n![Wukong Pagoda 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky environment within the Pagoda Realm, featuring a character standing near an ominous, intricately designed gate. The character appears to be in a combat-ready stance, holding a large weapon. A green Wisp is visible in the background, indicating a point of interest or a collectible item. The image serves to illustrate the player's location and the challenges they might face, such as navigating through treacherous areas and encountering enemies like the Withered Corpse. The green Wisp mentioned in the following text suggests that this area is significant for replenishing healing resources."
+    "chunk_id": 462436669716,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Secrets_%282%29.png",
+    "alt_text": "Wukong Secrets \\(2\\).png",
+    "position_desc": 26,
+    "img_above_text": "Once you've entered Bishui Cave, you can find the first of the two bosses just after the Purge Pit Keeper's Shrine.\n## Bishui Cave - Bishui Golden-Eyed Beast",
+    "img_below_text": "At the end of the Bishui Cave, you can find the second secret boss, which is the Bishui Golden-Eyed Beast.\n## Top Takes Bottom, Bottom Takes Top Spirit",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once you've entered Bishui Cave, you can find the first of the two bosses just after the Purge Pit Keeper's Shrine.\n## Bishui Cave - Bishui Golden-Eyed Beast\"\n        - Following Text: \"At the end of the Bishui Cave, you can find the second secret boss, which is the Bishui Golden-Eyed Beast.\n## Top Takes Bottom, Bottom Takes Top Spirit\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic encounter within Bishui Cave, showcasing a fierce battle between a player character and the Bishui Golden-Eyed Beast, one of the two bosses in the cave. The beast is large and imposing, with fiery elements accentuating its menacing presence. This scene likely serves as a visual representation of the challenge players face when confronting the first boss after the Purge Pit Keeper's Shrine, as described in the preceding text."
 }

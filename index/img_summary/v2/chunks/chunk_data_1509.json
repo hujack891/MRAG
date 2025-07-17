@@ -1,28 +1,11 @@
 {
-    "chunk_id": 738609693546,
-    "source_file": "How-to_Guides.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/How-To-Guides-.png",
-    "alt_text": "How-To-Guides-.png",
-    "position_desc": 1,
-    "img_above_text": "Black Myth: Wukong hides plenty of mysteries, but not all of its secrets and mechanics are easy to figure out. That's why we've compiled a list of how-to guides to help you figure out everything from upgrading your healing to finding secret areas, and unlocking special bosses\n## General How-to Guides",
-    "img_below_text": "* How to Change Default Chinese Text to English\n* How to Claim Deluxe Edition Items",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'How-to_Guides.md'.\n\n            Context:\n            - Preceding Text: \"Black Myth: Wukong hides plenty of mysteries, but not all of its secrets and mechanics are easy to figure out. That's why we've compiled a list of how-to guides to help you figure out everything from upgrading your healing to finding secret areas, and unlocking special bosses\n## General How-to Guides\"\n            - Following Text: \"* How to Change Default Chinese Text to English\n* How to Claim Deluxe Edition Items\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/How-To-Guides-.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a detailed close-up of a hand, possibly from a character in *Black Myth: Wukong*, writing or drawing on a scroll with a stylized pen. The setting includes a wooden table, ornate metallic decor, and a parchment, suggesting an in-game activity related to crafting, recording, or learning mechanics. Its placement in the \"General How-to Guides\" section implies it may visually represent guidance or tutorials for players to navigate the game's systems or secrets."
+    "chunk_id": 964270901450,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Secret_Loong_Bosses_%282%29.png",
+    "alt_text": "Secret Loong Bosses \\(2\\).png",
+    "position_desc": 5,
+    "img_above_text": "## How to Find Red Loong - Chapter 1 Secret Dragon Boss\nYou’ll need to return to Chapter 1 and the Black Wind Mountain once you have the Loong Scales. Use a Keeper’s Shrine to return to Outside the Forest. From here, head straight up toward the two wolves.",
+    "img_below_text": "Take the first left, past the big stone rock. And then follow it around to the right. This will bring you to the section of the path, where there’s a small bridge going right and a chest on the left. Head down toward the chest, and a voice should start speaking to you.\n![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## How to Find Red Loong - Chapter 1 Secret Dragon Boss\nYou’ll need to return to Chapter 1 and the Black Wind Mountain once you have the Loong Scales. Use a Keeper’s Shrine to return to Outside the Forest. From here, head straight up toward the two wolves.\"\n        - Following Text: \"Take the first left, past the big stone rock. And then follow it around to the right. This will bring you to the section of the path, where there’s a small bridge going right and a chest on the left. Head down toward the chest, and a voice should start speaking to you.\n![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a forest path in a video game, marked with a red arrow indicating the direction to take. It is part of a guide to finding the secret dragon boss, Red Loong, in Chapter 1. The path leads players past a large stone rock, as described in the walkthrough, helping them navigate towards the boss encounter."
 }

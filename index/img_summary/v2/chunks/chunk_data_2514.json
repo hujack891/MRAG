@@ -1,28 +1,11 @@
 {
-    "chunk_id": 65095877468,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_31.jpg",
-    "alt_text": "Wukong Sandgate 31.jpg",
-    "position_desc": 28,
-    "img_above_text": "![Wukong Sandgate 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg)\nOne head emits a smoky fog, and the other shoots fire. In reality, the blinding smoke can actually be ignited by the second head to cause huge explosions, so stay away from the smoke at all costs.",
-    "img_below_text": "They can also ignite their blade to deal increased fire damage, and even defeating them is dangerous, as they’ll start spewing smoke and fire uncontrollably until they explode and damage everything around them. On the plus side, they don’t respawn, so you’ll only have to deal with the two in this area once.\n![Wukong Sandgate 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Sandgate_32.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Sandgate_30.jpg)\nOne head emits a smoky fog, and the other shoots fire. In reality, the blinding smoke can actually be ignited by the second head to cause huge explosions, so stay away from the smoke at all costs.\"\n            - Following Text: \"They can also ignite their blade to deal increased fire damage, and even defeating them is dangerous, as they’ll start spewing smoke and fire uncontrollably until they explode and damage everything around them. On the plus side, they don’t respawn, so you’ll only have to deal with the two in this area once.\n![Wukong Sandgate 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Sandgate_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sandgate_31.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic in-game moment from \"Black Myth: Wukong,\" showcasing a character engaged in a battle with a fiery explosion in the background. The context suggests that the explosion is caused by an enemy that emits smoke and fire, posing a significant threat to the player. This visual emphasizes the danger and intensity of the encounter, highlighting the enemy's ability to create hazardous explosions and the need for the player to avoid the smoke to prevent massive damage."
+    "chunk_id": 512606946002,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_YellowFlower_57.jpg",
+    "alt_text": "Wukong YellowFlower 57.jpg",
+    "position_desc": 54,
+    "img_above_text": "![Wukong YellowFlower 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_56.jpg)\nNow at the Court of Illumination Shrine, you'll find a pathway straight ahead, and another to the right leading to a large field. The doorway to the right leads to the final boss, so first take a quick detour up the stairs.",
+    "img_below_text": "Up ahead, you'll find the final purple talisman altar, but before you approach it, look off to the left for a higher pathway guarded by two Sword Daoists. Defeat them and travel through the narrow rocky passageway up to a landing with a **Treasure Chest** that should contain a Knot of Voidness, Loong Aura Amplification Pellet and Life-Saving Pill, or other materials.\n![Wukong YellowFlower 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_YellowFlower_58.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_YellowFlower_56.jpg)\nNow at the Court of Illumination Shrine, you'll find a pathway straight ahead, and another to the right leading to a large field. The doorway to the right leads to the final boss, so first take a quick detour up the stairs.\"\n        - Following Text: \"Up ahead, you'll find the final purple talisman altar, but before you approach it, look off to the left for a higher pathway guarded by two Sword Daoists. Defeat them and travel through the narrow rocky passageway up to a landing with a **Treasure Chest** that should contain a Knot of Voidness, Loong Aura Amplification Pellet and Life-Saving Pill, or other materials.\n![Wukong YellowFlower 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_YellowFlower_58.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the player character stands in a sunlit area surrounded by greenery and stone structures. A red arrow points toward a higher pathway guarded by two Sword Daoists, indicating the next objective. This area leads to a narrow passageway where players can find a treasure chest containing valuable items such as a Knot of Voidness, Loong Aura Amplification Pellet, and Life-Saving Pill."
 }

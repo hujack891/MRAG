@@ -1,28 +1,11 @@
 {
-    "chunk_id": 885280594555,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg",
-    "alt_text": "Wukong Martial 4.jpg",
-    "position_desc": 10,
-    "img_above_text": "![Wukong Martial 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg)\nA second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.",
-    "img_below_text": "When this boss chooses to close the distance on you, he'll employ some deceitful moves, like tossing his chakram to the side of your position, making you think he's going to miss, or tossing it in an arc. In reality, he'll dash up to it and then grab it to swing in a large arc toward your position, creating a second chakram for a two-hit combo.\n![Wukong Martial 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Martial 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Martial_3.jpg)\nA second part of this attack will trigger a ring of projectiles around his chakram to zoom toward you, which you'll need to also dodge shortly after the first blast.\"\n            - Following Text: \"When this boss chooses to close the distance on you, he'll employ some deceitful moves, like tossing his chakram to the side of your position, making you think he's going to miss, or tossing it in an arc. In reality, he'll dash up to it and then grab it to swing in a large arc toward your position, creating a second chakram for a two-hit combo.\n![Wukong Martial 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Martial_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**:  \nThe image depicts a boss fight against the \"Green-Capped Martialist\" in *Black Myth: Wukong*. The boss is shown mid-action, likely using its chakram-based abilities, with fiery projectiles visible on the ground. The player character is positioned in the foreground, preparing to engage or evade. The scene highlights the boss's deceptive and ranged attack patterns, as described in the surrounding text.\n\n2. **Purpose/Narrative Role**:  \nThis image visually supports the explanation of the boss's attack mechanics, emphasizing the need for strategic dodging and awareness of its deceptive moves, such as chakram tosses and follow-up combos."
+    "chunk_id": 508433567098,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Chapter_2_Secret_Area_%287%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(7\\).png",
+    "position_desc": 9,
+    "img_above_text": "Once you have the Sobering Stone, bring it back to the Yellow-Robed Squire in Rockrest Flat. Once you've given the boar the stone, he'll move on to the Crouching Tiger Temple.\n## How to Find the Boar at Crouching Tiger Temple",
+    "img_below_text": "From the Temple Entrance Keeper's Shrine, head up the stairs and take the turning on the right just before you reach the top. You'll see the Yellow-Robed Squire slouched against the wall. When you speak to him he'll ask you for a treat of a **Jade Lotus**. If you don't have any of these, look for areas where there's water. You just need one; when you have it, bring it back to him and he'll move on from the Crouching Tiger Temple.\n## How to Find the Boar After the Crouching Tiger Temple",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once you have the Sobering Stone, bring it back to the Yellow-Robed Squire in Rockrest Flat. Once you've given the boar the stone, he'll move on to the Crouching Tiger Temple.\n## How to Find the Boar at Crouching Tiger Temple\"\n        - Following Text: \"From the Temple Entrance Keeper's Shrine, head up the stairs and take the turning on the right just before you reach the top. You'll see the Yellow-Robed Squire slouched against the wall. When you speak to him he'll ask you for a treat of a **Jade Lotus**. If you don't have any of these, look for areas where there's water. You just need one; when you have it, bring it back to him and he'll move on from the Crouching Tiger Temple.\n## How to Find the Boar After the Crouching Tiger Temple\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character interacting with a boar-like NPC at the Crouching Tiger Temple. The boar requests a \"tasty treat,\" which aligns with the following text's mention of needing a **Jade Lotus** to progress the quest. This interaction is part of a sequence where the player assists the Yellow-Robed Squire in moving through various locations."
 }

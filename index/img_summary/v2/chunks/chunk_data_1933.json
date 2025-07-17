@@ -1,28 +1,11 @@
 {
-    "chunk_id": 74007806965,
-    "source_file": "Man-in-Stone_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
-    "alt_text": "Wukong Fright 36.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, The Man-in-Stone \"boss\" kind of a pushover, barely having much more health than a regular Pitstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.",
-    "img_below_text": "Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nUnlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\nWhile he technically has a boss health bar and everything, The Man-in-Stone \"boss\" kind of a pushover, barely having much more health than a regular Pitstone, and only doing their regular attacks anyway. Simply Immobilize him, rack up some Focus Points, and deliver a charged strike to send him packing.\"\n            - Following Text: \"Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle!\nUnlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image shows the protagonist, Wukong, interacting with a glowing, crystalline structure encased in a web-like stone formation. This appears to be the moment where Wukong is harvesting the Stone Essence from the defeated Man-in-Stone, a key step in unlocking the **Azure Dust Transformation Spell**.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents a pivotal moment in the \"Man-in-Stone\" questline, where Wukong acquires the Stone Essence after defeating the Man-in-Stone boss. This essence is crucial for gaining the Rock Guai transformation, which grants immense power and durability in exchange for reduced mobility. The scene emphasizes the reward phase of the quest, tying into the narrative progression and gameplay mechanics."
+    "chunk_id": 411345362688,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Thunderclap_98.jpg",
+    "alt_text": "Wukong Thunderclap 98.jpg",
+    "position_desc": 97,
+    "img_above_text": "The good news in all of this is you'll be pretty unstoppable in this mode. Your light attacks will unleash a flurry of wide sweep attacks, and your heavy strike will perform his spinning slash move.\nKeep defeating any disciple that stands in your path, and move along the platforms and descend to the bottom.",
+    "img_below_text": "One you reach a Clay Vajra, you'll be infused with even more power, and your standard slashes will now cast small projectiles blades out in front of you.\n![Wukong Thunderclap 99.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Thunderclap_99.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The good news in all of this is you'll be pretty unstoppable in this mode. Your light attacks will unleash a flurry of wide sweep attacks, and your heavy strike will perform his spinning slash move.\nKeep defeating any disciple that stands in your path, and move along the platforms and descend to the bottom.\"\n        - Following Text: \"One you reach a Clay Vajra, you'll be infused with even more power, and your standard slashes will now cast small projectiles blades out in front of you.\n![Wukong Thunderclap 99.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Thunderclap_99.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat sequence in *Black Myth: Wukong*, showcasing the protagonist unleashing wide, sweeping light attacks with glowing red energy trails against enemies in a richly detailed, temple-like environment. The scene aligns with the preceding text, emphasizing the player's powerful attacks and progression through platforms while defeating disciples. The caption at the bottom, \"Such enlightenment surely would grant you Buddhahood!\", suggests a thematic connection to spiritual ascension or transformation within the narrative."
 }

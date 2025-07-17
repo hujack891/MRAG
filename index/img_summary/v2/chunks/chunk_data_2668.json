@@ -1,28 +1,11 @@
 {
-    "chunk_id": 310826953030,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
-    "alt_text": "Wukong Snowhill 14.jpg",
-    "position_desc": 13,
-    "img_above_text": "![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)\nHis one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.",
-    "img_below_text": "He'll step back to grab the sword with his foot and jump onto its hilt, before preforming a quick roll along the ground to drag the sword in a whirlwind slice with a large reach to it, followed by a final downward slam, so don't press your attack too hard during this combo, or Immobilize him before the second part of his combo.\n![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)\nHis one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\"\n            - Following Text: \"He'll step back to grab the sword with his foot and jump onto its hilt, before preforming a quick roll along the ground to drag the sword in a whirlwind slice with a large reach to it, followed by a final downward slam, so don't press your attack too hard during this combo, or Immobilize him before the second part of his combo.\n![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense battle scene in a snowy environment, featuring the \"Macaque Chief\" engaged in combat. The character is performing a powerful attack, possibly the whirlwind slice mentioned in the context, showcasing dynamic movement and weapon handling. The image serves to illustrate the challenging combat mechanics and strategic considerations players must navigate in the game, emphasizing the importance of timing and positioning during the enemy's attack sequences."
+    "chunk_id": 896939498266,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg",
+    "alt_text": "Wukong Brook 5.jpg",
+    "position_desc": 45,
+    "img_above_text": "![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)\nTake this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.",
+    "img_below_text": "Be sure to cross the bridge to find the Brook of Bliss Shrine, and you can circle back to the top of the brook to find another Thunder Rhino Master patrolling near a Cyan Bat.\nBefore you check up the hill from the Shrine, head back across the bridge and follow the path down to the brook itself.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)\nTake this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.\"\n        - Following Text: \"Be sure to cross the bridge to find the Brook of Bliss Shrine, and you can circle back to the top of the brook to find another Thunder Rhino Master patrolling near a Cyan Bat.\nBefore you check up the hill from the Shrine, head back across the bridge and follow the path down to the brook itself.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy area in *Black Myth: Wukong*, where the player character, armed with a staff, is navigating toward a structure carved into a rocky cliff. The preceding and following text suggests this is part of a walkthrough guiding players to a stone bridge guarded by a Thunder Rhino Master and onward to the Brook of Bliss Shrine. The image likely shows the path leading to these objectives, emphasizing exploration and combat preparation in the game's environment."
 }

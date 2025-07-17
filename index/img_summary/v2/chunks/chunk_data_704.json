@@ -1,28 +1,11 @@
 {
-    "chunk_id": 690605812081,
-    "source_file": "Consumable_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Incense_Trail_Talisman_.jpg",
-    "alt_text": "Incense Trail Talisman .jpg",
-    "position_desc": 1,
-    "img_above_text": "Image | Consumable | Rarity | Effect | Location | Crafting Ingredients Required | Collected\n---|---|---|---|---|---|---",
-    "img_below_text": "![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"Image | Consumable | Rarity | Effect | Location | Crafting Ingredients Required | Collected\n---|---|---|---|---|---|---\"\n            - Following Text: \"![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Incense_Trail_Talisman_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts the **Body Cooling Powder**, an uncommon consumable item from the game *Black Myth: Wukong*. Based on the context, the item is used to instantly remove the Burnt State and temporarily increase Burn Resistance. It can be acquired through various means, including purchasing from the Shrine store, finding it in chests, or looting enemy corpses. Crafting the item requires **1 Fragrant Jade Flower** and **1 Jade Lotus**. The image visually represents the item for identification within the game's inventory or crafting system."
+    "chunk_id": 26941516886,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Starlit_Cloud-Bidden_Antler_.jpg",
+    "alt_text": "Starlit Cloud-Bidden Antler .jpg",
+    "position_desc": 19,
+    "img_above_text": "• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4",
+    "img_below_text": "![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4\"\n        - Following Text: \"![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\n![Black-myth-wukong-cosmo-radiance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg)  2 | Cosmo Radiance| Legendary | Special crafting material | • Defeat Yellowbrow in the New Thunderclap Temple in The New West\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a special crafting material, likely from the video game *Black Myth: Wukong*. Based on the surrounding text, it is associated with legendary items and crafting progression. The preceding text mentions defeating The Scorpionlord and completing Chapter 4, while the following text lists other legendary crafting materials obtained by defeating specific enemies in distinct locations. This material appears to play a role in advancing gameplay or crafting powerful items."
 }

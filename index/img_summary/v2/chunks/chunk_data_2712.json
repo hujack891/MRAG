@@ -1,28 +1,11 @@
 {
-    "chunk_id": 191542431943,
-    "source_file": "Snow_Fox_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Snow_Fox_Questline_%2810%29.png",
-    "alt_text": "Snow Fox Questline \\(10\\).png",
-    "position_desc": 7,
-    "img_above_text": "![Snow Fox Questline \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Snow_Fox_Questline_%2811%29.png)\nIf it's your first time visiting, you'll have a boss to deal with before you can enter. But after this, you can go and activate the Temple Entrance Keeper's Shrine. Go right from the shrine and down to the building up ahead.",
-    "img_below_text": "Head through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.\n![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Snow_Fox_Questline_%2811%29.png)\nIf it's your first time visiting, you'll have a boss to deal with before you can enter. But after this, you can go and activate the Temple Entrance Keeper's Shrine. Go right from the shrine and down to the building up ahead.\"\n            - Following Text: \"Head through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.\n![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Snow_Fox_Questline_%2810%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy temple entrance with a shrine and multiple statues. The player character stands in the foreground, ready to proceed. The red arrow indicates the direction to move, guiding the player to the left set of stairs to continue the questline. This image serves as a visual cue for navigating the temple area in the game."
+    "chunk_id": 279958946630,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Longevity_18.jpg",
+    "alt_text": "Wukong Longevity 18.jpg",
+    "position_desc": 114,
+    "img_above_text": "![Wukong Longevity 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Longevity_17.jpg)\nThe most important note is that you can find another Dark-faced Overlord here. Keep focusing on battering his legs to get him to fall and you can attack his skull, and when he dies he'll drop the Gold Spikeplate Curio!",
+    "img_below_text": "Be sure to inspect the woods behind where the giant was posted, and you'll find one last Crow Diviner guarding a **Treasure Chest** with some materials inside.\n![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Longevity 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Longevity_17.jpg)\nThe most important note is that you can find another Dark-faced Overlord here. Keep focusing on battering his legs to get him to fall and you can attack his skull, and when he dies he'll drop the Gold Spikeplate Curio!\"\n        - Following Text: \"Be sure to inspect the woods behind where the giant was posted, and you'll find one last Crow Diviner guarding a **Treasure Chest** with some materials inside.\n![Wukong Longevity 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy forest setting in *Black Myth: Wukong*, where the player character is engaging a crouched enemy, likely the \"Dark-faced Overlord\" mentioned in the preceding text. The red circle highlights the enemy's weak point, suggesting a focus on targeting specific areas during combat. This encounter is part of a sequence leading to the acquisition of the \"Gold Spikeplate Curio.\" The following text advises exploring the area further for additional rewards, including a treasure chest guarded by another enemy."
 }

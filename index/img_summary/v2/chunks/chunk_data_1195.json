@@ -1,28 +1,11 @@
 {
-    "chunk_id": 229499923855,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Wolves_11.jpg",
-    "alt_text": "Wukong Wolves 11.jpg",
-    "position_desc": 19,
-    "img_above_text": "![Wukong Wolves 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Wukong_Wolves_10.jpg)\nDefeat the next shield bearing Wolf Soldier down the road, and then another Wolf Stalwart guarding a **Purple Lingzhi** Mushroom you can harvest at the foot of a large tree. At this point, you’re likely to gain your first level up, giving you a “**Spark** ”.",
-    "img_below_text": "These are essentially Skill Points, which you can begin investing in a large number of different Skill Trees. These can include general skills, or ones that relate to specific combat stances. Your Smash stance has already been unlocked, but you can also unlock two other stances that have unique heavy attacks by investing skill points in them.\nWhen the path leads down, you’ll be able to head right to proceed to a mini-boss, or go left along the stream leading back to the bridge you crossed earlier.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Wukong_Wolves_10.jpg)\nDefeat the next shield bearing Wolf Soldier down the road, and then another Wolf Stalwart guarding a **Purple Lingzhi** Mushroom you can harvest at the foot of a large tree. At this point, you’re likely to gain your first level up, giving you a “**Spark** ”.\"\n            - Following Text: \"These are essentially Skill Points, which you can begin investing in a large number of different Skill Trees. These can include general skills, or ones that relate to specific combat stances. Your Smash stance has already been unlocked, but you can also unlock two other stances that have unique heavy attacks by investing skill points in them.\nWhen the path leads down, you’ll be able to head right to proceed to a mini-boss, or go left along the stream leading back to the bridge you crossed earlier.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Wolves_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the skill tree interface in *Black Myth: Wukong*, showcasing various upgrade paths under categories like Stamina, Martial Arts, and Survival. The highlighted skill, \"Endurance,\" reduces the stamina cost of sprinting, and the player has one \"Spark\" available to invest. The interface allows players to unlock and enhance abilities by spending skill points.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image illustrates the progression system following the player's first level-up, where they gain a \"Spark\" to invest in skills. It ties into the preceding and following text, emphasizing the importance of skill trees in shaping combat stances and gameplay strategies. The player is encouraged to explore different abilities to enhance their performance in upcoming challenges, including mini-boss encounters."
+    "chunk_id": 582660452656,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Wukong_Fright_53.jpg",
+    "alt_text": "Wukong Fright 53.jpg",
+    "position_desc": 59,
+    "img_above_text": "![Wukong Fright 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Fright_52.jpg)\nFurther down the main path, you’ll find a large terrace overlooking a ravine below where the black tornado swirls. Guarding this spot is a bolstered Rat Governor, who uses deadly lightning attacks (and can even create temporary copies of himself for added damage!) you’ll want to shut down by Immobilizing him. Defeat this stronger foe, and you’ll be able to absorb the Rat Governor Spirit to perform your own electric attack!",
+    "img_below_text": "Just beyond where the Rat Governor was guarding, you can find a **Meditation Spot** down a short flight of stairs that overlooks the ravine, granting you a free Skill Point for resting here.\nThe Ravine, Rock Clash Platform Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Fright_52.jpg)\nFurther down the main path, you’ll find a large terrace overlooking a ravine below where the black tornado swirls. Guarding this spot is a bolstered Rat Governor, who uses deadly lightning attacks (and can even create temporary copies of himself for added damage!) you’ll want to shut down by Immobilizing him. Defeat this stronger foe, and you’ll be able to absorb the Rat Governor Spirit to perform your own electric attack!\"\n        - Following Text: \"Just beyond where the Rat Governor was guarding, you can find a **Meditation Spot** down a short flight of stairs that overlooks the ravine, granting you a free Skill Point for resting here.\nThe Ravine, Rock Clash Platform Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the protagonist at a Meditation Spot located down a short flight of stairs overlooking a ravine. This spot allows the player to rest and gain a free Skill Point, following the defeat of the Rat Governor who was guarding the area."
 }

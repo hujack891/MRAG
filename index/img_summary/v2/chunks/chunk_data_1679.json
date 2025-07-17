@@ -1,28 +1,11 @@
 {
-    "chunk_id": 962732839418,
-    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Zodiac_Village_%283%29.png",
-    "alt_text": "Zodiac Village \\(3\\).png",
-    "position_desc": 2,
-    "img_above_text": "![Zodiac Village \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Zodiac_Village_%282%29.png)\nIn Chapter 3, you'll arrive at a snowy beach near the Bitter Lake accompanied by an NPC called Admiral Bajie. If you turn back on yourself from the North Shore of the Bitter Lake shrine and go right to the end, you'll see a hut in the distance.",
-    "img_below_text": "Go toward it, and as you get closer, you can see a dragon playing with lightning in the water to the left. As you approach the area, Admiral Bajie will tell you he sees a familiar face.\n![Zodiac Village \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Zodiac_Village_%2819%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"![Zodiac Village \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Zodiac_Village_%282%29.png)\nIn Chapter 3, you'll arrive at a snowy beach near the Bitter Lake accompanied by an NPC called Admiral Bajie. If you turn back on yourself from the North Shore of the Bitter Lake shrine and go right to the end, you'll see a hut in the distance.\"\n            - Following Text: \"Go toward it, and as you get closer, you can see a dragon playing with lightning in the water to the left. As you approach the area, Admiral Bajie will tell you he sees a familiar face.\n![Zodiac Village \\(19\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Zodiac_Village_%2819%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Zodiac_Village_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a snowy landscape near the Bitter Lake, with the player character approaching a distant hut. The red-highlighted area in the water suggests the presence of a dragon interacting with lightning, which ties into the narrative as Admiral Bajie comments on seeing a familiar face. The scene sets up an encounter or significant event involving the dragon and the NPC's connection to the unfolding story."
+    "chunk_id": 766999378410,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg",
+    "alt_text": "Wukong Snowhill 12.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.",
+    "img_below_text": "His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\nHe can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.\"\n        - Following Text: \"His one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene from the video game *Black Myth: Wukong*, showcasing the \"Macaque Chief\" enemy in a snowy environment. The character is mid-action, wielding a blade with dynamic movement, likely performing one of its described spinning slice attacks or preparing for an upward slash. The surrounding UI elements indicate player abilities and health bars, emphasizing the combat-focused gameplay. The context highlights the enemy's unique attack patterns, requiring strategic dodging and positioning."
 }

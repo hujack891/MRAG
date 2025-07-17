@@ -1,28 +1,11 @@
 {
-    "chunk_id": 40745199916,
-    "source_file": "Celestial_Nonary_Pill_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Black_Mountain_Nonary.jpg",
-    "alt_text": "Black Mountain Nonary.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Black Wind Mountain Celestial Nonary Pill\nBlack Wind Mountain Celestial Nonary Pill",
-    "img_below_text": "After defeating the Black Wind King and unlocking the Cloud Step spell, continue along the path up the hill until you reach an ambush. Once you've fought through the enemies there, keep climbing to Bodhi Peak and you will find the pill in a golden chest on the left.\n## Yellow Wind Ridge Celestial Nonary Pill",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Celestial_Nonary_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind Mountain Celestial Nonary Pill\nBlack Wind Mountain Celestial Nonary Pill\"\n            - Following Text: \"After defeating the Black Wind King and unlocking the Cloud Step spell, continue along the path up the hill until you reach an ambush. Once you've fought through the enemies there, keep climbing to Bodhi Peak and you will find the pill in a golden chest on the left.\n## Yellow Wind Ridge Celestial Nonary Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Black_Mountain_Nonary.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing near a table with golden bowls and a candle, in front of a large statue in a dimly lit, rustic environment. This setting appears to be part of the Black Wind Mountain area, where the Celestial Nonary Pill quest unfolds. The image likely represents a key moment or location tied to the quest progression, possibly near Bodhi Peak.\n\n2. **Purpose, Content, or Narrative Role**:  \nBased on the context, the image illustrates part of the journey to obtain the Black Wind Mountain Celestial Nonary Pill. It aligns with the preceding and following text, which describes defeating the Black Wind King, unlocking the Cloud Step spell, and climbing to Bodhi Peak. The visual serves to immerse players in the quest's atmosphere and highlights the environment where critical events or discoveries occur."
+    "chunk_id": 208511392565,
+    "source_file": "Chapter_1_Secret_-_Ancient_Guanyin_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg",
+    "alt_text": "Wukong Bamboo 32.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Wolves 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Wolves_42.jpg)\n* **Forest of Wolves** \\- From the Outside the Forest Shrine, you can head up the left path to a higher road leading to a rope bridge across a stream. Follow the path straight past the bridge to find an optional Yaoguai Chief named Guangzhi who drops the Red Tides Transformation Spell. At the far end of the arena, you’ll find the first bell.",
+    "img_below_text": "* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.\n![Wukong Bamboo 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Wolves_42.jpg)\n* **Forest of Wolves** \\- From the Outside the Forest Shrine, you can head up the left path to a higher road leading to a rope bridge across a stream. Follow the path straight past the bridge to find an optional Yaoguai Chief named Guangzhi who drops the Red Tides Transformation Spell. At the far end of the arena, you’ll find the first bell.\"\n        - Following Text: \"* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.\n![Wukong Bamboo 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the protagonist ascending a moss-covered stone staircase in a dense bamboo forest. The red arrow highlights the path leading to a shrine-like structure in the background, suggesting the next objective or area to explore. This setting appears to be part of the \"Forest of Wolves\" area, where players encounter challenges such as the Yaoguai Chief Guangzhi and discover the first bell."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 975846631068,
-    "source_file": "Curios.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg",
-    "alt_text": "Agate Jar.jpg",
-    "position_desc": 3,
-    "img_above_text": "![Wind Chime .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Wind_Chime_.jpg)| Wind Chime| Rare | Slightly increases movement speed | Deluxe Edition exclusive curios. Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain | Wind Chime\n![Cat Eye Beads .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Cat_Eye_Beads_.jpg)| Cat Eye Beads| Rare | Slightly increases critical hit chance | Defeat Wandering Wight in the Forest of Wolves - Outside the Forest in Black Wind Mountain | Cat Eye Beads",
-    "img_below_text": "![Back Scratcher .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg)| Back Scratcher| Rare | Considerably increases maximum stamina | Purchase from the Shrine store in Black Wind Mountain, after completing Chapter 1 | Back Scratcher\n![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Wind Chime .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Wind_Chime_.jpg)| Wind Chime| Rare | Slightly increases movement speed | Deluxe Edition exclusive curios. Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain | Wind Chime\n![Cat Eye Beads .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Cat_Eye_Beads_.jpg)| Cat Eye Beads| Rare | Slightly increases critical hit chance | Defeat Wandering Wight in the Forest of Wolves - Outside the Forest in Black Wind Mountain | Cat Eye Beads\"\n            - Following Text: \"![Back Scratcher .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg)| Back Scratcher| Rare | Considerably increases maximum stamina | Purchase from the Shrine store in Black Wind Mountain, after completing Chapter 1 | Back Scratcher\n![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the \"Bone of Creation,\" a rare curio from the game *Black Myth: Wukong*. Based on its placement between the Wind Chime and Back Scratcher items, it is likely a collectible with unique gameplay benefits. The intricate design, featuring a skeletal structure with fiery red accents, suggests it may have mystical or symbolic significance. Its purpose, inferred from the context, could involve enhancing a specific player attribute or providing a unique ability."
+    "chunk_id": 588065070823,
+    "source_file": "Dark_Thunder.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_MiddleHollow_49.jpg",
+    "alt_text": "Wukong MiddleHollow 49.jpg",
+    "position_desc": 4,
+    "img_above_text": "### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.",
+    "img_below_text": "### Horse Guai Flaming Mountains Location\nThe Horse Guai can be found at the Furnace Valley, Valley Entrance area of the Flaming Mountains. However, you will need to kill the Keeper of Flaming Mountains boss towards the end of the chapter before you can do anything here.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.\"\n        - Following Text: \"### Horse Guai Flaming Mountains Location\nThe Horse Guai can be found at the Furnace Valley, Valley Entrance area of the Flaming Mountains. However, you will need to kill the Keeper of Flaming Mountains boss towards the end of the chapter before you can do anything here.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing in a cave environment with webbed textures and scattered cocoon-like objects. A red arrow points to a large cocoon, which is likely the target to destroy in order to reveal the Horse Guai, as described in the preceding text. This scene serves as part of the walkthrough for locating and interacting with the Horse Guai in \"The Webbed Hollow\" area."
 }

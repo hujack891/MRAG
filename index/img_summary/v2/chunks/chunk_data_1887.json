@@ -1,28 +1,11 @@
 {
-    "chunk_id": 123025970733,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
-    "alt_text": "Wukong Yellow 25.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Rewards: Mad Tiger Spirit, Blood of the Iron Bull, Yaoguai Core x1, Stone Spirit x1, 1102 Experience, 1023 Will, Plaguebane Gourd (in chest)\n## Where to Find the Mad Tiger",
-    "img_below_text": "After defeating the Tiger’s Acolyte, you’ll gain the Old-Rattle Drum, which appears to have belonged to the Acolyte’s son, but no other details are provided. You will need to find three areas where you can use the drum to summon a spirit, in locations all across the Yellow Wind Ridge. The only clue you’ll have is that entering the correct area will cause your vision to warp, and the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Mad Tiger Spirit, Blood of the Iron Bull, Yaoguai Core x1, Stone Spirit x1, 1102 Experience, 1023 Will, Plaguebane Gourd (in chest)\n## Where to Find the Mad Tiger\"\n            - Following Text: \"After defeating the Tiger’s Acolyte, you’ll gain the Old-Rattle Drum, which appears to have belonged to the Acolyte’s son, but no other details are provided. You will need to find three areas where you can use the drum to summon a spirit, in locations all across the Yellow Wind Ridge. The only clue you’ll have is that entering the correct area will cause your vision to warp, and the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter in *Black Myth: Wukong*, where the player character, Wukong, is battling \"Tiger's Acolyte\" on a desolate, shrine-like battlefield. The environment is dimly lit, with stone pillars and a worn path, suggesting a mystical or ancient setting. The player appears to be using a glowing ability or item, while the enemy leaps aggressively toward them.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the quest to defeat the Tiger’s Acolyte, a significant boss fight that rewards the player with the Old-Rattle Drum, an item tied to summoning spirits across Yellow Wind Ridge. This encounter is part of the progression toward uncovering the Mad Tiger's location and advancing the storyline."
+    "chunk_id": 927763193499,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Thunderclap_44.jpg",
+    "alt_text": "Wukong Thunderclap 44.jpg",
+    "position_desc": 43,
+    "img_above_text": "Take this bridge path up to find a massive statue altar at the far end. Standing next to a pillar nearby, you'll have your third meeting with the friendly Horse Guai. It seems he's quite bewitched by Yellowbrow and has lost the will to continue his quest.\nWhile there's nothing you can do to resolve his dilemma (other than beat up Yellowbrow yourself), you can keep talking to him and he'll give you the **Trailblazer's Scarlet Gourd** , a new gourd bottle you can try that grants a full heal on the first swig!",
+    "img_below_text": "Be sure to also inspect the small gold box at the foot of the large statue altar, and you'll get the Body-**Fleeting Powder Formula** , plus three extra powders for free that can allow you to fight without expending stamina for a short duration.\n![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Take this bridge path up to find a massive statue altar at the far end. Standing next to a pillar nearby, you'll have your third meeting with the friendly Horse Guai. It seems he's quite bewitched by Yellowbrow and has lost the will to continue his quest.\nWhile there's nothing you can do to resolve his dilemma (other than beat up Yellowbrow yourself), you can keep talking to him and he'll give you the **Trailblazer's Scarlet Gourd** , a new gourd bottle you can try that grants a full heal on the first swig!\"\n        - Following Text: \"Be sure to also inspect the small gold box at the foot of the large statue altar, and you'll get the Body-**Fleeting Powder Formula** , plus three extra powders for free that can allow you to fight without expending stamina for a short duration.\n![Wukong Thunderclap 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Thunderclap_45.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character approaching a large statue altar in a temple-like environment. The red-dotted circle highlights a point of interest at the foot of the altar, likely the small gold box mentioned in the following text. This location is where players can obtain the **Fleeting Powder Formula** and additional powders. The preceding text references a nearby interaction with the Horse Guai NPC, who provides the **Trailblazer's Scarlet Gourd**, a healing item. The image serves to illustrate the setting and key objectives in this part of the walkthrough."
 }

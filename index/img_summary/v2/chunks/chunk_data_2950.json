@@ -1,28 +1,11 @@
 {
-    "chunk_id": 370623331467,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(2\\).png",
-    "position_desc": 3,
-    "img_above_text": "![Foothills Walkthrough \\(145\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png)\nYou'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.",
-    "img_below_text": "At the start of Water Curtain Cave, go up the slope and to the cliff's edge. Run and jump across the gap to reach the path slightly below and be able to get behind the waterfall.\n![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(145\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png)\nYou'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game.\"\n            - Following Text: \"At the start of Water Curtain Cave, go up the slope and to the cliff's edge. Run and jump across the gap to reach the path slightly below and be able to get behind the waterfall.\n![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scenic view of a waterfall cascading down a rocky cliff, surrounded by lush greenery. The red arrow in the image likely indicates the path or direction the player should take to proceed in the game. This image serves as a visual guide for players to locate the archway leading to the Water Curtain Cave, which is the final area in the game \"Black Myth: Wukong.\""
+    "chunk_id": 301879009285,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_UpperHollow_30.jpg",
+    "alt_text": "Wukong UpperHollow 30.jpg",
+    "position_desc": 31,
+    "img_above_text": "![Wukong UpperHollow 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/Wukong_UpperHollow_29.jpg)\nWhen he goes to favor his tail, he'll perform a poisonous uppercut slash, then slam his tail down twice in quick succession, before a delayed final strike. Luckily this usually leaves him winded enough for you to get off a charged hit.",
+    "img_below_text": "The good news is he won't respawn, so go all out with baiting his lunges to deflect with Rock Solid, and transform as needed to dish out as much damage as possible to send him sprawling.\n![Wukong UpperHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_UpperHollow_32.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong UpperHollow 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d0/Wukong_UpperHollow_29.jpg)\nWhen he goes to favor his tail, he'll perform a poisonous uppercut slash, then slam his tail down twice in quick succession, before a delayed final strike. Luckily this usually leaves him winded enough for you to get off a charged hit.\"\n        - Following Text: \"The good news is he won't respawn, so go all out with baiting his lunges to deflect with Rock Solid, and transform as needed to dish out as much damage as possible to send him sprawling.\n![Wukong UpperHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_UpperHollow_32.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showing the player character facing off against a large, armored, insect-like enemy in a dimly lit cave environment. The enemy appears mid-attack, with its health bar partially depleted, while the player is positioned defensively. The preceding and following text suggests this is a challenging encounter, requiring careful timing to exploit the enemy's attack patterns and capitalize on its moments of vulnerability."
 }

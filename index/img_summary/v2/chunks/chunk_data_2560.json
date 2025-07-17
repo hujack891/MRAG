@@ -1,28 +1,11 @@
 {
-    "chunk_id": 697756798648,
-    "source_file": "Sandgate_Village_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg",
-    "alt_text": "Wukong RedLoong 2.jpg",
-    "position_desc": 74,
-    "img_above_text": "First Prince of Flowing Sands\n### The Loong’s Secret Tomb",
-    "img_below_text": "If you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.\n![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 74 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"First Prince of Flowing Sands\n### The Loong’s Secret Tomb\"\n            - Following Text: \"If you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.\n![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character, Wukong, stands before a cracked wall adorned with numerous small statues. The crack in the wall, likely caused by a major attack, reveals a passage that the player can enter, as indicated by the \"Go In\" prompt. This scene follows a battle with the First Prince of Flowing Sands, where triggering or creating such a crack is necessary to progress further in the game."
+    "chunk_id": 68958924806,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Water_Curtain_Cave_Walkthrough_%284%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(4\\).png",
+    "position_desc": 12,
+    "img_above_text": "When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence",
+    "img_below_text": "Make your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.\n![Water Curtain Cave Walkthrough \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Water_Curtain_Cave_Walkthrough_%285%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When you emerge on the other side, you'll see the final stretch of the path that dips down and then slopes upward. Head for the top and activate the Peak of Innocence Keeper's Shrine, just before the end of the path.\n## Peak of Innocence\"\n        - Following Text: \"Make your way to the top of the peak and you'll find Zhu Bajie near a mysterious stone. Go over to the stone and interact with it to be transported to another realm.\n![Water Curtain Cave Walkthrough \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Water_Curtain_Cave_Walkthrough_%285%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scenic, sunlit rocky path surrounded by trees and vegetation, leading upward toward a peak. A character dressed in ornate armor and wielding a staff stands in the foreground, facing a mysterious stone formation further up the path. This setting aligns with the walkthrough's description of reaching the Peak of Innocence, where the player encounters Zhu Bajie near the stone to interact with it and progress to another realm."
 }

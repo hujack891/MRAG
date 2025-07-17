@@ -1,28 +1,11 @@
 {
-    "chunk_id": 671511506077,
-    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Five_Skandhas_%2810%29.png",
-    "alt_text": "Five Skandhas \\(10\\).png",
-    "position_desc": 6,
-    "img_above_text": "![Five Skandhas \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Five_Skandhas_%283%29.png)\nYou can collect the Skandha of Thought in Chapter 3 when you reach the Mindfulness Cliff Keeper's Shrine. To the right of the shrine, there's a large canyon, and there's actually a path below that you can drop down onto.",
-    "img_below_text": "Jump down there and follow the cave system, until you're back outside, then continue up the stairs and along the path. Turn right and head through the corridor to emerge on another cliff that's covered in snow.\n![Five Skandhas \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Five_Skandhas_%284%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md'.\n\n            Context:\n            - Preceding Text: \"![Five Skandhas \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Five_Skandhas_%283%29.png)\nYou can collect the Skandha of Thought in Chapter 3 when you reach the Mindfulness Cliff Keeper's Shrine. To the right of the shrine, there's a large canyon, and there's actually a path below that you can drop down onto.\"\n            - Following Text: \"Jump down there and follow the cave system, until you're back outside, then continue up the stairs and along the path. Turn right and head through the corridor to emerge on another cliff that's covered in snow.\n![Five Skandhas \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Five_Skandhas_%284%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/37/Five_Skandhas_%2810%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character navigating a rocky, snow-covered pathway emerging from a cave. This area appears to be part of the route described in the preceding and following text, where the player explores a cave system and transitions to an outdoor snowy cliff. The image visually supports the narrative progression of finding the Skandha of Thought in Chapter 3, guiding players through the environment toward the next objective."
+    "chunk_id": 717858280701,
+    "source_file": "Iron_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Bitter_22.jpg",
+    "alt_text": "Wukong Bitter 22.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Upon successful Rock Solid deflections, considerably reduces its cooldown (4 pieces)\nThe full Iron Set of Armor and Gear is located within Chapter 3 - The New West. It is craftable at any Shrine upon defeating Yin Tiger within the Zodiac Realm. You will need to fight Chen Loong and obtain the Special-made Bone-Strengthening Pellet from Xu Dog he requests to gain access to the realm. Once in the realm you can fight Yin Tiger by challenging him.",
+    "img_below_text": "The Iron Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 4 Cold Iron Leaves, 2 Fine Gold Thread, 1 The Duskveil's Horn, 6,400 Will - headgear",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Upon successful Rock Solid deflections, considerably reduces its cooldown (4 pieces)\nThe full Iron Set of Armor and Gear is located within Chapter 3 - The New West. It is craftable at any Shrine upon defeating Yin Tiger within the Zodiac Realm. You will need to fight Chen Loong and obtain the Special-made Bone-Strengthening Pellet from Xu Dog he requests to gain access to the realm. Once in the realm you can fight Yin Tiger by challenging him.\"\n        - Following Text: \"The Iron Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\n* 4 Cold Iron Leaves, 2 Fine Gold Thread, 1 The Duskveil's Horn, 6,400 Will - headgear\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a menu interface in a video game where the player interacts with Yin Tiger, a character associated with crafting and upgrading gear. The menu options include \"Craft Weapons,\" \"Craft Armor,\" and \"Upgrade Armor,\" allowing players to enhance previously obtained armor. This interaction is part of the process to acquire and upgrade the Iron Set of Armor and Gear, which requires specific materials and is tied to defeating Yin Tiger in the Zodiac Realm, as described in the preceding and following text."
 }

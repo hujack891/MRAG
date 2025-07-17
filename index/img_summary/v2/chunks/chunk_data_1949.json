@@ -1,28 +1,11 @@
 {
-    "chunk_id": 973048176992,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg",
-    "alt_text": "Black-myth-wukong-withered-silkworm.jpg",
-    "position_desc": 15,
-    "img_above_text": "![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\n![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards",
-    "img_below_text": "![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards\n![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\n![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\"\n            - Following Text: \"![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards\n![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts \"Fire Date,\" an uncommon ingredient in *Black Myth: Wukong*. It is likely used for crafting or enhancing abilities within the game. Based on the context, Fire Date can be found in \"The Webbed Hollow\" and beyond, aligning with other ingredients in the list that are tied to specific locations and enemies. The image serves to visually represent the item for players to identify it in-game."
+    "chunk_id": 445874445240,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Thunderclap_108.jpg",
+    "alt_text": "Wukong Thunderclap 108.jpg",
+    "position_desc": 113,
+    "img_above_text": "He can also more frequently employ lots of very deadly moves, like repeatedly swinging his electrified mace around him in multiple arcs with large electric waves of force that have an additional delayed detonation.\nYou'll need to play things very smart and cautious now, and don't be afraid to pause and use additional consumables, including rare ones given by the Xu Dog in the Zodiac Village. This match is a true endurance test, and you'll want to use everything in your arsenal to keep Yellowbrow on the defensive.",
+    "img_below_text": "If you've run out of juice from your gourd, consider consuming medicine to increase your max health, or swap to a Transformation Spell to survive attacks you may not otherwise live through.\nWith enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"He can also more frequently employ lots of very deadly moves, like repeatedly swinging his electrified mace around him in multiple arcs with large electric waves of force that have an additional delayed detonation.\nYou'll need to play things very smart and cautious now, and don't be afraid to pause and use additional consumables, including rare ones given by the Xu Dog in the Zodiac Village. This match is a true endurance test, and you'll want to use everything in your arsenal to keep Yellowbrow on the defensive.\"\n        - Following Text: \"If you've run out of juice from your gourd, consider consuming medicine to increase your max health, or swap to a Transformation Spell to survive attacks you may not otherwise live through.\nWith enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense boss fight against \"Yellowbrow,\" showcasing the player character mid-combat using fiery and electrified attacks. The interface highlights available moves, including \"Chop Wood,\" \"Blow Fire,\" and \"Fiery Burst,\" suggesting strategic use of abilities to deal damage and manage Focus. Yellowbrow's health bar is visible, emphasizing the endurance-based nature of the battle described in the preceding and following text. The scene aligns with the guide's advice to play cautiously, utilize consumables, and adapt strategies to overcome the boss's deadly attacks."
 }

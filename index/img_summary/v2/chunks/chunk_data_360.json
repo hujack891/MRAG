@@ -1,28 +1,11 @@
 {
-    "chunk_id": 782231876172,
-    "source_file": "Buddha%27s_Eyeball_Locations.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Buddhas_Eyeball_5.jpg",
-    "alt_text": "Buddhas Eyeball 5.jpg",
-    "position_desc": 5,
-    "img_above_text": "### Black Myth: Wukong Buddha's Eyeball 4 Location\nHead back to the Shrine once again and take the path through the centre of Squall Hideout. You will spot the Buddha's Eyeball statue along it.",
-    "img_below_text": "Buddha's Eyeball 4\n### Black Myth: Wukong Buddha's Eyeball 5 Location",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Buddha%27s_Eyeball_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Black Myth: Wukong Buddha's Eyeball 4 Location\nHead back to the Shrine once again and take the path through the centre of Squall Hideout. You will spot the Buddha's Eyeball statue along it.\"\n            - Following Text: \"Buddha's Eyeball 4\n### Black Myth: Wukong Buddha's Eyeball 5 Location\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Buddhas_Eyeball_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showcasing the player character standing in a rocky, desolate area with dry grass and scattered debris. In the foreground, a large Buddha statue head with glowing eyes is partially buried, hinting at its significance as a \"Buddha's Eyeball\" location. This visual likely serves as a guide for players to identify and locate the fifth Buddha's Eyeball in the game, continuing the narrative progression from the fourth location mentioned in the preceding text."
+    "chunk_id": 465709973310,
+    "source_file": "Bull_King%27s_Set.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Bishui_Cave_Walkthrough_%2839%29.png",
+    "alt_text": "Bishui Cave Walkthrough \\(39\\).png",
+    "position_desc": 1,
+    "img_above_text": "* Disables perfect dodges but grants Tenacity when health is below half (4 pieces)\nThe full Bull King's Set of Armor and Gear is located within Chapter 5 - Flaming Mountains in the secret Bishui Cave area. It is craftable at any Shrine upon defeating the Bishui Golden-Eyed Beast within this secret area.",
+    "img_below_text": "Our video guide on how to reach the Chapter 5 secret area can be found below:\nThe Bull King's Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Disables perfect dodges but grants Tenacity when health is below half (4 pieces)\nThe full Bull King's Set of Armor and Gear is located within Chapter 5 - Flaming Mountains in the secret Bishui Cave area. It is craftable at any Shrine upon defeating the Bishui Golden-Eyed Beast within this secret area.\"\n        - Following Text: \"Our video guide on how to reach the Chapter 5 secret area can be found below:\nThe Bull King's Set of Armor and Gear can be crafted, as it is the only way to get it. To craft it you need the following:\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a fiery battle scene from Chapter 5 - Flaming Mountains in a video game, showcasing the Bishui Golden-Eyed Beast, a key enemy located in the secret Bishui Cave area. Defeating this beast is crucial for crafting the Bull King's Set of Armor and Gear at a Shrine. The preceding and following text provide context on the armor's attributes and crafting requirements, as well as guidance for accessing the secret area."
 }

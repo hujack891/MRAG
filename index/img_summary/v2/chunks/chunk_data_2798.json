@@ -1,28 +1,11 @@
 {
-    "chunk_id": 882494138927,
-    "source_file": "Sweet_Ice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg",
-    "alt_text": "Wukong Thunderclap 29.jpg",
-    "position_desc": 1,
-    "img_above_text": "The Sweet Ice Soak can be found in New Thunderclap Temple in The New West, specifically at the Temple Entrance Shrine. From the Shrine, follow the path to the middle-right and through the red building's opening to get to the main plaza.\nContinue onwards, sticking to the right, and head through another red building's opening. Go up the staircase, and take a right, and another right to see a building just in front of you.",
-    "img_below_text": "Behind this building, you can find the Soak within a gazebo.\n![Wukong Thunderclap 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_28.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Sweet_Ice.md'.\n\n            Context:\n            - Preceding Text: \"The Sweet Ice Soak can be found in New Thunderclap Temple in The New West, specifically at the Temple Entrance Shrine. From the Shrine, follow the path to the middle-right and through the red building's opening to get to the main plaza.\nContinue onwards, sticking to the right, and head through another red building's opening. Go up the staircase, and take a right, and another right to see a building just in front of you.\"\n            - Following Text: \"Behind this building, you can find the Soak within a gazebo.\n![Wukong Thunderclap 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_28.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing at the top of a snowy staircase, armed with a spear, facing an enemy below. The setting is a winter landscape with traditional architecture, likely within the New Thunderclap Temple area. This image serves to illustrate the player's journey through the temple, providing a visual reference for navigating towards the Sweet Ice Soak location."
+    "chunk_id": 887782125753,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg",
+    "alt_text": "Bronze Cloud Staffed.jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---|---\n![Willow Wood Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg) Willow Wood Staff| 30 | N/A | N/A | • Default weapon at the start of Chapter 1 | Not craftable | Willow Wood Staff",
+    "img_below_text": "![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\n• 8 Stone Spirit",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"---|---|---|---|---|---|---\n![Willow Wood Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg) Willow Wood Staff| 30 | N/A | N/A | • Default weapon at the start of Chapter 1 | Not craftable | Willow Wood Staff\"\n        - Following Text: \"![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\n• 8 Stone Spirit\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Willow Wood Staff,\" a weapon from the video game *Black Myth: Wukong*. It serves as the default weapon at the start of Chapter 1 and is not craftable. The staff is visually represented with a wooden base and intricate carvings, aligning with its introductory role in the game."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 666428575947,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2830%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(30\\).png",
-    "position_desc": 28,
-    "img_above_text": "![Water Curtain Cave Walkthrough \\(31\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Water_Curtain_Cave_Walkthrough_%2831%29.png)\nSome more projectiles are brought into play here, however. Occasionally, one of the monkeys will pull up a large rock from the ground and throw it at you, or you'll see one prepare to throw an orb of ice followed by an orb of fire at you.",
-    "img_below_text": "The final part of this move is typically an even larger orb of fire will be thrown your way. This will mean that you can't spend all your time as close to them as possible, and will need to dip back at times to easily avoid these attacks.\nAt this stage, it's worth throwing out your spells like Pluck of Many to overwhelm the two enemies and using Immobilize to keep one in place, while you target the other.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(31\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Water_Curtain_Cave_Walkthrough_%2831%29.png)\nSome more projectiles are brought into play here, however. Occasionally, one of the monkeys will pull up a large rock from the ground and throw it at you, or you'll see one prepare to throw an orb of ice followed by an orb of fire at you.\"\n            - Following Text: \"The final part of this move is typically an even larger orb of fire will be thrown your way. This will mean that you can't spend all your time as close to them as possible, and will need to dip back at times to easily avoid these attacks.\nAt this stage, it's worth throwing out your spells like Pluck of Many to overwhelm the two enemies and using Immobilize to keep one in place, while you target the other.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Water_Curtain_Cave_Walkthrough_%2830%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist facing off against two enemies in a watery environment. One enemy is preparing to throw a glowing orb, likely an orb of ice or fire, as described in the preceding text. The image serves to illustrate the challenging combat scenario where the player must navigate and avoid various projectile attacks while strategically using spells and abilities to overcome the enemies."
+    "chunk_id": 507963924664,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Woods_Ember_Walkthrough_%2817%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(17\\).png",
+    "position_desc": 5,
+    "img_above_text": "Mind Core (x6) - 2800 Will | Find Gold Thread (x2) - 3000 Will | Gold Tree Core (x1) - 4500 Will |\nPurple Lingzhi (x10) - 90 Will | Fire Bellflower (x10) - 120 Will | Flame Ore (x5) - 180 Will | Fire Date (x3) - 360 Will",
+    "img_below_text": "![Woods Ember Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Woods_Ember_Walkthrough_%2818%29.png)\nOnce you've grabbed the Wisp, go in the opposite direction and past the Revenant Archer. On the other side of the underpass, you'll walk straight into another round of fighting. This time, you'll find the Revenants fighting Bull Sergeants.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Mind Core (x6) - 2800 Will | Find Gold Thread (x2) - 3000 Will | Gold Tree Core (x1) - 4500 Will |\nPurple Lingzhi (x10) - 90 Will | Fire Bellflower (x10) - 120 Will | Flame Ore (x5) - 180 Will | Fire Date (x3) - 360 Will\"\n        - Following Text: \"![Woods Ember Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Woods_Ember_Walkthrough_%2818%29.png)\nOnce you've grabbed the Wisp, go in the opposite direction and past the Revenant Archer. On the other side of the underpass, you'll walk straight into another round of fighting. This time, you'll find the Revenants fighting Bull Sergeants.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark and desolate environment with burning trees and scattered debris, likely part of a combat or exploration sequence in *Black Myth: Wukong*. Two red markers highlight points of interest, possibly indicating items or objectives such as the Wisp mentioned in the following text. The player character, equipped with a staff, stands ready to proceed through the area, which leads to an encounter with Revenants and Bull Sergeants as described in the walkthrough."
 }

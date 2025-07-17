@@ -1,28 +1,11 @@
 {
-    "chunk_id": 52273185271,
-    "source_file": "How_to_Unlock_the_Chapter_5_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Chapter_5_Secret_Area_%2813%29.png",
-    "alt_text": "Chapter 5 Secret Area \\(13\\).png",
-    "position_desc": 10,
-    "img_above_text": "After the fight, speak to the Pale-Axe Stalwart again and exhaust his dialogue.\n### Find the Cooling Slope",
-    "img_below_text": "Follow the main path for the chapter up to the Field of Fire, passing by the rolling spiked ball. When you reach the end of the road, a cutscene will begin, and you'll then want to **backtrack where the spiked ball was rolling and find the place where the flames were.**\n![Chapter 5 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Chapter_5_Secret_Area_%2811%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'How_to_Unlock_the_Chapter_5_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"After the fight, speak to the Pale-Axe Stalwart again and exhaust his dialogue.\n### Find the Cooling Slope\"\n            - Following Text: \"Follow the main path for the chapter up to the Field of Fire, passing by the rolling spiked ball. When you reach the end of the road, a cutscene will begin, and you'll then want to **backtrack where the spiked ball was rolling and find the place where the flames were.**\n![Chapter 5 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Chapter_5_Secret_Area_%2811%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Chapter_5_Secret_Area_%2813%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character, armed with a staff, navigating a rocky, desolate landscape with glowing red cracks and approaching a massive spiked rolling ball. The environment is ominous, featuring barren trees and ancient structures in the background. This scene appears to be part of the \"Field of Fire\" area in Chapter 5, where players must follow the main path and later backtrack to uncover a secret area.\n\n2. **Purpose/Narrative Role**:  \nThe image visually represents a key moment in Chapter 5 of the game, showcasing the hazardous terrain and the rolling spiked ball obstacle mentioned in the guide. It serves to orient players on their journey toward the secret area, emphasizing the need to navigate past this obstacle and later revisit the location to find hidden flames."
+    "chunk_id": 400242722414,
+    "source_file": "Laurel_Buds.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Laurel_Buds.jpg",
+    "alt_text": "Laurel Buds.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Laurel Buds can be found past the Lang-Li-Guhh-Baw boss to the left of the Sandgate Village - Village Entrance Shrine in Yellow Wind Ridge. Head towards where you will fight the King of Flowing Sand and Second Rat Prince. Just before that boss arena, you will see a statue.\nBy this statue, you can pick up the Laurel Buds.",
+    "img_below_text": "Soaks are far more plentiful than the Drinks for your Gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Laurel Buds can be found past the Lang-Li-Guhh-Baw boss to the left of the Sandgate Village - Village Entrance Shrine in Yellow Wind Ridge. Head towards where you will fight the King of Flowing Sand and Second Rat Prince. Just before that boss arena, you will see a statue.\nBy this statue, you can pick up the Laurel Buds.\"\n        - Following Text: \"Soaks are far more plentiful than the Drinks for your Gourds. They are scattered throughout the game, across each chapter. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough. You can also keep track of the Awaken Wine Worm locations and Luoija Fragrant Vine locations, which are key to upgrading your healing potential and Gourd.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a statue in *Black Myth: Wukong*. This location is significant as it is where players can find the Laurel Buds, an item mentioned in the preceding text. The statue and surrounding area serve as a visual marker for the item’s location, situated before the arena of the King of Flowing Sand and Second Rat Prince bosses. The following text transitions to discussing other collectible items and upgrades in the game."
 }

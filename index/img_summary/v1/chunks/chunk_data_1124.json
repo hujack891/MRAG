@@ -1,6 +1,9 @@
 {
-    "chunk_id": 578796760229,
+    "chunk_id": 980670172200,
+    "source_file": "Fungiwoman.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_YellowFlower_42.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image depicts a scene from a video game where the player character is crouched in a grassy area near a rocky terrain, holding a large weapon with a fiery effect. The environment includes a wooden structure, possibly a shrine or house, with a table and a glowing object highlighted by a red circle, indicating an interactive or collectible item. The user interface displays various icons on the bottom left corner, likely representing abilities or items, and a health bar at the bottom center. On the right side, a text hint shows \"Will x40,\" suggesting the player has collected or is about to collect 40 units of an in-game resource named \"Will.\""
+    "alt_text": "Wukong YellowFlower 42.jpg",
+    "position_desc": 4,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image shows a scene from a video game where a character is crouched on a stone path in a grassy area, holding a weapon with a glowing tip. In the background, there is a wooden structure with a table, on which an item is highlighted with a red circle. The game's user interface displays various icons and meters, including a health bar at the bottom left and a counter labeled \"Will x40\" at the top right."
 }

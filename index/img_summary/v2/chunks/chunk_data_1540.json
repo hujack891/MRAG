@@ -1,28 +1,11 @@
 {
-    "chunk_id": 565512036616,
-    "source_file": "How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Buddhas_Eye_Secret_Boss_%2814%29.png",
-    "alt_text": "Buddhas Eye Secret Boss \\(14\\).png",
-    "position_desc": 13,
-    "img_above_text": "## How to Use the Buddha’s Eyeballs to Unlock the Secret Boss\nGo right from the final Buddha Head (closest to Rockrest Flat Keeper’s Shrine) and then proceed through the doorway just to the right of it. As you enter, you’ll see a large rock to the left. Upon closer inspection, it has multiple faces that sit in the rock.",
-    "img_below_text": "If you haven’t got all 6 of the Buddha Eyes, when you go toward it and examine it, will say:_\"Bound by six seals, eternally confined. In yellow earth, the evil’s fate entwined.\"_\nWhen you have all 6 of the Budda Eyes, the prompt for Deliver will appear. Doing so will enter the Buddha’s Eyeballs into the rock and a secret boss Shigandang will appear.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'How_to_Find_All_Buddha%27s_Eyes_Locations_and_Unlock_Secret_Boss.md'.\n\n            Context:\n            - Preceding Text: \"## How to Use the Buddha’s Eyeballs to Unlock the Secret Boss\nGo right from the final Buddha Head (closest to Rockrest Flat Keeper’s Shrine) and then proceed through the doorway just to the right of it. As you enter, you’ll see a large rock to the left. Upon closer inspection, it has multiple faces that sit in the rock.\"\n            - Following Text: \"If you haven’t got all 6 of the Buddha Eyes, when you go toward it and examine it, will say:_\"Bound by six seals, eternally confined. In yellow earth, the evil’s fate entwined.\"_\nWhen you have all 6 of the Budda Eyes, the prompt for Deliver will appear. Doing so will enter the Buddha’s Eyeballs into the rock and a secret boss Shigandang will appear.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Buddhas_Eye_Secret_Boss_%2814%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character standing in a desolate, rocky environment, pointing toward a large rock formation marked with a red dashed circle. The rock appears to have multiple carved faces and is significant to the narrative. Based on the context, this location is where players can interact with the rock to use the collected Buddha Eyes, unlocking the secret boss \"Shigandang.\" The image serves as a visual guide to help players identify the correct location for this interaction."
+    "chunk_id": 198368310958,
+    "source_file": "Hundred-Eyed_Daoist_Master.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_67.jpg",
+    "alt_text": "Wukong YellowFlower 67.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong YellowFlower 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_YellowFlower_66.jpg)\nOnce the fight settles down to a 1v1, you'll get a better idea of his many attacks and how best to avoid them. He has a number of different sword sweep attacks he can do when you try a frontal assault, slicing downwards with a forward and backward slash, then spinning around quickly to perform a third hit.",
+    "img_below_text": "He often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.\n![Wukong YellowFlower 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong YellowFlower 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_YellowFlower_66.jpg)\nOnce the fight settles down to a 1v1, you'll get a better idea of his many attacks and how best to avoid them. He has a number of different sword sweep attacks he can do when you try a frontal assault, slicing downwards with a forward and backward slash, then spinning around quickly to perform a third hit.\"\n        - Following Text: \"He often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.\n![Wukong YellowFlower 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense boss fight in *Black Myth: Wukong* against the \"Hundred-Eyed Daoist Master.\" The boss, a large, grotesque figure with multiple limbs, is shown mid-action, raising his glowing hand while wielding a sword, likely preparing a powerful attack. The lush yellow flower field and surrounding environment provide a striking backdrop. The player's health bar and ability icons are visible, emphasizing the combat mechanics and the need for strategic movement to avoid the boss's devastating attacks."
 }

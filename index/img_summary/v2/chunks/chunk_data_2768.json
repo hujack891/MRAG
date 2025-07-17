@@ -1,28 +1,11 @@
 {
-    "chunk_id": 604430303223,
-    "source_file": "Sterness_of_Stone.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg",
-    "alt_text": "Sterness of Stone 4.jpg",
-    "position_desc": 4,
-    "img_above_text": "![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)\nThe second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.",
-    "img_below_text": "For an even more detailed walkthrough of these areas beyond the Tallies, be sure to check out our full walkthrough.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Sterness_of_Stone.md'.\n\n            Context:\n            - Preceding Text: \"![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)\nThe second gate and final Tally is at the base of the sand slope onwards from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\"\n            - Following Text: \"For an even more detailed walkthrough of these areas beyond the Tallies, be sure to check out our full walkthrough.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Sterness_of_Stone_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a character standing in a rocky, ancient setting with stone lion statues and a lit brazier. This area appears to be significant within the game's narrative, as it is located near the second gate and final Tally, following a challenging section called the Fright Cliff - Rock Clash Platform Shrine. The image serves as a visual reference for players navigating this part of the game, highlighting the environment they will encounter and the progression towards the next stage of the adventure."
+    "chunk_id": 486661845224,
+    "source_file": "Violet_Spider.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_LowerHollow_82.jpg",
+    "alt_text": "Wukong LowerHollow 82.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong LowerHollow 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_LowerHollow_81.jpg)\nThe poison blast has an extremely wide area of effect, and can be difficult to escape if you're still very close to her when she burrows in. Luckily, as long as you have a lot of stamina saved up, you can also negate the blast by using the Pillar Stance. It will likely take 50% of your stamina bar to soak, but you'll be free of any damage or poison!",
+    "img_below_text": "At this point, her eyes will start to glow, signifying her second phase. Things will get very scary if her eyes start to glow even brighter and mesmerize you.\n![Wukong LowerHollow 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_LowerHollow_83.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong LowerHollow 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_LowerHollow_81.jpg)\nThe poison blast has an extremely wide area of effect, and can be difficult to escape if you're still very close to her when she burrows in. Luckily, as long as you have a lot of stamina saved up, you can also negate the blast by using the Pillar Stance. It will likely take 50% of your stamina bar to soak, but you'll be free of any damage or poison!\"\n        - Following Text: \"At this point, her eyes will start to glow, signifying her second phase. Things will get very scary if her eyes start to glow even brighter and mesmerize you.\n![Wukong LowerHollow 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_LowerHollow_83.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense boss battle in *Black Myth: Wukong* against the \"Violet Spider.\" The spider, a glowing, menacing creature, is shown mid-attack, with the player character bracing for impact. The on-screen text warns, \"Watch for her eyes, and don't be watched!\"—hinting at a dangerous mechanic involving the spider's glowing eyes, which ties into the transition to her second phase as described in the surrounding text."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 342550184892,
-    "source_file": "Fuban.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
-    "alt_text": "Wukong Sahali 36.jpg",
-    "position_desc": 20,
-    "img_above_text": "![Wukong Sahali 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sahali_35.jpg)\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.",
-    "img_below_text": "However, this won’t end Fuban’s underground reign of terror, as he’ll keep moving his horn up and down from below the sands to attack twice as his horn moves up and down, so keep dodging to stay out of the way.\n![Wukong Sahali 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sahali_37.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Sahali_35.jpg)\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.\"\n            - Following Text: \"However, this won’t end Fuban’s underground reign of terror, as he’ll keep moving his horn up and down from below the sands to attack twice as his horn moves up and down, so keep dodging to stay out of the way.\n![Wukong Sahali 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sahali_37.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment in the game *Black Myth: Wukong*, where the player character is facing off against Fuban, a large, horned creature emerging explosively from beneath the sand. Rocks and debris are flying as Fuban pierces upward with its horn, showcasing its underground attack. The preceding and following text describe how players can use the Pillar Stance to avoid damage from the eruption and dodge subsequent horn strikes during Fuban's underground assault. The image visually emphasizes the intensity and danger of this phase of the battle."
+    "chunk_id": 27952436656,
+    "source_file": "Gourds.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Black-myth-wukong-qing-tian-gourd.jpg",
+    "alt_text": "Black-myth-wukong-qing-tian-gourd.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Black-myth-wukong-supreme-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Black-myth-wukong-supreme-gourd.jpg)| Supreme Gourd| Mythical | 10 | N/A | In Rakshasa Palace within the Flaming Mountains, over the bridge after talking with the Man After talking with him, interact with the fire in the room to upgrade your Gourd to the Supreme Gourd, requires the Old Gourd to be upgraded to 9 healing uses | Supreme Gourd\n![Black-myth-wukong-multi-glazed-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Black-myth-wukong-multi-glazed-gourd.jpg)| Multi-Glazed Gourd| Mythical | 6 | The Last Sip from the Gourd significantly increases attack for a short duration | Bought from the Shen Monkey Vendor in Black Wind Mountain from Chapter 6 onwards | Multi-Glazed Gourd",
+    "img_below_text": "",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-supreme-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Black-myth-wukong-supreme-gourd.jpg)| Supreme Gourd| Mythical | 10 | N/A | In Rakshasa Palace within the Flaming Mountains, over the bridge after talking with the Man After talking with him, interact with the fire in the room to upgrade your Gourd to the Supreme Gourd, requires the Old Gourd to be upgraded to 9 healing uses | Supreme Gourd\n![Black-myth-wukong-multi-glazed-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Black-myth-wukong-multi-glazed-gourd.jpg)| Multi-Glazed Gourd| Mythical | 6 | The Last Sip from the Gourd significantly increases attack for a short duration | Bought from the Shen Monkey Vendor in Black Wind Mountain from Chapter 6 onwards | Multi-Glazed Gourd\"\n        - Following Text: \"\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Supreme Gourd\" from the video game *Black Myth: Wukong*. This mythical item is obtained in the Rakshasa Palace within the Flaming Mountains after interacting with fire in a specific room, provided the Old Gourd has been upgraded to 9 healing uses. The gourd is part of the game's progression system, enhancing the player's healing capabilities."
 }

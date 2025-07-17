@@ -1,28 +1,11 @@
 {
-    "chunk_id": 415791154974,
-    "source_file": "Non-Able_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Non-Able.jpg",
-    "alt_text": "Non-Able.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Non-Able Fight\n* Non-Able Spirit",
-    "img_below_text": "## Non-Able Location\nYou can find Non-Able in a small, snowy clearing in the Brook of Bliss just below the small Pagoda. To get there, head to the Brook of Bliss Keeper's Shrine and take the stairs on the right. Head up the hill to the left until you reach the clearing outside the Pagoda. Turn left to find Non-Able tied up in the center of the snowy plain.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Non-Able_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Non-Able Fight\n* Non-Able Spirit\"\n            - Following Text: \"## Non-Able Location\nYou can find Non-Able in a small, snowy clearing in the Brook of Bliss just below the small Pagoda. To get there, head to the Brook of Bliss Keeper's Shrine and take the stairs on the right. Head up the hill to the left until you reach the clearing outside the Pagoda. Turn left to find Non-Able tied up in the center of the snowy plain.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Non-Able.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a snowy, mountainous area featuring a character tied up in front of a pagoda. This character, referred to as Non-Able, is central to the narrative and is found in a small clearing in the Brook of Bliss. The context suggests that Non-Able is a significant figure in the storyline, possibly requiring rescue or interaction. The detailed instructions on how to locate Non-Able indicate that this scene is an important waypoint or objective within the setting."
+    "chunk_id": 192957632353,
+    "source_file": "Rat_Imperial_Guard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Rat_Imperial_Guard_Power.png",
+    "alt_text": "Rat Imperial Guard Power.png",
+    "position_desc": 3,
+    "img_above_text": "The Rat Imperial Guard fight is difficult, not because the foe himself is particularly powerful, but because he has two other Rat Imperial Guards fighting by his side. Rat Imperial Guards are extremely fast and fight with dual-handed scythe-like weapons. Perfect Dodging their swipes will help you out greatly in this battle. It is easy to get overwhelmed in this fight, so try to separate them and pick them off one by one.\n## Rat Imperial Guard Spirit",
+    "img_below_text": "* **Meat Cleaver**\n* Equipped Effect: Moderately increases Focus granted from Perfect Dodges.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Rat Imperial Guard fight is difficult, not because the foe himself is particularly powerful, but because he has two other Rat Imperial Guards fighting by his side. Rat Imperial Guards are extremely fast and fight with dual-handed scythe-like weapons. Perfect Dodging their swipes will help you out greatly in this battle. It is easy to get overwhelmed in this fight, so try to separate them and pick them off one by one.\n## Rat Imperial Guard Spirit\"\n        - Following Text: \"* **Meat Cleaver**\n* Equipped Effect: Moderately increases Focus granted from Perfect Dodges.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "1. **Summary**: The image showcases the \"Rat Imperial Guard\" Spirit in the game's equipment menu. This rare Spirit allows the player to take the form of a Rat Imperial Guard, enabling nimble attacks that circle and slice enemies. It has a moderate Qi cost and provides the \"Meat Cleaver\" effect, which moderately increases Focus gained from Perfect Dodges. The player can equip it, view its demo, or use it in combat by pressing the designated key."
 }

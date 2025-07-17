@@ -1,28 +1,11 @@
 {
-    "chunk_id": 193447714046,
-    "source_file": "Cyan_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg",
-    "alt_text": "Wukong Turtle 30.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Turtle 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg)\nAnother dangerous attack he can launch with little warning only comes with a small tell -- when he quickly swaps his sword to hold in a reverse grip behind his back. He'll then quickly launch himself through the air at you with a spinning slash that can take a chunk off your health, and then dive back to your position after a moment for sword slice when he reaches the ground.",
-    "img_below_text": "The good news is his final sword slice allows for an extended moment to dodge around and attack him from behind. However, you'll need to keep your eyes open when trying to attack from behind, as he can easily whip his mace-like tail around to hit you. Watch for it to rise up to the top left before slashing down to the bottom right to know when to deflect or evade.\n![Wukong Turtle 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg)\nAnother dangerous attack he can launch with little warning only comes with a small tell -- when he quickly swaps his sword to hold in a reverse grip behind his back. He'll then quickly launch himself through the air at you with a spinning slash that can take a chunk off your health, and then dive back to your position after a moment for sword slice when he reaches the ground.\"\n            - Following Text: \"The good news is his final sword slice allows for an extended moment to dodge around and attack him from behind. However, you'll need to keep your eyes open when trying to attack from behind, as he can easily whip his mace-like tail around to hit you. Watch for it to rise up to the top left before slashing down to the bottom right to know when to deflect or evade.\n![Wukong Turtle 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Turtle_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "**Summary:**  \nThe image depicts a combat scene from *Black Myth: Wukong*, featuring the protagonist engaged in a fierce battle against the Cyan Loong, a powerful enemy. The character is shown mid-action, wielding a weapon charged with electric energy, emphasizing the intensity of the fight. The preceding text highlights the Cyan Loong's spinning sword slash attack and its follow-up dive, while the following text discusses opportunities to counterattack after its final sword slice, cautioning players about its mace-like tail. The image visually complements the narrative by showcasing the dynamic and challenging nature of this encounter."
+    "chunk_id": 893967408784,
+    "source_file": "Earth_Wolf_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Earth_Wolf_Pic.jpg",
+    "alt_text": "Earth Wolf Pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Earth Wolf Fight\n* Earth Wolf Spirit",
+    "img_below_text": "## Earth Wolf Location\nThe Earth Wolf is in Sandgate Village in Yellow Wind Ridge. Follow the path from the Sandgate Village Keeper's Shrine and work your way around to the left, taking out the archers and other enemies as you go. You will eventually circle around to the Earth Wolf's arena, where you can fight for his Spirit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Earth Wolf Fight\n* Earth Wolf Spirit\"\n        - Following Text: \"## Earth Wolf Location\nThe Earth Wolf is in Sandgate Village in Yellow Wind Ridge. Follow the path from the Sandgate Village Keeper's Shrine and work your way around to the left, taking out the archers and other enemies as you go. You will eventually circle around to the Earth Wolf's arena, where you can fight for his Spirit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from a video game where the player is engaged in a fight against the \"Earth Wolf,\" a large, menacing creature. The Earth Wolf's health bar is visible, indicating an ongoing battle. This encounter is part of a guide detailing the Earth Wolf fight and its location in Sandgate Village on Yellow Wind Ridge, where players must navigate through enemies to reach the Earth Wolf's arena."
 }

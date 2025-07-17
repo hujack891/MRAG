@@ -1,5 +1,5 @@
 {
-    "chunk_id": 780519860070,
+    "chunk_id": 658443545125,
     "source_file": "Bullguard.md",
     "h1_title": "Bullguard",
     "h2_title": "Where to Find the Bullguard",
@@ -9,23 +9,6 @@
     "position_desc": 0,
     "img_above_text": "# Bullguard\nThe Bullguard is an required Yaoguai Chief, and the first miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. As a tutorial boss, the Bullguard is designed to test your abilities in dealing with a strong foe, but you'll be helped along the way learning an important spell from the Keeper of Black Mountain.\n* **Rewards:** Immobilize Spell, Yarn x2, 482 Experience, 390 Will\n## Where to Find the Bullguard",
     "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Bullguard.md', located under Where to Find the Bullguard.\n\n                Metadata:\n                - Document Title: Bullguard\n                - Section Title: Where to Find the Bullguard\n                - Alt Text: Wukong Wolves 9.jpg\n\n                Context:\n                - Preceding Text: \"# Bullguard\nThe Bullguard is an required Yaoguai Chief, and the first miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. As a tutorial boss, the Bullguard is designed to test your abilities in dealing with a strong foe, but you'll be helped along the way learning an important spell from the Keeper of Black Mountain.\n* **Rewards:** Immobilize Spell, Yarn x2, 482 Experience, 390 Will\n## Where to Find the Bullguard\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Wolves_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character from the game \"Black Myth: Wukong\" navigating a forested area, likely on a quest to find the Bullguard, a miniboss in Chapter 1. The setting features a wooden bridge surrounded by lush greenery, indicating a natural environment where the Bullguard might be encountered. The image serves to provide visual context for players exploring the location described in the section \"Where to Find the Bullguard\" from the document titled \"Bullguard.\""
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Bullguard\n            - Section Title: Where to Find the Bullguard\n\n            Context:\n            - Preceding Text: \"# Bullguard\nThe Bullguard is an required Yaoguai Chief, and the first miniboss fight that you can encounter in Chapter 1 of Black Myth Wukong. As a tutorial boss, the Bullguard is designed to test your abilities in dealing with a strong foe, but you'll be helped along the way learning an important spell from the Keeper of Black Mountain.\n* **Rewards:** Immobilize Spell, Yarn x2, 482 Experience, 390 Will\n## Where to Find the Bullguard\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically showing the protagonist crossing a bamboo bridge in a forested area. This setting is likely part of the path leading to the miniboss, the Bullguard, as described in the preceding text. The image serves to illustrate the environment players will navigate to encounter the Bullguard in Chapter 1. The metadata and context suggest that this is part of a guide on where to find the Bullguard within the game."
 }

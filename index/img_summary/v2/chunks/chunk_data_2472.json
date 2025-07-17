@@ -1,28 +1,11 @@
 {
-    "chunk_id": 922474409824,
-    "source_file": "Red_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_RedLoong_15.jpg",
-    "alt_text": "Wukong RedLoong 15.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong RedLoong 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg)\nHe also has a wicked and electrified bladed tail that he can use to quickly spin around and slash you with, but can be deflected with a well-timed Rock Solid spell. There’s a few different ways he can use his tail, either for a slow rotating blade slash in front of him, or with a quick jab at your position.",
-    "img_below_text": "If you try to attack from behind, he can even leap up to face you while slashing his tail below him in a retreating strike to stop you from pursuing him.\nHe can also use simple claw swipes, which more often than not will create more lightning spots that detonate after a short delay. Always dodge to the opposite side of his swipe so you can retaliate with attacks and not get shocked.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg)\nHe also has a wicked and electrified bladed tail that he can use to quickly spin around and slash you with, but can be deflected with a well-timed Rock Solid spell. There’s a few different ways he can use his tail, either for a slow rotating blade slash in front of him, or with a quick jab at your position.\"\n            - Following Text: \"If you try to attack from behind, he can even leap up to face you while slashing his tail below him in a retreating strike to stop you from pursuing him.\nHe can also use simple claw swipes, which more often than not will create more lightning spots that detonate after a short delay. Always dodge to the opposite side of his swipe so you can retaliate with attacks and not get shocked.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_RedLoong_15.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat scene from the game \"Black Myth: Wukong,\" featuring the protagonist in a battle against a formidable enemy named Red Loong. Red Loong is shown utilizing his electrified bladed tail in an attack, highlighting his ability to perform both slow rotating slashes and quick jabs. The surrounding text emphasizes the strategic elements of the fight, including the need to deflect attacks with spells and dodge lightning-infused claw swipes. The image serves to illustrate the dynamic and challenging nature of the encounter with Red Loong, showcasing the game's combat mechanics and the player's need for tactical responses."
+    "chunk_id": 484426561431,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_YellowFlower_2.jpg",
+    "alt_text": "Wukong YellowFlower 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail",
+    "img_below_text": "Waiting for you just above the ridge where you start is a tree that holds a **Luojia Fragrant Vine** , and the Mountain Trail Shrine lies not far after.\nTemple of the Yellow Flowers Luojia Fragrant Vine",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When you untangle yourself from the webbing, you'll find yourself high above the Webbed Hollow, on a mountain path leading to a large temple filled with Daoist martial artists.\n## Mountain Trail\"\n        - Following Text: \"Waiting for you just above the ridge where you start is a tree that holds a **Luojia Fragrant Vine** , and the Mountain Trail Shrine lies not far after.\nTemple of the Yellow Flowers Luojia Fragrant Vine\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is on a rocky mountain trail, leading to a temple filled with Daoist martial artists. The character is standing near a tree marked with a red circle, indicating the location of a **Luojia Fragrant Vine**. This vine is a collectible or significant item within the game, as suggested by the preceding and following text. The image serves to guide players in locating the vine along the mountain path."
 }

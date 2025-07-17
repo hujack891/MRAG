@@ -1,28 +1,11 @@
 {
-    "chunk_id": 372118298685,
+    "chunk_id": 151479814467,
     "source_file": "Baw-Li-Guhh-Baw.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_LowerHollow_31.jpg",
     "alt_text": "Wukong LowerHollow 31.jpg",
     "position_desc": 6,
     "img_above_text": "![Wukong LowerHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_LowerHollow_32.jpg)\nWhat used to be a standard straight tongue attack will now also retract while he fires to projectiles as the hand flicks its fingers to fire magic darts in quick succession, meaning even if you dodge the tongue-hand shooting out, you need to dodge when it retracts as well.",
     "img_below_text": "He can also wave the tongue-hand around in a haphazard fashion, making it weave in a large arc from side to side as it swipes at you three times, before rising high up to slam down at you (but you can use Rock Solid to send him tumbling back in surprise).\n![Wukong LowerHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_LowerHollow_33.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Baw-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong LowerHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_LowerHollow_32.jpg)\nWhat used to be a standard straight tongue attack will now also retract while he fires to projectiles as the hand flicks its fingers to fire magic darts in quick succession, meaning even if you dodge the tongue-hand shooting out, you need to dodge when it retracts as well.\"\n            - Following Text: \"He can also wave the tongue-hand around in a haphazard fashion, making it weave in a large arc from side to side as it swipes at you three times, before rising high up to slam down at you (but you can use Rock Solid to send him tumbling back in surprise).\n![Wukong LowerHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_LowerHollow_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_LowerHollow_31.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a boss battle against \"Baw-Li-Guhh-Baw\" in *Black Myth: Wukong*. The creature, a grotesque and glowing entity with a tongue-hand, is shown mid-attack in a dark, cavernous environment. The preceding text highlights the boss's tongue-hand mechanics, including retracting projectiles and finger-fired magic darts, while the following text describes its erratic swiping and slamming attacks. The player interface displays consumables, abilities like \"Rock Solid,\" and the boss's health bar, emphasizing the strategic combat elements of the encounter."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong LowerHollow 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_LowerHollow_32.jpg)\nWhat used to be a standard straight tongue attack will now also retract while he fires to projectiles as the hand flicks its fingers to fire magic darts in quick succession, meaning even if you dodge the tongue-hand shooting out, you need to dodge when it retracts as well.\"\n        - Following Text: \"He can also wave the tongue-hand around in a haphazard fashion, making it weave in a large arc from side to side as it swipes at you three times, before rising high up to slam down at you (but you can use Rock Solid to send him tumbling back in surprise).\n![Wukong LowerHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_LowerHollow_33.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong*, featuring a large, grotesque creature with glowing green and blue features and a tongue-like appendage. The boss, \"Baw-Li-Guhh-Baw,\" is shown mid-attack in a dark, cavernous environment with intricate carvings on the walls. The on-screen UI displays the player's health, abilities, and consumables, suggesting active combat. The preceding and following text describe the boss's attack patterns, including tongue-based projectile attacks and swiping maneuvers, emphasizing the need for precise dodging and countering with abilities like \"Rock Solid.\""
 }

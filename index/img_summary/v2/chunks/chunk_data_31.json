@@ -1,28 +1,11 @@
 {
-    "chunk_id": 791923097213,
+    "chunk_id": 248105724285,
     "source_file": "Awaken_Wine_Worm_Locations.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Bushui_Cave_Awaken_Wine_Worm.jpg",
     "alt_text": "Bushui Cave Awaken Wine Worm.jpg",
     "position_desc": 10,
     "img_above_text": "## Bishui Cave Awaken Wine Worm\nBishui Cave Awaken Wine Worm",
     "img_below_text": "There is a small staircase covered in ice in the Corridor of Ice and Fire in Bushui Cave. Travel up the stairs and turn left to find the Awaken Wine Worm barrel hiding around the corner.\nCheck out our other helpful Black Myth: Wukong guides!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Awaken_Wine_Worm_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Bishui Cave Awaken Wine Worm\nBishui Cave Awaken Wine Worm\"\n            - Following Text: \"There is a small staircase covered in ice in the Corridor of Ice and Fire in Bushui Cave. Travel up the stairs and turn left to find the Awaken Wine Worm barrel hiding around the corner.\nCheck out our other helpful Black Myth: Wukong guides!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Bushui_Cave_Awaken_Wine_Worm.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "**Summary:**  \nThe image depicts a player character in *Black Myth: Wukong* standing in a dimly lit, ruined area of Bishui Cave, near barrels and debris. This setting aligns with the guide's instructions for locating the Awaken Wine Worm barrel, which is hidden near a staircase covered in ice in the Corridor of Ice and Fire. The image visually supports the guide by showcasing the environment and the player's proximity to the quest objective."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Bishui Cave Awaken Wine Worm\nBishui Cave Awaken Wine Worm\"\n        - Following Text: \"There is a small staircase covered in ice in the Corridor of Ice and Fire in Bushui Cave. Travel up the stairs and turn left to find the Awaken Wine Worm barrel hiding around the corner.\nCheck out our other helpful Black Myth: Wukong guides!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character, equipped with a staff and wearing a horned helmet, standing in a dimly lit, ruined area with barrels and debris. The environment features intricate stone architecture and glowing elements, suggesting a mystical or ancient setting. This scene likely corresponds to the \"Awaken Wine Worm\" location in Bishui Cave, as mentioned in the preceding and following text, where players are tasked with exploring and finding hidden items."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 444842032020,
-    "source_file": "Best_Skills_to_Unlock.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Best_Skills_to_Unlock_%284%29.png",
-    "alt_text": "Best Skills to Unlock \\(4\\).png",
-    "position_desc": 7,
-    "img_above_text": "**Bold Venture**|  Recover Mana when successfully Deflecting |\nAlteration consists of spells like Cloud Step and Rock Solid. For Cloud Step, we'd suggest focusing on skills such as Concealed Observation and Thunder Strike. These will increase the damage you can do when performing an Unveiling Strike, where you can take an enemy by surprise.",
-    "img_below_text": "For Rock Solid, Rock Mastery, Ironclad, and Bold Venture are particularly useful. With this combination of skills, when you're successful at Deflecting, you can recover Mana quickly, and take less damage for a short amount of time. With the Mana recovery and the Rock Mastery reducing the cooldown of the spell, you can get more use of Rock Solid in fights.\n### Best Strand Skills to Unlock",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Best_Skills_to_Unlock.md'.\n\n            Context:\n            - Preceding Text: \"**Bold Venture**|  Recover Mana when successfully Deflecting |\nAlteration consists of spells like Cloud Step and Rock Solid. For Cloud Step, we'd suggest focusing on skills such as Concealed Observation and Thunder Strike. These will increase the damage you can do when performing an Unveiling Strike, where you can take an enemy by surprise.\"\n            - Following Text: \"For Rock Solid, Rock Mastery, Ironclad, and Bold Venture are particularly useful. With this combination of skills, when you're successful at Deflecting, you can recover Mana quickly, and take less damage for a short amount of time. With the Mana recovery and the Rock Mastery reducing the cooldown of the spell, you can get more use of Rock Solid in fights.\n### Best Strand Skills to Unlock\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Best_Skills_to_Unlock_%284%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image showcases the skill tree and description for \"Cloud Step,\" a mobility spell in the \"Alteration\" category. This spell allows the player to leave behind a decoy, disperse into mist, and escape or reposition strategically. It is particularly effective for evading attacks or setting traps, with the added ability to perform an \"Unveiling Strike\" upon returning from the mist state to surprise enemies. The skill tree highlights potential upgrades to enhance its utility in combat scenarios."
+    "chunk_id": 653364994111,
+    "source_file": "Best_Spirits_to_Use.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Best_Spirits_%286%29.png",
+    "alt_text": "Best Spirits \\(6\\).png",
+    "position_desc": 3,
+    "img_above_text": "You'll gain a moderate increase in the poison damage you deal, and have the added bonus of poison resistance alongside it. Even if you're not going up against too many enemies that use poison attacks, you will find plenty are susceptible to poison damage and the status will build up letting you chip away at an enemy's health bar while you use other moves.\n### Gore-Eye Daoist",
+    "img_below_text": "If you want to make the most of the spells you can cast, the Gore-Eye Daoist moderately buffs your Maximum Mana levels. To complement the equipped effect, his Raging Blood attack sees him create an area that will enhance your attacks along as you stay inside the glow.\n### Tiger's Acolyte",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"You'll gain a moderate increase in the poison damage you deal, and have the added bonus of poison resistance alongside it. Even if you're not going up against too many enemies that use poison attacks, you will find plenty are susceptible to poison damage and the status will build up letting you chip away at an enemy's health bar while you use other moves.\n### Gore-Eye Daoist\"\n        - Following Text: \"If you want to make the most of the spells you can cast, the Gore-Eye Daoist moderately buffs your Maximum Mana levels. To complement the equipped effect, his Raging Blood attack sees him create an area that will enhance your attacks along as you stay inside the glow.\n### Tiger's Acolyte\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases the \"Gore-Eye Daoist,\" a character or entity in a video game, likely being viewed in the game's equipment or character menu. Based on the context, this character provides gameplay benefits such as poison damage enhancement and poison resistance, making it effective against enemies vulnerable to poison. Additionally, it moderately boosts Maximum Mana levels and features the \"Raging Blood\" attack, which creates an area that enhances player attacks when inside its glow."
 }

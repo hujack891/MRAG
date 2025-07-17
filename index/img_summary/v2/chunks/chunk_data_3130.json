@@ -1,28 +1,11 @@
 {
-    "chunk_id": 373126685974,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg",
-    "alt_text": "Wukong Brook 23.jpg",
+    "chunk_id": 883999187023,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Yellow_63.jpg",
+    "alt_text": "Wukong Yellow 63.jpg",
     "position_desc": 69,
-    "img_above_text": "![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)\nHowever, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.",
-    "img_below_text": "That's not the only martial arts stance he can adopt, either. If you see him flex both arms vertically below his face, he'll do a variation on the three-hit palm strike. Only in these cases, he'll often follow up his third attack with a delayed final hit, spinning his body to backhand you with his glowing right hand that can decimate your health bar.\n![Wukong Brook 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Brook_25.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 69 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)\nHowever, he can vary up his moves to keep you guessing. Sometimes after the aforementioned stance, he can also abandon his palm blast for a quick sliding spin kick, so keep an eye on his movements and don't get comfortable in predicting his movements.\"\n            - Following Text: \"That's not the only martial arts stance he can adopt, either. If you see him flex both arms vertically below his face, he'll do a variation on the three-hit palm strike. Only in these cases, he'll often follow up his third attack with a delayed final hit, spinning his body to backhand you with his glowing right hand that can decimate your health bar.\n![Wukong Brook 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Brook_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Brook_23.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" showcasing a character executing a powerful, glowing attack on an opponent in a snowy environment. This visual is used to illustrate the dynamic and unpredictable nature of the character's martial arts moves, as described in the preceding and following text."
+    "img_above_text": "* Another version will dropkick its way into the arena sending it to the far side, and then come roaring back with a spinning jump slash back at you as a quick follow-up attack.\nWhen you finally spot the real version of him performing a leaping stomp back into the arena, he’ll have changed his stance, now holding the spear in a reverse grip.",
+    "img_below_text": "In this new phase, he’ll have a few new moves to contend with, and they can get pretty nasty. He has a lot more kicking and stomping attacks, often raising his foot for a moment or even jumping off the ground to hang low to the ground, and then bringing it down hard. If his hand or foot begin to glow, it often means he’ll raise up more spears soon after, so be ready.\n![Wukong Yellow 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Yellow_64.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Another version will dropkick its way into the arena sending it to the far side, and then come roaring back with a spinning jump slash back at you as a quick follow-up attack.\nWhen you finally spot the real version of him performing a leaping stomp back into the arena, he’ll have changed his stance, now holding the spear in a reverse grip.\"\n        - Following Text: \"In this new phase, he’ll have a few new moves to contend with, and they can get pretty nasty. He has a lot more kicking and stomping attacks, often raising his foot for a moment or even jumping off the ground to hang low to the ground, and then bringing it down hard. If his hand or foot begin to glow, it often means he’ll raise up more spears soon after, so be ready.\n![Wukong Yellow 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Yellow_64.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss encounter in *Black Myth: Wukong*, featuring the \"Yellow Wind Sage.\" The boss, wielding a green spear in a reverse grip, is mid-action, performing a leaping stomp attack that kicks up a cloud of dust. The player's character is positioned nearby, emphasizing the intensity and danger of the fight. The health bar at the bottom indicates the boss's remaining health, while the HUD displays the player's abilities and resources. This moment highlights the transition to a more aggressive phase of the battle, as described in the accompanying text."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 100823876177,
-    "source_file": "Supreme_Celestial_Inspector_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png",
-    "alt_text": "Foothills Walkthrough \\(22\\).png",
-    "position_desc": 9,
-    "img_above_text": "![Foothills Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png)\nThe problem with this attack is there are two types of heavy attacks he'll perform here and they can be hard to avoid.",
-    "img_below_text": "He'll either launch himself at you and then spin the unicycle around until he flips it up and lands down heavily where you are, or he'll start to spin around the entirety of the arena and multiple duplicates of the unicycle will appear. These will then launch into a crisscross attack to get you, and he'll follow up with a heavy attack.\n![Foothills Walkthrough \\(23\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Supreme_Celestial_Inspector_.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(18\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png)\nThe problem with this attack is there are two types of heavy attacks he'll perform here and they can be hard to avoid.\"\n            - Following Text: \"He'll either launch himself at you and then spin the unicycle around until he flips it up and lands down heavily where you are, or he'll start to spin around the entirety of the arena and multiple duplicates of the unicycle will appear. These will then launch into a crisscross attack to get you, and he'll follow up with a heavy attack.\n![Foothills Walkthrough \\(23\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in a battle against an enemy riding a unicycle. The enemy is performing a heavy attack, creating multiple red, glowing duplicates of the unicycle that are launching into a crisscross pattern, aiming to hit the player. This visual representation aligns with the preceding and following text, which describe the challenging nature of the enemy's heavy attacks and the strategies needed to avoid them."
+    "chunk_id": 380375880464,
+    "source_file": "Water_Curtain_Cave_and_Birthstone_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Water_Curtain_Cave_Walkthrough_%2815%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(15\\).png",
+    "position_desc": 14,
+    "img_above_text": "Note! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.\n### Stone Monkey",
+    "img_below_text": "This fight has two phases, so be prepared for a tough battle and think about how you manage your Gourd and Spell usage throughout. You'll want to take in medicines that include Body-Warming and Body-Cooling Powder, as well as those that strengthen your attacks such as Enhanced Tiger Subduing Pellets and Loong Aura Amplification Pellets. You might prefer other medicines depending on the build you're playing with, such as the Mirage or Life-Saving Pill.\nThe first thing to note is that the Stone Monkey, like other Stone enemies, is resistant to elemental attacks, so the best thing you can do here is have a build that focuses on high attack strength and increasing the chances of critical attacks. His resistance to these attacks should also influence the Transformation you take into the fight with you – we'd recommend Ebon Flow or Azure Dust, which can both deliver heavy blows.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Note! You won't be able to activate the Heart of Birthstone Keeper's Shrine here unless you die, but if you do, you won't need to go back to a previous shrine – you'll automatically be transported back here.\n### Stone Monkey\"\n        - Following Text: \"This fight has two phases, so be prepared for a tough battle and think about how you manage your Gourd and Spell usage throughout. You'll want to take in medicines that include Body-Warming and Body-Cooling Powder, as well as those that strengthen your attacks such as Enhanced Tiger Subduing Pellets and Loong Aura Amplification Pellets. You might prefer other medicines depending on the build you're playing with, such as the Mirage or Life-Saving Pill.\nThe first thing to note is that the Stone Monkey, like other Stone enemies, is resistant to elemental attacks, so the best thing you can do here is have a build that focuses on high attack strength and increasing the chances of critical attacks. His resistance to these attacks should also influence the Transformation you take into the fight with you – we'd recommend Ebon Flow or Azure Dust, which can both deliver heavy blows.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic encounter between a player-controlled character, adorned in ornate armor and wielding a staff, and a large, menacing Stone Monkey enemy. Set against the backdrop of a serene sunset over a watery landscape, the scene visually introduces the upcoming boss fight described in the text. The preceding and following text provide strategic advice for this two-phase battle, emphasizing preparation with specific medicines and attack strategies to counter the Stone Monkey's elemental resistances and formidable strength."
 }

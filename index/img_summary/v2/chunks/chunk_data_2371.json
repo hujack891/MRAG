@@ -1,28 +1,11 @@
 {
-    "chunk_id": 771118037448,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_100.jpg",
-    "alt_text": "Wukong Pagoda 100.jpg",
-    "position_desc": 96,
-    "img_above_text": "After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot",
-    "img_below_text": "Back on the main path, be wary of Frozen Corpses that you'll find littered around this area. As the gorge path opens up, you can spy an even bigger pagoda than the one you just escape from high up above you.\nHead through this area either taking the low path to the left, or check the upper path on the right where many Frozen Corpses have gathered around a Tree Pearl you can harvest.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 96 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot\"\n            - Following Text: \"Back on the main path, be wary of Frozen Corpses that you'll find littered around this area. As the gorge path opens up, you can spy an even bigger pagoda than the one you just escape from high up above you.\nHead through this area either taking the low path to the left, or check the upper path on the right where many Frozen Corpses have gathered around a Tree Pearl you can harvest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_100.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in a snowy, mountainous environment, holding a glowing staff and looking down a path. This scene is likely from a video game walkthrough, specifically from the \"Pagoda Realm\" section. The context suggests that the character has just defeated an enemy and is near a Meditation Spot by a small tree at the base of frozen falls, which grants a Spark Skill Point. The character is about to continue on the main path, where they must be cautious of Frozen Corpses and can explore different paths, including one leading to a Tree Pearl."
+    "chunk_id": 43758593411,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg",
+    "alt_text": "Wukong Snowhill 26.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.",
+    "img_below_text": "There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.\"\n        - Following Text: \"There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in a snowy environment outside a temple in *Black Myth: Wukong*. The player character, armed with a staff, is engaged in battle with two enemies: a large, muscular foe and a skeletal figure. This scene aligns with the walkthrough's description of ascending stairs near the temple and encountering hostile Frozen Corpses. The setting emphasizes the need for strategic combat as players progress through the area."
 }

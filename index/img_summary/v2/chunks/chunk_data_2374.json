@@ -1,28 +1,11 @@
 {
-    "chunk_id": 18676756611,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg",
-    "alt_text": "Wukong Pagoda 103.jpg",
-    "position_desc": 99,
-    "img_above_text": "![Wukong Pagoda 102.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg)\nClear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.",
-    "img_below_text": "Just past him, you'll find a long stone staircase to ascend and chase the golden trail of a nearby Shrine. Grab the green Wisp as you make the climb, and at the end you'll find the next checkpoint.\n## Snow-Veiled Trail",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 99 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 102.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Pagoda_102.jpg)\nClear out the Frozen Corpses in the small tunnel leading into another narrow gorge guarded by a Yaksha Patroller.\"\n            - Following Text: \"Just past him, you'll find a long stone staircase to ascend and chase the golden trail of a nearby Shrine. Grab the green Wisp as you make the climb, and at the end you'll find the next checkpoint.\n## Snow-Veiled Trail\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Pagoda_103.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist ascending a long stone staircase within a dark, cavernous environment. The character is armed with a glowing staff, suggesting readiness for combat or exploration. The staircase is lined with ornate stone pillars, adding a mystical atmosphere. The image aligns with the narrative context of progressing through a gorge after clearing enemies and heading towards a shrine, capturing the moment of climbing towards the next checkpoint while collecting a green Wisp."
+    "chunk_id": 108311178279,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Snowhill_29.jpg",
+    "alt_text": "Wukong Snowhill 29.jpg",
+    "position_desc": 28,
+    "img_above_text": "Once he dies, he'll drop the Mountain Patroller Spirit for you to absorb and get all your gourd's health charges back. As an added bonus, you can inspect this other sealed building to find a **Treasure Chest** on the left side, which usually contains a Blood of the Iron Bull and other items.\nAside from a Ginsengling hiding in the ruins nearby, that's it for this route, so return back to the previous platform and head down the sloping path.",
+    "img_below_text": "Look for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.\n![Wukong Snowhill 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once he dies, he'll drop the Mountain Patroller Spirit for you to absorb and get all your gourd's health charges back. As an added bonus, you can inspect this other sealed building to find a **Treasure Chest** on the left side, which usually contains a Blood of the Iron Bull and other items.\nAside from a Ginsengling hiding in the ruins nearby, that's it for this route, so return back to the previous platform and head down the sloping path.\"\n        - Following Text: \"Look for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.\n![Wukong Snowhill 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment in a video game, where the player character approaches a wooden platform with a highlighted **Treasure Chest** (marked with a red circle) on the left side. This area appears to be part of a sloping path, as described in the walkthrough, and is likely the location where players can loot items after defeating a hidden Cyan Bat in the rafters. The setting features detailed structures, such as wooden beams, stone pillars, and hanging bells, contributing to the atmospheric design of the game."
 }

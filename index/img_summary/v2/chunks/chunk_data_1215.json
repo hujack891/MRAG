@@ -1,28 +1,11 @@
 {
-    "chunk_id": 15146108203,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg",
-    "alt_text": "Wukong Wolves 32.jpg",
-    "position_desc": 39,
-    "img_above_text": "There are many paths to go from here - either continuing to the far side of the stream, or heading back to keep exploring the previous side, including a path up to a high plateau with some **Aged Ginseng**. On the slope leading back down to the stream, another ginseng plant hides a surprise, as an earthen elemental Ginsengling Yaoguai will uncover itself with the ginseng growing from its head.\nThese monsters are surprisingly tough, and can slam their hands into the ground to grow poison roots that spread outward — so don’t be afraid to reposition yourself to fight somewhere else. Defeating them will earn you much more crafting materials than picking normal plants.",
-    "img_below_text": "From here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\n![Wukong Wolves 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"There are many paths to go from here - either continuing to the far side of the stream, or heading back to keep exploring the previous side, including a path up to a high plateau with some **Aged Ginseng**. On the slope leading back down to the stream, another ginseng plant hides a surprise, as an earthen elemental Ginsengling Yaoguai will uncover itself with the ginseng growing from its head.\nThese monsters are surprisingly tough, and can slam their hands into the ground to grow poison roots that spread outward — so don’t be afraid to reposition yourself to fight somewhere else. Defeating them will earn you much more crafting materials than picking normal plants.\"\n            - Following Text: \"From here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\n![Wukong Wolves 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the player character approaches a meditating enemy, likely the Crow Diviner, near a large waterfall surrounded by lush vegetation and statues. This area appears to be a serene yet dangerous location, offering opportunities for combat and exploration, including the collection of **Jade Lotus** nearby. The setting emphasizes the game's atmospheric blend of natural beauty and mystical threats."
+    "chunk_id": 261851457730,
+    "source_file": "Fungiwoman.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_YellowFlower_42.jpg",
+    "alt_text": "Wukong YellowFlower 42.jpg",
+    "position_desc": 4,
+    "img_above_text": "For all their extra health, they don't have too many more moves than a regular enemy, so keep on the offensive so they don't have a chance to sprout more spore projectiles, using Immobilize to lock them down and Rock Solid when they try to swipe at you with their staff.\nOnce defeated, you'll gain a Knot of Voidness, and a Monkey-Head Fungus Seed to take back to the Zodiac Village, as well as their Fungiwoman Spirit to absorb.",
+    "img_below_text": "Be sure to check the shack on the far end before leaving, as you'll find the **Sunset of the Nine Skies Drink** sittng on a table, which will restore Qi as well as health!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"For all their extra health, they don't have too many more moves than a regular enemy, so keep on the offensive so they don't have a chance to sprout more spore projectiles, using Immobilize to lock them down and Rock Solid when they try to swipe at you with their staff.\nOnce defeated, you'll gain a Knot of Voidness, and a Monkey-Head Fungus Seed to take back to the Zodiac Village, as well as their Fungiwoman Spirit to absorb.\"\n        - Following Text: \"Be sure to check the shack on the far end before leaving, as you'll find the **Sunset of the Nine Skies Drink** sittng on a table, which will restore Qi as well as health!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character crouching near a shack in a lush, rocky environment, wielding a fiery weapon. A glowing item, highlighted with a red circle, is visible on a table near the shack, likely the **Sunset of the Nine Skies Drink** mentioned in the following text. The HUD shows the player's health, abilities, and \"Will\" resource, indicating gameplay readiness. This scene emphasizes exploration and item collection after defeating a challenging enemy."
 }

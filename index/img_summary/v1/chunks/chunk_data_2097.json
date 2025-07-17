@@ -1,6 +1,9 @@
 {
-    "chunk_id": 960624905105,
+    "chunk_id": 66580035962,
+    "source_file": "Tadpole.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Tadpole.jpg",
-    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
-    "img_summary": "The image shows the inventory screen from a video game, specifically highlighting a rare material called \"Tadpole,\" classified as \"Epic.\" The description reads: \"Offspring of the frog. Treasure it, as it may prove wondrously useful some day.\" The material is displayed in a detailed 3D model resembling a bowl with tadpoles inside, resting on a twisted wooden stand. The UI includes tabs at the top for \"Self-Advance,\" \"Equipment,\" \"Inventory,\" \"Journal,\" and \"Settings.\" The inventory grid shows other materials, each with quantities and unique icons. The player currently holds 1 Tadpole out of a maximum of 999. The top-right corner shows a currency or resource total of 6875. Buttons for \"Examine,\" \"Sorting,\" and \"Return\" are visible at the bottom. This screen is relevant for managing resources and understanding item utility in gameplay."
+    "alt_text": "Tadpole.jpg",
+    "position_desc": 1,
+    "summary_promot": "\"You are shown an image extracted from a video game walkthrough or strategy guide.\n\n\"\n        \"Your task is to write a short, clear, and informative **English summary** of the image.\n\"\n        \"Do **not** speculate beyond what is explicitly visible in the image.\"",
+    "img_summary": "The image shows a video game inventory screen focused on a rare material called \"Tadpole,\" classified as \"Epic.\" The description notes that it is the offspring of a frog and suggests treasuring it for potential future usefulness. The inventory displays various materials, including items like a shell and a stone, with quantities held. The user interface includes options for examining, sorting, and returning, with a currency or point total of 6875 visible at the top right."
 }

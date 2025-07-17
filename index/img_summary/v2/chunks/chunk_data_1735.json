@@ -1,28 +1,11 @@
 {
-    "chunk_id": 269476038368,
-    "source_file": "Kang-Jin_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg",
-    "alt_text": "Wukong Snowhill 47.jpg",
-    "position_desc": 8,
-    "img_above_text": "However, this is just part one of her attack, as after a delay she will slam down with her tail for a massive attack -- but it can be deflected with Rock Solid.\nAfter her tail slam, you'll have the opportunity to retaliate and hit her tail before the boss can re-orient her body, so make the most of these moments to use Spirit Attacks while its on the ground.",
-    "img_below_text": "Another wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.\n![Wukong Snowhill 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Kang-Jin_Loong.md'.\n\n            Context:\n            - Preceding Text: \"However, this is just part one of her attack, as after a delay she will slam down with her tail for a massive attack -- but it can be deflected with Rock Solid.\nAfter her tail slam, you'll have the opportunity to retaliate and hit her tail before the boss can re-orient her body, so make the most of these moments to use Spirit Attacks while its on the ground.\"\n            - Following Text: \"Another wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.\n![Wukong Snowhill 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss battle in a snowy, frozen landscape. The player character is facing off against a large, serpentine dragon-like creature, \"Kang-Jin Loong,\" which is mid-air performing a tail slam attack. The HUD shows the player's health, available items, and abilities, emphasizing the strategic elements of the fight.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually illustrates the boss's tail slam attack, which is described in the preceding and following text. It highlights the importance of timing and strategy, as the player must deflect the attack using the \"Rock Solid\" ability and then counterattack during the brief window of vulnerability. The scene reinforces the dynamic and challenging nature of the encounter."
+    "chunk_id": 615654949396,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
+    "alt_text": "Wukong Fright 27.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.",
+    "img_below_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\"\n        - Following Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the protagonist approaching a large rock formation embedded with glowing blue crystals inside a cave. This area is part of the Squall Hideout region, where players are tasked with exploring a tunnel and encountering enemies like Rock Guai. The crystals likely serve as a visual cue for the Man-in-Stone’s quest objective mentioned in the following text. The player interface, including health and abilities, is visible on the screen."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 478023518878,
-    "source_file": "King_of_Flowing_Sands_and_Second_Rat_Prince.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg",
-    "alt_text": "Wukong Sandgate 56.jpg",
-    "position_desc": 9,
-    "img_above_text": "![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\nIf you hear him start to yell at a distance, be prepared for a charge attack that comes with a three hit smashing sweep attack, and wait until his final attack to retaliate with your own combo attack.",
-    "img_below_text": "Sometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.\n![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'King_of_Flowing_Sands_and_Second_Rat_Prince.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\nIf you hear him start to yell at a distance, be prepared for a charge attack that comes with a three hit smashing sweep attack, and wait until his final attack to retaliate with your own combo attack.\"\n            - Following Text: \"Sometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.\n![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss battle in *Black Myth: Wukong* between the player character (Second Rat Prince) and a large, menacing enemy (King of Flowing Sands). The scene shows the King of Flowing Sands mid-attack, raising a massive weapon as dust and debris fill the air, emphasizing the ferocity of the encounter. The player character appears to be recovering or preparing to counterattack, with visible health and ability indicators on the screen.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a critical moment in the fight, highlighting the King of Flowing Sands' aggressive attack patterns, as described in the preceding text. It serves to visually reinforce the guide's advice about timing dodges and retaliating after the enemy's final attack. This image complements the surrounding text by providing a visual reference for the player's positioning and the boss's attack animation."
+    "chunk_id": 217003441900,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Cave_Depths_Lower_Hollow_Meditation_Spots.jpg",
+    "alt_text": "Cave Depths Lower Hollow Meditation Spots.jpg",
+    "position_desc": 17,
+    "img_above_text": "### Cave Depths, Lower Hollow Meditation Spot\nCave Depths, Lower Hollow Meditation Spot",
+    "img_below_text": "Turn right and head into a crack in the wall just before you enter the Hut of Immortality grounds. Follow the path until you find a cavern filled with hanging webs. On the left wall is another crack. Head through there to find the next Meditation Spot.\n### The Height, Forest of Ferocity Meditation Spot",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Cave Depths, Lower Hollow Meditation Spot\nCave Depths, Lower Hollow Meditation Spot\"\n        - Following Text: \"Turn right and head into a crack in the wall just before you enter the Hut of Immortality grounds. Follow the path until you find a cavern filled with hanging webs. On the left wall is another crack. Head through there to find the next Meditation Spot.\n### The Height, Forest of Ferocity Meditation Spot\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a character is positioned at a Meditation Spot within a cave environment. The setting is dark and atmospheric, with stone structures and a tree visible. The character is prompted to meditate, likely to restore health or gain abilities. This Meditation Spot is part of the Cave Depths, Lower Hollow area, and the narrative suggests that players should explore further to find additional Meditation Spots, such as the one in the Forest of Ferocity."
 }

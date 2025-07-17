@@ -1,28 +1,11 @@
 {
-    "chunk_id": 69620115781,
-    "source_file": "Golden_Loong_Staff.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Golden_Loong_Staff_1.jpg",
-    "alt_text": "Golden Loong Staff 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Golden Loong Staff\nThe Golden Loong Staff is an Mythical weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.",
-    "img_below_text": "The weapon comes with 108 damage and has the following unique effect:\n* Moderately increases the damage dealt by all Pillar Stance moves. A loong can be summoned to execute Thunder at the enemy at Pillar Stance heavy attacks that cost 3 or 4 Focus",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Golden_Loong_Staff.md'.\n\n            Context:\n            - Preceding Text: \"# Golden Loong Staff\nThe Golden Loong Staff is an Mythical weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\"\n            - Following Text: \"The weapon comes with 108 damage and has the following unique effect:\n* Moderately increases the damage dealt by all Pillar Stance moves. A loong can be summoned to execute Thunder at the enemy at Pillar Stance heavy attacks that cost 3 or 4 Focus\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Golden_Loong_Staff_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image showcases the Golden Loong Staff, a Mythical weapon in *Black Myth: Wukong*. It highlights the weapon's stats, including 108 base damage, and its unique effect, which enhances Pillar Stance moves and allows the summoning of a loong to unleash Thunder during heavy attacks at the cost of Focus Points.\n\n2. The image serves to visually present the weapon's design, stats, crafting requirements, and unique abilities, complementing the text's description of its role and effectiveness in the game."
+    "chunk_id": 511228437217,
+    "source_file": "How_to_Find_the_Five_Skandhas_and_Unlock_a_Secret_Boss_.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Five_Skandhas_%288%29.png",
+    "alt_text": "Five Skandhas \\(8\\).png",
+    "position_desc": 12,
+    "img_above_text": "![Five Skandhas \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Five_Skandhas_%287%29.png)\nWhen you get to the end, you'll see a pathway leading up to the right and white sacs to the left of it. Behind these sacs is a bridge that will take you down to where you want to go.",
+    "img_below_text": "Follow this to the end to be met with a Buddha's head and the monkey sitting on top of it. Approach, and the monkey will run off but you'll be able to collect the Skandha of Choice from the Buddha's head.\n![Five Skandhas \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%289%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Five Skandhas \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Five_Skandhas_%287%29.png)\nWhen you get to the end, you'll see a pathway leading up to the right and white sacs to the left of it. Behind these sacs is a bridge that will take you down to where you want to go.\"\n        - Following Text: \"Follow this to the end to be met with a Buddha's head and the monkey sitting on top of it. Approach, and the monkey will run off but you'll be able to collect the Skandha of Choice from the Buddha's head.\n![Five Skandhas \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Five_Skandhas_%289%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky environment with a pathway leading upward to the right, marked by an arrow. To the left of the pathway are large, white, sac-like structures. This setting is part of a video game walkthrough, guiding the player to locate a hidden bridge behind the sacs, which leads to the next objective involving a Buddha's head and the Skandha of Choice."
 }

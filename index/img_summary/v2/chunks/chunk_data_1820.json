@@ -1,28 +1,11 @@
 {
-    "chunk_id": 498346269672,
-    "source_file": "Lang-Baw-Baw.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png",
-    "alt_text": "Foothills Walkthrough \\(34\\).png",
-    "position_desc": 9,
-    "img_above_text": "![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.",
-    "img_below_text": "If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Lang-Baw-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.\"\n            - Following Text: \"If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a tense moment in a boss fight from *Black Myth: Wukong*, showcasing a large reptilian enemy in a defensive or preparatory stance, facing the player character armed with a staff. The surrounding environment features rocky terrain and a forested backdrop, emphasizing the game's atmospheric setting. Based on the preceding and following text, the image illustrates the phase where the enemy uses rock-based attacks, requiring strategic use of the Plantain Fan to disrupt its state and gain an advantage in combat."
+    "chunk_id": 524714475848,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Fright_46.jpg",
+    "alt_text": "Wukong Fright 46.jpg",
+    "position_desc": 10,
+    "img_above_text": "### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.",
+    "img_below_text": "### Mind Core Location 9\nThe next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.\"\n        - Following Text: \"### Mind Core Location 9\nThe next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment where the player character is engaged in combat with a large enemy called the \"Stone Vanguard.\" This encounter is part of the process to obtain Mind Core Location 8, as described in the preceding text, which requires defeating the Stone Vanguard near the Rockrest Flat Shrine in Fright Cliff, Yellow Wind Ridge. The interface shows the player's health, abilities, and the enemy's health bar, emphasizing the action-oriented nature of the sequence."
 }

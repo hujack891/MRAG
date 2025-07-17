@@ -1,28 +1,11 @@
 {
-    "chunk_id": 530008035574,
-    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Challenge_Yin_Tiger_.png",
-    "alt_text": "Challenge Yin Tiger .png",
-    "position_desc": 8,
-    "img_above_text": "* Celestial Ribbon\n## Challenge Yin Tiger",
-    "img_below_text": "As mentioned, one of the options is to challenge Yin Tiger, which will end up in an intense fight between the two of you. It can be a tough battle, especially as he uses both wind and fire and performs a range of heavy attacks.\nWhen you manage to beat him, however, you'll be able to unlock a few rewards:",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"* Celestial Ribbon\n## Challenge Yin Tiger\"\n            - Following Text: \"As mentioned, one of the options is to challenge Yin Tiger, which will end up in an intense fight between the two of you. It can be a tough battle, especially as he uses both wind and fire and performs a range of heavy attacks.\nWhen you manage to beat him, however, you'll be able to unlock a few rewards:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Challenge_Yin_Tiger_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat scene in a forested area, where a heavily armored player character faces off against a large, imposing enemy wielding a massive sword. The setting is detailed with lush greenery, a stream, and a shadowy, atmospheric backdrop.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents the challenging fight with Yin Tiger, as described in the text. It highlights the difficulty of the battle, emphasizing the enemy's intimidating presence and the player's preparation for the encounter. This serves to illustrate the gameplay experience and the stakes involved in defeating Yin Tiger to unlock rewards."
+    "chunk_id": 703296618829,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg",
+    "alt_text": "Wukong Snowhill 19.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!",
+    "img_below_text": "Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\"\n        - Following Text: \"Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter with the \"Macaque Chief\" in a snowy environment from the game *Black Myth: Wukong*. The player character is engaged in battle, with the enemy seemingly preparing or executing a poison-based attack, possibly the mentioned \"puking\" move that builds up poison. The UI shows health, stamina, and ability icons, emphasizing the strategic nature of the fight. The preceding and following text warns players about the enemy's deceptive gestures and poison attack, suggesting careful dodging and heavy strikes to stagger the boss."
 }

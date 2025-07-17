@@ -1,28 +1,11 @@
 {
-    "chunk_id": 602100021871,
-    "source_file": "Mind_Core.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-    "alt_text": "Wukong RedLoong 7.jpg",
-    "position_desc": 5,
-    "img_above_text": "You will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind it. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.\nIn the secret area, you can fight Red Loong \\- one of the many optional bosses in the game. Defeating him will drop a Mind Core.",
-    "img_below_text": "### Mind Core Location 4\nThe next Mind Core is an automatic reward, granted upon completing Chapter 1 - Black Wind Mountain. Once you defeat Black Bear Guai and exit the chapter mural, you will get it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"You will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind it. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.\nIn the secret area, you can fight Red Loong \\- one of the many optional bosses in the game. Defeating him will drop a Mind Core.\"\n            - Following Text: \"### Mind Core Location 4\nThe next Mind Core is an automatic reward, granted upon completing Chapter 1 - Black Wind Mountain. Once you defeat Black Bear Guai and exit the chapter mural, you will get it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image likely depicts the battle with Red Loong, an optional boss in the game. The dark, atmospheric setting and glowing effects suggest a climactic or intense fight scene. Defeating Red Loong is significant as it rewards the player with a Mind Core, a key item mentioned in the preceding text. The image serves to visually represent this challenging encounter within the secret area."
+    "chunk_id": 30499324377,
+    "source_file": "Non-White.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Mindcliff_26.jpg",
+    "alt_text": "Wukong Mindcliff 26.jpg",
+    "position_desc": 16,
+    "img_above_text": "With so many feinting attacks and vanishing, it can be hard to get a bead on him, and unfortunately, he tends to escape from Immobilization almost instantly, so you'll need to save that for when his frozen sword regenerates, and instead focus on deflecting his wild strikes to stop him in his tracks. Since many of his attacks are low to the ground, it's not a bad idea to swap to the Pillar Stance during this phase to attack him from above, rather than continuing to rely on the Smash Stance to see through his attacks if he'll just feint away.\nThere's a good chance he'll revert back to his original weapon before the fight is done, so make sure to adapt your tactics accordingly, and use a Transformation Spell like Red Tides to keep up with his movements.",
+    "img_below_text": "When Non-White finally falls, you'll be able to claim the Non-White Spirit from him, and also make use of the **Meditation Spot** nearby to claim a free Skill Point.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"With so many feinting attacks and vanishing, it can be hard to get a bead on him, and unfortunately, he tends to escape from Immobilization almost instantly, so you'll need to save that for when his frozen sword regenerates, and instead focus on deflecting his wild strikes to stop him in his tracks. Since many of his attacks are low to the ground, it's not a bad idea to swap to the Pillar Stance during this phase to attack him from above, rather than continuing to rely on the Smash Stance to see through his attacks if he'll just feint away.\nThere's a good chance he'll revert back to his original weapon before the fight is done, so make sure to adapt your tactics accordingly, and use a Transformation Spell like Red Tides to keep up with his movements.\"\n        - Following Text: \"When Non-White finally falls, you'll be able to claim the Non-White Spirit from him, and also make use of the **Meditation Spot** nearby to claim a free Skill Point.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character facing an enemy in a snowy, stone-paved area, likely during a boss fight against \"Non-White.\" The enemy is highlighted with a red targeting reticle, suggesting active combat. The preceding text provides strategies for dealing with Non-White's feinting attacks and weapon changes, while the following text indicates that defeating Non-White rewards the player with the Non-White Spirit and access to a nearby Meditation Spot for a Skill Point."
 }

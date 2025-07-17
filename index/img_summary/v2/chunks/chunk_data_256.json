@@ -1,28 +1,11 @@
 {
-    "chunk_id": 549429311179,
-    "source_file": "Black_Bear_Guai.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_BlackWind_41.jpg",
-    "alt_text": "Wukong BlackWind 41.jpg",
+    "chunk_id": 347094243073,
+    "source_file": "Black_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg",
+    "alt_text": "Wukong Fright 41.jpg",
     "position_desc": 6,
-    "img_above_text": "![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)\nHowever, once he’s at a bit less than half of his health, he’ll retreat away and let loose a roar as he slams the ground, engulfing himself in flames as several eruptions take over the arena. Dodge away from them, and if you find yourself burning, either roll repeatedly or use a cooling powder.",
-    "img_below_text": "This is also a key moment to use the Fireproof Mantle from defeating the secret boss. It will not only negate a lot of fire damage, but slowly build your focus up over time to unleash more heavy attacks in your combos.\n![Wukong BlackWind 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Black_Bear_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_BlackWind_36.jpg)\nHowever, once he’s at a bit less than half of his health, he’ll retreat away and let loose a roar as he slams the ground, engulfing himself in flames as several eruptions take over the arena. Dodge away from them, and if you find yourself burning, either roll repeatedly or use a cooling powder.\"\n            - Following Text: \"This is also a key moment to use the Fireproof Mantle from defeating the secret boss. It will not only negate a lot of fire damage, but slowly build your focus up over time to unleash more heavy attacks in your combos.\n![Wukong BlackWind 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_BlackWind_41.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the boss \"Black Bear Guai\" engulfed in flames after slamming the ground. The arena is filled with fire and eruptions, emphasizing the boss's fiery phase as its health drops below half. The player interface shows the health bar of the boss and available abilities, with a red arrow highlighting the Fireproof Mantle, a key item for mitigating fire damage.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the critical moment when the Black Bear Guai enters its fiery phase, creating a hazardous environment with flames and eruptions. It visually supports the preceding and following text, which advises players on strategies to survive this phase, such as dodging eruptions, using cooling powder, and equipping the Fireproof Mantle to reduce fire damage and enhance focus for counterattacks."
+    "img_above_text": "![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nHead to the Fright Cliff on the opposite side of the Yellow Wind Ridge from the Valley of Despair, and travel through it to reach an area with the Rockrest Flat Shrine.",
+    "img_below_text": "Directly to the right of this shrine, you can spot a stairway leading up to a large waterfall of sand that's otherwise impassible, and guarded by a tough Spearbone enemy that drops a Spirit.\n![Wukong BlackLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_BlackLoong_2.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Fright 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg)\nHead to the Fright Cliff on the opposite side of the Yellow Wind Ridge from the Valley of Despair, and travel through it to reach an area with the Rockrest Flat Shrine.\"\n        - Following Text: \"Directly to the right of this shrine, you can spot a stairway leading up to a large waterfall of sand that's otherwise impassible, and guarded by a tough Spearbone enemy that drops a Spirit.\n![Wukong BlackLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_BlackLoong_2.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rocky cliff area with a waterfall of sand, which is part of the Fright Cliff location in the game \"Black Myth: Wukong.\" This area is near the Rockrest Flat Shrine and features a stairway leading up to the waterfall, guarded by a tough Spearbone enemy. The image illustrates the challenging terrain and the obstacles players must navigate to progress in the game."
 }

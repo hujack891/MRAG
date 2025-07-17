@@ -1,28 +1,11 @@
 {
-    "chunk_id": 192487241000,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Martial_5.jpg",
-    "alt_text": "Wukong Martial 5.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong Martial 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg)\nHe can also send his chakram spinning along the ground to slice past you. Sometimes he'll just use it to \"walk the dog\" as it slides at you and then back to him, but that's not all. While you're distracted, he can also follow up with a spinning kick before getting his weapon back.",
-    "img_below_text": "After closing the distance, he can employ a variety of slashing combos with his chakram, like performing a leaping two-hit spin, and then after a short delay following up with a third spinning slice.\nThis boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Martial 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Martial_6.jpg)\nHe can also send his chakram spinning along the ground to slice past you. Sometimes he'll just use it to \"walk the dog\" as it slides at you and then back to him, but that's not all. While you're distracted, he can also follow up with a spinning kick before getting his weapon back.\"\n            - Following Text: \"After closing the distance, he can employ a variety of slashing combos with his chakram, like performing a leaping two-hit spin, and then after a short delay following up with a third spinning slice.\nThis boss is also fond of teleporting to distract you as well, rapidly appearing behind or to the side of you before throwing his chakram at you to keep you guessing.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Martial_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the \"Green-Capped Martialist,\" a boss character from *Black Myth: Wukong*, mid-combat. He is wielding a chakram, surrounded by fiery sparks and energy effects, showcasing his dynamic and aggressive attack style. The player’s health and abilities are visible in the UI, emphasizing the intensity of the battle.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the Green-Capped Martialist's combat abilities, particularly his use of the chakram for spinning attacks and combos. It complements the preceding and following text, which describe his tactics, such as \"walking the dog\" with the chakram, slashing combos, and teleportation to disorient the player. This visual reinforces his role as a challenging and unpredictable boss encounter."
+    "chunk_id": 549289608970,
+    "source_file": "How_to_Unlock_the_Chapter_2_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Chapter_2_Secret_Area_%2810%29.png",
+    "alt_text": "Chapter 2 Secret Area \\(10\\).png",
+    "position_desc": 11,
+    "img_above_text": "![Chapter 2 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Chapter_2_Secret_Area_%289%29.png)\nInstead, look to the slope on the right when you first enter the area, to see him standing waiting. Approach him, and he won't be too happy about you having the gold piece, sparking a duel between the two of you.",
+    "img_below_text": "Beating him will reward you with the Snout Mask headgear piece, but you'll also be able to go into the door that's at the top of the slope here. Entering this will trigger a cutscene and you'll be transported to the Kingdom of Sahali.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 2 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Chapter_2_Secret_Area_%289%29.png)\nInstead, look to the slope on the right when you first enter the area, to see him standing waiting. Approach him, and he won't be too happy about you having the gold piece, sparking a duel between the two of you.\"\n        - Following Text: \"Beating him will reward you with the Snout Mask headgear piece, but you'll also be able to go into the door that's at the top of the slope here. Entering this will trigger a cutscene and you'll be transported to the Kingdom of Sahali.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character in \"Black Myth: Wukong\" approaching a large, weathered gate built into a rocky, mountainous area. The setting is surrounded by wooden scaffolding and rugged terrain. This scene likely represents the location where the player encounters an NPC for a duel, as described in the preceding text, and the gate mentioned in the following text leads to the next part of the story."
 }

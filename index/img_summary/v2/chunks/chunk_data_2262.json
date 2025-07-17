@@ -1,28 +1,11 @@
 {
-    "chunk_id": 791785605858,
-    "source_file": "Old_Rattle-Drum_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg",
-    "alt_text": "Wukong MadTiger 11.jpg",
-    "position_desc": 11,
-    "img_above_text": "![Wukong MadTiger 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg)\nOther times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.",
-    "img_below_text": "There’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.\n![Wukong MadTiger 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg)\nOther times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\"\n            - Following Text: \"There’s another leaping jump he can perform to twist his body high in the air like his brother before crashing down, only this attack also sends his head slamming into the ground. This can work in your favor with a well-timed dodge, as he slowly recovers while grabbing his head from the impact.\n![Wukong MadTiger 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_MadTiger_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in combat with a massive creature known as the Mad Tiger. The context suggests the creature is performing a powerful attack, possibly a feinting strike or a leaping jump, which requires the player to time their dodges carefully to avoid damage and exploit the creature's recovery period. The image highlights the intensity and scale of the encounter, emphasizing strategic gameplay elements."
+    "chunk_id": 947868774057,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg",
+    "alt_text": "Wukong Sandgate 77.jpg",
+    "position_desc": 76,
+    "img_above_text": "![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nOn the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!",
+    "img_below_text": "There’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.\n![Wukong Sandgate 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nOn the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\"\n        - Following Text: \"There’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.\n![Wukong Sandgate 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character navigating through a narrow crack in a rocky wall within a dimly lit cave environment. This scene follows the discovery of the Loong Scale in a nearby tomb and precedes exploration of the Valley of Despair, where the player progresses by climbing out of a pit and crossing a fallen stone to locate another crack in the wall."
 }

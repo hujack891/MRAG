@@ -1,28 +1,11 @@
 {
-    "chunk_id": 907060080026,
-    "source_file": "Misty_Cloud,_Cloudy_Mist_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Misty_cloud_cloudy_mist.jpg",
-    "alt_text": "Misty cloud cloudy mist.jpg",
-    "position_desc": 1,
-    "img_above_text": "* Misty Cloud, Cloudy Mist Fight\n* Misty Cloud, Cloudy Mist Spirit",
-    "img_below_text": "## Misty Cloud, Cloudy Mist Location\nYou will fight Misty Cloud and Cloudy Mist in a boss fight as part of the story and will come across the pair naturally as you progress through Furnace Valley. To reach them from the Valley Entrance Keeper's Shrine, simply keep heading forward, and you will find yourself in their arena when you pass through a pair of stone pillars.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Misty_Cloud,_Cloudy_Mist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Misty Cloud, Cloudy Mist Fight\n* Misty Cloud, Cloudy Mist Spirit\"\n            - Following Text: \"## Misty Cloud, Cloudy Mist Location\nYou will fight Misty Cloud and Cloudy Mist in a boss fight as part of the story and will come across the pair naturally as you progress through Furnace Valley. To reach them from the Valley Entrance Keeper's Shrine, simply keep heading forward, and you will find yourself in their arena when you pass through a pair of stone pillars.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Misty_cloud_cloudy_mist.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Misty Cloud and Cloudy Mist, characters involved in a boss fight within the narrative. They appear as formidable entities, possibly guardians or spirits, that players encounter in an arena setting as part of the storyline progression through Furnace Valley. The text suggests an impending confrontation, emphasizing their role as obstacles to the player's journey."
+    "chunk_id": 291105185236,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Karma_14.jpg",
+    "alt_text": "Wukong Karma 14.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)\nMany times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.",
+    "img_below_text": "By far his biggest and most threatening move comes when he plants his hand in the ground to grow an increase area of poison roots all around him. The range on this is fairly big, and he'll continue to grow it for some time, giving you a few options: stay well away and heal up, or climb onto your staff (with a full stamina bar) and wait it out.\n![Wukong Karma 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Karma_17.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)\nMany times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.\"\n        - Following Text: \"By far his biggest and most threatening move comes when he plants his hand in the ground to grow an increase area of poison roots all around him. The range on this is fairly big, and he'll continue to grow it for some time, giving you a few options: stay well away and heal up, or climb onto your staff (with a full stamina bar) and wait it out.\n![Wukong Karma 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Karma_17.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character facing off against \"Old Ginseng Guai,\" a boss enemy in a snowy forest environment. The preceding and following text describe the boss's attack patterns, including a backward fall with a \"Rock Solid\" effect and a poison-root area attack. The player is advised to evade or use strategic options to survive these moves. The image visually complements this guidance by showcasing the boss's presence and the surrounding terrain during the encounter."
 }

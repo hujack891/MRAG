@@ -1,28 +1,11 @@
 {
-    "chunk_id": 354985451983,
-    "source_file": "Lang-Li-Guhh-Lang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Felicity_4.jpg",
-    "alt_text": "Wukong Felicity 4.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is located early on after entering the Valley of Ecstasy proper, which requires sliding down a large snowy slope from the Mindfulness Cliff after crossing the Bitter Lake.",
-    "img_below_text": "As soon as you arrive in the Forest of Felicity, you can find two small tunnels in the ridge on the left, one before and after the Shrine, and both lead to a canyon with a frozen pond where the frog boss waits for you.\n### Lang-Li-Guhh-Lang Miniboss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Lang-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is located early on after entering the Valley of Ecstasy proper, which requires sliding down a large snowy slope from the Mindfulness Cliff after crossing the Bitter Lake.\"\n            - Following Text: \"As soon as you arrive in the Forest of Felicity, you can find two small tunnels in the ridge on the left, one before and after the Shrine, and both lead to a canyon with a frozen pond where the frog boss waits for you.\n### Lang-Li-Guhh-Lang Miniboss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Felicity_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy environment near the entrance to a tunnel or cave, likely part of the path leading to the Lang-Li-Guhh-Lang miniboss encounter. A player character, armed and crouching, is seen approaching cautiously, while an enemy figure stands near the cave entrance. The HUD elements suggest this is part of a gameplay sequence, with \"Will\" being a resource or stat displayed on the screen.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually illustrate the location and atmosphere of the area described in the preceding and following text. It highlights the snowy terrain and the tunnel entrance, which is part of the journey to the Forest of Felicity and the eventual confrontation with the Lang-Li-Guhh-Lang miniboss. The scene sets the tone for exploration and impending combat."
+    "chunk_id": 485913927958,
+    "source_file": "Monk_from_the_Sea.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_19.jpg",
+    "alt_text": "Wukong Thunderclap 19.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Thunderclap 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg)\nIn addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.",
+    "img_below_text": "What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Thunderclap_21.jpg)\nIn addition to his large snowy boulder throw for massive damage, he can also toss two smaller rocks when at a far distance, but they deal less damage and are easier to step away from.\"\n        - Following Text: \"What really makes this Yaoguai a Chief is his ability to invoke frost damage. Whenever you spot him rise up in the air on his two appendages and create a gust around him, he's actually coating the area in frost, which will quickly raise your frost meter while in the area.\nConsidering how snowy the area already is, this can be quite dangerous as it's hard to tell where the affected area is. Look carefully for a low mist, or try to reposition yourself in a non snow-covered area to see when its been painted over in white.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight scene from *Black Myth: Wukong*, showcasing a snowy battlefield where the player character faces off against the \"Monk from the Sea,\" a Yaoguai (demonic creature). The boss is mid-air, seemingly preparing or executing an attack, with frost effects visible around it. The surrounding snowy environment and the player's frost meter suggest the importance of avoiding frost-related damage, as highlighted in the accompanying text."
 }

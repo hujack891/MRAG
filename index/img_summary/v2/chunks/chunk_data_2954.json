@@ -1,28 +1,11 @@
 {
-    "chunk_id": 912872224161,
-    "source_file": "The_Stone_Monkey.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Water_Curtain_Cave_Walkthrough_%2813%29.png",
-    "alt_text": "Water Curtain Cave Walkthrough \\(13\\).png",
-    "position_desc": 7,
-    "img_above_text": "Follow the path to the peak, where you'll come to the Return Path Keeper's Shrine.\n## Return Path",
-    "img_below_text": "Continue up the path, where you'll have to face off against numerous soldiers along the way. This is really just a chance for you to test the power of Jingubang, and pick up some extra Will and Sparks.\n![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"Follow the path to the peak, where you'll come to the Return Path Keeper's Shrine.\n## Return Path\"\n            - Following Text: \"Continue up the path, where you'll have to face off against numerous soldiers along the way. This is really just a chance for you to test the power of Jingubang, and pick up some extra Will and Sparks.\n![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Water_Curtain_Cave_Walkthrough_%2813%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky path illuminated by beams of light and lightning, where several armored soldiers are positioned, ready for battle. The scene is tense and foreboding, suggesting an upcoming confrontation. This image serves as a visual representation of the challenging journey described in the preceding and following text, where the protagonist must face numerous soldiers to test the power of Jingubang and collect Will and Sparks."
+    "chunk_id": 783069219305,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_UpperHollow_34.jpg",
+    "alt_text": "Wukong UpperHollow 34.jpg",
+    "position_desc": 35,
+    "img_above_text": "The Pool of Shattered Jade Shrine can be found here, along with a **Meditation Spot** in the middle of the pool.\nThe Carvings, Pool of Shattered Jade Meditation Spot",
+    "img_below_text": "Grab the green Wisp on this side of the broken bridge, and then look past the Shrine for a small passageway full of -- you guessed it -- hanging cocoons.\n![Wukong UpperHollow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_UpperHollow_35.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The Pool of Shattered Jade Shrine can be found here, along with a **Meditation Spot** in the middle of the pool.\nThe Carvings, Pool of Shattered Jade Meditation Spot\"\n        - Following Text: \"Grab the green Wisp on this side of the broken bridge, and then look past the Shrine for a small passageway full of -- you guessed it -- hanging cocoons.\n![Wukong UpperHollow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_UpperHollow_35.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing in a dark, web-covered area filled with large hanging cocoons, suggesting a foreboding and possibly dangerous environment. This scene follows the Pool of Shattered Jade Shrine and Meditation Spot, with the player seemingly exploring a small passageway behind the shrine, as mentioned in the guide. The visual highlights the eerie atmosphere and the presence of interactive elements, such as the glowing eye symbol on one of the cocoons."
 }

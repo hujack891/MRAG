@@ -1,28 +1,11 @@
 {
-    "chunk_id": 499248141564,
+    "chunk_id": 789174166509,
     "source_file": "Apramana_Bat_Spirit.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Apramana_bat_1.jpg",
     "alt_text": "Apramana bat 1.jpg",
     "position_desc": 1,
     "img_above_text": "* Apramana Bat Fight\n* Apramana Bat Spirit",
     "img_below_text": "## Apramana Bat Location\nThe Apramana Bat can be found along the snowy lake-front in the New West. After exploring Turtle Island and finding yourself on the North Shore of the Bitter Lake, continue down the waterfront until you come across the Apramana Bat near the skeleton of a great snake. The Apramana Bat won't be immediately obvious, but it will slam down to the ground once you get too close.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Apramana_Bat_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Apramana Bat Fight\n* Apramana Bat Spirit\"\n            - Following Text: \"## Apramana Bat Location\nThe Apramana Bat can be found along the snowy lake-front in the New West. After exploring Turtle Island and finding yourself on the North Shore of the Bitter Lake, continue down the waterfront until you come across the Apramana Bat near the skeleton of a great snake. The Apramana Bat won't be immediately obvious, but it will slam down to the ground once you get too close.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Apramana_bat_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Apramana Bat Spirit, a menacing, golden humanoid bat-like creature with outstretched wings and a fierce expression. Set against a snowy, skeletal backdrop, it aligns with the narrative context of the Apramana Bat's location near the North Shore of Bitter Lake, where players encounter it after exploring Turtle Island. The image likely serves to visually introduce the Apramana Bat Spirit, emphasizing its supernatural and threatening presence in the game world."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Apramana Bat Fight\n* Apramana Bat Spirit\"\n        - Following Text: \"## Apramana Bat Location\nThe Apramana Bat can be found along the snowy lake-front in the New West. After exploring Turtle Island and finding yourself on the North Shore of the Bitter Lake, continue down the waterfront until you come across the Apramana Bat near the skeleton of a great snake. The Apramana Bat won't be immediately obvious, but it will slam down to the ground once you get too close.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the Apramana Bat, a significant enemy or boss in a snowy, forested setting. It appears to be part of a video game walkthrough, showcasing the creature's design and environment. The preceding and following text suggests the image is tied to a guide on locating and engaging the Apramana Bat, which is found near the skeleton of a great snake along the snowy lakefront in the New West."
 }

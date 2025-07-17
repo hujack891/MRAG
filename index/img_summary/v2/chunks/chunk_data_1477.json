@@ -1,28 +1,11 @@
 {
-    "chunk_id": 156865765774,
-    "source_file": "Green-Capped_Martialist.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Martial_8.jpg",
-    "alt_text": "Wukong Martial 8.jpg",
-    "position_desc": 14,
-    "img_above_text": "When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.",
-    "img_below_text": "If you see pretend to vanish but reappear in the same spot, be ready for two clones to appear on either side of him, and they'll all toss their chakram wheels at you all at once that can be difficult to evade quickly.\n![Wukong Martial 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Martial_9.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.\"\n            - Following Text: \"If you see pretend to vanish but reappear in the same spot, be ready for two clones to appear on either side of him, and they'll all toss their chakram wheels at you all at once that can be difficult to evade quickly.\n![Wukong Martial 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Martial_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Martial_8.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a combat scene from *Black Myth: Wukong*, featuring the player character facing off against the \"Green-Capped Martialist\" boss. The environment is a rocky, cavernous area with fiery effects dominating the foreground. Three fiery clones of the boss are visible, each wielding chakram-like weapons, suggesting an attack pattern where multiple projectiles are launched simultaneously. The glowing red trail on the ground hints at the danger zones created by the boss's attacks, aligning with the preceding and following text that describe the spinning chakrams and the clone mechanic as key elements of the fight."
+    "chunk_id": 377049244432,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Chapter_4_Secret_Area_%281%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(1\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Chapter 4 Secret Area \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png)\nJust behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.",
+    "img_below_text": "You should now see a large rock in the middle of the room with white eggs near it. Drop down and head right, sticking as close to the rock as possible.\n![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 4 Secret Area \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png)\nJust behind the shrine sits a torch and a wooden path that goes off to the right. Take this path and head up the stairs, then follow it until you get to the end, where there's a small drop down.\"\n        - Following Text: \"You should now see a large rock in the middle of the room with white eggs near it. Drop down and head right, sticking as close to the rock as possible.\n![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dimly lit cavern area from the video game *Black Myth: Wukong*. It shows a player character standing on a rocky path overlooking a shrine-like structure with a glowing light source nearby. Red arrows indicate the suggested path forward, guiding the player to proceed toward a dark tunnel on the right. The scene aligns with the walkthrough's instructions to navigate through the area by following the path and descending further into the cavern."
 }

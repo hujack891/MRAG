@@ -1,28 +1,11 @@
 {
-    "chunk_id": 25979340746,
-    "source_file": "Clay_Vajra_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/Clay_Vajra_Location.jpg",
-    "alt_text": "Clay Vajra Location.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Clay Vajra Location\nThe Clay Vajra is a large, four-legged creature that can be found guarding the entrance to the New Thunderclap Temple. You will find him lurking in the courtyard outside the steps leading to the main temple. The main temple is near the back of the complex, so you will have to fight your way through from the entrance to reach him.",
-    "img_below_text": "## Clay Vajra Fight\nThe Clay Vajra is quite a challenging foe to defeat. He has four legs with mouths embedded in each knee. These mouths can spew flames on demand that create a swirling vortex of fire when the Clay Vajra stomps around in a circle. The best way to combat this is to either stay far out of the flame's reach or as close as possible between two legs so the flames can't hit you. Since the Clay Vajra spins during this attack, you will have to stay on the move as well to continue avoiding the flames.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Clay_Vajra_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Clay Vajra Location\nThe Clay Vajra is a large, four-legged creature that can be found guarding the entrance to the New Thunderclap Temple. You will find him lurking in the courtyard outside the steps leading to the main temple. The main temple is near the back of the complex, so you will have to fight your way through from the entrance to reach him.\"\n            - Following Text: \"## Clay Vajra Fight\nThe Clay Vajra is quite a challenging foe to defeat. He has four legs with mouths embedded in each knee. These mouths can spew flames on demand that create a swirling vortex of fire when the Clay Vajra stomps around in a circle. The best way to combat this is to either stay far out of the flame's reach or as close as possible between two legs so the flames can't hit you. Since the Clay Vajra spins during this attack, you will have to stay on the move as well to continue avoiding the flames.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/40/Clay_Vajra_Location.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character approaching the Clay Vajra, a large, four-legged creature guarding the entrance to the New Thunderclap Temple. The snowy courtyard and temple architecture provide the setting for this encounter. The image highlights the impending battle, emphasizing the challenge of defeating the Clay Vajra, whose unique flame-spewing attack requires strategic movement and positioning to avoid damage. This visual serves as a prelude to the fight described in the following text."
+    "chunk_id": 992626533797,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Longevity_Decoction_.jpg",
+    "alt_text": "Longevity Decoction .jpg",
+    "position_desc": 12,
+    "img_above_text": "![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets",
+    "img_below_text": "![Black-myth-wukong-evil-tonifying-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Black-myth-wukong-evil-tonifying-decoction.jpg)| Tonifying Decoction | Rare | Upon use, considerably increases maximum stamina for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| • 1 Celestial Peat\n• 1 Licorice | Tonifying Decoction",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\"\n        - Following Text: \"![Black-myth-wukong-evil-tonifying-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Black-myth-wukong-evil-tonifying-decoction.jpg)| Tonifying Decoction | Rare | Upon use, considerably increases maximum stamina for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| • 1 Celestial Peat\n• 1 Licorice | Tonifying Decoction\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Tonifying Decoction,\" a Rare item from the video game *Black Myth: Wukong*. This consumable item significantly boosts maximum stamina for an extended duration. It can be acquired by purchasing the formula from Xu Dog in the Crouching Tiger Temple - Cellar after completing Chapter 2 - Yellow Wind Ridge, or from the Shrine Store in The New West. Crafting it requires 1 Celestial Peat and 1 Licorice."
 }

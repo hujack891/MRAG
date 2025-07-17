@@ -1,28 +1,11 @@
 {
-    "chunk_id": 606287669153,
-    "source_file": "Man-in-Stone_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-    "alt_text": "Wukong Fright 27.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.",
-    "img_below_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\"\n            - Following Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character approaching a large rock formation embedded with glowing blue crystals inside a dark cave. This scene is part of the \"Man-in-Stone\" questline in *Black Myth: Wukong*. The crystals likely mark a significant location along the cave path, leading to the quest's objective—a larger statue with similar crystals. The preceding text mentions defeating Rock Guai enemies, while the following text warns of a Poisestone ambush near the final statue. The image emphasizes exploration and progression within the cave environment."
+    "chunk_id": 353248216732,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Thunderclap_82.jpg",
+    "alt_text": "Wukong Thunderclap 82.jpg",
+    "position_desc": 81,
+    "img_above_text": "![Wukong Thunderclap 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Thunderclap_80.jpg)\nIf you see his foot rise as it crackles with electricity, you're better off staying back, as you can be knocked into the air of his stomp connects, which turns into a \"grab\" where he'll pierce you with his mace and slam you into the ground for a ton of damage. It's still possible to deflect the stomp with Rock Solid or rise above it with your Pillar Stance, but if you're not sure on the timing, just play it safe.",
+    "img_below_text": "Once he gets to around half his health or less, be especially prepared for his ultimate attack. He'll usually begin by proclaiming that he will \"meet you in combat, devoid of any relics\", and charge his weapon above his head, drawing in a much large amount of crackling energy above his head and motes all around.\n![Wukong Thunderclap 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_Thunderclap_83.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Thunderclap_80.jpg)\nIf you see his foot rise as it crackles with electricity, you're better off staying back, as you can be knocked into the air of his stomp connects, which turns into a \"grab\" where he'll pierce you with his mace and slam you into the ground for a ton of damage. It's still possible to deflect the stomp with Rock Solid or rise above it with your Pillar Stance, but if you're not sure on the timing, just play it safe.\"\n        - Following Text: \"Once he gets to around half his health or less, be especially prepared for his ultimate attack. He'll usually begin by proclaiming that he will \"meet you in combat, devoid of any relics\", and charge his weapon above his head, drawing in a much large amount of crackling energy above his head and motes all around.\n![Wukong Thunderclap 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Wukong_Thunderclap_83.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle in *Black Myth: Wukong* against \"Yellowbrow,\" who is preparing his ultimate attack. The boss is shown charging his weapon above his head, surrounded by crackling energy and glowing motes, indicating the buildup of a powerful move. The ornate environment, featuring intricate carvings and statues, adds to the intensity of the scene. The text at the bottom reveals Yellowbrow's proclamation: \"I shall meet you in combat, devoid of any relics, to see who prevails!\""
 }

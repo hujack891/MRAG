@@ -1,28 +1,11 @@
 {
-    "chunk_id": 907904530594,
-    "source_file": "Kang-Jin_Star.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Turtle_3.jpg",
-    "alt_text": "Wukong Turtle 3.jpg",
-    "position_desc": 2,
-    "img_above_text": "When the battle starts, Kang-Jin Star will often summon small serpent-like electric projectiles to swim around her in the air before sending them your way. Watch her movement to see when she directs them so you'll know when to dodge their quick movement.\nThis boss doesn't move all that much, though she can teleport, meaning you'll be able to close the distance quite fast, but Kang-Jin Star will use a lot of spells to keep you at arms length.",
-    "img_below_text": "Often after proclaiming \"Tremors forge thunder\" she can create electrical spots on the ground to erupt with lightning after a moment. The problem is these rings will follow you for a moment before she enacts the strike, so again you'll need to watch when she crackles with light to know the strike is coming and dodge it. At the start of the fight you'll only have to dodge one, but over time she'll do more and more of these for the first part of her attack.\nShe'll often follow up these strikes by finishing her sentence with \"clashes form bolts\" and then toss a projectile straight at you from her hand, requiring a second dodge before can get close and retaliate.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"When the battle starts, Kang-Jin Star will often summon small serpent-like electric projectiles to swim around her in the air before sending them your way. Watch her movement to see when she directs them so you'll know when to dodge their quick movement.\nThis boss doesn't move all that much, though she can teleport, meaning you'll be able to close the distance quite fast, but Kang-Jin Star will use a lot of spells to keep you at arms length.\"\n            - Following Text: \"Often after proclaiming \"Tremors forge thunder\" she can create electrical spots on the ground to erupt with lightning after a moment. The problem is these rings will follow you for a moment before she enacts the strike, so again you'll need to watch when she crackles with light to know the strike is coming and dodge it. At the start of the fight you'll only have to dodge one, but over time she'll do more and more of these for the first part of her attack.\nShe'll often follow up these strikes by finishing her sentence with \"clashes form bolts\" and then toss a projectile straight at you from her hand, requiring a second dodge before can get close and retaliate.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Turtle_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a boss battle against Kang-Jin Star in a snowy, mountainous environment. Kang-Jin Star is preparing an attack, as indicated by the phrase \"Tremors forge thunder\" displayed on the screen. The player character is shown mid-dodge, evading an incoming attack. The visual highlights the boss's use of lightning-based abilities, requiring precise timing and movement to counter her spells and projectiles effectively."
+    "chunk_id": 817226117473,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg",
+    "alt_text": "Purple Lingzhi .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Medicine Ingredient | Rarity | Type | Location\n---|---|---|---|---",
+    "img_below_text": "![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Image | Medicine Ingredient | Rarity | Type | Location\n---|---|---|---|---\"\n        - Following Text: \"![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Nine-Capped Lingzhi,\" a rare medicine ingredient featured in the video game *Black Myth: Wukong*. It is associated with gameplay elements such as crafting or healing and can be obtained randomly from Purple Lingzhi plants or by defeating Lingzhiling enemies. The image serves as a visual reference for players to identify this specific in-game item."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 569783164650,
+    "chunk_id": 431123275551,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg",
-    "alt_text": "Wukong Bitter 44.jpg",
-    "position_desc": 77,
-    "img_above_text": "![Wukong Bitter 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Bitter_43.jpg)\nNow that the bat is gone, return to the skull of the Serpent General and interact with it. You'll then see Turtle General look over and mourn his fallen friend, causing a giant glowing green tear to fall.",
-    "img_below_text": "Be sure to head back near the Northern Shore Shrine, and you'll find his glowing green tear. It is actually a **Turtle Tear Gourd Soak** , and can be incredibly useful as the only surefire means of restoring your mana when using your Gourd!\nBack at the remains of Snake General, you can find a small path leading up to the left from his bones.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 77 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Bitter_43.jpg)\nNow that the bat is gone, return to the skull of the Serpent General and interact with it. You'll then see Turtle General look over and mourn his fallen friend, causing a giant glowing green tear to fall.\"\n            - Following Text: \"Be sure to head back near the Northern Shore Shrine, and you'll find his glowing green tear. It is actually a **Turtle Tear Gourd Soak** , and can be incredibly useful as the only surefire means of restoring your mana when using your Gourd!\nBack at the remains of Snake General, you can find a small path leading up to the left from his bones.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist, Wukong, exploring a snowy and rocky terrain near the Northern Shore Shrine in *Black Myth: Wukong*. A glowing green aura is visible on the ground, which is likely the **Turtle Tear Gourd Soak**, a key item mentioned in the context. This item is described as a rare and valuable resource for restoring mana when using the Gourd. The scene aligns with the narrative progression, where Wukong retrieves the tear following the mourning of the Serpent General by the Turtle General."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_56.jpg",
+    "alt_text": "Wukong Bitter 56.jpg",
+    "position_desc": 88,
+    "img_above_text": "Continue up the stairway until you find an opening to the left, where you'll enter a hall of statues and a Red-Haired Yaksha blocking your path. He's glowing blue from an empowered spirit, but thankfully with a friend at your side, things should even out in difficulty -- but you should still watch out for their powerful martial arts punches and bicycle kicks.\nDefeating this foe will earn you the Red-Haired Yaksha Spirit, and Zhu Bajie will ask that you go rest at a nearby raised pavilion in a large open area nearby.",
+    "img_below_text": "As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Continue up the stairway until you find an opening to the left, where you'll enter a hall of statues and a Red-Haired Yaksha blocking your path. He's glowing blue from an empowered spirit, but thankfully with a friend at your side, things should even out in difficulty -- but you should still watch out for their powerful martial arts punches and bicycle kicks.\nDefeating this foe will earn you the Red-Haired Yaksha Spirit, and Zhu Bajie will ask that you go rest at a nearby raised pavilion in a large open area nearby.\"\n        - Following Text: \"As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene where a chubby monk is interacting with the player, accompanied by Zhu Bajie, a boar-like character. The monk is asking about the location of a Buddha, which ties into the narrative involving the search for a Buddha statue mentioned in the following text. The setting appears to be a snowy, temple-like area, aligning with the context of resting at a pavilion after defeating the Red-Haired Yaksha. This moment seems to advance the story, introducing the monk's enigmatic role and hinting at the next objective."
 }

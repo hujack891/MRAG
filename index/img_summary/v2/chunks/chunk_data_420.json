@@ -1,28 +1,11 @@
 {
-    "chunk_id": 842066299927,
-    "source_file": "Captain_Wise-Voice.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
-    "alt_text": "Wukong Pagoda 85.jpg",
-    "position_desc": 5,
-    "img_above_text": "![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.",
-    "img_below_text": "Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\"\n            - Following Text: \"Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a boss fight scene from the game *Black Myth: Wukong*, featuring the enemy \"Captain Wise-Voice.\" The dark, ominous environment highlights the creature's large, grotesque form as it prepares an attack. The glowing ring on the ground suggests the use of an area-of-effect ability, requiring the player to evade using specific tactics like dodging or the Pillar Stance, as described in the preceding text. The HUD elements indicate the player's health, abilities, and the boss's health bar, emphasizing the intensity of the encounter."
+    "chunk_id": 246767451290,
+    "source_file": "Celestial_Taiyi_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Yellow_Wind_Taiyi.jpg",
+    "alt_text": "Yellow Wind Taiyi.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Yellow Wind Ridge Celestial Taiyi Pill\nYellow Wind Ridge Celestial Taiyi Pill",
+    "img_below_text": "The next Celestial Taiyi Pill is hidden near a Meditation Spot. This one is available after defeating the Stone Vanguard at Rock Clash Platform. Once you do, follow the light to unlock the Rock Clash Platform Keeper's Shrine. Take the path opposite the Shrine and defeat the Rat Governor Spirit. The pill is on a small side path, branching off to the right before the Meditation Spot.\n## Xu-Dog Celestial Taiyi Pills",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Yellow Wind Ridge Celestial Taiyi Pill\nYellow Wind Ridge Celestial Taiyi Pill\"\n        - Following Text: \"The next Celestial Taiyi Pill is hidden near a Meditation Spot. This one is available after defeating the Stone Vanguard at Rock Clash Platform. Once you do, follow the light to unlock the Rock Clash Platform Keeper's Shrine. Take the path opposite the Shrine and defeat the Rat Governor Spirit. The pill is on a small side path, branching off to the right before the Meditation Spot.\n## Xu-Dog Celestial Taiyi Pills\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character interacting with a glowing object labeled \"Open,\" likely a container or item of interest, in a rocky, shrine-like environment. The preceding and following text suggests that this scene is part of a video game walkthrough involving the collection of Celestial Taiyi Pills. The image likely illustrates the location or process of obtaining the Yellow Wind Ridge Celestial Taiyi Pill, which is tied to exploration and interaction within the game's world."
 }

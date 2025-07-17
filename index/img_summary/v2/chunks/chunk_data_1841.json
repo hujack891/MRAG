@@ -1,28 +1,11 @@
 {
-    "chunk_id": 775519128367,
-    "source_file": "Lingxuzi.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Wolves_46.jpg",
-    "alt_text": "Wukong Wolves 46.jpg",
-    "position_desc": 3,
-    "img_above_text": "## Lingxuzi Boss Fight and Guide\nCompared to Lingxuzi, the last wolf boss you fought may as well have been a puppy. This Yaoguai King is a large hulking beast of a wolf that hits as hard as he is big. Luckily, for all his size, his attacks come with clear telegraphs to help you dodge and counter his moves.",
-    "img_below_text": "He’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.\n![Wukong Wolves 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Lingxuzi.md'.\n\n            Context:\n            - Preceding Text: \"## Lingxuzi Boss Fight and Guide\nCompared to Lingxuzi, the last wolf boss you fought may as well have been a puppy. This Yaoguai King is a large hulking beast of a wolf that hits as hard as he is big. Luckily, for all his size, his attacks come with clear telegraphs to help you dodge and counter his moves.\"\n            - Following Text: \"He’ll usually start the fight with a big leaping strike, falling to the ground with one slash, and then quickly following up with a second slash from his other claw. Unfortunately, he’s a pretty evasive foe, and finding the right moments to counter attack can be tricky.\n![Wukong Wolves 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Wolves_47.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Wolves_46.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic moment from the boss fight against Lingxuzi, a formidable Yaoguai King wolf in the game \"Black Myth: Wukong.\" The scene captures the player character facing the enormous, menacing wolf mid-leap, emphasizing the creature's size and ferocity. This visual serves to illustrate the challenging nature of the encounter, highlighting Lingxuzi's powerful attacks and the player's need to anticipate and counter them effectively."
+    "chunk_id": 771671956063,
+    "source_file": "Mother_of_Stones.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
+    "alt_text": "Wukong Fright 28.jpg",
+    "position_desc": 1,
+    "img_above_text": "Once inside the Fright Cliff region, head past the Squall Hideout Shrine and keep left to enter a large cave area, and take a left turn to find the unresponsive boss.\n### Mother of Stones Boss Fight",
+    "img_below_text": "This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stones doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\nWhat will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Once inside the Fright Cliff region, head past the Squall Hideout Shrine and keep left to enter a large cave area, and take a left turn to find the unresponsive boss.\n### Mother of Stones Boss Fight\"\n        - Following Text: \"This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stones doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\nWhat will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the \"Mother of Stones\" boss fight from a video game. The scene shows the player engaging with the crystal-embedded statue-like boss, which remains stationary and has a health bar displayed at the bottom of the screen. Bright crystal effects and projectiles are visible, suggesting combat activity. The preceding and following text explain that while the boss itself does not attack, the fight involves surviving waves of hostile enemies called Palestones embedded in the environment. This is described as an endurance battle requiring sustained effort to chip away at the boss's health while managing incoming threats."
 }

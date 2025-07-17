@@ -1,28 +1,11 @@
 {
-    "chunk_id": 935166626908,
-    "source_file": "Bullguard.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Wolves_9.jpg",
-    "alt_text": "Wukong Wolves 9.jpg",
-    "position_desc": 1,
-    "img_above_text": "* **Rewards:** Immobilize Spell, Yarn x2, 482 Experience, 390 Will\n## Where to Find the Bullguard",
-    "img_below_text": "Since the Bullguard is a required miniboss, he can't be missed on your journey through the opening areas of Chapter 1. You'll find him in the Forest of Wolves, not far from the Front Hills Shrine just along the main path across a bridge, keeping to the right. The Bullguard blocks a large gate area leading to the next main region of Black Wind Mountain.\n### Bullguard Miniboss Fight and Guide",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Bullguard.md'.\n\n            Context:\n            - Preceding Text: \"* **Rewards:** Immobilize Spell, Yarn x2, 482 Experience, 390 Will\n## Where to Find the Bullguard\"\n            - Following Text: \"Since the Bullguard is a required miniboss, he can't be missed on your journey through the opening areas of Chapter 1. You'll find him in the Forest of Wolves, not far from the Front Hills Shrine just along the main path across a bridge, keeping to the right. The Bullguard blocks a large gate area leading to the next main region of Black Wind Mountain.\n### Bullguard Miniboss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Wolves_9.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character crossing a bamboo bridge in a lush forest environment, likely en route to the Bullguard miniboss encounter in *Chapter 1*. The setting aligns with the description of the Forest of Wolves, near the Front Hills Shrine, and serves as a visual representation of the path leading to the gate blocked by the Bullguard. The image emphasizes the game's atmospheric design and the progression toward a key narrative event."
+    "chunk_id": 494620698825,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_Pagoda_41.jpg",
+    "alt_text": "Wukong Pagoda 41.jpg",
+    "position_desc": 11,
+    "img_above_text": "In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.",
+    "img_below_text": "One of the more confusing attacks can happen when he floats up higher into the air, prompting the rings in each corner to send beams straight up in the air. beams will then start appearing at random angles in the ceiling to strike the floor in more and more locations, limiting your movement. Stay mobile and look for spots to safely stand as lasers fire off around you - and if you're still in range, hit the Captain with the Pillar Stance smash.\n![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.\"\n        - Following Text: \"One of the more confusing attacks can happen when he floats up higher into the air, prompting the rings in each corner to send beams straight up in the air. beams will then start appearing at random angles in the ceiling to strike the floor in more and more locations, limiting your movement. Stay mobile and look for spots to safely stand as lasers fire off around you - and if you're still in range, hit the Captain with the Pillar Stance smash.\n![Wukong Pagoda 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Wukong_Pagoda_42.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against \"Captain Lotus-Vision\" in *Black Myth: Wukong*. The scene showcases the boss floating in the air surrounded by glowing purple beams and energy effects, likely tied to the described laser and projectile attacks. The player character is positioned in the foreground, preparing to engage while navigating the hazardous environment. The visual aligns with the preceding and following text, which detail the boss's aggressive teleportation, laser attacks, and area-denial mechanics that require strategic movement and timing."
 }

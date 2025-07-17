@@ -1,28 +1,11 @@
 {
-    "chunk_id": 307137084993,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg",
-    "alt_text": "Wukong MadTiger 14.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.",
-    "img_below_text": "Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_MadTiger_8.jpg)\nThe Mad Tiger will begin the fight with a fast leap, landing with a slashing single blow you’ll need to dodge and then retaliate.\"\n            - Following Text: \"Other times, he’ll perform a feinting strike by leaping to one side of you with an uppercut, and then changing direction to slam down after a delay in your direction.\n![Wukong MadTiger 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_MadTiger_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_MadTiger_14.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dynamic moment from the boss fight with the \"Mad Tiger\" in *Black Myth: Wukong*. The Mad Tiger is mid-leap, preparing a fast, slashing attack while the player-controlled Wukong dodges to evade. This scene highlights the boss's aggressive combat style, requiring precise timing to avoid its attacks and counter effectively. The text below the health bar, \"Food has come to me. Can't let you flee!\", emphasizes the predator-prey dynamic of the encounter."
+    "chunk_id": 212691647813,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg",
+    "alt_text": "Wukong Thunderclap 49.jpg",
+    "position_desc": 49,
+    "img_above_text": "![Wukong Thunderclap 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg)\nOnce you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.",
+    "img_below_text": "If you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.\n![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Thunderclap 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg)\nOnce you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.\"\n        - Following Text: \"If you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.\n![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character facing an incorporeal enemy in a dimly lit environment. The glowing golden trail suggests an active ability or attack being used, while the \"Non-Void\" health bar indicates the enemy's status. The preceding and following text explain strategies for timing deflections and attacking the enemy when it exits its transparent form, emphasizing precision and focus during the encounter."
 }

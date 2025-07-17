@@ -1,28 +1,11 @@
 {
-    "chunk_id": 173463587252,
-    "source_file": "First_Prince_of_Flowing_Sands.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg",
-    "alt_text": "Wukong Sandgate 74.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Sandgate 76.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Sandgate_76.jpg)\nHe also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.",
-    "img_below_text": "If you try dodging around and attacking from the side, be aware that he can either use a quick tail swipe to stagger you, or swing his arm back quickly to draw you away from flanking him, so don’t get too comfortable.\nEven as big as he is with a larger health pool, he’s not as ferocious as the enraged Second Prince. Do note however there is a **secret trick in this fight** : If you lure him into doing one of his larger slam attacks while your back is to the curved wall, his strikes may cause the wall to crack - revealing a secret!",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'First_Prince_of_Flowing_Sands.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 76.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Sandgate_76.jpg)\nHe also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.\"\n            - Following Text: \"If you try dodging around and attacking from the side, be aware that he can either use a quick tail swipe to stagger you, or swing his arm back quickly to draw you away from flanking him, so don’t get too comfortable.\nEven as big as he is with a larger health pool, he’s not as ferocious as the enraged Second Prince. Do note however there is a **secret trick in this fight** : If you lure him into doing one of his larger slam attacks while your back is to the curved wall, his strikes may cause the wall to crack - revealing a secret!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, featuring the player character engaged in combat with the \"First Prince of Flowing Sands,\" a large, ferocious beast. The Prince is shown mid-attack, sliding forward in a powerful lunge, kicking up sand and debris. This visual aligns with the preceding text, which describes the Prince's quick sliding swipe attack and its subtle telegraphing cue. The following text provides additional context about the fight, warning players of the Prince's defensive tail swipe and suggesting a secret strategy involving the environment to reveal a hidden wall. The image emphasizes the Prince's size, aggression, and dynamic movement, reinforcing the challenge and strategy required to defeat him."
+    "chunk_id": 763315750343,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Foothills_Walkthrough_%28142%29.png",
+    "alt_text": "Foothills Walkthrough \\(142\\).png",
+    "position_desc": 75,
+    "img_above_text": "When the mantis is dead, you'll receive Dian-Cui Loong-Soaring Bracers. With all the main bosses finished, for now, it's time to follow Zhu Bajie up the mountain. On the way though, there are just two more optional bosses to capture to wrap up this portion of the Chapter.\nEmerald-Armed Mantis",
+    "img_below_text": "From the Mantis-Catching Swamp, fly up and back toward the area where you fought the Gold Armored Rhino and Cloudtreading Deer. We now want to stop on the left, to get the Son of Stones, which is the boss sitting at the edge of the cliff on the left with the neon blue glow.\n### Yaoguai Chief - Son of Stones",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"When the mantis is dead, you'll receive Dian-Cui Loong-Soaring Bracers. With all the main bosses finished, for now, it's time to follow Zhu Bajie up the mountain. On the way though, there are just two more optional bosses to capture to wrap up this portion of the Chapter.\nEmerald-Armed Mantis\"\n        - Following Text: \"From the Mantis-Catching Swamp, fly up and back toward the area where you fought the Gold Armored Rhino and Cloudtreading Deer. We now want to stop on the left, to get the Son of Stones, which is the boss sitting at the edge of the cliff on the left with the neon blue glow.\n### Yaoguai Chief - Son of Stones\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image highlights a specific location in a dark, mountainous environment with a swamp below, marked by a red arrow pointing to a cliff edge with a neon blue glow. This area is referenced in the walkthrough as the location of the optional boss \"Son of Stones,\" which players are directed to capture after defeating the Emerald-Armed Mantis and before continuing up the mountain with Zhu Bajie."
 }

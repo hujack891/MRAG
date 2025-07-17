@@ -1,28 +1,11 @@
 {
-    "chunk_id": 575982356139,
-    "source_file": "Crafting_Materials.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg",
-    "alt_text": "Heart of Stone .jpg",
-    "position_desc": 17,
-    "img_above_text": "![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)",
-    "img_below_text": "![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\n• Defeat The Scorpionlord in The Webbed Hollow",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)\"\n            - Following Text: \"![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\n• Defeat The Scorpionlord in The Webbed Hollow\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a special crafting material from the game *Black Myth: Wukong*. Positioned between descriptions of the **Thunderbone** and **Sky-Piercing Horn**, it likely represents another rare or epic crafting material used for advanced equipment or upgrades. The preceding and following context suggests that such materials are obtained by defeating bosses or completing specific challenges in the Yellow Wind Ridge area."
+    "chunk_id": 754753454836,
+    "source_file": "Crouching_Tiger_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Tiger_23.jpg",
+    "alt_text": "Wukong Tiger 23.jpg",
+    "position_desc": 24,
+    "img_above_text": "Using the Keeness of Tiger and Sterness of Stone, head up the steps to the large headless statue in the middle of the temple’s blood-soaked plaza. By activating this two-headed tally, you’ll drain the bloody pool, and reveal a large lion mouth that serves as a pit into the cellar below.\n## Temple Cellar",
+    "img_below_text": "Drop down into the mouth of the stone tiger, which leads to a very narrow tunnel passage inside the bowels of the temple. There are few Withered Corpses here to jump out at you from behind pots, but won’t be too much of a problem.\n![Wukong Tiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Tiger_24.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Using the Keeness of Tiger and Sterness of Stone, head up the steps to the large headless statue in the middle of the temple’s blood-soaked plaza. By activating this two-headed tally, you’ll drain the bloody pool, and reveal a large lion mouth that serves as a pit into the cellar below.\n## Temple Cellar\"\n        - Following Text: \"Drop down into the mouth of the stone tiger, which leads to a very narrow tunnel passage inside the bowels of the temple. There are few Withered Corpses here to jump out at you from behind pots, but won’t be too much of a problem.\n![Wukong Tiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Tiger_24.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character navigating a narrow, intricately decorated tunnel within the temple cellar, as described in the context. The environment features detailed carvings on the walls and debris scattered across the floor. The player appears to be engaged in combat with enemies, likely Withered Corpses mentioned in the following text. The interface shows abilities and stats, including a \"+5 Will\" gain, suggesting progression or resource collection during the encounter."
 }

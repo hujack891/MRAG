@@ -1,28 +1,11 @@
 {
-    "chunk_id": 746019020419,
-    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg",
-    "alt_text": "Wukong MadTiger 4.jpg",
-    "position_desc": 14,
-    "img_above_text": "When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack",
-    "img_below_text": "Black Myth: Wukong is full of secrets, and you’ll quickly learn that backtracking and revisiting previous places and even Chapters is essential if you want to experience everything. Missing an entry from your notebook or have a feeling that a place holds a secret? It’s always worth returning to explore again, particularly after you’ve gained new key items.\nSometimes this can be the key to unlocking hidden places and finding secret bosses. It’s also worth going back to NPCs and to previously visited shrine stores to see if they have new stock.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"When you’re exploring areas, you’ll sometimes encounter enemies that have bright blue glowing outlines around them. These enemies drop spirits, which you can add to your collection and equip at any time to help you out during fights.\n### 9\\. It Pays to Backtrack\"\n            - Following Text: \"Black Myth: Wukong is full of secrets, and you’ll quickly learn that backtracking and revisiting previous places and even Chapters is essential if you want to experience everything. Missing an entry from your notebook or have a feeling that a place holds a secret? It’s always worth returning to explore again, particularly after you’ve gained new key items.\nSometimes this can be the key to unlocking hidden places and finding secret bosses. It’s also worth going back to NPCs and to previously visited shrine stores to see if they have new stock.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the protagonist of \"Black Myth: Wukong\" exploring a desolate and rugged area, possibly revisiting a location previously explored. This visual reinforces the game's emphasis on backtracking to uncover secrets, find hidden bosses, and collect new items or spirits. The context suggests that returning to familiar places can yield new discoveries and enhance the player's experience."
+    "chunk_id": 447068889331,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Woods_Ember_Walkthrough_%2839%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(39\\).png",
+    "position_desc": 24,
+    "img_above_text": "![Woods Ember Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Woods_Ember_Walkthrough_%2844%29.png)\nOnce the area is clear, open the chest that the Bull Soldier was guarding. This will give you Cold Iron Leaves and Will.",
+    "img_below_text": "Turn and face the opposite direction and deal with the archer on the stairs to the right first. Climb up the stairs to reach a wooden structure, where you can find the first Meditation Spot of the Chapter.\n![Woods Ember Walkthrough \\(43\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Woods_Ember_Walkthrough_%2843%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(44\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Woods_Ember_Walkthrough_%2844%29.png)\nOnce the area is clear, open the chest that the Bull Soldier was guarding. This will give you Cold Iron Leaves and Will.\"\n        - Following Text: \"Turn and face the opposite direction and deal with the archer on the stairs to the right first. Climb up the stairs to reach a wooden structure, where you can find the first Meditation Spot of the Chapter.\n![Woods Ember Walkthrough \\(43\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Woods_Ember_Walkthrough_%2843%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rocky, desolate area with stairs leading upward, where an archer enemy is positioned. The red arrow indicates the player's next objective: to confront the archer on the stairs. This follows clearing the previous area and opening a chest guarded by a Bull Soldier, and precedes climbing the stairs to reach a wooden structure containing the first Meditation Spot of the chapter."
 }

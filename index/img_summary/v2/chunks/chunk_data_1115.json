@@ -1,28 +1,11 @@
 {
-    "chunk_id": 367886204503,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Foothills_Walkthrough_.png",
-    "alt_text": "Foothills Walkthrough .png",
-    "position_desc": 27,
-    "img_above_text": "The biggest issue is the poison attacks, and it's essential to interrupt them as often as you can. The Plantain Fan can prove invaluable here once again, especially if you deploy it just before a poison attack. It will push the Poison Chief back and allow you to follow up with attacks. Use Immobilize when the Plantain Fan has stopped working, to keep it in place and deplete its health as quickly as possible.\nPoison Chief 1",
-    "img_below_text": "When the Poison Chief is down, fly up and continue left toward the water. Go almost to the end of the water, where you should see a giant creature. When you get close to it, it will leap in the air and jump to a nearby rock. Fly over to it, then land on its head.\n### Yaoguai Chief - Feng-Tail General",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The biggest issue is the poison attacks, and it's essential to interrupt them as often as you can. The Plantain Fan can prove invaluable here once again, especially if you deploy it just before a poison attack. It will push the Poison Chief back and allow you to follow up with attacks. Use Immobilize when the Plantain Fan has stopped working, to keep it in place and deplete its health as quickly as possible.\nPoison Chief 1\"\n            - Following Text: \"When the Poison Chief is down, fly up and continue left toward the water. Go almost to the end of the water, where you should see a giant creature. When you get close to it, it will leap in the air and jump to a nearby rock. Fly over to it, then land on its head.\n### Yaoguai Chief - Feng-Tail General\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Foothills_Walkthrough_.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character hovering on a cloud over a lush, mountainous area with a swampy water body below. A red arrow highlights a distant location, likely pointing to the next objective or area of interest. The scene suggests exploration and progression in a game environment.\n\n2. **Narrative Role**:  \nThe image serves as a visual guide to indicate the next step in the walkthrough. Following the defeat of the Poison Chief, the player is directed to fly left toward the water and approach a giant creature, as described in the subsequent text. The highlighted location aligns with this instruction, helping players navigate the environment."
+    "chunk_id": 764088767215,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg",
+    "alt_text": "Wukong Wolves 33.jpg",
+    "position_desc": 40,
+    "img_above_text": "![Wukong Wolves 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg)\nFrom here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.",
+    "img_below_text": "The far side of the stream has many more materials to collect, and most importantly, a path leading from the bridge where the archer was to a small archway where another extremely important yet optional mini-boss awaits you.\n### Yaoguai Chief Mini-Boss Fight - Guangzhi",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Wolves 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Wolves_32.jpg)\nFrom here, you can cross the stream to battle some more Wolf enemies on the other side, or look for a small path to the left leading up to a large waterfall with some **Jade Lotus** and another Crow Diviner enemy meditating by the falls.\"\n        - Following Text: \"The far side of the stream has many more materials to collect, and most importantly, a path leading from the bridge where the archer was to a small archway where another extremely important yet optional mini-boss awaits you.\n### Yaoguai Chief Mini-Boss Fight - Guangzhi\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character, Wukong, exploring a forested area near a small archway. The setting includes stone markers, a lit brazier, and lush greenery, suggesting a serene yet potentially dangerous environment. This area appears to be part of the path leading to an optional mini-boss encounter with the Yaoguai Chief, as mentioned in the following text. The \"Will x23\" indicator suggests resource collection or preparation for the upcoming challenge."
 }

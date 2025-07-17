@@ -1,28 +1,11 @@
 {
-    "chunk_id": 955943188800,
-    "source_file": "Mad_Tiger.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_MadTiger_22.jpg",
-    "alt_text": "Wukong MadTiger 22.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong MadTiger 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_MadTiger_21.jpg)\nAnother variant after his roar that’s a bit more rare to see — usually when you have some distance on him, is that he'll perform a longer bloodcurdling roar, and then shoot a projectile out of his mouth at you with little warning!",
-    "img_below_text": "There are certain times after performing slam attacks that he may keep his claws deep in the ground. If he continues to crouch down while charging up, it means he’ll rip his fists out to send a shower of rocks erupting in your path.\n![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_MadTiger_21.jpg)\nAnother variant after his roar that’s a bit more rare to see — usually when you have some distance on him, is that he'll perform a longer bloodcurdling roar, and then shoot a projectile out of his mouth at you with little warning!\"\n            - Following Text: \"There are certain times after performing slam attacks that he may keep his claws deep in the ground. If he continues to crouch down while charging up, it means he’ll rip his fists out to send a shower of rocks erupting in your path.\n![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_MadTiger_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist engaging the \"Mad Tiger\" boss in a fiery, rocky environment. The Mad Tiger appears mid-attack, surrounded by debris and energy effects, emphasizing its destructive power. This moment aligns with the preceding text, which describes the boss's projectile roar attack, and the following text, which hints at its ground-based slam attack that triggers rock eruptions. The image highlights the dynamic and challenging nature of the encounter."
+    "chunk_id": 421507376744,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Thunderclap_58.jpg",
+    "alt_text": "Wukong Thunderclap 58.jpg",
+    "position_desc": 58,
+    "img_above_text": "Now you can return back to the Main Plaza, and this time head up past where you defeated the other Clay Vajra for its Spirit, and enter the last part of the temple.\n## Temple Inner Courtyard",
+    "img_below_text": "Guarding the path to the last boss of the temple are two Dark-faced Overlords, and they won't be happy to see you. Expect at least one of them to toss a boulder at you, and you'll want to charge one as soon as possible to maximize the time you have 1v1 before the other arrives.\n![Wukong Thunderclap 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Thunderclap_59.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Now you can return back to the Main Plaza, and this time head up past where you defeated the other Clay Vajra for its Spirit, and enter the last part of the temple.\n## Temple Inner Courtyard\"\n        - Following Text: \"Guarding the path to the last boss of the temple are two Dark-faced Overlords, and they won't be happy to see you. Expect at least one of them to toss a boulder at you, and you'll want to charge one as soon as possible to maximize the time you have 1v1 before the other arrives.\n![Wukong Thunderclap 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Thunderclap_59.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy courtyard leading to a grand temple staircase adorned with intricate statues. The player character, armed with a staff, faces two imposing enemies identified as Dark-faced Overlords, who block the path to the temple's final boss. The scene sets up a challenging encounter, emphasizing the need for strategic combat against these foes."
 }

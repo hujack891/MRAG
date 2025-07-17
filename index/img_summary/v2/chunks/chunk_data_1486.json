@@ -1,28 +1,11 @@
 {
-    "chunk_id": 428575589200,
-    "source_file": "Guangmou.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg",
-    "alt_text": "Wukong Bamboo 29.jpg",
-    "position_desc": 6,
-    "img_above_text": "![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\nWhen he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!",
-    "img_below_text": "An interesting note is that he needs to control the orb’s direction, meaning you can cast Immobilize when he summons the orb to lock both him and his projectile in place, nullifying the attack!\nSometimes, he won’t even bother with the orb, and will simply wave his fan rapidly to create a tornado at your last known position, so staying mobile and pressing your attack can help you avoid these attacks.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Guangmou.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg)\nWhen he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!\"\n            - Following Text: \"An interesting note is that he needs to control the orb’s direction, meaning you can cast Immobilize when he summons the orb to lock both him and his projectile in place, nullifying the attack!\nSometimes, he won’t even bother with the orb, and will simply wave his fan rapidly to create a tornado at your last known position, so staying mobile and pressing your attack can help you avoid these attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat moment in *Black Myth: Wukong*, showcasing the protagonist facing off against Guangmou, a glowing, ethereal enemy surrounded by dynamic visual effects, including sparks and energy bursts. The preceding and following text provides context for Guangmou's attack mechanics, emphasizing his ability to summon projectiles like gusty orbs and tornadoes, and strategies to counter them, such as using Immobilize to disrupt his movements and attacks. The image visually reinforces the game's fast-paced and strategic combat system."
+    "chunk_id": 44473404504,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Chapter_4_Secret_Area_%2810%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(10\\).png",
+    "position_desc": 11,
+    "img_above_text": "![Chapter 4 Secret Area \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Chapter_4_Secret_Area_%2812%29.png)\nFrom here, go through the door to the right of the shrine and straight up the stairs. Go through the door at the top, and into the courtyard with the giant tree in the middle.",
+    "img_below_text": "Here, you'll want to take a left and go across the water and up the stairs. Once you've taken the next set of stairs up, you'll come to a path with another tree at the end of it.\n![Chapter 4 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Chapter_4_Secret_Area_%2811%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 4 Secret Area \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Chapter_4_Secret_Area_%2812%29.png)\nFrom here, go through the door to the right of the shrine and straight up the stairs. Go through the door at the top, and into the courtyard with the giant tree in the middle.\"\n        - Following Text: \"Here, you'll want to take a left and go across the water and up the stairs. Once you've taken the next set of stairs up, you'll come to a path with another tree at the end of it.\n![Chapter 4 Secret Area \\(11\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Chapter_4_Secret_Area_%2811%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a lush, forested courtyard dominated by a large tree in the center, with sunlight filtering through the foliage. A red arrow indicates a path to the left, leading up a set of stairs. This area is part of a walkthrough for navigating Chapter 4 in *Black Myth: Wukong*, guiding players to proceed toward the next section of the game."
 }

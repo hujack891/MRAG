@@ -1,28 +1,11 @@
 {
-    "chunk_id": 971141793236,
-    "source_file": "Non-Able_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Non-able_power.png",
-    "alt_text": "Non-able power.png",
-    "position_desc": 3,
-    "img_above_text": "The timing of Non-Able's punches follows the same pattern as his kicks. Watch closely and wait for him to wind up before quickly dodging out of the way before his hit lands.\n## Non-Able Spirit",
-    "img_below_text": "* **Seasoned Punch**\n* Equipped Effect: Slightly increases Attack, Critical Hit Chance, and Critical Damage, but massively reduces Maximum Mana.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Non-Able_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The timing of Non-Able's punches follows the same pattern as his kicks. Watch closely and wait for him to wind up before quickly dodging out of the way before his hit lands.\n## Non-Able Spirit\"\n            - Following Text: \"* **Seasoned Punch**\n* Equipped Effect: Slightly increases Attack, Critical Hit Chance, and Critical Damage, but massively reduces Maximum Mana.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Non-able_power.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. The image displays the equipment screen of a game, showcasing the \"Non-Able\" spirit, which is an epic item with a low Qi cost. The spirit allows the player to perform a series of punches and kicks with varying light attack phases. Equipping this spirit slightly increases attack, critical hit chance, and critical damage, but significantly reduces maximum mana.\n\n2. The image's purpose is to provide detailed information about the \"Non-Able\" spirit, including its combat abilities and equipped effects. It serves as a guide for players on how to utilize the spirit effectively in combat, emphasizing the importance of timing and strategy when using its punches and kicks."
+    "chunk_id": 381559476234,
+    "source_file": "Rat_Sage_Staff.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Yellow_56.jpg",
+    "alt_text": "Wukong Yellow 56.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Black Myth: Wukong Rat Sage Staff Location\nThe Rat Sage Staff can be found in Chapter 2 - Yellow Wind Ridge upon defeating Yellow Wind Sage at the end of the chapter. This is a mandatory boss that is at the end of the chapter, so you can't miss him.",
+    "img_below_text": "Weapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies. To craft the Rat Sage Staff you will need:\n* 1 Samadhi Wind Agate",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Rat Sage Staff Location\nThe Rat Sage Staff can be found in Chapter 2 - Yellow Wind Ridge upon defeating Yellow Wind Sage at the end of the chapter. This is a mandatory boss that is at the end of the chapter, so you can't miss him.\"\n        - Following Text: \"Weapons can be crafted throughout the game from the Shrines throughout the game's six chapters. Crafting weapons will require Will and various Crafting Materials from the game's locales and enemies. To craft the Rat Sage Staff you will need:\n* 1 Samadhi Wind Agate\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle from *Black Myth: Wukong*, where the player character is engaged in combat with the \"Yellow Wind Sage,\" a mandatory boss encountered at the end of Chapter 2 - Yellow Wind Ridge. This fight is significant as defeating the Yellow Wind Sage rewards the player with the Rat Sage Staff, which can later be crafted using specific materials."
 }

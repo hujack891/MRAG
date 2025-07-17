@@ -1,28 +1,11 @@
 {
-    "chunk_id": 204540500143,
-    "source_file": "Father_of_Stones.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Woods_Ember_Walkthrough_%2855%29.png",
-    "alt_text": "Woods Ember Walkthrough \\(55\\).png",
-    "position_desc": 2,
-    "img_above_text": "From the Heights of Ember Keeper's Shrine, continue toward the open space on the left. When you reach a certain point, the Father of Stones miniboss will jump over the wall near the door on the right.\n## Father of Stones Boss Fight and Guide",
-    "img_below_text": "Just like fights against other stone bosses, it's best to skip elemental damage and go for pure attack power in this fight. You want your attacks to be heavy and hit hard, and for your defense to be up as much as possible.\n![Woods Ember Walkthrough \\(56\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Woods_Ember_Walkthrough_%2856%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Father_of_Stones.md'.\n\n            Context:\n            - Preceding Text: \"From the Heights of Ember Keeper's Shrine, continue toward the open space on the left. When you reach a certain point, the Father of Stones miniboss will jump over the wall near the door on the right.\n## Father of Stones Boss Fight and Guide\"\n            - Following Text: \"Just like fights against other stone bosses, it's best to skip elemental damage and go for pure attack power in this fight. You want your attacks to be heavy and hit hard, and for your defense to be up as much as possible.\n![Woods Ember Walkthrough \\(56\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Woods_Ember_Walkthrough_%2856%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Woods_Ember_Walkthrough_%2855%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the \"Father of Stones\" miniboss, a large, humanoid stone creature, standing in a desolate, eerie environment with broken structures and barren trees. The setting suggests a tense and foreboding atmosphere, likely moments before or during an encounter with the boss.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual introduction to the \"Father of Stones\" miniboss, emphasizing its imposing presence and the grim setting of the upcoming fight. It complements the preceding text, which describes the miniboss's dramatic entrance, and the following text, which provides strategies for defeating it."
+    "chunk_id": 277080167949,
+    "source_file": "First_Prince_of_Flowing_Sands.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Sandgate_76.jpg",
+    "alt_text": "Wukong Sandgate 76.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Sandgate 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Sandgate_75.jpg)\nSome scarier attacks that the First Prince can employ will have him stand up holding his arms to the side, then stumbling forward in a large swing as he topples down on his side, which covers a large area both from the arm swipe and body slam. Be sure to dodge to the side he puts his arms up and you’ll avoid him swinging in the opposite direction.",
+    "img_below_text": "He also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.\n![Wukong Sandgate 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Sandgate_75.jpg)\nSome scarier attacks that the First Prince can employ will have him stand up holding his arms to the side, then stumbling forward in a large swing as he topples down on his side, which covers a large area both from the arm swipe and body slam. Be sure to dodge to the side he puts his arms up and you’ll avoid him swinging in the opposite direction.\"\n        - Following Text: \"He also has a surprisingly quick lunge that’s very hard to dodge if you don’t look for the subtle cue of him slowly extending one arm backward before lunging forward with a quick sliding swipe attack. If you see it early, you can also Immobilize him to interrupt before he can perform it.\n![Wukong Sandgate 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Sandgate_74.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a battle scene from the video game \"Black Myth: Wukong,\" featuring the player character engaged in combat with a large boss enemy named the \"First Prince of Flowing Sands.\" The image captures the moment the boss is performing a powerful attack, with the player character positioned to dodge or counter. The context provided in the preceding and following text describes the boss's attack patterns and strategies for avoiding or interrupting them."
 }

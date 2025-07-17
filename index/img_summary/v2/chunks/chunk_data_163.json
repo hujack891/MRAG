@@ -1,28 +1,11 @@
 {
-    "chunk_id": 976609365660,
+    "chunk_id": 634867982591,
     "source_file": "Bitter_Lake_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_20.jpg",
-    "alt_text": "Wukong Turtle 20.jpg",
-    "position_desc": 20,
-    "img_above_text": "There's many ledges along this ridge you can explore. Many of them have a couple of Frozen Corpses lying in wait, but be on the lookout for a small altar with a gold pot on display. You can open it and find another **Celestial Jade Lotus Pill** to increase your maximum health.\nThe New West Celestial Jade Lotus Pill",
-    "img_below_text": "Drop down even further to lower ledges along this left side, and you can find a narrow ledge leading through a tiny tunnel over to where a **Treasure Chest** can be looted for materials.\n![Wukong Turtle 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Turtle_21.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"There's many ledges along this ridge you can explore. Many of them have a couple of Frozen Corpses lying in wait, but be on the lookout for a small altar with a gold pot on display. You can open it and find another **Celestial Jade Lotus Pill** to increase your maximum health.\nThe New West Celestial Jade Lotus Pill\"\n            - Following Text: \"Drop down even further to lower ledges along this left side, and you can find a narrow ledge leading through a tiny tunnel over to where a **Treasure Chest** can be looted for materials.\n![Wukong Turtle 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Turtle_21.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy, rocky ledge area in *Black Myth: Wukong*, with the player character holding a staff and approaching a small altar marked with a red circle. This altar likely contains a gold pot, which can be opened to obtain the **Celestial Jade Lotus Pill**, an item that increases maximum health.  \n\n2. **Purpose/Narrative Role**:  \nThe image serves as a visual guide to help players locate the altar mentioned in the preceding text. It highlights the specific spot where the **Celestial Jade Lotus Pill** can be found, aiding exploration and progression in the game."
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Wukong_Turtle_24.jpg",
+    "alt_text": "Wukong Turtle 24.jpg",
+    "position_desc": 24,
+    "img_above_text": "Most of the opposite side of the turtle boasts more criss-crossing ledge paths with Frozen Corpses or Golden Lotus Guai, and a few green Wisps stashed away in corners you can absorb, but not much more than that.\nThe biggest secret lies directly to the right of the Turtle Island Shrine when facing toward the front, but it will require you to have obtained the Loong Scales back in Chapter 2 behind a wall you can crack where the First Prince of Flowing Sands is summoned.",
+    "img_below_text": "As you start exploring the path over to the right, an echoing voice will lead you to a large open platform where dragon humanoid figure appears to be frozen in place with its fishing rod. If you interact with it while holding the Loong Scales, it will crackle to life, and begin a new secret boss fight.\n## Yaoguai King Boss Fight - Cyan Loong",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Most of the opposite side of the turtle boasts more criss-crossing ledge paths with Frozen Corpses or Golden Lotus Guai, and a few green Wisps stashed away in corners you can absorb, but not much more than that.\nThe biggest secret lies directly to the right of the Turtle Island Shrine when facing toward the front, but it will require you to have obtained the Loong Scales back in Chapter 2 behind a wall you can crack where the First Prince of Flowing Sands is summoned.\"\n        - Following Text: \"As you start exploring the path over to the right, an echoing voice will lead you to a large open platform where dragon humanoid figure appears to be frozen in place with its fishing rod. If you interact with it while holding the Loong Scales, it will crackle to life, and begin a new secret boss fight.\n## Yaoguai King Boss Fight - Cyan Loong\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy, mountainous area where the player character approaches a frozen dragon-like humanoid figure sitting near a barren tree with a fishing rod. This scene aligns with the walkthrough's description of the location to the right of the Turtle Island Shrine, where interacting with the frozen figure while holding the Loong Scales triggers a secret boss fight with the Yaoguai King - Cyan Loong."
 }

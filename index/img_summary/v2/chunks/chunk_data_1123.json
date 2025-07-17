@@ -1,28 +1,11 @@
 {
-    "chunk_id": 872989251500,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Foothills_Walkthrough_%2827%29.png",
-    "alt_text": "Foothills Walkthrough \\(27\\).png",
-    "position_desc": 35,
-    "img_above_text": "![Foothills Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Foothills_Walkthrough_%2826%29.png)\nThe key to making this fight as easy as possible is to break the Rhino's horn. You want to do this as quickly as possible, so we'd recommend going in with the Wandering Wight Spirit equipped. Speed is essential here, as you'll need to hit the Rhino head-on to break the horn.",
-    "img_below_text": "Once its horn is broken, it’ll try to get away from you. Use Immobilize if needed to keep the Rhino in place, then quickly use Wandering Wight to smash the horn. Follow this up with Pluck of Many and the Plantain Fan to knock the Rhino over repeatedly and overwhelm it with your duplicates.\n![Foothills Walkthrough \\(46\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Foothills_Walkthrough_%2846%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Foothills_Walkthrough_%2826%29.png)\nThe key to making this fight as easy as possible is to break the Rhino's horn. You want to do this as quickly as possible, so we'd recommend going in with the Wandering Wight Spirit equipped. Speed is essential here, as you'll need to hit the Rhino head-on to break the horn.\"\n            - Following Text: \"Once its horn is broken, it’ll try to get away from you. Use Immobilize if needed to keep the Rhino in place, then quickly use Wandering Wight to smash the horn. Follow this up with Pluck of Many and the Plantain Fan to knock the Rhino over repeatedly and overwhelm it with your duplicates.\n![Foothills Walkthrough \\(46\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Foothills_Walkthrough_%2846%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Foothills_Walkthrough_%2827%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "This image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character engaging a large Rhino-like enemy in a grassy, open area with scattered fires. The Rhino's horn appears to be glowing, suggesting it is a critical target in the fight. Based on the context, the image illustrates the strategy of breaking the Rhino's horn to weaken it, emphasizing the use of the Wandering Wight Spirit and other abilities to immobilize and overwhelm the enemy."
+    "chunk_id": 669847092622,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Wolves_41.jpg",
+    "alt_text": "Wukong Wolves 41.jpg",
+    "position_desc": 48,
+    "img_above_text": "Remember to apply your Immobilize spell when it serves you best — interrupting his charged up attacks or after a combo when he’s not up in the air so you can lay into him, and use it whenever the spell recharges. With enough damage dealt, the boss will fall, leaving his weapon embedded in the ground nearby.\nGuangzhi",
+    "img_below_text": "Pick up the fiery blade, and you’ll learn a Transformation Spell: **Red Tides**. Now you’ll be able to transform into the very boss you defeated, and use his own abilities in combat against your enemies.\nTransformation Spells are very powerful, and essentially give you a separate health and might bar to work with. Might will decay fairly quickly over time, and even more if you charge up the transformation’s focus bar to employ special spell attacks. For this particular spell, you’ll be able to use Guangzhi’s spinning light attacks, and charge a heavy attack for his quick dashes. With a full focus bar, you can use Might on spell after dodging to employ his powerful pogo jump attack!",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Remember to apply your Immobilize spell when it serves you best — interrupting his charged up attacks or after a combo when he’s not up in the air so you can lay into him, and use it whenever the spell recharges. With enough damage dealt, the boss will fall, leaving his weapon embedded in the ground nearby.\nGuangzhi\"\n        - Following Text: \"Pick up the fiery blade, and you’ll learn a Transformation Spell: **Red Tides**. Now you’ll be able to transform into the very boss you defeated, and use his own abilities in combat against your enemies.\nTransformation Spells are very powerful, and essentially give you a separate health and might bar to work with. Might will decay fairly quickly over time, and even more if you charge up the transformation’s focus bar to employ special spell attacks. For this particular spell, you’ll be able to use Guangzhi’s spinning light attacks, and charge a heavy attack for his quick dashes. With a full focus bar, you can use Might on spell after dodging to employ his powerful pogo jump attack!\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character standing in a lush forest environment, holding a fiery blade embedded with glowing orange energy. This scene follows the defeat of the boss Guangzhi, whose weapon is left behind for the player to pick up. Acquiring the blade grants the player the **Red Tides Transformation Spell**, enabling them to transform into Guangzhi and use his abilities in combat. The interface displays health, stamina, and spell-related icons, emphasizing the game's focus on strategic spell usage and combat mechanics."
 }

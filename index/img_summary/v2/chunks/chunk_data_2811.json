@@ -1,28 +1,11 @@
 {
-    "chunk_id": 219461424083,
-    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_YellowFlower_7.jpg",
-    "alt_text": "Wukong YellowFlower 7.jpg",
-    "position_desc": 7,
-    "img_above_text": "Near the balcony, you'll find a large plaza where two Spear Daoists guard a building with a green Wisp, while a Snake Herbalist patrols the main path to the left. You'll find he strikes similarly to the Snake Patrollers in Black Wind Mountain, only he can use the poison pot on his back to toss out even more splashes of poison.\nFollow the blood trail that leads to the left and through a dark shaded corridor, and then up to another large open area.",
-    "img_below_text": "While the blood trail quickly peels off to the right up another narrow pathway, there's a **Treasure Chest** up ahead that's guarded by a creepy half snake, half tiger known as a Snake Sheriff. The weird yaoguai can let loose a loud roar to increase its power, and then it will often raise its claws before leaping at you repeatedly unless deflected.\nAfter defeating the beast, head to the right up the narrow tree-lined trail to find a green Wisp and a few more Daoists guarding the pathway.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Near the balcony, you'll find a large plaza where two Spear Daoists guard a building with a green Wisp, while a Snake Herbalist patrols the main path to the left. You'll find he strikes similarly to the Snake Patrollers in Black Wind Mountain, only he can use the poison pot on his back to toss out even more splashes of poison.\nFollow the blood trail that leads to the left and through a dark shaded corridor, and then up to another large open area.\"\n            - Following Text: \"While the blood trail quickly peels off to the right up another narrow pathway, there's a **Treasure Chest** up ahead that's guarded by a creepy half snake, half tiger known as a Snake Sheriff. The weird yaoguai can let loose a loud roar to increase its power, and then it will often raise its claws before leaping at you repeatedly unless deflected.\nAfter defeating the beast, head to the right up the narrow tree-lined trail to find a green Wisp and a few more Daoists guarding the pathway.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_YellowFlower_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character engaged in combat with a formidable creature known as the Snake Sheriff, which is a hybrid of a snake and a tiger. The Snake Sheriff is seen mid-attack, with its claws raised, ready to leap at the player. The player is equipped with a glowing weapon, poised to defend against the creature's assault. In the background, a Treasure Chest is highlighted, indicating a reward for defeating the Snake Sheriff. This scene is part of a walkthrough for the Temple of Yellow Flowers, where players must navigate through various challenges and enemies to progress."
+    "chunk_id": 1670306557,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Black-myth-wukong-staff-of-blazing-karma.jpg",
+    "alt_text": "Black-myth-wukong-staff-of-blazing-karma.jpg",
+    "position_desc": 15,
+    "img_above_text": "• 2 Refined Iron Sand\n• 1,500 Will | Visionary Centipede Staff",
+    "img_below_text": "• 2 Refined Iron Sand\n• 1,500 Will | Staff of Blazing Karma",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"• 2 Refined Iron Sand\n• 1,500 Will | Visionary Centipede Staff\"\n        - Following Text: \"• 2 Refined Iron Sand\n• 1,500 Will | Staff of Blazing Karma\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases a character wielding an intricately designed staff, likely the \"Visionary Centipede Staff\" mentioned in the preceding text. The staff appears to be a crafted weapon, possibly requiring \"2 Refined Iron Sand\" and \"1,500 Will\" for its creation or acquisition. It is part of a sequence that includes other weapons, such as the \"Staff of Blazing Karma,\" suggesting the image highlights a specific weapon option in the game."
 }

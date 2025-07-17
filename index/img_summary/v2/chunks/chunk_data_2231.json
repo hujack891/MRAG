@@ -1,28 +1,11 @@
 {
-    "chunk_id": 228585590169,
-    "source_file": "Non-White_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Non-white_fight.jpg",
-    "alt_text": "Non-white fight.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.",
-    "img_below_text": "Non-White will run away after you get his health bar about halfway down, but you will shortly come across him again deeper in the cave.\n## Non-White Fight",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Non-White_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.\"\n            - Following Text: \"Non-White will run away after you get his health bar about halfway down, but you will shortly come across him again deeper in the cave.\n## Non-White Fight\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Non-white_fight.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player is engaged in a boss fight against a character named Non-White. The setting appears to be a frosty, cave-like environment, with ice spikes emerging from the ground, indicating an attack or special ability used by Non-White. The health bar at the bottom of the screen shows the name \"Non-White,\" suggesting that the player is currently battling this boss. The preceding text explains how the player encounters Non-White after resonating with four Buddha statues and entering a cave system, while the following text mentions that Non-White will flee once his health is reduced to halfway, only to be encountered again deeper in the cave. The image serves to illustrate the intense and challenging nature of the boss fight within this narrative context."
+    "chunk_id": 202269110122,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Sandgate_26.jpg",
+    "alt_text": "Wukong Sandgate 26.jpg",
+    "position_desc": 23,
+    "img_above_text": "![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nReturning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.",
+    "img_below_text": "Instead, stay out of their range and look for a small hilltop altar to the right that holds a chest, and you can find 3x **Tiny Piece of Gold** and 2x **Silk** inside.\nJust beyond the chest, you can spot another large open plain. Head to the right and down the hill onto a long wooden walkway, where you’ll find a path leading back to where the Xu Dog was, and a green Wisp to grab for its Will.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)\nReturning in the direction of the main Sandgate Village, you’ll find that the large doorway is sealed with a host of Rat Archers stationed on the roof where you can’t hit them.\"\n        - Following Text: \"Instead, stay out of their range and look for a small hilltop altar to the right that holds a chest, and you can find 3x **Tiny Piece of Gold** and 2x **Silk** inside.\nJust beyond the chest, you can spot another large open plain. Head to the right and down the hill onto a long wooden walkway, where you’ll find a path leading back to where the Xu Dog was, and a green Wisp to grab for its Will.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character standing near a chest at a small hilltop altar. The setting features detailed wooden carvings, rustic structures, and an open plain in the background. This location is part of the walkthrough where players can loot the chest to obtain **Tiny Piece of Gold** and **Silk**, and then proceed to explore the surrounding area."
 }

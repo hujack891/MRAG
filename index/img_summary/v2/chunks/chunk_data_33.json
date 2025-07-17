@@ -1,28 +1,11 @@
 {
-    "chunk_id": 994143510921,
+    "chunk_id": 947541443244,
     "source_file": "Azure_Dust.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg",
     "alt_text": "Black-myth-wukong-azure-dust-2.jpg",
     "position_desc": 2,
     "img_above_text": "![Black-myth-wukong-azure-dust-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-azure-dust-1.jpg)\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.",
     "img_below_text": "* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.\n![Black-myth-wukong-azure-dust-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-azure-dust-3.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Azure_Dust.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-azure-dust-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-azure-dust-1.jpg)\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.\"\n            - Following Text: \"* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.\n![Black-myth-wukong-azure-dust-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-azure-dust-3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Black-myth-wukong-azure-dust-2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases a gameplay moment from *Black Myth: Wukong*, featuring the Azure Dust transformation in action. The character appears to be executing the \"Heavy Attack: Mountain Splitter,\" a powerful forward dash that can be charged for increased range. The environment is a rugged, desolate landscape with rocky terrain and sparse vegetation, emphasizing the game's atmospheric and combat-driven focus.\n\n2. **Purpose/Narrative Role**:  \nThe image visually supports the description of Azure Dust's combat abilities, specifically highlighting the \"Mountain Splitter\" heavy attack. It demonstrates the transformation's offensive capabilities and ties into the preceding and following text, which detail its attacks and stamina-based mechanics."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Black-myth-wukong-azure-dust-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-azure-dust-1.jpg)\n* **Heavy Attack: Mountain Splitter - Dash forward with full force. Fully charge to dash further**. This is a slow, but heavy charged dash which can pin enemies and also get you out of danger if needed. It lacks a lot of control, however.\"\n        - Following Text: \"* **De-transformation Attack: Body Slam - Slam your body into the ground.** This is the final attack Azure Dust will perform when it runs out of stamina. It turns around and slams its whole body into the ground.\n![Black-myth-wukong-azure-dust-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-azure-dust-3.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image showcases gameplay from *Black Myth: Wukong*, highlighting the \"Azure Dust\" transformation. The player character, in a transformed state, is mid-action, likely preparing or executing the \"Heavy Attack: Mountain Splitter,\" which involves a forceful forward dash. The HUD displays attack options, including \"Light Attack: Earth Shatter\" and \"Heavy Attack: Mountain Splitter,\" alongside a stamina bar and transformation indicator. The environment features a rugged, barren landscape with rocky terrain and stairs, emphasizing the game's immersive and detailed setting."
 }

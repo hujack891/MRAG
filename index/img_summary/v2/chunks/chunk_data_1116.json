@@ -1,28 +1,11 @@
 {
-    "chunk_id": 22181740361,
-    "source_file": "Foothills_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Foothills_Walkthrough_%2824%29.png",
-    "alt_text": "Foothills Walkthrough \\(24\\).png",
-    "position_desc": 28,
-    "img_above_text": "When the Poison Chief is down, fly up and continue left toward the water. Go almost to the end of the water, where you should see a giant creature. When you get close to it, it will leap in the air and jump to a nearby rock. Fly over to it, then land on its head.\n### Yaoguai Chief - Feng-Tail General",
-    "img_below_text": "The boss fight against the Feng-Tail General is more of a skill check than anything, testing out whether you've got the necessary health and stamina to continue.\n![Foothills Walkthrough \\(30\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Foothills_Walkthrough_%2830%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 28 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the Poison Chief is down, fly up and continue left toward the water. Go almost to the end of the water, where you should see a giant creature. When you get close to it, it will leap in the air and jump to a nearby rock. Fly over to it, then land on its head.\n### Yaoguai Chief - Feng-Tail General\"\n            - Following Text: \"The boss fight against the Feng-Tail General is more of a skill check than anything, testing out whether you've got the necessary health and stamina to continue.\n![Foothills Walkthrough \\(30\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Foothills_Walkthrough_%2830%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Foothills_Walkthrough_%2824%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dramatic, silhouetted view of a giant insect-like creature perched on a rocky outcrop in a dark, misty landscape. This scene sets the stage for the encounter with the Yaoguai Chief, Feng-Tail General, as described in the preceding text. The creature's imposing presence foreshadows the upcoming boss fight, emphasizing its significance as a test of the player's skill, health, and stamina."
+    "chunk_id": 658359025246,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Wolves_34.jpg",
+    "alt_text": "Wukong Wolves 34.jpg",
+    "position_desc": 41,
+    "img_above_text": "### Yaoguai Chief Mini-Boss Fight - Guangzhi\nThis Yaoguai Chief is a lot more intimidating than the Bullguard, but thankfully much more approachable than the Wandering Wight nearby, even with his fearsome looking fiery twinblade. Remember that you can purchase some Cooling Powder should you find yourself being lit on fire too much, as well as Evil Repelling Medicant to boost your damage absorption.",
+    "img_below_text": "The flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.\n![Wukong Wolves 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Yaoguai Chief Mini-Boss Fight - Guangzhi\nThis Yaoguai Chief is a lot more intimidating than the Bullguard, but thankfully much more approachable than the Wandering Wight nearby, even with his fearsome looking fiery twinblade. Remember that you can purchase some Cooling Powder should you find yourself being lit on fire too much, as well as Evil Repelling Medicant to boost your damage absorption.\"\n        - Following Text: \"The flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.\n![Wukong Wolves 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing the Yaoguai Chief mini-boss Guangzhi wielding a fiery twinblade during a combat sequence. The preceding and following text provide strategies for defeating Guangzhi, emphasizing the importance of timing dodges to avoid his fiery attacks and exploiting his recovery period to strike back."
 }

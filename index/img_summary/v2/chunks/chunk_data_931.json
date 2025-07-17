@@ -1,28 +1,11 @@
 {
-    "chunk_id": 519939120777,
-    "source_file": "Elder_Amourworm.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_13.jpg",
-    "alt_text": "Wukong MiddleHollow 13.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)\nIf you find yourself having trouble avoiding getting poisoned, consider using the Pillar Stance to boost yourself up off the ground.",
-    "img_below_text": "Otherwise, you can also try keeping your distance and strafing during initial poison volleys, and then rush back in so you don't have to dance around poison when getting close.\nWhen the Amourworm is defeated, you'll gain a Proto-Amourworm Key Item. It may seem mysterious, but it does have a use. Bring it to Chen Loong at the Zodiac Village, and then return later to find the tiny Amourworm in a little basket outside his shack. You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Elder_Amourworm.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)\nIf you find yourself having trouble avoiding getting poisoned, consider using the Pillar Stance to boost yourself up off the ground.\"\n            - Following Text: \"Otherwise, you can also try keeping your distance and strafing during initial poison volleys, and then rush back in so you don't have to dance around poison when getting close.\nWhen the Amourworm is defeated, you'll gain a Proto-Amourworm Key Item. It may seem mysterious, but it does have a use. Bring it to Chen Loong at the Zodiac Village, and then return later to find the tiny Amourworm in a little basket outside his shack. You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a player character engaged in combat with the Elder Amourworm, a large, grotesque enemy surrounded by eggs and skeletal remains in a dark, cavernous environment. The preceding and following text provides strategies for avoiding poison attacks during the fight, such as using the Pillar Stance or maintaining distance before rushing in. Defeating the Elder Amourworm rewards the player with the Proto-Amourworm Key Item, which has a later use in the Zodiac Village."
+    "chunk_id": 658508758584,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Field_Fire_Walkthrough_%2812%29.png",
+    "alt_text": "Field Fire Walkthrough \\(12\\).png",
+    "position_desc": 15,
+    "img_above_text": "The ball will burst through now to cover another portion of the path, so dash forward and head to the left again, where you'll find a Purple Lingzhi to harvest. Ignore the Scorching Flame enemy, as the ball will take care of this.\nAs the ball breaks through even further, run with it. You want it to be as far forward as it can go before you go up and to the gap on the left. Another Searing-Flame will appear here, and then you'll find a gap very close to you on the right, with yet another Searing-Flame.",
+    "img_below_text": "The gauntlet is almost over! As you continue on, there's a small gap on the left you can dart into and then it's onward toward the flames. When you approach, a cutscene will begin where you'll see the golden spiked ball go flying off the end of the cliff.\nAfter the cutscene, ignore Pingping running off, and turn back to where you came from. Remember the wall of flames? Head back there. Now that the ball is gone, it's safe to explore the area slowly and you'll find the flames have also disappeared. A path has been revealed, which is the Cooling Slope, and the next place we'll explore.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"The ball will burst through now to cover another portion of the path, so dash forward and head to the left again, where you'll find a Purple Lingzhi to harvest. Ignore the Scorching Flame enemy, as the ball will take care of this.\nAs the ball breaks through even further, run with it. You want it to be as far forward as it can go before you go up and to the gap on the left. Another Searing-Flame will appear here, and then you'll find a gap very close to you on the right, with yet another Searing-Flame.\"\n        - Following Text: \"The gauntlet is almost over! As you continue on, there's a small gap on the left you can dart into and then it's onward toward the flames. When you approach, a cutscene will begin where you'll see the golden spiked ball go flying off the end of the cliff.\nAfter the cutscene, ignore Pingping running off, and turn back to where you came from. Remember the wall of flames? Head back there. Now that the ball is gone, it's safe to explore the area slowly and you'll find the flames have also disappeared. A path has been revealed, which is the Cooling Slope, and the next place we'll explore.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rocky, volcanic terrain with a path leading forward, marked by two red arrows indicating navigation directions. The left arrow points toward a gap near flames, while the right arrow highlights another area of interest, possibly near an object or enemy. This scene aligns with the walkthrough's instructions to follow the golden spiked ball, avoid enemies, and navigate gaps to progress through the fiery environment."
 }

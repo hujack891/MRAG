@@ -1,28 +1,11 @@
 {
-    "chunk_id": 991191811658,
+    "chunk_id": 300269394929,
     "source_file": "Bamboo_Grove_Walkthrough.md",
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Bamboo_33.jpg",
     "alt_text": "Wukong Bamboo 33.jpg",
     "position_desc": 32,
     "img_above_text": "![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\nAs the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.",
     "img_below_text": "Look for a way forward beyond a small archway to the side of the boss arena, and climb the winding stairs to follow a trail of gold leading to the next Shrine.\n### Marsh of the White Mist",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 32 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\nAs the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.\"\n            - Following Text: \"Look for a way forward beyond a small archway to the side of the boss arena, and climb the winding stairs to follow a trail of gold leading to the next Shrine.\n### Marsh of the White Mist\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Bamboo_33.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts Wukong, the protagonist of *Black Myth: Wukong*, running through a lush bamboo forest toward a small archway. This scene appears to follow a boss battle and serves as a transition point in the narrative, guiding the player toward the next area, marked by winding stairs and a trail of gold leading to the next Shrine. The serene yet ominous environment aligns with the game's themes of exploration and mystery."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Bamboo 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_Bamboo_32.jpg)\nAs the boss falls, the Keeper will comment on the two fallen Yaoguai Guangmou and Guangzhi. Both monks apparently aided an Elder named Jinchi to burn down the temple and the monk within alive — but that’s not all they share: Just up the sloping stairway path to the left of the way forward, you can find a second large bell that you can ring. Something ominous seems to be responding to the sound of these bells.\"\n        - Following Text: \"Look for a way forward beyond a small archway to the side of the boss arena, and climb the winding stairs to follow a trail of gold leading to the next Shrine.\n### Marsh of the White Mist\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* running through a lush bamboo forest toward a small archway, which serves as a transition point in the game. This scene follows a boss fight and is part of the player's journey to explore the area further, including climbing stairs and following a trail of gold to reach the next Shrine. The narrative ties into ominous events involving bells and the fallen monks mentioned earlier."
 }

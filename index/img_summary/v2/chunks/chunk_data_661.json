@@ -1,28 +1,11 @@
 {
-    "chunk_id": 644499783542,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg",
-    "alt_text": "Wukong Bitter 19.jpg",
-    "position_desc": 15,
-    "img_above_text": "![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nWarp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.",
-    "img_below_text": "Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nWarp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.\"\n            - Following Text: \"Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing a key interaction between the protagonist and the Xu Dog character inside a dimly lit cellar beneath the Crouching Tiger Temple. The Xu Dog, a humanoid creature, appears to be holding a glowing object and speaking to the protagonist, who is armed with an ornate staff. The dialogue suggests the Xu Dog is defending someone’s temperament, hinting at a narrative moment of understanding or reconciliation. This scene sets up the exchange of the Special-made Bone-Strengthening Pellet and the formula for crafting Fortifying Medicaments, as described in the following text."
+    "chunk_id": 519215950427,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Antimiasma_Powder_.jpg",
+    "alt_text": "Antimiasma Powder .jpg",
+    "position_desc": 5,
+    "img_above_text": "![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Purple Lingzhi | Tiger Subduing Pellets",
+    "img_below_text": "• 1 Jade Lotus | Antimiasma Powder\n![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Purple Lingzhi | Tiger Subduing Pellets\"\n        - Following Text: \"• 1 Jade Lotus | Antimiasma Powder\n![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the **Tiger Subduing Pellets**, an uncommon item in the video game *Black Myth: Wukong*. This item, when used, moderately increases damage for a long duration. It can be found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, near the Snake Trail Shrine in Black Wind Mountain, or purchased from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge. Crafting it requires **1 Snake-Head Mushroom** and **1 Purple Lingzhi**."
 }

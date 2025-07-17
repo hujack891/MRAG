@@ -1,28 +1,11 @@
 {
-    "chunk_id": 641451280834,
-    "source_file": "Tiger%27s_Acolyte.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg",
-    "alt_text": "Wukong Yellow 21.jpg",
-    "position_desc": 3,
-    "img_above_text": "### Tiger’s Acolyte Mini-Boss Fight and Guide\nA follower of the Tiger Guai, the strange man will call out for his missing son before violently attacking you. And just like his master, he’s incredibly ferocious, and it can be hard to anticipate his attacks, let alone whether he’ll attack with his very long sword or very long claws.",
-    "img_below_text": "The battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\n![Wukong Yellow 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"### Tiger’s Acolyte Mini-Boss Fight and Guide\nA follower of the Tiger Guai, the strange man will call out for his missing son before violently attacking you. And just like his master, he’s incredibly ferocious, and it can be hard to anticipate his attacks, let alone whether he’ll attack with his very long sword or very long claws.\"\n            - Following Text: \"The battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\n![Wukong Yellow 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in a mini-boss fight against Tiger's Acolyte. The acolyte, a follower of Tiger Guai, is shown in mid-attack, leaping forward with both sword and claw, emphasizing his ferocity and unpredictable nature. The text overlay in the image reads \"Where's my son... I can't find him...\", highlighting the acolyte's distress and adding a narrative layer to the encounter. The preceding and following text provide a guide on how to handle his attacks, suggesting strategies for dodging and countering his moves."
+    "chunk_id": 787091185864,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Woods_Ember_Walkthrough_%2887%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(87\\).png",
+    "position_desc": 44,
+    "img_above_text": "![Woods Ember Walkthrough \\(85\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Woods_Ember_Walkthrough_%2885%29.png)\nOn the left, you'll see a **Purple Lingzhi** and a path to take, but there's also one straight up ahead at the edge of the cliff.",
+    "img_below_text": "Go straight first, then look for the archer on the lower level to the right. Once you've eradicated the archer, follow the path all the way to the right to find three Revenant Charbones guarding a **Luoija Fragrant Vine**.\n![Woods Ember Walkthrough \\(89\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2889%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(85\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Woods_Ember_Walkthrough_%2885%29.png)\nOn the left, you'll see a **Purple Lingzhi** and a path to take, but there's also one straight up ahead at the edge of the cliff.\"\n        - Following Text: \"Go straight first, then look for the archer on the lower level to the right. Once you've eradicated the archer, follow the path all the way to the right to find three Revenant Charbones guarding a **Luoija Fragrant Vine**.\n![Woods Ember Walkthrough \\(89\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Woods_Ember_Walkthrough_%2889%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a cliffside path in a dark, rocky environment with sparse, barren trees. A red arrow highlights the direction forward, guiding players to proceed along the elevated terrain. This scene is part of a video game walkthrough for navigating the area, where players encounter items like the **Purple Lingzhi** and enemies such as an archer and Revenant Charbones. The image serves as a visual aid to clarify the path and progression in the game."
 }

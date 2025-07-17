@@ -1,28 +1,11 @@
 {
-    "chunk_id": 574773738284,
-    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg",
-    "alt_text": "Wukong Brook 5.jpg",
-    "position_desc": 45,
-    "img_above_text": "![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)\nTake this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.",
-    "img_below_text": "Be sure to cross the bridge to find the Brook of Bliss Shrine, and you can circle back to the top of the brook to find another Thunder Rhino Master patrolling near a Cyan Bat.\nBefore you check up the hill from the Shrine, head back across the bridge and follow the path down to the brook itself.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 45 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Brook_4.jpg)\nTake this path all the way down until you find an actual stone bridge, where a Thunder Rhino Master guards the way forward. Though he can cast a variety of lightning spells like the Rat Governors of Yellow Wind Ridge, they don't have a lot of health and aren't too much of a threat.\"\n            - Following Text: \"Be sure to cross the bridge to find the Brook of Bliss Shrine, and you can circle back to the top of the brook to find another Thunder Rhino Master patrolling near a Cyan Bat.\nBefore you check up the hill from the Shrine, head back across the bridge and follow the path down to the brook itself.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing the protagonist traversing a snowy landscape with a staff in hand. The setting appears to be a serene yet challenging environment, possibly leading to a significant location or encounter, such as the Brook of Bliss Shrine mentioned in the context. The preceding and following text suggests the image is part of a walkthrough, guiding players through a path that includes battling a Thunder Rhino Master and exploring key areas within the game."
+    "chunk_id": 85660838633,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Yellow_37.jpg",
+    "alt_text": "Wukong Yellow 37.jpg",
+    "position_desc": 40,
+    "img_above_text": "![Wukong Yellow 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Yellow_36.jpg)\nThere’s only a few places left to explore that comprise the Yellow Wind Formation, and all roads lead to the Windseal Gate. You found one route after defeating the Stone Vanguard that led down the sloping sand canyon to the gate itself, but there’s more doors we haven’t unlocked with the Sterness of Stone and Keeness of Tiger.",
+    "img_below_text": "Return to where you fought the King of Flowing Sand and his Second Prince son, and unlock the large stone door here. You’ll find stairs leading down here, with a spot to the left leading back to another door that’s actually a shortcut to the Valley of Despair’s cave where you fought the First Prince.\n![Wukong Yellow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Yellow_38.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Yellow_36.jpg)\nThere’s only a few places left to explore that comprise the Yellow Wind Formation, and all roads lead to the Windseal Gate. You found one route after defeating the Stone Vanguard that led down the sloping sand canyon to the gate itself, but there’s more doors we haven’t unlocked with the Sterness of Stone and Keeness of Tiger.\"\n        - Following Text: \"Return to where you fought the King of Flowing Sand and his Second Prince son, and unlock the large stone door here. You’ll find stairs leading down here, with a spot to the left leading back to another door that’s actually a shortcut to the Valley of Despair’s cave where you fought the First Prince.\n![Wukong Yellow 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Yellow_38.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* opening an intricately designed large stone door, revealing a bright, cavernous area beyond. This scene likely represents progress toward the Windseal Gate within the Yellow Wind Formation, as mentioned in the preceding text, or a transition to a new area connected to the ongoing exploration and unlocking of pathways."
 }

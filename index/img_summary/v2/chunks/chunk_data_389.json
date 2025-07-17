@@ -1,28 +1,11 @@
 {
-    "chunk_id": 521302803288,
-    "source_file": "Captain_Kalpa-Wave.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg",
-    "alt_text": "Wukong Longevity 19.jpg",
-    "position_desc": 1,
-    "img_above_text": "## Where to Find Captain Kalpa-Wave\nCaptain Kalpa-Wave is one of the four captains you can find in Chapter 3, and is one of two that are required to defeat to progress the story.",
-    "img_below_text": "To find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.\n![Wukong Longevity 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Longevity_20.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Captain_Kalpa-Wave.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Captain Kalpa-Wave\nCaptain Kalpa-Wave is one of the four captains you can find in Chapter 3, and is one of two that are required to defeat to progress the story.\"\n            - Following Text: \"To find him, you'll need to make your way through the Valley of Ecstasy after crossing the Bitter Lake, and head through the Path of Longevity toward the large pagoda tower rising above the New Thunderclap Temple in the distance.\n![Wukong Longevity 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Longevity_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Wukong_Longevity_19.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, mountainous path leading toward a distant pagoda-style temple, surrounded by rugged terrain and ancient trees. A character, likely the protagonist, is seen from behind, wielding a staff and wearing a straw cloak, suggesting they are traversing the harsh environment to reach the temple. This scene visually represents the journey described in the text, where the player must navigate through the Valley of Ecstasy and the Path of Longevity to approach the New Thunderclap Temple, a key location in the quest to find Captain Kalpa-Wave."
+    "chunk_id": 989889311140,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg",
+    "alt_text": "Wukong Pagoda 79.jpg",
+    "position_desc": 2,
+    "img_above_text": "Much like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.",
+    "img_below_text": "Captain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.\n![Wukong Pagoda 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Much like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.\"\n        - Following Text: \"Captain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.\n![Wukong Pagoda 83.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight against \"Captain Wise-Voice\" in *Black Myth: Wukong*. The dark environment showcases the boss's golden sphere emitting thin beams of light in multiple directions, as described in the following text. The beams appear to be part of an attack pattern, requiring the player to strafe and dodge. The player character is visible in the foreground, surrounded by glowing effects and light bursts, emphasizing the intensity of the encounter. The health bar for Captain Wise-Voice is displayed at the bottom, along with UI elements for player abilities and resources."
 }

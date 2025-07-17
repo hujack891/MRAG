@@ -1,28 +1,11 @@
 {
-    "chunk_id": 161869000850,
-    "source_file": "Macaque_Chief.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
-    "alt_text": "Wukong Thunderclap 88.jpg",
-    "position_desc": 12,
-    "img_above_text": "Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.",
-    "img_below_text": "Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.\"\n            - Following Text: \"Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle against the Macaque Chief, a formidable boss wielding an evil sword in a dark, red-hued environment. The scene highlights the chaotic nature of the fight, with large projectile slashes and glowing effects emphasizing the Chief's powerful attacks. The accompanying text suggests this encounter is challenging, requiring precise reactions to familiar attack patterns, such as sword stabs and spinning multi-hit swings. The quote at the bottom, \"All beings suffer as they heed not the precepts and indulge,\" adds a thematic layer to the fight, underscoring the moral or philosophical undertones of the confrontation."
+    "chunk_id": 104076228075,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Thunderclap_35.jpg",
+    "alt_text": "Wukong Thunderclap 35.jpg",
+    "position_desc": 34,
+    "img_above_text": "It's worth noting that this area only has two real Shrines, and the other is up near the boss room past two Dark-faced Overlords. Given there's more optional bosses and enemies to face, it's not a bad idea to go back and rest at the entrance before making a beeline through the side path to return to the main plaza.\nAt the top of the stairs where all the mages were positioned, there's actually not too much to find here. Several Monk Supporters patrol the building exterior, where you can also find a few Overseeing Monks training along the corners.",
+    "img_below_text": "The interior building hides three more Overseeing Monks and a patrolling Dual-Blade Monk, but nothing in the way of actual rewards.\nIf you want to advance to the main boss, the large stairway on the other side of the building will lead you to the Inner Courtyard, but there's another optional side path to explore first, on the opposite side as the other optional path we explored earlier.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"It's worth noting that this area only has two real Shrines, and the other is up near the boss room past two Dark-faced Overlords. Given there's more optional bosses and enemies to face, it's not a bad idea to go back and rest at the entrance before making a beeline through the side path to return to the main plaza.\nAt the top of the stairs where all the mages were positioned, there's actually not too much to find here. Several Monk Supporters patrol the building exterior, where you can also find a few Overseeing Monks training along the corners.\"\n        - Following Text: \"The interior building hides three more Overseeing Monks and a patrolling Dual-Blade Monk, but nothing in the way of actual rewards.\nIf you want to advance to the main boss, the large stairway on the other side of the building will lead you to the Inner Courtyard, but there's another optional side path to explore first, on the opposite side as the other optional path we explored earlier.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character inside a dimly lit temple-like structure adorned with large statues of monks or deities. The player is positioned near the entrance, holding a spear, with the doorway leading to an exterior area visible in the background. The context suggests this location is part of a video game walkthrough, where players encounter patrolling enemies like Monk Supporters and Overseeing Monks. This area serves as a transitional space leading to optional paths or the main boss area, with limited rewards or items to collect."
 }

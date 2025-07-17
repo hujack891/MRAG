@@ -1,28 +1,11 @@
 {
-    "chunk_id": 160989018648,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg",
-    "alt_text": "Wukong Fright 34.jpg",
-    "position_desc": 35,
-    "img_above_text": "Mother of Stones\nRest up, and then return to the Man-in-Stone. You may want to also clear out the Bladebones above him just so they don’t harass you as you try to turn in the Stone Essence.",
-    "img_below_text": "Once you hand it over, the Man-in-Stone will burst out of the ground and declare you gullible for just giving it to him. That’s not very nice, and it sounds like he deserves a beatdown.\n![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Mother of Stones\nRest up, and then return to the Man-in-Stone. You may want to also clear out the Bladebones above him just so they don’t harass you as you try to turn in the Stone Essence.\"\n            - Following Text: \"Once you hand it over, the Man-in-Stone will burst out of the ground and declare you gullible for just giving it to him. That’s not very nice, and it sounds like he deserves a beatdown.\n![Wukong Fright 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Fright_35.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**  \nThe image depicts the protagonist from *Black Myth: Wukong* standing in a dimly lit, rocky area with a glowing blue object resembling a crystalline or stone-like structure. The character is holding a staff, and the environment features carved statues in the background and a lit brazier. The text overlay suggests that the \"Man-in-Stone\" has deceived the protagonist, claiming the treasure and mocking their gullibility.\n\n2. **Purpose/Narrative Role:**  \nThe image illustrates the moment after the protagonist hands over the Stone Essence to the \"Man-in-Stone,\" who reveals his deceit and mocks the player. This sets the stage for a confrontation, implying that the protagonist must now face the consequences of their trust and prepare for a battle."
+    "chunk_id": 361414811471,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Furnace_Valley_Walkthrough_%28111%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(111\\).png",
+    "position_desc": 61,
+    "img_above_text": "![Chapter 5 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Chapter_5_Secret_Area_%285%29.png)\nAfter the fight, speak to the Pale-Axe Stalwart again and exhaust his dialogue. Then go along the tree trunk near him to collect the green Wisps that sit on it.",
+    "img_below_text": "Return to the main path and follow this up the mountain. You'll come to a set of stairs, with a Rhino Flame Master at the top of it.\n![Furnace Valley Walkthrough \\(113\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Furnace_Valley_Walkthrough_%28113%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Chapter 5 Secret Area \\(5\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Chapter_5_Secret_Area_%285%29.png)\nAfter the fight, speak to the Pale-Axe Stalwart again and exhaust his dialogue. Then go along the tree trunk near him to collect the green Wisps that sit on it.\"\n        - Following Text: \"Return to the main path and follow this up the mountain. You'll come to a set of stairs, with a Rhino Flame Master at the top of it.\n![Furnace Valley Walkthrough \\(113\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Furnace_Valley_Walkthrough_%28113%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, where the player character stands near a Pale-Axe Stalwart NPC after a fight. The red-circled green Wisps on a tree trunk in the background indicate a collectible item, as described in the preceding text. This marks a moment where the player is instructed to interact with the NPC and then proceed to gather the Wisps along the tree trunk."
 }

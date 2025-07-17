@@ -1,28 +1,11 @@
 {
-    "chunk_id": 299482070472,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
-    "alt_text": "Wukong Thunderclap 88.jpg",
-    "position_desc": 87,
-    "img_above_text": "Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.",
-    "img_below_text": "Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 87 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.\"\n            - Following Text: \"Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image:**\n   The image depicts an intense battle scene from a video game, featuring the Macaque Chief as the boss enemy. The environment is engulfed in a red hue, with the Macaque Chief performing a powerful attack. The player's health and mana bars are visible, indicating an ongoing fight. A quote at the bottom reads, \"All beings suffer as they heed not the precepts and indulge.\"\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves to illustrate the challenging encounter with the Macaque Chief in the game. It visually represents the high-stakes nature of the fight described in the surrounding text, emphasizing the boss's formidable attacks and the dramatic atmosphere of the battle. This visual aids players in understanding the intensity and difficulty of this specific part of the walkthrough."
+    "chunk_id": 763840656867,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Pagoda_122.jpg",
+    "alt_text": "Wukong Pagoda 122.jpg",
+    "position_desc": 117,
+    "img_above_text": "![Wukong Pagoda 121.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Pagoda_121.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.",
+    "img_below_text": "If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 121.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Pagoda_121.jpg)\nA longer deadly combo attack he can employ comes with three quick slashes ending in a jumping upward slash. After a brief pause in the air, he'll use his foot to send the blade slamming down vertically, and then yank it back up in an arc for a final two-hand diagonal slice attack. Your Rock Solid won't always stagger him mid-combo, so it's better to wait and parry the final slice so you can retaliate faster.\"\n        - Following Text: \"If he begins to hold the blade in both hands, prepare for an extended attack with three alternating slices ending in an upward swing with a long delay. When he finally brings the blade down, he'll do so in a spinning multi-hit slash, followed by a final slam to emit a projectile slash.\n![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense combat sequence from *Black Myth: Wukong*, showcasing the player character battling the \"Macaque Chief\" in a snowy environment. The chief is mid-attack, wielding a large blade with a visible energy arc, while the player character is knocked backward, holding a glowing staff. The preceding and following text describe the boss's complex attack patterns, emphasizing the need for strategic parrying and timing during the fight."
 }

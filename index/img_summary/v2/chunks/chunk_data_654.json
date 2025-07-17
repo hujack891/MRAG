@@ -1,28 +1,11 @@
 {
-    "chunk_id": 487235514913,
-    "source_file": "Chen_Loong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_Bitter_6.jpg",
-    "alt_text": "Wukong Bitter 6.jpg",
-    "position_desc": 8,
-    "img_above_text": "![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\nWhile Chen Loong is highly susceptible to being staggered, he has a few tricks to stop you from pressing the attack for too long. His tail can be pretty impressive, and will use it to spin around and attack with it for two rotations, and then leap into the air to perform a delayed third electric slash.",
-    "img_below_text": "He'll often vary this combo up making it hard to read, and either trick you into thinking he's preparing a cast before tail-whipping, or throwing more quick slashes in-between tail attacks -- or even just doing single hits.\n![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\nWhile Chen Loong is highly susceptible to being staggered, he has a few tricks to stop you from pressing the attack for too long. His tail can be pretty impressive, and will use it to spin around and attack with it for two rotations, and then leap into the air to perform a delayed third electric slash.\"\n            - Following Text: \"He'll often vary this combo up making it hard to read, and either trick you into thinking he's preparing a cast before tail-whipping, or throwing more quick slashes in-between tail attacks -- or even just doing single hits.\n![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_Bitter_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense combat scene from *Black Myth: Wukong*, featuring the protagonist battling Chen Loong, a dragon-like enemy in a snowy, forested environment. Chen Loong is shown mid-attack, utilizing his tail and electric abilities, which align with his described unpredictable and stagger-resistant fighting style. The player character is bracing against the assault, emphasizing the challenging nature of this encounter.\n\n2. **Purpose/Role in Narrative**:  \nThe image illustrates Chen Loong's dynamic combat mechanics, particularly his tail-based attacks and electric slashes, as described in the preceding and following text. It visually supports the narrative of his unpredictable and dangerous fighting style, reinforcing the need for strategic adaptation during the battle."
+    "chunk_id": 766913002119,
+    "source_file": "Commander_Beetle_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Commander_Beetle.jpg",
+    "alt_text": "Commander Beetle.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Commander Beetle Fight\n* Commander Beetle Spirit",
+    "img_below_text": "## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Commander Beetle Fight\n* Commander Beetle Spirit\"\n        - Following Text: \"## Commander Beetle Location\nThe Commander Beetle can be found teaching a class just outside the Temple of Yellow Flowers in the Webbed Hollow. To find him, defeat Zhu Bajie and the Violet Spider and make your way out of the Webbed Hollow cavern. Pass through the Forest of Felicity and look to the right on the path to the Temple of the Yellow Flowers to find the Commander Beetle teaching his class.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from a video game where the player character is engaged in combat with \"Commander Beetle,\" as indicated by the health bar at the bottom. The scene takes place in a forested area near a structure, aligning with the guide's description of Commander Beetle's location outside the Temple of Yellow Flowers. The image serves to illustrate the battle with this enemy, which is part of the walkthrough's progression."
 }

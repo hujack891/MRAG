@@ -1,28 +1,11 @@
 {
-    "chunk_id": 690619999085,
-    "source_file": "Laurel_Buds.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Laurel_Buds_2.jpg",
-    "alt_text": "Laurel Buds 2.jpg",
-    "position_desc": 1,
-    "img_above_text": "Laurel Buds are one of the Soaks you can get for your Gourds in Black Myth: Wukong. Found a little deeper into the game, it has a rather powerful buff, which can save your life in a fight or against a tough enemy.\nWith the Laurel Buds equipped, using the Gourd will moderately increase the damage reduction for a short duration of time. This duration is rather short, but it can be the difference between life and death in a pinch or one of the tougher boss fights in the game.",
-    "img_below_text": "Soaks can't be upgraded in the game, unlike the Drinks and the Gourd itself, so you are stuck with the length of this damage reduction. It can't be increased, so, if you want to switch to a different Soak, be sure to head back to the Shen Monkey Vendor.\n## Black Myth: Wukong Laurel Buds Location",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Laurel_Buds.md'.\n\n            Context:\n            - Preceding Text: \"Laurel Buds are one of the Soaks you can get for your Gourds in Black Myth: Wukong. Found a little deeper into the game, it has a rather powerful buff, which can save your life in a fight or against a tough enemy.\nWith the Laurel Buds equipped, using the Gourd will moderately increase the damage reduction for a short duration of time. This duration is rather short, but it can be the difference between life and death in a pinch or one of the tougher boss fights in the game.\"\n            - Following Text: \"Soaks can't be upgraded in the game, unlike the Drinks and the Gourd itself, so you are stuck with the length of this damage reduction. It can't be increased, so, if you want to switch to a different Soak, be sure to head back to the Shen Monkey Vendor.\n## Black Myth: Wukong Laurel Buds Location\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Laurel_Buds_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" highlighting the Laurel Buds, a rare soak item. Laurel Buds provide a temporary damage reduction when used with the Gourd, offering a strategic advantage in challenging battles. The item is part of the \"Drinks and Soaks\" category, and its effects cannot be upgraded. The image serves to illustrate the in-game mechanics and the role of Laurel Buds in enhancing player survivability during combat."
+    "chunk_id": 531777130612,
+    "source_file": "Mother_of_Flamlings.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Field_Fire_Walkthrough_%2835%29.png",
+    "alt_text": "Field Fire Walkthrough \\(35\\).png",
+    "position_desc": 4,
+    "img_above_text": "### Mother of Flamlings Boss Fight and Guide\nThe ground will rumble as the Mother of Flamlings appears, and fireballs will be thrown out as soon as she bursts through the ground. Stand back after delivering the Flame Ores to avoid this attack.",
+    "img_below_text": "These will land on the ground and turn into glowing patches. Unfortunately, these will become Flamlings, so be mindful of these as you run around the arena.\n![Field Fire Walkthrough \\(34\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Field_Fire_Walkthrough_%2834%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"### Mother of Flamlings Boss Fight and Guide\nThe ground will rumble as the Mother of Flamlings appears, and fireballs will be thrown out as soon as she bursts through the ground. Stand back after delivering the Flame Ores to avoid this attack.\"\n        - Following Text: \"These will land on the ground and turn into glowing patches. Unfortunately, these will become Flamlings, so be mindful of these as you run around the arena.\n![Field Fire Walkthrough \\(34\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Field_Fire_Walkthrough_%2834%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark, rocky arena with glowing fiery patches scattered across the ground, likely resulting from fireballs thrown by the Mother of Flamlings during her boss fight. A lone figure stands amidst the fiery terrain, emphasizing the hostile environment. This scene visually represents the danger posed by the glowing patches, which are described in the text as transforming into Flamlings, adding to the challenge of navigating the arena."
 }

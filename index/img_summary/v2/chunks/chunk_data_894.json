@@ -1,28 +1,11 @@
 {
-    "chunk_id": 308861175495,
-    "source_file": "Drunken_Boar_Questline.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg",
-    "alt_text": "Wukong Yellow 33.jpg",
-    "position_desc": 6,
-    "img_above_text": "On the left side when looking at the large building, defeat a Blazebone monster, and then look to the right for a **small alcove** , where you can spot a **glowing pot**. Break the pot, and you’ll find the **Sobering Stone**.\n## At the Crouching Tiger Temple",
-    "img_below_text": "When you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off **in search of a meaty meal**. Speak to him again and he’ll mention hearing about rat carcasses located at the **Crouching Tiger Temple**. He doesn’t actually want you to get some for him, and will set off himself.\n![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Drunken_Boar_Questline.md'.\n\n            Context:\n            - Preceding Text: \"On the left side when looking at the large building, defeat a Blazebone monster, and then look to the right for a **small alcove** , where you can spot a **glowing pot**. Break the pot, and you’ll find the **Sobering Stone**.\n## At the Crouching Tiger Temple\"\n            - Following Text: \"When you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off **in search of a meaty meal**. Speak to him again and he’ll mention hearing about rat carcasses located at the **Crouching Tiger Temple**. He doesn’t actually want you to get some for him, and will set off himself.\n![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the Drunken Boar character interacting with the protagonist in a rocky, outdoor setting. The Drunken Boar appears to be discussing the Crouching Tiger Temple, hinting at the presence of meat there. A small altar-like setup with a glowing pot and candle is visible nearby, possibly tying into the questline involving the Sobering Stone and the Boar's search for food.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image visually represents a key moment in the questline where the Drunken Boar expresses his intention to visit the Crouching Tiger Temple in search of meat. It serves to transition the narrative from the Sobering Stone discovery to the Boar's next objective, reinforcing the quest progression and the character's humorous obsession with food."
+    "chunk_id": 984909274965,
+    "source_file": "Essential_Tips_and_Tricks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Tips_and_Tricks_.png",
+    "alt_text": "Tips and Tricks .png",
+    "position_desc": 1,
+    "img_above_text": "* Exploration Tips**\n## General Tips",
+    "img_below_text": "* **Harvest everything you see.** You'll find plants to harvest early in your adventure, but they won't have much use until you reach Chapter 2 and find someone to teach you how to craft your own medicines. Don't wait until then to begin harvesting though—it's still worth grabbing any you find so you can craft as much as you need when the option is available. The more supplies you have in stock, the more advantages you can bring into a fight, including buffs to attack power, damage negation, and resistance!\n* **Experiment with different playstyles and stances.** Since you can reset your skills at any point when resting at a Shrine, try experimenting with different playstyles or favoring specific stances if you run into a roadblock. There's skills to improve just about anything, and there's no wrong answer to investing in a particular tree.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Exploration Tips**\n## General Tips\"\n        - Following Text: \"* **Harvest everything you see.** You'll find plants to harvest early in your adventure, but they won't have much use until you reach Chapter 2 and find someone to teach you how to craft your own medicines. Don't wait until then to begin harvesting though—it's still worth grabbing any you find so you can craft as much as you need when the option is available. The more supplies you have in stock, the more advantages you can bring into a fight, including buffs to attack power, damage negation, and resistance!\n* **Experiment with different playstyles and stances.** Since you can reset your skills at any point when resting at a Shrine, try experimenting with different playstyles or favoring specific stances if you run into a roadblock. There's skills to improve just about anything, and there's no wrong answer to investing in a particular tree.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a close-up of harvestable plants or fungi growing on a tree trunk in a rocky environment, likely from a video game. Based on the surrounding text, the image serves as an example or visual reference for the tip encouraging players to \"harvest everything you see\" during exploration. These resources can later be used for crafting medicines and gaining combat advantages once crafting becomes available in Chapter 2."
 }

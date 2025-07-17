@@ -1,28 +1,11 @@
 {
-    "chunk_id": 868012304279,
-    "source_file": "Medicine_Ingredients.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg",
-    "alt_text": "Nice-Capped Lingzhi .jpg",
-    "position_desc": 2,
-    "img_above_text": "---|---|---|---|---\n![Purple Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg)| Purple Lingzhi | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "img_below_text": "![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---\n![Purple Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg)| Purple Lingzhi | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n            - Following Text: \"![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\n![Jade Lotus .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Jade_Lotus_.jpg)| Jade Lotus | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the \"Purple Lingzhi,\" a rare and vibrant mushroom-like ingredient featured in the game *Black Myth: Wukong*. It is categorized as an uncommon ingredient and can be found in the Black Wind Mountain area or purchased from the Shrine store after rescuing the Shen Monkey Vendor. The image serves to visually represent this collectible item, which is part of a broader list of medicinal or crafting ingredients in the game."
+    "chunk_id": 333695631891,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_Thunderclap_101.jpg",
+    "alt_text": "Wukong Thunderclap 101.jpg",
+    "position_desc": 100,
+    "img_above_text": "Keep moving down until you reach the bottom shelf, and you'll find another pathway back up on the opposite side of Yellowbrow's little diorama. Once you clear a path to a large open arena, Yellowbrow himself will shrink down to meet you in combat for a final bout.\n## Yaoguai King Boss Fight - Yellowbrow (Round Two)",
+    "img_below_text": "When this final match begins, you'll still be stuck in the Macaque Chief form, but only for a short duration (and won't return to this form if you die and respawn) so you might as well unleash as many attacks as possible while you can.\nYellowbrow has a lot of his same moves from your last fight, but several new ones that are even more devious and annoying to deal with.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Keep moving down until you reach the bottom shelf, and you'll find another pathway back up on the opposite side of Yellowbrow's little diorama. Once you clear a path to a large open arena, Yellowbrow himself will shrink down to meet you in combat for a final bout.\n## Yaoguai King Boss Fight - Yellowbrow (Round Two)\"\n        - Following Text: \"When this final match begins, you'll still be stuck in the Macaque Chief form, but only for a short duration (and won't return to this form if you die and respawn) so you might as well unleash as many attacks as possible while you can.\nYellowbrow has a lot of his same moves from your last fight, but several new ones that are even more devious and annoying to deal with.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts the second phase of the boss fight against Yellowbrow, referred to as \"Yaoguai King Boss Fight - Yellowbrow (Round Two).\" The player character, currently in combat, is shown wielding a glowing weapon while facing Yellowbrow in an arena setting. The preceding and following text explains that this encounter occurs after navigating through a diorama and reaching a large open arena. The player begins the fight in the Macaque Chief form temporarily, allowing for powerful attacks before reverting to their normal form upon respawning. Yellowbrow retains moves from the previous fight but introduces new, more challenging abilities."
 }

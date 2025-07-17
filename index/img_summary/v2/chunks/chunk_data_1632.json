@@ -1,28 +1,11 @@
 {
-    "chunk_id": 10142249724,
-    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Chapter_4_Secret_Area_%288%29.png",
-    "alt_text": "Chapter 4 Secret Area \\(8\\).png",
-    "position_desc": 4,
-    "img_above_text": "![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)\nThere is a torch here by a broken wooden path. It will seem like a dead end beyond this torch, and a large pit below, but you can drop down safely.",
-    "img_below_text": "Ignore the tree branch in front and turn to the right, dropping down from the edge of the wooden ledge. Turn left, and you'll start to see white sacs lining the path. Head toward these and follow the path around to the left. Be careful as you go through here, as the sacs will open and insects will appear.\n![Chapter 4 Secret Area \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%287%29.png)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'How_to_Unlock_the_Chapter_4_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"![Chapter 4 Secret Area \\(9\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Chapter_4_Secret_Area_%289%29.png)\nThere is a torch here by a broken wooden path. It will seem like a dead end beyond this torch, and a large pit below, but you can drop down safely.\"\n            - Following Text: \"Ignore the tree branch in front and turn to the right, dropping down from the edge of the wooden ledge. Turn left, and you'll start to see white sacs lining the path. Head toward these and follow the path around to the left. Be careful as you go through here, as the sacs will open and insects will appear.\n![Chapter 4 Secret Area \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Chapter_4_Secret_Area_%287%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Chapter_4_Secret_Area_%288%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark cave environment with stalagmites and stalactites, illuminated faintly by light sources in the distance. A red arrow points toward a glowing area further inside the cave, suggesting a path or point of interest. A character, likely the player, is visible in the foreground, standing near the edge of the scene.\n\n2. **Purpose and Narrative Role**:  \nThe image serves as a visual guide to indicate the next step in navigating the Chapter 4 secret area. The red arrow highlights the direction players should take after safely dropping down from the wooden ledge described in the preceding text. It aligns with the following text, which advises players to move toward the white sacs along the path, warning of potential insect enemies ahead. The image reinforces the exploration and progression cues in the walkthrough."
+    "chunk_id": 888560990460,
+    "source_file": "Lambrew.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Lambrew_1.jpg",
+    "alt_text": "Lambrew 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "Lambrew can be found in Chapter 2 - Yellow Wind Ridge. It is actually right next to where you spawn at the beginning of the chapter (or behind the Sandgate Village - Village Entrance Shrine if you have already reached it). From the spot where you start the chapter, look on your right to find a hill. Head up this hill to find the Lambrew sitting at the top.\nYou can then take the Lambrew to the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain by travelling via the Shrines. He will let you switch it into your Gourd from the Coconut Wine or any other drink you have.",
+    "img_below_text": "There aren't too many Drinks in the game compared to the Soaks, so be sure to keep your eye out for them. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Lambrew can be found in Chapter 2 - Yellow Wind Ridge. It is actually right next to where you spawn at the beginning of the chapter (or behind the Sandgate Village - Village Entrance Shrine if you have already reached it). From the spot where you start the chapter, look on your right to find a hill. Head up this hill to find the Lambrew sitting at the top.\nYou can then take the Lambrew to the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain by travelling via the Shrines. He will let you switch it into your Gourd from the Coconut Wine or any other drink you have.\"\n        - Following Text: \"There aren't too many Drinks in the game compared to the Soaks, so be sure to keep your eye out for them. For even more guides on these areas, check out our full Black Myth: Wukong walkthrough.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a rocky, mountainous area from *Black Myth: Wukong*, likely Yellow Wind Ridge in Chapter 2. The player character stands at the base of a hill, holding a staff, with visible pathways leading upward. This area is significant for locating the Lambrew item, which can be found at the top of the hill and later traded with the Shen Monkey Vendor in Bamboo Grove. The HUD elements suggest active gameplay, with health and abilities displayed."
 }

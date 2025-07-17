@@ -1,28 +1,11 @@
 {
-    "chunk_id": 407498358624,
-    "source_file": "Furnace_Valley_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Furnace_Valley_Walkthrough_%2826%29.png",
-    "alt_text": "Furnace Valley Walkthrough \\(26\\).png",
-    "position_desc": 10,
-    "img_above_text": "![Furnace Valley Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Furnace_Valley_Walkthrough_%2822%29.png)\nGo into the lava, where you'll see the wall is glowing. This will be the first stream of lava coming from the wall you will have been near when fighting the first Flamling. Just before it, you can find a Purple Lingzhi to harvest, which becomes another fungiman you need to defeat.",
-    "img_below_text": "Continue up the stream of lava to find another Flamling and a tree to harvest for a Fire Date. Now go right, where you should see a cart just to the left. There is a green Wisp to collect right by its arm, and a chest opposite it that won't necessarily be visible to you yet. But what will be, is the Tenner guarding it.\nApproach carefully and deal with the Tenner and the Flamlings that will appear as soon as you're close to the cart.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Furnace_Valley_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Furnace_Valley_Walkthrough_%2822%29.png)\nGo into the lava, where you'll see the wall is glowing. This will be the first stream of lava coming from the wall you will have been near when fighting the first Flamling. Just before it, you can find a Purple Lingzhi to harvest, which becomes another fungiman you need to defeat.\"\n            - Following Text: \"Continue up the stream of lava to find another Flamling and a tree to harvest for a Fire Date. Now go right, where you should see a cart just to the left. There is a green Wisp to collect right by its arm, and a chest opposite it that won't necessarily be visible to you yet. But what will be, is the Tenner guarding it.\nApproach carefully and deal with the Tenner and the Flamlings that will appear as soon as you're close to the cart.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Furnace_Valley_Walkthrough_%2826%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dimly lit, volcanic environment with glowing lava streams and a central focus on a large, fiery creature (likely a \"Tenner\") guarding a cart. The creature is surrounded by smaller enemies, creating a tense and dangerous atmosphere. The scene suggests an upcoming combat encounter in the game.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual representation of a key moment in the walkthrough, where players must carefully approach and defeat the Tenner and accompanying enemies near the cart. It highlights the hostile environment and the strategic challenge of navigating the area while collecting items like the green Wisp and opening the chest guarded by the Tenner."
+    "chunk_id": 556214530106,
+    "source_file": "Guangmou_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg",
+    "alt_text": "Guangmo.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Guangmou Fight\n* Guangmou Spirit",
+    "img_below_text": "## Guangmou Location\nFollow the path from the Snake Trail Keeper's Shrine and make your way down to the large, flat, open area filled with bamboo and skeleton enemies. At the edge of this area is a small gap in the rock wall that you can pass through. Guangmou will be waiting for you inside.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"* Guangmou Fight\n* Guangmou Spirit\"\n        - Following Text: \"## Guangmou Location\nFollow the path from the Snake Trail Keeper's Shrine and make your way down to the large, flat, open area filled with bamboo and skeleton enemies. At the edge of this area is a small gap in the rock wall that you can pass through. Guangmou will be waiting for you inside.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts Guangmou, a character encountered in a forested area within a video game. The preceding and following text suggest that Guangmou is part of a quest or event, likely involving combat (\"Guangmou Fight\") and a spiritual aspect (\"Guangmou Spirit\"). The player is guided to Guangmou's location near a bamboo-filled area with skeleton enemies, where Guangmou delivers a message to be passed to their master, indicating a narrative progression or task."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 248838134977,
-    "source_file": "Buddha%27s_Right_Hand.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_MiddleHollow_64.jpg",
-    "alt_text": "Wukong MiddleHollow 64.jpg",
-    "position_desc": 12,
-    "img_above_text": "![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)\nThe Buddha's Right Hand can also use its hand above to swing its body backward, at which point you'll need to be ready for it to rapidly swing forward and slide through the arena with its talons dragging along. Don't bother trying to deflect it, as you'll just be knocked backward without slowing its momentum.",
-    "img_below_text": "One of its more annoying new attacks is that it can also retch out a cloud of poison bugs that will fly around in front of its head and deal damage to anything nearby. You may just want to back off instead of pressing the attack during this move to avoid taking unnecessary damage.\n![Wukong MiddleHollow 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_MiddleHollow_65.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_MiddleHollow_61.jpg)\nThe Buddha's Right Hand can also use its hand above to swing its body backward, at which point you'll need to be ready for it to rapidly swing forward and slide through the arena with its talons dragging along. Don't bother trying to deflect it, as you'll just be knocked backward without slowing its momentum.\"\n            - Following Text: \"One of its more annoying new attacks is that it can also retch out a cloud of poison bugs that will fly around in front of its head and deal damage to anything nearby. You may just want to back off instead of pressing the attack during this move to avoid taking unnecessary damage.\n![Wukong MiddleHollow 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_MiddleHollow_65.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_MiddleHollow_64.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss fight in *Black Myth: Wukong* against \"Buddha's Right Hand,\" a large, menacing creature with glowing features and insect-like limbs. The player character is positioned in the foreground, preparing to engage while the boss emits a greenish cloud of poison, likely the \"poison bugs\" attack mentioned in the text.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents a critical moment in the battle against \"Buddha's Right Hand,\" showcasing its poisonous attack and the dark, confined arena. It highlights the need for strategic positioning and caution, as described in the surrounding text, emphasizing the creature's dangerous moves and the player's need to adapt."
+    "chunk_id": 227097196607,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Pagoda_38.jpg",
+    "alt_text": "Wukong Pagoda 38.jpg",
+    "position_desc": 8,
+    "img_above_text": "Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.",
+    "img_below_text": "Dodging them will be extremely difficult, so instead swap to your Pillar Stance and extend off the floor (preferably in range of the Captain) and start charging up as you evade the floor lasers. Once they perform a second sweep, launch your attack the captain.\n![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Because of the difficulty of this section (and that you may also be at half health from the chanting curse), we highly recommend using Cloud Step so at your decoy can draw fire for a large portion of this attack.\nAfter the four circles all emit their laser blasts, they'll float away from Captain Lotus-Vision to take up spots in each corner of the room. Each circle will emit a continuous laser that borders the room, and will slowly pan them around to cross over the floor and each other.\"\n        - Following Text: \"Dodging them will be extremely difficult, so instead swap to your Pillar Stance and extend off the floor (preferably in range of the Captain) and start charging up as you evade the floor lasers. Once they perform a second sweep, launch your attack the captain.\n![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss fight in *Black Myth: Wukong* against \"Captain Lotus-Vision.\" The boss is surrounded by a glowing, mystical barrier, with purple lasers crisscrossing the floor, creating a challenging environment for the player. The player character is positioned in the foreground, seemingly evading the lasers while preparing for an attack. The context suggests this is a critical moment where strategic use of abilities like Cloud Step and Pillar Stance is essential to avoid damage and counterattack effectively."
 }

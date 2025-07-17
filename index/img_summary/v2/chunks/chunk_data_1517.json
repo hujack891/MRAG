@@ -1,28 +1,11 @@
 {
-    "chunk_id": 318686073184,
-    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/How_To_Claim_Deluxe_Edition_Items_%283%29.png",
-    "alt_text": "How To Claim Deluxe Edition Items \\(3\\).png",
-    "position_desc": 6,
-    "img_above_text": "### Curio\n* Wind Chimes",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'How_to_Claim_Deluxe_Edition_Items.md'.\n\n            Context:\n            - Preceding Text: \"### Curio\n* Wind Chimes\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/How_To_Claim_Deluxe_Edition_Items_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image\n\nThe image depicts a close-up of a \"Wind Chimes\" curio item, as referenced in the preceding text. It is displayed in a game's equipment menu interface, suggesting its role as an interactive or collectible item within the game. The dark and atmospheric background emphasizes its aesthetic and cultural significance, possibly hinting at its use or symbolic value in the gameplay."
+    "chunk_id": 936310475223,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png",
+    "alt_text": "Secret Loong Bosses \\(22\\).png",
+    "position_desc": 13,
+    "img_above_text": "![Secret Loong Bosses \\(20\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png)\nYou'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.",
+    "img_below_text": "As you approach the statue, it will come to life and you'll be thrown into a fight against Cyan Loong. When you've beaten him, a Treasure Chest will appear in the nearby waterfall, which contains Breath of Fire Soak and Mountain-Shaking Core. You'll also unlock the crafting recipe for the mythical Golden Loong Staff.\nCyan Loong",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Secret Loong Bosses \\(20\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Secret_Loong_Bosses_%2820%29.png)\nYou'll need to wait until you can interact with the Shrine, but when you can, turn and face the water. As you walk toward it, you'll hear a voice again. Look toward the edge of the cliff and down to the left slightly, to see a Dragon Statue that sits by the water.\"\n        - Following Text: \"As you approach the statue, it will come to life and you'll be thrown into a fight against Cyan Loong. When you've beaten him, a Treasure Chest will appear in the nearby waterfall, which contains Breath of Fire Soak and Mountain-Shaking Core. You'll also unlock the crafting recipe for the mythical Golden Loong Staff.\nCyan Loong\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy cliffside overlooking a body of water, with a character approaching a Dragon Statue near the edge. This scene is part of a video game walkthrough for *Black Myth: Wukong*, where players are instructed to locate the statue after hearing a voice. Interacting with the statue triggers a boss fight against Cyan Loong, leading to rewards such as items and a crafting recipe for the Golden Loong Staff."
 }

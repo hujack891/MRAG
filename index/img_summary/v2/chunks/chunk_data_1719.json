@@ -1,28 +1,11 @@
 {
-    "chunk_id": 190866963479,
-    "source_file": "Jade_Lotus_Gourd.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Jade_Lotus_Gourd_2.jpg",
-    "alt_text": "Jade Lotus Gourd 2.jpg",
-    "position_desc": 1,
-    "img_above_text": "The Jade Lotus Gourd will likely be the first high-level Gourd you find in Black Myth: Wukong. It is of an Epic variety, and it comes with one of the more unique effects when compared with other Gourds.\nWith the Gourd equipped, each sip recovers a considerable amount of health for nearby duplicates if you are using spells like A Pluck of Many. This allows you to both heal yourself based on your Drink choice and your copies. On top of that, the Gourd has 6 uses by default before you have upgraded it at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain.",
-    "img_below_text": "## Black Myth: Wukong Jade Lotus Gourd Location\nThe Jade Lotus Gourd can be purchased from the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain after completing Chapter 2 - Yellow Wind Ridge. It costs 7,200 Will to buy it.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Jade_Lotus_Gourd.md'.\n\n            Context:\n            - Preceding Text: \"The Jade Lotus Gourd will likely be the first high-level Gourd you find in Black Myth: Wukong. It is of an Epic variety, and it comes with one of the more unique effects when compared with other Gourds.\nWith the Gourd equipped, each sip recovers a considerable amount of health for nearby duplicates if you are using spells like A Pluck of Many. This allows you to both heal yourself based on your Drink choice and your copies. On top of that, the Gourd has 6 uses by default before you have upgraded it at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain.\"\n            - Following Text: \"## Black Myth: Wukong Jade Lotus Gourd Location\nThe Jade Lotus Gourd can be purchased from the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain after completing Chapter 2 - Yellow Wind Ridge. It costs 7,200 Will to buy it.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Jade_Lotus_Gourd_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the **Jade Lotus Gourd**, an Epic-tier healing item in *Black Myth: Wukong*. It is displayed in the Equipment menu, highlighting its unique ability to recover health for nearby duplicates when used, making it particularly useful for players utilizing clone-based spells like *A Pluck of Many*. The Gourd comes with 6 default uses and can be upgraded. It also specifies its associated drink (*5-Year-Old Coconut Wine*) and soak (*Celestial Lotus Seeds*), which enhance its healing effects.\n\n2. **Inferred Purpose/Narrative Role**:  \nThe image serves to visually detail the Jade Lotus Gourd's stats, effects, and functionality, complementing the preceding and following text. It emphasizes the item's importance as a versatile healing tool and its availability for purchase from the Shen Monkey Vendor after completing Chapter 2."
+    "chunk_id": 300948597079,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
+    "alt_text": "Wukong Yellow 25.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.",
+    "img_below_text": "You will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.\"\n        - Following Text: \"You will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from the video game *Black Myth: Wukong*, where the player character is engaged in a battle against the \"Tiger's Acolyte.\" The player appears to be using an item, possibly the \"Old Rattle Drum\" mentioned in the preceding text, as part of the Mad Tiger quest. The environment is a desolate, shrine-like area, and the interface shows health bars, abilities, and combat-related icons. This encounter is a key step in progressing toward the Mad Tiger quest."
 }

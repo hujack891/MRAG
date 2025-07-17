@@ -1,28 +1,11 @@
 {
-    "chunk_id": 102185868708,
-    "source_file": "Shigandang.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Shigandang_5.jpg",
-    "alt_text": "Wukong Shigandang 5.jpg",
-    "position_desc": 14,
-    "img_above_text": "![Wukong Shigandang 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Shigandang_7.jpg)\nHowever, if he performs a larger leap into the air, he can summon several rock pillars in front of him when he slams his fists into the ground, making a direct retreat backward inadvisable! The good news is this move will often require him to pull his arms out of the ground after detonating the pillars, giving you plenty of time to hit him with big attacks.",
-    "img_below_text": "Be wary when trying to attack him from behind, as he’ll respond by doing a backward elbow drop into the ground, covering a wide area that will also cause spiky rocks to shoot up near the point of impact in a cone away from his body.\n![Wukong Shigandang 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Shigandang_11.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Shigandang_7.jpg)\nHowever, if he performs a larger leap into the air, he can summon several rock pillars in front of him when he slams his fists into the ground, making a direct retreat backward inadvisable! The good news is this move will often require him to pull his arms out of the ground after detonating the pillars, giving you plenty of time to hit him with big attacks.\"\n            - Following Text: \"Be wary when trying to attack him from behind, as he’ll respond by doing a backward elbow drop into the ground, covering a wide area that will also cause spiky rocks to shoot up near the point of impact in a cone away from his body.\n![Wukong Shigandang 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Shigandang_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_Shigandang_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**: The image depicts a scene from the game \"Black Myth: Wukong\" where the character Shigandang is engaged in combat. The character is seen wielding a fiery staff, surrounded by rocky terrain with large rock pillars and spiky rocks emerging from the ground.\n\n2. **Purpose, Content, or Narrative Role**: The image illustrates a moment during a battle where Shigandang has performed a powerful move, summoning rock pillars and spiky rocks from the ground. This visual serves to highlight the character's abilities and the environmental hazards that players must navigate during the fight. The preceding and following text provide context for the combat mechanics, emphasizing the need for strategic positioning and timing to avoid damage and exploit opportunities for counterattacks."
+    "chunk_id": 356595456842,
+    "source_file": "Turtle_Tear.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Bitter_33.jpg",
+    "alt_text": "Wukong Bitter 33.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Myth: Wukong Turtle Tear Location\nThe Turtle Tear can be found in the North Shore of the Bitter Lake area in The New West. From the Shrine, stick to the right side of the coast and continue all the way along until you reach the large skeleton at the back.",
+    "img_below_text": "Interact with this skeleton to spawn the Soak back on the shoreline by Turtle Island.\n![Wukong Bitter 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"## Black Myth: Wukong Turtle Tear Location\nThe Turtle Tear can be found in the North Shore of the Bitter Lake area in The New West. From the Shrine, stick to the right side of the coast and continue all the way along until you reach the large skeleton at the back.\"\n        - Following Text: \"Interact with this skeleton to spawn the Soak back on the shoreline by Turtle Island.\n![Wukong Bitter 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Bitter_44.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment in *Black Myth: Wukong*, featuring a large skeleton in the background, which serves as a key location for finding the Turtle Tear in the Bitter Lake area. The player character is shown near the skeleton, which is mentioned in the guide as an interactive point to progress the quest and spawn the Soak on Turtle Island."
 }

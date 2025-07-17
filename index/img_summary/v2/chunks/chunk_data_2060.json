@@ -1,28 +1,11 @@
 {
-    "chunk_id": 316283122763,
-    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Thunderclap_16.jpg",
-    "alt_text": "Wukong Thunderclap 16.jpg",
-    "position_desc": 16,
-    "img_above_text": "![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)\nThere's more Censor Holders praying in front of an altar that stands before a gate opening, but you can also continue to explore the far corner to find a Wolf Guardian by a tree, and a green Wisp to absorb at the top of a snow drift nearby.",
-    "img_below_text": "Finally, look to the right when approaching the gate to find a small side room with an alcove to the right where a **Treasure Chest** with materials has been stashed.\n![Wukong Thunderclap 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_17.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Thunderclap_15.jpg)\nThere's more Censor Holders praying in front of an altar that stands before a gate opening, but you can also continue to explore the far corner to find a Wolf Guardian by a tree, and a green Wisp to absorb at the top of a snow drift nearby.\"\n            - Following Text: \"Finally, look to the right when approaching the gate to find a small side room with an alcove to the right where a **Treasure Chest** with materials has been stashed.\n![Wukong Thunderclap 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Thunderclap_16.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character stands in a snowy courtyard near a traditional building. The focus is on a small side room with an alcove, highlighted by an arrow, indicating the presence of a hidden treasure chest containing materials. This image serves to guide players to explore this area for valuable resources as they approach a gate mentioned in the walkthrough."
+    "chunk_id": 736056686503,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_21.jpg",
+    "alt_text": "Wukong Pagoda 21.jpg",
+    "position_desc": 22,
+    "img_above_text": "![Wukong Pagoda 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg)\nBack at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.",
+    "img_below_text": "Continue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.\n![Wukong Pagoda 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Pagoda 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Wukong_Pagoda_20.jpg)\nBack at the top of the stairs to the second level, head along the outside path to the right this time. The first open cell as you head this direction will have a green Wisp to absorb to replenish some of your gourd's healing charges.\"\n        - Following Text: \"Continue past the next open area with a Frozen Corpse and Cyan Bat hiding nearby, and you'll pass another cell with a purple seal that holds a strong enemy with a Spirit inside. There's another Cyan Bat guarding this door, and an Abomination not far ahead waiting to lunge at you.\n![Wukong Pagoda 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Pagoda_22.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a player character in *Black Myth: Wukong* approaching a gated cell with a glowing purple seal, indicating a locked or mystical barrier. A Cyan Bat enemy is perched above the gate, suggesting an ambush. The surrounding area features dark, rocky terrain with intricate carvings, aligning with the guide's description of a dangerous path filled with enemies and obstacles."
 }

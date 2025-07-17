@@ -1,28 +1,11 @@
 {
-    "chunk_id": 370666799669,
-    "source_file": "Tiger%27s_Acolyte.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
-    "alt_text": "Wukong Yellow 25.jpg",
-    "position_desc": 7,
-    "img_above_text": "![Wukong Yellow 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg)\nIf you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.",
-    "img_below_text": "If possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.\n![Wukong Yellow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Yellow_27.jpg)",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg)\nIf you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\"\n            - Following Text: \"If possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.\n![Wukong Yellow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Yellow_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" featuring a character named Tiger's Acolyte engaged in a battle. The preceding text describes the acolyte's attack pattern, including a rapid combo of slashes followed by a claw stab, while the following text advises on defensive strategies, such as going Rock Solid during the jab to avoid subsequent leaping attacks. The image visually captures the intensity and dynamic nature of the fight, emphasizing the acolyte's aggressive maneuvers."
+    "chunk_id": 735501226365,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Woods_Ember_Walkthrough_%2892%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(92\\).png",
+    "position_desc": 48,
+    "img_above_text": "![Woods Ember Walkthrough \\(90\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Woods_Ember_Walkthrough_%2890%29.png)\nIn the distance, you'll see more Revenants and a Bull Guard by an altar, where there are green Wisps to collect. Clear the area and absorb the Wisps, then go back up to where you fought the Father of Stones.",
+    "img_below_text": "You'll see a door on the left, near hanging yellow fabric. Open this, and head down the stairs toward the statue. The health bar for the Gray-Bronze Cart will appear, but you don't need to worry about fighting it just yet.\n![Woods Ember Walkthrough \\(94\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Woods_Ember_Walkthrough_%2894%29.png)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(90\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Woods_Ember_Walkthrough_%2890%29.png)\nIn the distance, you'll see more Revenants and a Bull Guard by an altar, where there are green Wisps to collect. Clear the area and absorb the Wisps, then go back up to where you fought the Father of Stones.\"\n        - Following Text: \"You'll see a door on the left, near hanging yellow fabric. Open this, and head down the stairs toward the statue. The health bar for the Gray-Bronze Cart will appear, but you don't need to worry about fighting it just yet.\n![Woods Ember Walkthrough \\(94\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Woods_Ember_Walkthrough_%2894%29.png)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near a large door in a walled area, with an arrow pointing toward the door as the next objective. The surrounding environment is desolate, featuring barren trees, rocky terrain, and a stone pillar. This scene serves as a visual cue for progressing in the walkthrough, directing the player to open the door and descend the stairs toward the next encounter involving the Gray-Bronze Cart."
 }

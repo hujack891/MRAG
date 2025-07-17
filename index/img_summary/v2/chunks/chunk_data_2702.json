@@ -1,28 +1,11 @@
 {
-    "chunk_id": 899429907185,
-    "source_file": "Snowhill_Path_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg",
-    "alt_text": "Wukong Snowhill 48.jpg",
-    "position_desc": 47,
-    "img_above_text": "![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.",
-    "img_below_text": "When you finally deplete the bosses health, you'll send her into the icy depths below the lake.\nKang-Jin Loong",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\"\n            - Following Text: \"When you finally deplete the bosses health, you'll send her into the icy depths below the lake.\nKang-Jin Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image likely depicts a dramatic moment in the game \"Black Myth: Wukong,\" showing the aftermath of a battle where the protagonist has successfully defeated a dragon-like boss. The scene captures the dragon being sent into the icy depths of a lake, symbolizing the player's victory and the culmination of the fight."
+    "chunk_id": 57108247876,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Longevity_5.jpg",
+    "alt_text": "Wukong Longevity 5.jpg",
+    "position_desc": 104,
+    "img_above_text": "There's not too much else in the field around the high tower, but you can find a green Wisp to absorb both behind the tower, and along the nearby cliff wall below a large statue where a Crow Diviner enemy stands.\nHead back to the main road and defeat the various Frozen Corpses while you head toward a large arch where the Shrine is, plus a green Wisp to absorb.",
+    "img_below_text": "Guarding the Shrine is another Dual-Blade Monk, who thankfully won't respawn when killed, so feel free to go all out with your spells to overpower him after deflecting an attack to stagger him.\n![Wukong Longevity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Longevity_9.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"There's not too much else in the field around the high tower, but you can find a green Wisp to absorb both behind the tower, and along the nearby cliff wall below a large statue where a Crow Diviner enemy stands.\nHead back to the main road and defeat the various Frozen Corpses while you head toward a large arch where the Shrine is, plus a green Wisp to absorb.\"\n        - Following Text: \"Guarding the Shrine is another Dual-Blade Monk, who thankfully won't respawn when killed, so feel free to go all out with your spells to overpower him after deflecting an attack to stagger him.\n![Wukong Longevity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_Longevity_9.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing the player character engaging in combat near a snowy shrine area. A Frozen Corpse enemy stands in front of a wooden archway, while the player character wields a staff and prepares to attack. The interface displays abilities, health, and \"Will\" resources, indicating active gameplay. This area is described as being on the path to a shrine guarded by a Dual-Blade Monk, who is mentioned in the following text."
 }

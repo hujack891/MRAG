@@ -1,28 +1,11 @@
 {
-    "chunk_id": 379785551821,
-    "source_file": "Fright_Cliff_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Fright_6.jpg",
-    "alt_text": "Wukong Fright 6.jpg",
-    "position_desc": 7,
-    "img_above_text": "## Squall Hideout\n### The First Buddha’s Eyeball",
-    "img_below_text": "![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Squall Hideout\n### The First Buddha’s Eyeball\"\n            - Following Text: \"![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Fright_6.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary**: The image depicts the protagonist of *Black Myth: Wukong* standing in a grassy, desolate area near a large, partially buried statue head with glowing yellow eyes. The \"Examine\" prompt suggests this is an interactive object, likely tied to the narrative or gameplay progression. The scene is part of the \"Squall Hideout\" area, near the section titled \"The First Buddha’s Eyeball,\" and precedes a choice between two paths: a darkened area or a brighter cliffside route.\n\n2. **Purpose/Narrative Role**: The image highlights a key moment of exploration and interaction, emphasizing the mysterious and atmospheric setting. The glowing statue head likely serves as a significant clue or artifact related to the \"First Buddha’s Eyeball\" narrative, encouraging players to investigate further."
+    "chunk_id": 155336289461,
+    "source_file": "Furnace_Valley_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%2867%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(67\\).png",
+    "position_desc": 33,
+    "img_above_text": "Open the giant door at the top of the stairs. Go straight ahead and activate the Rakshasa Palace Keeper's Shrine.\n## Rakshasa Palace",
+    "img_below_text": "Just beyond the shrine, there's a small area for you to explore. As you step toward the Keeper's Shrine, you'll likely see the golden box on the log just behind it. Go here to pick up a Celestial Taiyi Pill.\nFlaming Mountains Celestial Taiyi Pill",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"Open the giant door at the top of the stairs. Go straight ahead and activate the Rakshasa Palace Keeper's Shrine.\n## Rakshasa Palace\"\n        - Following Text: \"Just beyond the shrine, there's a small area for you to explore. As you step toward the Keeper's Shrine, you'll likely see the golden box on the log just behind it. Go here to pick up a Celestial Taiyi Pill.\nFlaming Mountains Celestial Taiyi Pill\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a player character standing near the Rakshasa Palace Keeper's Shrine, a key location in the game. The shrine, illuminated with flames, is situated to the right, while the entrance to the palace looms in the background. Two red-circled areas highlight points of interest, likely indicating collectible items or interactive objects. This scene aligns with the walkthrough's guidance to activate the shrine and explore the area for items such as the Celestial Taiyi Pill."
 }

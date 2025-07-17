@@ -1,28 +1,11 @@
 {
-    "chunk_id": 725529449417,
-    "source_file": "Charface_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Charface_Spirit.png",
-    "alt_text": "Charface Spirit.png",
-    "position_desc": 3,
-    "img_above_text": "Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit",
-    "img_below_text": "* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Charface_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit\"\n            - Following Text: \"* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Charface_Spirit.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Charface\" spirit in a game’s equipment menu. It is a rare spirit with a moderate Qi cost and the ability \"Magma Forged,\" which allows the player to take the form of Charface and unleash a powerful magma attack that damages nearby enemies. The equipped effect moderately increases charging speed. The interface also displays player stats, other spirits, and an option to equip or view a demo of the ability.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a detailed overview of the \"Charface\" spirit, highlighting its abilities, effects, and gameplay utility. It complements the preceding text, which describes Charface as an enemy, and the following text, which elaborates on the spirit's equipped effect, providing players with strategic insight into its use."
+    "chunk_id": 368699896025,
+    "source_file": "Commander_Beetle.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_19.jpg",
+    "alt_text": "Wukong YellowFlower 19.jpg",
+    "position_desc": 2,
+    "img_above_text": "This can get tricky, as the Commander Beetle won't just wait around patiently while you defeat his students. He can employ huge strikes that cleave the very ground in a line where he strikes, and if you aren't paying attention, you can usually get hit by the tremors before you know what's going on.\nTry to keep in view as much as possible while defeating the Daoists so you can prepare to dodge away from his moves.",
+    "img_below_text": "Once it's down to a 1v1 fight, you'll find things a bit more approachable, though you should still be on guard. For all his talk of wanting to die, he's a very competent swordfighter, and uses his blades in a few distinct ways.\n![Wukong YellowFlower 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"This can get tricky, as the Commander Beetle won't just wait around patiently while you defeat his students. He can employ huge strikes that cleave the very ground in a line where he strikes, and if you aren't paying attention, you can usually get hit by the tremors before you know what's going on.\nTry to keep in view as much as possible while defeating the Daoists so you can prepare to dodge away from his moves.\"\n        - Following Text: \"Once it's down to a 1v1 fight, you'll find things a bit more approachable, though you should still be on guard. For all his talk of wanting to die, he's a very competent swordfighter, and uses his blades in a few distinct ways.\n![Wukong YellowFlower 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the player character engaged in combat with the \"Commander Beetle\" boss. The scene takes place in a forested area with rocky terrain, emphasizing the dynamic nature of the fight. The Commander Beetle is mid-attack, leaping toward the player, while the player's health and abilities are visible in the HUD. This visual aligns with the preceding text, which describes the challenge of managing the Commander Beetle's powerful strikes while defeating his allies."
 }

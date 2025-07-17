@@ -1,28 +1,11 @@
 {
-    "chunk_id": 906779027585,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg",
-    "alt_text": "Wukong Pagoda 99.jpg",
-    "position_desc": 95,
-    "img_above_text": "![Wukong Pagoda 98.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg)\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.",
-    "img_below_text": "After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 95 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 98.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Pagoda_98.jpg)\nHe can also lure you in and open his robe, revealing even more tentacles along his chest to strike you with, so attack cautiously, and don't be afraid to go all in with your spells and Spirit Attacks to keep him staggered.\"\n            - Following Text: \"After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point.\nThe Bottom, Pagoda Realm Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character approaches a Meditation Spot marked by a small tree at the base of frozen falls. This location provides an opportunity to earn a Spark Skill Point after defeating a challenging enemy. The setting is a snowy, icy landscape, indicating a moment of respite and reward following a battle."
+    "chunk_id": 165175617384,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg",
+    "alt_text": "Wukong Snowhill 25.jpg",
+    "position_desc": 24,
+    "img_above_text": "These formidable foes are pretty beefy, and use their wicked weapons to throw at you like boomerangs from a distance. They can also string long combo attacks together, requiring you to interrupt one with a Rock Solid deflection or wait until their final leaping slash or delayed uppercut to retaliate.\nOnce the Patroller is down, you can find a green Wisp to absorb at the foot of the building to replenish your gourd, but there's not much else here.",
+    "img_below_text": "Instead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.\n![Wukong Snowhill 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"These formidable foes are pretty beefy, and use their wicked weapons to throw at you like boomerangs from a distance. They can also string long combo attacks together, requiring you to interrupt one with a Rock Solid deflection or wait until their final leaping slash or delayed uppercut to retaliate.\nOnce the Patroller is down, you can find a green Wisp to absorb at the foot of the building to replenish your gourd, but there's not much else here.\"\n        - Following Text: \"Instead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.\n![Wukong Snowhill 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy temple courtyard in *Black Myth: Wukong*, where the player character is preparing to confront enemies. A Frozen Corpse is emerging from the left, while other foes, including a Patroller, are visible ahead. The setting aligns with the walkthrough's guidance about navigating the area, dealing with ambushes, and progressing toward the temple stairs."
 }

@@ -1,28 +1,11 @@
 {
-    "chunk_id": 711847513433,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
-    "alt_text": "Secrets Black Myth Wukong \\(3\\).png",
-    "position_desc": 13,
-    "img_above_text": "Just like The Scorpionlord, you won't be able to fight Daoist Mi if you head straight for The Duskveil. We'd recommend tackling him second, as you make your way up to Cloudnest Peak.\n## The Duskveil",
-    "img_below_text": "Head to Cloudnest Peak for The Duskveil. This is the final boss of the secret area, so killing it will trigger a cutscene and transport you out of the area. You'll also receive the Weaver's Needle Vessel from completing this fight.\nThe Duskveil",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Just like The Scorpionlord, you won't be able to fight Daoist Mi if you head straight for The Duskveil. We'd recommend tackling him second, as you make your way up to Cloudnest Peak.\n## The Duskveil\"\n            - Following Text: \"Head to Cloudnest Peak for The Duskveil. This is the final boss of the secret area, so killing it will trigger a cutscene and transport you out of the area. You'll also receive the Weaver's Needle Vessel from completing this fight.\nThe Duskveil\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts \"The Duskveil,\" a formidable and grotesque boss character from the game \"Black Myth: Wukong.\" This creature appears to be a significant challenge, as it is the final boss of a secret area. Defeating The Duskveil will trigger a cutscene, transport the player out of the area, and reward them with the Weaver's Needle Vessel. The context suggests that players should face this boss after progressing through other challenges, such as defeating Daoist Mi and making their way to Cloudnest Peak."
+    "chunk_id": 927310703631,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg",
+    "alt_text": "Wukong Yellow 24.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Yellow 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Yellow_23.jpg)\nWhile he has a varied assortment of combo attacks, some use only the sword and some only his claw. His most used claw attack will come when he holds it behind him and it begins to shine with a gold gleam. He’ll rush forward with a swipe, and then follow it shortly with a leg stomp, and then roll forward to end with a quick forward slash attack.",
+    "img_below_text": "If you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\n![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Wukong Yellow 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Yellow_23.jpg)\nWhile he has a varied assortment of combo attacks, some use only the sword and some only his claw. His most used claw attack will come when he holds it behind him and it begins to shine with a gold gleam. He’ll rush forward with a swipe, and then follow it shortly with a leg stomp, and then roll forward to end with a quick forward slash attack.\"\n        - Following Text: \"If you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\n![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat encounter in *Black Myth: Wukong*, showcasing the player character facing an enemy named \"Tiger's Acolyte.\" The enemy is positioned aggressively, holding a glowing claw behind them, signaling an imminent attack. This visual aligns with the preceding and following text, which describe the enemy's golden claw attacks and rapid combos during battle. The environment features a stone pathway with rugged terrain, emphasizing the game's atmospheric setting."
 }

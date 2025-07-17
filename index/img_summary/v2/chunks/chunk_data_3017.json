@@ -1,28 +1,11 @@
 {
-    "chunk_id": 17211782405,
-    "source_file": "Tiger%27s_Acolyte_Spirit.md",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Tigers_Acolyte_Bridge.jpg",
-    "alt_text": "Tigers Acolyte Bridge.jpg",
-    "position_desc": 2,
-    "img_above_text": "## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.",
-    "img_below_text": "## Tiger's Acolyte Fight\nThe Tiger's Acolyte is a significantly powerful foe in his own right, and the battle is even further complicated by the fact that it takes place on a bridge. You can easily fall off the bridge during the fight, causing you to die immediately. That makes it much more tricky than a battle on solid ground.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Tiger%27s_Acolyte_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.\"\n            - Following Text: \"## Tiger's Acolyte Fight\nThe Tiger's Acolyte is a significantly powerful foe in his own right, and the battle is even further complicated by the fact that it takes place on a bridge. You can easily fall off the bridge during the fight, causing you to die immediately. That makes it much more tricky than a battle on solid ground.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Tigers_Acolyte_Bridge.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game where the player character is navigating a rugged terrain towards a bridge, which is the location of an upcoming battle with the Tiger's Acolyte. The setting appears to be a desolate area near the Crouching Tiger Temple, emphasizing the journey and challenges faced before encountering a formidable foe. The image serves to illustrate the environment and path leading to the Tiger's Acolyte, setting the stage for the impending fight described in the context."
+    "chunk_id": 321027572594,
+    "source_file": "Woods_of_Ember_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2899%29.png",
+    "alt_text": "Woods Ember Walkthrough \\(99\\).png",
+    "position_desc": 54,
+    "img_above_text": "![Woods Ember Walkthrough \\(98\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2898%29.png)\nThe path splits here, and you'll probably notice the green Wisp on the right first. On the left, you'll be able to see an enemy with a blue Spirit. You'll want to head for the green Wisp first. But before you go collect it, be prepared that there's a lot of the Revenant Charbones in this area and they'll all charge at you.",
+    "img_below_text": "Collect the Wisp, then grab the Purple Lingzhi just beyond it that will turn into another enemy. Once you've got the Purple and Nine-Capped Lingzhi, turn right and collect another couple of green Wisps that sit at a dead end.\nTurn around and go straight ahead to where the enemy holds the spirit. Defeat this enemy to get Blood of the Iron Bull and collect the Charface Spirit.",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        \n        Context:\n        - Preceding Text: \"![Woods Ember Walkthrough \\(98\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Woods_Ember_Walkthrough_%2898%29.png)\nThe path splits here, and you'll probably notice the green Wisp on the right first. On the left, you'll be able to see an enemy with a blue Spirit. You'll want to head for the green Wisp first. But before you go collect it, be prepared that there's a lot of the Revenant Charbones in this area and they'll all charge at you.\"\n        - Following Text: \"Collect the Wisp, then grab the Purple Lingzhi just beyond it that will turn into another enemy. Once you've got the Purple and Nine-Capped Lingzhi, turn right and collect another couple of green Wisps that sit at a dead end.\nTurn around and go straight ahead to where the enemy holds the spirit. Defeat this enemy to get Blood of the Iron Bull and collect the Charface Spirit.\"\n\n        Your task:\n        1. Generate a **short, clear, and informative English summary** of the image.\n        2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n        3. Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from the video game *Black Myth: Wukong*, showing the player character standing in a dark, rocky area with intricate carvings on stone pillars. The player's focus is directed toward a glowing green Wisp in the distance, highlighted by a red targeting reticle. This area is part of a branching path where the guide advises collecting the green Wisp first, while being cautious of Revenant Charbones that may attack. The setting emphasizes exploration and preparation for combat."
 }
