@@ -1,0 +1,28 @@
+{
+    "chunk_id": 781793317764,
+    "source_file": "Guangzhi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Wolves_37.jpg",
+    "alt_text": "Wukong Wolves 37.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Wolves 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Wolves_38.jpg)\nAt range, he can still be a major problem as you learn his moves, as he can strike from a distance with very little warning. If you see him somersault backward and out of range of your strikes, don’t blindly rush in. He’ll pause for a moment, and then toss his twinblade at you like a boomerang that requires dodging as it spins toward you, and back to his hand.",
+    "img_below_text": "He can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.\n![Wukong Wolves 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Wolves_39.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Guangzhi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Wolves_38.jpg)\nAt range, he can still be a major problem as you learn his moves, as he can strike from a distance with very little warning. If you see him somersault backward and out of range of your strikes, don’t blindly rush in. He’ll pause for a moment, and then toss his twinblade at you like a boomerang that requires dodging as it spins toward you, and back to his hand.\"\n            - Following Text: \"He can also prepare a flourish before holding his weapon straight up at his side while in a small crouch. If you notice this new stance, be ready to dodge the instant he moves, as he’ll dash forward at an alarming speed, and then dash back to his original spot to try and catch you off-guard.\n![Wukong Wolves 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_Wolves_39.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Wolves_37.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a combat encounter in *Black Myth: Wukong*, featuring the boss \"Guangzhi.\" The boss is shown wielding a flaming twinblade, preparing for an attack in a crouched stance near a shrine-like structure in a forested area. The player character is seen mid-dodge, emphasizing the need for precise timing to evade Guangzhi's swift and dangerous moves, such as his boomerang-like twinblade throw or rapid dashing strikes described in the surrounding text. The image highlights the intensity and tactical nature of the fight."
+}

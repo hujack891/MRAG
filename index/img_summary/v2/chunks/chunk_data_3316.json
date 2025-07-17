@@ -1,0 +1,28 @@
+{
+    "chunk_id": 554396835171,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg",
+    "alt_text": "Willow Wood Staff .jpg",
+    "position_desc": 1,
+    "img_above_text": "Weapon | Damage | Critical Hit Chance/Defense | Unique Effect | Unlock Requirement | Crafting Ingredients Needed | Collected\n---|---|---|---|---|---|---",
+    "img_below_text": "![Bronze Cloud Staffed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg) Bronze Cloud Staff| 36 | 2% Critical Hit Chance | N/A | • Deluxe Edition exclusive weapon. • Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain| Not craftable | Bronze Cloud Staff\n![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Weapons.md'.\n\n            Context:\n            - Preceding Text: \"Weapon | Damage | Critical Hit Chance/Defense | Unique Effect | Unlock Requirement | Crafting Ingredients Needed | Collected\n---|---|---|---|---|---|---\"\n            - Following Text: \"![Bronze Cloud Staffed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg) Bronze Cloud Staff| 36 | 2% Critical Hit Chance | N/A | • Deluxe Edition exclusive weapon. • Can be picked up from the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain| Not craftable | Bronze Cloud Staff\n![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Bronze Cloud Staff, a weapon featured in the game \"Black Myth: Wukong.\" According to the metadata and context, this staff has a damage rating of 36 and a 2% critical hit chance. It is a deluxe edition exclusive weapon that can be found at the first Shrine “Front Hills” in the Forest of Wolves in Black Wind Mountain. The staff is not craftable and is visually represented in the image provided."
+}

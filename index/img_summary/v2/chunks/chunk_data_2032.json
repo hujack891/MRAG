@@ -1,0 +1,28 @@
+{
+    "chunk_id": 175514907093,
+    "source_file": "Mother_of_Flamlings_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Mother_of_Flamlings_Location.jpg",
+    "alt_text": "Mother of Flamlings Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "Once you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\nContinue down the path after you've defeated the Flint Vanguard, and look to the left to find a small, glowing spot in the ground. Interact with the glowing spot and deliver **four Flame Ores** to summon the Mother of Flamlings.",
+    "img_below_text": "You can get Flame Ores by defeating Flamlings.\n## Mother of Flamlings Fight",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Mother_of_Flamlings_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Once you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\nContinue down the path after you've defeated the Flint Vanguard, and look to the left to find a small, glowing spot in the ground. Interact with the glowing spot and deliver **four Flame Ores** to summon the Mother of Flamlings.\"\n            - Following Text: \"You can get Flame Ores by defeating Flamlings.\n## Mother of Flamlings Fight\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Mother_of_Flamlings_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a volcanic, rocky environment near a glowing spot on the ground. A prompt labeled \"Deliver\" is visible, suggesting the player is at the location where they can interact with the glowing spot to deliver four Flame Ores. This action is likely part of the process to summon the Mother of Flamlings.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual representation of the specific location where players must deliver Flame Ores to progress in the quest. It highlights the interactive element (\"Deliver\") and provides context for summoning the Mother of Flamlings, tying into the preceding and following text instructions."
+}

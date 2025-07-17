@@ -1,0 +1,28 @@
+{
+    "chunk_id": 227577249053,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Wolves_50.jpg",
+    "alt_text": "Wukong Wolves 50.jpg",
+    "position_desc": 4,
+    "img_above_text": "### Mind Core Location 2\nThe first Mind Core can be found upon defeating Lingxuzi in the Forest of Wolves \\- Outside The Forest Shrine area in Black Wind Mountain. This is a main boss, so you can't miss it.",
+    "img_below_text": "### Mind Core Location 3\nThe next Mind Core is located in the Forest of Wolves \\- Outside The Forest area. Along the left side of the area, you can find a small path beneath a leaning branch. At the back of this path is a waterfall that you can enter.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 2\nThe first Mind Core can be found upon defeating Lingxuzi in the Forest of Wolves \\- Outside The Forest Shrine area in Black Wind Mountain. This is a main boss, so you can't miss it.\"\n            - Following Text: \"### Mind Core Location 3\nThe next Mind Core is located in the Forest of Wolves \\- Outside The Forest area. Along the left side of the area, you can find a small path beneath a leaning branch. At the back of this path is a waterfall that you can enter.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Wolves_50.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game, showing the player character engaged in combat with Lingxuzi, a large wolf-like boss with glowing red eyes. This encounter takes place in the Forest of Wolves, near the Forest Shrine area in Black Wind Mountain. Defeating Lingxuzi is a key step in acquiring the first Mind Core, as described in the preceding text. The image visually emphasizes the challenge and significance of this boss fight within the game's narrative progression."
+}

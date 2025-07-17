@@ -1,0 +1,28 @@
+{
+    "chunk_id": 265890225791,
+    "source_file": "Lang-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg",
+    "alt_text": "Wukong Sandgate 19.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Sandgate 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg)\nSeveral of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.",
+    "img_below_text": "These can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.\n![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg)\nSeveral of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.\"\n            - Following Text: \"These can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.\n![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense boss fight in *Black Myth: Wukong*, showcasing the electrified frog-like enemy, \"Lang-Li-Guhh-Baw,\" unleashing a powerful electric attack. The glowing yellow tadpoles scattered across the water indicate the dangerous area-of-effect attack, which players must avoid.\n\n2. **Narrative Role**:  \nThe image illustrates the moment when the boss uses its electric tadpole attack, emphasizing the need for players to anticipate and dodge the scattered projectiles. This visual complements the preceding and following text, which provides tactical advice for dealing with this challenging move, such as using the Pillar Stance to evade effectively."
+}

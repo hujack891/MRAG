@@ -1,0 +1,28 @@
+{
+    "chunk_id": 568924942370,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Turtle_1.jpg",
+    "alt_text": "Wukong Turtle 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Precept Corridor**\nLeaving the Warding Temple where you learned the Ring of Fire Spell from the Ancient Master, you'll have to slide down a long slope to reach a mountaintop where a giant pair of cymbals have been wedged into a mountain peak.",
+    "img_below_text": "As you draw close, you'll hear a voice coming from the cymbals, who is arguing with a woman refusing to let the trapped person out. With a loud gong, the trapped \"Admiral\" will use the cymbal to awaken a giant turtle whose mountainous shell you're actually standing on.\nAs the turtle begins to swim through the Bitter Seal, the woman will become aware of your presence, starting this new region off with a bang of a boss fight.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* **Precept Corridor**\nLeaving the Warding Temple where you learned the Ring of Fire Spell from the Ancient Master, you'll have to slide down a long slope to reach a mountaintop where a giant pair of cymbals have been wedged into a mountain peak.\"\n            - Following Text: \"As you draw close, you'll hear a voice coming from the cymbals, who is arguing with a woman refusing to let the trapped person out. With a loud gong, the trapped \"Admiral\" will use the cymbal to awaken a giant turtle whose mountainous shell you're actually standing on.\nAs the turtle begins to swim through the Bitter Seal, the woman will become aware of your presence, starting this new region off with a bang of a boss fight.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Turtle_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a colossal turtle with a mountainous shell rising from the sea, emphasizing its immense scale and presence. This scene aligns with the narrative where the trapped \"Admiral\" uses a cymbal to awaken the turtle, revealing that the mountaintop the player is standing on is part of the creature itself. The turtle's awakening marks the transition to the Bitter Seal region and sets the stage for an impending boss fight with the woman who opposes freeing the Admiral."
+}

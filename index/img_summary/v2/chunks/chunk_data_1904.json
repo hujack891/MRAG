@@ -1,0 +1,28 @@
+{
+    "chunk_id": 596682336279,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg",
+    "alt_text": "Wukong MadTiger 19.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)\nOther times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.",
+    "img_below_text": "And if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.\n![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg)\nOther times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.\"\n            - Following Text: \"And if the rage-filled roars and resulting deadly attacks weren’t bad enough, the Mad Tiger also has a secret grab. It seems to happen most often in retaliation for getting staggered, causing him to fall to his knees placing one hand on the ground. As he rises, he’ll do so with a quick leap toward you, landing with a quick uppercut.\n![Wukong MadTiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_MadTiger_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in combat with the formidable Mad Tiger. The Mad Tiger is shown in a dynamic pose, suggesting its aggressive nature and readiness to attack. The preceding text describes the Mad Tiger's ability to pick up and deliver a massive boulder directly to the player, while the following text highlights its secret grab move, which it executes after being staggered. This image captures the tension and danger of facing the Mad Tiger, emphasizing its powerful and unpredictable attacks."
+}

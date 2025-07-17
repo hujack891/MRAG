@@ -1,0 +1,28 @@
+{
+    "chunk_id": 318202058380,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_YellowLoong_15.jpg",
+    "alt_text": "Wukong YellowLoong 15.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong YellowLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_YellowLoong_3.jpg)\nHowever, if you see him raise up his glaive, he'll strike downwards, which you can break off your attack to deflect with Rock Solid, or Immobilize him before the hit lands to finish your second combo.",
+    "img_below_text": "When using his other basic melee attacks this early, he can raise his weapon and brace it behind his raised right foot, before performing two quick downward slices, then dragging his weapon along the ground for a moment before unleashing a charged upward slice, which is a lot to dodge quickly, but it can be done.\n![Wukong YellowLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_YellowLoong_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Yellow_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_YellowLoong_3.jpg)\nHowever, if you see him raise up his glaive, he'll strike downwards, which you can break off your attack to deflect with Rock Solid, or Immobilize him before the hit lands to finish your second combo.\"\n            - Following Text: \"When using his other basic melee attacks this early, he can raise his weapon and brace it behind his raised right foot, before performing two quick downward slices, then dragging his weapon along the ground for a moment before unleashing a charged upward slice, which is a lot to dodge quickly, but it can be done.\n![Wukong YellowLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_YellowLoong_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_YellowLoong_15.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic combat scene from the game \"Black Myth: Wukong,\" featuring the character Yellow Loong executing a powerful downward strike with his glaive. The visual captures the intensity of the attack, with debris and energy effects surrounding the impact area. This moment illustrates a critical point in gameplay where players must strategically deflect or immobilize the attack using specific skills, as described in the preceding and following text."
+}

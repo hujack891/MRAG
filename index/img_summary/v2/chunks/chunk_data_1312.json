@@ -1,0 +1,28 @@
+{
+    "chunk_id": 610859551311,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+    "alt_text": "Wukong Sahali 1.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nThis “senior brother” is the First Prince of Flowing Sand — aka the giant rat Yaoguai Chief that you can fight in the Valley of Despair on the road from Sandgate Village to the Crouching Tiger Temple. If you didn’t kill the rat king, he’ll summon the prince to fight you. Otherwise, you can use the Pungent Flesh Chunk to summon and defeat him yourself. He’ll drop the Arhat Gold Piece when defeated, which is the gold the Boar needs.",
+    "img_below_text": "The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nThis “senior brother” is the First Prince of Flowing Sand — aka the giant rat Yaoguai Chief that you can fight in the Valley of Despair on the road from Sandgate Village to the Crouching Tiger Temple. If you didn’t kill the rat king, he’ll summon the prince to fight you. Otherwise, you can use the Pungent Flesh Chunk to summon and defeat him yourself. He’ll drop the Arhat Gold Piece when defeated, which is the gold the Boar needs.\"\n            - Following Text: \"The Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showcasing a desolate, rugged area near the stairs leading to a large, inaccessible gate. In the foreground, the Boar character stands near the stairs, likely preparing for a confrontation with the player. This setting is part of the narrative where the Boar challenges the player to a duel after acquiring the Arhat Gold Piece, with the outcome influencing the exploration of the Realm of Gold. The environment emphasizes the game's atmospheric and detailed world-building."
+}

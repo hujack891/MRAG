@@ -1,0 +1,28 @@
+{
+    "chunk_id": 181259155351,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Black-myth-wukong-jade-lotus-seeds.jpg",
+    "alt_text": "Black-myth-wukong-jade-lotus-seeds.jpg",
+    "position_desc": 33,
+    "img_above_text": "![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Soul Remigration Pill | Mythical | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar in New Game Plus\n![Black-myth-wukong-Gentian-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Black-myth-wukong-Gentian-seeds.jpg)| Gentian Seeds | Uncommon | Seed | Randomly obtained from collecting Gentian",
+    "img_below_text": "![Black-myth-wukong-licorice-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Black-myth-wukong-licorice-seeds.jpg)| Licorice Seeds | Uncommon | Seed | Randomly obtained from collecting Licorice\n![Fragrant Jade Flower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Fragrant_Jade_Flower_Seed_.jpg)| Fragrant Jade Flower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fragrant Jade Flower",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 33 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Soul Remigration Pill | Mythical | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar in New Game Plus\n![Black-myth-wukong-Gentian-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Black-myth-wukong-Gentian-seeds.jpg)| Gentian Seeds | Uncommon | Seed | Randomly obtained from collecting Gentian\"\n            - Following Text: \"![Black-myth-wukong-licorice-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Black-myth-wukong-licorice-seeds.jpg)| Licorice Seeds | Uncommon | Seed | Randomly obtained from collecting Licorice\n![Fragrant Jade Flower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Fragrant_Jade_Flower_Seed_.jpg)| Fragrant Jade Flower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fragrant Jade Flower\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Black-myth-wukong-jade-lotus-seeds.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts a small stone bowl containing what appear to be seeds or dried plant material, likely an ingredient used in the crafting of medicinal or alchemical items in the game *Black Myth: Wukong*. Based on the context, it is part of a collection of item visuals representing seeds or ingredients that players can gather or purchase for various purposes.\n\n2. **Purpose/Role**: The image serves as a visual representation of a specific in-game item, possibly a seed or herbal ingredient, that players can collect or use in crafting. It is part of a broader list of items, with the preceding and following entries describing seeds like Gentian and Licorice, suggesting this item is similarly categorized."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 845899102212,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
+    "alt_text": "Buddhas Eyes Secret Boss .png",
+    "position_desc": 8,
+    "img_above_text": "* Where to Find Silk\n## How-to Guides",
+    "img_below_text": "Have a specific question you want answered or want to delve deeper into some of the secrets the game holds? Our how-to guides are here to help you solve puzzles and find key items so nothing stays hidden.\n* How-to Guides",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Where to Find Silk\n## How-to Guides\"\n            - Following Text: \"Have a specific question you want answered or want to delve deeper into some of the secrets the game holds? Our how-to guides are here to help you solve puzzles and find key items so nothing stays hidden.\n* How-to Guides\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character in a rugged, natural environment approaching or interacting with an object of interest, possibly a key item or puzzle element. Based on the context, the image likely serves to illustrate a specific location or scenario in *Black Myth: Wukong* where players can uncover secrets, solve puzzles, or find important items, aligning with the game's how-to guides."
+}

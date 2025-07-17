@@ -1,31 +1,6 @@
 {
-    "chunk_id": 651922458797,
-    "source_file": "Black_Loong.md",
-    "h1_title": "Black Loong",
-    "h2_title": "Where to Find Black Loong",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-    "alt_text": "Wukong RedLoong 3.jpg",
-    "position_desc": 3,
-    "img_above_text": "# Black Loong\nBlack Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Hidden beyond a waterfall of sand in the Fright Cliff, you won't be able to encounter this boss until you obtain a Key Item elswhere in this chapter, Black Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Tridacna Pendant, Thunderbone, Loong Pearl x1, Refined Iron Sand x2, Mind Core x1\n## Where to Find Black Loong\nMuch like the Red Loong Boss FIght, you will not be able to access and challenge this secret boss until obtaining a special item elswhere in Chapter 2.\n\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Black_Loong.md', located under Where to Find Black Loong.\n\n                Metadata:\n                - Document Title: Black Loong\n                - Section Title: Where to Find Black Loong\n                - Alt Text: Wukong RedLoong 3.jpg\n\n                Context:\n                - Preceding Text: \"# Black Loong\nBlack Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Hidden beyond a waterfall of sand in the Fright Cliff, you won't be able to encounter this boss until you obtain a Key Item elswhere in this chapter, Black Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Tridacna Pendant, Thunderbone, Loong Pearl x1, Refined Iron Sand x2, Mind Core x1\n## Where to Find Black Loong\nMuch like the Red Loong Boss FIght, you will not be able to access and challenge this secret boss until obtaining a special item elswhere in Chapter 2.\n\nWhile fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game Black Myth Wukong, specifically related to the section \"Where to Find Black Loong\" in the document titled \"Black Loong.\" It shows a character standing in a dimly lit cave or rocky environment, facing a mural or wall painting. This setting is likely part of the narrative where players must find and challenge the secret boss, Black Loong, in Chapter 2. The preceding text describes how players can access this boss fight by obtaining a special item and interacting with the environment, such as creating a crack in a wall during a fight with the First Rat Prince. The image serves to visually represent the mysterious and hidden nature of the Black Loong encounter."
+    "chunk_id": 750648224773,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1a/Wukong_BlackLoong_5.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dramatic moment in a video game where a character is facing a large enemy named \"Black Loong,\" as indicated by the health bar at the bottom of the screen. The environment appears to be a rocky, desert-like terrain. A bright explosion of electricity or energy is occurring, suggesting a powerful attack or special move. The user interface shows various icons on the left and right sides, which likely represent abilities or items the player can use. The character's health and stamina bars are visible at the bottom left, while additional ability icons and controls are displayed at the bottom right. The scene suggests an intense battle sequence, highlighting the game's combat mechanics and visual effects."
 }

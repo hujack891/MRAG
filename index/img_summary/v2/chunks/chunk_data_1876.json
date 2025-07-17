@@ -1,0 +1,28 @@
+{
+    "chunk_id": 227984165115,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg",
+    "alt_text": "Wukong Pagoda 123.jpg",
+    "position_desc": 10,
+    "img_above_text": "Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple",
+    "img_below_text": "When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Macaque Chief (Snowhill Path)\n### Second Encounter - Warding Temple\"\n            - Following Text: \"When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you.\nMacaque Chief (Warding Temple)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment from the second encounter with the Macaque Chief at the Warding Temple. The player character is positioned near a glowing circle of fire, which serves as a strategic element in the fight. The fire acts as a barrier that the Macaque Chief cannot cross, allowing the player to evade attacks or heal safely. The snowy environment and temple architecture in the background set the scene for this intense boss battle."
+}

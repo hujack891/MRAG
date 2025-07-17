@@ -1,0 +1,28 @@
+{
+    "chunk_id": 467729830484,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Foothills_Walkthrough_%283%29.png",
+    "alt_text": "Foothills Walkthrough \\(3\\).png",
+    "position_desc": 1,
+    "img_above_text": "* Yaoguai King - Giant Shigandang\nThe beginning of Chapter 6 is a linear path, so proceed down the slope from where you spawn. As you make your way along this road, you'll be intercepted by the last of the Lesser Yoaguais you need to complete your journal.",
+    "img_below_text": "This will include Hound, Jackal, and Eagle Soldiers, as well as the tougher looker variants with shields called Captain of the Court.\nAs you get closer to the first Keeper's Shrine of the area, you'll see a large group of soldiers appear. Clear these out and then you can activate the shrine.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* Yaoguai King - Giant Shigandang\nThe beginning of Chapter 6 is a linear path, so proceed down the slope from where you spawn. As you make your way along this road, you'll be intercepted by the last of the Lesser Yoaguais you need to complete your journal.\"\n            - Following Text: \"This will include Hound, Jackal, and Eagle Soldiers, as well as the tougher looker variants with shields called Captain of the Court.\nAs you get closer to the first Keeper's Shrine of the area, you'll see a large group of soldiers appear. Clear these out and then you can activate the shrine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Foothills_Walkthrough_%283%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a game walkthrough, where a character is traversing a lush, forested path. The character, equipped with a staff and wearing armor, is advancing towards a group of soldiers. This moment occurs after encountering the Lesser Yaoguais and before reaching the first Keeper's Shrine, where the player will face a larger group of soldiers, including Hound, Jackal, and Eagle Soldiers, and the Captain of the Court. The image visually represents the transition from battling lesser enemies to confronting more formidable foes as part of the narrative progression in Chapter 6."
+}

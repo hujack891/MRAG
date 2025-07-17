@@ -1,0 +1,28 @@
+{
+    "chunk_id": 110737729735,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg",
+    "alt_text": "Body-Warming Powder .jpg",
+    "position_desc": 8,
+    "img_above_text": "![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice\n• 1 Aged Ginseng | Ginseng Pellets",
+    "img_below_text": "• 1 Jade Lotus | Body-Warming Powder\n![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Ginseng Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg)| Ginseng Pellets | Rare | Upon use, slowly grants Focus for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Licorice\n• 1 Aged Ginseng | Ginseng Pellets\"\n            - Following Text: \"• 1 Jade Lotus | Body-Warming Powder\n![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a blue, speckled gourd-shaped container, likely representing the \"Body-Warming Powder\" item from the game \"Black Myth: Wukong.\" According to the context, this item is crafted from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge. The Body-Warming Powder requires 1 Jade Lotus to craft and is used to provide some beneficial effect, possibly related to warming the body or enhancing resistance to cold."
+}

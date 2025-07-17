@@ -1,0 +1,28 @@
+{
+    "chunk_id": 814145156484,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_7.jpg",
+    "alt_text": "Wukong Yellow 7.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Yellow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_8.jpg)\nMoving ahead, there are also paths to the right and to the left. Going right leads to another Blazebone and Withered Corpse, as well as a house next to the ranged attacker that holds a green Wisp inside you can absorb.",
+    "img_below_text": "Heading to the left side of the hamlet instead will place you between rows of houses and a large building on the side. Be sure to search the first house on the left to find a chest with 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**.\nDefeat the Rat Soldier guarding the entrance to the larger house, and be sure to check the far end of this street for a green Wisp to absorb with a Withering Corpse near it, then enter the courtyard of the large building.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Yellow_Sand_Formation_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_8.jpg)\nMoving ahead, there are also paths to the right and to the left. Going right leads to another Blazebone and Withered Corpse, as well as a house next to the ranged attacker that holds a green Wisp inside you can absorb.\"\n            - Following Text: \"Heading to the left side of the hamlet instead will place you between rows of houses and a large building on the side. Be sure to search the first house on the left to find a chest with 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**.\nDefeat the Rat Soldier guarding the entrance to the larger house, and be sure to check the far end of this street for a green Wisp to absorb with a Withering Corpse near it, then enter the courtyard of the large building.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_7.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an in-game scene from \"Black Myth: Wukong,\" showing a character standing in front of a chest inside a dimly lit, rustic house. This scene is likely part of the exploration of the hamlet described in the surrounding text, where players are instructed to search houses for valuable items. The chest in the image is mentioned in the following text, which suggests it contains 1 Small Piece of Gold and 3 Tiny Pieces of Gold."
+}

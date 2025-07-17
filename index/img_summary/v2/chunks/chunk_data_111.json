@@ -1,0 +1,28 @@
+{
+    "chunk_id": 167912200245,
+    "source_file": "Baw-Li-Guhh-Lang_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Bamboo_Grove_Entrance_Fence.jpg",
+    "alt_text": "Bamboo Grove Entrance Fence.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.",
+    "img_below_text": "## Baw-Li-Guhh-Lang Fight\nBaw-Li-Guhh-Lang is a relentless fighter with attacks that require some quick reaction times to avoid. Here's what you can expect from the fight:",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Baw-Li-Guhh-Lang_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Baw-Li-Guhh-Lang Location\nOnce you reach the Snake Trail Keeper's Shrine, run up the stairs on the right and take a left. You will come across a flimsy fence on the edge of a cliff on the left. Smash the fence and drop into the river below. Run to the right to find Baw-Li-Guhh-Lang.\"\n            - Following Text: \"## Baw-Li-Guhh-Lang Fight\nBaw-Li-Guhh-Lang is a relentless fighter with attacks that require some quick reaction times to avoid. Here's what you can expect from the fight:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Bamboo_Grove_Entrance_Fence.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character standing in front of a flimsy wooden fence on the edge of a cliff, surrounded by a lush, rocky environment. This scene aligns with the preceding text, which describes the location of Baw-Li-Guhh-Lang and instructs players to smash the fence and drop into the river below to reach the spirit. The image serves to visually guide players to the exact spot where they need to interact with the environment to progress toward the encounter with Baw-Li-Guhh-Lang."
+}

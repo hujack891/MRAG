@@ -1,0 +1,28 @@
+{
+    "chunk_id": 920426949269,
+    "source_file": "Dark_Thunder.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_MiddleHollow_49.jpg",
+    "alt_text": "Wukong MiddleHollow 49.jpg",
+    "position_desc": 4,
+    "img_above_text": "### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.",
+    "img_below_text": "### Horse Guai Flaming Mountains Location\nThe Horse Guai can be found at the Furnace Valley, Valley Entrance area of the Flaming Mountains. However, you will need to kill the Keeper of Flaming Mountains boss towards the end of the chapter before you can do anything here.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Dark_Thunder.md'.\n\n            Context:\n            - Preceding Text: \"### Horse Guai The Webbed Hollow Location\nAfter you kill the Centipede Guai, you can continue through a path behind it through some caves. Along this path, as the cave opens up again, you can find a coccoon. Destroy it to reveal the Horse Guai.\"\n            - Following Text: \"### Horse Guai Flaming Mountains Location\nThe Horse Guai can be found at the Furnace Valley, Valley Entrance area of the Flaming Mountains. However, you will need to kill the Keeper of Flaming Mountains boss towards the end of the chapter before you can do anything here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_MiddleHollow_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character standing in a dimly lit cave environment, holding a glowing weapon. The red arrow highlights a cocoon-like structure, which is likely the one mentioned in the preceding text. This cocoon needs to be destroyed to reveal the Horse Guai, a creature encountered along the path after defeating the Centipede Guai. The setting features webbing, scattered egg-like objects, and a mysterious, eerie atmosphere, emphasizing the narrative's focus on exploration and combat progression."
+}

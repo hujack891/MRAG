@@ -1,0 +1,28 @@
+{
+    "chunk_id": 824722387057,
+    "source_file": "Drunken_Boar_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+    "alt_text": "Wukong Sahali 1.jpg",
+    "position_desc": 10,
+    "img_above_text": "He’ll drop the **Arhat Gold Piece** when defeated, which is the gold the Boar needs.\n## Return to Rockrest Flat",
+    "img_below_text": "Though he doesn’t say where he’s going, the Boar will actually return to **near where you first met him** at the **Rockrest Flat** area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and the Yellow-Robed Squire will challenge you to a duel!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Drunken_Boar_Questline.md'.\n\n            Context:\n            - Preceding Text: \"He’ll drop the **Arhat Gold Piece** when defeated, which is the gold the Boar needs.\n## Return to Rockrest Flat\"\n            - Following Text: \"Though he doesn’t say where he’s going, the Boar will actually return to **near where you first met him** at the **Rockrest Flat** area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and the Yellow-Robed Squire will challenge you to a duel!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a rugged, desolate area with weathered stone structures and scaffolding, likely part of the **Rockrest Flat** area mentioned in the text. In the foreground, a humanoid figure is engaged in combat or movement, while a large boar-like character stands near stairs leading to a significant door in the background. This scene visually represents the narrative moment where the Boar returns to Rockrest Flat after receiving the **Arhat Gold Piece** and prepares for a confrontation with the player.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the setting for the next phase of the questline, where the Boar, now standing near a mysterious door, challenges the player to a duel over possession of the gold. It sets the tone for the impending conflict and highlights the environment's importance in the story progression."
+}

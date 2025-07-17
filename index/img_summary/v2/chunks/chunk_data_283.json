@@ -1,0 +1,28 @@
+{
+    "chunk_id": 68063835890,
+    "source_file": "Black_Wind_Cave_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_BlackWind_3.jpg",
+    "alt_text": "Wukong BlackWind 3.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.",
+    "img_below_text": "Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Black_Wind_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_BlackWind_1.jpg)\nStick to the right side of the cave, and you’ll find some green wisp Spirit to absorb for its Will.\"\n            - Following Text: \"Once you reach a shaft of light in the cave where a Gentian plant grows, look ahead to find a Wolf Assassin. Due to the low visibility ahead, let the creature come to you and dodge its twinblade attacks before hitting with a charged strike.\nHead further into the tunnel until it opens up with more light, and you’ll find a very large wooden balcony ahead, as the main path curves to the right.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_BlackWind_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character navigating through a dimly lit cave environment in *Black Myth: Wukong*. The surroundings are lush with vegetation, and the player is collecting Gentian plants, as indicated by the \"Gentian x2\" notification on the screen. The character is armed, suggesting preparation for combat, and a faint silhouette of an enemy is visible ahead, hinting at an upcoming encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the progression through the Black Wind Cave, emphasizing exploration and resource collection (Gentian plants) while foreshadowing a combat encounter with a Wolf Assassin further ahead. It visually supports the walkthrough's guidance on navigating the cave and preparing for challenges in low visibility."
+}

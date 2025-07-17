@@ -1,0 +1,28 @@
+{
+    "chunk_id": 979808312275,
+    "source_file": "Dragonfly_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Dragonfly_Guai.jpg",
+    "alt_text": "Dragonfly Guai.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.",
+    "img_below_text": "## Dragonfly Guai Fight\nThe Dragonfly Guai fights in the air with his bow and poison arrows. The fact that he's flying most of the battle makes it tricky, but you can still reach him with many of your attacks when he's hovering. The Dragonfly Guai does soar higher at times, so be careful when casting Immobilize that you don't accidentally freeze him so high that your attacks can't reach.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Dragonfly_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Dragonfly Guai Location\nYou will encounter the Dragonfly Guai after defeating Zhu Bajie in the Webbed Hollow. Once you've won the battle, head inside the cave and continue up the path, through another cave, and back out again. Head up the staircase and turn right to see the Dragonfly Guai hovering at the edge of the cliff by some wooden planks.\"\n            - Following Text: \"## Dragonfly Guai Fight\nThe Dragonfly Guai fights in the air with his bow and poison arrows. The fact that he's flying most of the battle makes it tricky, but you can still reach him with many of your attacks when he's hovering. The Dragonfly Guai does soar higher at times, so be careful when casting Immobilize that you don't accidentally freeze him so high that your attacks can't reach.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Dragonfly_Guai.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the player character preparing to engage in combat with the Dragonfly Guai, a flying enemy hovering near the edge of a cliff. The environment is dark and rocky, with wooden planks visible in the background, aligning with the described location. The player wields a fiery weapon, and combat instructions for light and heavy attacks are displayed on the screen, suggesting the upcoming fight will involve strategic use of these abilities. This image visually supports the narrative of encountering and battling the Dragonfly Guai, emphasizing the challenging aerial combat described in the preceding and following text."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 364183798237,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg",
+    "alt_text": "Tonifying Decoction .jpg",
+    "position_desc": 19,
+    "img_above_text": "![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw",
+    "img_below_text": "![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Tonifying Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Formula | Formula found in Bitter Lake in The New West by The Percept Corridor Shrine, straight ahead in the box on the table",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw\"\n            - Following Text: \"![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Tonifying Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Formula | Formula found in Bitter Lake in The New West by The Percept Corridor Shrine, straight ahead in the box on the table\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts a torn, aged document resembling a medicinal formula or recipe, written in traditional Chinese script. It is likely associated with the \"Tonifying Decoction,\" a rare or uncommon formula mentioned in the preceding and following text, which is used as a medicinal or crafting item in the game *Black Myth: Wukong*. The formula appears to play a role in enhancing the player's abilities or crafting options, and its acquisition is tied to specific in-game events or locations.\n\n2. **Purpose/Content/Narrative Role**:  \nThe document serves as a visual representation of a collectible formula in *Black Myth: Wukong*. It ties into the game's narrative and progression system, where players gather rare items and recipes to craft or unlock powerful enhancements. This specific formula seems to be part of a series of medicinal or alchemical items central to gameplay."
+}

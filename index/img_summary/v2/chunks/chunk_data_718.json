@@ -1,0 +1,28 @@
+{
+    "chunk_id": 437341853269,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg",
+    "alt_text": "Black-myth-wukong-evil-fortifying-medicament.jpg",
+    "position_desc": 15,
+    "img_above_text": "• 1 Licorice\n• 1 Fragrant Jade | Essence Decoction",
+    "img_below_text": "• 1 Gentian | Fortifying Medicament\n![Black-myth-wukong-ruyi-scroll.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg)  1 | Ruyi Scroll | Legendary | A scroll gifted by Chen Loong that leads to a secluded and tranquil retreat | • Obtained from Chen Loong after defeating him in The New West and getting the Special-made Bone-Strengening Pellet from Xu Dog in Yellow Wind Ridge upon Chen Long Asking",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"• 1 Licorice\n• 1 Fragrant Jade | Essence Decoction\"\n            - Following Text: \"• 1 Gentian | Fortifying Medicament\n![Black-myth-wukong-ruyi-scroll.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg)  1 | Ruyi Scroll | Legendary | A scroll gifted by Chen Loong that leads to a secluded and tranquil retreat | • Obtained from Chen Loong after defeating him in The New West and getting the Special-made Bone-Strengening Pellet from Xu Dog in Yellow Wind Ridge upon Chen Long Asking\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a beautifully crafted ceramic jar with intricate floral designs and a red paper seal on top. The jar appears to be an in-game item from \"Black Myth: Wukong,\" specifically a consumable item. Based on the context provided, it is likely the \"Fragrant Jade | Essence Decoction,\" a special item used for healing or enhancing abilities within the game. The image serves to visually represent this item, contributing to the game's immersive experience by showcasing the detailed and culturally inspired design of the consumables players can collect and use."
+}

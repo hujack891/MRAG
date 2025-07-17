@@ -1,0 +1,28 @@
+{
+    "chunk_id": 130817761975,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg",
+    "alt_text": "Bronze Cloud Staffed.jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---|---\n![Willow Wood Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg) Willow Wood Staff| 30 | N/A | N/A | • Default weapon at the start of Chapter 1 | Not craftable | Willow Wood Staff",
+    "img_below_text": "![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\n• 8 Stone Spirit",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Weapons.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---|---|---\n![Willow Wood Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Willow_Wood_Staff_.jpg) Willow Wood Staff| 30 | N/A | N/A | • Default weapon at the start of Chapter 1 | Not craftable | Willow Wood Staff\"\n            - Following Text: \"![Twin Serpent's Staff .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Twin_Serpent%27s_Staff_.jpg) Twin Serpents Staff| 40 | N/A | Moderately increases the damage of light attack combo finishers. The effect is massively enhanced when fighting in water | • Defeat Whiteclad Noble in Bamboo Grove (mandatory boss) in Black Wind Mountain| • 1 Jade Fang\n• 8 Stone Spirit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Bronze_Cloud_Staffed.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the \"Willow Wood Staff,\" a weapon featured in the game \"Black Myth: Wukong.\" According to the context provided, this staff is the default weapon at the start of Chapter 1 and is not craftable. The preceding and following text describe other weapons in the game, indicating that the image serves to visually represent the Willow Wood Staff within a list or catalog of available weapons."
+}

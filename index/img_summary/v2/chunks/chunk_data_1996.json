@@ -1,0 +1,28 @@
+{
+    "chunk_id": 759631545518,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/The_Pines_Temple_of_Yellow_FlowersMeditation_Spot.jpg",
+    "alt_text": "The Pines Temple of Yellow FlowersMeditation Spot.jpg",
+    "position_desc": 19,
+    "img_above_text": "### The Pines, Temple of Yellow Flowers Meditation Spot\nThe Pines, Temple of Yellow Flowers Meditation Spot",
+    "img_below_text": "Head through the door on the right as you enter the Temple of Yellow Flowers. You will find the Meditation Spot on the left, as well as Snake Shriff Spirit on the platform above.\n### The Ledge, Purple Cloud Mountain Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Pines, Temple of Yellow Flowers Meditation Spot\nThe Pines, Temple of Yellow Flowers Meditation Spot\"\n            - Following Text: \"Head through the door on the right as you enter the Temple of Yellow Flowers. You will find the Meditation Spot on the left, as well as Snake Shriff Spirit on the platform above.\n### The Ledge, Purple Cloud Mountain Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/The_Pines_Temple_of_Yellow_FlowersMeditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot at The Pines, Temple of Yellow Flowers. It shows a tranquil outdoor setting with a person seated on a platform surrounded by natural elements like trees and scattered leaves. This location appears to be a designated area for meditation, aligning with the preceding and following text that describe its placement within the temple and its spiritual significance."
+}

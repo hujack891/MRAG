@@ -1,0 +1,28 @@
+{
+    "chunk_id": 831146980752,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Bitter_53.jpg",
+    "alt_text": "Wukong Bitter 53.jpg",
+    "position_desc": 85,
+    "img_above_text": "## Precept Corridor\nFrom the Precept Corridor Shrine, you'll be able to traverse a new path across a wooden platform heading down a slope toward a large stone slab that seems to have fallen in your path.",
+    "img_below_text": "Along this road are several important things to take note of: There's a lone Wolf Guardian patrolling this road, but you can also find a **Meditation Spot** just off to the left in front of a statue where two Frozen Corpses can come alive to attack.\nThe Statue, Precept Corridor Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 85 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Precept Corridor\nFrom the Precept Corridor Shrine, you'll be able to traverse a new path across a wooden platform heading down a slope toward a large stone slab that seems to have fallen in your path.\"\n            - Following Text: \"Along this road are several important things to take note of: There's a lone Wolf Guardian patrolling this road, but you can also find a **Meditation Spot** just off to the left in front of a statue where two Frozen Corpses can come alive to attack.\nThe Statue, Precept Corridor Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Bitter_53.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy area in the Precept Corridor, where the player character is positioned on a ledge overlooking a combat scenario. Below, a Wolf Guardian is engaged in battle with two Frozen Corpses, which appear to have been reanimated near a statue. The scene highlights a potential encounter on the path, emphasizing the nearby **Meditation Spot** and the dangers posed by the enemies. The setting is framed by statues and rugged terrain, reinforcing the mystical and perilous atmosphere of the location."
+}

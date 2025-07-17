@@ -1,0 +1,28 @@
+{
+    "chunk_id": 55655210555,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
+    "alt_text": "Wukong Pagoda 85.jpg",
+    "position_desc": 79,
+    "img_above_text": "![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.",
+    "img_below_text": "Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 79 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 80.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg)\nIt can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\"\n            - Following Text: \"Other times, it will perform a series of slow stomps, causing multiple electric spots to appear around you. You'll need to sprint away from these spots before a delayed lightning blast can strike the ground where you are.\n![Wukong Pagoda 82.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Pagoda_82.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark and intense battle scene from the game \"Black Myth: Wukong.\" The focal point is a large, menacing creature named \"Captain Wise-Voice,\" which is generating electrical power in its front leg, creating a ring of energy that the player must dodge or evade using specific stances. The image highlights the challenging nature of the encounter, requiring strategic movement to avoid multiple electric spots and delayed lightning blasts."
+}

@@ -1,12 +1,18 @@
 import re
-import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from bs4 import BeautifulSoup
 import html2text
 import os
 import shutil
 import time
 import random
-
+from selenium.webdriver.chrome.service import Service
+from urllib.parse import urlparse
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from logs.log_config import setup_logging
@@ -96,30 +102,57 @@ def extract_links_from_markdown(file_path):
     
     return text_list, url_list
 
-# convert URLs to Markdown format
-def url_to_markdown(url):
-    logger.debug(f"开始处理URL: {url}")
+# 创建selenium webdriver
+def create_driver():
+    """创建并配置Chrome WebDriver"""
+    chrome_options = Options()
+    # chrome_options.add_argument('--headless')  # 无头模式
+    chrome_options.add_argument('--no-sandbox')
+    chrome_options.add_argument('--disable-dev-shm-usage')
+    chrome_options.add_argument('--disable-gpu')
+    chrome_options.add_argument('--window-size=1920,1080')
+    chrome_options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36')
     
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/114.0.0.0 Safari/537.36"
-        )
-    }
+    chrome_driver_path = os.getenv('CHROME_DRIVER_PATH')
+    if chrome_driver_path:
+        service = Service(chrome_driver_path)
 
     try:
-        # 请求网页内容
-        logger.debug(f"发送HTTP请求到: {url}")
-        response = requests.get(url, headers=headers, timeout=30)
-        logger.debug(f"HTTP响应状态码: {response.status_code}")
-        
-        if response.status_code != 200:
-            logger.error(f"请求失败，状态码: {response.status_code}, URL: {url}")
-            return None
+        driver = webdriver.Chrome(options=chrome_options,service=service)
+        driver.set_page_load_timeout(30)
+        return driver
+    except Exception as e:
+        logger.error(f"创建WebDriver失败: {e}")
+        return None
 
+# convert URLs to Markdown format using selenium
+def url_to_markdown(url, driver=None):
+    logger.debug(f"开始处理URL: {url}")
+    
+    # 如果没有传入driver，创建一个新的
+    driver_created = False
+    if driver is None:
+        driver = create_driver()
+        if driver is None:
+            return None
+        driver_created = True
+    
+    try:
+        # 使用selenium访问网页
+        logger.debug(f"使用Selenium访问: {url}")
+        driver.get(url)
+        
+        # 等待页面加载完成
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        
+        # 获取页面源码
+        page_source = driver.page_source
+        logger.debug(f"页面源码长度: {len(page_source)}")
+        
         # 解析网页结构
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(page_source, 'html.parser')
         logger.debug(f"网页标题: {soup.title.string if soup.title else 'No title'}")
 
         # 提取文章主内容区域
@@ -147,15 +180,22 @@ def url_to_markdown(url):
         
         return result
         
-    except requests.exceptions.Timeout:
-        logger.error(f"请求超时, URL: {url}")
+    except TimeoutException:
+        logger.error(f"页面加载超时, URL: {url}")
         return None
-    except requests.exceptions.RequestException as e:
-        logger.error(f"请求异常: {e}, URL: {url}")
+    except WebDriverException as e:
+        logger.error(f"WebDriver异常: {e}, URL: {url}")
         return None
     except Exception as e:
         logger.error(f"处理URL时发生未知错误: {e}, URL: {url}")
         return None
+    finally:
+        # 如果是在函数内创建的driver，需要关闭
+        if driver_created and driver:
+            try:
+                driver.quit()
+            except:
+                pass
 
 # 删除只包含'Play'的行
 def remove_play_lines(content):
@@ -263,43 +303,20 @@ def remove_markdown_hr(content: str) -> str:
     return '\n'.join(cleaned_lines)
 
 
-# Normalize filename
-def clean_filename(filename: str) -> str:
+def extract_filename_from_url(url):
     """
-    清理文件名，将不适合作为文件名的字符替换为下划线
-    
-    参数:
-        filename: 原始文件名
-    返回:
-        清理后的文件名
+    Extract the last path segment from the URL.
+    For example, for "https://www.ign.com/wikis/black-myth-wukong/Chapter_1_-_Black_Cloud,_Red_Fire",
+    it returns "Chapter_1_-_Black_Cloud,_Red_Fire".
     """
-    # 先处理连字符两边的空格，直接删除而不是替换为下划线
-    # 例如: "Chapter 2 - Yellow Sand" -> "Chapter 2-Yellow Sand"
-    clean_name = re.sub(r'\s*-\s*', '-', filename)
-    
-    # Windows和Linux都不允许的字符：< > : " | ? * \ /
-    # 对于剩余的空格，替换为下划线
-    invalid_chars = r'[<>:"|?*\\/\s]'
-    
-    # 将无效字符替换为下划线
-    clean_name = re.sub(invalid_chars, '_', clean_name)
-    
-    # 移除多个连续的下划线，替换为单个下划线
-    clean_name = re.sub(r'_{2,}', '_', clean_name)
-    
-    # 移除开头和结尾的下划线
-    clean_name = clean_name.strip('_')
-    
-    # 如果清理后的文件名为空，使用默认名称
-    if not clean_name:
-        clean_name = "unnamed_file"
-    
-    return clean_name
+    path = urlparse(url).path
+    path = path.rstrip("/")  # Remove trailing slash if present
+    return os.path.basename(path)
 
 def main():
     handle_web_num = 0  # The total number of processed documents
     logger.info("start!")
-    output_folder = "./data/doc" # Output md file
+    output_folder = "./data/doc_test" # Output md file
 
     os.makedirs(output_folder, exist_ok=True)
 
@@ -307,44 +324,59 @@ def main():
     clean_folder(output_folder)
     logger.info(f"Folder cleaned: {output_folder}")
 
-    md_file_path = "data\minecraft_ign_sidebar.md"
+    md_file_path = r"data\black-myth-wukong_ign_sidebar.md"
     texts, urls = extract_links_from_markdown(md_file_path)
 
-    for url, text in zip(urls, texts):
-        if not url.strip():
-            logger.error(f"跳过空链接: {text}")
-            continue
-        handle_web_num += 1
-        title = f"# {text}\n\n"
-        markdown_text = url_to_markdown(url)
+    # 创建一个共享的WebDriver实例以提高效率
+    driver = create_driver()
+    if driver is None:
+        logger.error("无法创建WebDriver，程序退出")
+        return
+    
+    try:
+        for url, text in zip(urls, texts):
+            if not url.strip():
+                logger.error(f"跳过空链接: {text}")
+                continue
+            handle_web_num += 1
+            title = f"# {text}\n\n"
+            markdown_text = url_to_markdown(url, driver)
 
-        time.sleep(random.uniform(1, 2))  # Random delay to avoid being blocked
+            time.sleep(random.uniform(1, 2))  # Random delay to avoid being blocked
 
-        if isinstance(markdown_text, str) and markdown_text.strip():  # 判断变量 markdown_text 是否为一个非空字符串
-            markdown_content = title + markdown_text
-            
-            # Data Cleaning
-            # Delete "Play"
-            markdown_content = remove_play_lines(markdown_content)
-            # 文字链接直接删除
-            markdown_content = remove_text_links(markdown_content)
-            # 图片链接进行清理
-            markdown_content = clean_markdown_image_links(markdown_content)
-            # 去除横线
-            markdown_content = remove_markdown_hr(markdown_content)
-            # 删除多余的空行
-            markdown_content = re.sub(r'\n\s*\n\s*\n', '\n\n', markdown_content)
-            # 保存到文件夹中
-            clean_text = clean_filename(text)
-            file_name = os.path.join(output_folder, f"{clean_text}.md")
+            if isinstance(markdown_text, str) and markdown_text.strip():  # 判断变量 markdown_text 是否为一个非空字符串
+                markdown_content = title + markdown_text
+              
+                # # Data Cleaning
+                # # Delete "Play"
+                # markdown_content = remove_play_lines(markdown_content)
+                # # 文字链接直接删除
+                # markdown_content = remove_text_links(markdown_content)
+                # 图片链接进行清理
+                markdown_content = clean_markdown_image_links(markdown_content)
+                # 去除横线
+                # markdown_content = remove_markdown_hr(markdown_content)
+                # # 删除多余的空行
+                # markdown_content = re.sub(r'\n\s*\n\s*\n', '\n\n', markdown_content)
+                # 保存到文件夹中
+                clean_text = extract_filename_from_url(url)
+                file_name = os.path.join(output_folder, f"{clean_text}.md")
+                try:
+                    with open(file_name, "w", encoding="utf-8") as f:
+                        f.write(markdown_content)
+                    logger.debug(f"已保存: {file_name}")
+                except Exception as e:
+                    logger.error(f"写入文件失败: {file_name}, 错误: {e}")
+            else:
+                logger.error(f"URL 内容为空或解析失败，跳过：{url}")
+    finally:
+        # 确保WebDriver被正确关闭
+        if driver:
             try:
-                with open(file_name, "w", encoding="utf-8") as f:
-                    f.write(markdown_content)
-                logger.debug(f"已保存: {file_name}")
-            except Exception as e:
-                logger.error(f"写入文件失败: {file_name}, 错误: {e}")
-        else:
-            logger.error(f"URL 内容为空或解析失败，跳过：{url}")
+                driver.quit()
+                logger.info("WebDriver已关闭")
+            except:
+                pass
 
     logger.info(f"Processed {handle_web_num} links in total")
     logger.info("over!")

@@ -1,0 +1,31 @@
+{
+    "chunk_id": 828232169229,
+    "source_file": "Black_Myth_Wukong_Guide.md",
+    "h1_title": "Black Myth: Wukong Guide",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+    "alt_text": "WukongHeader.jpg",
+    "position_desc": 0,
+    "img_above_text": "# Black Myth: Wukong Guide",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Black_Myth_Wukong_Guide.md', located under Black Myth: Wukong Guide.\n\n                Metadata:\n                - Document Title: Black Myth: Wukong Guide\n                - Alt Text: WukongHeader.jpg\n\n                Context:\n                - Preceding Text: \"# Black Myth: Wukong Guide\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image serves as a header for the \"Black Myth: Wukong Guide,\" indicating the guide's focus on the game \"Black Myth: Wukong.\" It features an intricately armored character, likely representing the protagonist or a significant figure from the game, setting the tone for the detailed information and insights that the guide will provide. The presence of the \"Wiki Guide\" label suggests that the document is intended as a comprehensive resource for players."
+}

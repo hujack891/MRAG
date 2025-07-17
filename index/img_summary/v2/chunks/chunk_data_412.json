@@ -1,0 +1,28 @@
+{
+    "chunk_id": 733556955496,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg",
+    "alt_text": "Wukong Pagoda 45.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Pagoda 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Pagoda_44.jpg)\n* Level 1 - Right next to where you entered the realm, you can open the door to speak face to face with the Prisoner. He mentions Lotus-Vision was one of his four Captains, and that Yellowbrow tricked him and imprisoned him here, taking control of his Captains in the process. He'll request that you kill them all to ease their suffering. You can also pull the sword out of the dead two-headed Rat Captain and gain the Ashen Slumber Transformation Spell, letting you turn into a Rat Captain yourself and inflict fire, building up focus to transfer back to your main form.",
+    "img_below_text": "* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.\n![Wukong Pagoda 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Captain_Lotus-Vision.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Pagoda_44.jpg)\n* Level 1 - Right next to where you entered the realm, you can open the door to speak face to face with the Prisoner. He mentions Lotus-Vision was one of his four Captains, and that Yellowbrow tricked him and imprisoned him here, taking control of his Captains in the process. He'll request that you kill them all to ease their suffering. You can also pull the sword out of the dead two-headed Rat Captain and gain the Ashen Slumber Transformation Spell, letting you turn into a Rat Captain yourself and inflict fire, building up focus to transfer back to your main form.\"\n            - Following Text: \"* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.\n![Wukong Pagoda 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Image Summary**: The image depicts a player character, armed with a staff, standing in front of a locked cell within a dimly lit, reddish dungeon environment. Inside the cell, a Bandit Chief is crouched near a **Treasure Chest**, which is highlighted by a red circle. The scene suggests an encounter or objective related to unlocking the cell and accessing the chest.\n\n2. **Narrative Role**: Based on the preceding and following text, this image illustrates a key moment in the \"Wukong Pagoda\" level. The locked cell contains a Bandit Chief guarding a **Treasure Chest** of materials, which the player must likely defeat or bypass to progress. This ties into the broader narrative of exploring the pagoda and dealing with captains and enemies tied to the Prisoner's request."
+}

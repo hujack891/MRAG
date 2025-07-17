@@ -1,0 +1,28 @@
+{
+    "chunk_id": 187266042360,
+    "source_file": "Civet_Sergeant_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Civet_Fight.jpg",
+    "alt_text": "Civet Fight.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Civet Sergeant Fight\n* Civet Sergeant Spirit",
+    "img_below_text": "## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Civet_Sergeant_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Civet Sergeant Fight\n* Civet Sergeant Spirit\"\n            - Following Text: \"## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Civet_Fight.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene in a dimly lit, rocky environment, likely within the Crouching Tiger Temple. The player character is engaged in battle with red-eyed enemies, possibly lesser Yaoguai, as sparks and debris fly around. This moment appears to follow the \"Civet Sergeant Fight\" and precedes the exploration of the temple to locate the Civet Sergeant, tying into the narrative progression of defeating bosses and using key items to advance."
+}

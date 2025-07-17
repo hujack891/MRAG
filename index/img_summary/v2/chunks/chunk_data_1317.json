@@ -1,0 +1,28 @@
+{
+    "chunk_id": 759689484189,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sahali_30.jpg",
+    "alt_text": "Wukong Sahali 30.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Sahali 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Sahali_29.jpg)\nAfter he lands, you’ll be instructed to strike at its claws, so move yourself to the side and lock onto one of the front claws of the beast. Fuban won’t move around too much during this period, but may shake its head around requiring you to dodge a few slams.",
+    "img_below_text": "Fuban can also slowly pull one of its claws back to then sweep upward in front of his face, which can damage you if you aren’t paying attention. If you’re worried about getting hit, you can also play it safe and stick with the Thrust Stance to hit its claws with a long range heavy attack.\n![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Sahali_29.jpg)\nAfter he lands, you’ll be instructed to strike at its claws, so move yourself to the side and lock onto one of the front claws of the beast. Fuban won’t move around too much during this period, but may shake its head around requiring you to dodge a few slams.\"\n            - Following Text: \"Fuban can also slowly pull one of its claws back to then sweep upward in front of his face, which can damage you if you aren’t paying attention. If you’re worried about getting hit, you can also play it safe and stick with the Thrust Stance to hit its claws with a long range heavy attack.\n![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_Sahali_30.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts an intense moment during a boss fight in *Black Myth: Wukong*, showcasing the player character attacking one of Fuban's front claws. The sandy battlefield and the creature's detailed design emphasize the dynamic combat, with the player's health and ability icons visible in the HUD.\n\n2. **Purpose/Narrative Role**: The image illustrates the strategy of targeting Fuban's claws during a specific phase of the fight, as described in the preceding and following text. It visually reinforces the gameplay tip to focus on the claws while dodging potential attacks."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 796796606538,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg",
+    "alt_text": "Wukong Fright 29.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Fright 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg)\nThis boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.",
+    "img_below_text": "What will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.\nAfter taking enough damage, the Mother of Stone will let out a roar, signaling a Palestone will quickly appear to defend her. That’s your cue to immediately break off your attack, regain your stamina, and be ready to dodge the incoming stone monster. Survival will hinge on how well you can deal with each wave while taking minimal damage, and understanding their melee and ranged attacks.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg)\nThis boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stone doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\"\n            - Following Text: \"What will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.\nAfter taking enough damage, the Mother of Stone will let out a roar, signaling a Palestone will quickly appear to defend her. That’s your cue to immediately break off your attack, regain your stamina, and be ready to dodge the incoming stone monster. Survival will hinge on how well you can deal with each wave while taking minimal damage, and understanding their melee and ranged attacks.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Fright_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing the Mother of Stone, a giant crystal-embedded statue that serves as a boss in the game. Despite its imposing presence, the Mother of Stone does not actively engage in combat but has significant health that players must deplete. The real challenge lies in surviving waves of attacking Palestones, stone monsters that emerge to defend the Mother of Stone. The image illustrates the endurance battle players face, emphasizing the strategic need to manage stamina and dodge attacks while gradually wearing down the boss's health."
+}

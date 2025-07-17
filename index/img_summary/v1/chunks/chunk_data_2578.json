@@ -1,31 +1,6 @@
 {
-    "chunk_id": 445268983919,
-    "source_file": "Shigandang.md",
-    "h1_title": "Shigandang",
-    "h2_title": "Where to Find Shigandang",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Eye3.jpg",
-    "alt_text": "Wukong Eye3.jpg",
-    "position_desc": 3,
-    "img_above_text": "# Shigandang\nShigandang is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Secretly buried not far from another Yaoguai King, you'll need to seek out six Buddha Statue Eyeballs to unlock this boss.\n* **Rewards:** Heart of Stone, Skhanda of Feeling, Mind Core x1, Yaoguai Core x2, 1652 Experience, 1371 Will\n## Where to Find Shigandang\n\n* From the Squall Hideout Shrine, take the left path up to a darkened area leading into a large cave. Ignore the middle path leading into the main cave entrance for the moment, and head toward the large open cave area to the left by following some braziers. They’ll lead toward a large ominous statue in the dark. More Palestones will try to ambush you here, and they guard another stone statue head at the foot of the larger statue’s altar. Examine it to gain another Buddha’s Eyeball.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Shigandang.md', located under Where to Find Shigandang.\n\n                Metadata:\n                - Document Title: Shigandang\n                - Section Title: Where to Find Shigandang\n                - Alt Text: Wukong Eye3.jpg\n\n                Context:\n                - Preceding Text: \"# Shigandang\nShigandang is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Secretly buried not far from another Yaoguai King, you'll need to seek out six Buddha Statue Eyeballs to unlock this boss.\n* **Rewards:** Heart of Stone, Skhanda of Feeling, Mind Core x1, Yaoguai Core x2, 1652 Experience, 1371 Will\n## Where to Find Shigandang\n\n* From the Squall Hideout Shrine, take the left path up to a darkened area leading into a large cave. Ignore the middle path leading into the main cave entrance for the moment, and head toward the large open cave area to the left by following some braziers. They’ll lead toward a large ominous statue in the dark. More Palestones will try to ambush you here, and they guard another stone statue head at the foot of the larger statue’s altar. Examine it to gain another Buddha’s Eyeball.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Eye3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically from the section \"Where to Find Shigandang\" in the document titled \"Shigandang.\" The player character is approaching a staircase leading to a platform where an enemy is positioned. The area appears to be a dark, cave-like environment with scattered braziers and ominous surroundings. This setting aligns with the preceding text, which describes navigating through a dark area to find a large statue and encountering enemies while searching for Buddha Statue Eyeballs to unlock the Shigandang boss fight. The red circles in the image likely highlight important objects or locations relevant to the quest."
+    "chunk_id": 282118671917,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Yellow_57.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a large, imposing enemy, identified as \"Yellow Wind Sage,\" is engaged in combat. The environment appears to be a dimly lit, sandy or dusty area, suggesting a cave or desert setting. The user interface (UI) displays various elements: on the bottom left, there is a health bar with red and blue segments, indicating the player's health and possibly another status like stamina or mana. Below the health bar, there are icons for different abilities or items, with a button prompt for \"LB\" to access them. On the bottom right, additional icons are present, each with button prompts \"RT\" and \"LT,\" likely for special attacks or skills. The enemy's health bar is prominently displayed at the bottom center, showing the name \"Yellow Wind Sage\" and indicating the enemy's remaining health. The scene suggests a boss fight, requiring the player to manage health and abilities strategically."
 }

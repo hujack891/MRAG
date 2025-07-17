@@ -1,0 +1,28 @@
+{
+    "chunk_id": 469807687202,
+    "source_file": "Old_Rattle-Drum_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg",
+    "alt_text": "Wukong MadTiger 9.jpg",
+    "position_desc": 20,
+    "img_above_text": "![Wukong MadTiger 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_MadTiger_22.jpg)\nThere are certain times after performing slam attacks that he may keep his claws deep in the ground. If he continues to crouch down while charging up, it means he’ll rip his fists out to send a shower of rocks erupting in your path.",
+    "img_below_text": "Other times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.\n![Wukong MadTiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_MadTiger_22.jpg)\nThere are certain times after performing slam attacks that he may keep his claws deep in the ground. If he continues to crouch down while charging up, it means he’ll rip his fists out to send a shower of rocks erupting in your path.\"\n            - Following Text: \"Other times, he’ll begin to pick up a massive boulder, but instead of tossing it, he’ll leap across the room to personally deliver the massive rock to your face, which can deal a ton of damage.\n![Wukong MadTiger 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d6/Wukong_MadTiger_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_MadTiger_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic scene from the game \"Black Myth: Wukong,\" showcasing a tense battle moment against the Mad Tiger boss. The player character is engaged in combat, preparing to counter the Mad Tiger's powerful attacks, such as slamming the ground to create rock eruptions or leaping with a massive boulder. This image captures the intensity and challenge of the encounter, highlighting the player's need to anticipate and react to the boss's aggressive moves."
+}

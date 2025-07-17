@@ -1,31 +1,6 @@
 {
-    "chunk_id": 822573210674,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Warding Temple",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Pagoda_119.jpg",
-    "alt_text": "Wukong Pagoda 119.jpg",
-    "position_desc": 113,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Warding Temple\n\nBefore you head in, be sure to explore the bottom of the stairway for a small narrow path beyond. Check to the left of a small tunnel to find another Abomination guarding a **Treasure Chest** with materials, then head through (watching out for a Cyan Bat lurking above) to reach a dead end cliff overlooking the Grand Pagoda in the distance, and check the left side of the cliff to grab a green Wisp guarded by a Frozen Corpse.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 113 from the file 'Pagoda_Realm_Walkthrough.md', located under Warding Temple.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Warding Temple\n                - Alt Text: Wukong Pagoda 119.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Warding Temple\n\nBefore you head in, be sure to explore the bottom of the stairway for a small narrow path beyond. Check to the left of a small tunnel to find another Abomination guarding a **Treasure Chest** with materials, then head through (watching out for a Cyan Bat lurking above) to reach a dead end cliff overlooking the Grand Pagoda in the distance, and check the left side of the cliff to grab a green Wisp guarded by a Frozen Corpse.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Pagoda_119.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy courtyard scene from the \"Warding Temple\" section of the document \"The Beguiling Chant of the Pagoda Realm.\" In the image, a character resembling Wukong, a mythical monkey figure, is seen confronting another character who is seated at a table, surrounded by a glowing, fiery circle. The setting is tense, suggesting a significant encounter or confrontation. The preceding text describes exploring the area for treasures and enemies, indicating that this image likely represents a pivotal moment or battle within the narrative."
+    "chunk_id": 356479182621,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Golden_Loong_Staff.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays a detailed view of a weapon, specifically a staff, within a video game. The staff features ornate designs, including a golden dragon head at the top. The background shows a character holding the staff, dressed in elaborate armor, though the focus remains on the weapon. On the left side of the image, there is a user interface element showing partial text related to the staff's attributes, including a damage value of 108. The text suggests the staff is used for executing moves in a specific stance, requiring a certain amount of focus points. This image is relevant for players looking to understand the weapon's capabilities and requirements for effective use in gameplay."
 }

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 873292525084,
+    "source_file": "Non-White_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Non-white_power.png",
+    "alt_text": "Non-white power.png",
+    "position_desc": 3,
+    "img_above_text": "Non-White fights with a double-ended blade that deals ice damage. He can also cast ice spells with it that summon a trail of razor-sharp icicles to rise from the ground. The key to Non-White is anticipating his blows as he winds up and perfect dodging out of the way before they hit you. You could also consider taking some Body-Warming Powder into the fight with you to combat Chill.\n## Non-White Spirit",
+    "img_below_text": "* **Bone Spikes**\n* Equipped Effect: Moderately increases Poison and Frost Damage.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Non-White_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Non-White fights with a double-ended blade that deals ice damage. He can also cast ice spells with it that summon a trail of razor-sharp icicles to rise from the ground. The key to Non-White is anticipating his blows as he winds up and perfect dodging out of the way before they hit you. You could also consider taking some Body-Warming Powder into the fight with you to combat Chill.\n## Non-White Spirit\"\n            - Following Text: \"* **Bone Spikes**\n* Equipped Effect: Moderately increases Poison and Frost Damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Non-white_power.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the equipment menu in a game, showcasing the \"Non-White\" spirit, which is classified as an epic item with high Qi cost. The spirit grants the ability \"Bone Spikes,\" allowing the player to transform into Non-White, spin, leap, and attack enemies with thorn-like spikes. Additionally, equipping this spirit moderately increases Poison and Frost Damage. The preceding text describes Non-White's combat abilities with ice damage and spells, while the following text lists the effects of Bone Spikes."
+}

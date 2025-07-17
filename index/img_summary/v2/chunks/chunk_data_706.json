@@ -1,0 +1,28 @@
+{
+    "chunk_id": 748510063911,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-evil-repelling-medicament.jpg",
+    "alt_text": "Black-myth-wukong-evil-repelling-medicament.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder",
+    "img_below_text": "• 1 Jade Lotus | Evil Repelling Medicament\n![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Body-Cooling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Body-Cooling_Powder_.jpg)| Body Cooling Powder | Uncommon | Upon use, instantly remove Burnt State and significantly increases Burn Resistance for a short duration | • Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain• Found in chests • Dropped from enemy corpses | • 1 Fragrant Jade Flower\n• 1 Jade Lotus | Body Cooling Powder\"\n            - Following Text: \"• 1 Jade Lotus | Evil Repelling Medicament\n![TIger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/TIger_Subduing_Pellets_.jpg)| Tiger Subduing Pellets | Uncommon | Upon use, moderately increases damage for a long duration | • Found in a case on a cliff after defeating Lingxuzi in Bamboo Grove, just before the Snake Trail Shrine in Black Wind Mountain• Bought from Xu Dog in Crouching Tiger Temple - Cellar in Yellow Wind Ridge| • 1 Snake-Head Mushroom\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-evil-repelling-medicament.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts the \"Evil Repelling Medicament,\" an uncommon consumable item in *Black Myth: Wukong*. This item is likely used to provide specific benefits, such as enhancing resistance or countering negative effects, based on its placement alongside similar items in the game's inventory system.\n\n2. **Purpose/Content/Narrative Role**: The \"Evil Repelling Medicament\" is part of the game's consumable inventory, designed to aid players in overcoming challenges. It is mentioned between the \"Body Cooling Powder\" and \"Tiger Subduing Pellets,\" suggesting it plays a supportive role in combat or exploration, possibly by mitigating harmful effects or enhancing player stats. Its acquisition likely involves crafting or finding it in specific locations."
+}

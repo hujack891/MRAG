@@ -1,31 +1,6 @@
 {
-    "chunk_id": 415220719244,
-    "source_file": "Elder_Jinchi.md",
-    "h1_title": "Elder Jinchi",
-    "h2_title": "Where to Find Elder Jinchi",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
-    "alt_text": "Wukong Bamboo 55.jpg",
-    "position_desc": 2,
-    "img_above_text": "# Elder Jinchi\nElder Jinchi is an optional secret Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located in a secret realm locked away in the past, you'll need to activate three bells in order to locate and defeat him.\n* **Rewards:** Fireproof Mantle, 2,000 Will\n## Where to Find Elder Jinchi\nThe only way to be transported to this secret area in Chapter 1 is by locating and interacting with three bells found around the Black Wind Mountain region. They can be rung in any order, and ringing the third bell will automatically transport you to the Secret Area, which you can then fast travel to and from as you wish. The three bells are located in the following regions:\n\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'Elder_Jinchi.md', located under Where to Find Elder Jinchi.\n\n                Metadata:\n                - Document Title: Elder Jinchi\n                - Section Title: Where to Find Elder Jinchi\n                - Alt Text: Wukong Bamboo 55.jpg\n\n                Context:\n                - Preceding Text: \"# Elder Jinchi\nElder Jinchi is an optional secret Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Located in a secret realm locked away in the past, you'll need to activate three bells in order to locate and defeat him.\n* **Rewards:** Fireproof Mantle, 2,000 Will\n## Where to Find Elder Jinchi\nThe only way to be transported to this secret area in Chapter 1 is by locating and interacting with three bells found around the Black Wind Mountain region. They can be rung in any order, and ringing the third bell will automatically transport you to the Secret Area, which you can then fast travel to and from as you wish. The three bells are located in the following regions:\n\n* **Bamboo Grove** \\- At the end of the Snake Trail area before reaching the Marsh of the White Mists, you’ll face a Yaoguai Chief named Guangmou who can summon snakes to attack you. Once defeated, the path up to the next Shrine will be on the right, but if you head some some stairs to the left of the grove, you’ll find the second bell.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the video game \"Black Myth Wukong,\" specifically from the section titled \"Where to Find Elder Jinchi\" in the document \"Elder Jinchi.\" The image shows a character, likely Wukong, engaging in combat with a group of Yaoguai enemies in a bamboo grove. This setting is relevant to the narrative context, as players must navigate through the Bamboo Grove and defeat enemies to find and ring one of the three bells required to access the secret area where Elder Jinchi can be found and fought."
+    "chunk_id": 518412290109,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/FLing_Chief_Spirit.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the equipment menu from a video game, focusing on the \"Flint Chief\" spirit, categorized as Epic. It has a high Qi cost and offers a \"Solid Stance\" ability, allowing the player to transform into a solid black rock to deflect enemy strikes. The equipped effect slightly increases Four Banes Resistance. The user interface shows various spirits available for selection, each with unique icons and appearances. On the right, character stats are listed, including health, Qi, and other attributes with numerical values, some showing positive or negative changes. The top menu includes options like Self-Advance, Relics, Inventory, Journal, and Settings. The player can press 'F' to use the ability in combat and 'E' to equip the spirit."
 }

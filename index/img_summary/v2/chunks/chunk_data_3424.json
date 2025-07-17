@@ -1,0 +1,28 @@
+{
+    "chunk_id": 622116882213,
+    "source_file": "Webbed_Hollow_-_Middle_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_MiddleHollow_5.jpg",
+    "alt_text": "Wukong MiddleHollow 5.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong MiddleHollow 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_4.jpg)\nStill, you can briefly explore the right passage to find an upper ledge overlooking the next area with a green Wisp nearby, before heading back.",
+    "img_below_text": "As you cross the small bridge, you can find a small archway on the right, with two talking lanterns that appear to be shouting \"big day!\"\nAs you approach, a mysterious woman (the same one that killed the yaoguai at the start of the chapter) will silence the lanterns, before offering up that there's a supposed treasure beyond the archway.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Webbed_Hollow_-_Middle_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_MiddleHollow_4.jpg)\nStill, you can briefly explore the right passage to find an upper ledge overlooking the next area with a green Wisp nearby, before heading back.\"\n            - Following Text: \"As you cross the small bridge, you can find a small archway on the right, with two talking lanterns that appear to be shouting \"big day!\"\nAs you approach, a mysterious woman (the same one that killed the yaoguai at the start of the chapter) will silence the lanterns, before offering up that there's a supposed treasure beyond the archway.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_MiddleHollow_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is exploring a dark cave with a torch. The cave features large statues and a path leading forward. The red arrow indicates a right turn towards a small bridge and an archway with two talking lanterns. This area is significant as it leads to an encounter with a mysterious woman who mentions a treasure beyond the archway."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 633305582443,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Longevity_4.jpg",
+    "alt_text": "Wukong Longevity 4.jpg",
+    "position_desc": 100,
+    "img_above_text": "![Wukong Longevity 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Longevity_3.jpg)\nAs he struggles to rise, unleash a heavy attack using your Pillar Stance on his head and he'll likely topple back to the ground giving you a bit more time to defeat him.",
+    "img_below_text": "Be sure to look around this area after defeating the overlord, and nearby you can spot a tree atop a large rock where a Wolf Guardian lurks over a **Treasure Chest** full of materials you can claim.\n![Wukong Longevity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Longevity_6.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 100 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Longevity 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Longevity_3.jpg)\nAs he struggles to rise, unleash a heavy attack using your Pillar Stance on his head and he'll likely topple back to the ground giving you a bit more time to defeat him.\"\n            - Following Text: \"Be sure to look around this area after defeating the overlord, and nearby you can spot a tree atop a large rock where a Wolf Guardian lurks over a **Treasure Chest** full of materials you can claim.\n![Wukong Longevity 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Longevity_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Longevity_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character approaching a large rock with a tree on top, where a Wolf Guardian is positioned. The image is meant to guide players to this specific location after defeating an overlord, highlighting the presence of a Treasure Chest full of materials nearby, as indicated by the red-circled area."
+}

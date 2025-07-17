@@ -1,0 +1,28 @@
+{
+    "chunk_id": 825331814325,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Prologue_4.jpg",
+    "alt_text": "Wukong Prologue 4.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Prologue 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Prologue_3.jpg)\nErlang fights in a very standard fashion with sweeps and thrusts of his spear, often slowing down and allowing you to test out your dodging skills. There’s no real block button to speak of in Wukong, so dodging — especially at the last second — is key to surviving combat encounters.",
+    "img_below_text": "Once you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\n![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Prologue 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Prologue_3.jpg)\nErlang fights in a very standard fashion with sweeps and thrusts of his spear, often slowing down and allowing you to test out your dodging skills. There’s no real block button to speak of in Wukong, so dodging — especially at the last second — is key to surviving combat encounters.\"\n            - Following Text: \"Once you’ve removed a fourth of his health bar, Erlang will vanish before trying to ambush from above. When the fight resumes, he’ll get a little faster, and start blocking attacks, which is when you should try throwing more heavy attacks into the mix.\n![Wukong Prologue 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Prologue_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Prologue_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat sequence from *Black Myth: Wukong*, showing Wukong engaging in a battle against Erlang, the Sacred Divinity. Wukong is mid-attack, landing a heavy blow on Erlang, as indicated by the \"Heavy Attack\" prompt and the visible damage effects. This moment aligns with the surrounding context, where players are advised to focus on dodging and timing attacks carefully. The image likely illustrates the intensity of the fight and the importance of strategic combat mechanics."
+}

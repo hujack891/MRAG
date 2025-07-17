@@ -1,0 +1,28 @@
+{
+    "chunk_id": 937026305661,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Bamboo_8.jpg",
+    "alt_text": "Wukong Bamboo 8.jpg",
+    "position_desc": 9,
+    "img_above_text": "Each Stance can be invested in to serve different purposes -- for example, only the Smash Stance can interrupt an enemy attack with a well-timed Varied Combo, provided you unlock the required skill. The Pillar Stance can allow you to gain height while charging your heavy attack, and even nullify ground-based attacks! Other stances can help attack enemies from a safe distance, or hit multiple enemies with wider area-of-effect attacks! If you're having trouble against a tough enemy, try out other stances!\n### 5\\. You Can Pick Up Missed Spirits at Keepers Shrines",
+    "img_below_text": "Before you meet the NPC that gives you the Gourd that allows you to absorb spirits, you’ll likely encounter some green wisps and maybe even side bosses that become spirits. Whether you have the Gourd or not, any spirits you don’t pick up can be collected at the Keeper’s Shrines so you don’t miss out on them.\nTrying to absorb a boss spirit early will prompt the phrase \"Cannot absorb Spirit without Guidance.\" Not to worry, you'll be able to retrieve the Spirit once you gain the upgrade!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"Each Stance can be invested in to serve different purposes -- for example, only the Smash Stance can interrupt an enemy attack with a well-timed Varied Combo, provided you unlock the required skill. The Pillar Stance can allow you to gain height while charging your heavy attack, and even nullify ground-based attacks! Other stances can help attack enemies from a safe distance, or hit multiple enemies with wider area-of-effect attacks! If you're having trouble against a tough enemy, try out other stances!\n### 5\\. You Can Pick Up Missed Spirits at Keepers Shrines\"\n            - Following Text: \"Before you meet the NPC that gives you the Gourd that allows you to absorb spirits, you’ll likely encounter some green wisps and maybe even side bosses that become spirits. Whether you have the Gourd or not, any spirits you don’t pick up can be collected at the Keeper’s Shrines so you don’t miss out on them.\nTrying to absorb a boss spirit early will prompt the phrase \"Cannot absorb Spirit without Guidance.\" Not to worry, you'll be able to retrieve the Spirit once you gain the upgrade!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Bamboo_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a game interface where players can retrieve lost spirits at a Keeper's Shrine. It shows a list with a spirit named \"Wandering Wight\" available for retrieval. This interface allows players to collect spirits they may have missed during gameplay, ensuring they do not lose out on any important resources or upgrades. The shrine, adorned with a small pot and surrounded by a serene natural setting, serves as a point for managing these spirits."
+}

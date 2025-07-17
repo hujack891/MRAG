@@ -1,0 +1,28 @@
+{
+    "chunk_id": 306154612149,
+    "source_file": "Blood_of_the_Iron_Bull.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg",
+    "alt_text": "Guangmo.jpg",
+    "position_desc": 4,
+    "img_above_text": "The next material location can be found by defeating Guangmou along the main path in the Bamboo Grove \\- Snake Trail location in Black Wind Mountain.\nThis is a main boss, so you can't miss this particular Blood of the Iron Bull.",
+    "img_below_text": "### Blood of the Iron Bull Location 4\nThe next Blood of the Iron Bull material can be found after the Black Wind Cave \\- Outside The Cave Shrine in Black Wind Mountain. It is located on the bamboo bridge, just after the Shrine itself. You will find it in a chest on the path, just heading off from the bridge, if you jump over the barriers of the bridge.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Blood_of_the_Iron_Bull.md'.\n\n            Context:\n            - Preceding Text: \"The next material location can be found by defeating Guangmou along the main path in the Bamboo Grove \\- Snake Trail location in Black Wind Mountain.\nThis is a main boss, so you can't miss this particular Blood of the Iron Bull.\"\n            - Following Text: \"### Blood of the Iron Bull Location 4\nThe next Blood of the Iron Bull material can be found after the Black Wind Cave \\- Outside The Cave Shrine in Black Wind Mountain. It is located on the bamboo bridge, just after the Shrine itself. You will find it in a chest on the path, just heading off from the bridge, if you jump over the barriers of the bridge.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts Guangmou, a key boss encountered along the Bamboo Grove - Snake Trail in Black Wind Mountain. This encounter is significant as defeating Guangmou is necessary to obtain the Blood of the Iron Bull material, which is part of the game's progression. The surrounding forest environment emphasizes the setting of the battle, aligning with the narrative context of exploring Black Wind Mountain."
+}

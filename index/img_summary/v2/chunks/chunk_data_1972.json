@@ -1,0 +1,28 @@
+{
+    "chunk_id": 722367860772,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Pearl_Tree_Seed_.jpg",
+    "alt_text": "Pearl Tree Seed .jpg",
+    "position_desc": 38,
+    "img_above_text": "![Fire Bellflower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Fire_Bellflower_Seed_.jpg)| Fire Bellflower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fire Bellflower\n![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears",
+    "img_below_text": "![Golden Lotus Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg)| Golden Lotus Seeds | Uncommon | Seed | Randomly obtained while defeating Golden Lotus Guai\n![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Fire Bellflower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Fire_Bellflower_Seed_.jpg)| Fire Bellflower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fire Bellflower\n![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears\"\n            - Following Text: \"![Golden Lotus Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg)| Golden Lotus Seeds | Uncommon | Seed | Randomly obtained while defeating Golden Lotus Guai\n![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Pearl_Tree_Seed_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a stone bowl containing three textured seeds, likely representing an in-game item from *Black Myth: Wukong*. Based on the preceding and following text, the seeds are part of a collection of medicinal or crafting ingredients, categorized by rarity and source. This specific image is positioned among descriptions of seeds like Fire Bellflower Seeds and Golden Lotus Seeds, suggesting it portrays another collectible seed type used for gameplay purposes such as crafting or progression."
+}

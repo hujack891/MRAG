@@ -1,0 +1,28 @@
+{
+    "chunk_id": 869496207149,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Bitter_25.jpg",
+    "alt_text": "Wukong Bitter 25.jpg",
+    "position_desc": 59,
+    "img_above_text": "![Wukong Bitter 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_23.jpg)\nAs you draw near another small building, you can spot a man in trouble, being harassed by three yaoguai. These lesser Apramana Bats can be a pain to deal with, as they'll routinely take to the air to slash at you with waves of force from a distance.",
+    "img_below_text": "Wait for them to pull their legs up before smashing down to deflect with Rock Solid or dodge and counter with Cloud Step.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 59 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_23.jpg)\nAs you draw near another small building, you can spot a man in trouble, being harassed by three yaoguai. These lesser Apramana Bats can be a pain to deal with, as they'll routinely take to the air to slash at you with waves of force from a distance.\"\n            - Following Text: \"Wait for them to pull their legs up before smashing down to deflect with Rock Solid or dodge and counter with Cloud Step.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_Bitter_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, where the protagonist, Wukong, is engaged in a snowy environment battling a flying yaoguai, identified as an Apramana Bat. The preceding text highlights the challenge posed by these enemies, who attack from the air using ranged force waves, while the following text suggests strategies like deflecting with Rock Solid or countering with Cloud Step. The image visually supports this narrative, showcasing the tense encounter and the game's mechanics in action."
+}

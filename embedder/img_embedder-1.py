@@ -19,37 +19,37 @@ from config import BaseConfig, TextEmbedding3LargeConfig
 # 初始化运行日志
 logger = setup_logging(os.path.splitext(os.path.basename(__file__))[0])
 
-# 初始化tiktoken编码器
+
 encoding = tiktoken.get_encoding("cl100k_base")
+baseconfig = BaseConfig()
+INPUT_DIR = "./index/img_summary/v1/chunks"  
+OUTPUT_DIR = "./index/image/v1"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+client = OpenAI(
+    base_url=baseconfig.EMBEDDING_URL,
+    api_key=baseconfig.EMBEDDING_API
+)
+
 
 @dataclass
 class SummaryData:
     chunk_id: int
     source_file: str
-    h1_title: str            # 当前一级标题
-    h2_title: str            # 当前二级标题（可为空）
-    h3_title: str            # 当前三级标题（可为空）
     img_url: str             # 图片url
     alt_text: str            # 图片alt文本
     position_desc: int       # 第几张图片
-    img_above_text: str      # 图片的上文
-    img_below_text: str      # 图片的下文
-    summary_promot: str      # 暂为空
-    img_summary: str         # 图片总结
+    summary_promot: str      # 
+    img_summary: str         # 
     embedding_prompt: str    # 图片总结的prompt
+    
 
     def to_serializable_dict(self) -> Dict[str, Any]:
         return {
             "chunk_id": self.chunk_id,
             "source_file": self.source_file,
-            "h1_title": self.h1_title,         # 可留空或使用默认标识
-            "h2_title": self.h2_title,
-            "h3_title": self.h3_title,
             "img_url": self.img_url,
             "alt_text": self.alt_text,
             "position_desc": self.position_desc,
-            "img_above_text": self.img_above_text,
-            "img_below_text": self.img_below_text,
             "summary_promot": self.summary_promot,
             "img_summary": self.img_summary,
             "embedding_prompt": self.embedding_prompt
@@ -58,7 +58,7 @@ class SummaryData:
 def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
     
     # 读取文件夹下的全部json文件
-    json_files = []  # 全部的json文件名
+    json_files = [] 
     try:
         for file in os.listdir(file_path):
             if file.endswith(".json"):
@@ -76,15 +76,7 @@ def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
             data = json.load(file)
             chunk_data = SummaryData(
                 chunk_id=data.get("chunk_id", 0),
-                source_file=data.get("source_file", ""),
-                h1_title=data.get("h1_title", ""),
-                h2_title=data.get("h2_title", ""),
-                h3_title=data.get("h3_title", ""),
                 img_url=data.get("img_url", ""),
-                alt_text=data.get("alt_text", ""),
-                position_desc=data.get("position_desc", 0),
-                img_above_text=data.get("img_above_text", ""),
-                img_below_text=data.get("img_below_text", ""),
                 summary_promot=data.get("summary_promot", ""),
                 img_summary=data.get("img_summary", ""),
                 embedding_prompt=data.get("embedding_prompt", "")
@@ -93,66 +85,23 @@ def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
     return all_chunk_data
 
 def main():
-
-    logger.info("========== 第一步：读取环境变量和路径 ==========")
-    
-    baseconfig = BaseConfig()
-    INPUT_DIR = "./index/img_summary/v1/chunks"  
-    OUTPUT_DIR = "./index/image/v1"
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-    logger.info("\n========== 第二步：加载chunks数据 ==========")
+    # 加载保存摘要的JOSN文件
     all_chunk_data = load_chunks_to_chunk_data(INPUT_DIR)
 
-    logger.info("\n========== 第三步：构建提示词 ==========")
-
+    # 构建嵌入提示词
     for i in range(len(all_chunk_data)):
-        if all_chunk_data[i].h2_title != "":  # 二级或三级
-            prompt = (
-                # 这个图片是在什么文件下的
-                # 是这个文档的第几张图片
-                # 这个图片的一级标题是：
-                # 这个图片的二级标题是：
-                # 这个图片的上文是什么
-                # 这个图片的下文是什么
-                # 这个图片的总结是什么
-                f"This is an image from the file '{all_chunk_data[i].source_file}', "
-                f"This is the {all_chunk_data[i].position_desc}th image in the document, "
-                f"located in the main section titled '{all_chunk_data[i].h1_title}'. "
-                f"The sub-section is titled '{all_chunk_data[i].h2_title}', "
-                f"The preceding text of this image is: {all_chunk_data[i].img_above_text},"
-                f"The following text of this image is: {all_chunk_data[i].img_below_text},"
-                f"The summary of this picture is:{all_chunk_data[i].img_summary}"
-            )
-        else:  # 一级
-            prompt = (
-                # 这个图片是在什么文件下的
-                # 是这个文档的第几张图片
-                # 这个图片的一级标题是：
-                # 这个图片的上文是什么
-                # 这个图片的下文是什么
-                # 这个图片的总结是什么
-                f"This is an image from the file '{all_chunk_data[i].source_file}', "
-                f"This is the {all_chunk_data[i].position_desc}th image in the document, "
-                f"located in the main section titled '{all_chunk_data[i].h1_title}'. "
-                f"The preceding text of this image is: {all_chunk_data[i].img_above_text},"
-                f"The following text of this image is: {all_chunk_data[i].img_below_text},"
-                f"The summary of this picture is:{all_chunk_data[i].img_summary}"
-            )
+        prompt = (
+            f"The summary of this picture is:{all_chunk_data[i].img_summary}"
+        )
         all_chunk_data[i].embedding_prompt = prompt
 
-    logger.info("\n========== 第四步：创建向量索引库 ==========")
+    # 创建索引库
     textembedding3largeconfig = TextEmbedding3LargeConfig()
     index = faiss.IndexFlatL2(textembedding3largeconfig.EMBEDDING_DIM)   # 使用 L2 距离的扁平索引（暴力搜索）
     index = faiss.IndexIDMap(index)  # 支持 add_with_ids
 
-    logger.info("\n========== 第五步：将chunk内容转为向量，并保存到向量索引库中 ==========")
+    # 通过嵌入模型生成向量，保存到索引库中
 
-    client = OpenAI(
-        base_url=baseconfig.EMBEDDING_URL,
-        api_key=baseconfig.EMBEDDING_API
-    )
-    
     def process_chunk(chunk_data):
         try:
             response = client.embeddings.create(

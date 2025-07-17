@@ -1,0 +1,28 @@
+{
+    "chunk_id": 883868190080,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg",
+    "alt_text": "Awaken Wine Worm .jpg",
+    "position_desc": 35,
+    "img_above_text": "![Mind Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg)| Mind Core| Epic | Rare stat upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters\n![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters",
+    "img_below_text": "![Knot Of Voidness .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg)| Knot of Voidness| Legendary | Rare Spirits upgrade material | • Found in chests and locations upon defeating bosses throughout the game",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Mind Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg)| Mind Core| Epic | Rare stat upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters\n![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\"\n            - Following Text: \"![Knot Of Voidness .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg)| Knot of Voidness| Legendary | Rare Spirits upgrade material | • Found in chests and locations upon defeating bosses throughout the game\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a crafting material from the game *Black Myth: Wukong*. Based on the context, it is likely a rare or legendary upgrade material used to enhance specific items or abilities. Positioned between the \"Luojia Fragrant Vine\" and \"Knot of Voidness,\" it may serve a similar role, such as being collectible through exploration, defeating bosses, or opening chests. Its design suggests a unique or mystical significance within the game's narrative."
+}

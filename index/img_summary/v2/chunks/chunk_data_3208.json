@@ -1,0 +1,28 @@
+{
+    "chunk_id": 810348968002,
+    "source_file": "Verdant_Glow_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Verdant_Glow_.jpg",
+    "alt_text": "Verdant Glow .jpg",
+    "position_desc": 2,
+    "img_above_text": "Verdant Glow is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\nOnce you're on Purple Cloud Mountain, head down the path, past the snake, and to the right to find Verdant Glow. It is standing in front of a tree with a Luojia Fragrant Vine growing on it.",
+    "img_below_text": "## Verdant Glow Fight\nVerdant Glow has a couple of tricks up its leaves. Firstly, it can summon smaller tree minions to fight alongside it and distract you while it launches its own attacks, using its head to spin around in a circle. It also outstretches one leg while spinning around in an effort to knock you off your feet.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Verdant_Glow_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Verdant Glow is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\nOnce you're on Purple Cloud Mountain, head down the path, past the snake, and to the right to find Verdant Glow. It is standing in front of a tree with a Luojia Fragrant Vine growing on it.\"\n            - Following Text: \"## Verdant Glow Fight\nVerdant Glow has a couple of tricks up its leaves. Firstly, it can summon smaller tree minions to fight alongside it and distract you while it launches its own attacks, using its head to spin around in a circle. It also outstretches one leg while spinning around in an effort to knock you off your feet.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Verdant_Glow_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts Verdant Glow, a mystical creature standing in a serene, lush environment filled with water, rocks, and dense vegetation. Verdant Glow is positioned in front of a tree, which is likely the one mentioned to have a Luojia Fragrant Vine growing on it. This scene is part of the secret area in Chapter 4, Purple Cloud Mountain, which players can access after defeating the Venom Daoist. The image sets the stage for the upcoming battle with Verdant Glow, highlighting its natural habitat before the fight begins."
+}

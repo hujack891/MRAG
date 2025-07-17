@@ -1,0 +1,28 @@
+{
+    "chunk_id": 959795631475,
+    "source_file": "Buddha%27s_Eyeball_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Buddhas_Eyeball_10.jpg",
+    "alt_text": "Buddhas Eyeball 10.jpg",
+    "position_desc": 8,
+    "img_above_text": "The final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\nBuddha's Eyeball 6",
+    "img_below_text": "For a more detailed run-through of the entirety of Yellow Wind Ridge, check out our walkthrough.\nBuddha's Eyeball",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Buddha%27s_Eyeball_Locations.md'.\n\n            Context:\n            - Preceding Text: \"The final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss.\nBuddha's Eyeball 6\"\n            - Following Text: \"For a more detailed run-through of the entirety of Yellow Wind Ridge, check out our walkthrough.\nBuddha's Eyeball\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Buddhas_Eyeball_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character standing near a large, disembodied statue head with glowing yellow eyes, likely representing one of the \"Buddha's Eyeball\" statues mentioned in the context. The setting is a rocky, arid environment, possibly near Fright Cliff or Rockrest Flat shrine as described in the preceding text. This statue appears to be part of a collectible or questline in the game, with the walkthrough suggesting additional exploration in Yellow Wind Ridge for related objectives."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 21265603218,
+    "source_file": "Guangmou_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg",
+    "alt_text": "Guangmo.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Guangmou Fight\n* Guangmou Spirit",
+    "img_below_text": "## Guangmou Location\nFollow the path from the Snake Trail Keeper's Shrine and make your way down to the large, flat, open area filled with bamboo and skeleton enemies. At the edge of this area is a small gap in the rock wall that you can pass through. Guangmou will be waiting for you inside.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Guangmou_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Guangmou Fight\n* Guangmou Spirit\"\n            - Following Text: \"## Guangmou Location\nFollow the path from the Snake Trail Keeper's Shrine and make your way down to the large, flat, open area filled with bamboo and skeleton enemies. At the edge of this area is a small gap in the rock wall that you can pass through. Guangmou will be waiting for you inside.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. The image depicts Guangmou, a character in a forested setting, holding a bow and wearing a distinctive outfit with natural elements like feathers. The text overlay suggests Guangmou is delivering a message, possibly as part of a quest or storyline.\n\n2. Based on the context, the image introduces Guangmou as a significant figure tied to the \"Guangmou Spirit\" and \"Guangmou Fight,\" setting the stage for an encounter or mission in a bamboo-filled area described in the following text."
+}

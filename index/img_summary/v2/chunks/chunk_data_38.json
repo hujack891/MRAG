@@ -1,0 +1,28 @@
+{
+    "chunk_id": 215979103364,
+    "source_file": "Bamboo_Grove_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Bamboo_2.jpg",
+    "alt_text": "Wukong Bamboo 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Bamboo 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg)\nBefore moving on, be sure to hug the left wall to find a small path leading to a cave. Inside, you’ll find a friendly Horse Guai.",
+    "img_below_text": "The whip-wielding warrior will offer some interesting insight about the Black Wind King that rules over this mountain, and the greed and lies that have infected him and his people. While you’re here, you can interact with a small pillow in the middle of the cave to rest at a new **Meditation Spot** in front of the altar, granting you a new Skill Point.\nThe Cavern, Bamboo Grove Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg)\nBefore moving on, be sure to hug the left wall to find a small path leading to a cave. Inside, you’ll find a friendly Horse Guai.\"\n            - Following Text: \"The whip-wielding warrior will offer some interesting insight about the Black Wind King that rules over this mountain, and the greed and lies that have infected him and his people. While you’re here, you can interact with a small pillow in the middle of the cave to rest at a new **Meditation Spot** in front of the altar, granting you a new Skill Point.\nThe Cavern, Bamboo Grove Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Bamboo_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene inside a dimly lit cave in the Bamboo Grove area of *Black Myth: Wukong*. The player character, armed with a staff, is facing a seated Horse Guai, a friendly NPC. The cave features an altar surrounded by candles and a glowing pillow, which serves as a **Meditation Spot** where players can rest and earn a Skill Point. This area also provides narrative insight into the Black Wind King and the corruption affecting the mountain's inhabitants."
+}

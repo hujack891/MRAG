@@ -1,0 +1,28 @@
+{
+    "chunk_id": 915900364107,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Main_Page_BMW_.png",
+    "alt_text": "Main Page BMW .png",
+    "position_desc": 2,
+    "img_above_text": "# Black Myth: Wukong Wiki Sections\n## Beginner's Guide and Getting Started",
+    "img_below_text": "Black Myth: Wukong throws you into the action with only a brief tutorial. So, to help you understand some of the gameplay mechanics and features, we've compiled a list of handy beginner tips and tricks, as well as things that the game doesn't explain to you.\n* Essential Tips and Tricks",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Black Myth: Wukong Wiki Sections\n## Beginner's Guide and Getting Started\"\n            - Following Text: \"Black Myth: Wukong throws you into the action with only a brief tutorial. So, to help you understand some of the gameplay mechanics and features, we've compiled a list of handy beginner tips and tricks, as well as things that the game doesn't explain to you.\n* Essential Tips and Tricks\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Main_Page_BMW_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a detailed close-up of a character from the game \"Black Myth: Wukong,\" showcasing intricate armor and a weapon. This visual likely serves to introduce players to the game's protagonist and immerse them in the game's rich, mythological setting, complementing the beginner's guide and tips provided in the surrounding text."
+}

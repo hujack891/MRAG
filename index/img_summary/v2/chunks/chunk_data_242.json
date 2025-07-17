@@ -1,0 +1,28 @@
+{
+    "chunk_id": 1263273174,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Bitter_67.jpg",
+    "alt_text": "Wukong Bitter 67.jpg",
+    "position_desc": 99,
+    "img_above_text": "![Wukong Bitter 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg)\nDeal with any shambling Frozen Corpses you'll find along this ledge, and keep heading along this path past the large statues to find a slope leading upwards, and a green Wisp behind the last large statue.",
+    "img_below_text": "As you climb up, you'll find yourself right in front of the Buddha Statue in the cliffs, and an opening has appeared right through his belly button! You now need only shimmy through the opening, and take the steep pathway up to leave the Bitter Lake behind and start finding the entrance to the **Valley of Ecstacy**.\nBitter Lake Complete",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 99 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg)\nDeal with any shambling Frozen Corpses you'll find along this ledge, and keep heading along this path past the large statues to find a slope leading upwards, and a green Wisp behind the last large statue.\"\n            - Following Text: \"As you climb up, you'll find yourself right in front of the Buddha Statue in the cliffs, and an opening has appeared right through his belly button! You now need only shimmy through the opening, and take the steep pathway up to leave the Bitter Lake behind and start finding the entrance to the **Valley of Ecstacy**.\nBitter Lake Complete\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Bitter_67.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist standing before a massive Buddha statue carved into a cliffside, with intricate details and surrounding structures, including a temple-like building. This scene marks a pivotal moment in the narrative, as the player prepares to ascend through the Buddha statue's belly button to progress from the Bitter Lake area to the next location, the **Valley of Ecstasy**."
+}

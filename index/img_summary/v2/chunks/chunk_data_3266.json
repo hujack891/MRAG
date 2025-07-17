@@ -1,0 +1,28 @@
+{
+    "chunk_id": 496049900410,
+    "source_file": "Wandering_Wight.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg",
+    "alt_text": "Wukong Wight 9.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Wight 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Wight_3.jpg)\nHowever, he’ll usually follow these stomps with a series of up to three spinning sweep attacks, twirling quickly in a large arc that will damage you unless you dodge at the right time. Since he may or may not follow up one spin with another, you’ll need to be very careful in figuring out when it’s okay to retaliate with an attack.",
+    "img_below_text": "Even worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.\n![Wukong Wight 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Wight_4.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Wandering_Wight.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wight 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Wight_3.jpg)\nHowever, he’ll usually follow these stomps with a series of up to three spinning sweep attacks, twirling quickly in a large arc that will damage you unless you dodge at the right time. Since he may or may not follow up one spin with another, you’ll need to be very careful in figuring out when it’s okay to retaliate with an attack.\"\n            - Following Text: \"Even worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.\n![Wukong Wight 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Wight_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" featuring a character named Wandering Wight performing a leaping stomp attack in a forested area. The preceding text describes the Wight's spinning sweep attacks and the need for careful timing to dodge them, while the following text warns of the Wight's fast leaping stomp attack that covers significant distance and is difficult to react to. This image illustrates the challenging combat mechanics players will face against the Wandering Wight."
+}

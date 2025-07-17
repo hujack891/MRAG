@@ -1,0 +1,28 @@
+{
+    "chunk_id": 656528350501,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_RedLoong_4.jpg",
+    "alt_text": "Wukong RedLoong 4.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nYou can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.",
+    "img_below_text": "Return to the Forest of Wolves and head to the Outside the Forest Shrine.\n![Wukong RedLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nYou can enter the crack in the wall, and on the other side you’ll find a chest containing the Loong Scales. With this item, you’ll be able to uncover the lair of the Loong Dragons.\"\n            - Following Text: \"Return to the Forest of Wolves and head to the Outside the Forest Shrine.\n![Wukong RedLoong 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_RedLoong_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist in a lush, forested area. The character is approaching a chest, likely containing the Loong Scales, which are essential for uncovering the lair of the Loong Dragons. The preceding text mentions finding the chest after entering a crack in the wall, while the following text instructs the player to return to the Forest of Wolves and head to the Outside the Forest Shrine. This image serves to illustrate a key moment in the game's narrative where the player acquires an important item."
+}

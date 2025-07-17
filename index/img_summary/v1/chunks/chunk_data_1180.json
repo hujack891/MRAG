@@ -1,31 +1,6 @@
 {
-    "chunk_id": 116090338222,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "h1_title": "The Forest of Wolves",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Wolves_1.jpg",
-    "alt_text": "Wukong Wolves 1.jpg",
-    "position_desc": 8,
-    "img_above_text": "# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n\nCenturies later, an elder monkey recounts the tale of the Monkey King, and decrees that a Destined One may yet be able to follow in Sun Wukong’s footsteps by seeking out the Six Relics of the Monkey King’s Spirit - the Six Senses of the Great Sage. As luck would have it, you are that Destined One!Forest of Wolves",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 8 from the file 'Forest_of_Wolves_Walkthrough.md', located under The Forest of Wolves.\n\n                Metadata:\n                - Document Title: The Forest of Wolves\n                - Alt Text: Wukong Wolves 1.jpg\n\n                Context:\n                - Preceding Text: \"# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n\nCenturies later, an elder monkey recounts the tale of the Monkey King, and decrees that a Destined One may yet be able to follow in Sun Wukong’s footsteps by seeking out the Six Relics of the Monkey King’s Spirit - the Six Senses of the Great Sage. As luck would have it, you are that Destined One!Forest of Wolves\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Wolves_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image, titled \"Wukong Wolves 1.jpg\" from the document \"The Forest of Wolves,\" depicts a scene where the protagonist, referred to as the Destined One, confronts two wolf-like creatures in a forest setting. This visual aligns with the preceding text, which narrates the tale of the Monkey King and the quest to follow in his footsteps by seeking out the Six Relics of the Monkey King’s Spirit. The image likely illustrates a moment of conflict or challenge faced by the Destined One, emphasizing the adventurous and perilous journey within the Forest of Wolves."
+    "chunk_id": 504902279555,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a boss battle in a video game, featuring a large, intimidating enemy named \"Hundred-Eyed Daoist Master.\" The boss is a centaur-like creature with a humanoid upper body wielding a weapon, and a monstrous lower body with multiple legs. The environment is an outdoor setting with lush greenery and rocky terrain. The user interface at the bottom of the screen includes a health bar for the player, indicating low health, and a boss health bar labeled with the boss's name, which is partially depleted. Various ability icons are visible on the left and right sides of the screen, suggesting available actions or skills the player can use. The scene is dynamic, with visual effects indicating an ongoing intense battle."
 }

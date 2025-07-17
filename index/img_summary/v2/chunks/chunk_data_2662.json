@@ -1,0 +1,28 @@
+{
+    "chunk_id": 652705432001,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Snowhill_8.jpg",
+    "alt_text": "Wukong Snowhill 8.jpg",
+    "position_desc": 7,
+    "img_above_text": "As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.",
+    "img_below_text": "Luckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.\n![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.\"\n            - Following Text: \"Luckily, they don't have much health and are easily dodged -- but note that the Frozen Corpses with spiked maces will swing wildly a few times after they've been \"killed\" so street clear of their death throes.\n![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Snowhill_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat encounter in a snowy environment, where the protagonist is engaged in battle with a large, undead Frozen Corpse wielding a spiked mace. The background features a traditional Chinese-style structure and barren trees, emphasizing the eerie and desolate atmosphere. The UI elements indicate gameplay mechanics, such as health, abilities, and a notification about a \"New Lesser Yaoguai Anecdote\" being recorded.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a key moment in the walkthrough of the Snowhill Path, where the player faces one of the Frozen Corpses described in the preceding text. These enemies, awakened by a monkey throwing fruit, are slow but dangerous, capable of performing swiping and leaping attacks. The following text highlights their low health and post-death thrashing, reinforcing the strategic importance of avoiding their final swings. The image serves to visually represent this encounter and the environmental context of the game."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 176782749970,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg",
+    "alt_text": "Wukong Pagoda 80.jpg",
+    "position_desc": 4,
+    "img_above_text": "After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.",
+    "img_below_text": "It can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\n![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.\"\n            - Following Text: \"It can also generate electrical power in its front leg, and stomp down to create a ring that extends outward, requiring you to dodge over it or use the Pillar Stance to evade it entirely.\n![Wukong Pagoda 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Pagoda_85.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Wukong_Pagoda_80.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark and ominous boss encounter with \"Captain Wise-Voice\" in *Black Myth: Wukong*. The creature has a grotesque, multi-limbed design and is surrounded by electrical effects on the ground, suggesting its ability to generate lightning-based attacks. The player is engaged in combat, as indicated by the health bar and ability icons on the screen.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually complements the preceding and following text, showcasing the boss's electrical abilities and attack patterns described in the context. It highlights the need for strategic dodging and positioning to evade its lightning strikes and stomping attacks, reinforcing the game's challenging combat mechanics."
+}

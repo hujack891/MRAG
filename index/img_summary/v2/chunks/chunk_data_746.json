@@ -1,0 +1,28 @@
+{
+    "chunk_id": 753661852533,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg",
+    "alt_text": "Thunder Tail .jpg",
+    "position_desc": 14,
+    "img_above_text": "![Jade Fang .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Jade_Fang_.jpg)| Jade Fang| Uncommon | Special crafting material | • Dropped from Whiteclad Noble in Bamboo Grove - Marsh of White Mist (mandatory boss) in Black Wind Mountain\n![Flame Ebongold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Flame_Ebongold_.jpg)| Flame Ebongold| Rare | Special weapon upgrade material | • Dropped from Black Bear Guai in Black Wind Cave - Bodhi Peak (mandatory boss) in Black Wind Mountain",
+    "img_below_text": "![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Jade Fang .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Jade_Fang_.jpg)| Jade Fang| Uncommon | Special crafting material | • Dropped from Whiteclad Noble in Bamboo Grove - Marsh of White Mist (mandatory boss) in Black Wind Mountain\n![Flame Ebongold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Flame_Ebongold_.jpg)| Flame Ebongold| Rare | Special weapon upgrade material | • Dropped from Black Bear Guai in Black Wind Cave - Bodhi Peak (mandatory boss) in Black Wind Mountain\"\n            - Following Text: \"![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\n![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a crafting material from the game *Black Myth: Wukong*, likely showcasing a rare or special item used for weapon upgrades or crafting. Based on the surrounding context, it is part of a list detailing unique materials obtained from specific bosses or locations in the game. Positioned between \"Flame Ebongold\" and \"Samadhi Wind Agate,\" the item in the image is likely significant for progressing or enhancing gameplay, emphasizing its role in the game's crafting system."
+}

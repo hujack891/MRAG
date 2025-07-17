@@ -1,0 +1,28 @@
+{
+    "chunk_id": 684101232832,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg",
+    "alt_text": "Wukong Yellow 22.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Yellow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg)\nThe battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.",
+    "img_below_text": "However, if he suddenly pivots after his slash to face away, be ready for him to perform a large overhand swing as he twists to face you. Though it's a vertical strike, it has a great deal of reach, sending a tremor along the ground from its force.\nUnfortunately, this isn’t even his only unpredictable leaping attack, as he can also just vault at you at top speed from a fair distance without a hint of preparation and cleave you with his sword for massive damage.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg)\nThe battle will often begin with him lowering his sword, only to leap forward at blinding speed to attack with both sword and claw at once, rolling past you as he does, and then performing a follow up slash as he finishes his roll. This means you’ll want to dodge past him as he approaches, so you can safely distance yourself from the following slash and then attack him back.\"\n            - Following Text: \"However, if he suddenly pivots after his slash to face away, be ready for him to perform a large overhand swing as he twists to face you. Though it's a vertical strike, it has a great deal of reach, sending a tremor along the ground from its force.\nUnfortunately, this isn’t even his only unpredictable leaping attack, as he can also just vault at you at top speed from a fair distance without a hint of preparation and cleave you with his sword for massive damage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic battle scene from the game \"Black Myth: Wukong,\" featuring a confrontation between the player character and an enemy named \"Tiger's Acolyte.\" The enemy is shown leaping forward at high speed, initiating an attack with both sword and claw. This visual underscores the enemy's unpredictable and aggressive combat style, which includes rapid movements, follow-up slashes, and powerful overhand swings that create tremors on the ground. The image serves to illustrate the intense and challenging nature of the encounters players will face, emphasizing the need for strategic dodging and readiness for sudden, high-damage attacks."
+}

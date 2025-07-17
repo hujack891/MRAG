@@ -1,0 +1,28 @@
+{
+    "chunk_id": 241497045511,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg",
+    "alt_text": "Silk .jpg",
+    "position_desc": 6,
+    "img_above_text": "![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters",
+    "img_below_text": "• Purchased from the Secret: Ancient Guanyin Temple Shrine shop in Black Wind Mountain• Occassionally found in chests • Reward for completing chapters\n![Yaoguai Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Yaoguai_Core_.jpg)| Yaoguai Core| Rare | General weapon upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\"\n            - Following Text: \"• Purchased from the Secret: Ancient Guanyin Temple Shrine shop in Black Wind Mountain• Occassionally found in chests • Reward for completing chapters\n![Yaoguai Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Yaoguai_Core_.jpg)| Yaoguai Core| Rare | General weapon upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters • Purchased from Shrine Stores\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a bundle of white silk thread, likely representing the crafting material \"Silk Thread\" in the game *Black Myth: Wukong*. Based on the context, Silk Thread is a rare crafting material used for armor upgrades. It can be obtained from the Ancient Guanyin Temple Shrine shop in Black Wind Mountain, found in chests, or earned as a reward for completing chapters. The image serves to visually identify the item for players navigating crafting and resource management in the game."
+}

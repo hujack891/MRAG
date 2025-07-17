@@ -1,0 +1,28 @@
+{
+    "chunk_id": 529202038163,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg",
+    "alt_text": "Wukong Sandgate 57.jpg",
+    "position_desc": 55,
+    "img_above_text": "![Wukong Sandgate 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg)\nSometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.",
+    "img_below_text": "It’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!\n![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 55 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_56.jpg)\nSometimes, he’ll even rear back for a quick headbutt slam, but the move will usually stagger himself, and a quick dodge will give you a lot of time to lay into him.\"\n            - Following Text: \"It’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!\n![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing an intense battle sequence. The player character is engaged in combat with an enemy named \"Second Rat Prince,\" as indicated by the health bar and name at the bottom of the screen. The preceding text describes a headbutt attack by the enemy, while the following text warns of a more powerful phase after defeating the King. The image captures the moment of dodging an attack, highlighting the game's dynamic and challenging combat mechanics."
+}

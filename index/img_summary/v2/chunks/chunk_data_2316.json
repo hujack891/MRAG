@@ -1,0 +1,28 @@
+{
+    "chunk_id": 728759750978,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Pagoda_39.jpg",
+    "alt_text": "Wukong Pagoda 39.jpg",
+    "position_desc": 41,
+    "img_above_text": "![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)\nIn this second phase, the rings in each corner will stay largely dormant, but can still activate with a flash to shoot a laser at you, which you'll need to dodge alongside the laser from his crystal. Luckily they seem to all shoot at once, so you only need to keep one ring in view when continuing the fight.",
+    "img_below_text": "In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 41 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Pagoda_40.jpg)\nIn this second phase, the rings in each corner will stay largely dormant, but can still activate with a flash to shoot a laser at you, which you'll need to dodge alongside the laser from his crystal. Luckily they seem to all shoot at once, so you only need to keep one ring in view when continuing the fight.\"\n            - Following Text: \"In addition to his usual attacks, he'll also start teleporting more aggressively, sending out a new laser beam as he appears at his new location up to three times -- ending with an extended laser beam for several seconds. Several smaller projectiles can also be expelled into the air as he teleports, which will slowly trail after you to deal minor damage if they catch up.\nHe can also start detonating a trail of explosions that follow you along the ground, but have a bigger indicator than the randomly placed explosions so you can outpace them by sprinting around and dodging.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Pagoda_39.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the game \"Black Myth: Wukong,\" showcasing a boss battle against Captain Lotus-Vision. The scene is characterized by intense visual effects, including a powerful laser beam emanating from the boss, surrounded by rings that can activate to shoot lasers. This image represents the second phase of the fight, where the player must dodge simultaneous laser attacks from the rings and the boss's crystal. The context suggests an escalation in the boss's aggression, with increased teleportation and additional projectile attacks, requiring strategic movement and evasion from the player."
+}

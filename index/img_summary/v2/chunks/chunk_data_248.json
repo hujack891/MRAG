@@ -1,0 +1,28 @@
+{
+    "chunk_id": 758398126170,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/20240815094627_1.jpg",
+    "alt_text": "20240815094627 1.jpg",
+    "position_desc": 6,
+    "img_above_text": "* Meditation Spots\n## Spirits and Transformation Spells",
+    "img_below_text": "When fighting as a Monkey won't cut it, you can turn to transformation power ups to turn the tables on your opponent -- often by turning into your enemies themselves! See where to track down and absorb every enemy's Spirit, and how to learn new extended Transformation Spells.\n* Spirit Locations",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Meditation Spots\n## Spirits and Transformation Spells\"\n            - Following Text: \"When fighting as a Monkey won't cut it, you can turn to transformation power ups to turn the tables on your opponent -- often by turning into your enemies themselves! See where to track down and absorb every enemy's Spirit, and how to learn new extended Transformation Spells.\n* Spirit Locations\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/20240815094627_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, showcasing the protagonist wielding a staff while facing a fiery enemy mid-attack. This visual aligns with the game's themes of transformation and spirit absorption, as described in the surrounding text, emphasizing the player's ability to turn into enemies or utilize powerful spells to gain an advantage in battle."
+}

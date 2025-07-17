@@ -1,0 +1,28 @@
+{
+    "chunk_id": 969963148108,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(3\\).png",
+    "position_desc": 4,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png)\nAt the start of Water Curtain Cave, go up the slope and to the cliff's edge. Run and jump across the gap to reach the path slightly below and be able to get behind the waterfall.",
+    "img_below_text": "Head toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.\n![Water Curtain Cave Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Water_Curtain_Cave_Walkthrough_%282%29.png)\nAt the start of Water Curtain Cave, go up the slope and to the cliff's edge. Run and jump across the gap to reach the path slightly below and be able to get behind the waterfall.\"\n            - Following Text: \"Head toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.\n![Water Curtain Cave Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene within the Water Curtain Cave in the game \"Black Myth: Wukong.\" It shows a pathway illuminated by a glowing lamp, guiding the player towards the next section of the cave. The waterfall and rugged terrain suggest a mystical and challenging environment. The red arrow indicates the direction the player should follow to progress further into the cave, aligning with the narrative instructions provided in the preceding and following text."
+}

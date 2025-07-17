@@ -1,0 +1,28 @@
+{
+    "chunk_id": 882213391279,
+    "source_file": "Whiteclad_Noble.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bamboo_50.jpg",
+    "alt_text": "Wukong Bamboo 50.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Bamboo 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bamboo_43.jpg)\nEven more deadly is his ability to begin twirling his spear as you can your staff — only his version will kick up thin waves of water to send your way. He’ll send about 6 damaging projectile waves this way, and then charge up for a lunging thrust to follow up with. You can simply strafe and outpace the waves of force, and ready yourself to dodge his thrust before countering.",
+    "img_below_text": "Unfortunately, you’re going to need to memorize these attacks and learn to take as little damage as possible, because depleting his health bar won’t end the fight. When you’ve knocked him down, he’ll begin to show you his true form, elongating his body in a larger serpent form, and replenishing his entire health bar.\n![Wukong Bamboo 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bamboo_51.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Whiteclad_Noble.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bamboo_43.jpg)\nEven more deadly is his ability to begin twirling his spear as you can your staff — only his version will kick up thin waves of water to send your way. He’ll send about 6 damaging projectile waves this way, and then charge up for a lunging thrust to follow up with. You can simply strafe and outpace the waves of force, and ready yourself to dodge his thrust before countering.\"\n            - Following Text: \"Unfortunately, you’re going to need to memorize these attacks and learn to take as little damage as possible, because depleting his health bar won’t end the fight. When you’ve knocked him down, he’ll begin to show you his true form, elongating his body in a larger serpent form, and replenishing his entire health bar.\n![Wukong Bamboo 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bamboo_51.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bamboo_50.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a boss fight against an enemy named \"Whiteclad Noble.\" The context provided indicates that this enemy uses a spear to launch projectile waves of water and follows up with a lunging thrust. The player must learn to dodge these attacks and counter effectively. The fight intensifies as the Whiteclad Noble transforms into a larger serpent form, replenishing its health bar, requiring the player to adapt and continue the battle."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 817267195887,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Marsh_of_White_Mist_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "Marsh of White Mist Luojia Fragrant Vine.jpg",
+    "position_desc": 1,
+    "img_above_text": "### Marsh of the White Mist Luojia Fragrant Vine\nMarsh of the White Mist Luojia Fragrant Vine",
+    "img_below_text": "The first Luojia Fragrant Vine in the game can be found amongst the bamboo just opposite the Marsh of the White Mist Keeper's Shrine.\n## Yellow Wind Ridge Luojia Fragrant Vines",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Marsh of the White Mist Luojia Fragrant Vine\nMarsh of the White Mist Luojia Fragrant Vine\"\n            - Following Text: \"The first Luojia Fragrant Vine in the game can be found amongst the bamboo just opposite the Marsh of the White Mist Keeper's Shrine.\n## Yellow Wind Ridge Luojia Fragrant Vines\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Marsh_of_White_Mist_Luojia_Fragrant_Vine.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character wearing a mask and holding a staff, standing beside a tree adorned with glowing orange fruits or blossoms, identified as the Luojia Fragrant Vine. The \"Gather\" prompt suggests this is an interactive moment in a game where players can collect the vine's resources. Based on the context, this location is near the Marsh of the White Mist Keeper's Shrine, marking the first instance of Luojia Fragrant Vine in the game."
+}

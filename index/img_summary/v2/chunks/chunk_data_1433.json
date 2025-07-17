@@ -1,0 +1,28 @@
+{
+    "chunk_id": 836489085156,
+    "source_file": "Gold_Ridge_Beast.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg",
+    "alt_text": "Gold Ridge Beast 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)\nThe Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.",
+    "img_below_text": "A full walkthrough of how to access this area can be found below:\nBe sure to sell it at a vendor or the Shrine store as soon as you can.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Gold_Ridge_Beast.md'.\n\n            Context:\n            - Preceding Text: \"![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)\nThe Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.\"\n            - Following Text: \"A full walkthrough of how to access this area can be found below:\nBe sure to sell it at a vendor or the Shrine store as soon as you can.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the in-game inventory screen from *Black Myth: Wukong*, showcasing the \"Gold Ridge Beast,\" an epic treasure item. The item's description notes its origin as a decorative piece from the roof of a Buddha Hall and hints at its potential value for trade or sale. Contextually, the item is found in Chapter 2 - Yellow Wind Ridge, within the secret Kingdom of Shahali area, and must be collected before defeating the boss Fuban, as the area becomes inaccessible afterward. Players are advised to sell the item at a vendor or Shrine store for rewards."
+}

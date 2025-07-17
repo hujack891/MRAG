@@ -1,0 +1,28 @@
+{
+    "chunk_id": 312344848783,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
+    "alt_text": "Wukong Fright 22.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.",
+    "img_below_text": "You’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg)\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.\"\n            - Following Text: \"You’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\n![Wukong Fright 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong* standing near the entrance of a cave, illuminated by glowing lights and torches. This cave is part of the **Squall Hideout region**, where the player is tasked with finding and defeating Rock Guai to help the **Man-in-Stone** reverse his curse. The scene sets the stage for exploration and combat within the large tunnel mentioned in the questline."
+}

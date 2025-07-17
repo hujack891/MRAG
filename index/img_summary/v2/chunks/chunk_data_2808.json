@@ -1,0 +1,28 @@
+{
+    "chunk_id": 880132185098,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg",
+    "alt_text": "Wukong YellowFlower 4.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong YellowFlower 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_YellowFlower_3.jpg)\nAt the top of a short stairway, you'll encounter new enemies guarding a green Wisp - a Sword Daoist. They attack with flowing sword combos and even a wave of force from certain swings, but on the plus side they aren't very durable, and a sustained light attack combo is enough to put them down.",
+    "img_below_text": "Further up the mountain path, you'll encounter a second type of fighter - the Fly-Whisk Daoist. More support than main attacker, they'll harass you with a variety of wind and force projectiles, and while you'll need to dodge the waves, you can deflect the smaller wind projectiles with your staff.\n![Wukong YellowFlower 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_YellowFlower_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_YellowFlower_3.jpg)\nAt the top of a short stairway, you'll encounter new enemies guarding a green Wisp - a Sword Daoist. They attack with flowing sword combos and even a wave of force from certain swings, but on the plus side they aren't very durable, and a sustained light attack combo is enough to put them down.\"\n            - Following Text: \"Further up the mountain path, you'll encounter a second type of fighter - the Fly-Whisk Daoist. More support than main attacker, they'll harass you with a variety of wind and force projectiles, and while you'll need to dodge the waves, you can deflect the smaller wind projectiles with your staff.\n![Wukong YellowFlower 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_YellowFlower_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is engaged in combat with a Sword Daoist enemy. The setting is a rocky, forested area with a short stairway leading up to where the enemy is positioned. The Sword Daoist is attacking with a sword, and the player character is preparing to counter. This image illustrates the gameplay mechanics and the type of enemies encountered in this section of the game, specifically highlighting the combat dynamics with the Sword Daoist."
+}

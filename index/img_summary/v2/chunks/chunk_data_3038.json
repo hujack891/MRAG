@@ -1,0 +1,28 @@
+{
+    "chunk_id": 111513587142,
+    "source_file": "Tiger_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg",
+    "alt_text": "Wukong Tiger 19.jpg",
+    "position_desc": 17,
+    "img_above_text": "![Wukong Tiger 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Tiger_13.jpg)\nTry using your Thrust stance to ensure your heavy hits give you some breathing room at range, especially if you’re not confident he’s done attacking when you try to get big hits off. Similarly, you may want to rely on quick-hitting Spirits. Since you don’t get a different health bar like the Transformation Spells, there’s a good chance you may be stuck attacking right into a sword slash unless you time your Spirit attack well. In fact, a well-timed Earth Wolf Spirit can knock him right out of an attack and stagger him against a wall!",
+    "img_below_text": "While you can use the new Azure Dust transformation, there’s a good chance he’ll keep staggering you before you can get many moves off, so it might be better to match his nimbleness with the Red Tides spell, and find a good time to dodge and unleash your ultimate attack.\n![Wukong Tiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Tiger_20.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Tiger_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Tiger 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Tiger_13.jpg)\nTry using your Thrust stance to ensure your heavy hits give you some breathing room at range, especially if you’re not confident he’s done attacking when you try to get big hits off. Similarly, you may want to rely on quick-hitting Spirits. Since you don’t get a different health bar like the Transformation Spells, there’s a good chance you may be stuck attacking right into a sword slash unless you time your Spirit attack well. In fact, a well-timed Earth Wolf Spirit can knock him right out of an attack and stagger him against a wall!\"\n            - Following Text: \"While you can use the new Azure Dust transformation, there’s a good chance he’ll keep staggering you before you can get many moves off, so it might be better to match his nimbleness with the Red Tides spell, and find a good time to dodge and unleash your ultimate attack.\n![Wukong Tiger 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Tiger_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Tiger_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a fierce battle between the protagonist and the Tiger Vanguard. The protagonist is seen engaging the Tiger Vanguard in combat, likely using strategic stances and spells to manage the fight. The preceding text suggests using Thrust stance and quick-hitting Spirits to create distance and interrupt the enemy's attacks, while the following text advises using the Red Tides spell for nimbleness and timing ultimate attacks. The image serves to illustrate the intense and tactical nature of the combat against formidable foes like the Tiger Vanguard."
+}

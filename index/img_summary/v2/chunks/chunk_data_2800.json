@@ -1,0 +1,28 @@
+{
+    "chunk_id": 162541256979,
+    "source_file": "Swift_Bat_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Swift_Bat.jpg",
+    "alt_text": "Swift Bat.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Swift Bat Fight\n* Swift Bat Spirit",
+    "img_below_text": "## Swift Bat Location\nThe Swift Bat is hidden in a secret cave in Yellow Wind Ridge. To find it, make your way to the First Prince of Flowing Sands boss arena. On the opposite side of the arena, you will find a wooden plank leading to another area. Pass over the plank and head down to find a small crack in the wall. Interact with the crack to squeeze through and end up in the den of the Swift Bat.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Swift_Bat_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Swift Bat Fight\n* Swift Bat Spirit\"\n            - Following Text: \"## Swift Bat Location\nThe Swift Bat is hidden in a secret cave in Yellow Wind Ridge. To find it, make your way to the First Prince of Flowing Sands boss arena. On the opposite side of the arena, you will find a wooden plank leading to another area. Pass over the plank and head down to find a small crack in the wall. Interact with the crack to squeeze through and end up in the den of the Swift Bat.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Swift_Bat.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image:**\n   The image depicts an intense battle scene from a video game, where a player character is engaged in combat with a large, menacing creature known as the Swift Bat Spirit. The environment appears to be a dimly lit cave or dungeon, with a fire burning in the background and various game interface elements visible on the screen.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves to illustrate the \"Swift Bat Spirit\" encounter, showcasing the creature's appearance and the combat mechanics involved. It provides a visual representation of the challenge players will face when confronting this enemy, enhancing the narrative described in the preceding text about the Swift Bat Fight and the subsequent instructions on locating the Swift Bat in the game."
+}

@@ -1,31 +1,6 @@
 {
-    "chunk_id": 541269361184,
-    "source_file": "How_to_Unlock_the_Chapter_1_Secret_Area.md",
-    "h1_title": "How to Unlock the Chapter 1 Secret Area",
-    "h2_title": "How to Enter the Secret Area in Chapter 1",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Chapter_One_Secret_Area_%281%29.png",
-    "alt_text": "Chapter One Secret Area \\(1\\).png",
-    "position_desc": 12,
-    "img_above_text": "# How to Unlock the Chapter 1 Secret Area\nBlack Myth: Wukong is full of secrets, including hidden areas that can only be unlocked through solving a puzzle or finding a key item. One such secret area is in Chapter 1 and requires ringing three bells to access it. On this page, you'll find information on how to find each of the three bells and what awaits you in the hidden temple.\n## How to Enter the Secret Area in Chapter 1\n\nWhen the fight is over, you'll be taken back to the bell that was near the Whiteclad Noble in the Marsh of the White Mist.",
-    "img_below_text": "You can now interact with the wolf that hangs from the nearby tree, to pick up the Fireproof Mantle.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 12 from the file 'How_to_Unlock_the_Chapter_1_Secret_Area.md', located under How to Enter the Secret Area in Chapter 1.\n\n                Metadata:\n                - Document Title: How to Unlock the Chapter 1 Secret Area\n                - Section Title: How to Enter the Secret Area in Chapter 1\n                - Alt Text: Chapter One Secret Area \\(1\\).png\n\n                Context:\n                - Preceding Text: \"# How to Unlock the Chapter 1 Secret Area\nBlack Myth: Wukong is full of secrets, including hidden areas that can only be unlocked through solving a puzzle or finding a key item. One such secret area is in Chapter 1 and requires ringing three bells to access it. On this page, you'll find information on how to find each of the three bells and what awaits you in the hidden temple.\n## How to Enter the Secret Area in Chapter 1\n\nWhen the fight is over, you'll be taken back to the bell that was near the Whiteclad Noble in the Marsh of the White Mist.\"\n                - Following Text: \"You can now interact with the wolf that hangs from the nearby tree, to pick up the Fireproof Mantle.\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Chapter_One_Secret_Area_%281%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically in Chapter 1, where the player character stands before a hanging wolf. The prompt to \"Examine\" suggests an interactive element, likely to pick up the Fireproof Mantle, a key item needed to progress in unlocking the secret area. The surrounding environment appears dark and mystical, fitting the game's theme of hidden areas and puzzles."
+    "chunk_id": 78778476122,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is standing in a dimly lit cave environment. The character is equipped with a staff and is facing an altar-like structure with a burning incense holder. The environment features stone textures and statues in the background, suggesting a temple or shrine setting. A prompt is visible on the screen, instructing the player to \"Offer Incense\" by pressing the RT button, indicating an interaction mechanic that may affect gameplay or progression. The scene is atmospheric, with warm lighting from the fire enhancing the mystical ambiance."
 }

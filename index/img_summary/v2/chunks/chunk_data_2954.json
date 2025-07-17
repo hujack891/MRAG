@@ -1,0 +1,28 @@
+{
+    "chunk_id": 912872224161,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Water_Curtain_Cave_Walkthrough_%2813%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(13\\).png",
+    "position_desc": 7,
+    "img_above_text": "Follow the path to the peak, where you'll come to the Return Path Keeper's Shrine.\n## Return Path",
+    "img_below_text": "Continue up the path, where you'll have to face off against numerous soldiers along the way. This is really just a chance for you to test the power of Jingubang, and pick up some extra Will and Sparks.\n![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"Follow the path to the peak, where you'll come to the Return Path Keeper's Shrine.\n## Return Path\"\n            - Following Text: \"Continue up the path, where you'll have to face off against numerous soldiers along the way. This is really just a chance for you to test the power of Jingubang, and pick up some extra Will and Sparks.\n![Water Curtain Cave Walkthrough \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Water_Curtain_Cave_Walkthrough_%2812%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Water_Curtain_Cave_Walkthrough_%2813%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, rocky path illuminated by beams of light and lightning, where several armored soldiers are positioned, ready for battle. The scene is tense and foreboding, suggesting an upcoming confrontation. This image serves as a visual representation of the challenging journey described in the preceding and following text, where the protagonist must face numerous soldiers to test the power of Jingubang and collect Will and Sparks."
+}

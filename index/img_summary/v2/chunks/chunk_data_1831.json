@@ -1,0 +1,28 @@
+{
+    "chunk_id": 797774018136,
+    "source_file": "Lang-Li-Guhh-Lang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg",
+    "alt_text": "Wukong Felicity 6.jpg",
+    "position_desc": 2,
+    "img_above_text": "Like the two Frog Guai before him, Lang-Li-Guhh-Lang is a formidable foe with surprising reach, and if you thought you'd seen everything a frog boss could do, you're sadly in for a surprise. Much as Chapter 2's frog boss was imbued with lightning attacks, so too does this boss have the power of ice on his side, and unless you take precautions, you'll be frozen solid and out of stamina -- unable to move while you're torn to pieces.\nHaving body warming medicine for this fight is a must, and it's highly recommended you equip the Frostspout Twig Curio, Fiery Gourd, and Circle of Fire Spell to offset his many frost-filled attacks.",
+    "img_below_text": "While you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.\n![Wukong Felicity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Lang-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"Like the two Frog Guai before him, Lang-Li-Guhh-Lang is a formidable foe with surprising reach, and if you thought you'd seen everything a frog boss could do, you're sadly in for a surprise. Much as Chapter 2's frog boss was imbued with lightning attacks, so too does this boss have the power of ice on his side, and unless you take precautions, you'll be frozen solid and out of stamina -- unable to move while you're torn to pieces.\nHaving body warming medicine for this fight is a must, and it's highly recommended you equip the Frostspout Twig Curio, Fiery Gourd, and Circle of Fire Spell to offset his many frost-filled attacks.\"\n            - Following Text: \"While you've likely seen what a Frog boss can do with their extremely quick belly thrusts, rear kick attacks, and jump slashes, there's a lot of new tricks up this yaoguai chief's sleeve. Many of his moves, including his arm swipes that end with a slam, will now create a field of frost upon the frozen lake.\n![Wukong Felicity 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Wukong_Felicity_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Felicity_6.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character engaged in combat against Lang-Li-Guhh-Lang, a frost-powered frog boss, on a frozen lake surrounded by a snowy forest. The player wields fiery weapons and is equipped with abilities and items to counter the boss's ice-based attacks, as suggested by the UI elements and glowing effects. The environment emphasizes the frosty theme, with snow-covered trees and icy terrain.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents the intense battle against Lang-Li-Guhh-Lang, highlighting the boss's frost-infused abilities and the need for strategic preparation using fire-based items and spells. It serves to illustrate the gameplay mechanics, environmental hazards, and the challenge posed by this yaoguai chief in *Black Myth: Wukong*."
+}

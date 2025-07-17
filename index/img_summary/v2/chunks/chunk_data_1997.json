@@ -1,0 +1,28 @@
+{
+    "chunk_id": 358292465582,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/The_Ledge_Purple_Cloud_Mountain_Meditation_Spots.jpg",
+    "alt_text": "The Ledge Purple Cloud Mountain Meditation Spots.jpg",
+    "position_desc": 20,
+    "img_above_text": "### The Ledge, Purple Cloud Mountain Meditation Spot\nThe Ledge, Purple Cloud Mountain Meditation Spot",
+    "img_below_text": "This Meditation Spot is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to open the secret area.\nOnce at the Purple Cloud Mountain, follow the path up the hill and defeat the Scorpion Yaoguai. Continue along the path up the mountain until you reach the top. There, you will find the last Meditation Spot in Chapter 4.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Ledge, Purple Cloud Mountain Meditation Spot\nThe Ledge, Purple Cloud Mountain Meditation Spot\"\n            - Following Text: \"This Meditation Spot is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to open the secret area.\nOnce at the Purple Cloud Mountain, follow the path up the hill and defeat the Scorpion Yaoguai. Continue along the path up the mountain until you reach the top. There, you will find the last Meditation Spot in Chapter 4.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/The_Ledge_Purple_Cloud_Mountain_Meditation_Spots.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot on Purple Cloud Mountain, surrounded by vibrant autumn foliage. This location is part of a secret area in Chapter 4 of a narrative, accessible after defeating specific adversaries. The tranquil setting emphasizes the journey's culmination, offering a peaceful retreat after overcoming challenges."
+}

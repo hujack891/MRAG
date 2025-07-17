@@ -1,0 +1,28 @@
+{
+    "chunk_id": 96441221475,
+    "source_file": "Skandha_of_Thought.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
+    "alt_text": "Wukong Mindcliff 9.jpg",
+    "position_desc": 1,
+    "img_above_text": "_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.",
+    "img_below_text": "Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Skandha_of_Thought.md'.\n\n            Context:\n            - Preceding Text: \"_\"Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed.\"_\nThe Skandha of Thought can be found in the Valley of Ecstasy in Mindfullness Cliff in The New West. From the Shrine, head along the cliff and jump down to the lower cave area beneath you.\"\n            - Following Text: \"Follow the path all the way along and onto the snowy hillside. You will loop back into another cave and see a Buddha head at the top of a small staircase. Interact with it to get the Skandha of Thought.\n![Wukong Mindcliff 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Mindcliff_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. The image depicts a character standing on a snowy cliffside, overlooking a cave entrance adorned with a large Buddha head. The environment is rugged and wintry, with a highlighted area in the distance indicating a point of interest.\n\n2. The image serves as a visual guide for players navigating the Valley of Ecstasy in Mindfulness Cliff to locate the Skandha of Thought. It shows the specific location where players need to jump down to reach the lower cave area, which is part of the path leading to the hidden treasure."
+}

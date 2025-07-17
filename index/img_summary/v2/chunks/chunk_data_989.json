@@ -1,0 +1,28 @@
+{
+    "chunk_id": 398966785404,
+    "source_file": "Father_of_Stones_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Father_of_Stones.jpg",
+    "alt_text": "Father of Stones.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Father of Stones Fight\n* Father of Stones Spirit",
+    "img_below_text": "## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Father_of_Stones_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Father of Stones Fight\n* Father of Stones Spirit\"\n            - Following Text: \"## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Father_of_Stones.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense moment during a confrontation with the \"Father of Stones,\" a large, black, humanoid creature holding a skeleton. The player character, armed and in combat stance, faces the imposing enemy in a dark, rocky environment, suggesting a boss fight scenario.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the \"Father of Stones Fight,\" showcasing the creature's menacing appearance and the setting of the encounter. It emphasizes the creature's role as a significant adversary in the game, aligning with the context of a challenging boss battle within the Flaming Mountains."
+}

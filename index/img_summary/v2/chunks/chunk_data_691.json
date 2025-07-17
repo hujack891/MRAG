@@ -1,0 +1,28 @@
+{
+    "chunk_id": 43451699143,
+    "source_file": "Cold_Iron_Leaves.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Cold_Iron_Leaves.jpg",
+    "alt_text": "Cold Iron Leaves.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Cold Iron Leaves\nThe Cold Iron Leaves is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.",
+    "img_below_text": "Cold Iron Leaves can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Cold_Iron_Leaves.md'.\n\n            Context:\n            - Preceding Text: \"# Cold Iron Leaves\nThe Cold Iron Leaves is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.\"\n            - Following Text: \"Cold Iron Leaves can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Cold_Iron_Leaves.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the inventory screen from *Black Myth: Wukong*, highlighting the \"Cold Iron Leaves,\" an epic crafting material used for armor upgrades. These leaf-shaped slabs of iron, described as being wrested from the armor of a Yaoguai King, are notable for their cold radiance and harsh resonance. The preceding and following text emphasizes their importance as a basic material in the game, found in chests across its six chapters."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 711847513433,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
+    "alt_text": "Secrets Black Myth Wukong \\(3\\).png",
+    "position_desc": 13,
+    "img_above_text": "Just like The Scorpionlord, you won't be able to fight Daoist Mi if you head straight for The Duskveil. We'd recommend tackling him second, as you make your way up to Cloudnest Peak.\n## The Duskveil",
+    "img_below_text": "Head to Cloudnest Peak for The Duskveil. This is the final boss of the secret area, so killing it will trigger a cutscene and transport you out of the area. You'll also receive the Weaver's Needle Vessel from completing this fight.\nThe Duskveil",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Just like The Scorpionlord, you won't be able to fight Daoist Mi if you head straight for The Duskveil. We'd recommend tackling him second, as you make your way up to Cloudnest Peak.\n## The Duskveil\"\n            - Following Text: \"Head to Cloudnest Peak for The Duskveil. This is the final boss of the secret area, so killing it will trigger a cutscene and transport you out of the area. You'll also receive the Weaver's Needle Vessel from completing this fight.\nThe Duskveil\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts \"The Duskveil,\" a formidable and grotesque boss character from the game \"Black Myth: Wukong.\" This creature appears to be a significant challenge, as it is the final boss of a secret area. Defeating The Duskveil will trigger a cutscene, transport the player out of the area, and reward them with the Weaver's Needle Vessel. The context suggests that players should face this boss after progressing through other challenges, such as defeating Daoist Mi and making their way to Cloudnest Peak."
+}

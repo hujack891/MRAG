@@ -1,0 +1,28 @@
+{
+    "chunk_id": 401546770271,
+    "source_file": "Nine-Capped_Lingzhi_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Nine-Capped_Linzhi_Guai_Spirit.jpg",
+    "alt_text": "Nine-Capped Linzhi Guai Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "Once defeated, the Nine-Capped Lingzhi Guai provides both its Spirit and the Earth Spirit Cap. The Earth Spirit Cap saps your health but greatly increases the effectiveness of your Gourd.\n## Nine-Capped Lingzhi Guai Spirit",
+    "img_below_text": "* **Emergence**\n* Equipped Effect: Moderately reduces the Mana cost of Mysticism Spells.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Nine-Capped_Lingzhi_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Once defeated, the Nine-Capped Lingzhi Guai provides both its Spirit and the Earth Spirit Cap. The Earth Spirit Cap saps your health but greatly increases the effectiveness of your Gourd.\n## Nine-Capped Lingzhi Guai Spirit\"\n            - Following Text: \"* **Emergence**\n* Equipped Effect: Moderately reduces the Mana cost of Mysticism Spells.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Nine-Capped_Linzhi_Guai_Spirit.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image is a screenshot from a game showing the equipment menu, specifically highlighting the \"Nine-Capped Lingzhi Guai Spirit.\" This spirit has a high Qi cost and provides an ability called \"Emergence,\" which allows the player to take the form of the Nine-Capped Lingzhi Guai. When wearing the Earth Spirit Cap, this form deals poison damage to nearby enemies. Additionally, equipping this spirit moderately reduces the mana cost of Mysticism spells."
+}

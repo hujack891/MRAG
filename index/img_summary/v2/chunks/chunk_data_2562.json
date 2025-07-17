@@ -1,0 +1,28 @@
+{
+    "chunk_id": 234935099889,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg",
+    "alt_text": "Wukong Sandgate 77.jpg",
+    "position_desc": 76,
+    "img_above_text": "![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nOn the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!",
+    "img_below_text": "There’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.\n![Wukong Sandgate 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 76 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\nOn the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\"\n            - Following Text: \"There’s one last bit of the Valley of Despair to search before backtracking to the next region. Climb out of the pit where the boss was to cross the fallen stone, and you’ll find a crack in the wall to sidle through.\n![Wukong Sandgate 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sandgate_78.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Sandgate_77.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character navigating through a rocky cave or tomb environment, likely in a video game setting. This scene follows the discovery of a significant item, the Loong Scale, in a tomb, and precedes the exploration of the Valley of Despair. The character appears to be moving towards a crack in the wall, suggesting a transition to a new area or the continuation of an exploration path. The image serves to illustrate the player's journey through challenging terrain and the progression of the narrative."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 416337387451,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg",
+    "alt_text": "Wukong Pagoda 86.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Pagoda 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Pagoda_81.jpg)\nAfter taking a bit of damage, the boss will charge up to emit its \"beguiling chant\", blurring your vision somewhat, and performing an effect similar to when you were ascending the prison. Thankfully this will only lower your maximum health by around a fourth, and still give you a damage boost in return. The effect doesn't last forever -- only for around a full minute -- so make the most of it!",
+    "img_below_text": "Once enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.\n![Wukong Pagoda 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Pagoda_81.jpg)\nAfter taking a bit of damage, the boss will charge up to emit its \"beguiling chant\", blurring your vision somewhat, and performing an effect similar to when you were ascending the prison. Thankfully this will only lower your maximum health by around a fourth, and still give you a damage boost in return. The effect doesn't last forever -- only for around a full minute -- so make the most of it!\"\n            - Following Text: \"Once enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.\n![Wukong Pagoda 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a critical moment in the battle against the boss \"Captain Wise-Voice\" in *Black Myth: Wukong*. The glowing sphere-like core, surrounded by twisted roots, represents the boss's vulnerable state after sustaining significant damage. This follows the preceding phase where the boss uses a \"beguiling chant\" to blur the player's vision and reduce maximum health temporarily. The image aligns with the narrative progression where the player has successfully staggered the boss, exposing its core for further attacks."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 270801999929,
+    "source_file": "Loong_Scales.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Loong_Scales_Use.jpg",
+    "alt_text": "Loong Scales Use.jpg",
+    "position_desc": 2,
+    "img_above_text": "### Loong Scale Use: Forest of Wolves - Outside The Forest\nFrom the Shrine, head along the path towards the left. When you reach the bridge, take a left before it and down the slope. On your left you will find a small area with a waterfall between a rock and a tree. With the Loong Scales in your inventory you can head through the waterfall to defeat Red Loong.",
+    "img_below_text": "### Loong Scale Use: Fright Cliff - Rockrest Flat\nDirectly to the right of the Rockrest Flat Shrine you can find the sand waterfall. With the Loong Scales in your inventory you can head through it and defeat Black Loong on the other side.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Loong_Scales.md'.\n\n            Context:\n            - Preceding Text: \"### Loong Scale Use: Forest of Wolves - Outside The Forest\nFrom the Shrine, head along the path towards the left. When you reach the bridge, take a left before it and down the slope. On your left you will find a small area with a waterfall between a rock and a tree. With the Loong Scales in your inventory you can head through the waterfall to defeat Red Loong.\"\n            - Following Text: \"### Loong Scale Use: Fright Cliff - Rockrest Flat\nDirectly to the right of the Rockrest Flat Shrine you can find the sand waterfall. With the Loong Scales in your inventory you can head through it and defeat Black Loong on the other side.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Loong_Scales_Use.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a player character standing in a lush forest environment, equipped with a spear-like weapon and wearing detailed armor. The scene aligns with the preceding and following text, suggesting it is part of a guide to using the Loong Scales to access hidden areas. Specifically, this image likely illustrates the path or setting near the waterfall mentioned in the \"Forest of Wolves\" section, where players can use the Loong Scales to pass through and encounter Red Loong. The visual serves to orient players within the game world and highlight the location's atmosphere."
+}

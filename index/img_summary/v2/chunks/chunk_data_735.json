@@ -1,0 +1,28 @@
+{
+    "chunk_id": 127684616599,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg",
+    "alt_text": "Gold Ridge Beast .jpg",
+    "position_desc": 3,
+    "img_above_text": "![Tiny Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg)| Tiny Piece of Gold| Uncommon | Treasure - Sellable | • In chests • Dropped from enemies\n![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies",
+    "img_below_text": "![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Tiny Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg)| Tiny Piece of Gold| Uncommon | Treasure - Sellable | • In chests • Dropped from enemies\n![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\"\n            - Following Text: \"![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a golden, intricately designed figurine resembling a mythical creature, likely a treasure item within the game *Black Myth: Wukong*. Based on the preceding and following text, this item is part of a collection of crafting materials and sellable treasures. It likely serves as a rare or valuable treasure that players can find in chests, obtain from enemies, or use for specific in-game purposes such as trading or crafting."
+}

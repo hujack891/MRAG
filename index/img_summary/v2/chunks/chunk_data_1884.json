@@ -1,0 +1,28 @@
+{
+    "chunk_id": 506487416077,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_92.jpg",
+    "alt_text": "Wukong Thunderclap 92.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.",
+    "img_below_text": "If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Thunderclap_91.jpg)\nEven without clones, he can still fly up to charge his sword, and then charge you with a fast-diving slash attack that you can deflect head on to stop him in his tracks.\"\n            - Following Text: \"If you dodge instead, be ready for him to pivot into a jumping slash attack after landing, which will expel a cyclone of blade slashes around him after a short delay.\n![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_92.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing an intense battle with the \"Macaque Chief\" boss. The environment is bathed in a fiery red hue, emphasizing the ferocity of the encounter. The preceding text describes the Macaque Chief's ability to fly and execute a fast-diving slash attack, while the following text warns of a subsequent jumping slash attack that creates a cyclone of blade slashes. The image visually captures the chaos and danger of the battle, highlighting the player's need to strategically deflect or dodge the boss's powerful moves."
+}

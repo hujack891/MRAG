@@ -1,0 +1,28 @@
+{
+    "chunk_id": 227072240096,
+    "source_file": "Bamboo_Grove_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg",
+    "alt_text": "Wukong Bamboo 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Back Hills\nHeading down the stairway from the back of the temple, you’ll find a new valley with a few Wolf enemies still lingering.",
+    "img_below_text": "Before moving on, be sure to hug the left wall to find a small path leading to a cave. Inside, you’ll find a friendly Horse Guai.\n![Wukong Bamboo 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Bamboo_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Back Hills\nHeading down the stairway from the back of the temple, you’ll find a new valley with a few Wolf enemies still lingering.\"\n            - Following Text: \"Before moving on, be sure to hug the left wall to find a small path leading to a cave. Inside, you’ll find a friendly Horse Guai.\n![Wukong Bamboo 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Bamboo_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Image Summary**: The image depicts the player character descending into a lush, forested valley, likely part of the \"Back Hills\" area mentioned in the preceding text. A red arrow suggests a path or direction to follow, leading toward an encounter with a Wolf enemy visible in the distance. The environment is dense with vegetation and features natural elements like moss-covered rocks and trees.\n\n2. **Narrative Role**: The image serves to guide players through the \"Back Hills\" area, highlighting the path forward and preparing them for a potential combat encounter with lingering Wolf enemies. It visually connects the preceding description of the valley and the following advice to explore the left wall for a hidden cave."
+}

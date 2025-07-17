@@ -1,31 +1,6 @@
 {
-    "chunk_id": 460613839738,
-    "source_file": "Puppet_Tick_Spirit.md",
-    "h1_title": "Puppet Tick Spirit",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg",
-    "alt_text": "Puppet Tick .jpg",
-    "position_desc": 0,
-    "img_above_text": "# Puppet Tick Spirit\nThe **Puppet Tick** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Puppet Tick offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Puppet Tick, including where to find it, how to defeat it, and what power its Spirit gives you.\n* Puppet Tick Location\n* Puppet Tick Fight\n* Puppet Tick Spirit\nPuppet Tick Spirit",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Puppet_Tick_Spirit.md', located under Puppet Tick Spirit.\n\n                Metadata:\n                - Document Title: Puppet Tick Spirit\n                - Alt Text: Puppet Tick .jpg\n\n                Context:\n                - Preceding Text: \"# Puppet Tick Spirit\nThe **Puppet Tick** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Puppet Tick offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Puppet Tick, including where to find it, how to defeat it, and what power its Spirit gives you.\n* Puppet Tick Location\n* Puppet Tick Fight\n* Puppet Tick Spirit\nPuppet Tick Spirit\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark and atmospheric scene from the game *Black Myth: Wukong*, showcasing the player character preparing for an encounter with enemies in a shadowy, web-filled environment. The character is holding a staff and emitting a glowing light, suggesting readiness for combat. The on-screen interface displays health, abilities, and inventory elements, emphasizing gameplay mechanics. This image aligns with the preceding text's focus on the Puppet Tick, a foe in the game, and its Spirit, which grants temporary powers upon defeat. It likely illustrates the setting or moment leading up to the Puppet Tick fight."
+    "chunk_id": 903359224369,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Wukong_LowerHollow_38.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a cave-like environment with web-covered walls. The central character is wielding a staff with a glowing red tip, suggesting a magical or combat function. The UI displays various elements: a health bar at the top right showing \"+263\" and \"86,\" indicating health status or points gained; a \"Will\" meter with a count of \"x268,\" possibly representing a resource or energy level. The bottom left shows icons for abilities or items, including a potion and other symbols, with quantities next to them. The bottom center displays a bar with a stylized icon, likely representing the character's health or stamina. The prompt \"RT Absorb\" suggests an interaction mechanic, possibly absorbing energy or items from the glowing green entity ahead. Overall, the image highlights the character's abilities and resources in a dark, mystical setting."
 }

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 210357065613,
+    "source_file": "Drinks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg",
+    "alt_text": "Lambrew .jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---\n![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine",
+    "img_below_text": "![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance\n![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Drinks.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---|---\n![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine\"\n            - Following Text: \"![Black-myth-wukong-bluebridge-romance.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg)| Bluebridge Romance| Legendary | Each sip instantly restores 36% of maximum health Moderately increase movement speed | Found along the North Shore of the Bitter Lake in Bitter Lake in The New WestFrom the Shrine, turn around and follow the coast, through the red archway, towards the temple with the lake just on its left Sitting on a rock on the far side of the lake is the Drink | Bluebridge Romance\n![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a unique drinking vessel shaped like a horse's head, likely made of ceramic or stone. Its design suggests it could be an ancient or artistic artifact, possibly symbolizing strength or nobility.\n\n2. **Purpose, Content, or Narrative Role**:  \nBased on the preceding and following text, the image likely represents a drink or item featured in the game *Black Myth: Wukong*. It may signify a special or thematic drink, akin to the \"Coconut Wine\" and \"Bluebridge Romance\" mentioned in the context. The vessel's distinctive design could hint at its cultural or mythical significance within the game's narrative."
+}

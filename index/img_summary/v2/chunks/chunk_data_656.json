@@ -1,0 +1,28 @@
+{
+    "chunk_id": 106632600819,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg",
+    "alt_text": "Wukong Bitter 10.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\nThe dragon won't just stop at wacking you with his tail up close, either. If he proclaims \"To the deepest trench I dive!\" Be ready for him to stick his tail in the ground, only for several giant electrified tails to sprout up in a cluster nearby. You'll need to quickly break off your attack and give them a wide berth, as they'll quickly perform a single huge spin attack all at once!",
+    "img_below_text": "Other times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\n![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Bitter_9.jpg)\nThe dragon won't just stop at wacking you with his tail up close, either. If he proclaims \"To the deepest trench I dive!\" Be ready for him to stick his tail in the ground, only for several giant electrified tails to sprout up in a cluster nearby. You'll need to quickly break off your attack and give them a wide berth, as they'll quickly perform a single huge spin attack all at once!\"\n            - Following Text: \"Other times, he may only summon one smaller tail, but this one can expel its electrical energy in a projectile blast when the tail swings.\n![Wukong Bitter 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bitter_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Bitter_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the player character facing off against the dragon \"Chen Loong.\" The dragon is unleashing a powerful electrical attack, with bolts of energy and bright flashes dominating the environment. The player appears to be dodging or preparing to evade the attack, emphasizing the need for strategic movement during this phase of the fight.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the dragon's electrified tail attack, aligning with the preceding and following text's description of its combat mechanics. It visually reinforces the danger posed by the dragon's electrified tail abilities, highlighting the need for players to adapt their tactics to avoid devastating area-of-effect attacks or projectile blasts."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 753010068756,
+    "source_file": "Old_Gourd.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Old_Gourd.jpg",
+    "alt_text": "Old Gourd.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Old Gourd is the starting Gourd on offer in Black Myth: Wukong. It is by far the simplest Gourd in the game, focusing entirely on refilling your health. Unlike some of the other Gourds, the Old Gourd doesn't have any special effects or alterations.\nEach sip from the Gourd will restore 33% of your maximum health by default with the Coconut Wine, and the Gourd has four uses by default.",
+    "img_below_text": "The Gourd can be upgraded at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain, upping the uses and effectiveness. Doing this turns it into the Medicine Gourd, Healing Gourd, Medicine Sage Gourd, and Medicine Master Gourd with each upgrade.\nThe upgrades for this Gourd are:",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Old_Gourd.md'.\n\n            Context:\n            - Preceding Text: \"The Old Gourd is the starting Gourd on offer in Black Myth: Wukong. It is by far the simplest Gourd in the game, focusing entirely on refilling your health. Unlike some of the other Gourds, the Old Gourd doesn't have any special effects or alterations.\nEach sip from the Gourd will restore 33% of your maximum health by default with the Coconut Wine, and the Gourd has four uses by default.\"\n            - Following Text: \"The Gourd can be upgraded at the Shen Monkey Vendor in Bamboo Grove in Black Wind Mountain, upping the uses and effectiveness. Doing this turns it into the Medicine Gourd, Healing Gourd, Medicine Sage Gourd, and Medicine Master Gourd with each upgrade.\nThe upgrades for this Gourd are:\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Old_Gourd.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the in-game menu screen for the Old Gourd in \"Black Myth: Wukong.\" The Old Gourd is a basic health-restoring item that refills 33% of the player's maximum health per sip, using Coconut Wine. It has four uses by default and can be upgraded at the Shen Monkey Vendor to enhance its effectiveness and increase the number of uses."
+}

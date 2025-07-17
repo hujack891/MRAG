@@ -1,31 +1,6 @@
 {
-    "chunk_id": 525087292228,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "h1_title": "The Forest of Wolves",
-    "h2_title": "Front Hills",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Wolves_13.jpg",
-    "alt_text": "Wukong Wolves 13.jpg",
-    "position_desc": 20,
-    "img_above_text": "# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n## Front Hills\n\nGoing left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 20 from the file 'Forest_of_Wolves_Walkthrough.md', located under Front Hills.\n\n                Metadata:\n                - Document Title: The Forest of Wolves\n                - Section Title: Front Hills\n                - Alt Text: Wukong Wolves 13.jpg\n\n                Context:\n                - Preceding Text: \"# The Forest of Wolves\nWhile he may not be Sun Wukong, the Destined One is not above a bit of trickery and foolishness — as evidenced by luring some lesser Wolf Guais into trying to take a bite out of him disguised as a peach.\n## Front Hills\n\nGoing left should lead you to another Wolf Swordsworn behind a rock sculpture, and a **Gentian** plant near him that you can harvest.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Wolves_13.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from \"The Forest of Wolves\" walkthrough, specifically in the \"Front Hills\" section. It shows a character approaching another figure near a rock sculpture in a forested area. This aligns with the preceding text, which mentions encountering a Wolf Swordsworn behind a rock sculpture and finding a Gentian plant nearby. The image serves to visually guide players through this part of the game, highlighting the location and context of the described encounter."
+    "chunk_id": 646674793044,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Yellow_45.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a player character is engaged in combat with an enemy named \"Gore-Eye Daoist.\" The environment is dark and rocky, with a red hue illuminating the area, likely indicating a dangerous or intense situation. The enemy is partially visible, with a distinct, grotesque appearance. The user interface includes a health bar for the enemy at the bottom center, showing that it is partially depleted. On the bottom left, there is a player health bar and a set of icons, possibly representing abilities or items. On the bottom right, additional icons suggest more abilities or actions, with button prompts labeled \"RT\" and \"RB,\" indicating controller inputs. The text \"and spill!\" appears at the bottom, possibly part of a dialogue or narrative element."
 }

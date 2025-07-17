@@ -1,0 +1,28 @@
+{
+    "chunk_id": 118387492108,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg",
+    "alt_text": "Wukong Snowhill 10.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\nYou can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.",
+    "img_below_text": "Head back up the main path through more Frozen Corpses, taking them on one at a time so you don't get overwhelmed. Once you reach the top of this area you'll find a large snowy field where the monkey is waiting for you.\n### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Snowhill_9.jpg)\nYou can head past the small building the other monkey was perched on, or swing around the back side to find a small alternate path. This area leads up to a large column with a green Wisp you can absorb, and two Frozen Corpses guarding it.\"\n            - Following Text: \"Head back up the main path through more Frozen Corpses, taking them on one at a time so you don't get overwhelmed. Once you reach the top of this area you'll find a large snowy field where the monkey is waiting for you.\n### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Snowhill_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is navigating through a snowy path. In this particular area, Wukong encounters two Frozen Corpses guarding a large column with a green Wisp that can be absorbed. The preceding text suggests an alternate path leading to this encounter, while the following text advises players to proceed carefully through more Frozen Corpses to avoid being overwhelmed, eventually leading to a snowy field where a miniboss fight with the Macaque Chief awaits."
+}

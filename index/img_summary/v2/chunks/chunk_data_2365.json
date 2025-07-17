@@ -1,0 +1,28 @@
+{
+    "chunk_id": 929225224134,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
+    "alt_text": "Wukong Pagoda 93.jpg",
+    "position_desc": 90,
+    "img_above_text": "## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.",
+    "img_below_text": "From the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\nOutside the Wheel Luojia Fragrant Vine",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 90 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\"\n            - Following Text: \"From the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\nOutside the Wheel Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game walkthrough, showing a character standing in a cave pool near a lone tree. An arrow points towards the tree, indicating the location of the Luojia Fragrant Vine, a collectible item mentioned in the following text. This setting is part of the \"Outside the Wheel\" area in the Pagoda Realm, where players can explore branching paths and gather resources like the Jade Lotus and Luojia Fragrant Vine. The image serves as a visual guide for players to locate and collect these items during their journey."
+}

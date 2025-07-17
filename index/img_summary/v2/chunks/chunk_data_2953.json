@@ -1,0 +1,28 @@
+{
+    "chunk_id": 323315556803,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png",
+    "alt_text": "Water Curtain Cave Walkthrough .png",
+    "position_desc": 6,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png)\nImmediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.",
+    "img_below_text": "After another story from Zhu Bajie, the giant staff will shrink and you'll be able to get it from the body of water in front of you. Now that you've acquired the Jingubang and look exactly like Wukong, head to the back of the cave directly ahead.\nFollow the path to the peak, where you'll come to the Return Path Keeper's Shrine.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png)\nImmediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.\"\n            - Following Text: \"After another story from Zhu Bajie, the giant staff will shrink and you'll be able to get it from the body of water in front of you. Now that you've acquired the Jingubang and look exactly like Wukong, head to the back of the cave directly ahead.\nFollow the path to the peak, where you'll come to the Return Path Keeper's Shrine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character in elaborate, ornate armor holding a giant staff, which is likely the Jingubang. This scene appears to be part of a cutscene in the game \"Black Myth: Wukong,\" where the player acquires the staff and transforms to look like Wukong. The context suggests that this moment is significant for progressing the narrative, as the player will soon head to the Return Path Keeper's Shrine."
+}

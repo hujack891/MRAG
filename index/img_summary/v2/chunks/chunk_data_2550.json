@@ -1,0 +1,28 @@
+{
+    "chunk_id": 214671365022,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg",
+    "alt_text": "Wukong Sandgate 66.jpg",
+    "position_desc": 64,
+    "img_above_text": "![Wukong Sandgate 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg)\nOn the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.",
+    "img_below_text": "Just past the door, you can find a wooden structure built into the rock walls with a glowing pot just out of reach. To get to it, look for a ledge below you can drop down onto, and take the path right to climb back up. Break the glowing pot to gain your second **Awaken Wine Worm** to upgrade your Gourd’s Drink. Just remember you can only do so by traveling back to the Shen Monkey in Chapter 1.\n![Wukong Sandgate 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sandgate_68.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 64 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 65.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg)\nOn the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.\"\n            - Following Text: \"Just past the door, you can find a wooden structure built into the rock walls with a glowing pot just out of reach. To get to it, look for a ledge below you can drop down onto, and take the path right to climb back up. Break the glowing pot to gain your second **Awaken Wine Worm** to upgrade your Gourd’s Drink. Just remember you can only do so by traveling back to the Shen Monkey in Chapter 1.\n![Wukong Sandgate 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sandgate_68.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong.\" On the left, the protagonist navigates a rocky ledge within a dimly lit cave, while on the right, the protagonist approaches a glowing pot within a wooden structure built into the rock walls. The pot is highlighted as an important item, which, when broken, provides the player with an **Awaken Wine Worm** to upgrade their Gourd’s Drink. This upgrade can only be applied by traveling back to the Shen Monkey in Chapter 1."
+}

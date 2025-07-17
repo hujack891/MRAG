@@ -1,31 +1,6 @@
 {
-    "chunk_id": 994978067696,
-    "source_file": "Red_Tides.md",
-    "h1_title": "Red Tides",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg",
-    "alt_text": "Black-myth-wukong-red-tides-2.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Red Tides\nRed Tides is one of the Transformation Spells found within Black Myth: Wukong. It is one of the most powerful Transformations you can find within the game's early chapters, thanks to its extremely strong heavy attacks.\nThe Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Red_Tides.md', located under Red Tides.\n\n                Metadata:\n                - Document Title: Red Tides\n                - Alt Text: Black-myth-wukong-red-tides-2.jpg\n\n                Context:\n                - Preceding Text: \"# Red Tides\nRed Tides is one of the Transformation Spells found within Black Myth: Wukong. It is one of the most powerful Transformations you can find within the game's early chapters, thanks to its extremely strong heavy attacks.\nThe Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" specifically showcasing the \"Red Tides\" Transformation Spell. In the image, a character transformed into a wolf guai is engaged in combat, utilizing the spell's abilities. The on-screen text highlights the moveset for \"Red Tides,\" including the \"Moon Dance\" light attack and \"Moon Chase\" heavy attack, emphasizing the spell's powerful offensive capabilities. The context provided explains that \"Red Tides\" is a potent early-game transformation known for its strong heavy attacks and ability to inflict Scorch Bane on enemies."
+    "chunk_id": 345963013334,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_MiddleHollow_33.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a scene from a video game where the player character, wielding a staff, is navigating a dark, cave-like environment. The character is moving across a wooden bridge, with a red arrow indicating a suggested path or direction. The environment is detailed with rocky terrain and stalactites, and there is a large stone structure with engravings on the left. The user interface displays several elements: a health bar at the bottom left, various ability or item icons on the left and right, and a circular icon at the bottom right, possibly indicating a special ability or attack. The scene suggests exploration and potential combat or puzzle-solving elements."
 }

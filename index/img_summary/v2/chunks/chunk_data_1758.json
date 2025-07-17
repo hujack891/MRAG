@@ -1,0 +1,28 @@
+{
+    "chunk_id": 234488535716,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg",
+    "alt_text": "Wukong Turtle 17.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong Turtle 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg)\nQuickly dodge to the side, and keep your distance as the embedded spear will explode after a short moment, sending rocks up all around it.",
+    "img_below_text": "The good news is this attack is so powerful it will leave her incredibly drained, and give you plenty of time to retaliate with all your saved up focus points, a Spirit Attack, and anything else you can throw at her!\n![Wukong Turtle 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Turtle_18.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg)\nQuickly dodge to the side, and keep your distance as the embedded spear will explode after a short moment, sending rocks up all around it.\"\n            - Following Text: \"The good news is this attack is so powerful it will leave her incredibly drained, and give you plenty of time to retaliate with all your saved up focus points, a Spirit Attack, and anything else you can throw at her!\n![Wukong Turtle 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Turtle_18.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in the boss fight against \"Kang-Jin Star\" in *Black Myth: Wukong*. Set in a snowy, mountainous landscape under a dark sky, the boss is shown wielding a glowing spear, likely preparing for or recovering from a powerful attack. The preceding text warns players to dodge and keep their distance due to the spear's explosive aftermath, while the following text highlights an opportunity to retaliate after the boss becomes drained from her powerful moves. The image emphasizes the atmospheric setting and the critical phase of the battle."
+}

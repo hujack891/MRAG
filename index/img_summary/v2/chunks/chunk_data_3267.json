@@ -1,0 +1,28 @@
+{
+    "chunk_id": 903979905839,
+    "source_file": "Wandering_Wight.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Wight_4.jpg",
+    "alt_text": "Wukong Wight 4.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Wight 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg)\nEven worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.",
+    "img_below_text": "However, the nastiest attack in the Wandering Wight’s disposal is easily his earthquake causing slam attack. If you see him wave his hands before holding one up in the air, be ready to dodge or start running away fast, as he’ll slam his fist into the ground and cause an explosion around him.\n![Wukong Wight 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wight_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Wandering_Wight.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wight 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Wight_9.jpg)\nEven worse, some of his combos can add with him performing an extremely fast leaping stomp attack, which covers a good amount of distance and is hard to react to when the speed is much faster than his other stomps.\"\n            - Following Text: \"However, the nastiest attack in the Wandering Wight’s disposal is easily his earthquake causing slam attack. If you see him wave his hands before holding one up in the air, be ready to dodge or start running away fast, as he’ll slam his fist into the ground and cause an explosion around him.\n![Wukong Wight 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_Wight_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Wight_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the game \"Black Myth: Wukong\" where the Wandering Wight performs his powerful earthquake-causing slam attack. The scene shows the Wight slamming his fist into the ground, causing an explosion and debris to fly around, emphasizing the destructive nature of this attack. The preceding and following text highlight the difficulty of reacting to this attack and the necessity for players to dodge or run away quickly to avoid damage."
+}

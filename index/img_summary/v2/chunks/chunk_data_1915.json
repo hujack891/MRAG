@@ -1,0 +1,28 @@
+{
+    "chunk_id": 812011419083,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Mad_Tiger_Spirit.jpg",
+    "alt_text": "Mad Tiger Spirit.jpg",
+    "position_desc": 8,
+    "img_above_text": "Stock up on all medicines before heading into the fight to boost your stats, and don't hold back on your spells because the Mad Tiger certainly isn't going to hold back on you!\n## Mad Tiger Spirit",
+    "img_below_text": "* **Boulder Smash**\n* Equipped Effect: Moderately increases Attack, but massively reduces Maximum Health.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Mad_Tiger_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Stock up on all medicines before heading into the fight to boost your stats, and don't hold back on your spells because the Mad Tiger certainly isn't going to hold back on you!\n## Mad Tiger Spirit\"\n            - Following Text: \"* **Boulder Smash**\n* Equipped Effect: Moderately increases Attack, but massively reduces Maximum Health.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Mad_Tiger_Spirit.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays a game interface focused on the \"Mad Tiger Spirit\" equipment, which is an epic item with high Qi cost. It features the ability \"Boulder Smash,\" allowing players to transform into the Mad Tiger to deal area damage and shock enemies. The equipped effect increases attack power but significantly reduces maximum health. This setup suggests strategic preparation for combat, emphasizing the need for balancing offensive capabilities with health limitations."
+}

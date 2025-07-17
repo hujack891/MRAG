@@ -1,0 +1,28 @@
+{
+    "chunk_id": 539872418495,
+    "source_file": "Daoist_Mi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg",
+    "alt_text": "Wukong PurpleCloud 51.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong PurpleCloud 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_PurpleCloud_50.jpg)\nMuch of the worm's moves rely on stumbling and staggering slashes with their long poisonous appendage, either thrusting forward or dragging it along the ground toward you. While they can be a little unpredictable, they still move very slowly.",
+    "img_below_text": "The one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.\n![Wukong PurpleCloud 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Daoist_Mi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_PurpleCloud_50.jpg)\nMuch of the worm's moves rely on stumbling and staggering slashes with their long poisonous appendage, either thrusting forward or dragging it along the ground toward you. While they can be a little unpredictable, they still move very slowly.\"\n            - Following Text: \"The one big new move that Daoist Mi can use in this form is spewing a lot more poison across the arena. In particular, if they arch backwards for a long moment before getting up, they'll run towards you while spewing poison in every possible direction. Knowing this in advance, simply keep your distance or prepare a charged thrust attack to repel them.\n![Wukong PurpleCloud 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_PurpleCloud_51.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character engaging in combat with Daoist Mi, a boss-like enemy. Daoist Mi is spewing poison across the arena, creating a hazardous environment. The setting features a scenic outdoor area with autumnal trees, rocky terrain, and traditional architecture in the background. The player's health and abilities are visible in the UI, emphasizing the intensity of the encounter.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates a critical moment in the fight against Daoist Mi, highlighting their poison-spewing attack described in the following text. It serves to visually represent the challenge posed by this enemy, reinforcing the need for strategic positioning and preparation to counter their unpredictable and toxic moves."
+}

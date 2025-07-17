@@ -1,0 +1,28 @@
+{
+    "chunk_id": 597654184459,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Middle_Hollow_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "Middle Hollow Luojia Fragrant Vine.jpg",
+    "position_desc": 7,
+    "img_above_text": "### Middle Hollow Luojia Fragrant Vine\nMiddle Hollow Luojia Fragrant Vine",
+    "img_below_text": "This Luojia Fragrant Vine can be found in the center of the settlement in the Middle of the Hollow. It is guarded by the Scorpion Prince, so take him down and absorb his Spirit before picking up the vine.\n### Temple of the Yellow Flowers Luojia Fragrant Vine",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Middle Hollow Luojia Fragrant Vine\nMiddle Hollow Luojia Fragrant Vine\"\n            - Following Text: \"This Luojia Fragrant Vine can be found in the center of the settlement in the Middle of the Hollow. It is guarded by the Scorpion Prince, so take him down and absorb his Spirit before picking up the vine.\n### Temple of the Yellow Flowers Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Middle_Hollow_Luojia_Fragrant_Vine.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing near a glowing tree adorned with golden flowers, likely representing the Middle Hollow Luojia Fragrant Vine mentioned in the context. The setting is dark and atmospheric, with a mysterious, overgrown environment that includes cobwebs and ancient structures. This image visually supports the narrative description of the vine's location in the center of the settlement, emphasizing its mystical and guarded nature, as players must confront the Scorpion Prince to claim it."
+}

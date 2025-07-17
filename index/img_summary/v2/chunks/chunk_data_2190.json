@@ -1,0 +1,28 @@
+{
+    "chunk_id": 949350772996,
+    "source_file": "Non-Pure.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Thunderclap_67.jpg",
+    "alt_text": "Wukong Thunderclap 67.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Thunderclap 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Thunderclap_66.jpg)\nTo make matters worse, Non-Pure also has a large gauntlet that he can periodically imbue with deflecting power, making him even harder to damage when he's not unleashing combos. Look for the glow in his glove (and especially his arm tattoo glowing bright as he's likely to hide his glove behind his back) to know when he's most likely to knock your attacks aside, and resist the urge to expend your focus points.",
+    "img_below_text": "If you try attacking him when his glove is powered up two many times, he'll eventually retaliate with a counterattack, stunning you for a moment and then unleashing a spin attack that you may not be able to evade in time.\n![Wukong Thunderclap 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Thunderclap_63.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Non-Pure.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_Thunderclap_66.jpg)\nTo make matters worse, Non-Pure also has a large gauntlet that he can periodically imbue with deflecting power, making him even harder to damage when he's not unleashing combos. Look for the glow in his glove (and especially his arm tattoo glowing bright as he's likely to hide his glove behind his back) to know when he's most likely to knock your attacks aside, and resist the urge to expend your focus points.\"\n            - Following Text: \"If you try attacking him when his glove is powered up two many times, he'll eventually retaliate with a counterattack, stunning you for a moment and then unleashing a spin attack that you may not be able to evade in time.\n![Wukong Thunderclap 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Thunderclap_63.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Thunderclap_67.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character named Non-Pure from the game \"Black Myth: Wukong\" in the midst of a combat sequence. Non-Pure is wielding a large axe and appears to be engaging in an attack. The preceding text explains that Non-Pure can imbue his gauntlet with deflecting power, making him harder to damage, while the following text warns that repeated attacks against his powered-up glove can lead to a counterattack and a spin attack that is difficult to evade. The image serves to illustrate Non-Pure's combat abilities and the challenges he poses to the player."
+}

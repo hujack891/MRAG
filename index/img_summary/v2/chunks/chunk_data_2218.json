@@ -1,0 +1,28 @@
+{
+    "chunk_id": 836273355747,
+    "source_file": "Non-White.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_MindCliff_6.jpg",
+    "alt_text": "Wukong MindCliff 6.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong MindCliff 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_MindCliff_4.jpg)\nAnother of his dangerous combo moves will start with a quick shout and an upward thrust of his blade followed by a quick jab. He'll then adopt a strange pose by lifting a leg up, only to dash at you with extreme speed for a final two-hit strike that can be dodged or deflected to get him off-balance.",
+    "img_below_text": "If you spot him twirl his blade up behind him, be ready for a quick dash forward as he slashes upward, and then slams down to create a trail of ice in front of him. Thankfully, unlike some of the other moves, this will lead him wide open if you dodge to his side and strike back.\n![Wukong MindCliff 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_MindCliff_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Non-White.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MindCliff 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_MindCliff_4.jpg)\nAnother of his dangerous combo moves will start with a quick shout and an upward thrust of his blade followed by a quick jab. He'll then adopt a strange pose by lifting a leg up, only to dash at you with extreme speed for a final two-hit strike that can be dodged or deflected to get him off-balance.\"\n            - Following Text: \"If you spot him twirl his blade up behind him, be ready for a quick dash forward as he slashes upward, and then slams down to create a trail of ice in front of him. Thankfully, unlike some of the other moves, this will lead him wide open if you dodge to his side and strike back.\n![Wukong MindCliff 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Wukong_MindCliff_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_MindCliff_6.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene from the game \"Black Myth: Wukong,\" featuring the protagonist engaged in a fierce battle with an enemy named \"Non-White.\" The enemy is executing a powerful attack, creating a trail of ice on the ground. The preceding text describes a series of combo moves by the enemy, while the following text warns of another impending attack, emphasizing the need for strategic dodging and counter-attacking to exploit the enemy's vulnerabilities."
+}

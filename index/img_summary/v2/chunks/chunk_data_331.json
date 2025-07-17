@@ -1,0 +1,28 @@
+{
+    "chunk_id": 89136955664,
+    "source_file": "Black_Wind_King.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_BlackWind_17.jpg",
+    "alt_text": "Wukong BlackWind 17.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong BlackWind 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_BlackWind_16.jpg)\nAfter his next Black Wind assault, be ready to transform using the Red Tides Spell, and charge up a dash attack the moment he lands in the center of the arena, and use it and the transformation spell’s pogo attack to perform a massive hit once you catch him after a teleport.",
+    "img_below_text": "Counter each of his teleports when his attacks complete, and you’ll soon defeat the Yaoguai King, forcing him to retreat as he yells for you to face his true form at the top of the mountain. However, in his retreat, he’ll leave behind some of his Black Wind, which the Keeper of the Mountain will harness and pass onto you, giving you a brand new spell: **Cloud Step**.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Black_Wind_King.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/99/Wukong_BlackWind_16.jpg)\nAfter his next Black Wind assault, be ready to transform using the Red Tides Spell, and charge up a dash attack the moment he lands in the center of the arena, and use it and the transformation spell’s pogo attack to perform a massive hit once you catch him after a teleport.\"\n            - Following Text: \"Counter each of his teleports when his attacks complete, and you’ll soon defeat the Yaoguai King, forcing him to retreat as he yells for you to face his true form at the top of the mountain. However, in his retreat, he’ll leave behind some of his Black Wind, which the Keeper of the Mountain will harness and pass onto you, giving you a brand new spell: **Cloud Step**.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_BlackWind_17.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dynamic combat scene from *Black Myth: Wukong*, showcasing Wukong mid-action, wielding his staff and surrounded by ethereal energy effects. The glowing, translucent appearance suggests the use of a spell or transformation, likely the Red Tides Spell mentioned in the preceding text. The setting features a dark, atmospheric arena with scattered debris and glowing elements, emphasizing the intensity of the battle.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents a critical moment in the fight against the Yaoguai King, where Wukong uses powerful abilities like the Red Tides Spell and a charged dash attack to counter the enemy's teleportation and deliver a massive hit. This scene ties into the narrative progression, leading to the Yaoguai King's retreat and the acquisition of the new **Cloud Step** spell."
+}

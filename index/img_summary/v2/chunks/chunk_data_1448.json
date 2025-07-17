@@ -1,0 +1,28 @@
+{
+    "chunk_id": 164393616835,
+    "source_file": "Gourds.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg",
+    "alt_text": "Old Gourd .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Gourd | Rarity | Default Uses Per Life | Special Effect | Location | Collected\n---|---|---|---|---|---|---",
+    "img_below_text": "![Trailblazers Scarlet Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg)| Trailblazer’s Scarlet Gourd| Rare | 5 | When the Gourd is full, the first sip replenishes to full health. | Deluxe Edition exclusive item. Unlocked at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain\nAlso given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Gourds.md'.\n\n            Context:\n            - Preceding Text: \"Image | Gourd | Rarity | Default Uses Per Life | Special Effect | Location | Collected\n---|---|---|---|---|---|---\"\n            - Following Text: \"![Trailblazers Scarlet Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg)| Trailblazer’s Scarlet Gourd| Rare | 5 | When the Gourd is full, the first sip replenishes to full health. | Deluxe Edition exclusive item. Unlocked at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain\nAlso given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a close-up of a hand holding a dark red gourd, likely the Trailblazer’s Scarlet Gourd from the game *Black Myth: Wukong*. This rare item has a special effect where, when full, its first sip replenishes the player's health completely. It is tied to specific locations and editions of the game, serving as a collectible and functional in-game resource."
+}

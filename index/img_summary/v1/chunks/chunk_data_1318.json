@@ -1,31 +1,6 @@
 {
-    "chunk_id": 695512869446,
-    "source_file": "Fuban.md",
-    "h1_title": "Fuban",
-    "h2_title": "Fuban Boss Fight and Guide",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
-    "alt_text": "Wukong Sahali 36.jpg",
-    "position_desc": 19,
-    "img_above_text": "# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 19 from the file 'Fuban.md', located under Fuban Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Fuban\n                - Section Title: Fuban Boss Fight and Guide\n                - Alt Text: Wukong Sahali 36.jpg\n\n                Context:\n                - Preceding Text: \"# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nThis time, Fuban will swim right under you, and pierce upward with its horn to try and skewer you. The good news is that by using your Pillar Stance, you can raise up away from the explosion, and will only lose a chunk of stamina as the sand erupts, while avoiding damage.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Wukong_Sahali_36.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the Fuban boss fight in the game Black Myth Wukong. It shows a character evading an attack from Fuban, a large creature emerging from the sand, causing an explosion of debris. This visual illustrates the described strategy of using the Pillar Stance to avoid damage from Fuban's upward horn attack during the encounter in the Kingdom of Sahali."
+    "chunk_id": 756522602910,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Chapter_2_Secret_Area_%289%29.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a player character is engaged in combat with a large, grotesque enemy. The player character is wielding a fiery weapon, possibly a sword or staff, and is striking the enemy, which is a large humanoid creature with a distorted face and massive arms. The environment is a rugged, rocky terrain with sparse vegetation, suggesting a desolate or ancient setting. In the background, there is a structure resembling a fortress or temple, adding to the atmosphere of the scene. The visual effects of sparks and flames indicate an intense battle moment, but there are no visible UI components such as health bars or icons in the image."
 }

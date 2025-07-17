@@ -1,0 +1,28 @@
+{
+    "chunk_id": 207864419748,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/The_Shade_Mirrormere_Meditation_Spot.jpg",
+    "alt_text": "The Shade Mirrormere Meditation Spot.jpg",
+    "position_desc": 10,
+    "img_above_text": "### The Shade, Mirrormere Meditation Spot\nThe Shade, Mirrormere Meditation Spot",
+    "img_below_text": "The Mirrormere Meditation Spot is almost directly in front of the Mirrormere Keeper's Shrine. The spot looks out over the edge of the lake underneath a large overhanging tree.\n### The Bottom, Pagoda Realm Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Shade, Mirrormere Meditation Spot\nThe Shade, Mirrormere Meditation Spot\"\n            - Following Text: \"The Mirrormere Meditation Spot is almost directly in front of the Mirrormere Keeper's Shrine. The spot looks out over the edge of the lake underneath a large overhanging tree.\n### The Bottom, Pagoda Realm Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/The_Shade_Mirrormere_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot known as \"The Shade, Mirrormere Meditation Spot,\" located near the edge of a frozen lake under a large overhanging tree. A figure dressed in ornate attire, holding a staff, stands on a snow-covered wooden platform, gazing at a glowing object on a pedestal. The surrounding environment features snow-covered rocks, sparse vegetation, and towering icy mountains in the background, emphasizing tranquility and introspection. This spot is described as being near the Mirrormere Keeper's Shrine, suggesting its spiritual significance and connection to meditation practices."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 793557184915,
+    "source_file": "Endings_Explained.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Endings_Explained_%2814%29.png",
+    "alt_text": "Endings Explained \\(14\\).png",
+    "position_desc": 3,
+    "img_above_text": "![Endings Explained \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Endings_Explained_%2813%29.png)\nThese will be absorbed by The Destined One, who will kneel down face to face with Wukong. Despite obtaining all the Great Sage's Six Senses, and besting Wukong, a crown falls into the water.",
+    "img_below_text": "As The Old Monkey collects the golden crown from the water, he places it on top of The Destined One's head. Unfortunately, this does nothing but place The Destined One inside the same rock that Wukong laid waiting.\n## Ending 2 - The (True) Secret Ending",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Endings_Explained.md'.\n\n            Context:\n            - Preceding Text: \"![Endings Explained \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Endings_Explained_%2813%29.png)\nThese will be absorbed by The Destined One, who will kneel down face to face with Wukong. Despite obtaining all the Great Sage's Six Senses, and besting Wukong, a crown falls into the water.\"\n            - Following Text: \"As The Old Monkey collects the golden crown from the water, he places it on top of The Destined One's head. Unfortunately, this does nothing but place The Destined One inside the same rock that Wukong laid waiting.\n## Ending 2 - The (True) Secret Ending\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/68/Endings_Explained_%2814%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic and ethereal moment in *Black Myth: Wukong*, showing Wukong and The Destined One kneeling face to face in a golden, misty atmosphere. This scene symbolizes the culmination of The Destined One absorbing Wukong's Six Senses and defeating him, as described in the preceding text. The imagery sets the tone for the transition to the next event, where the golden crown falls into the water, leading to The Destined One's fate of being trapped in the same rock as Wukong."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 998062184197,
+    "source_file": "Commander_Beetle.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg",
+    "alt_text": "Wukong YellowFlower 22.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong YellowFlower 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_19.jpg)\nOnce it's down to a 1v1 fight, you'll find things a bit more approachable, though you should still be on guard. For all his talk of wanting to die, he's a very competent swordfighter, and uses his blades in a few distinct ways.",
+    "img_below_text": "He can quickly charge at you in a lunging backhanded slice attack, which will result in a whirlwind of blade strikes all around him after a moment you'll also need to dodge.\n![Wukong YellowFlower 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Commander_Beetle.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_19.jpg)\nOnce it's down to a 1v1 fight, you'll find things a bit more approachable, though you should still be on guard. For all his talk of wanting to die, he's a very competent swordfighter, and uses his blades in a few distinct ways.\"\n            - Following Text: \"He can quickly charge at you in a lunging backhanded slice attack, which will result in a whirlwind of blade strikes all around him after a moment you'll also need to dodge.\n![Wukong YellowFlower 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_YellowFlower_21.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Wukong_YellowFlower_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment from the game *Black Myth: Wukong*, showcasing the \"Commander Beetle\" boss executing a powerful whirlwind blade attack. The player character is seen lying on the ground, emphasizing the intensity and danger of the encounter. This visual aligns with the preceding and following text, which describe the boss's skillful sword techniques and the need for precise dodging during its lunging and whirlwind attacks."
+}

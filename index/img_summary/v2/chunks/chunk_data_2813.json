@@ -1,0 +1,28 @@
+{
+    "chunk_id": 533116886950,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_YellowFlower_10.jpg",
+    "alt_text": "Wukong YellowFlower 10.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong YellowFlower 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_YellowFlower_8.jpg)\nOnce you cross a bridge over the trail below, you'll head through a small tunnel and come out onto another large area lined with murals, one of which has a green Wisp to absorb, and another alcove that holds a **Treasure Chest** guarded by a second Snake Sheriff.",
+    "img_below_text": "You'll also see a hideous creature in monk robes stagger forth by the chest -- a Worm Practitioner. They'll attack haphazardly with a long tendril-like arm to deal poison damage, so you'll want to engage them cautiously.\n![Wukong YellowFlower 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_YellowFlower_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_YellowFlower_8.jpg)\nOnce you cross a bridge over the trail below, you'll head through a small tunnel and come out onto another large area lined with murals, one of which has a green Wisp to absorb, and another alcove that holds a **Treasure Chest** guarded by a second Snake Sheriff.\"\n            - Following Text: \"You'll also see a hideous creature in monk robes stagger forth by the chest -- a Worm Practitioner. They'll attack haphazardly with a long tendril-like arm to deal poison damage, so you'll want to engage them cautiously.\n![Wukong YellowFlower 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_YellowFlower_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_YellowFlower_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay scene from the \"Black Myth: Wukong\" game, showing the player character engaged in combat with a grotesque enemy known as the Worm Practitioner. The setting is a lush, rocky area with ancient ruins and statues. The Worm Practitioner, identifiable by its monk robes and long, tendril-like arm, is known to deal poison damage. This image illustrates the encounter described in the text, highlighting the need for cautious engagement due to the enemy's hazardous attacks."
+}

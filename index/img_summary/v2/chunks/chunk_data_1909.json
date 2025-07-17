@@ -1,0 +1,28 @@
+{
+    "chunk_id": 236544704982,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
+    "alt_text": "Wukong Yellow 25.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.",
+    "img_below_text": "You will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Mad_Tiger_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.\"\n            - Following Text: \"You will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\n![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene from the game *Black Myth: Wukong*, where the player character, Wukong, is fighting the Tiger's Acolyte. The environment appears to be a desolate, ancient bridge with weathered stone structures, and the combat interface is visible, indicating active gameplay mechanics.\n\n2. **Purpose and Narrative Role**:  \nThe image illustrates a key moment in the \"Mad Tiger\" questline, where the player must defeat the Tiger's Acolyte to progress. This fight is critical for obtaining the Spirit and the Old Rattle Drum, essential items for summoning spirits in Yellow Wind Ridge, as described in the preceding and following text."
+}

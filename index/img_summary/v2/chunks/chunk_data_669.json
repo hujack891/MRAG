@@ -1,0 +1,28 @@
+{
+    "chunk_id": 584952729197,
+    "source_file": "Clay_Vajra_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Clay_Vajra_Power_2.jpg",
+    "alt_text": "Clay Vajra Power 2.jpg",
+    "position_desc": 3,
+    "img_above_text": "In addition to its knees and belly, the Clay Vajra is also armed with a fork-like weapon that it uses to stab and swipe at you.\n## Clay Vajra Spirit",
+    "img_below_text": "* **Flames of Doom**\n* Equipped Effect: Moderately increases Burn Resistance.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Clay_Vajra_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"In addition to its knees and belly, the Clay Vajra is also armed with a fork-like weapon that it uses to stab and swipe at you.\n## Clay Vajra Spirit\"\n            - Following Text: \"* **Flames of Doom**\n* Equipped Effect: Moderately increases Burn Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Clay_Vajra_Power_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image showcases the \"Clay Vajra Spirit\" in a game interface, highlighting its abilities and effects. The spirit can unleash \"Flames of Doom,\" spewing fire from its knees to damage enemies while increasing the user's burn resistance when equipped.\n\n2. **Purpose/Role**:  \nThe image serves as a detailed description of the Clay Vajra Spirit, emphasizing its combat utility and defensive benefits, aligning with the preceding and following text that describes its weaponry and equipped effects."
+}

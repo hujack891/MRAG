@@ -1,0 +1,28 @@
+{
+    "chunk_id": 600590650860,
+    "source_file": "Baw-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_LowerHollow_32.jpg",
+    "alt_text": "Wukong LowerHollow 32.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong LowerHollow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_LowerHollow_35.jpg)\nWhen he gets to around half his health or so, the boss will start using tongue attacks on you, only the tongue is actually a very long hand with its own unique and bizarre attacks!",
+    "img_below_text": "What used to be a standard straight tongue attack will now also retract while he fires to projectiles as the hand flicks its fingers to fire magic darts in quick succession, meaning even if you dodge the tongue-hand shooting out, you need to dodge when it retracts as well.\n![Wukong LowerHollow 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_LowerHollow_31.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Baw-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong LowerHollow 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Wukong_LowerHollow_35.jpg)\nWhen he gets to around half his health or so, the boss will start using tongue attacks on you, only the tongue is actually a very long hand with its own unique and bizarre attacks!\"\n            - Following Text: \"What used to be a standard straight tongue attack will now also retract while he fires to projectiles as the hand flicks its fingers to fire magic darts in quick succession, meaning even if you dodge the tongue-hand shooting out, you need to dodge when it retracts as well.\n![Wukong LowerHollow 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_LowerHollow_31.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_LowerHollow_32.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a boss fight against \"Baw-Li-Guhh-Baw\" in *Black Myth: Wukong*. The boss is shown using its unique tongue-hand attack, extending toward the player character in a dimly lit, atmospheric environment filled with water and intricate carvings on the walls. The health bar at the bottom indicates the ongoing battle, while the UI displays player abilities and resources.\n\n2. **Narrative Role**:  \nThe image illustrates a critical moment in the fight where the boss begins employing its bizarre tongue-hand attack, as described in the preceding text. This attack evolves into more complex patterns, as explained in the following text, emphasizing the player's need to adapt to both the initial strike and its retraction. The image serves to visually highlight the intensity and mechanics of this phase of the encounter."
+}

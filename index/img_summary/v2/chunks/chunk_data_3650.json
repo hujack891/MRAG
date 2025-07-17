@@ -1,0 +1,28 @@
+{
+    "chunk_id": 675285764347,
+    "source_file": "Yellow-Robed_Squire.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sahali_8.jpg",
+    "alt_text": "Wukong Sahali 8.jpg",
+    "position_desc": 9,
+    "img_above_text": "If you notice him throw out sand and then raise his hand high while it begins to glow, be ready for him to summon his secret weapon — a large bladed ring with barbs that he can employ for the rest of his combo.\nCertain times, he’ll start with a large downward slash, and then follow up after a delay with a second jumping slash attack, and then one final pivoting slash attack before it disappears into sand. As his health gets slower, he’ll add summoning the ring blade to his other combo attacks, but they can still be parried with Rock Solid.",
+    "img_below_text": "If you try to pull back too far away from him, he also has a few more sandy surprises. Instead of crafting a ring blade, he can also summon a spear of sand behind his back that glows as it appears, and then he’ll launch it at you extremely fast.\n![Wukong Sahali 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Sahali_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Yellow-Robed_Squire.md'.\n\n            Context:\n            - Preceding Text: \"If you notice him throw out sand and then raise his hand high while it begins to glow, be ready for him to summon his secret weapon — a large bladed ring with barbs that he can employ for the rest of his combo.\nCertain times, he’ll start with a large downward slash, and then follow up after a delay with a second jumping slash attack, and then one final pivoting slash attack before it disappears into sand. As his health gets slower, he’ll add summoning the ring blade to his other combo attacks, but they can still be parried with Rock Solid.\"\n            - Following Text: \"If you try to pull back too far away from him, he also has a few more sandy surprises. Instead of crafting a ring blade, he can also summon a spear of sand behind his back that glows as it appears, and then he’ll launch it at you extremely fast.\n![Wukong Sahali 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Sahali_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Sahali_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay scene from \"Black Myth: Wukong,\" featuring a combat encounter with the Yellow-Robed Squire. The squire is seen preparing to attack the player character with a spear of sand, which he has summoned behind his back. This image illustrates the squire's ability to use sandy surprises when the player tries to distance themselves, emphasizing the dynamic and challenging nature of the combat mechanics in the game."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 841726681028,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Bitter_3.jpg",
+    "alt_text": "Wukong Bitter 3.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** TBA\n## Where to Find Chen Loong",
+    "img_below_text": "Chen Loong is an optional opponent who has their own quest, which you can find shortly after leaving Turtle Rock for the North Shore of the Bitter Lake. From the Shrine, head left while facing it to head along the lakeshore toward a lone shack by the water.\nSearch the shallows near this shack, and you'll find the old dragon wandering the waters, and will become hostile as you approach.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"* **Rewards:** TBA\n## Where to Find Chen Loong\"\n            - Following Text: \"Chen Loong is an optional opponent who has their own quest, which you can find shortly after leaving Turtle Rock for the North Shore of the Bitter Lake. From the Shrine, head left while facing it to head along the lakeshore toward a lone shack by the water.\nSearch the shallows near this shack, and you'll find the old dragon wandering the waters, and will become hostile as you approach.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Bitter_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a player character approaching the North Shore of the Bitter Lake in a snowy, rocky environment. The red arrow highlights a distant figure in the water, likely Chen Loong, an optional quest-related opponent. The image serves to visually guide players to the location where they can encounter Chen Loong, as described in the accompanying text."
+}

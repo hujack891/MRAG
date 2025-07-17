@@ -1,0 +1,28 @@
+{
+    "chunk_id": 583700176082,
+    "source_file": "Turtle_Treasure_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Turtle_Treasure_Spirit.png",
+    "alt_text": "Turtle Treasure Spirit.png",
+    "position_desc": 3,
+    "img_above_text": "While fighting Turtle Treasure, you will want to make sure to look out for the mallet it swings at you. A Pluck of Many or Immobilize makes this fight a lot easier if you don't have the Gourd.\n## Turtle Treasure Spirit",
+    "img_below_text": "* **Skyward**\n* Equipped Effect: Moderately increase Damage dealt by Heavy Attacks that cost 3 or 4 Focus Points.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Turtle_Treasure_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"While fighting Turtle Treasure, you will want to make sure to look out for the mallet it swings at you. A Pluck of Many or Immobilize makes this fight a lot easier if you don't have the Gourd.\n## Turtle Treasure Spirit\"\n            - Following Text: \"* **Skyward**\n* Equipped Effect: Moderately increase Damage dealt by Heavy Attacks that cost 3 or 4 Focus Points.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Turtle_Treasure_Spirit.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image is a game interface screen displaying the \"Turtle Treasure\" spirit in the equipment menu. It provides details about the spirit's abilities and effects, specifically highlighting the \"Skyward\" ability, which allows the player to ride a mallet upside-down to launch into the air and crush enemies upon landing. The equipped effect increases the damage of heavy attacks that require 3 or 4 Focus Points. This information is relevant for players strategizing on how to effectively use the Turtle Treasure spirit in combat."
+}

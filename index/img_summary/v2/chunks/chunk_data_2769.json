@@ -1,0 +1,28 @@
+{
+    "chunk_id": 367109810931,
+    "source_file": "Stone_Essence.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Stone_Essence_2.jpg",
+    "alt_text": "Stone Essence 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Stone Essence\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.",
+    "img_below_text": "The Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.\n![Stone Essence 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Stone_Essence.md'.\n\n            Context:\n            - Preceding Text: \"# Stone Essence\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.\"\n            - Following Text: \"The Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.\n![Stone Essence 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Stone_Essence_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the inventory screen from the game Black Myth: Wukong, showcasing the Stone Essence, a rare key item. The Stone Essence is described as a consolidated cluster of azure gravel, obtained from the shattered remains of the Mother of Stones, a secret boss located in Fright Cliff. This item plays a crucial role in assisting the Man-In-Stone within the same area. The image serves to illustrate the appearance and in-game description of the Stone Essence, highlighting its significance in the game's narrative and gameplay."
+}

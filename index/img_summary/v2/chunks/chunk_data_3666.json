@@ -1,0 +1,28 @@
+{
+    "chunk_id": 467795110033,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Thunderclap_86.jpg",
+    "alt_text": "Wukong Thunderclap 86.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Thunderclap 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Thunderclap_85.jpg)\nOnce you've taken out his entire health bar, he'll disappear again, sometimes summoning a lightning storm to track you as you try and race back over to him. Take it slow and focus on evasion rather than trying to close the distance.",
+    "img_below_text": "This battle may be won, but the war is far from over. Yellowbrow will freeze you in place, and use his magic seed sack to draw you into a perilous prison.\n![Wukong Thunderclap 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 85.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_Thunderclap_85.jpg)\nOnce you've taken out his entire health bar, he'll disappear again, sometimes summoning a lightning storm to track you as you try and race back over to him. Take it slow and focus on evasion rather than trying to close the distance.\"\n            - Following Text: \"This battle may be won, but the war is far from over. Yellowbrow will freeze you in place, and use his magic seed sack to draw you into a perilous prison.\n![Wukong Thunderclap 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Thunderclap_86.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense and dramatic moment from the game \"Black Myth: Wukong,\" showcasing a fierce battle scene with a fiery red hue dominating the atmosphere. The preceding text describes a challenging encounter where the player must evade a lightning storm summoned by the enemy, while the following text hints at the continuation of the conflict, with the enemy using magical abilities to trap the player. This image likely captures a critical point in the battle, emphasizing the high stakes and the perilous nature of the confrontation."
+}

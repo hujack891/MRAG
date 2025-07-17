@@ -1,0 +1,28 @@
+{
+    "chunk_id": 403400752618,
+    "source_file": "Celestial_Taiyi_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Yellow_Wind_Taiyi.jpg",
+    "alt_text": "Yellow Wind Taiyi.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Yellow Wind Ridge Celestial Taiyi Pill\nYellow Wind Ridge Celestial Taiyi Pill",
+    "img_below_text": "The next Celestial Taiyi Pill is hidden near a Meditation Spot. This one is available after defeating the Stone Vanguard at Rock Clash Platform. Once you do, follow the light to unlock the Rock Clash Platform Keeper's Shrine. Take the path opposite the Shrine and defeat the Rat Governor Spirit. The pill is on a small side path, branching off to the right before the Meditation Spot.\n## Xu-Dog Celestial Taiyi Pills",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Celestial_Taiyi_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Yellow Wind Ridge Celestial Taiyi Pill\nYellow Wind Ridge Celestial Taiyi Pill\"\n            - Following Text: \"The next Celestial Taiyi Pill is hidden near a Meditation Spot. This one is available after defeating the Stone Vanguard at Rock Clash Platform. Once you do, follow the light to unlock the Rock Clash Platform Keeper's Shrine. Take the path opposite the Shrine and defeat the Rat Governor Spirit. The pill is on a small side path, branching off to the right before the Meditation Spot.\n## Xu-Dog Celestial Taiyi Pills\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Yellow_Wind_Taiyi.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character interacting with a glowing, golden container in a rugged, outdoor environment. The \"Open\" prompt suggests the player is about to retrieve an item, likely the Celestial Taiyi Pill, as part of a quest or exploration. The setting features a shrine-like structure, a lit brazier, and a rocky, desolate landscape.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image illustrates the location of the Yellow Wind Ridge Celestial Taiyi Pill, referenced in the preceding text. It serves as a visual guide for players to identify the specific spot where the pill can be found, aiding in the completion of the quest. The context suggests this is part of a broader series of tasks to collect Celestial Taiyi Pills across different locations."
+}

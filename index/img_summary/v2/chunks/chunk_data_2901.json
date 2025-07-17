@@ -1,0 +1,28 @@
+{
+    "chunk_id": 383556530498,
+    "source_file": "The_Duskveil.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg",
+    "alt_text": "Wukong PurpleCloud 67.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong PurpleCloud 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_PurpleCloud_66.jpg)\nUnlike the other attack, he'll throw down his sword at you, embedding it into the ground before he lands on top of it. After a brief pause, he'll raise one hoof up, and slam down on the sword, creating a massive tremor all around.",
+    "img_below_text": "Luckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.\n![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_PurpleCloud_66.jpg)\nUnlike the other attack, he'll throw down his sword at you, embedding it into the ground before he lands on top of it. After a brief pause, he'll raise one hoof up, and slam down on the sword, creating a massive tremor all around.\"\n            - Following Text: \"Luckily, the moment he lands you can swap into a pillar stance and charge up to avoid the attack and retaliate with a strong charged hit.\n![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_PurpleCloud_67.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showcasing a fierce battle against a formidable enemy named \"The Duskveil.\" The environment is filled with jagged, red rocks, and the character is seen wielding a staff, preparing to counter the enemy's powerful attack. The preceding text describes the enemy's attack pattern, where it slams its sword into the ground to create a tremor, while the following text suggests a strategic response by swapping into a pillar stance to avoid damage and retaliate effectively. The image captures the intensity and strategy involved in this particular combat encounter."
+}

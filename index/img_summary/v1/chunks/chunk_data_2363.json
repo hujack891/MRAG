@@ -1,31 +1,6 @@
 {
-    "chunk_id": 297248589974,
-    "source_file": "Poisestone_Spirit.md",
-    "h1_title": "Poisestone Spirit",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Poisestone.png",
-    "alt_text": "Poisestone.png",
-    "position_desc": 0,
-    "img_above_text": "# Poisestone Spirit\n**Poisestone** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Poisestone offers up her Spirit for you to absorb, allowing you to use some of her powers for a short time. On this page, we will go over everything you need to know about Poisestone, including where to find her, how to defeat her, and what power her Spirit gives you.\n* Poisestone Location\n* Poisestone Fight\n* Poisestone Spirit\nPoisestone Spirit",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Poisestone_Spirit.md', located under Poisestone Spirit.\n\n                Metadata:\n                - Document Title: Poisestone Spirit\n                - Alt Text: Poisestone.png\n\n                Context:\n                - Preceding Text: \"# Poisestone Spirit\n**Poisestone** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Poisestone offers up her Spirit for you to absorb, allowing you to use some of her powers for a short time. On this page, we will go over everything you need to know about Poisestone, including where to find her, how to defeat her, and what power her Spirit gives you.\n* Poisestone Location\n* Poisestone Fight\n* Poisestone Spirit\nPoisestone Spirit\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Poisestone.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is about to absorb the spirit of a defeated foe named Poisestone. The spirit, represented by a glowing blue entity, is ready to be taken, as indicated by the prompt on the screen. This action allows the player to temporarily use some of Poisestone's powers. The image is part of a document titled \"Poisestone Spirit,\" which provides detailed information about Poisestone, including her location, how to defeat her, and the benefits of absorbing her spirit."
+    "chunk_id": 872188869870,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Wukong_LowerHollow_8.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a lush, forested environment. The central character is equipped with a staff or spear that emits a fiery glow, suggesting a magical or elemental weapon. The character is dressed in ornate armor, indicating they are a warrior or adventurer. In the background, an enemy creature resembling a large mushroom is visible, marked by a health bar above it, indicating it is a target for combat. The user interface displays a notification that the player has acquired \"Licorice,\" with a quantity of one, suggesting item collection is part of the gameplay. Additionally, various UI elements are present at the bottom left corner, possibly indicating health, mana, or other character stats."
 }

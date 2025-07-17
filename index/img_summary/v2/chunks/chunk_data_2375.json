@@ -1,0 +1,28 @@
+{
+    "chunk_id": 30588676505,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg",
+    "alt_text": "Wukong Pagoda 104.jpg",
+    "position_desc": 100,
+    "img_above_text": "The main path leads up a slope to the left of the Shrine, and then to a large rock-filled forested area further left that you can ignore if you keep on the main path up to the Warding Temple where the last boss of this area is.\nHowever, you can first explore a second short area off to the right from the Shrine leading downhill.",
+    "img_below_text": "Crossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.\n![Wukong Pagoda 105.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 100 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The main path leads up a slope to the left of the Shrine, and then to a large rock-filled forested area further left that you can ignore if you keep on the main path up to the Warding Temple where the last boss of this area is.\nHowever, you can first explore a second short area off to the right from the Shrine leading downhill.\"\n            - Following Text: \"Crossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.\n![Wukong Pagoda 105.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character navigating through a snowy, rocky terrain towards a rope bridge guarded by statues, likely part of a challenging path in the game \"Black Myth: Wukong.\" This scene sets the stage for the player to cross a gorge and enter a snowfield filled with hidden Frozen Corpses, emphasizing the need for cautious progression due to low visibility and potential threats."
+}

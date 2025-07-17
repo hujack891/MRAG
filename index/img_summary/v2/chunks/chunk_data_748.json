@@ -1,0 +1,28 @@
+{
+    "chunk_id": 253562013367,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg",
+    "alt_text": "Thunderbone.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Thunder Tail .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg)| Thunder Tail| Epic | Special crafting material | • Defeat  Red Loong behind waterfall in Forest of Wolves - Outside the Forest in Black Wind Mountain ( Loong Scales required)\n![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge",
+    "img_below_text": "![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)\n![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Thunder Tail .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Thunder_Tail_.jpg)| Thunder Tail| Epic | Special crafting material | • Defeat  Red Loong behind waterfall in Forest of Wolves - Outside the Forest in Black Wind Mountain ( Loong Scales required)\n![Samadhi Wind Agate .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Samadhi_Wind_Agate_.jpg)| Samadhi Wind Agate| Rare | Special crafting material | • Defeat Yellow Wind Sage in Yellow Wind Formation: Windseal Gate (mandatory boss) in Yellow Wind Ridge\"\n            - Following Text: \"![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)\n![Sky-Piercing Horn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg)| Sky-Piercing Horn| Mythical | Special crafting material | • Defeat  Fuban in the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a crafting material called \"Thunder Tail,\" which appears to be an intricately designed item resembling a glowing, blue bone-like structure mounted on a twisted, wooden base. Based on the preceding and following text, this item is classified as an **Epic special crafting material** in the game *Black Myth: Wukong*. It is obtained by defeating the Red Loong behind the waterfall in the Forest of Wolves, located outside the Forest in Black Wind Mountain, provided the player has Loong Scales. The image serves to visually represent the item for players seeking it in the game's crafting system."
+}

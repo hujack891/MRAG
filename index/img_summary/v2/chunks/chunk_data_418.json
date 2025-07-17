@@ -1,0 +1,28 @@
+{
+    "chunk_id": 957680159105,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg",
+    "alt_text": "Wukong Pagoda 83.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.",
+    "img_below_text": "After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 79.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg)\nCaptain Wise-Voice has a lot of unorthodox attacks, made by violently spinning its golden sphere of a head around to emit thin beams of light. If you start to see beams erupt in different directions, start strafing to get distance, and prepare to dodge or sprint away when all the beams finally flash down in your direction at the same time.\"\n            - Following Text: \"After a short delay, he'll perform another blast as the laser cuts upward, requiring a second dodge.\nOther times, it will create a sustained laser much faster, roving around you to slash upwards, and then create a trail of lightning strikes in a vertical line you'll need to quickly strafe to outpace.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Pagoda_83.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene against the boss \"Captain Wise-Voice\" in *Black Myth: Wukong*. The environment is dark and chaotic, with beams of light and energy streaking across the screen, showcasing the boss's unorthodox attacks. The player's health and abilities are visible in the UI, emphasizing the need for strategic dodging and movement to survive the encounter.\n\n2. **Purpose/Narrative Role**:  \nThe image visually represents the gameplay mechanics and challenges of fighting Captain Wise-Voice, specifically its light-based attacks and patterns. It complements the preceding and following text, which provides tactical advice to players on how to evade the boss's laser beams and lightning strikes during the fight."
+}

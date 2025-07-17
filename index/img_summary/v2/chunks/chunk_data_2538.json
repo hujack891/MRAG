@@ -1,0 +1,28 @@
+{
+    "chunk_id": 945431718703,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg",
+    "alt_text": "Wukong Sandgate 50.jpg",
+    "position_desc": 52,
+    "img_above_text": "![Wukong Sandgate 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg)\nThe Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.",
+    "img_below_text": "This usually ends with a quick wave of force as he pulls his weapon up that you’ll need to dodge, so don’t get too gutsy trying to retaliate early on this attack.\n![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 52 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg)\nThe Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\"\n            - Following Text: \"This usually ends with a quick wave of force as he pulls his weapon up that you’ll need to dodge, so don’t get too gutsy trying to retaliate early on this attack.\n![Wukong Sandgate 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_Sandgate_54.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a combat encounter between the protagonist and the Second Rat Prince. The Second Rat Prince is seen performing a dashing attack with his spiked mace, stirring up dust and debris. The preceding text describes the basic attacks of the Second Rat Prince, while the following text advises players to dodge the force wave that follows his ground slams. This image illustrates the intense and strategic nature of the battle, emphasizing the need for timely dodges and careful retaliation."
+}

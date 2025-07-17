@@ -1,31 +1,6 @@
 {
-    "chunk_id": 94909145742,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "h1_title": "Chapter 4 Secrets",
-    "h2_title": "Purple Cloud Mountain",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Chapter_4_Secret_Area_%2816%29.png",
-    "alt_text": "Chapter 4 Secret Area \\(16\\).png",
-    "position_desc": 16,
-    "img_above_text": "# Chapter 4 Secrets\n## Purple Cloud Mountain\n\nYou can find 4 Purple Talismans in the Webbed Hollow and Temple of the Yellow Flowers. Find them all to interact with a secret mini-boss for the chapter called Supreme Inspector and an additional character for your Journal.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 16 from the file 'Secrets_in_Black_Myth_Wukong.md', located under Purple Cloud Mountain.\n\n                Metadata:\n                - Document Title: Chapter 4 Secrets\n                - Section Title: Purple Cloud Mountain\n                - Alt Text: Chapter 4 Secret Area \\(16\\).png\n\n                Context:\n                - Preceding Text: \"# Chapter 4 Secrets\n## Purple Cloud Mountain\n\nYou can find 4 Purple Talismans in the Webbed Hollow and Temple of the Yellow Flowers. Find them all to interact with a secret mini-boss for the chapter called Supreme Inspector and an additional character for your Journal.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Chapter_4_Secret_Area_%2816%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing in a scenic, autumnal landscape at Purple Cloud Mountain, which is part of Chapter 4 in the document titled \"Secrets in Black Myth Wukong.\" The character appears to be preparing for a challenge, possibly related to finding Purple Talismans in the area, which are necessary to unlock a secret mini-boss named Supreme Inspector and an additional character for the Journal. The image serves to visually represent the setting and atmosphere of Purple Cloud Mountain, emphasizing the exploration and discovery elements of the chapter."
+    "chunk_id": 368740134786,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_YellowLoong_17.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from a video game set in a lush, forested environment. A flying enemy character, glowing with a bright light, is positioned above the player character, who appears to be a humanoid with animalistic features. The UI includes various elements: a health bar at the bottom left, indicating the player's health status, and a stamina bar below it. On the bottom right, there are icons representing different abilities or items, with button prompts like \"R1\" and \"R2\" suggesting controller inputs. The enemy's name, \"Yellow Loong,\" is displayed with a health bar at the bottom center, indicating a boss fight or significant enemy encounter. The environment is detailed with rocks, grass, and dense foliage, contributing to the immersive setting."
 }

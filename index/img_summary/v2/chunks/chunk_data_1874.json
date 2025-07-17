@@ -1,0 +1,28 @@
+{
+    "chunk_id": 779131278008,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg",
+    "alt_text": "Wukong Snowhill 18.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)\nOnce you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.",
+    "img_below_text": "Do not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\n![Wukong Snowhill 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_17.jpg)\nOnce you get him to around half his health, he'll suddenly jump backwards in retreat, and start putting his hands together to signal mercy and defeat.\"\n            - Following Text: \"Do not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\n![Wukong Snowhill 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense moment in the snowy battlefield of *Black Myth: Wukong*, where the protagonist is engaged in combat with the \"Macaque Chief.\" The enemy appears to be retreating and preparing a deceptive gesture of surrender, as described in the preceding text. The glowing weapon in the enemy's hand hints at the imminent upward slash attack mentioned in the following text.\n\n2. **Narrative Role**:  \nThis image illustrates the critical phase of the boss fight, emphasizing the Macaque Chief's deceptive tactics and the need for the player to remain vigilant despite the enemy's retreat and apparent surrender. It visually complements the warning in the text about the incoming surprise attack."
+}

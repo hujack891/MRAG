@@ -1,0 +1,28 @@
+{
+    "chunk_id": 609745524256,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_25.jpg",
+    "alt_text": "Wukong Pagoda 25.jpg",
+    "position_desc": 26,
+    "img_above_text": "![Wukong Pagoda 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg)\nUp ahead, you'll finally spot the staircase leading up to level 3 that are guarded by an Abomination, but before you head up there's an optional and challenging encounter further down the hall.",
+    "img_below_text": "Keep proceeding past the stairs to find a Snake-Head Mushroom to harvest, and look left through an open cell gate to spy a Blade Monk perched outside on the ledge that you can poke off with a thrust attack.\nIf you head to the end of the cells, you'll find a green Wisp to absorb, and a ledge outside leading back down to a small outcropping below with a second green Wisp, and a one-way drop back to the very start (we'd recommend grabbing the next Shrine at the top of the stairs to Level 3 first).",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Pagoda_24.jpg)\nUp ahead, you'll finally spot the staircase leading up to level 3 that are guarded by an Abomination, but before you head up there's an optional and challenging encounter further down the hall.\"\n            - Following Text: \"Keep proceeding past the stairs to find a Snake-Head Mushroom to harvest, and look left through an open cell gate to spy a Blade Monk perched outside on the ledge that you can poke off with a thrust attack.\nIf you head to the end of the cells, you'll find a green Wisp to absorb, and a ledge outside leading back down to a small outcropping below with a second green Wisp, and a one-way drop back to the very start (we'd recommend grabbing the next Shrine at the top of the stairs to Level 3 first).\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Pagoda_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat encounter in the game \"Black Myth: Wukong,\" where the player character is engaged in a battle with an Abomination. This scene occurs just before ascending to level 3 of the pagoda, highlighting a challenging optional encounter that players can choose to face before proceeding."
+}

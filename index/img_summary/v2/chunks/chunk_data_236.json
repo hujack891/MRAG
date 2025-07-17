@@ -1,0 +1,28 @@
+{
+    "chunk_id": 380051114258,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Bitter_61.jpg",
+    "alt_text": "Wukong Bitter 61.jpg",
+    "position_desc": 93,
+    "img_above_text": "![Wukong Bitter 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Bitter_60.jpg)\nNext, head left through a narrow passage and defeat the Monk Supporter that guards it, before moving left again. Just before you reach the entrance to an underground tunnel, look on the right just past a series of wooden posts to find the third Buddha statue.",
+    "img_below_text": "Go inside the doorway into a dimly lit passage, and head right. Keep climbing upward and take out the two Monk Supporters that get in your way.\n![Wukong Bitter 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bitter_62.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 93 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Wukong_Bitter_60.jpg)\nNext, head left through a narrow passage and defeat the Monk Supporter that guards it, before moving left again. Just before you reach the entrance to an underground tunnel, look on the right just past a series of wooden posts to find the third Buddha statue.\"\n            - Following Text: \"Go inside the doorway into a dimly lit passage, and head right. Keep climbing upward and take out the two Monk Supporters that get in your way.\n![Wukong Bitter 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bitter_62.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Bitter_61.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the protagonist, Wukong, holding his staff and preparing to enter a dimly lit underground passage. The setting features intricate stone architecture with warm lighting and shadows, suggesting a transition into a more challenging or mysterious area.\n\n2. **Narrative Role**:  \nThe image serves as a visual cue for the player to proceed into the underground tunnel mentioned in the preceding text. It highlights the atmospheric shift as Wukong moves from the outdoor area into a darker, enclosed space, setting the tone for the upcoming encounters with Monk Supporters described in the following text."
+}

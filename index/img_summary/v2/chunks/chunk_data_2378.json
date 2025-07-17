@@ -1,0 +1,28 @@
+{
+    "chunk_id": 306400902978,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg",
+    "alt_text": "Wukong Pagoda 107.jpg",
+    "position_desc": 103,
+    "img_above_text": "![Wukong Pagoda 106.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_106.jpg)\nYou'll find a large empty field up the slope, leading to a shrouded gate of fog that lets you enter The Great Pagoda. Inside, you can activate a Shrine, but you'll find there's no one in this grand room.",
+    "img_below_text": "What you will find are two large murals on the first two walls on the left, and looking closely you should be able to recognize them -- they are the scenes depicted to you after completing the previous chapters! With that in mind, you'll want to come back here after getting close to completing the game, once all the scenes have been unlocked in this room, but for now, head back to the Snow-Veiled Trail Shrine.\n![Wukong Pagoda 108.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 103 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 106.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_Pagoda_106.jpg)\nYou'll find a large empty field up the slope, leading to a shrouded gate of fog that lets you enter The Great Pagoda. Inside, you can activate a Shrine, but you'll find there's no one in this grand room.\"\n            - Following Text: \"What you will find are two large murals on the first two walls on the left, and looking closely you should be able to recognize them -- they are the scenes depicted to you after completing the previous chapters! With that in mind, you'll want to come back here after getting close to completing the game, once all the scenes have been unlocked in this room, but for now, head back to the Snow-Veiled Trail Shrine.\n![Wukong Pagoda 108.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_108.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Wukong_Pagoda_107.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing before a large mural inside The Great Pagoda. The mural appears to illustrate scenes from previous chapters of the game \"Black Myth: Wukong.\" This room, which is initially empty, will later display all unlocked scenes as the player progresses through the game. The player is advised to return to this room after nearing the completion of the game to view all the depicted scenes."
+}

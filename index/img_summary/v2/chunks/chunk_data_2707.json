@@ -1,0 +1,28 @@
+{
+    "chunk_id": 618189479564,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
+    "alt_text": "Snow Fox Questline \\(4\\).png",
+    "position_desc": 2,
+    "img_above_text": "![Snow Fox Questline \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Snow_Fox_Questline_%287%29.png)\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.",
+    "img_below_text": "Approach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\n![Snow Fox Questline .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(7\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Snow_Fox_Questline_%287%29.png)\nTo meet the fox, progress through Chapter 3 until you get to the Valley of Ectascy section, which is toward the end. You'll eventually slide down a snowy slope, and arrive at the Forest of Felicity. To the left of the Forest of Felicity Keeper's Shrine, you'll see a skeletal body slumped against a post at the start of a wooden path.\"\n            - Following Text: \"Approach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\n![Snow Fox Questline .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the \"Snow Fox Questline\" in the game \"Black Myth: Wukong.\" It shows a character interacting with a skeletal body slumped against a post in a snowy forest setting. This interaction is part of a narrative where the player learns about a fox guai whose soul resides in the body. The fox guai shares its story of transformation and betrayal, having been caught in a hunter's trap and later killed by a scholar it tried to help. The quest involves uncovering the fox's tale of revenge against the scholar, now a monk at the New Thunderclap Temple, which the player will visit soon."
+}

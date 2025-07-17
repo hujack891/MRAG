@@ -1,0 +1,28 @@
+{
+    "chunk_id": 540464168442,
+    "source_file": "Guangmou.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg",
+    "alt_text": "Wukong Bamboo 25.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)\nHis other main projectile attack comes out much faster, as he levitates off the ground for a moment before shooting out a line of the spells in front of him. They don’t track you like the others, but they will shoot rapidly downward and into the ground in front of him.",
+    "img_below_text": "When he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!\n![Wukong Bamboo 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Guangmou.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)\nHis other main projectile attack comes out much faster, as he levitates off the ground for a moment before shooting out a line of the spells in front of him. They don’t track you like the others, but they will shoot rapidly downward and into the ground in front of him.\"\n            - Following Text: \"When he’s got some range on you, listen up for some of his call-outs. If he yells “Storm forth!” he’ll soon create a gusty orb surrounded by leaves that will slowly float toward you. This one can’t be deflected since it won’t do damage on its own. Once it reaches your position, the gust will issue forth and in a moment become a small violent tornado that will knock you down!\n![Wukong Bamboo 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Bamboo_29.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bamboo_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts a combat encounter in *Black Myth: Wukong*, featuring the protagonist facing off against an enemy named \"Guangmou\" in a bamboo forest setting. The player character is positioned in the foreground, preparing for battle, while Guangmou is visible near a rocky area in the distance. The environment is lush and atmospheric, with bamboo trees and moss-covered rocks. The health bar labeled \"Guangmou\" suggests this is a boss fight or significant enemy encounter.  \n\n2. **Narrative Role**:  \nThe image illustrates the gameplay mechanics and setting described in the surrounding text. It likely corresponds to the moment when Guangmou uses projectile attacks, such as levitating and shooting spells or summoning gusty orbs, as referenced in the preceding and following text. The visual reinforces the tense and strategic nature of the encounter in the game's immersive world."
+}

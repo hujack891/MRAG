@@ -1,0 +1,28 @@
+{
+    "chunk_id": 567075261971,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/The_Height_Forest_of_Ferocity_Meditation_Spot.jpg",
+    "alt_text": "The Height Forest of Ferocity Meditation Spot.jpg",
+    "position_desc": 18,
+    "img_above_text": "### The Height, Forest of Ferocity Meditation Spot\nThe Height, Forest of Ferocity Meditation Spot",
+    "img_below_text": "Once you unlock the Forest of Ferocity Keeper's Shrine after escaping the Hollow, follow the cliffs all the way to the leftmost point to find the Forest of Ferocity Meditation Spot.\n### The Pines, Temple of Yellow Flowers Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Height, Forest of Ferocity Meditation Spot\nThe Height, Forest of Ferocity Meditation Spot\"\n            - Following Text: \"Once you unlock the Forest of Ferocity Keeper's Shrine after escaping the Hollow, follow the cliffs all the way to the leftmost point to find the Forest of Ferocity Meditation Spot.\n### The Pines, Temple of Yellow Flowers Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/The_Height_Forest_of_Ferocity_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a serene meditation spot located in the \"Height, Forest of Ferocity\" area. The scene features a character standing on a rocky platform surrounded by lush greenery and towering cliffs, with a prompt to meditate. The setting emphasizes tranquility and serves as a key location for players to rest or progress in the game, as described in the context of unlocking the Forest of Ferocity Keeper's Shrine."
+}

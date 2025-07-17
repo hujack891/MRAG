@@ -1,0 +1,28 @@
+{
+    "chunk_id": 453845396009,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
+    "alt_text": "Buddhas Eyes Secret Boss .png",
+    "position_desc": 5,
+    "img_above_text": "* Pungent Flesh Chunk\n## The Buddha's Eyeballs - Shigandang",
+    "img_below_text": "In the Fright Cliff section of Chapter 2, you may notice the glowing yellow eyeballs that sit in the Buddha Heads scattered around the area. There are 6 Buddha Heads to find, each with a Buddha's Eyeball inside.\nWhen you have all 6, you'll want to take them to the area where you fight The Stone Vanguard, near Rockrest Flat. Putting them into the rock in the arena will reveal a secret boss called Shigandang.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Secrets_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Pungent Flesh Chunk\n## The Buddha's Eyeballs - Shigandang\"\n            - Following Text: \"In the Fright Cliff section of Chapter 2, you may notice the glowing yellow eyeballs that sit in the Buddha Heads scattered around the area. There are 6 Buddha Heads to find, each with a Buddha's Eyeball inside.\nWhen you have all 6, you'll want to take them to the area where you fight The Stone Vanguard, near Rockrest Flat. Putting them into the rock in the arena will reveal a secret boss called Shigandang.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Buddhas_Eyes_Secret_Boss_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is exploring a rocky, desolate area. The focus is on a Buddha Head, which contains one of the glowing yellow Buddha's Eyeballs. Collecting all six Buddha's Eyeballs from various Buddha Heads in the Fright Cliff section of Chapter 2 is necessary to unlock a secret boss called Shigandang, by placing them in a specific rock near Rockrest Flat."
+}

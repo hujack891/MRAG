@@ -1,0 +1,28 @@
+{
+    "chunk_id": 228585590169,
+    "source_file": "Non-White_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Non-white_fight.jpg",
+    "alt_text": "Non-white fight.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.",
+    "img_below_text": "Non-White will run away after you get his health bar about halfway down, but you will shortly come across him again deeper in the cave.\n## Non-White Fight",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Non-White_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Non-White Location\nNon-White is a boss you will encounter naturally as you progress through the story. After interacting with the Child Buddha, you will be tasked with finding and resonating with the four Buddha statues hidden around the area. Once you've done that, head up the steps at the back of the clearing to enter the cave system.\"\n            - Following Text: \"Non-White will run away after you get his health bar about halfway down, but you will shortly come across him again deeper in the cave.\n## Non-White Fight\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Non-white_fight.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where the player is engaged in a boss fight against a character named Non-White. The setting appears to be a frosty, cave-like environment, with ice spikes emerging from the ground, indicating an attack or special ability used by Non-White. The health bar at the bottom of the screen shows the name \"Non-White,\" suggesting that the player is currently battling this boss. The preceding text explains how the player encounters Non-White after resonating with four Buddha statues and entering a cave system, while the following text mentions that Non-White will flee once his health is reduced to halfway, only to be encountered again deeper in the cave. The image serves to illustrate the intense and challenging nature of the boss fight within this narrative context."
+}

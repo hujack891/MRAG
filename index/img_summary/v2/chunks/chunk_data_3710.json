@@ -1,0 +1,28 @@
+{
+    "chunk_id": 359747355180,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_Yellow_5.jpg",
+    "alt_text": "Wukong Yellow 5.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Yellow 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Yellow_4.jpg)\nBeyond it, the large stone bridge leading to the Windrest Hamlet is well guarded by a shield-bearing Spearbone, and two Blazebone ranged attackers supporting him. Bait out the fighter and lure him out of range, or alternatively, you can dodge around him (or use Cloud Step) to ambush the Blazebones first, and then focus on overpowering the defenses of the Spearbone with careful timing.",
+    "img_below_text": "Windrest is a pretty sizable place, and full of ambushes, so be sure to advance cautiously. A third Blazebone waits on a raised wooden platform on the right as you enter, and a Withered Corpse sitting just below him.\n![Wukong Yellow 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Wukong_Yellow_6.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Yellow_Sand_Formation_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Yellow_4.jpg)\nBeyond it, the large stone bridge leading to the Windrest Hamlet is well guarded by a shield-bearing Spearbone, and two Blazebone ranged attackers supporting him. Bait out the fighter and lure him out of range, or alternatively, you can dodge around him (or use Cloud Step) to ambush the Blazebones first, and then focus on overpowering the defenses of the Spearbone with careful timing.\"\n            - Following Text: \"Windrest is a pretty sizable place, and full of ambushes, so be sure to advance cautiously. A third Blazebone waits on a raised wooden platform on the right as you enter, and a Withered Corpse sitting just below him.\n![Wukong Yellow 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/de/Wukong_Yellow_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_Yellow_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" showcasing a character engaged in a fight with an enemy on a stone bridge. The context suggests that this encounter occurs near the Windrest Hamlet, where the player must strategically deal with multiple enemies, including a shield-bearing Spearbone and Blazebone ranged attackers. The image illustrates the intense and tactical nature of the gameplay, emphasizing the need for careful timing and strategy to overcome the adversaries."
+}

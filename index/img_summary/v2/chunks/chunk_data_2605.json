@@ -1,0 +1,28 @@
+{
+    "chunk_id": 278753987386,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Zodiac_Village_.png",
+    "alt_text": "Zodiac Village .png",
+    "position_desc": 7,
+    "img_above_text": "Cyan Loong\n## Yin Tiger",
+    "img_below_text": "Complete Chen Loong's questline in Chapter 3, where you collect a tonic from Xu Dog and bring it back to him to be transported to Zodiac Village. Here you can find the Yin Tiger, who you can challenge to a fight. Do this and earn yourself an additional Curio slot and the ability to craft tough armor.\nYin Tiger",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Cyan Loong\n## Yin Tiger\"\n            - Following Text: \"Complete Chen Loong's questline in Chapter 3, where you collect a tonic from Xu Dog and bring it back to him to be transported to Zodiac Village. Here you can find the Yin Tiger, who you can challenge to a fight. Do this and earn yourself an additional Curio slot and the ability to craft tough armor.\nYin Tiger\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Zodiac_Village_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a blacksmith working diligently in a rustic setting, likely within a village or forest area. This scene is relevant to the context of the game \"Black Myth: Wukong,\" where players engage in quests and challenges. The preceding and following text suggests that the image may represent a location where players can craft armor after completing a quest involving the Yin Tiger, enhancing their abilities and equipment for future challenges."
+}

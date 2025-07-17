@@ -1,31 +1,6 @@
 {
-    "chunk_id": 739354322382,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Outside the Wheel",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
-    "alt_text": "Wukong Pagoda 93.jpg",
-    "position_desc": 89,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nLike Captain Lotus-Vision, you'll also get The Spirit of Captain Wise-Voice that can't be cultivated. You can now step out through the opposite opening to exit this pagoda, and you can check the rim of the cliff to the left to find a **Treasure Chest** with materials inside.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 89 from the file 'Pagoda_Realm_Walkthrough.md', located under Outside the Wheel.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Outside the Wheel\n                - Alt Text: Wukong Pagoda 93.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nLike Captain Lotus-Vision, you'll also get The Spirit of Captain Wise-Voice that can't be cultivated. You can now step out through the opposite opening to exit this pagoda, and you can check the rim of the cliff to the left to find a **Treasure Chest** with materials inside.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Pagoda_93.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character standing in a shallow, reflective body of water surrounded by rocky terrain and sparse vegetation. A glowing tree is visible in the background, with an arrow pointing toward a specific area, suggesting a path or point of interest. Based on the preceding text, this scene is part of the exploration in the \"Outside the Wheel\" section of *The Beguiling Chant of the Pagoda Realm*. The arrow likely indicates the direction to a **Treasure Chest** containing materials, aligning with the narrative's guidance to check the rim of the cliff for rewards."
+    "chunk_id": 254375907606,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Wukong_LowerHollow_83.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from a video game where the player character is engaged in combat with a large spider-like enemy named \"Violet Spider.\" The environment is covered in web-like textures, suggesting a spider's lair. The player character is wielding a weapon, possibly a sword, with a fiery glow, indicating an attack or special ability. The user interface (UI) includes health and stamina bars at the bottom left, with the health bar partially depleted. Various icons on the left and right sides of the screen represent abilities or items, with some showing button prompts like \"RT.\" At the bottom center, a boss health bar labeled \"Violet Spider\" shows the enemy's remaining health. The scene emphasizes a boss fight scenario requiring strategic combat."
 }

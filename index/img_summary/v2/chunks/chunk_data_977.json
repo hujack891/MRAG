@@ -1,0 +1,28 @@
+{
+    "chunk_id": 551950427675,
+    "source_file": "Essential_Tips_and_Tricks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Tips_and_Tricks_%282%29.png",
+    "alt_text": "Tips and Tricks \\(2\\).png",
+    "position_desc": 5,
+    "img_above_text": "* **Understanding the difference between Spirit Attacks and Transformation Spells is vital to surviving tough encounters.** Spirit Attacks will temporarily transform you into a Yaoguai to unleash a single attack before returning to your form. During this time, you can't defend yourself, and can still take damage. When under the effects of a Transformation Spell, you'll have an entirely different health bar - which includes status effects - meaning you can transform to get out of danger or get hit with a status effect that won't stick around when you transform back.\n## Exploration Tips",
+    "img_below_text": "* **Follow the golden path**. If you're not sure where you're going at any point, when you're close to a shrine, a golden trail will appear. This will take you to the nearest Keeper's Shrine, so let the light lead the way.\n* **There are treasure chests and boxes to find along the way.** Some treasure chests are golden and obvious, while others are harder to find and look like wooden logs. On top of this, you'll find smaller boxes near altars where you can collect essential upgrade items, Gourds, Soaks, and more.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Essential_Tips_and_Tricks.md'.\n\n            Context:\n            - Preceding Text: \"* **Understanding the difference between Spirit Attacks and Transformation Spells is vital to surviving tough encounters.** Spirit Attacks will temporarily transform you into a Yaoguai to unleash a single attack before returning to your form. During this time, you can't defend yourself, and can still take damage. When under the effects of a Transformation Spell, you'll have an entirely different health bar - which includes status effects - meaning you can transform to get out of danger or get hit with a status effect that won't stick around when you transform back.\n## Exploration Tips\"\n            - Following Text: \"* **Follow the golden path**. If you're not sure where you're going at any point, when you're close to a shrine, a golden trail will appear. This will take you to the nearest Keeper's Shrine, so let the light lead the way.\n* **There are treasure chests and boxes to find along the way.** Some treasure chests are golden and obvious, while others are harder to find and look like wooden logs. On top of this, you'll find smaller boxes near altars where you can collect essential upgrade items, Gourds, Soaks, and more.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Tips_and_Tricks_%282%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character standing in front of a rocky cave entrance surrounded by lush greenery. The character is equipped with a staff-like weapon and dressed in detailed armor, suggesting readiness for exploration or combat. A glowing light near the cave entrance and faint sparkles within the cave hint at a potential path forward or hidden treasure.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image aligns with the exploration tips provided in the context, emphasizing the importance of following visual cues like glowing lights or trails to discover paths, shrines, or hidden treasures. It likely serves to illustrate the idea of uncovering secret areas or navigating through the environment to find valuable items or progress in the game."
+}

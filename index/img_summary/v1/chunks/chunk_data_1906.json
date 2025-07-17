@@ -1,31 +1,6 @@
 {
-    "chunk_id": 341769307034,
-    "source_file": "Man-in-Stone_Questline.md",
-    "h1_title": "Man-in-Stone Questline",
-    "h2_title": "Where to Find the Man-in-Stone",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-    "alt_text": "Wukong Fright 27.jpg",
-    "position_desc": 4,
-    "img_above_text": "# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 4 from the file 'Man-in-Stone_Questline.md', located under Where to Find the Man-in-Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone Questline\n                - Section Title: Where to Find the Man-in-Stone\n                - Alt Text: Wukong Fright 27.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game *Black Myth: Wukong*, showing a player character approaching a glowing rock formation within a dark, grassy cave environment. The glowing crystals suggest a significant location, possibly tied to the \"Man-in-Stone\" questline described in the metadata and preceding text. This area may be part of the Squall Hideout region, where players are instructed to explore a cave to find the Man-in-Stone or engage with enemies like the Rock Guai. The image serves to visually guide players to the quest's location."
+    "chunk_id": 308239085167,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Red-haired_yaksha_location.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a snowy, temple-like environment. The player character, visible from a third-person perspective, is approaching a seated figure in the distance, possibly an NPC or enemy. The environment features intricate stone carvings of warriors on the right wall, adding to the ancient and mystical atmosphere. The user interface displays various icons in the bottom corners, including health or stamina bars and ability icons, suggesting gameplay elements related to combat or abilities. The scene suggests an impending interaction or confrontation within a richly detailed setting."
 }

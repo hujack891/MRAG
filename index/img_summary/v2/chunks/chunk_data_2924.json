@@ -1,0 +1,28 @@
+{
+    "chunk_id": 34495696513,
+    "source_file": "The_Scorpionlord.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_PurpleCloud_20.jpg",
+    "alt_text": "Wukong PurpleCloud 20.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong PurpleCloud 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_PurpleCloud_15.jpg)\nIf you spot the boss leaping upward into the air, assume he's likely to slam down with his tail with surprising range. He can do this twice while twisting his body to the side, but later on he'll add a delayed final strike as he moves into a frontal flip.",
+    "img_below_text": "However, his most devastating attack is the one the snake woman warned you of: The Deathsting. Your only warning his when his tail stands straight up behind him and begins to glow white.\n![Wukong PurpleCloud 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_PurpleCloud_21.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'The_Scorpionlord.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_PurpleCloud_15.jpg)\nIf you spot the boss leaping upward into the air, assume he's likely to slam down with his tail with surprising range. He can do this twice while twisting his body to the side, but later on he'll add a delayed final strike as he moves into a frontal flip.\"\n            - Following Text: \"However, his most devastating attack is the one the snake woman warned you of: The Deathsting. Your only warning his when his tail stands straight up behind him and begins to glow white.\n![Wukong PurpleCloud 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_PurpleCloud_21.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_PurpleCloud_20.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image:**\nThe image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist fighting against a formidable boss named \"The Scorpionlord.\" The Scorpionlord is a large, armored creature with a glowing tail, indicating its readiness to perform a powerful attack.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image serves to illustrate a critical moment in the gameplay where the player faces the Scorpionlord. The preceding text provides a strategy for avoiding the boss's aerial tail slam attacks, while the following text warns of the Scorpionlord's most lethal move, \"The Deathsting,\" signaled by the glowing tail. This visual aids in understanding the timing and appearance of the boss's attacks, emphasizing the importance of recognizing and reacting to the tail's glow to avoid devastating damage."
+}

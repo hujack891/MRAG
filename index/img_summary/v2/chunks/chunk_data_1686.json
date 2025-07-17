@@ -1,0 +1,28 @@
+{
+    "chunk_id": 665675497412,
+    "source_file": "How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Zodiac_Village_%2836%29.png",
+    "alt_text": "Zodiac Village \\(36\\).png",
+    "position_desc": 9,
+    "img_above_text": "* Iron-Tough Greaves\n## Request Medicines from Xu Dog",
+    "img_below_text": "Interacting with Xu Dog in the Painted Realm now offers the option to Request Medicine. Each time you do this, Xu Dog will provide you with potions.\nYou'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'How_to_Unlock_the_Zodiac_Village_and_Upgrade_Armor_.md'.\n\n            Context:\n            - Preceding Text: \"* Iron-Tough Greaves\n## Request Medicines from Xu Dog\"\n            - Following Text: \"Interacting with Xu Dog in the Painted Realm now offers the option to Request Medicine. Each time you do this, Xu Dog will provide you with potions.\nYou'll need to wait a little while before new medicines are available, but you'll know when they are if the red dot next to Request Medicines appears.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Zodiac_Village_%2836%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an interaction with Xu Dog, a character in the Painted Realm, where players can select the \"Request Medicine\" option from a menu. This feature allows players to receive potions, such as Fortifying Medicament and Ginseng Pellets, which are displayed on the screen. The preceding and following text explains that players can periodically request new medicines from Xu Dog, with a red dot indicating their availability. The image serves to illustrate this gameplay mechanic."
+}

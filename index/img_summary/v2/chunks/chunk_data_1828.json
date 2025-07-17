@@ -1,0 +1,28 @@
+{
+    "chunk_id": 539048589252,
+    "source_file": "Lang-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg",
+    "alt_text": "Wukong Sandgate 20.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)\nIf instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.",
+    "img_below_text": "If you’re having trouble dealing with his many lightning attacks, remember to use Immobilize whenever you see him charge up to interrupt the attack entirely, limiting how much he can actually try to electrify you.\n![Wukong Sandgate 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg)\nIf instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\"\n            - Following Text: \"If you’re having trouble dealing with his many lightning attacks, remember to use Immobilize whenever you see him charge up to interrupt the attack entirely, limiting how much he can actually try to electrify you.\n![Wukong Sandgate 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a boss battle in *Black Myth: Wukong* against a giant, glowing frog-like creature named \"Lang-Li-Guhh-Baw.\" The protagonist, Wukong, is mid-attack, striking the creature with a staff. The environment is a rocky, water-filled arena with wooden platforms in the background, emphasizing the intense combat setting.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates a key moment in the fight with Lang-Li-Guhh-Baw, showcasing the player's offensive strategy. It ties into the preceding and following text, which provide tips for countering the boss's lightning-based attacks and using abilities like Immobilize to interrupt its powerful moves."
+}

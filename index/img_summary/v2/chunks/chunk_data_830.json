@@ -1,0 +1,28 @@
+{
+    "chunk_id": 201176056725,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Black-myth-wukong-spine-in-the-sack.jpg",
+    "alt_text": "Black-myth-wukong-spine-in-the-sack.jpg",
+    "position_desc": 22,
+    "img_above_text": "![Black-myth-wukong-thunderstone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Black-myth-wukong-thunderstone.jpg)| Thunderstone| Rare | Moderately increases Shock resistance | Found in a box in the largest Pagoda in New Thunderclap Temple - Temple Entrance in The New West | Thunderstone\n![Black-myth-wukong-Cuo-Jin-Yin-Belt-Hook.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Black-myth-wukong-Cuo-Jin-Yin-Belt-Hook.jpg)| Cuo Jin-Yin Belt Hook| Rare | Moderately increases Poison Resistance | Found in Village of Lanxi in The Webbed Hollow, in a chest ahead of you after waking up upon defeating The Second Sister| Cuo Jin-Yin Belt Hook",
+    "img_below_text": "![Black-myth-wukong-golden-carp.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Black-myth-wukong-golden-carp.jpg)| Golden Carp| Epic | Moderately increases the chance of obtaining materials from defeated enemies | Found in The Webbed Hollow upon defeating Yellow Loong | Golden Carp\n![Black-myth-wukong-jade-moon-rabbit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Black-myth-wukong-jade-moon-rabbit.jpg)| Jade Moon Rabbit| Epic | Slightly increases Damage Reduction This effect is enhanced when equipped with Gold Sun Crow| Found in The Webbed Hollow upon defeating Zhu Bajie | Jade Moon Rabbit",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-thunderstone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Black-myth-wukong-thunderstone.jpg)| Thunderstone| Rare | Moderately increases Shock resistance | Found in a box in the largest Pagoda in New Thunderclap Temple - Temple Entrance in The New West | Thunderstone\n![Black-myth-wukong-Cuo-Jin-Yin-Belt-Hook.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Black-myth-wukong-Cuo-Jin-Yin-Belt-Hook.jpg)| Cuo Jin-Yin Belt Hook| Rare | Moderately increases Poison Resistance | Found in Village of Lanxi in The Webbed Hollow, in a chest ahead of you after waking up upon defeating The Second Sister| Cuo Jin-Yin Belt Hook\"\n            - Following Text: \"![Black-myth-wukong-golden-carp.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Black-myth-wukong-golden-carp.jpg)| Golden Carp| Epic | Moderately increases the chance of obtaining materials from defeated enemies | Found in The Webbed Hollow upon defeating Yellow Loong | Golden Carp\n![Black-myth-wukong-jade-moon-rabbit.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Black-myth-wukong-jade-moon-rabbit.jpg)| Jade Moon Rabbit| Epic | Slightly increases Damage Reduction This effect is enhanced when equipped with Gold Sun Crow| Found in The Webbed Hollow upon defeating Zhu Bajie | Jade Moon Rabbit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Black-myth-wukong-spine-in-the-sack.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a coiled, spine-like artifact with a sharp, shell-like tip. Based on the preceding and following text, it is likely an item from the game *Black Myth: Wukong*. The artifact appears to be part of a collection of rare and epic items that provide specific gameplay benefits, such as resistance boosts or enhanced material acquisition. Its purpose is likely tied to enhancing player abilities or aiding progression in the game, similar to the Thunderstone and Golden Carp mentioned in the surrounding context."
+}

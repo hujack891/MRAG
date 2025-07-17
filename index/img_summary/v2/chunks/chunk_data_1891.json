@@ -1,0 +1,28 @@
+{
+    "chunk_id": 54871862815,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+    "alt_text": "Wukong MadTiger 7.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.",
+    "img_below_text": "Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Mini-Boss Fight and Guide",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Wukong_MadTiger_5.jpg)\n* The final location is back in the area where you fought the Earth Wolf and rescued the Horse Guai who was tied up by the large statue in Sandgate Village. Look to the left of that statue altar, and you’ll find a small field around the back with a concerning amount of skeletons, and a well.\"\n            - Following Text: \"Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to hop down the well to meet a “friend”. Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there.\n## Mad Tiger Mini-Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, ominous well surrounded by skeletal remains in a desolate field, hinting at danger and death. The player character stands at the edge of the well, with an interactive prompt to \"Jump In,\" signaling a pivotal moment in the narrative. Based on the context, this area is tied to the rescue of the Horse Guai and the Earth Wolf fight, and using the Rattle-Drum here summons a spirit that invites the player to descend into the well, setting the stage for an encounter with a hostile entity below."
+}

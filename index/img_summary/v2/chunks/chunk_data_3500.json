@@ -1,0 +1,28 @@
+{
+    "chunk_id": 491542385209,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_UpperHollow_16.jpg",
+    "alt_text": "Wukong UpperHollow 16.jpg",
+    "position_desc": 17,
+    "img_above_text": "![Wukong UpperHollow 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_UpperHollow_15.jpg)\nAs you near the end of the passage, keep your eyes on the right to spot a small alcove where the glow of a green Wisp will entice you over to investigate. There's a few Puppet Spiders waiting to ambush you when you draw close, however.",
+    "img_below_text": "In the next passage, a Puppet Tick walks among more cocoons and Stone Spiders that will sprout up, while a Dragonfly Guai on a ledge nearby will try to fill you with poison while your distracted. Try to prioritize him first either by sprinting or Cloud Stepping over to him.\n![Wukong UpperHollow 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_UpperHollow_17.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Webbed_Hollow_-_Upper_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong UpperHollow 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_UpperHollow_15.jpg)\nAs you near the end of the passage, keep your eyes on the right to spot a small alcove where the glow of a green Wisp will entice you over to investigate. There's a few Puppet Spiders waiting to ambush you when you draw close, however.\"\n            - Following Text: \"In the next passage, a Puppet Tick walks among more cocoons and Stone Spiders that will sprout up, while a Dragonfly Guai on a ledge nearby will try to fill you with poison while your distracted. Try to prioritize him first either by sprinting or Cloud Stepping over to him.\n![Wukong UpperHollow 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_UpperHollow_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Wukong_UpperHollow_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic combat scene from the game \"Black Myth: Wukong,\" where the protagonist, Wukong, is engaged in a battle within a webbed hollow environment. The setting is dark and cavernous, with glowing green wisps and debris scattered around, indicating a fierce confrontation. The preceding text suggests Wukong is ambushed by Puppet Spiders near a glowing alcove, while the following text hints at further challenges with Puppet Ticks and Stone Spiders, alongside a poisonous Dragonfly Guai. The image captures the intensity and strategic elements of navigating and battling through this perilous passage."
+}

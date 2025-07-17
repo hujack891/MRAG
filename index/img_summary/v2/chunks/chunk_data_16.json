@@ -1,0 +1,28 @@
+{
+    "chunk_id": 487833096663,
+    "source_file": "Ashen_Slumber.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Black-myth-wukong-ashen-slumber-1.jpg",
+    "alt_text": "Black-myth-wukong-ashen-slumber-1.jpg",
+    "position_desc": 1,
+    "img_above_text": "Ashen Slumber's moveset is as follows:\n* **Light Attack: Chop Wood - Swing the iron blade to build up Focus.** This is a standard four-hit combo.",
+    "img_below_text": "* **Heavy Attack: Blow Fire - Hold heavy attack to unleash, consuming Focus to continuously burn enemies ahead.** This is a great crowd-control move, damaging enemies with a continuous stream of fire for several seconds ahead of it.\n![Black-myth-wukong-ashen-slumber-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Black-myth-wukong-ashen-slumber-2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Ashen_Slumber.md'.\n\n            Context:\n            - Preceding Text: \"Ashen Slumber's moveset is as follows:\n* **Light Attack: Chop Wood - Swing the iron blade to build up Focus.** This is a standard four-hit combo.\"\n            - Following Text: \"* **Heavy Attack: Blow Fire - Hold heavy attack to unleash, consuming Focus to continuously burn enemies ahead.** This is a great crowd-control move, damaging enemies with a continuous stream of fire for several seconds ahead of it.\n![Black-myth-wukong-ashen-slumber-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/af/Black-myth-wukong-ashen-slumber-2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Black-myth-wukong-ashen-slumber-1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases gameplay from *Black Myth: Wukong*, specifically highlighting the \"Ashen Slumber\" moveset. It visually depicts the character performing combat actions in a desolate, rocky environment with barren trees. The accompanying UI displays the moveset options, including \"Light Attack: Chop Wood,\" \"Heavy Attack: Blow Fire,\" and \"Spell: Fiery Burst,\" emphasizing the mechanics of building Focus, unleashing fire-based crowd control, and area damage through self-detonation. The image serves to illustrate the dynamic combat and environmental setting tied to the moveset described in the preceding and following text."
+}

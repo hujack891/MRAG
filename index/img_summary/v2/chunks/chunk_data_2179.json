@@ -1,0 +1,28 @@
+{
+    "chunk_id": 65438895559,
+    "source_file": "Non-Able.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg",
+    "alt_text": "Wukong Brook 24.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Brook 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg)\nBy far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.",
+    "img_below_text": "After expelling energy around him (also dealing a lot of damage) to dissuade any attacks you might be trying to land, he'll move forward with a quick 1-2 punch with alternating palm strikes, the second one dealing a massive amount of damage and projecting his strike with extended range. The rapidity of these attacks often ensures that if you try to dodge the first hit, you'll get slammed by the second, and even using Rock Solid will just send you toppling backward. In these instances, using Cloud Step or Immobilize can be beneficial to getting away from this move, but be ready for him to resume the attack after Immobilize ends.\n![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg)\nBy far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.\"\n            - Following Text: \"After expelling energy around him (also dealing a lot of damage) to dissuade any attacks you might be trying to land, he'll move forward with a quick 1-2 punch with alternating palm strikes, the second one dealing a massive amount of damage and projecting his strike with extended range. The rapidity of these attacks often ensures that if you try to dodge the first hit, you'll get slammed by the second, and even using Rock Solid will just send you toppling backward. In these instances, using Cloud Step or Immobilize can be beneficial to getting away from this move, but be ready for him to resume the attack after Immobilize ends.\n![Wukong Brook 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_Brook_29.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" featuring a character engaged in a battle in a snowy environment. The character is performing a martial arts move, with one arm raised and the other extended forward, possibly preparing for a powerful attack. The game interface shows options for light and heavy attacks named \"Moon Dance\" and \"Moon Chase,\" respectively. The context suggests that this image illustrates a moment where the character is about to execute a significant move, potentially dealing substantial damage to the opponent. The text overlay \"I'll get rid of all evil\" reinforces the character's determination in the fight."
+}

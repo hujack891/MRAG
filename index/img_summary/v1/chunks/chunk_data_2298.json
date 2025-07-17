@@ -1,31 +1,6 @@
 {
-    "chunk_id": 140578303100,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Upper Pagoda (Level 4)",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Pagoda_72.jpg",
-    "alt_text": "Wukong Pagoda 72.jpg",
-    "position_desc": 68,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHis most dangerous attack is a repeated spinning divebomb attack he can perform repeatedly to dash at you from all angles. Once you get the timing down, a Rock Solid deflection can stop him cold, or you can Cloud Step to the side and retaliate as he flies past.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 68 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 4).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 4)\n                - Alt Text: Wukong Pagoda 72.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 4)\n\nHis most dangerous attack is a repeated spinning divebomb attack he can perform repeatedly to dash at you from all angles. Once you get the timing down, a Rock Solid deflection can stop him cold, or you can Cloud Step to the side and retaliate as he flies past.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_Pagoda_72.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a character in a snowy, rocky environment, seemingly preparing for or recovering from a combat maneuver. The character, possibly inspired by the legendary figure Wukong, is seen holding a staff and is positioned near a cliff edge. The preceding text from \"The Beguiling Chant of the Pagoda Realm\" describes a challenging enemy attack pattern in the Upper Pagoda (Level 4), suggesting that the image illustrates a moment from this intense combat scenario. The visual elements, including the health and ability icons, indicate this is a scene from a video game walkthrough."
+    "chunk_id": 849964515460,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/Wukong_Lanxi_12.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a scene from a video game where the player character is crouched in a shadowy, grassy environment next to a stone wall. The character wields a weapon with a glowing red tip, suggesting readiness for combat. A red arrow and a red dashed circle highlight a glowing green object on the wall, indicating it might be an interactive or collectible item. The user interface displays various icons on both sides of the screen, including a health bar at the bottom left and ability icons at the bottom right, suggesting available actions or powers. The environment is dimly lit, emphasizing stealth or exploration gameplay elements."
 }

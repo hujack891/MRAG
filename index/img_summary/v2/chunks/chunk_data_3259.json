@@ -1,0 +1,28 @@
+{
+    "chunk_id": 161277347984,
+    "source_file": "Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Walkthrough2.jpg",
+    "alt_text": "Walkthrough2.jpg",
+    "position_desc": 2,
+    "img_above_text": "* **Chapter 1 Secret - Ancient Guanyin Temple**\n##  Chapter 2 - Yellow Sand, Desolate Dusk",
+    "img_below_text": "Chapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n* **Sandgate Village**",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* **Chapter 1 Secret - Ancient Guanyin Temple**\n##  Chapter 2 - Yellow Sand, Desolate Dusk\"\n            - Following Text: \"Chapter 2 transports the Destined One to the parched deserts of the Yellow Wind Ridge, where a Yellow Wind Sage and his rat army have taken control of the land.\n* **Sandgate Village**\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Walkthrough2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a rugged and desolate desert landscape, characterized by towering rock formations and a swirling sandstorm in the background. A lone figure, possibly a warrior, stands in the foreground, gazing towards the tumultuous scene. This setting aligns with the narrative of Chapter 2, where the Destined One is transported to the Yellow Wind Ridge, a region overtaken by a Yellow Wind Sage and his rat army. The image visually represents the harsh and challenging environment that the protagonist must navigate in this chapter of the story."
+}

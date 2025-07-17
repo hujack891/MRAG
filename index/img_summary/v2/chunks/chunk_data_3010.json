@@ -1,0 +1,28 @@
+{
+    "chunk_id": 861136002725,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg",
+    "alt_text": "Wukong Yellow 24.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Yellow 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Yellow_23.jpg)\nWhile he has a varied assortment of combo attacks, some use only the sword and some only his claw. His most used claw attack will come when he holds it behind him and it begins to shine with a gold gleam. He’ll rush forward with a swipe, and then follow it shortly with a leg stomp, and then roll forward to end with a quick forward slash attack.",
+    "img_below_text": "If you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\n![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Yellow_23.jpg)\nWhile he has a varied assortment of combo attacks, some use only the sword and some only his claw. His most used claw attack will come when he holds it behind him and it begins to shine with a gold gleam. He’ll rush forward with a swipe, and then follow it shortly with a leg stomp, and then roll forward to end with a quick forward slash attack.\"\n            - Following Text: \"If you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\n![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character named Tiger's Acolyte in the midst of a combat sequence. The acolyte is poised to attack, holding a claw behind him that glows with a golden gleam, indicating the initiation of a powerful combo move. The preceding text describes the acolyte's attack pattern, including a rush forward with a swipe, a leg stomp, and a quick forward slash. The following text advises players to prepare for a rapid combo of four quick slashes followed by a stab, emphasizing the acolyte's aggressive and swift combat style."
+}

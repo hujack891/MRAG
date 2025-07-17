@@ -1,0 +1,28 @@
+{
+    "chunk_id": 862437743752,
+    "source_file": "Snake_Sheriff_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Snake_shriff_picture.jpg",
+    "alt_text": "Snake shriff picture.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Snake Sheriff Fight\n* Snake Sheriff Spirit",
+    "img_below_text": "## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Snake_Sheriff_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Snake Sheriff Fight\n* Snake Sheriff Spirit\"\n            - Following Text: \"## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Snake_shriff_picture.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. The image depicts an intense battle scene from a video game, where the player character is engaged in combat with a large, menacing creature known as the Snake Sheriff. The creature appears to be attacking the player on a set of stone stairs, with various game HUD elements visible, indicating health and abilities.\n\n2. Based on the preceding and following text, the image serves to illustrate the \"Snake Sheriff Fight\" and \"Snake Sheriff Spirit\" sections, providing a visual representation of the encounter with the Snake Sheriff. It highlights the action and danger involved in this part of the game, setting the stage for the subsequent instructions on how to locate the Snake Sheriff within the Temple of the Yellow Flowers."
+}

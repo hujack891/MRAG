@@ -1,0 +1,28 @@
+{
+    "chunk_id": 948839230712,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
+    "alt_text": "Wukong Snowhill 14.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)\nHis one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.",
+    "img_below_text": "He'll step back to grab the sword with his foot and jump onto its hilt, before preforming a quick roll along the ground to drag the sword in a whirlwind slice with a large reach to it, followed by a final downward slam, so don't press your attack too hard during this combo, or Immobilize him before the second part of his combo.\n![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)\nHis one major attack will have him jump into the air and slam his blade into the ground, and then perform series of quick claw swipes in front of him with surprising reach, all while keeping close to the blade behind him -- meaning he can't really pivot if you dodge and attack from the sides.\"\n            - Following Text: \"He'll step back to grab the sword with his foot and jump onto its hilt, before preforming a quick roll along the ground to drag the sword in a whirlwind slice with a large reach to it, followed by a final downward slam, so don't press your attack too hard during this combo, or Immobilize him before the second part of his combo.\n![Wukong Snowhill 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Snowhill_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat moment against the \"Macaque Chief\" in a snowy environment from *Black Myth: Wukong*. The boss is shown mid-attack, wielding a large blade with fiery effects, emphasizing its aggressive and dynamic moves. The preceding and following text describe the Macaque Chief's attack patterns, including blade slams, claw swipes, and whirlwind slices, providing players with strategic insights on how to counter its combos during the fight."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 40284745237,
+    "source_file": "Fungiman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Fungiman.jpg",
+    "alt_text": "Fungiman.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Fungiman Fight\n* Fungiman Spirit",
+    "img_below_text": "## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fungiman_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Fungiman Fight\n* Fungiman Spirit\"\n            - Following Text: \"## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Fungiman.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene involving the Fungiman Spirit, a glowing, mushroom-like creature engaged in battle with the player character in a dark, rocky environment. This fight likely occurs after encountering the Fungiman in the Pagoda Realm, as described in the context. The image emphasizes the action and the mystical nature of the encounter, tying into the narrative of exploring and uncovering hidden entities in the game world."
+}

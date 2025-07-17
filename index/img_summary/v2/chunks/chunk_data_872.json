@@ -1,0 +1,28 @@
+{
+    "chunk_id": 71494821815,
+    "source_file": "Dark_Thunder.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg",
+    "alt_text": "Wukong Bamboo 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "### Horse Guai Black Wind Mountain Location\nFrom the start of the Bamboo Grove area, hug the left wall to find the cave with the Horse Guai.",
+    "img_below_text": "### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Dark_Thunder.md'.\n\n            Context:\n            - Preceding Text: \"### Horse Guai Black Wind Mountain Location\nFrom the start of the Bamboo Grove area, hug the left wall to find the cave with the Horse Guai.\"\n            - Following Text: \"### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Bamboo_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character approaching a cave entrance in a dense, forested area, guided by a red arrow indicating the path forward. This scene aligns with the preceding text, which describes the location of the Horse Guai at Black Wind Mountain, accessible by hugging the left wall in the Bamboo Grove area. The image serves as a visual aid to help players navigate toward the cave containing the Horse Guai."
+}

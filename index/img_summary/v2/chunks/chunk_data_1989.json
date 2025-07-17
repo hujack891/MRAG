@@ -1,0 +1,28 @@
+{
+    "chunk_id": 147351547137,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/The_Statue_Precept_Corridor_Meditation_Spot.jpg",
+    "alt_text": "The Statue Precept Corridor Meditation Spot.jpg",
+    "position_desc": 12,
+    "img_above_text": "### The Statue, Precept Corridor Meditation Spot\nThe Statue, Precept Corridor Meditation Spot",
+    "img_below_text": "Head through the path to the right of the Precept Corridor Keeper's Shrine and follow the left wall to find the Meditation Spot. The Statue in question is an inconspicuous Buddha Statue that can be easily overlooked.\n### The Track, Mindfulness Cliff Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Statue, Precept Corridor Meditation Spot\nThe Statue, Precept Corridor Meditation Spot\"\n            - Following Text: \"Head through the path to the right of the Precept Corridor Keeper's Shrine and follow the left wall to find the Meditation Spot. The Statue in question is an inconspicuous Buddha Statue that can be easily overlooked.\n### The Track, Mindfulness Cliff Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/The_Statue_Precept_Corridor_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot located near an inconspicuous Buddha statue in a snowy, rocky environment. This area, referred to as \"The Statue, Precept Corridor Meditation Spot,\" is part of a guided path described in the context. The player character is shown standing before the statue, with an option to meditate, emphasizing the location's role as a spiritual and reflective waypoint in the game."
+}

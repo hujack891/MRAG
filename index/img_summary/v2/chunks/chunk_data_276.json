@@ -1,0 +1,28 @@
+{
+    "chunk_id": 828695296071,
+    "source_file": "Black_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_BlackLoong_12.jpg",
+    "alt_text": "Wukong BlackLoong 12.jpg",
+    "position_desc": 15,
+    "img_above_text": "Getting hit by even a few of these will quickly deplete your healthbar, and you’ll have to stop everything to focus on evasion. While it is possible to get on top of your staff in the Pillar Stance, each electric ring will take a chunk out of your stamina, and this segment lasts far too long to wait out in this style.\nYou need to also be ready for his final slam, which he’ll do with both weapons, but won’t send out a ring. He’s being sneaky here to lure you into advancing on him, but will detonate his weapons after a pause to send out one final quick electric ring!",
+    "img_below_text": "One method to evade reliably is to listen to the drum beats to anticipate the spacing of the rings, and then dodge parallel to Black Loong, moving from side to side as you evade, instead of toward the next ring or backward into a previous one. It will take a bit of practice, so having electric resistance augmented can help when you slip up.\n![Wukong BlackLoong 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_BlackLoong_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Black_Loong.md'.\n\n            Context:\n            - Preceding Text: \"Getting hit by even a few of these will quickly deplete your healthbar, and you’ll have to stop everything to focus on evasion. While it is possible to get on top of your staff in the Pillar Stance, each electric ring will take a chunk out of your stamina, and this segment lasts far too long to wait out in this style.\nYou need to also be ready for his final slam, which he’ll do with both weapons, but won’t send out a ring. He’s being sneaky here to lure you into advancing on him, but will detonate his weapons after a pause to send out one final quick electric ring!\"\n            - Following Text: \"One method to evade reliably is to listen to the drum beats to anticipate the spacing of the rings, and then dodge parallel to Black Loong, moving from side to side as you evade, instead of toward the next ring or backward into a previous one. It will take a bit of practice, so having electric resistance augmented can help when you slip up.\n![Wukong BlackLoong 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_BlackLoong_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_BlackLoong_12.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing the intense battle against the boss \"Black Loong.\" The scene highlights the boss's electric ring attack, with glowing rings spreading across the battlefield, forcing the player to dodge strategically to avoid damage. The preceding text emphasizes the difficulty of this attack and the need for stamina management, while the following text provides tips for evading the rings by listening to drum beats and dodging parallel to the boss. The image visually reinforces the chaotic and challenging nature of this encounter."
+}

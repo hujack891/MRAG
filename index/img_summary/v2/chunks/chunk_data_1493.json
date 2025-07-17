@@ -1,0 +1,28 @@
+{
+    "chunk_id": 442277067280,
+    "source_file": "Guangmou_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Guangmou_Spirit_Power.jpg",
+    "alt_text": "Guangmou Spirit Power.jpg",
+    "position_desc": 3,
+    "img_above_text": "You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit",
+    "img_below_text": "* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Guangmou_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"You can also keep track of your status effects by checking the symbols underneath your health bar.\n## Guangmou Spirit\"\n            - Following Text: \"* **Veiled Vipers**\n* Equipped Effect: Moderately increases Poison Damage and Poison Resistance.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Guangmou_Spirit_Power.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the in-game equipment menu, focusing on the \"Guangmou Spirit,\" an epic item with the \"Veiled Vipers\" ability. This spirit allows players to summon venomous snakes to inflict Poison Damage on enemies, with an equipped effect that moderately boosts Poison Damage and Poison Resistance. The interface includes detailed stats, descriptions, and a demo preview of the ability in action."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 791816558348,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_39.jpg",
+    "alt_text": "Wukong Fright 39.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Where to Find Fuban\nThe Kingdom of Sahali is a Chapter 2 Secret area that can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).",
+    "img_below_text": "In order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.\n![Wukong Fright 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"## Where to Find Fuban\nThe Kingdom of Sahali is a Chapter 2 Secret area that can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).\"\n            - Following Text: \"In order to unlock this secret area, you need to find the Drunk Boar (the Yellow-Robed Squire) who can be found in the Rockrest Flat part of the Fright Cliff region in Chapter 2. Head straight to the back of the area from the shrine to find a small breakable wooden fence protected by a Spearbone enemy.\n![Wukong Fright 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Fright_39.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showing the player character approaching a Spearbone enemy in a rocky, grassy area. This encounter is part of the steps required to unlock the secret area, the Kingdom of Sahali, in Chapter 2. The Spearbone guards a breakable wooden fence in the Rockrest Flat region of Fright Cliff, which players must access to progress in the quest involving the Yellow-Robed Squire."
+}

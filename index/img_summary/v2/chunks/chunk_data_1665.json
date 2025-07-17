@@ -1,0 +1,28 @@
+{
+    "chunk_id": 96450424993,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png",
+    "alt_text": "Secret Loong Bosses .png",
+    "position_desc": 8,
+    "img_above_text": "![Secret Loong Bosses \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png)\nJump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.",
+    "img_below_text": "Go toward it and through it to enter the secret Loong Claw Grove area to fight Red Loong.\nRed Loong",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"![Secret Loong Bosses \\(1\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png)\nJump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.\"\n            - Following Text: \"Go toward it and through it to enter the secret Loong Claw Grove area to fight Red Loong.\nRed Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character approaching an enemy near a waterfall in a lush, serene environment adorned with statues. This scene aligns with the preceding text, where the player must defeat the enemy to access a hidden area by interacting with the waterfall using the Loong Scales. The image serves as a visual representation of this pivotal moment in the narrative, guiding players toward the secret Loong Claw Grove area."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 439740801702,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
+    "alt_text": "20240815103517 1.jpg",
+    "position_desc": 5,
+    "img_above_text": "* Snow Fox Questline\n## Collectibles",
+    "img_below_text": "The wilds of Ancient China can be a dangerous place, and you'll need every boost in power you can get. Luckily we have the locations of important collectibles to boost your power, your healing gourd, and even places to earn free skill points.\n* Celestial Jade Lotus Pill Locations",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Snow Fox Questline\n## Collectibles\"\n            - Following Text: \"The wilds of Ancient China can be a dangerous place, and you'll need every boost in power you can get. Luckily we have the locations of important collectibles to boost your power, your healing gourd, and even places to earn free skill points.\n* Celestial Jade Lotus Pill Locations\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist of *Black Myth: Wukong*, a monkey-like character, resting in a serene outdoor setting surrounded by large ornate jars and natural elements. Based on the preceding and following text, the image likely serves to illustrate a moment of respite or preparation within the game's narrative, tying into the theme of quests and collectibles that enhance the player's abilities, such as healing or skill points."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 489657499573,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg",
+    "alt_text": "Tiny Piece of Gold .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Crafting Material | Rarity | Quality/Use | Location\n---|---|---|---|---",
+    "img_below_text": "![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"Image | Crafting Material | Rarity | Quality/Use | Location\n---|---|---|---|---\"\n            - Following Text: \"![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a \"Small Piece of Gold,\" a rare crafting material from the game *Black Myth: Wukong*. Based on the surrounding context, this item is categorized as a sellable treasure and can be found in chests or dropped by enemies. The image serves as a visual representation of the item in a crafting materials table, providing players with a reference for identification in the game."
+}

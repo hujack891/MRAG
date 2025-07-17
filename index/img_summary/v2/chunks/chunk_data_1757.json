@@ -1,0 +1,28 @@
+{
+    "chunk_id": 469273803306,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg",
+    "alt_text": "Wukong Turtle 16.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Turtle 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_15.jpg)\nAfter the spears have been thrown out from around her, she'll summon one last giant spear in her hand, and leap down towards you to pierce you with it.",
+    "img_below_text": "Quickly dodge to the side, and keep your distance as the embedded spear will explode after a short moment, sending rocks up all around it.\n![Wukong Turtle 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_15.jpg)\nAfter the spears have been thrown out from around her, she'll summon one last giant spear in her hand, and leap down towards you to pierce you with it.\"\n            - Following Text: \"Quickly dodge to the side, and keep your distance as the embedded spear will explode after a short moment, sending rocks up all around it.\n![Wukong Turtle 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in a video game battle, where a character is preparing to dodge an impending attack from a formidable opponent. The scene is set in a snowy landscape, with the character poised to evade a giant spear that will soon be thrust down by the enemy. The narrative suggests a strategy of quick movement and maintaining distance to avoid the explosion that follows the spear's impact."
+}

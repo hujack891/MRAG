@@ -1,0 +1,28 @@
+{
+    "chunk_id": 623162016064,
+    "source_file": "Venom_Daoist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg",
+    "alt_text": "Wukong YellowFlower 53.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)\nBe wary when he assumes a crouched stance with his swords up. He'll start walking forward while performing a series of twirling slashes, which can be tough to avoid as all six slashes come out very rapidly, so keep your distance or try to deflect them.",
+    "img_below_text": "If his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.\n![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Venom_Daoist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 49.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_49.jpg)\nBe wary when he assumes a crouched stance with his swords up. He'll start walking forward while performing a series of twirling slashes, which can be tough to avoid as all six slashes come out very rapidly, so keep your distance or try to deflect them.\"\n            - Following Text: \"If his stance moves into holding both swords up high, he'll perform a similar combo string of four quick hits, followed by twirling both blades around him as moves forward to perform a final double slash that hits extremely hard -- again, making staying out of range your best bet.\n![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_YellowFlower_53.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring a character named Venom Daoist engaging in combat. The context suggests that the Venom Daoist is performing a series of rapid, twirling slashes, which are challenging to avoid. The player is advised to keep their distance or deflect these attacks to avoid damage. The image serves to illustrate the described combat mechanics and the visual intensity of the encounter."
+}

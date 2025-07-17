@@ -1,0 +1,28 @@
+{
+    "chunk_id": 451506183529,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Foothills_Walkthrough_%28125%29.png",
+    "alt_text": "Foothills Walkthrough \\(125\\).png",
+    "position_desc": 12,
+    "img_above_text": "When the cutscene is over, you'll be at the edge of the cliff, so hop on to Somersault Cloud to get started exploring the area.\n### Secret Chest",
+    "img_below_text": "![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the cutscene is over, you'll be at the edge of the cliff, so hop on to Somersault Cloud to get started exploring the area.\n### Secret Chest\"\n            - Following Text: \"![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Foothills_Walkthrough_%28125%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts the player character riding the Somersault Cloud in a lush, rocky forested area. An arrow points upward, indicating the next destination or path above, near a curved tree. This scene serves as a visual guide for navigating the environment after the cutscene in the game \"Black Myth: Wukong.\"\n\n2. **Purpose/Narrative Role**:  \nThe image highlights the transition from the cliffside exploration to the next objective, guiding players to fly upward and locate a secret chest near the curved tree above the starting path. It visually supports the walkthrough instructions for progressing in the level."
+}

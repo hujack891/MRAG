@@ -1,0 +1,28 @@
+{
+    "chunk_id": 120094196295,
+    "source_file": "The_Duskveil.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_PurpleCloud_59.jpg",
+    "alt_text": "Wukong PurpleCloud 59.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong PurpleCloud 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_PurpleCloud_61.jpg)\nIn addition to its various sweeping arm attacks, it can also take to the air for a different kind of attack, twisting its body into a spinning strike that hits multiple times (but only needs to be dodged once). It will stay in the air and flap up, holding its position for a long moment before slamming down with a single hoof for one final strike. The timing can take some getting used to, but with practice you can avoid it regularly and then retaliate as it pauses for a moment.",
+    "img_below_text": "Finally, the Duskveil can also performing a dashing charge attack, running past you back and forth like a bull up to four times.\n![Wukong PurpleCloud 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_PurpleCloud_60.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_PurpleCloud_61.jpg)\nIn addition to its various sweeping arm attacks, it can also take to the air for a different kind of attack, twisting its body into a spinning strike that hits multiple times (but only needs to be dodged once). It will stay in the air and flap up, holding its position for a long moment before slamming down with a single hoof for one final strike. The timing can take some getting used to, but with practice you can avoid it regularly and then retaliate as it pauses for a moment.\"\n            - Following Text: \"Finally, the Duskveil can also performing a dashing charge attack, running past you back and forth like a bull up to four times.\n![Wukong PurpleCloud 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_PurpleCloud_60.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_PurpleCloud_59.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring a player character facing off against a formidable enemy known as \"The Duskveil.\" The context provided suggests that the Duskveil is capable of both aerial spinning strikes and dashing charge attacks, making it a challenging opponent. The image captures the moment just before the Duskveil launches a powerful attack, highlighting the game's dynamic combat mechanics and the need for strategic dodging and retaliation."
+}

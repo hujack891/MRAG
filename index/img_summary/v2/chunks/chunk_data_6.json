@@ -1,0 +1,28 @@
+{
+    "chunk_id": 281523387605,
+    "source_file": "Apramana_Bat.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_Bitter_40.jpg",
+    "alt_text": "Wukong Bitter 40.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Bitter 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bitter_34.jpg)\nWhen on the ground, the Apramana Bat can slam its wings down, and create a huge gust of cold air that will billow out for an extended period. Evade this by dodging and sprinting to the side so you can perform a flank attack.",
+    "img_below_text": "It can also charge up its wings by twisting its body, and will launch into two or three spin attacks by waving its wings around in a vortex as it flies at you several times.\n![Wukong Bitter 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Bitter_37.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Apramana_Bat.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/Wukong_Bitter_34.jpg)\nWhen on the ground, the Apramana Bat can slam its wings down, and create a huge gust of cold air that will billow out for an extended period. Evade this by dodging and sprinting to the side so you can perform a flank attack.\"\n            - Following Text: \"It can also charge up its wings by twisting its body, and will launch into two or three spin attacks by waving its wings around in a vortex as it flies at you several times.\n![Wukong Bitter 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Bitter_37.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_Bitter_40.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene in a snowy, mountainous environment between the player character and the Apramana Bat, a large, winged creature. The Apramana Bat is shown mid-attack, with visible gusts of cold air emanating from its wings, aligning with the preceding text's description of its wing-slam ability that generates a powerful cold gust. The player character is positioned in a defensive stance, preparing to counter the creature's assault. This image emphasizes the dynamic and challenging nature of the encounter, showcasing the creature's abilities and the player's need for strategic evasion and counterattacks."
+}

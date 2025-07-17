@@ -1,0 +1,28 @@
+{
+    "chunk_id": 192824750800,
+    "source_file": "Flint_Chief_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Flint_Chief_Location.jpg",
+    "alt_text": "Flint Chief Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Flint Chief Location\nThe Flint Chief is a large magma-rock enemy found in Furnace Valley. To get there, travel to the Valley Entrance Keeper's Shrine and head forward until you can drop into the lava flow on the left. Continue heading forward until you start nearing the end of the lava flow. Once you see a collection of rocks in the lava, approach them to lure the Flint Chief out of hiding.",
+    "img_below_text": "## Flint Chief Fight\nThe Flint Chief fight takes place on the lava, so you will want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without worrying about your health constantly depleting.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Flint_Chief_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Flint Chief Location\nThe Flint Chief is a large magma-rock enemy found in Furnace Valley. To get there, travel to the Valley Entrance Keeper's Shrine and head forward until you can drop into the lava flow on the left. Continue heading forward until you start nearing the end of the lava flow. Once you see a collection of rocks in the lava, approach them to lure the Flint Chief out of hiding.\"\n            - Following Text: \"## Flint Chief Fight\nThe Flint Chief fight takes place on the lava, so you will want to get your hands on the Xiang River Goddess Gourd, which grants you temporary immunity from the lava after you use it. That way, you can fight without worrying about your health constantly depleting.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Flint_Chief_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Flint Chief fight in Furnace Valley, showcasing the intense, lava-filled battlefield where the encounter takes place. The player character is positioned on the molten terrain, wielding a weapon and seemingly engaged in combat with the Flint Chief, a large magma-rock enemy visible in the background. The image aligns with the preceding text, which describes how to locate the Flint Chief, and the following text, which advises using the Xiang River Goddess Gourd for lava immunity during the fight. The scene emphasizes the hazardous environment and the need for preparation to survive the encounter."
+}

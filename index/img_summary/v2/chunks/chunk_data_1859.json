@@ -1,0 +1,28 @@
+{
+    "chunk_id": 967697561979,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/North_Shore_of_the_Bitter_Lake_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "North Shore of the Bitter Lake Luojia Fragrant Vine.jpg",
+    "position_desc": 5,
+    "img_above_text": "### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine",
+    "img_below_text": "The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### North Shore of the Bitter Lake Luojia Fragrant Vine\nNorth Shore of the Bitter Lake Luojia Fragrant Vine\"\n            - Following Text: \"The North Shore of the Bitter Lake Luojia Fragrant Vine can be found on the hill leading up from the large snake bones on the beach. Follow the stairs up and take the first left into a small alcove to find the vine.\n### Longevity Road Luojia Fragrant Vine\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/North_Shore_of_the_Bitter_Lake_Luojia_Fragrant_Vine.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy, rocky environment where a character stands near a tree adorned with orange fruits or blossoms, identified as the Luojia Fragrant Vine. The \"Gather\" prompt suggests the vine is an interactable resource in the game, likely tied to exploration or crafting. Based on the context, this vine is located on the North Shore of the Bitter Lake, specifically near a hill leading up from snake bones on the beach. The image serves to illustrate the vine's appearance and its in-game significance as part of a guide or documentation for locating it."
+}

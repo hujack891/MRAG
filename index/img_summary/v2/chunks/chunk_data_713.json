@@ -1,0 +1,28 @@
+{
+    "chunk_id": 222559761563,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Mirage_Pill_.jpg",
+    "alt_text": "Mirage Pill .jpg",
+    "position_desc": 10,
+    "img_above_text": "![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\n• 1 Jade Lotus | Shock-Quelling Powder",
+    "img_below_text": "![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Shock-Quelling Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Shock-Quelling_Powder_.jpg)| Shock-Quelling Powder | Uncommon | Upon use, instantly removes Shocked state and significantly increases Shock Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Gentian\n• 1 Jade Lotus | Shock-Quelling Powder\"\n            - Following Text: \"![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Mirage_Pill_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Shock-Quelling Powder, an uncommon consumable item in the game \"Black Myth: Wukong.\" When used, it instantly removes the Shocked state and significantly increases Shock Resistance for a short duration. The item can be crafted from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge, using 1 Gentian and 1 Jade Lotus."
+}

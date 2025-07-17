@@ -1,0 +1,28 @@
+{
+    "chunk_id": 633114931545,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Thunderclap_74.jpg",
+    "alt_text": "Wukong Thunderclap 74.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Thunderclap 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg)\nTo start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.",
+    "img_below_text": "Expect him to follow up this attack be retracting it, and then slamming it over his head down in front of him with another ranged mid-range attack.\nThese two attacks have a lot of weight to them, and leave him with considerable openings to get in plenty of hits while he retracts his weapon and resets his posture, so make the most of them!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg)\nTo start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.\"\n            - Following Text: \"Expect him to follow up this attack be retracting it, and then slamming it over his head down in front of him with another ranged mid-range attack.\nThese two attacks have a lot of weight to them, and leave him with considerable openings to get in plenty of hits while he retracts his weapon and resets his posture, so make the most of them!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Thunderclap_74.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" featuring the character Yellowbrow in a temple-like environment. Yellowbrow is seen wielding a spiked mace, charging up an attack with electrical energy surrounding him. The preceding text describes Yellowbrow's attack pattern, where he thrusts his mace with surprising reach, while the following text explains his follow-up move, retracting and slamming the mace down for another powerful attack. The image visually captures the intensity and dynamic nature of Yellowbrow's combat style, emphasizing the moments of vulnerability that players can exploit."
+}

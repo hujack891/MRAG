@@ -1,0 +1,28 @@
+{
+    "chunk_id": 675306884842,
+    "source_file": "Puppet_Spider_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Puppet_Spider_Location.png",
+    "alt_text": "Puppet Spider Location.png",
+    "position_desc": 2,
+    "img_above_text": "## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.",
+    "img_below_text": "## Puppet Spider Fight\nThe Puppet Spider has most hands tied behind its back, leaving two free that it can use to slice you. It also has poison to shoot in your direction and a couple of worms that emerge from egg sacs to fight alongside it. Take care of the worms first, so you have fewer enemies to deal with at once and take some Antimiasma Powder to cure yourself of poisoning if it gets too bad.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Puppet_Spider_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.\"\n            - Following Text: \"## Puppet Spider Fight\nThe Puppet Spider has most hands tied behind its back, leaving two free that it can use to slice you. It also has poison to shoot in your direction and a couple of worms that emerge from egg sacs to fight alongside it. Take care of the worms first, so you have fewer enemies to deal with at once and take some Antimiasma Powder to cure yourself of poisoning if it gets too bad.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Puppet_Spider_Location.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing in a dimly lit, web-covered corridor, likely the secret entrance described in the context. This setting is part of the journey to find the Puppet Spider, a creature hidden behind cocoons that need to be destroyed. The image serves to illustrate the eerie and foreboding environment the player must navigate to reach the Puppet Spider for an upcoming battle."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 301991978321,
+    "source_file": "Stone_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg",
+    "alt_text": "Wukong Fright 43.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)\nThe bad news is once the Stone Vanguard is gone, the Shigandang will turn on you, and he is an extremely tough boss to fight this early, so only do this if you really don't want to fight the Stone Vanguard yourself! You can also resummon the Shigandang later for a fairer matchup once you've gotten stronger.",
+    "img_below_text": "When the fight starts you’ll need to watch out for an incoming leaping strike with one of its front arms, which it will usually follow up by rearing up and then slamming down with both arms pulled out around its front.\n![Wukong Fright 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Fright_45.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)\nThe bad news is once the Stone Vanguard is gone, the Shigandang will turn on you, and he is an extremely tough boss to fight this early, so only do this if you really don't want to fight the Stone Vanguard yourself! You can also resummon the Shigandang later for a fairer matchup once you've gotten stronger.\"\n            - Following Text: \"When the fight starts you’ll need to watch out for an incoming leaping strike with one of its front arms, which it will usually follow up by rearing up and then slamming down with both arms pulled out around its front.\n![Wukong Fright 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Wukong_Fright_45.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player is engaged in a battle with the Stone Vanguard, a formidable enemy. The preceding text suggests that defeating the Stone Vanguard will cause the Shigandang to become hostile, posing a significant challenge early in the game. The following text provides a strategy for the fight, warning players to be cautious of the Stone Vanguard's powerful leaping and slamming attacks. The image visually captures the intensity and danger of the encounter, emphasizing the need for strategic combat."
+}

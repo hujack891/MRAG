@@ -1,0 +1,28 @@
+{
+    "chunk_id": 428128204896,
+    "source_file": "Wandering_Wight.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Wight_2.jpg",
+    "alt_text": "Wukong Wight 2.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Wight 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg)\nThe Wandering Wight patrols a large clearing in the Forest of Wolves, and you can actually use this to your advantage by sneaking up behind him and charging up a heavy smash attack to start the fight, dealing big damage right out of the gate.",
+    "img_below_text": "What makes the Wandering Wight such a tough opponent isn’t just the massive damage he can deal with a single attack, but the deceptive power and speed some of his attacks can have. Many times the Wight will default to attacking with two lengthy foot stomps, which can be easy to dodge once you get the timing down.\n![Wukong Wight 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Wight_3.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Wandering_Wight.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wight 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Wight_1.jpg)\nThe Wandering Wight patrols a large clearing in the Forest of Wolves, and you can actually use this to your advantage by sneaking up behind him and charging up a heavy smash attack to start the fight, dealing big damage right out of the gate.\"\n            - Following Text: \"What makes the Wandering Wight such a tough opponent isn’t just the massive damage he can deal with a single attack, but the deceptive power and speed some of his attacks can have. Many times the Wight will default to attacking with two lengthy foot stomps, which can be easy to dodge once you get the timing down.\n![Wukong Wight 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Wukong_Wight_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_Wight_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a moment from the game \"Black Myth: Wukong,\" showcasing a battle against the Wandering Wight. The Wight is seen mid-attack, emphasizing its formidable presence in the Forest of Wolves. The preceding text suggests a strategy to ambush the Wight for an advantageous start, while the following text highlights the Wight's deceptive power and speed, particularly through its foot stomp attacks. The image serves to illustrate the intensity and challenge of facing the Wandering Wight in the game."
+}

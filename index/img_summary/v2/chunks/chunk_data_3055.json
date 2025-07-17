@@ -1,0 +1,28 @@
+{
+    "chunk_id": 858561633635,
+    "source_file": "Turtle_Treasure_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Turtle_Treasure.jpg",
+    "alt_text": "Turtle Treasure.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Turtle Treasure Fight\n* Turtle Treasure Spirit",
+    "img_below_text": "## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Turtle_Treasure_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Turtle Treasure Fight\n* Turtle Treasure Spirit\"\n            - Following Text: \"## Turtle Treasure Location\nTurtle Treasure can be found in the Furnace Valley. To reach it from the Valley Entrance Keeper's Shrine, run straight ahead until you can drop into the lava river on the right. Turn around in the lava and head back in the direction you came from to find Turtle Treasure guarding a chest at the end of the lava flow.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Turtle_Treasure.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a fierce battle scene in a video game, where a player character is engaged in combat with a large, menacing creature amidst a fiery, lava-filled environment. This scene is related to the \"Turtle Treasure Spirit\" mentioned in the preceding text, suggesting that the player is fighting this formidable enemy as part of a quest or challenge. The following text provides context on the location of this encounter, indicating that it takes place in Furnace Valley, where the Turtle Treasure guards a chest at the end of a lava flow."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 285474415883,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Foothills_Walkthrough_%28127%29.png",
+    "alt_text": "Foothills Walkthrough \\(127\\).png",
+    "position_desc": 14,
+    "img_above_text": "![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.",
+    "img_below_text": "Land behind it and you'll find a chest.\n![Foothills Walkthrough \\(124\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Foothills_Walkthrough_%28124%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(126\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Foothills_Walkthrough_%28126%29.png)\nYou'll come back to the path where you first spawn into the level. Fly up and just above the start of the path, where you'll find a curved tree.\"\n            - Following Text: \"Land behind it and you'll find a chest.\n![Foothills Walkthrough \\(124\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Foothills_Walkthrough_%28124%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Foothills_Walkthrough_%28127%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character, possibly the player, levitating on a cloud near a mossy, rocky path surrounded by dense trees. A red arrow highlights a curved tree in the background, suggesting it as a point of interest or a landmark.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a visual guide to help players locate the curved tree mentioned in the preceding text. This tree marks a key location on the path where players should land to progress further and discover a hidden chest, as described in the following text."
+}

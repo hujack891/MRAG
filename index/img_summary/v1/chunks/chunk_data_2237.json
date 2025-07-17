@@ -1,31 +1,6 @@
 {
-    "chunk_id": 980067527162,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Pagoda_7.jpg",
-    "alt_text": "Wukong Pagoda 7.jpg",
-    "position_desc": 7,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 7 from the file 'Pagoda_Realm_Walkthrough.md', located under The Beguiling Chant of the Pagoda Realm.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Alt Text: Wukong Pagoda 7.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n\nInstead, use your Immobilize spell to lock them down and try attacking from behind, and watch out for their head slamming attacks.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Pagoda_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, intense scene from a game walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" It shows a character facing a large, menacing figure, possibly mid-battle. The preceding text advises using an Immobilize spell and attacking from behind to avoid head slamming attacks, suggesting the image illustrates a combat strategy or encounter within the game. The metadata indicates the image is from the seventh position in the \"Pagoda Realm Walkthrough\" file, reinforcing its role in guiding players through this challenging part of the game."
+    "chunk_id": 605510550820,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Brook_5.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a snowy environment. A character is seen crouching and holding a long staff, moving towards a structure carved into a rocky cliff. The structure features multiple statues and pillars, suggesting it may be a significant location in the game. The user interface displays several key elements: a health bar at the bottom left, which includes three colored bars indicating different statuses, and icons for abilities or items. On the right side, there is a counter labeled \"Will\" with a value of 360, possibly indicating a resource or currency. Additionally, there are circular icons that might represent different abilities or actions the player can perform. The scene suggests exploration or an approach to a potentially important area in the game."
 }

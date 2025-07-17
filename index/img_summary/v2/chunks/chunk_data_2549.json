@@ -1,0 +1,28 @@
+{
+    "chunk_id": 694796418139,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg",
+    "alt_text": "Wukong Sandgate 65.jpg",
+    "position_desc": 63,
+    "img_above_text": "![Wukong Sandgate 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg)\nYou’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.",
+    "img_below_text": "On the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.\n![Wukong Sandgate 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 63 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_Sandgate_64.jpg)\nYou’ll find a new Shrine to rest at, not far to the left of the sealed door. Just beyond the Shrine is a cave entrance, guarded by a Rat Soldier and Rat Archer supporting him on some scaffolding. Skirt around the soldier to engage the archer first.\"\n            - Following Text: \"On the other end of the tunnel, the path will open up into a large interior valley with the sun streaming down on the left. Stick to the right side for now, and you’ll find a large door that can’t be opened from this side.\n![Wukong Sandgate 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Sandgate_66.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Sandgate_65.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist in a dimly lit cave near a large, ornate sealed door. This area is described in the context as being just beyond a shrine and guarded by enemies, leading to a tunnel that opens into a larger area. The image serves to illustrate the player's current location and the immediate challenge of navigating past the sealed door and enemies."
+}

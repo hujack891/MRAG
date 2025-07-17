@@ -1,0 +1,28 @@
+{
+    "chunk_id": 658266330671,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
+    "alt_text": "Wukong Bitter 13.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.",
+    "img_below_text": "He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg)\nAnother electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\"\n            - Following Text: \"He can also shoot lightning directly out of his mouth in a beam of energy. This can happen both when he's on the ground in a quick straight burst right in front of him, or when floating above you in a quick sweep in front of him, and both need quick dodges to stop a quick attack.\n![Wukong Bitter 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7e/Wukong_Bitter_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the character Chen Loong unleashing a powerful lightning attack. The attack creates a dramatic visual effect, with a beam of energy striking the ground and causing a splash-like explosion. The snowy environment, traditional building, and surrounding trees provide a striking backdrop, emphasizing the game's blend of mythology and atmospheric detail. This image aligns with the preceding and following text, illustrating Chen Loong's use of lightning-based abilities, such as tossing orbs and shooting beams, which require precise dodging from the player."
+}

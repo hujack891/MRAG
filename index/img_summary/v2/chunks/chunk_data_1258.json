@@ -1,0 +1,28 @@
+{
+    "chunk_id": 508876388291,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg",
+    "alt_text": "Wukong Fright 20.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Wukong Fright 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg)\nAs you grab the eye, you may hear someone calling out to you from down below. Backtrack down to the crevice entrance, and head under the bridge, while watching for ambushes by a new stone enemy variant. The Poisestone is a much smaller and more agile version of the Palestone, able to dash around and expel poison projectiles. Defeating it will remove the stone body, but the legs will survive, and start to deploy devastating kicks if you don’t lock them down and destroy them.",
+    "img_below_text": "At the end of the crevice, you’ll find an unusual looking stone. He’s actually a Man-in-Stone, and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and asks you to seek it out.\n### The Fourth Buddha’s Eyeball",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Fright_19.jpg)\nAs you grab the eye, you may hear someone calling out to you from down below. Backtrack down to the crevice entrance, and head under the bridge, while watching for ambushes by a new stone enemy variant. The Poisestone is a much smaller and more agile version of the Palestone, able to dash around and expel poison projectiles. Defeating it will remove the stone body, but the legs will survive, and start to deploy devastating kicks if you don’t lock them down and destroy them.\"\n            - Following Text: \"At the end of the crevice, you’ll find an unusual looking stone. He’s actually a Man-in-Stone, and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and asks you to seek it out.\n### The Fourth Buddha’s Eyeball\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong* where the protagonist encounters a \"Man-in-Stone,\" a character trapped within a rock-like form. The environment features a rocky crevice with statues carved into the walls and a glowing, webbed stone structure. The dialogue at the bottom reveals the trapped man's frustration, hinting at a magical spell binding him. This moment serves as a narrative setup for the player to seek out a nearby \"rock guai\" in a large cave, which may hold the key to reversing his fate."
+}

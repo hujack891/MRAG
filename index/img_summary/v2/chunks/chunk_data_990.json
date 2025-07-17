@@ -1,0 +1,28 @@
+{
+    "chunk_id": 940643722162,
+    "source_file": "Father_of_Stones_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Father_of_Stones_Location.png",
+    "alt_text": "Father of Stones Location.png",
+    "position_desc": 2,
+    "img_above_text": "## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.",
+    "img_below_text": "## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Father_of_Stones_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Father of Stones Location\nThe Father of Stones is a large, black creature clutching a skeleton like a doll. He can be found lurking in the Flaming Mountains just past the Heart of Ember Keeper's Shrine. You will walk straight into his path as you progress further up the mountain, so don't worry about accidentally missing him.\"\n            - Following Text: \"## Father of Stones Fight\nThe Father of Stones is a unique enemy that relies on his massive body to deal damage. His most common attacks are stomps and spin attacks, where he flings the top half of his body around in a circle. You can also expect to see belly flops and a loud roar attack that deals damage and sends you flying if you are too close. The Father of Stones has a long tongue that he can whip you with, almost like the frog bosses, although it's not quite as powerful as theirs.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Father_of_Stones_Location.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, atmospheric scene set in a rocky, desolate environment with barren trees and crumbling structures. A shrine with a burning flame stands prominently on the right, suggesting a place of significance or ritual. In the foreground, a horned figure clad in ornate armor and wielding a staff surveys the area, hinting at an impending confrontation. Based on the context, this location is near the Heart of Ember Keeper's Shrine in the Flaming Mountains, where players will encounter the Father of Stones, a formidable enemy. The image sets the tone for exploration and the looming battle ahead."
+}

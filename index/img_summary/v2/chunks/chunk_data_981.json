@@ -1,0 +1,28 @@
+{
+    "chunk_id": 736284270830,
+    "source_file": "Falcon_Hermit_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Falcon_Hermit_Power.png",
+    "alt_text": "Falcon Hermit Power.png",
+    "position_desc": 3,
+    "img_above_text": "Immobilize can drastically help when fighting a Falcon Hermit, and always keep your eyes peeled for wind-based attacks. These can easily blend in with the snowy surroundings of the mountain.\n## Falcon Hermit Spirit Power",
+    "img_below_text": "* **Frosty Wind**\n* Equipped Effect: Moderately increases Frost Damage",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Falcon_Hermit_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Immobilize can drastically help when fighting a Falcon Hermit, and always keep your eyes peeled for wind-based attacks. These can easily blend in with the snowy surroundings of the mountain.\n## Falcon Hermit Spirit Power\"\n            - Following Text: \"* **Frosty Wind**\n* Equipped Effect: Moderately increases Frost Damage\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Falcon_Hermit_Power.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image displays the \"Falcon Hermit\" spirit in the equipment menu of a game. It highlights the spirit's ability, \"Frosty Wind,\" which summons a gust of wind dealing Frost Damage and freezing enemies with repeated hits. The equipped effect moderately increases Frost Damage. The menu also showcases other spirits available for selection, along with player stats and options to equip or preview the spirit's abilities.\n\n2. **Purpose/Narrative Role**:  \nThe image serves to illustrate the utility of the Falcon Hermit spirit, emphasizing its frost-based powers and strategic advantage in combat, particularly against enemies in snowy or wind-heavy environments. It ties into the preceding context about immobilizing enemies and the following text about enhancing Frost Damage."
+}

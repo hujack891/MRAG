@@ -1,0 +1,28 @@
+{
+    "chunk_id": 397138774559,
+    "source_file": "Xu_Dog_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg",
+    "alt_text": "Wukong Sandgate 23.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThe Xu Dog has a problem he needs help with: A **large frog** has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back. You’ll find the frog miniboss Lang-Li-Guhh-Baw nearby in a large pit, and it can employ electrical attacks to defend itself.",
+    "img_below_text": "Once you defeat this frog boss, he’ll drop the **Evil Repelling Medicament formula**. Return it to the Xu dog back outside the pit. Not only will he reward you with **2 Evil Repelling Medicament** for your trouble, but you’ll also unlock the ability to **create all sorts of consumables yourself** at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables.\n## In the Crouching Tiger Temple Cellar",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Xu_Dog_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThe Xu Dog has a problem he needs help with: A **large frog** has swallowed one of his medicinal formulas, and you’re just the person he’s looking for to get it back. You’ll find the frog miniboss Lang-Li-Guhh-Baw nearby in a large pit, and it can employ electrical attacks to defend itself.\"\n            - Following Text: \"Once you defeat this frog boss, he’ll drop the **Evil Repelling Medicament formula**. Return it to the Xu dog back outside the pit. Not only will he reward you with **2 Evil Repelling Medicament** for your trouble, but you’ll also unlock the ability to **create all sorts of consumables yourself** at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables.\n## In the Crouching Tiger Temple Cellar\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Xu Dog character from the game \"Black Myth: Wukong.\" The Xu Dog is seen in a dark environment, possibly a cave or pit, engaged in some activity, likely related to the quest mentioned in the context. The preceding text describes a mission where the player must retrieve a medicinal formula swallowed by a frog miniboss, while the following text explains the rewards for completing this task. The image likely serves to visually introduce or emphasize the Xu Dog character involved in this quest."
+}

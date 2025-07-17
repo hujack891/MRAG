@@ -1,0 +1,28 @@
+{
+    "chunk_id": 549846518492,
+    "source_file": "Blood_of_the_Iron_Bull.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Blade_Monk_Spirit.png",
+    "alt_text": "Blade Monk Spirit.png",
+    "position_desc": 2,
+    "img_above_text": "### Blood of the Iron Bull Location 1\nWhenever you stumble upon a blue, glowing enemy and defeat them, you will get a Blood of the Iron Bull. These enemies will also drop their Spirit for you to claim, so be sure to seek them out in our Spirit Locations guide.",
+    "img_below_text": "### Blood of the Iron Bull Location 2\nThe first Blood of the Iron Bull proper can be found by defeating the Wandering Wight in the Forest of Wolves \\- Outside The Wolves location in Black Wind Mountain. From the Shrine, head to the right through the open forest, and you will find the Wight.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Blood_of_the_Iron_Bull.md'.\n\n            Context:\n            - Preceding Text: \"### Blood of the Iron Bull Location 1\nWhenever you stumble upon a blue, glowing enemy and defeat them, you will get a Blood of the Iron Bull. These enemies will also drop their Spirit for you to claim, so be sure to seek them out in our Spirit Locations guide.\"\n            - Following Text: \"### Blood of the Iron Bull Location 2\nThe first Blood of the Iron Bull proper can be found by defeating the Wandering Wight in the Forest of Wolves \\- Outside The Wolves location in Black Wind Mountain. From the Shrine, head to the right through the open forest, and you will find the Wight.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Blade_Monk_Spirit.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where a player character stands in a cave-like environment, holding a fiery staff. In front of the character is a glowing blue spirit, which can be interacted with to collect an item called \"Blood of the Iron Bull.\" The image illustrates the process of acquiring this item by defeating specific blue, glowing enemies, as described in the preceding text. This scene serves as a visual guide to help players identify and collect the Blood of the Iron Bull, reinforcing the narrative of seeking out and defeating these enemies to obtain valuable resources."
+}

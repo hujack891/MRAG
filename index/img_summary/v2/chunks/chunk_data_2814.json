@@ -1,0 +1,28 @@
+{
+    "chunk_id": 488654130808,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_YellowFlower_11.jpg",
+    "alt_text": "Wukong YellowFlower 11.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong YellowFlower 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_YellowFlower_10.jpg)\nYou'll also see a hideous creature in monk robes stagger forth by the chest -- a Worm Practitioner. They'll attack haphazardly with a long tendril-like arm to deal poison damage, so you'll want to engage them cautiously.",
+    "img_below_text": "After grabbing the Treasure Chest they were guarding, head right past a third green Wisp, and through a small ravine guarded by several Daoists to reach a large forested area.\n## Forest of Ferocity",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_YellowFlower_10.jpg)\nYou'll also see a hideous creature in monk robes stagger forth by the chest -- a Worm Practitioner. They'll attack haphazardly with a long tendril-like arm to deal poison damage, so you'll want to engage them cautiously.\"\n            - Following Text: \"After grabbing the Treasure Chest they were guarding, head right past a third green Wisp, and through a small ravine guarded by several Daoists to reach a large forested area.\n## Forest of Ferocity\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_YellowFlower_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist engaged in combat with a Worm Practitioner, a hideous creature in monk robes. The Worm Practitioner is positioned near a treasure chest and attacks with a long tendril-like arm that deals poison damage. The setting is a rocky, forested area with detailed environmental elements such as trees, rocks, and wooden structures. The image serves to illustrate the encounter described in the preceding text, where players are cautioned to engage the Worm Practitioner cautiously due to its poisonous attacks. After defeating the creature and grabbing the treasure chest, players are directed to proceed through a ravine guarded by Daoists to reach the Forest of Ferocity, as indicated in the following text."
+}

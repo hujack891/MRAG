@@ -1,0 +1,28 @@
+{
+    "chunk_id": 279405887873,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg",
+    "alt_text": "Wukong Pagoda 59.jpg",
+    "position_desc": 55,
+    "img_above_text": "![Wukong Pagoda 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg)\nFurther up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.",
+    "img_below_text": "He's much stronger than any plant Guai you've encountered, and summons poison pools all around him. He can also shoot out several poison projectiles at you from all sides, and stab the ground repeatedly to cause poison explosions.\n![Wukong Pagoda 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Pagoda_58.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 55 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg)\nFurther up the cell tunnel, you may notice a Snake-Head Mushroom glowing blue... that can't be right. Try to harvest it, and you'll uncover an extremely strong Fungiman enemy.\"\n            - Following Text: \"He's much stronger than any plant Guai you've encountered, and summons poison pools all around him. He can also shoot out several poison projectiles at you from all sides, and stab the ground repeatedly to cause poison explosions.\n![Wukong Pagoda 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Pagoda_58.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Pagoda_59.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in the game \"Black Myth: Wukong,\" where the player character confronts a powerful Fungiman enemy. This enemy, revealed after attempting to harvest a suspiciously glowing Snake-Head Mushroom, is much stronger than previous plant-based foes and employs various poison attacks, including summoning poison pools, shooting poison projectiles, and causing poison explosions. The image captures the beginning of this challenging encounter."
+}

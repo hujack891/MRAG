@@ -1,31 +1,6 @@
 {
-    "chunk_id": 323737208215,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "h1_title": "Chapter 4 Secrets",
-    "h2_title": "The Duskveil - Purple Cloud Mountain",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
-    "alt_text": "Secrets Black Myth Wukong \\(3\\).png",
-    "position_desc": 19,
-    "img_above_text": "# Chapter 4 Secrets\n## The Duskveil - Purple Cloud Mountain\n\nAs you begin to follow the path in Purple Cloud Mountain, you'll encounter a weeping snake curled around a tree. To help her out, you need to find the Daoist Mi, who waits near the Petalfall Hamlet. He'll ask you to find Violet Hail for him, which you can obtain from the yellow-robed enemies in the area. Once you have it, Daoist Mi will become a boss with two phases.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 19 from the file 'Secrets_in_Black_Myth_Wukong.md', located under The Duskveil - Purple Cloud Mountain.\n\n                Metadata:\n                - Document Title: Chapter 4 Secrets\n                - Section Title: The Duskveil - Purple Cloud Mountain\n                - Alt Text: Secrets Black Myth Wukong \\(3\\).png\n\n                Context:\n                - Preceding Text: \"# Chapter 4 Secrets\n## The Duskveil - Purple Cloud Mountain\n\nAs you begin to follow the path in Purple Cloud Mountain, you'll encounter a weeping snake curled around a tree. To help her out, you need to find the Daoist Mi, who waits near the Petalfall Hamlet. He'll ask you to find Violet Hail for him, which you can obtain from the yellow-robed enemies in the area. Once you have it, Daoist Mi will become a boss with two phases.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Secrets_Black_Myth_Wukong_%283%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a monstrous, multi-limbed creature standing in front of an old, weathered building with twisted roots surrounding it. The creature appears to be a significant adversary, likely encountered in \"The Duskveil - Purple Cloud Mountain\" section of Chapter 4 titled \"Secrets\" from the document. The preceding text suggests that this creature may be related to the boss fight with Daoist Mi, who transforms into a formidable opponent with two phases. The image serves to illustrate the challenging encounter players will face in this part of the narrative."
+    "chunk_id": 613856929412,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_YellowLoong_13.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is engaged in combat with a large, menacing enemy wielding a long weapon. The environment is a dark, misty forest, adding a mysterious and tense atmosphere. The user interface displays various abilities and items available to the player, such as \"Evil Repelling Medicament\" and \"Enhanced Tiger Subduing Pellets,\" with their respective quantities. There are also combat abilities like \"Rock Solid\" and \"Immobile,\" mapped to specific controller buttons. The health bar at the bottom indicates the enemy's name, \"Yellow Loong,\" suggesting a boss fight or significant encounter. The scene emphasizes strategic combat and resource management."
 }

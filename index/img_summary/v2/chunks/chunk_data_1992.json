@@ -1,0 +1,28 @@
+{
+    "chunk_id": 890869317483,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/The_Carvings_Pool_of_Shattered_Jade_Meditation_Spots.jpg",
+    "alt_text": "The Carvings Pool of Shattered Jade Meditation Spots.jpg",
+    "position_desc": 15,
+    "img_above_text": "### The Carvings, Pool of Shattered Jade Meditation Spot\nThe Carvings, Pool of Shattered Jade Meditation Spot",
+    "img_below_text": "This is likely the first Meditation Spot you will encounter in the Hollow. You can find it by heading up the stairs next to the first Keeper's Shrine in Upper Hollow. Shortly after reaching the top of the stairs, you will notice a platform on the left with a torch beside it. Drop down to the area below and drop down once more.\nFollow the path to the right through a hall of hanging webs until you reach the Pool of Shattered Jade. The Meditation Spot is in the center of the pool.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Carvings, Pool of Shattered Jade Meditation Spot\nThe Carvings, Pool of Shattered Jade Meditation Spot\"\n            - Following Text: \"This is likely the first Meditation Spot you will encounter in the Hollow. You can find it by heading up the stairs next to the first Keeper's Shrine in Upper Hollow. Shortly after reaching the top of the stairs, you will notice a platform on the left with a torch beside it. Drop down to the area below and drop down once more.\nFollow the path to the right through a hall of hanging webs until you reach the Pool of Shattered Jade. The Meditation Spot is in the center of the pool.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/The_Carvings_Pool_of_Shattered_Jade_Meditation_Spots.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a serene and mystical meditation spot located at the Pool of Shattered Jade. A character in ornate armor stands near a glowing meditation platform surrounded by water, with intricate stone lanterns and lush vegetation enhancing the tranquil atmosphere. The dark, cavernous environment is illuminated by soft lighting, creating a sense of calm and introspection.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to visually represent the Pool of Shattered Jade Meditation Spot, emphasizing its role as a peaceful location for reflection and rest within the game. It aligns with the preceding and following text, which provides directions to this spot and highlights its significance as an early and accessible meditation area in the Upper Hollow region."
+}

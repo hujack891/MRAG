@@ -1,0 +1,28 @@
+{
+    "chunk_id": 61575024972,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_43.jpg",
+    "alt_text": "Wukong Sahali 43.jpg",
+    "position_desc": 26,
+    "img_above_text": "That’s your cue to rush in and hit Fuban’s exposed area with your biggest hits, using charged strikes, Spirit Attacks, and Transformation Spells to unload on the beetle before he can rise up.\nWhen following this strategy, you’ll quickly burn through the rest of Fuban’s health bar, and between you and the Yellow Wind Sage, the beetle will stand little chance. He can still repeatedly slam his head in the ground to create shockwaves, and finally pull up with a massive explosion. Again, the Pillar Stance can be useful for dodging these blasts, so long as you have a bit of distance away from him too.",
+    "img_below_text": "When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"That’s your cue to rush in and hit Fuban’s exposed area with your biggest hits, using charged strikes, Spirit Attacks, and Transformation Spells to unload on the beetle before he can rise up.\nWhen following this strategy, you’ll quickly burn through the rest of Fuban’s health bar, and between you and the Yellow Wind Sage, the beetle will stand little chance. He can still repeatedly slam his head in the ground to create shockwaves, and finally pull up with a massive explosion. Again, the Pillar Stance can be useful for dodging these blasts, so long as you have a bit of distance away from him too.\"\n            - Following Text: \"When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_43.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a climactic moment in the battle against Fuban, a massive beetle-like creature, set in a desert environment. The scene captures the intensity of the fight, with debris and sand flying as the player character and the Yellow Wind Sage engage the beast. This visual aligns with the preceding text, which describes the strategy for exploiting Fuban's vulnerabilities and dodging his shockwave attacks. The following text confirms the imminent victory, rewarding the player with valuable items like the Sky-Piercing Horn and the Wind Tamer Vessel. The image serves to highlight the action-packed and pivotal phase of the encounter."
+}

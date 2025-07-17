@@ -1,0 +1,28 @@
+{
+    "chunk_id": 149333435524,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Snowhill_41.jpg",
+    "alt_text": "Wukong Snowhill 41.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)\nIf she slams a claw into the ground without flying around, it means she'll drag that claw towards you, building up energy to send an electric shockwave in your direction, but it can be easily dodged to the side.",
+    "img_below_text": "However, this is just part one of her attack, as after a delay she will slam down with her tail for a massive attack -- but it can be deflected with Rock Solid.\nAfter her tail slam, you'll have the opportunity to retaliate and hit her tail before the boss can re-orient her body, so make the most of these moments to use Spirit Attacks while its on the ground.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Kang-Jin_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)\nIf she slams a claw into the ground without flying around, it means she'll drag that claw towards you, building up energy to send an electric shockwave in your direction, but it can be easily dodged to the side.\"\n            - Following Text: \"However, this is just part one of her attack, as after a delay she will slam down with her tail for a massive attack -- but it can be deflected with Rock Solid.\nAfter her tail slam, you'll have the opportunity to retaliate and hit her tail before the boss can re-orient her body, so make the most of these moments to use Spirit Attacks while its on the ground.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Snowhill_41.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a boss fight against \"Kang-Jin Loong\" in *Black Myth: Wukong*, set in a snowy, mountainous environment. The boss, a dragon-like creature, is shown mid-attack, generating an electric shockwave with its tail. The preceding and following text provides gameplay tips, explaining how to dodge the shockwave by moving sideways and how to counter the tail slam with the \"Rock Solid\" ability. Players are advised to capitalize on the brief window after the tail slam to retaliate with Spirit Attacks."
+}

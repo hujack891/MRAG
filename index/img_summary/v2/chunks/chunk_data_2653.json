@@ -1,0 +1,28 @@
+{
+    "chunk_id": 939976057660,
+    "source_file": "Snake_Sheriff_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Snake_Shriff_Location.jpg",
+    "alt_text": "Snake Shriff Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.",
+    "img_below_text": "## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snake_Sheriff_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Snake Sheriff Location\nHead through the door on the right when you enter the Temple of the Yellow Flowers. Run up the stairs and turn to the left to find yourself face-to-face with the Snake Sheriff.\"\n            - Following Text: \"## Snake Sheriff Fight\nThe Snake Sheriff fights like all other enemies of its type. Watch out for the beast slashing you with its long claws, pouncing on you, and sweeping you off your feet with its long, snake-like neck. These enemies are fast and ferocious, so don't be afraid to cast Immobilize if you need a breather.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Snake_Shriff_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character in a video game, positioned at the bottom of a set of stairs, preparing to confront the Snake Sheriff, an enemy located at the top of the stairs. The context suggests that the player has just navigated through the Temple of the Yellow Flowers to reach this encounter. The Snake Sheriff is an agile and dangerous foe, known for its swift attacks and long claws, requiring strategic gameplay and possibly the use of abilities like Immobilize to manage the fight effectively."
+}

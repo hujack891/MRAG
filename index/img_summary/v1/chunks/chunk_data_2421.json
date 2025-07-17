@@ -1,31 +1,6 @@
 {
-    "chunk_id": 939651522911,
-    "source_file": "Red_Loong.md",
-    "h1_title": "Red Loong",
-    "h2_title": "Yaoguai King Boss Battle - Red Loong",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-    "alt_text": "Wukong RedLoong 7.jpg",
-    "position_desc": 7,
-    "img_above_text": "# Red Loong\nRed Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Hidden away in the Forest of Wolves, you won't be able to encounter this boss until you obtain a Key Item later in the game, and this boss is and appropriate challenging fight far stronger than anything else in Black Wind Mountain. Red Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Boshan Censer, Thunder Tail, Loong Pearl x1, Mind Core x1, Silk x3, 1652 Experience, 1376 Will\n## Yaoguai King Boss Battle - Red Loong\n\nYou can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 7 from the file 'Red_Loong.md', located under Yaoguai King Boss Battle - Red Loong.\n\n                Metadata:\n                - Document Title: Red Loong\n                - Section Title: Yaoguai King Boss Battle - Red Loong\n                - Alt Text: Wukong RedLoong 7.jpg\n\n                Context:\n                - Preceding Text: \"# Red Loong\nRed Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 1 of Black Myth Wukong. Hidden away in the Forest of Wolves, you won't be able to encounter this boss until you obtain a Key Item later in the game, and this boss is and appropriate challenging fight far stronger than anything else in Black Wind Mountain. Red Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Boshan Censer, Thunder Tail, Loong Pearl x1, Mind Core x1, Silk x3, 1652 Experience, 1376 Will\n## Yaoguai King Boss Battle - Red Loong\n\nYou can now find a spot to interact with in front of the large waterfall, using the power of Loong Scales to evaporate the waterfall, and reveal a path to the Red Loong Dragon.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Red Loong, a formidable dragon-like boss encountered in the optional Yaoguai King Boss Battle within *Black Myth: Wukong*. Set in a dark, atmospheric environment, the creature is surrounded by glowing particles, emphasizing its mystical and powerful nature. This visual likely represents the climactic moment of the battle, showcasing the Red Loong's imposing presence and the challenging fight players face after unlocking its hidden location behind a waterfall using the Loong Scales."
+    "chunk_id": 358772697143,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_MiddleHollow_17.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a combat scene from a video game, featuring a player character engaged in battle with a large, armored enemy. The enemy has a visible health bar above it, indicating its current health status. The player character is wielding a weapon with a glowing effect, suggesting a special attack or power-up. The environment is a dark, rocky area with sparse vegetation and structures in the background. The user interface displays various elements: on the bottom left, there are icons for abilities or items with quantities, and a health bar with a blue and yellow meter. On the bottom right, additional icons likely represent skills or powers available to the player. A text overlay on the right side shows \"Will x35,\" possibly indicating a resource or currency used in the game."
 }

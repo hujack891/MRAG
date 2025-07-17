@@ -1,31 +1,6 @@
 {
-    "chunk_id": 838071926739,
-    "source_file": "Lang-Li-Guhh-Lang.md",
-    "h1_title": "Lang-Li-Guhh-Lang",
-    "h2_title": "Where to Find Lang-Li-Guhh-Lang",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Felicity_4.jpg",
-    "alt_text": "Wukong Felicity 4.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is an optional miniboss fight that you can encounter in Chapter 3 of Black Myth Wukong. One of several possible frog guai bosses you can defeat, this one lurks in the Valley of Ecstasy, and has the power of frost on its side.\n* **Rewards:** Tadpole, Cold Iron Leaves, Random Materials, 1270 Experience, 904 Will\n## Where to Find Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is located early on after entering the Valley of Ecstasy proper, which requires sliding down a large snowy slope from the Mindfulness Cliff after crossing the Bitter Lake.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Lang-Li-Guhh-Lang.md', located under Where to Find Lang-Li-Guhh-Lang.\n\n                Metadata:\n                - Document Title: Lang-Li-Guhh-Lang\n                - Section Title: Where to Find Lang-Li-Guhh-Lang\n                - Alt Text: Wukong Felicity 4.jpg\n\n                Context:\n                - Preceding Text: \"# Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is an optional miniboss fight that you can encounter in Chapter 3 of Black Myth Wukong. One of several possible frog guai bosses you can defeat, this one lurks in the Valley of Ecstasy, and has the power of frost on its side.\n* **Rewards:** Tadpole, Cold Iron Leaves, Random Materials, 1270 Experience, 904 Will\n## Where to Find Lang-Li-Guhh-Lang\nLang-Li-Guhh-Lang is located early on after entering the Valley of Ecstasy proper, which requires sliding down a large snowy slope from the Mindfulness Cliff after crossing the Bitter Lake.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Felicity_4.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game Black Myth Wukong, specifically from Chapter 3 where the player encounters the optional miniboss Lang-Li-Guhh-Lang. The setting is a snowy area in the Valley of Ecstasy, characterized by rocky terrain and frosty conditions. The player character is seen navigating the snowy slope, likely approaching the location where Lang-Li-Guhh-Lang can be found. The image serves to visually represent the environment and context described in the section \"Where to Find Lang-Li-Guhh-Lang\" of the document titled \"Lang-Li-Guhh-Lang.\""
+    "chunk_id": 920654674385,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_Pagoda_55.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a rocky, canyon-like environment. A character wearing a yellow cloak is seen carrying another character, possibly unconscious, across a narrow wooden bridge suspended by chains. To the left, a blue-skinned enemy or creature is crouched near a rock formation, suggesting potential danger or a stealth element. The user interface at the bottom left shows a health bar with a white flask icon, indicating the player's health status. Additional UI elements include circular icons, likely representing abilities or items, and a silhouette of a character in the bottom right corner, possibly indicating the player's current status or action. The environment and characters suggest a focus on navigation and possibly combat or stealth gameplay."
 }

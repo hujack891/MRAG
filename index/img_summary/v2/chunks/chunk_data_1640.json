@@ -1,0 +1,28 @@
+{
+    "chunk_id": 983426517890,
+    "source_file": "How_to_Unlock_the_Chapter_4_Secret_Area.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Chapter_4_Secret_Area_%2811%29.png",
+    "alt_text": "Chapter 4 Secret Area \\(11\\).png",
+    "position_desc": 12,
+    "img_above_text": "![Chapter 4 Secret Area \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Chapter_4_Secret_Area_%2810%29.png)\nHere, you'll want to take a left and go across the water and up the stairs. Once you've taken the next set of stairs up, you'll come to a path with another tree at the end of it.",
+    "img_below_text": "Turn right at this tree, pass through the building, and follow the stairs and slope up to the next area.\n![Chapter 4 Secret Area \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Chapter_4_Secret_Area_%2814%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'How_to_Unlock_the_Chapter_4_Secret_Area.md'.\n\n            Context:\n            - Preceding Text: \"![Chapter 4 Secret Area \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Chapter_4_Secret_Area_%2810%29.png)\nHere, you'll want to take a left and go across the water and up the stairs. Once you've taken the next set of stairs up, you'll come to a path with another tree at the end of it.\"\n            - Following Text: \"Turn right at this tree, pass through the building, and follow the stairs and slope up to the next area.\n![Chapter 4 Secret Area \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Chapter_4_Secret_Area_%2814%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Chapter_4_Secret_Area_%2811%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a forested pathway with a prominent tree and rocky surroundings, guiding the player to turn right at the tree as indicated by the red arrow. It serves as a visual cue to navigate the Chapter 4 secret area in *Black Myth: Wukong*, transitioning from the previous water and stairs section to the next area through a building and upward slope."
+}

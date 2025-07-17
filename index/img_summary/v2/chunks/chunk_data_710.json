@@ -1,0 +1,28 @@
+{
+    "chunk_id": 336220588271,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg",
+    "alt_text": "Ginseng Pellets .jpg",
+    "position_desc": 7,
+    "img_above_text": "![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Aged Ginseng | Amplification Pellets",
+    "img_below_text": "• 1 Aged Ginseng | Ginseng Pellets\n![Body-Warming Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg)| Body-Warming Powder | Uncommon | Upon use, instantly removes Chilled State and significantly reduces Chill Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Fire Bellflower",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Amplification Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Amplification_Pellets_.jpg)| Amplification Pellets | Rare | Upon use, moderately increases critical hit chance for a long duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow Wind Ridge| • 1 Snake-Head Mushroom\n• 1 Aged Ginseng | Amplification Pellets\"\n            - Following Text: \"• 1 Aged Ginseng | Ginseng Pellets\n![Body-Warming Powder .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Body-Warming_Powder_.jpg)| Body-Warming Powder | Uncommon | Upon use, instantly removes Chilled State and significantly reduces Chill Resistance for a short duration | • Craft from the Shrine store under \"Make Medicines\" after helping Xu Dog defeat Lang-Li-Guhh-Baw in Sandgate Village - Village Entrance in Yellow WInd Ridge| • 1 Fire Bellflower\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Ginseng_Pellets_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts the \"Body-Warming Powder,\" an uncommon consumable item from *Black Myth: Wukong*. It is used to instantly remove the Chilled State and temporarily reduce Chill Resistance. Players can craft this item at the Shrine store under \"Make Medicines\" after assisting Xu Dog in defeating Lang-Li-Guhh-Baw at Sandgate Village - Village Entrance in Yellow Wind Ridge. The crafting recipe requires 1 Fire Bellflower."
+}

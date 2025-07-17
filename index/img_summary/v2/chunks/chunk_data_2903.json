@@ -1,0 +1,28 @@
+{
+    "chunk_id": 143917082475,
+    "source_file": "The_Duskveil.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg",
+    "alt_text": "Wukong PurpleCloud 64.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)\nThe Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.",
+    "img_below_text": "From the mist, he can either launch into his quick single arm jab, or his new attack where he coughs out his sword from his mouth to stab through the mist and into the ground in front of him.\nAfter grabbing the sword, he'll jump back, and launch a series of projectiles slashes you'll need to dodge one at a time. Luckily, they are evenly spaced, and the timing isn't hard to get down.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_PurpleCloud_63.jpg)\nThe Duskveil has a few more ways of forming his sword, and are much harder to see coming. These often happen when he sprays a damaging blood mist in front of him, obscuring him from view -- which means retreating backward can be a wise decision if you want to play it safe.\"\n            - Following Text: \"From the mist, he can either launch into his quick single arm jab, or his new attack where he coughs out his sword from his mouth to stab through the mist and into the ground in front of him.\nAfter grabbing the sword, he'll jump back, and launch a series of projectiles slashes you'll need to dodge one at a time. Luckily, they are evenly spaced, and the timing isn't hard to get down.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_PurpleCloud_64.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the boss character known as \"The Duskveil.\" The environment is shrouded in a red mist, which the Duskveil uses to obscure himself and launch surprise attacks. The player character is seen preparing to engage, with the Duskveil's health bar displayed at the bottom of the screen. The preceding and following text describe the Duskveil's attack patterns, including spraying blood mist and performing quick jabs or stabbing with a sword, emphasizing the need for strategic retreat and careful dodging of projectile slashes."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 878342084254,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg",
+    "alt_text": "Black-myth-wukong-waterward-orb.jpg",
+    "position_desc": 36,
+    "img_above_text": "![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb\n![Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg)| Daoist's Basket of Fire and Water| Epic | Moderately increases the attack power of all Burn-inflicting and Chill-inflicting transformations | Found in Flaming Mountains upon defeating Bishui Golden-Eyed Beast| Daoist's Basket of Fire and Water",
+    "img_below_text": "![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment\nYou can also see a fantastic video guide from \"akhafasu\" on YouTube here.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb\n![Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg)| Daoist's Basket of Fire and Water| Epic | Moderately increases the attack power of all Burn-inflicting and Chill-inflicting transformations | Found in Flaming Mountains upon defeating Bishui Golden-Eyed Beast| Daoist's Basket of Fire and Water\"\n            - Following Text: \"![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment\nYou can also see a fantastic video guide from \"akhafasu\" on YouTube here.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a mystical artifact from the game \"Black Myth: Wukong,\" likely serving as an in-game item with unique properties. Positioned between descriptions of other powerful items, such as the Flame Orb and the Celestial Birthstone Fragment, this artifact is part of a collection of rare and legendary items that enhance player abilities. The preceding and following text suggests it could be an item that boosts elemental resistances or attack power, fitting into the narrative of acquiring powerful objects to defeat formidable foes within the game's mythical landscapes."
+}

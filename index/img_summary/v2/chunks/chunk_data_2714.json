@@ -1,0 +1,28 @@
+{
+    "chunk_id": 319511325209,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png",
+    "alt_text": "Snow Fox Questline \\(14\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\nWhen you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.",
+    "img_below_text": "As you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.\n![Snow Fox Questline \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(12\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png)\nWhen you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.\"\n            - Following Text: \"As you head inside, **stick to the right side of the building and then go up the then go up the stairs**. This will bring you to the top of the building, where you'll want to go outside using the door on the left. When you're on the balcony, go right, and then right again to find a wooden bridge.\n![Snow Fox Questline \\(13\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Snow_Fox_Questline_%2813%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the interior of a dimly lit, ancient building with wooden architecture and ornate decorations. A red arrow points towards a staircase on the right, indicating the next direction for the player to take. This visual guide is part of the \"Snow Fox Questline\" in the game \"Black Myth: Wukong,\" helping players navigate through the building to reach the top floor and continue their quest."
+}

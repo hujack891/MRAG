@@ -1,0 +1,28 @@
+{
+    "chunk_id": 81092166634,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-visionary-centipede-staff.jpg",
+    "alt_text": "Black-myth-wukong-visionary-centipede-staff.jpg",
+    "position_desc": 14,
+    "img_above_text": "• 2 Refined Iron Sand\n• 1,500 Will | Spider Celestial Staff",
+    "img_below_text": "• 2 Refined Iron Sand\n• 1,500 Will | Visionary Centipede Staff",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Weapons.md'.\n\n            Context:\n            - Preceding Text: \"• 2 Refined Iron Sand\n• 1,500 Will | Spider Celestial Staff\"\n            - Following Text: \"• 2 Refined Iron Sand\n• 1,500 Will | Visionary Centipede Staff\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-visionary-centipede-staff.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a detailed and ornately designed staff, likely a weapon, held by a character in elaborate armor. The preceding and following text suggest that this staff is the \"Spider Celestial Staff,\" crafted using 2 Refined Iron Sand and 1,500 Will. The image serves to visually represent this specific weapon within the context of a list or catalog of similarly crafted items."
+}

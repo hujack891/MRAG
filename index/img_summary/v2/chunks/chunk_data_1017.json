@@ -1,0 +1,28 @@
+{
+    "chunk_id": 274183569072,
+    "source_file": "Field_of_Fire_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
+    "alt_text": "B1 19 09 2024 16 00 13 copy.png",
+    "position_desc": 22,
+    "img_above_text": "When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.",
+    "img_below_text": "When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Field_of_Fire_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.\"\n            - Following Text: \"When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing.\nFlint Vanguard\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a rocky, desolate environment, likely part of a combat encounter with the Flint Vanguard. A fireball, highlighted with a red dashed circle, is seen flying through the air, illustrating the Vanguard's enraged attack phase described in the preceding text. The environment includes jagged rocks, sparse trees, and a glowing green Wisp visible near the center-right, which aligns with the following text mentioning collectible items after defeating the Vanguard.\n\n2. **Purpose/Narrative Role**:  \nThe image visually represents the combat mechanics and environmental context of the Flint Vanguard encounter. It highlights the Vanguard's fireball attack phase, emphasizing the need for mobility to avoid damage, and hints at the post-combat rewards like the Flint Vanguard Spirit and the green Wisp."
+}

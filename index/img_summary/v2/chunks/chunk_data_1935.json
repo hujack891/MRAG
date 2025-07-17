@@ -1,0 +1,28 @@
+{
+    "chunk_id": 667182471791,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg",
+    "alt_text": "Purple Lingzhi .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Medicine Ingredient | Rarity | Type | Location\n---|---|---|---|---",
+    "img_below_text": "![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"Image | Medicine Ingredient | Rarity | Type | Location\n---|---|---|---|---\"\n            - Following Text: \"![Nice-Capped Lingzhi .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Nice-Capped_Lingzhi_.jpg)| Nine-Capped Lingzhi | Rare | Ingredient | Randomly obtained from Purple Lingzhi plants Defeat Lingzhiling enemies\n![Gentian .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Gentian_.jpg)| Gentian | Uncommon | Ingredient | Found in Black Wind Mountain and onwards Bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Purple_Lingzhi_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Nine-Capped Lingzhi, a rare medicinal ingredient in the context of the game \"Black Myth: Wukong.\" It is visually represented as a mushroom with multiple caps, suggesting its unique and valuable nature. According to the accompanying metadata, this ingredient can be randomly obtained from Purple Lingzhi plants or by defeating Lingzhiling enemies, highlighting its significance in gameplay for acquiring rare items."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 393985654037,
+    "source_file": "Bamboo_Grove_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
+    "alt_text": "Wukong Bamboo 55.jpg",
+    "position_desc": 49,
+    "img_above_text": "Whiteclad Noble\nThis will finally prompt the Keeper to tell the tale of the three bells — two of which you’ve found guarded by Guangmou and Guangzhi. The third happens to lie not far from this site. Instead of moving forward, look to the left to spot a flooded ravine to travel through.",
+    "img_below_text": "On the other side, you’ll find a large open area where several Wolf Guais are seated in front of the final bell, as well as a hanged wolf on a nearby tree.\n## Black Wind Mountain’s Secret - Ringing the Final Bell",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 49 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Whiteclad Noble\nThis will finally prompt the Keeper to tell the tale of the three bells — two of which you’ve found guarded by Guangmou and Guangzhi. The third happens to lie not far from this site. Instead of moving forward, look to the left to spot a flooded ravine to travel through.\"\n            - Following Text: \"On the other side, you’ll find a large open area where several Wolf Guais are seated in front of the final bell, as well as a hanged wolf on a nearby tree.\n## Black Wind Mountain’s Secret - Ringing the Final Bell\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense confrontation in a dark, atmospheric setting, where the protagonist faces a group of hostile Wolf Guais near the final bell mentioned in the narrative. The area is overgrown and eerie, with a hanged wolf visible on a tree in the background, emphasizing the ominous tone. This scene aligns with the context of progressing toward the final bell in the tale of the three bells, marking a critical moment in the story's unfolding."
+}

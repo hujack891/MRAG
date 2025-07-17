@@ -1,0 +1,28 @@
+{
+    "chunk_id": 586791443697,
+    "source_file": "Bull_Governor_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Bull_Governor_Location.jpg",
+    "alt_text": "Bull Governor Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "* Run towards the large gate to the right of the Cooling Slope Keeper's Shrine and defeat the Rusty-Gold Cart.\n* Speak to the Pale-Axe Stalwart once again to open the gate to Bushui Cave.",
+    "img_below_text": "Once you make it into Bushui Cave, continue through the area until you come across Top Takes Bottom, Bottom Takes Top. Climb the stairs after defeating them and follow the path around to the right to find the Bull Governor.\nTurn left before turning right to collect a Celestial Nonary Pill.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Bull_Governor_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Run towards the large gate to the right of the Cooling Slope Keeper's Shrine and defeat the Rusty-Gold Cart.\n* Speak to the Pale-Axe Stalwart once again to open the gate to Bushui Cave.\"\n            - Following Text: \"Once you make it into Bushui Cave, continue through the area until you come across Top Takes Bottom, Bottom Takes Top. Climb the stairs after defeating them and follow the path around to the right to find the Bull Governor.\nTurn left before turning right to collect a Celestial Nonary Pill.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Bull_Governor_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dark, atmospheric dungeon-like area with a player character armed with a staff, advancing cautiously toward several humanoid enemies in the distance. The environment features stone floors, pillars, and scattered candles, suggesting a mystical or ancient setting. The game's HUD displays health, abilities, and a resource labeled \"Will,\" indicating active gameplay.\n\n2. **Narrative Role**:  \nBased on the preceding and following text, this image likely represents the player's progression into Bushui Cave after opening the gate with the Pale-Axe Stalwart. The enemies ahead may be part of the challenges leading up to the encounter with the Bull Governor, a key figure mentioned in the following text. This scene sets the tone for exploration and combat within the cave."
+}

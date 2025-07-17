@@ -1,0 +1,28 @@
+{
+    "chunk_id": 901875514258,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg",
+    "alt_text": "Celestial Pear .jpg",
+    "position_desc": 12,
+    "img_above_text": "![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms\n![Fire Bellflower .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg)| Fire Bellflower | Uncommon | Ingredient | Found in Sandgate Village - Valley of Despair and in Yellow Wind Ridge, and onwards",
+    "img_below_text": "![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\n![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-monkey-head-fungus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-monkey-head-fungus.jpg)| Monkey-Head Fungus | Rare | Ingredient | Randomly obtained from Snake-Head Mushrooms\n![Fire Bellflower .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Fire_Bellflower_.jpg)| Fire Bellflower | Uncommon | Ingredient | Found in Sandgate Village - Valley of Despair and in Yellow Wind Ridge, and onwards\"\n            - Following Text: \"![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\n![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a cluster of spiky, pear-like fruits, likely representing an in-game ingredient from *Black Myth: Wukong*. Based on the surrounding context, this ingredient is part of a collection of rare or uncommon items used for crafting or progression within the game. The image is positioned between descriptions of the \"Fire Bellflower\" and \"Tree Pearl,\" suggesting it is another collectible ingredient with specific locations or methods for acquisition. Its role is likely tied to enhancing gameplay through resource gathering."
+}

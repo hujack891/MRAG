@@ -1,0 +1,28 @@
+{
+    "chunk_id": 531708743847,
+    "source_file": "Flint_Vanguard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Flint_Vanguard.jpg",
+    "alt_text": "Flint Vanguard.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Flint Vanguard Fight\n* Flint Vanguard Spirit",
+    "img_below_text": "## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Flint_Vanguard_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Flint Vanguard Fight\n* Flint Vanguard Spirit\"\n            - Following Text: \"## Flint Vanguard Location\nOnce you've completed the Iron Ball challenge in the Flaming Mountains and unlocked the Fallen Furnace Crater Keeper's Shrine, head back down the hill and take the newly opened passage on the left. Follow the path until you find a pile of glowing rocks lying in a large clearing. Approach the rocks to awaken the Flint Vanguard.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Flint_Vanguard.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Flint Vanguard, a fiery, rock-like creature with glowing molten features, likely encountered as a boss or significant enemy in the game. The preceding and following text suggest that this creature plays a key role in the narrative, appearing after completing a challenge and unlocking a shrine. The image emphasizes the creature's imposing and elemental nature, aligning with the game's volcanic and mystical setting."
+}

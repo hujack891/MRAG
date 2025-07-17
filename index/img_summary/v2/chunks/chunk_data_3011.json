@@ -1,0 +1,28 @@
+{
+    "chunk_id": 370666799669,
+    "source_file": "Tiger%27s_Acolyte.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
+    "alt_text": "Wukong Yellow 25.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Yellow 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg)\nIf you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.",
+    "img_below_text": "If possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.\n![Wukong Yellow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Yellow_27.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Tiger%27s_Acolyte.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Wukong_Yellow_24.jpg)\nIf you see him rush forward with his claw raised back, prepare for a rapid combo of four quick slashes, followed by a stab with his claws.\"\n            - Following Text: \"If possible, you can try to go Rock Solid when he jabs, otherwise he’ll quickly pull backwards and retreat before you can try to retaliate — which often leads to one if his leaping attacks.\n![Wukong Yellow 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Yellow_27.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" featuring a character named Tiger's Acolyte engaged in a battle. The preceding text describes the acolyte's attack pattern, including a rapid combo of slashes followed by a claw stab, while the following text advises on defensive strategies, such as going Rock Solid during the jab to avoid subsequent leaping attacks. The image visually captures the intensity and dynamic nature of the fight, emphasizing the acolyte's aggressive maneuvers."
+}

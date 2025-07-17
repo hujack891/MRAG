@@ -1,0 +1,28 @@
+{
+    "chunk_id": 296017121756,
+    "source_file": "Non-Void_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Non_Void_2.jpg",
+    "alt_text": "Non Void 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Non-Void Fight\n* Non-Void Spirit",
+    "img_below_text": "## Non-Void Location\nNon-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Non-Void_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Non-Void Fight\n* Non-Void Spirit\"\n            - Following Text: \"## Non-Void Location\nNon-Void is the most difficult Non-Enemy to find and is part of his own side quest. At the end of Chapter 2, you will be told a story about a man who saved a dying fox. The man had a dream that the fox attacked his family one night and killed the fox upon waking for fear that the dream may become a reality.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Non_Void_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image likely depicts a mystical or spiritual figure, possibly related to the concept of the \"Non-Void Spirit\" mentioned in the preceding text. This figure may play a significant role in the narrative, possibly as a guide or a key character in a side quest. The following text suggests a connection to a story involving a man and a fox, hinting at themes of dreams, reality, and fear. The image serves to visually represent the enigmatic and challenging nature of the \"Non-Void Location\" and the associated quest."
+}

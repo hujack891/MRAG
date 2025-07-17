@@ -1,0 +1,28 @@
+{
+    "chunk_id": 370839626704,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg",
+    "alt_text": "Small Piece of Gold .jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---\n![Tiny Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg)| Tiny Piece of Gold| Uncommon | Treasure - Sellable | • In chests • Dropped from enemies",
+    "img_below_text": "![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\n![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---\n![Tiny Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Tiny_Piece_of_Gold_.jpg)| Tiny Piece of Gold| Uncommon | Treasure - Sellable | • In chests • Dropped from enemies\"\n            - Following Text: \"![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\n![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a mysterious, skeletal-like object resembling a fragmented mask or bone structure. Based on its placement in the context of \"Crafting Materials.md,\" it likely represents a unique item related to treasure or crafting within the game *Black Myth: Wukong*. Its purpose may involve either selling for value or being used in crafting armor or other items.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image is part of a list of collectible items in *Black Myth: Wukong*. It is positioned between the \"Tiny Piece of Gold,\" an uncommon sellable treasure, and the \"Gold Ridge Beast,\" an epic treasure found in a specific location. This suggests the item in the image might also be a rare or valuable treasure, possibly tied to exploration, enemy drops, or crafting."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 674692269309,
+    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/How_To_Claim_Deluxe_Edition_Items_%285%29.png",
+    "alt_text": "How To Claim Deluxe Edition Items \\(5\\).png",
+    "position_desc": 4,
+    "img_above_text": "### Weapon\n* Bronzecloud Staff",
+    "img_below_text": "### Armor\n* Folk Opera Mask",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'How_to_Claim_Deluxe_Edition_Items.md'.\n\n            Context:\n            - Preceding Text: \"### Weapon\n* Bronzecloud Staff\"\n            - Following Text: \"### Armor\n* Folk Opera Mask\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/How_To_Claim_Deluxe_Edition_Items_%285%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the in-game equipment menu, highlighting the \"Bronzecloud Staff,\" an uncommon weapon with an attack value of 36 and a critical hit chance of 2%. It serves as a visual representation of the weapon described in the preceding text and complements the following section on armor items."
+}

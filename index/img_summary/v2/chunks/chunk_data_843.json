@@ -1,0 +1,28 @@
+{
+    "chunk_id": 515420019490,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg",
+    "alt_text": "Black-myth-wukong-Daoist's-Basket-of-Fire-and-Water.jpg",
+    "position_desc": 35,
+    "img_above_text": "![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button\n![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb",
+    "img_below_text": "![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb\n![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button\n![Black-myth-wukong-flame-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Black-myth-wukong-flame-orb.jpg)| Flame Orb| Rare | Moderately increases Burn resistance | Found in Flaming mountains upon defeating the Rusty-Gold Cart| Flame Orb\"\n            - Following Text: \"![Black-myth-wukong-waterward-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Black-myth-wukong-waterward-orb.jpg)| Waterward Orb| Epic | Considerably increases Defense when in water | Found in Mount Huaguo upon defeating Jiao-Loong of Waves| Waterward Orb\n![Black-myth-wukong-Celestial-Birthstone-Fragment.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Black-myth-wukong-Celestial-Birthstone-Fragment.jpg)| Celestial Birthstone Fragment| Legendary | Ignores the enemy's Four Bane resistances | Found in Mount Huaguo upon defeating Lang-Baw-Baw| Celestial Birthstone Fragment\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Black-myth-wukong-Daoist%27s-Basket-of-Fire-and-Water.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, intricately twisted metallic object resembling a crown or a mystical artifact. Based on the surrounding context, it is likely an in-game item from *Black Myth: Wukong*. The preceding and following text describe various items with unique abilities and effects, suggesting that this object is another collectible or equippable item with specific gameplay significance, possibly enhancing player stats or abilities."
+}

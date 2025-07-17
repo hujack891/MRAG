@@ -1,0 +1,28 @@
+{
+    "chunk_id": 71458770379,
+    "source_file": "Hundred-Eyed_Daoist_Master.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_YellowFlower_85.jpg",
+    "alt_text": "Wukong YellowFlower 85.jpg",
+    "position_desc": 20,
+    "img_above_text": "![Wukong YellowFlower 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_YellowFlower_87.jpg)\nHis most common attack comes when he spreads his hands wide as they glow yellow. He'll lunge toward you, bringing up both hands to create a giant tremor in front of him, but it can be deflected with Rock Solid (he'll no longer burrow to retaliate so that's one less thing to worry about).",
+    "img_below_text": "He'll also constantly end his three electric talismans out to distract you. Sometimes he'll shoot them straight out with a punch to add damage with a blast, but he can also hold them in front of him to create an even bigger blast, or send it around his back to slam down with his tail.\n![Wukong YellowFlower 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Wukong_YellowFlower_84.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Hundred-Eyed_Daoist_Master.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_YellowFlower_87.jpg)\nHis most common attack comes when he spreads his hands wide as they glow yellow. He'll lunge toward you, bringing up both hands to create a giant tremor in front of him, but it can be deflected with Rock Solid (he'll no longer burrow to retaliate so that's one less thing to worry about).\"\n            - Following Text: \"He'll also constantly end his three electric talismans out to distract you. Sometimes he'll shoot them straight out with a punch to add damage with a blast, but he can also hold them in front of him to create an even bigger blast, or send it around his back to slam down with his tail.\n![Wukong YellowFlower 84.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Wukong_YellowFlower_84.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bb/Wukong_YellowFlower_85.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense moment from the game *Black Myth: Wukong*, showcasing the \"Hundred-Eyed Daoist Master\" mid-attack. The boss is unleashing a powerful glowing yellow energy blast, likely part of his signature move described in the preceding text, where he spreads his hands wide to create a giant tremor. The vibrant visuals emphasize the danger and scale of the attack, aligning with the narrative of the boss's aggressive and varied combat style. The player's health bar and abilities are visible, highlighting the gameplay mechanics during this challenging encounter."
+}

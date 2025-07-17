@@ -1,0 +1,28 @@
+{
+    "chunk_id": 721480686872,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg",
+    "alt_text": "Wukong Fright 41.jpg",
+    "position_desc": 9,
+    "img_above_text": "The next Mind Core is found at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. Directly to your right, there will be a set of stairs you can go up and a sand waterfall at the top. Head through and defeat Black Loong to get it.\nYou will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind the sand waterfall. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.",
+    "img_below_text": "### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"The next Mind Core is found at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. Directly to your right, there will be a set of stairs you can go up and a sand waterfall at the top. Head through and defeat Black Loong to get it.\nYou will need to obtain the Loong Scales from Chapter 2 - Yellow Wind Ridge before you are able to access the secret area behind the sand waterfall. This will require you to defeat the King of Flowing Sands and Second Rat Prince and First Prince of Flowing Sands. The video guide below will take you through how to obtain the Loong Scales.\"\n            - Following Text: \"### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Wukong_Fright_41.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a rocky, desert-like area with a sand waterfall cascading down a cliff, surrounded by rugged terrain and sparse vegetation. This location is part of the Rockrest Flat Shrine in Fright Cliff, Yellow Wind Ridge, as described in the preceding text. The sand waterfall marks the entrance to a secret area that requires the Loong Scales to access, obtained by defeating specific bosses in Chapter 2. The image visually represents the setting for the quest to retrieve a Mind Core, emphasizing the environmental and narrative context of the game."
+}

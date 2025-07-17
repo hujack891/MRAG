@@ -1,0 +1,28 @@
+{
+    "chunk_id": 519939120777,
+    "source_file": "Elder_Amourworm.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_13.jpg",
+    "alt_text": "Wukong MiddleHollow 13.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)\nIf you find yourself having trouble avoiding getting poisoned, consider using the Pillar Stance to boost yourself up off the ground.",
+    "img_below_text": "Otherwise, you can also try keeping your distance and strafing during initial poison volleys, and then rush back in so you don't have to dance around poison when getting close.\nWhen the Amourworm is defeated, you'll gain a Proto-Amourworm Key Item. It may seem mysterious, but it does have a use. Bring it to Chen Loong at the Zodiac Village, and then return later to find the tiny Amourworm in a little basket outside his shack. You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Elder_Amourworm.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)\nIf you find yourself having trouble avoiding getting poisoned, consider using the Pillar Stance to boost yourself up off the ground.\"\n            - Following Text: \"Otherwise, you can also try keeping your distance and strafing during initial poison volleys, and then rush back in so you don't have to dance around poison when getting close.\nWhen the Amourworm is defeated, you'll gain a Proto-Amourworm Key Item. It may seem mysterious, but it does have a use. Bring it to Chen Loong at the Zodiac Village, and then return later to find the tiny Amourworm in a little basket outside his shack. You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_MiddleHollow_13.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character engaged in combat with the Elder Amourworm, a large, grotesque enemy surrounded by eggs and skeletal remains in a dark, cavernous environment. The preceding and following text provides strategies for avoiding poison attacks during the fight, such as using the Pillar Stance or maintaining distance before rushing in. Defeating the Elder Amourworm rewards the player with the Proto-Amourworm Key Item, which has a later use in the Zodiac Village."
+}

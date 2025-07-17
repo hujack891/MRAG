@@ -1,0 +1,28 @@
+{
+    "chunk_id": 630034631895,
+    "source_file": "Flint_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Field_Fire_Walkthrough_%2824%29.png",
+    "alt_text": "Field Fire Walkthrough \\(24\\).png",
+    "position_desc": 5,
+    "img_above_text": "Whenever you're close to the Flint Vanguard, it will go into combo punches. These are typical punches to the ground, and occasionally it will slam both arms down together. These can be dodged, and you'll be able to keep close to the Vanguard temporarily until pools of lava appear -- that's when you want to dash away.\nIt shifts to ranged attacks when you try to create distance, in the form of fireballs. This will just be a single shot each time, so it's easiest to dodge. It will also attempt to close the gap by flying over to you and smashing down.",
+    "img_below_text": "When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Flint_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"Whenever you're close to the Flint Vanguard, it will go into combo punches. These are typical punches to the ground, and occasionally it will slam both arms down together. These can be dodged, and you'll be able to keep close to the Vanguard temporarily until pools of lava appear -- that's when you want to dash away.\nIt shifts to ranged attacks when you try to create distance, in the form of fireballs. This will just be a single shot each time, so it's easiest to dodge. It will also attempt to close the gap by flying over to you and smashing down.\"\n            - Following Text: \"When it starts to get enranged, it will slam its fists down and shake its head, sending out a barrage of fireballs. Run around when this occurs, to avoid as much of the fireballs as possible.\nGenerally, you want to stick close to the Vanguard, dodge the punches, and build up focus to perform heavy attacks. You can knock it over like this, where it will be on all fours, so you can target it while it's vulnerable.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Field_Fire_Walkthrough_%2824%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Flint Vanguard, a fiery, rock-like creature engulfed in flames, likely mid-action during its combat phase. The surrounding environment is a volcanic, barren landscape with lava flows and dark, jagged terrain. Based on the context, this scene illustrates the Vanguard's attack patterns, particularly its fiery abilities, such as fireball barrages or lava-related moves, emphasizing the danger and intensity of the encounter."
+}

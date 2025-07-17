@@ -1,0 +1,28 @@
+{
+    "chunk_id": 164467356509,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg",
+    "alt_text": "Wukong Turtle 9.jpg",
+    "position_desc": 8,
+    "img_above_text": "Another terrifying attack she can commence when you're at close range comes when she proclaims \"Yield... to your true self!\". Floating in the air, she'll create a large electric dome around her that continues to expand, meaning you'll want to break off the attack and retreat to a safe distance.\nNote that the field will also generate an electric ring along the ground to reach even farther that you'll need to jump or pillar stance over - but it also only moves along a flat horizontal axis, and standing on rocks or slope can often cause it to go under you.",
+    "img_below_text": "When appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.\n![Wukong Turtle 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_10.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"Another terrifying attack she can commence when you're at close range comes when she proclaims \"Yield... to your true self!\". Floating in the air, she'll create a large electric dome around her that continues to expand, meaning you'll want to break off the attack and retreat to a safe distance.\nNote that the field will also generate an electric ring along the ground to reach even farther that you'll need to jump or pillar stance over - but it also only moves along a flat horizontal axis, and standing on rocks or slope can often cause it to go under you.\"\n            - Following Text: \"When appearing to float up above you, watch carefully if she summons an electrical imbued spike in her hand. She'll fly down close to throw it at the ground, and even if you dodge you'll need to watch for when it creates a tremor to explode the ground around it.\n![Wukong Turtle 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Wukong_Turtle_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dramatic moment in *Black Myth: Wukong*, showcasing a boss battle against Kang Jin Star. The boss floats mid-air, surrounded by a burst of electric energy, likely initiating her \"Yield... to your true self!\" attack. The player character is seen retreating on snowy terrain, emphasizing the need to evade the expanding electric dome and ground-based electric ring described in the preceding text.\n\n2. **Purpose and Narrative Role**:  \nThe image visually represents Kang Jin Star's powerful electric attack, highlighting the danger and strategy required to survive. It serves to illustrate the mechanics described in the preceding and following text, where players must retreat and carefully navigate the environment to avoid damage."
+}

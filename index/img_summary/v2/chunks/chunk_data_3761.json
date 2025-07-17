@@ -1,0 +1,28 @@
+{
+    "chunk_id": 727563759191,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Yellow_49.jpg",
+    "alt_text": "Wukong Yellow 49.jpg",
+    "position_desc": 56,
+    "img_above_text": "![Wukong Yellow 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Yellow_48.jpg)\nOn the other side, you can spy the path leading back up to where the Xu Dog crafts medicines under the Crouching Tiger Temple on the far side of this area.",
+    "img_below_text": "To the left, you can find a path leading to a grotto and a familiar face, the Wise Master who imbued your gourd with the power to absorb Spirits.\n![Wukong Yellow 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Wukong_Yellow_50.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 56 from the file 'Yellow_Sand_Formation_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Yellow_48.jpg)\nOn the other side, you can spy the path leading back up to where the Xu Dog crafts medicines under the Crouching Tiger Temple on the far side of this area.\"\n            - Following Text: \"To the left, you can find a path leading to a grotto and a familiar face, the Wise Master who imbued your gourd with the power to absorb Spirits.\n![Wukong Yellow 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Wukong_Yellow_50.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2f/Wukong_Yellow_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character walking through a rocky, arid environment with a path leading to a wall adorned with statues. This scene is part of a walkthrough for the game \"Black Myth: Wukong,\" illustrating the area near the Crouching Tiger Temple where the Xu Dog crafts medicines. The following path leads to a grotto and the Wise Master, who has previously empowered the character's gourd with the ability to absorb Spirits."
+}

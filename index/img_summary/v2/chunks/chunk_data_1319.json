@@ -1,0 +1,28 @@
+{
+    "chunk_id": 238180056071,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Sahali_31.jpg",
+    "alt_text": "Wukong Sahali 31.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)\nOther attacks can include swipes with both hands that sweep side to side, so even if one hand swipes past, don’t get too confident in thinking the danger has passed in case another claw on the other side sweeps your way.",
+    "img_below_text": "Fuban can also rear back on its hind legs before slamming down to create a large shockwave, and will require a well-timed dodge, or you can turn into stone form to soak the blow.\n![Wukong Sahali 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Sahali_33.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Sahali_32.jpg)\nOther attacks can include swipes with both hands that sweep side to side, so even if one hand swipes past, don’t get too confident in thinking the danger has passed in case another claw on the other side sweeps your way.\"\n            - Following Text: \"Fuban can also rear back on its hind legs before slamming down to create a large shockwave, and will require a well-timed dodge, or you can turn into stone form to soak the blow.\n![Wukong Sahali 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Sahali_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Sahali_31.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showcasing the boss Fuban in an intense desert battle. Fuban is mid-attack, with its large claws sweeping across the sand, emphasizing the danger of its wide-reaching strikes mentioned in the preceding text. The player character is seen dodging or reacting to the attack, with the health bar and abilities visible in the UI. This scene highlights the need for precise timing and strategy to evade Fuban's powerful moves, as elaborated in the following text."
+}

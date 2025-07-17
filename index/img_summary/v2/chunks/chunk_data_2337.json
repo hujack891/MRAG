@@ -1,0 +1,28 @@
+{
+    "chunk_id": 903312475235,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg",
+    "alt_text": "Wukong Pagoda 65.jpg",
+    "position_desc": 62,
+    "img_above_text": "![Wukong Pagoda 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_63.jpg)\nOnce you reach the fourth level, the escape from this hell is closer than ever, but there's still one last stretch to cover.",
+    "img_below_text": "Head outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\n![Wukong Pagoda 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 62 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Wukong_Pagoda_63.jpg)\nOnce you reach the fourth level, the escape from this hell is closer than ever, but there's still one last stretch to cover.\"\n            - Following Text: \"Head outside the cells slowly, and you can poke a Blade Monk on the outside off the ledge he's standing on the edge of.\n![Wukong Pagoda 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Pagoda_66.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Pagoda_65.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in the game \"Black Myth: Wukong,\" where the protagonist is engaged in combat against a formidable enemy, likely a Blade Monk, near a large, ornate structure resembling a pagoda. This scene occurs as the player progresses through the fourth level, nearing the escape from a challenging area. The image captures the intensity of the battle, highlighting the protagonist's struggle to overcome obstacles and adversaries in the final stretch of this level."
+}

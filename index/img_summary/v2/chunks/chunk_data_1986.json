@@ -1,0 +1,28 @@
+{
+    "chunk_id": 668097529118,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/The_Rock_Sandgate_Bound_Meditation_Spot.jpg",
+    "alt_text": "The Rock Sandgate Bound Meditation Spot.jpg",
+    "position_desc": 9,
+    "img_above_text": "### The Rock, Sandgate Bound Meditation Spot\nThe Rock, Sandgate Bound Mediation Spot",
+    "img_below_text": "The Sandgate Bound Meditation Spot is in the secret area in Chapter 2. After defeating Fuban, explore the buildings around the perimeter of the desert area to find the last Meditation Spot. The Meditation Spot is on top of a rock on the leftmost side of the area.\n## The New West Meditation Spots (Chapter 3)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Rock, Sandgate Bound Meditation Spot\nThe Rock, Sandgate Bound Mediation Spot\"\n            - Following Text: \"The Sandgate Bound Meditation Spot is in the secret area in Chapter 2. After defeating Fuban, explore the buildings around the perimeter of the desert area to find the last Meditation Spot. The Meditation Spot is on top of a rock on the leftmost side of the area.\n## The New West Meditation Spots (Chapter 3)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/The_Rock_Sandgate_Bound_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene desert landscape with a player character standing on a rocky ledge near a barren tree, preparing to meditate. The \"Meditate\" prompt is visible, suggesting this is an interactive moment within a game. The surrounding environment includes sand dunes, distant pagodas, and a large Buddha statue, emphasizing a tranquil and spiritual atmosphere. Based on the context, this is the Sandgate Bound Meditation Spot, located in Chapter 2 of the game. Players access this spot after defeating Fuban and exploring the desert perimeter, marking a key narrative and gameplay milestone."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 384697809924,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Deadwood_Forest_Rockrest_Flat_Meditation_Spot.jpg",
+    "alt_text": "Deadwood Forest Rockrest Flat Meditation Spot.jpg",
+    "position_desc": 7,
+    "img_above_text": "### Deadwood Forest, Rockrest Flat Meditation Spot\nDeadwood Forest, Rockrest Flat Meditation Spot",
+    "img_below_text": "Rockrest Flat is a somewhat hidden area behind a breakable gate near the Rockrest Flat Keeper's Shrine. Head around to the right from the Shrine and fight your way to a small wooden gate. Break the gate to gain access to the flat.\nThere, you will find the Meditation Spot, along with the character you need to interact with to access the secret area in Chapter 2.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### Deadwood Forest, Rockrest Flat Meditation Spot\nDeadwood Forest, Rockrest Flat Meditation Spot\"\n            - Following Text: \"Rockrest Flat is a somewhat hidden area behind a breakable gate near the Rockrest Flat Keeper's Shrine. Head around to the right from the Shrine and fight your way to a small wooden gate. Break the gate to gain access to the flat.\nThere, you will find the Meditation Spot, along with the character you need to interact with to access the secret area in Chapter 2.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Deadwood_Forest_Rockrest_Flat_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene Meditation Spot located in Rockrest Flat, Deadwood Forest, as part of a game environment. The player character stands near a glowing meditation circle under a twisted tree, with an option to \"Meditate\" displayed. The surrounding area features rugged terrain and sparse vegetation. This location is accessed by breaking a wooden gate near the Rockrest Flat Keeper's Shrine and serves as a key point for progressing the narrative, including interacting with a character tied to a secret area in Chapter 2."
+}

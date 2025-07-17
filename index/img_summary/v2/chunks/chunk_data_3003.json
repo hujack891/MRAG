@@ -1,0 +1,28 @@
+{
+    "chunk_id": 334441433192,
+    "source_file": "Thunder_Tail.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Thunder_Tail.jpg",
+    "alt_text": "Thunder Tail.jpg",
+    "position_desc": 1,
+    "img_above_text": "Thunder Tail is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunder Tail can be used to craft the Loongwreathe Staff from the Shrine.",
+    "img_below_text": "To obtain the Thunder Tail, you need to defeat Red Loong in Forest of Wolves in Black Wind Mountain. You need the Loong Scales to be able to trigger this fight.\n![Wukong RedLoong 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Thunder_Tail.md'.\n\n            Context:\n            - Preceding Text: \"Thunder Tail is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Thunder Tail can be used to craft the Loongwreathe Staff from the Shrine.\"\n            - Following Text: \"To obtain the Thunder Tail, you need to defeat Red Loong in Forest of Wolves in Black Wind Mountain. You need the Loong Scales to be able to trigger this fight.\n![Wukong RedLoong 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_RedLoong_7.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Thunder_Tail.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" highlighting the \"Thunder Tail\" item. The Thunder Tail is described as an epic special crafting material that conjures thunder and lightning, used to craft unique gear such as the Loongwreathe Staff. The preceding text explains its role in crafting, while the following text details how to obtain it by defeating Red Loong in the Forest of Wolves."
+}

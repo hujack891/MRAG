@@ -1,0 +1,28 @@
+{
+    "chunk_id": 356632411763,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Secret_Bosses_Wukong_.png",
+    "alt_text": "Secret Bosses Wukong .png",
+    "position_desc": 19,
+    "img_above_text": "Giant Shigandang\n## Erlang, the Sacred Divinity",
+    "img_below_text": "In Chapter 3 of the game, you may have already visited The Great Pagoda. This is where tapestries are hung after you've completed chapters of the game.\nHowever, there is a final spot that can be unlocked if you meet the right conditions. You'll need to finish the secret areas from each chapter by beating the final bosses in each one and finish the questline for the Green-Capped Martialist from Chapter 3.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Giant Shigandang\n## Erlang, the Sacred Divinity\"\n            - Following Text: \"In Chapter 3 of the game, you may have already visited The Great Pagoda. This is where tapestries are hung after you've completed chapters of the game.\nHowever, there is a final spot that can be unlocked if you meet the right conditions. You'll need to finish the secret areas from each chapter by beating the final bosses in each one and finish the questline for the Green-Capped Martialist from Chapter 3.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Secret_Bosses_Wukong_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic scene from the game \"Black Myth: Wukong,\" showcasing a character in action with a spear in a snowy landscape. The setting includes a traditional pagoda, which may be significant in the game's narrative, particularly in Chapter 3 where players explore The Great Pagoda. This image likely represents a pivotal moment or location related to the questline involving secret areas and final bosses, as mentioned in the context."
+}

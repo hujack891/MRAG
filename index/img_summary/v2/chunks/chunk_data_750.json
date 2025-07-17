@@ -1,0 +1,28 @@
+{
+    "chunk_id": 302557032971,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg",
+    "alt_text": "Sky-Piercing Horn .jpg",
+    "position_desc": 18,
+    "img_above_text": "![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)\n![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)",
+    "img_below_text": "• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Thunderbone.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Thunderbone.jpg)| Thunderbone| Epic | Special crafting material | • In the chest after defeating Black Loong behind sand waterfall in Fright Cliff - Rockrest Flat in Yellow Wind Ridge ( Loong Scales required)\n![Heart of Stone .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Heart_of_Stone_.jpg)| Heart of Stone| Rare | Special crafting material | • Defeat Shigandang in Fright Cliff - Rock Clash Platform (secret boss) in Yellow Wind Ridge (requires collecting all six Buddha's Eyeballs)\"\n            - Following Text: \"• Defeat The Scorpionlord in The Webbed Hollow\n• Complete Chapter 4\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Sky-Piercing_Horn_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a unique crafting material, likely named or associated with \"The Scorpionlord,\" given the surrounding context. It appears to be an intricate, scorpion-like artifact resting on a twisted base, suggesting its importance as a rare or special item in the game *Black Myth: Wukong*. Based on the preceding and following text, this material is obtained by defeating The Scorpionlord in The Webbed Hollow and completing Chapter 4, indicating its role in progressing the storyline or crafting powerful items."
+}

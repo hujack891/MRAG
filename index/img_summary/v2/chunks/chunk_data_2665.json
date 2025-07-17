@@ -1,0 +1,28 @@
+{
+    "chunk_id": 529019820092,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg",
+    "alt_text": "Wukong Snowhill 11.jpg",
+    "position_desc": 10,
+    "img_above_text": "### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)\nYou can consider this one half of a real boss fight, since you won't actually defeat this miniboss here. Despite that, the Macaque Chief is not to be taken lightly. Many of his attacks inflict Frost, and if your bar fills, you'll have extremely reduced mobility and be unable to dodge many of his attacks. Plan ahead by crafting or buying Body-Warming Pills to offset this.",
+    "img_below_text": "The Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"### Yaoguai Chief Miniboss Fight - Macaque Chief (First Encounter)\nYou can consider this one half of a real boss fight, since you won't actually defeat this miniboss here. Despite that, the Macaque Chief is not to be taken lightly. Many of his attacks inflict Frost, and if your bar fills, you'll have extremely reduced mobility and be unable to dodge many of his attacks. Plan ahead by crafting or buying Body-Warming Pills to offset this.\"\n            - Following Text: \"The Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.\n![Wukong Snowhill 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in a miniboss fight against the Macaque Chief. The character is shown in a snowy landscape, wielding a weapon with a fiery aura, while the Macaque Chief is in the background, initiating an attack that creates a visible shockwave or projectile. The image illustrates the intense and challenging nature of the encounter, emphasizing the need for strategic preparation to counter the Macaque Chief's frost-inflicting attacks."
+}

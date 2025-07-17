@@ -1,0 +1,28 @@
+{
+    "chunk_id": 647868238611,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg",
+    "alt_text": "Wukong Sandgate 41.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Sandgate 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg)\nIt will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.",
+    "img_below_text": "It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Earth_Wolf.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg)\nIt will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.\"\n            - Following Text: \"It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene from the game *Black Myth: Wukong*, showcasing the player character engaging in a battle against the \"Earth Wolf,\" a large, menacing creature with sharp horns and a feral appearance. The surrounding environment features a desolate landscape with dry grass, twisted trees, and a traditional pagoda structure in the background, emphasizing the game's atmospheric and mythological setting. The preceding and following text describe the Earth Wolf's attack patterns, including its leaping headbutt and short-distance pounce, offering tactical advice for players to evade and counter its moves effectively."
+}

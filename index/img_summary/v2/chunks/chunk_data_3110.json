@@ -1,0 +1,28 @@
+{
+    "chunk_id": 651972451249,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Brook_9.jpg",
+    "alt_text": "Wukong Brook 9.jpg",
+    "position_desc": 49,
+    "img_above_text": "![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nBe sure to follow the path of the brook to harvest more plants and deal with Frozen Corpses and Golden Lotus Guai along the way.",
+    "img_below_text": "Once you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 49 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nBe sure to follow the path of the brook to harvest more plants and deal with Frozen Corpses and Golden Lotus Guai along the way.\"\n            - Following Text: \"Once you reach an apparent cliff edge, beware of a Frozen Corpse hiding in an overturned bell, and check the inside to find a green Wisp to absorb.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Brook_9.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is exploring a snowy landscape near a large, overturned bell. The bell contains green Wisps that the player can absorb. The preceding text advises following the brook to gather plants and combat enemies, while the following text warns of a Frozen Corpse hiding in the bell and suggests absorbing the green Wisps inside."
+}

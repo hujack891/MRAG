@@ -1,0 +1,28 @@
+{
+    "chunk_id": 610079706642,
+    "source_file": "Webbed_Hollow_-_Lower_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_LowerHollow_19.jpg",
+    "alt_text": "Wukong LowerHollow 19.jpg",
+    "position_desc": 19,
+    "img_above_text": "![Wukong LowerHollow 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_LowerHollow_18.jpg)\nOnce you reach the bottom, you'll find a passageway to a wooden ledge overlooking a home set around a large purple-flowering tree. You're just in time to see the Second Sister return with a very docile Zhu Bajie, completely under a spell thanks to the Sage's Relic. It seems he's all set to be married to the mother of spiders, which doesn't really sound good.",
+    "img_below_text": "Once the scene concludes, you'll find a new pathway to the left of the balcony. Be sure to grab a green Wisp hovering on a high ledge before dropping down into an underground tunnel.\n![Wukong LowerHollow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_LowerHollow_20.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Webbed_Hollow_-_Lower_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong LowerHollow 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_LowerHollow_18.jpg)\nOnce you reach the bottom, you'll find a passageway to a wooden ledge overlooking a home set around a large purple-flowering tree. You're just in time to see the Second Sister return with a very docile Zhu Bajie, completely under a spell thanks to the Sage's Relic. It seems he's all set to be married to the mother of spiders, which doesn't really sound good.\"\n            - Following Text: \"Once the scene concludes, you'll find a new pathway to the left of the balcony. Be sure to grab a green Wisp hovering on a high ledge before dropping down into an underground tunnel.\n![Wukong LowerHollow 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_LowerHollow_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_LowerHollow_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist navigating through a rocky and dimly lit underground area. The character is approaching a lit pathway, with a green Wisp highlighted in the distance. This image follows a narrative moment where the Second Sister returns with Zhu Bajie under a spell, and precedes the discovery of a new pathway and the collection of the green Wisp before entering an underground tunnel. The image serves to illustrate the next steps in the player's journey through the Lower Hollow area."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 436391719147,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg",
+    "alt_text": "Back Scratcher .jpg",
+    "position_desc": 4,
+    "img_above_text": "![Cat Eye Beads .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Cat_Eye_Beads_.jpg)| Cat Eye Beads| Rare | Slightly increases critical hit chance | Defeat Wandering Wight in the Forest of Wolves - Outside the Forest in Black Wind Mountain | Cat Eye Beads\n![Agate Jar.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg)| Agate Jar| Rare | Moderately increases defense | Located in a box in the arena after fighting the Black Wind King in Black Wind Cave - Cave Interior in Black Wind Mountain | Agate Jar",
+    "img_below_text": "![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant\n![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Cat Eye Beads .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Cat_Eye_Beads_.jpg)| Cat Eye Beads| Rare | Slightly increases critical hit chance | Defeat Wandering Wight in the Forest of Wolves - Outside the Forest in Black Wind Mountain | Cat Eye Beads\n![Agate Jar.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Agate_Jar.jpg)| Agate Jar| Rare | Moderately increases defense | Located in a box in the arena after fighting the Black Wind King in Black Wind Cave - Cave Interior in Black Wind Mountain | Agate Jar\"\n            - Following Text: \"![Tridacna Pendant.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Tridacna_Pendant.jpg)| Tridacna Pendant| Rare | Slightly reduces cooldown of all spells | Defeat Black Loong behind the sand waterfall at Fright Cliff - Rockrest Flat (secret boss) in Yellow Wind Ridge (requires Loong Scales) | Tridacna Pendant\n![Glazed Reliliquary.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Glazed_Reliliquary.jpg)| Glazed Reliquary| Rare | While perfect dodging, recovers a small ammount of stamina | Located in the cave past the Tiger Acolyte in Yellow Sand Formation - Windrest Hamlet in Yellow Wind Ridge | Glazed Reliquary\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Back_Scratcher_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a wooden staff-like object with a claw-shaped top, adorned with red wrappings and a green bead. Based on the context, it is likely an in-game item from *Black Myth: Wukong*, fitting the pattern of rare or unique artifacts with specific effects or uses. Positioned between descriptions of the \"Agate Jar\" and \"Tridacna Pendant,\" it is likely another collectible or equipment piece with a distinct ability or enhancement, contributing to the player's progression or combat strategy."
+}

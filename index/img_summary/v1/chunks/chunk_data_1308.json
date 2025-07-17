@@ -1,31 +1,6 @@
 {
-    "chunk_id": 883810892856,
-    "source_file": "Fuban.md",
-    "h1_title": "Fuban",
-    "h2_title": "Where to Find Fuban",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
-    "alt_text": "Wukong Sahali 10.jpg",
-    "position_desc": 9,
-    "img_above_text": "# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Where to Find Fuban\nThe Kingdom of Sahali is a Chapter 2 Secret area that can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).\n\nThe Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\n\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 9 from the file 'Fuban.md', located under Where to Find Fuban.\n\n                Metadata:\n                - Document Title: Fuban\n                - Section Title: Where to Find Fuban\n                - Alt Text: Wukong Sahali 10.jpg\n\n                Context:\n                - Preceding Text: \"# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Where to Find Fuban\nThe Kingdom of Sahali is a Chapter 2 Secret area that can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the \"Realm of Gold\" which requires a few steps (and for you to best him in combat).\n\nThe Boar will actually return to near where you first met him at the Rockrest Flat area of the Fright Cliff. However, instead of sitting on a rock, he’ll now be standing over by the stairs leading to a large door you can’t access yet.\n\nUnfortunately, he’s not too pleased that you’re in possession of the gold, and will challenge you to a duel. Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate up the stairs.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a boar-like character standing near a large, ancient door in a rocky environment. This character is likely the \"Yellow-Robed Square\" or \"Drunken Boar\" mentioned in the preceding text, who plays a key role in accessing the secret area in the Kingdom of Sahali in Chapter 2 of Black Myth Wukong. The boar appears to be in a confrontational stance, which aligns with the narrative of challenging the player to a duel before allowing access to the Realm of Gold."
+    "chunk_id": 380415782662,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9f/Chapter_One_Secret_Area_%289%29.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a character named \"Elder Jinchi,\" as indicated by the text overlay. Elder Jinchi is a large, imposing figure with a bald head, adorned with spikes protruding from his scalp. His face is marked with deep, dark lines that resemble cracks, and he has several metal studs embedded in his chin. The environment is dark and atmospheric, featuring twisted trees and traditional architecture, suggesting a setting that may be mystical or ancient. There is also text in a foreign script on the right side of the image, which may provide additional context or information relevant to the game. The character's presence and the setting imply a significant encounter, possibly a boss battle or an important narrative moment in the game."
 }

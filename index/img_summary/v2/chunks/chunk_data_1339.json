@@ -1,0 +1,28 @@
+{
+    "chunk_id": 830318599082,
+    "source_file": "Fungiwoman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Fungiwoman_Power.jpg",
+    "alt_text": "Fungiwoman Power.jpg",
+    "position_desc": 3,
+    "img_above_text": "This is bad enough already, but she also has an attack where she shoots spores out over the arena that target and hurt you. These spores replenish the Fungiwoman's health. The trick here is to fight aggressively so she doesn't have time to replenish much HP. Otherwise, it can drag on for a very long time.\n## Fungiwoman Spirit",
+    "img_below_text": "* **Aloft**\n* Equipped Effect: Significantly increases Maximum Health but considerably reduces Maximum Stamina.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Fungiwoman_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"This is bad enough already, but she also has an attack where she shoots spores out over the arena that target and hurt you. These spores replenish the Fungiwoman's health. The trick here is to fight aggressively so she doesn't have time to replenish much HP. Otherwise, it can drag on for a very long time.\n## Fungiwoman Spirit\"\n            - Following Text: \"* **Aloft**\n* Equipped Effect: Significantly increases Maximum Health but considerably reduces Maximum Stamina.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Fungiwoman_Power.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Fungiwoman Spirit\" in a game's equipment menu. It highlights its abilities, including the power to release spores that damage enemies and restore health, as well as its equipped effect, which significantly increases maximum health at the cost of reduced stamina. The interface also provides a demo option to preview the spirit's abilities.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a detailed overview of the Fungiwoman Spirit, emphasizing its utility in combat. It aligns with the preceding text, which describes the challenges of battling the Fungiwoman, and the following text, which elaborates on the spirit's equipped effect. This reinforces its role as a strategic option for players to enhance survivability while managing stamina trade-offs."
+}

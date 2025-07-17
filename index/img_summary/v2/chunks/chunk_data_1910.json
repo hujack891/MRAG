@@ -1,0 +1,28 @@
+{
+    "chunk_id": 489915353894,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg",
+    "alt_text": "Wukong Rattle 1.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\nYou will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.",
+    "img_below_text": "* The first location is further back in the Windrest Hamlet. Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses.\n![Wukong MadTiger 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Mad_Tiger_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_Yellow_25.jpg)\nYou will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\"\n            - Following Text: \"* The first location is further back in the Windrest Hamlet. Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses.\n![Wukong MadTiger 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_MadTiger_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character from *Black Myth: Wukong* navigating a grassy path in a dimly lit village area, with an arrow indicating the direction to proceed. The environment features traditional Chinese architecture, overgrown vegetation, and a large tree-like structure. HUD elements show the player's abilities and resources, including \"Will\" at 45.\n\n2. **Purpose, Content, or Narrative Role**:  \nThis image serves as a visual guide to direct players to the next location in the quest to summon spirits using the drum. The preceding text mentions the need to find areas where vision warps and ghostly voices are heard, while the following text specifies the first location near the Windrest Hamlet Shrine. The arrow in the image provides a clear indication of the path to follow toward the quest objective."
+}

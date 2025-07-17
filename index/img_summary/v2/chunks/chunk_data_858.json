@@ -1,0 +1,28 @@
+{
+    "chunk_id": 133116240215,
+    "source_file": "Cyan_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Wukong_Turtle_35.jpg",
+    "alt_text": "Wukong Turtle 35.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Turtle 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Turtle_33.jpg)\nWith his freshly empowered sword, Cyan Loong will deal more damage than ever before. A single sword swing can cleave your health apart, and if you already have the shock status effect, you can easily die in a single hit if you aren't careful. Be sure to counter this new phase with Evil Repelling Medicament to increase your defense, and have Shock-Quelling Powder on hand for any moment you do get the status effect.",
+    "img_below_text": "Several of his moves have also been improved. His electric palm strike for instance now causes several lightning strikes in front of him, up from just a single blast, requiring you to dodge around to his sides instead of backward.\nIf he begins to hold his sword back while pointing at you, the air will crackle around him preventing you from getting close, and his two-handed sword swing will also unleash an electric projectile slash you'll need to evade.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Turtle_33.jpg)\nWith his freshly empowered sword, Cyan Loong will deal more damage than ever before. A single sword swing can cleave your health apart, and if you already have the shock status effect, you can easily die in a single hit if you aren't careful. Be sure to counter this new phase with Evil Repelling Medicament to increase your defense, and have Shock-Quelling Powder on hand for any moment you do get the status effect.\"\n            - Following Text: \"Several of his moves have also been improved. His electric palm strike for instance now causes several lightning strikes in front of him, up from just a single blast, requiring you to dodge around to his sides instead of backward.\nIf he begins to hold his sword back while pointing at you, the air will crackle around him preventing you from getting close, and his two-handed sword swing will also unleash an electric projectile slash you'll need to evade.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Wukong_Turtle_35.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense boss battle in *Black Myth: Wukong* against Cyan Loong, a formidable enemy wielding a lightning-imbued sword. The scene highlights the chaotic environment with lightning strikes and the player character preparing to counter the boss's enhanced attacks. This moment emphasizes the danger of Cyan Loong's upgraded abilities, including powerful sword swings and electric projectiles, as described in the surrounding text."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 107007789793,
+    "source_file": "Puppet_Tick_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Puppet_Tick_Location_.jpg",
+    "alt_text": "Puppet Tick Location .jpg",
+    "position_desc": 2,
+    "img_above_text": "The Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.\nCast Cloud Step on the bridge to make it past the hanging web sacks!",
+    "img_below_text": "Activate the Relief of the Fallen Loong Keeper's Shrine and head left to explore the cave. Follow the path to the right in the cave to find the Puppet Tick.\n## Puppet Tick Fight",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Puppet_Tick_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Puppet Tick can be found near the Relief of the Fallen Loong. To get there, start by defeating the Buddha's Right Hand. Run over the bridge it creates and drop to the platform below. Turn right and head over the rope bridge on the left. Make your way past the hanging webs over the next rope bridge and escape to the forest.\nCast Cloud Step on the bridge to make it past the hanging web sacks!\"\n            - Following Text: \"Activate the Relief of the Fallen Loong Keeper's Shrine and head left to explore the cave. Follow the path to the right in the cave to find the Puppet Tick.\n## Puppet Tick Fight\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Puppet_Tick_Location_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character in a dark, web-filled environment, seemingly pointing towards a cave entrance with a red arrow. This visual guide is meant to help players navigate through the game, directing them to the cave where they can find the Puppet Tick, as described in the preceding and following text. The context indicates that this is part of a sequence leading to a significant encounter or fight in the game."
+}

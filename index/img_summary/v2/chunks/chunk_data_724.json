@@ -1,0 +1,28 @@
+{
+    "chunk_id": 222500609187,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Black-myth-wukong-Septenary-Heartfire-Pill.jpg",
+    "alt_text": "Black-myth-wukong-Septenary-Heartfire-Pill.jpg",
+    "position_desc": 21,
+    "img_above_text": "• 1 Purple Lingzhi\n• 1 Aged Ginseng | Loong Aura Amplification Pellets",
+    "img_below_text": "• 1 Flame Orb\n• 1 Fire Date | Septenary Heartfire Pill",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"• 1 Purple Lingzhi\n• 1 Aged Ginseng | Loong Aura Amplification Pellets\"\n            - Following Text: \"• 1 Flame Orb\n• 1 Fire Date | Septenary Heartfire Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Black-myth-wukong-Septenary-Heartfire-Pill.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a small, intricately designed figurine resembling a mythical creature or deity, likely crafted from a material that gives it a yellowish hue. This figurine appears to be part of a collection of consumable items listed in the file 'Consumable_Items.md'. The preceding and following text suggest that the figurine might be associated with mystical or medicinal properties, similar to items like Purple Lingzhi, Aged Ginseng, Flame Orb, and Fire Date, which are used for aura amplification and heartfire enhancement. The figurine could symbolize or be used in rituals involving these consumable items."
+}

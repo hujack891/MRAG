@@ -1,0 +1,28 @@
+{
+    "chunk_id": 33852928625,
+    "source_file": "Yellow_Wind_Sage.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_73.jpg",
+    "alt_text": "Wukong Yellow 73.jpg",
+    "position_desc": 24,
+    "img_above_text": "![Wukong Yellow 70.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Yellow_70.jpg)\nA fully charged heavy thrust with a few focus points built up can also usually stagger him to the ground, and give you plenty more time to follow up with big hits, Spirit attacks, and Transformation Spells (we recommend sticking with Red Tides due to his mobility for chasing him down).",
+    "img_below_text": "When the giant rat sage finally falls to your weapon, an unexpected twist will happen as the owner of the head suddenly appears to claim that which had been taken.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Yellow_Wind_Sage.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 70.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_Yellow_70.jpg)\nA fully charged heavy thrust with a few focus points built up can also usually stagger him to the ground, and give you plenty more time to follow up with big hits, Spirit attacks, and Transformation Spells (we recommend sticking with Red Tides due to his mobility for chasing him down).\"\n            - Following Text: \"When the giant rat sage finally falls to your weapon, an unexpected twist will happen as the owner of the head suddenly appears to claim that which had been taken.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_73.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a significant moment in the narrative where a character, adorned in ornate attire, holds a glowing skull. The accompanying text suggests that this scene occurs after defeating a giant rat sage, leading to an unexpected twist where the owner of the skull appears to claim it, indicating its importance and the player's worthiness to keep it. This moment likely serves as a pivotal plot point, emphasizing the significance of the skull and the player's achievement."
+}

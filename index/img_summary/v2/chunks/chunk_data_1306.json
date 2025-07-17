@@ -1,0 +1,28 @@
+{
+    "chunk_id": 940125597889,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg",
+    "alt_text": "Wukong Fright 34.jpg",
+    "position_desc": 3,
+    "img_above_text": "In this large open field, you’ll find a friendly boar-like Guai resting on a rock. He’s apparently extremely inebriated, and needs you to help him find something to sober him up. He’ll mention “Windrest” if you talk to him again, providing a clue to where you can find such an ingredient.\nThere are two ways to get the item required:",
+    "img_below_text": "* If you complete the Man-in-Stone’s questline, you’ll find that the Man-in-Stone sells a **Sobering Stone** if you don’t want to explore.\n![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"In this large open field, you’ll find a friendly boar-like Guai resting on a rock. He’s apparently extremely inebriated, and needs you to help him find something to sober him up. He’ll mention “Windrest” if you talk to him again, providing a clue to where you can find such an ingredient.\nThere are two ways to get the item required:\"\n            - Following Text: \"* If you complete the Man-in-Stone’s questline, you’ll find that the Man-in-Stone sells a **Sobering Stone** if you don’t want to explore.\n![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is interacting with a mystical stone formation in a dimly lit cave. The preceding and following text suggests that this image is part of a quest involving a drunken Guai who needs help finding a Sobering Stone to sober up. The player can obtain this item through exploration or by completing the Man-in-Stone’s questline. The image likely illustrates a moment of discovery or interaction with the environment related to this quest."
+}

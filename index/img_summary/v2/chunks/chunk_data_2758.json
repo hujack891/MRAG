@@ -1,0 +1,28 @@
+{
+    "chunk_id": 728632159647,
+    "source_file": "Spearbone_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Spearbone_Stairs.jpg",
+    "alt_text": "Spearbone Stairs.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Spearbone Location\nSpearbone can be found lurking outside the sand waterfall in Yellow Wind Ridge. To find him, make your way to the Rockrest Flat Keeper's Shrine. Turn right (if you're facing the Shrine) and run up the staircase you will find there to reach a small platform. Spearbone will be waiting on the platform.",
+    "img_below_text": "## Spearbone Fight\nSpearbone fights like all of the other enemies of his kind in Yellow Wind Ridge. To defeat him while taking minimal damage, keep your distance and wait for him to charge at you with his shield. Wait until he is right in front of you with his shield raised and dodge to the side. Turn around quickly, run to Spearbone, and land a combo on his back before he turns back around. Repeat this process until he is bested.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Spearbone_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Spearbone Location\nSpearbone can be found lurking outside the sand waterfall in Yellow Wind Ridge. To find him, make your way to the Rockrest Flat Keeper's Shrine. Turn right (if you're facing the Shrine) and run up the staircase you will find there to reach a small platform. Spearbone will be waiting on the platform.\"\n            - Following Text: \"## Spearbone Fight\nSpearbone fights like all of the other enemies of his kind in Yellow Wind Ridge. To defeat him while taking minimal damage, keep your distance and wait for him to charge at you with his shield. Wait until he is right in front of you with his shield raised and dodge to the side. Turn around quickly, run to Spearbone, and land a combo on his back before he turns back around. Repeat this process until he is bested.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Spearbone_Stairs.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing near a shrine with a lit incense offering in a rugged, rocky environment. The staircase leading up to a small platform in the background aligns with the preceding text's description of the path to find Spearbone at Yellow Wind Ridge. The image serves to visually guide players on the location and approach to encountering Spearbone, enhancing the narrative of the journey and preparation for the upcoming fight."
+}

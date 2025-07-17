@@ -1,0 +1,28 @@
+{
+    "chunk_id": 712773730504,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
+    "alt_text": "Snow Fox Questline .png",
+    "position_desc": 3,
+    "img_above_text": "![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.",
+    "img_below_text": "When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(4\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Snow_Fox_Questline_%284%29.png)\nApproach the body and interact with it, to learn about the fox guai whose soul resides in it. You'll need to keep prompting the fox to talk throughout this interaction, to learn the entire story of the fox being caught in a hunter's trap and rescued by a young scholar. Despite the fox trying to thank the scholar by helping him, the scholar ended up taking the fox's life. With revenge in mind, the fox has managed to track down the scholar, who is now a monk in the New Thunderclap Temple – a place you'll conveniently be visiting soon.\"\n            - Following Text: \"When the story is over, examine the body and the fox will beg you to transform and wear the fur so you can confront the monk. After this, you'll automatically become the fox, and receive a Snow Fox Brush special item.\n### Returning to Fox Form\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Snow_Fox_Questline_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy, forested area with a wooden path leading to a body lying against a wooden structure, illuminated by torches. The scene is part of the Snow Fox Questline in the game \"Black Myth: Wukong,\" where the player approaches the body to interact with the soul of a fox guai. This interaction reveals the fox's tragic backstory involving a hunter's trap, a young scholar, and a quest for revenge. The player is prompted to transform into the fox to confront the monk responsible for the fox's demise."
+}

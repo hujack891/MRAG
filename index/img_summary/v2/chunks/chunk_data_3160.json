@@ -1,0 +1,28 @@
+{
+    "chunk_id": 872305428989,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Longevity_3.jpg",
+    "alt_text": "Wukong Longevity 3.jpg",
+    "position_desc": 99,
+    "img_above_text": "At range, he can also tear up a huge rock from the ground and throw your way, making him a threat even at a distance (though the rock flies pretty slow).\nDeal enough damage, and the giant will eventually fall to the ground. Use this time to build up several focus points by attacking his head, and Spirit attacks to take more health away.",
+    "img_below_text": "As he struggles to rise, unleash a heavy attack using your Pillar Stance on his head and he'll likely topple back to the ground giving you a bit more time to defeat him.\n![Wukong Longevity 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Longevity_4.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 99 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"At range, he can also tear up a huge rock from the ground and throw your way, making him a threat even at a distance (though the rock flies pretty slow).\nDeal enough damage, and the giant will eventually fall to the ground. Use this time to build up several focus points by attacking his head, and Spirit attacks to take more health away.\"\n            - Following Text: \"As he struggles to rise, unleash a heavy attack using your Pillar Stance on his head and he'll likely topple back to the ground giving you a bit more time to defeat him.\n![Wukong Longevity 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Longevity_4.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Longevity_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a moment in a video game where a giant enemy has been knocked down and is struggling to rise. The player is advised to take advantage of this situation by attacking the giant's head to build focus points and deal significant damage using Spirit attacks. The context suggests that this is a critical opportunity to weaken the giant further before it can recover and pose a threat again."
+}

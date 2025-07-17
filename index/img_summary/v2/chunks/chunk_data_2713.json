@@ -1,0 +1,28 @@
+{
+    "chunk_id": 766604768533,
+    "source_file": "Snow_Fox_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png",
+    "alt_text": "Snow Fox Questline \\(12\\).png",
+    "position_desc": 8,
+    "img_above_text": "![Snow Fox Questline \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Snow_Fox_Questline_%2810%29.png)\nHead through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.",
+    "img_below_text": "When you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.\n![Snow Fox Questline \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Snow_Fox_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Snow Fox Questline \\(10\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Snow_Fox_Questline_%2810%29.png)\nHead through to the other side, where you'll see two sets of stairs. Take the ones on the left, and go up.\"\n            - Following Text: \"When you get to the top, turn right and look for the stairs on the left just up ahead. Go down these and straight across into the building.\n![Snow Fox Questline \\(14\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Snow_Fox_Questline_%2814%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Snow_Fox_Questline_%2812%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy courtyard with a character in red attire holding a staff, following two other characters towards a set of stairs. The setting features traditional Asian architecture, suggesting a temple or historical site. The preceding text instructs the player to take the stairs on the left and go up, while the following text directs them to turn right at the top and find another set of stairs to descend. This image serves as a visual guide for navigating the Snow Fox Questline in the game \"Black Myth: Wukong,\" helping players identify the correct path and landmarks."
+}

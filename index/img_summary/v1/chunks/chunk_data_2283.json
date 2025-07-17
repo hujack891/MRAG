@@ -1,31 +1,6 @@
 {
-    "chunk_id": 762464328755,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Upper Pagoda (Level 3)",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
-    "alt_text": "Wukong Pagoda 57.jpg",
-    "position_desc": 53,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 53 from the file 'Pagoda_Realm_Walkthrough.md', located under Upper Pagoda (Level 3).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Upper Pagoda (Level 3)\n                - Alt Text: Wukong Pagoda 57.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\n\nHowever you get across, you can find an entrance into the cell tunnel leading to where the archer was stationed, and encounter a Red-Haired Yaksha guarding a green Wisp to absorb, which is helpful for getting back some of your healing gourd after the fight.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_57.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from a video game, specifically from the \"Upper Pagoda (Level 3)\" section of a walkthrough titled \"The Beguiling Chant of the Pagoda Realm.\" The character, armed with a glowing staff, is navigating through a dimly lit, rocky tunnel. The image likely illustrates the player's journey through the cell tunnel mentioned in the preceding text, where they are approaching a Red-Haired Yaksha guarding a green Wisp, which is crucial for replenishing the healing gourd. The visual aids in understanding the environment and challenges faced at this stage of the game."
+    "chunk_id": 142353351427,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Verdant_Glow_Spirit.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the equipment menu from a video game, focusing on a rare item called \"Verdant Glow.\" This item has a high Qi cost and allows the player to take the form of a tree, absorbing the essence of nature to continuously recover health, with enhanced effects when in water. The equipped effect slowly recovers a small amount of health. The menu shows various spirits available for selection, each represented by an icon. The player's level is 102, with detailed basic attributes such as health, mana, stamina, attack, and defense displayed on the right side. Additionally, there are resistances to different types of damage, including chill, burn, poison, and shock. The interface provides options to equip the item, watch a demo, and sort spirits by acquisition order."
 }

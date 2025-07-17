@@ -1,0 +1,28 @@
+{
+    "chunk_id": 668708340740,
+    "source_file": "Foothills_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png",
+    "alt_text": "Foothills Walkthrough \\(18\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Foothills Walkthrough \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Foothills_Walkthrough_%2821%29.png)\nThe biggest change from here on out is that it introduces a fiery unicycle into the mix. This will make it easier for him to move around the arena, but he'll also kick it out and send this to attack you independently. When this is introduced, he'll be able to burn you.",
+    "img_below_text": "The problem with this attack is there are two types of heavy attacks he'll perform here and they can be hard to avoid.\n![Foothills Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Foothills_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(21\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Foothills_Walkthrough_%2821%29.png)\nThe biggest change from here on out is that it introduces a fiery unicycle into the mix. This will make it easier for him to move around the arena, but he'll also kick it out and send this to attack you independently. When this is introduced, he'll be able to burn you.\"\n            - Following Text: \"The problem with this attack is there are two types of heavy attacks he'll perform here and they can be hard to avoid.\n![Foothills Walkthrough \\(22\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Foothills_Walkthrough_%2822%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Foothills_Walkthrough_%2818%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene from *Black Myth: Wukong*, featuring a fiery unicycle attack introduced by the enemy. The unicycle emits flames and sparks, creating a hazardous environment for the player character, who is seen preparing to engage the enemy amidst the chaotic terrain. This visual highlights the enemy's ability to use fire-based attacks, adding complexity to the battle."
+}

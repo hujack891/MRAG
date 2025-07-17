@@ -1,0 +1,28 @@
+{
+    "chunk_id": 605098210138,
+    "source_file": "Whiteclad_Noble.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_Bamboo_53.jpg",
+    "alt_text": "Wukong Bamboo 53.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Bamboo 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bamboo_52.jpg)\nInstead of the previous spear twirling to create waves of force, he’ll get more aggressive, and rise up out of the water to slash back and forth to create several diagonal waves that are a bit harder to dodge than his old vertical slices.",
+    "img_below_text": "In addition to this, he can twirl his spear above his head, summoning water above it before slamming it down, sending a straight line of water right at you that you can dodge to the side to avoid.\nBeyond that, the rest of the second phase of this fight will come down to anticipating how his body twists before he unleashes his sweep attacks. Keep close and aggressive to dodge around to his sides, using your spells to amplify your attacks, and looking for the right moment to invoke your Spirit Attacks (the Wandering Wight is still a good choice when he’s stationary to flatten him).",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Whiteclad_Noble.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bamboo_52.jpg)\nInstead of the previous spear twirling to create waves of force, he’ll get more aggressive, and rise up out of the water to slash back and forth to create several diagonal waves that are a bit harder to dodge than his old vertical slices.\"\n            - Following Text: \"In addition to this, he can twirl his spear above his head, summoning water above it before slamming it down, sending a straight line of water right at you that you can dodge to the side to avoid.\nBeyond that, the rest of the second phase of this fight will come down to anticipating how his body twists before he unleashes his sweep attacks. Keep close and aggressive to dodge around to his sides, using your spells to amplify your attacks, and looking for the right moment to invoke your Spirit Attacks (the Wandering Wight is still a good choice when he’s stationary to flatten him).\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_Bamboo_53.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from *Black Myth: Wukong*, showcasing the player character battling the \"Whiteclad Noble\" boss in a water-filled environment. The boss, a serpent-like figure, is seen unleashing a water-based attack, emphasizing its aggressive second-phase abilities, such as diagonal wave slashes and spear twirling to summon water. The context highlights strategies for dodging and countering these attacks, encouraging close combat and the use of spells and Spirit Attacks to exploit openings during the fight."
+}

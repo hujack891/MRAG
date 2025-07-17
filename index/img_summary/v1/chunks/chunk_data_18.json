@@ -1,31 +1,6 @@
 {
-    "chunk_id": 557061863545,
-    "source_file": "Ashen_Slumber.md",
-    "h1_title": "Ashen Slumber",
-    "h2_title": "",
-    "h3_title": "",
+    "chunk_id": 740457924354,
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Black-myth-wukong-ashen-slumber-3.jpg",
-    "alt_text": "Black-myth-wukong-ashen-slumber-3.jpg",
-    "position_desc": 2,
-    "img_above_text": "# Ashen Slumber\nAshen Slumber is one of the best Transformation Spells in Black Myth: Wukong for crowd control and dealing sustained damage. It has a solid basic combo, a fantastic heavy attack, and a self-destruct attack that can completely destroy groups of enemies.\nWith it, you can transform into a rat guai, slashing at the enemy while blowing fierce flames at them, inflicting Scorch Bane. Focus built up before transformation can be converted for use afterwards within the rat guai's form.\nAshen Slumber's moveset is as follows:\n* **Light Attack: Chop Wood - Swing the iron blade to build up Focus.** This is a standard four-hit combo.\n\n* **Spell: Fiery Burst - Upon self-detonation, deals area damage triggers de-transform.** This is a manual de-transform attack that can be activated to have Ashen Slumber blow up.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'Ashen_Slumber.md', located under Ashen Slumber.\n\n                Metadata:\n                - Document Title: Ashen Slumber\n                - Alt Text: Black-myth-wukong-ashen-slumber-3.jpg\n\n                Context:\n                - Preceding Text: \"# Ashen Slumber\nAshen Slumber is one of the best Transformation Spells in Black Myth: Wukong for crowd control and dealing sustained damage. It has a solid basic combo, a fantastic heavy attack, and a self-destruct attack that can completely destroy groups of enemies.\nWith it, you can transform into a rat guai, slashing at the enemy while blowing fierce flames at them, inflicting Scorch Bane. Focus built up before transformation can be converted for use afterwards within the rat guai's form.\nAshen Slumber's moveset is as follows:\n* **Light Attack: Chop Wood - Swing the iron blade to build up Focus.** This is a standard four-hit combo.\n\n* **Spell: Fiery Burst - Upon self-detonation, deals area damage triggers de-transform.** This is a manual de-transform attack that can be activated to have Ashen Slumber blow up.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Black-myth-wukong-ashen-slumber-3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts gameplay from *Black Myth: Wukong*, showcasing the \"Ashen Slumber\" transformation spell. The player character has transformed into a fiery rat-like creature, utilizing its abilities in a dark, cavernous environment. On-screen text highlights the moveset, including \"Light Attack: Chop Wood,\" \"Heavy Attack: Blow Fire,\" and \"Spell: Fiery Burst,\" which allows for self-detonation to deal area damage and revert to the original form. The visual emphasizes the spell's destructive power and versatility, aligning with the preceding text's description of its crowd-control and sustained damage capabilities."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a scene from a video game where a character, resembling a humanoid creature with a tail, is engulfed in flames, suggesting an attack or transformation ability. On the left side of the screen, there are instructions for performing different attacks: \"Light Attack 'Chop Wood'\" using the X button, \"Heavy Attack 'Blow Fire'\" using the Y button, and a spell called \"Fiery Burst\" using RT + B, which deals area damage and triggers a de-transformation. The environment appears to be a dimly lit cave or cavern with a reflective water surface. At the bottom, there is a UI element displaying a health or focus bar, and on the right, there's an icon related to the \"Fiery Burst\" ability."
 }

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 61947804354,
+    "source_file": "Charface_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Charface.png",
+    "alt_text": "Charface.png",
+    "position_desc": 1,
+    "img_above_text": "* Charface Fight\n* Charface Spirit",
+    "img_below_text": "## Charface Location\nYou will come across Charface naturally as you make your way up the mountain. He can be found lurking inside a cave near the Heart of Ember Keeper's Shrine. To get there, head forward after defeating the Father of Stones Spirit and run through the gate on the right. The cave is at the bottom of the path.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Charface_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Charface Fight\n* Charface Spirit\"\n            - Following Text: \"## Charface Location\nYou will come across Charface naturally as you make your way up the mountain. He can be found lurking inside a cave near the Heart of Ember Keeper's Shrine. To get there, head forward after defeating the Father of Stones Spirit and run through the gate on the right. The cave is at the bottom of the path.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Charface.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where a player character, wielding a fiery weapon, is engaged in combat with a dark, shadowy figure. The setting is a dimly lit cave, with a large, partially buried stone statue of a face visible in the background, adding an eerie atmosphere. This image likely represents the \"Charface Spirit\" encounter mentioned in the preceding text, illustrating a pivotal moment in the game where the player must confront this spirit as part of their journey up the mountain. The image serves to visually convey the intensity and mystical elements of this encounter, setting the stage for the narrative progression towards the \"Charface Location\" described in the following text."
+}

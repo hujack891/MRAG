@@ -1,0 +1,28 @@
+{
+    "chunk_id": 985247822373,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg",
+    "alt_text": "Wukong Brook 13.jpg",
+    "position_desc": 53,
+    "img_above_text": "![Wukong Brook 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg)\nOnce you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.",
+    "img_below_text": "At the top, you'll find lots of Frozen Corpses to smash apart, as well as a Thunder Rhino Master and two Frozen Corpses guarding a **Treasure Chest** at the foot of a giant stone pillar that overlooks the path you took to get up here.\n![Wukong Brook 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Brook_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 53 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg)\nOnce you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.\"\n            - Following Text: \"At the top, you'll find lots of Frozen Corpses to smash apart, as well as a Thunder Rhino Master and two Frozen Corpses guarding a **Treasure Chest** at the foot of a giant stone pillar that overlooks the path you took to get up here.\n![Wukong Brook 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Brook_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is approaching a giant stone pillar in a snowy landscape. The character is about to engage with a Thunder Rhino Master and two Frozen Corpses guarding a treasure chest. This image serves to illustrate the challenging encounter awaiting players at the top of the hill, as described in the surrounding text."
+}

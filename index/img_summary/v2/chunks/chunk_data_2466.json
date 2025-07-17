@@ -1,0 +1,28 @@
+{
+    "chunk_id": 912144907644,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg",
+    "alt_text": "Wukong RedLoong 5.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong RedLoong 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_RedLoong_4.jpg)\nReturn to the Forest of Wolves and head to the Outside the Forest Shrine.",
+    "img_below_text": "From here you’ll want to stay along the paths to the left to head up and then over to an area with a large waterfall and four statues. With the Loong Scales, you’ll hear a voice speak to you, which means you’re in the right spot.\n![Wukong RedLoong 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_RedLoong_6.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/Wukong_RedLoong_4.jpg)\nReturn to the Forest of Wolves and head to the Outside the Forest Shrine.\"\n            - Following Text: \"From here you’ll want to stay along the paths to the left to head up and then over to an area with a large waterfall and four statues. With the Loong Scales, you’ll hear a voice speak to you, which means you’re in the right spot.\n![Wukong RedLoong 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_RedLoong_6.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_RedLoong_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist is navigating through a lush, mystical forest towards a waterfall surrounded by statues. This setting is part of the journey to the \"Outside the Forest Shrine,\" and the presence of the Loong Scales suggests an important narrative moment where the player will hear a guiding voice. The image captures the atmospheric and adventurous essence of the game, highlighting exploration and discovery in a mythical landscape."
+}

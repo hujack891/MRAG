@@ -1,0 +1,28 @@
+{
+    "chunk_id": 201348807976,
+    "source_file": "Bamboo_Grove_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bamboo_52.jpg",
+    "alt_text": "Wukong Bamboo 52.jpg",
+    "position_desc": 46,
+    "img_above_text": "For phase two, you’ll find that many of his attacks are pretty similar to the first phase, and he doesn’t have too many extra surprises up his sleeve. Due to his new posture, his 360 degree circle spin attack is a bit harder to see coming as his spear will dip into the water, so you’ll need to watch him moves carefully.\nSometimes, he’ll raise his spear higher, and will do a frontal sweep rather than his spin, but his snake body will quickly slither off before you can counter, meaning you’ll have to Immobilize him instead or quickly follow him.",
+    "img_below_text": "Instead of the previous spear twirling to create waves of force, he’ll get more aggressive, and rise up out of the water to slash back and forth to create several diagonal waves that are a bit harder to dodge than his old vertical slices.\n![Wukong Bamboo 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_Bamboo_53.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 46 from the file 'Bamboo_Grove_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"For phase two, you’ll find that many of his attacks are pretty similar to the first phase, and he doesn’t have too many extra surprises up his sleeve. Due to his new posture, his 360 degree circle spin attack is a bit harder to see coming as his spear will dip into the water, so you’ll need to watch him moves carefully.\nSometimes, he’ll raise his spear higher, and will do a frontal sweep rather than his spin, but his snake body will quickly slither off before you can counter, meaning you’ll have to Immobilize him instead or quickly follow him.\"\n            - Following Text: \"Instead of the previous spear twirling to create waves of force, he’ll get more aggressive, and rise up out of the water to slash back and forth to create several diagonal waves that are a bit harder to dodge than his old vertical slices.\n![Wukong Bamboo 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_Bamboo_53.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Bamboo_52.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character named \"Whiteclad Noble\" executing a powerful attack. The attack involves creating waves of force in the water, which are harder to dodge due to their diagonal trajectory. This image illustrates the increased aggression and complexity of the character's attacks during the second phase of the battle."
+}

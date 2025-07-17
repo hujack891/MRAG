@@ -1,0 +1,28 @@
+{
+    "chunk_id": 216177422677,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg",
+    "alt_text": "Wukong Bitter 17.jpg",
+    "position_desc": 14,
+    "img_above_text": "Since Chen Loong doesn't have a whole lot of health or armor, use everything in your arsenal to keep him staggered and unable to hit back whenever possible, and you can rush him down before the fight goes on too long and you start taking double damage too often.\nWhen he's defeated, Chen Loong will throw a bit of a tantrum, and you'll find he's not such a bad guy. He also seems to know Xu Dog, and claims only one of his celestial resurrection pills can ease his pains.",
+    "img_below_text": "Warp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.\n![Wukong Bitter 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"Since Chen Loong doesn't have a whole lot of health or armor, use everything in your arsenal to keep him staggered and unable to hit back whenever possible, and you can rush him down before the fight goes on too long and you start taking double damage too often.\nWhen he's defeated, Chen Loong will throw a bit of a tantrum, and you'll find he's not such a bad guy. He also seems to know Xu Dog, and claims only one of his celestial resurrection pills can ease his pains.\"\n            - Following Text: \"Warp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.\n![Wukong Bitter 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts Chen Loong, a serpentine humanoid character, in a snowy, mountainous setting. He appears to be in a moment of distress or desperation, gesturing dramatically while saying, \"Only one of Xu Dog's resurrection pills can save me now,\" as shown in the subtitle. The environment includes traditional Chinese architecture and a serene yet ominous atmosphere.\n\n2. **Narrative Role**:  \nThis image captures the aftermath of Chen Loong's defeat in battle, as described in the preceding text. It highlights his vulnerability and introduces the next objective: obtaining a resurrection pill from Xu Dog to alleviate his suffering. The image serves as a visual transition to the next stage of the narrative, where the player must return to Yellow Wind Ridge to interact with Xu Dog."
+}

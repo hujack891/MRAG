@@ -1,31 +1,6 @@
 {
-    "chunk_id": 702573891152,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Lower Pagoda (Level 2)",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_Pagoda_19X.jpg",
-    "alt_text": "Wukong Pagoda 19X.jpg",
-    "position_desc": 19,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nMaking your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 19 from the file 'Pagoda_Realm_Walkthrough.md', located under Lower Pagoda (Level 2).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Lower Pagoda (Level 2)\n                - Alt Text: Wukong Pagoda 19X.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nMaking your way up the long stairs to the second level, be ready for a Yaksha Archer to take potshots at you from above, and deflect them with some staff-spinning.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_Pagoda_19X.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene within the Lower Pagoda (Level 2) from *The Beguiling Chant of the Pagoda Realm*. A character, armed with a staff, is advancing through a dimly lit, rocky environment framed by twisted, organic-looking structures. A glowing torch illuminates the area, and a red dashed circle highlights a specific object or location of interest in the distance. This visual likely corresponds to the narrative's mention of navigating the second level, where players must remain vigilant against threats such as Yaksha Archers while progressing through the environment."
+    "chunk_id": 20158516391,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Karma_5.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a snowy environment with a large, muscular enemy wielding a stone, engaging in combat with a smaller character dressed in red. The smaller character appears to be dodging or attacking the larger enemy. In the background, another enemy is visible, possibly preparing to attack. The user interface displays several elements: a health bar at the bottom left, indicating the player's current health status; a series of icons on the left and right sides, likely representing abilities or items that can be used with specific button inputs (RT, LT); and a mini-map on the bottom right corner showing the player's location. The environment features snow-covered trees and stone structures, suggesting a temple-like setting."
 }

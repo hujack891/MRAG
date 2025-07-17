@@ -1,0 +1,28 @@
+{
+    "chunk_id": 111725200919,
+    "source_file": "Giant_Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png",
+    "alt_text": "Five Skandhas \\(25\\).png",
+    "position_desc": 5,
+    "img_above_text": "Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.",
+    "img_below_text": "After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Giant_Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"Its main attack is to punch down with its giant fists, which unsurprisingly, will one-shot you if you're hit by them. The easiest way to avoid them is to just back up as far away from them as possible. Then, once the Giant Shigandang pauses punching, run up to the fists and keep hitting the blue crystals.\nThe other attack that the Shigandang does is to punch both fists down and send out ripples. Again, you want to hang back as much as you can. The rings will come toward you, and you can jump over them to avoid them. There are times when he'll raise both hands in the air, and seem like he's about to perform this attack, but instead, he's actually going to slam his fists down and just lay there for a bit. This is the perfect time to get in close and attack him.\"\n            - Following Text: \"After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark and rocky landscape dominated by a massive, jagged formation resembling a giant arm or fist, possibly referencing the defeated Giant Shigandang boss described in the preceding text. The eerie atmosphere, with shadows and sparse vegetation, aligns with the aftermath of an intense battle. This scene likely serves as the setting for the next stage of the narrative, where the player climbs the fallen arm to encounter the monkey and trigger a cutscene leading to the acquisition of the Skandha of Consciousness."
+}

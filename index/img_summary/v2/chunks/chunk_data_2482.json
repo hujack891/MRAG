@@ -1,0 +1,28 @@
+{
+    "chunk_id": 585386879892,
+    "source_file": "Refined_Iron_Sand.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Refined_Iron_Sand.jpg",
+    "alt_text": "Refined Iron Sand.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.",
+    "img_below_text": "Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Refined_Iron_Sand.md'.\n\n            Context:\n            - Preceding Text: \"# Refined Iron Sand\nThe Refined Iron Sand is one of the basic materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game, mostly for weapons and crafting new staff variants.\"\n            - Following Text: \"Refined Iron Sand can be found throughout the game's six chapters in the following locations:\n* Occassionally Found in Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Refined_Iron_Sand.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the \"Refined Iron Sand\" item. This material is categorized as an \"Epic\" general weapon material, with a description noting that it has been smelted nine times and can be used in crafting weapons. The inventory shows that the player currently holds 5 out of a possible 999 units of this item. The preceding and following text indicates that Refined Iron Sand is a basic material used for weapon upgrades and crafting new staff variants, and it can be found in chests throughout the game's six chapters."
+}

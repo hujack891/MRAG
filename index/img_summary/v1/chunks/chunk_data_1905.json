@@ -1,31 +1,6 @@
 {
-    "chunk_id": 557356820497,
-    "source_file": "Man-in-Stone_Questline.md",
-    "h1_title": "Man-in-Stone Questline",
-    "h2_title": "Where to Find the Man-in-Stone",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
-    "alt_text": "Wukong Fright 22.jpg",
-    "position_desc": 3,
-    "img_above_text": "# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Man-in-Stone_Questline.md', located under Where to Find the Man-in-Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone Questline\n                - Section Title: Where to Find the Man-in-Stone\n                - Alt Text: Wukong Fright 22.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n\nAt the end of the crevice, you’ll find an unusual looking stone. He’s actually a **Man-in-Stone** , and claims to have been trapped within the rock form. He’s betting on one of the rock guai in the large cave nearby to hold the secrets to reversing his fate, and **asks you to seek it out**.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically related to the \"Man-in-Stone Questline.\" It shows a character standing in a dimly lit cave, holding a staff and looking towards a brighter area in the distance. The cave is adorned with glowing lights and has a rugged, rocky terrain. This scene likely represents the location described in the section \"Where to Find the Man-in-Stone,\" where players are instructed to find an unusual stone that is actually the Man-in-Stone character, who requests the player to seek out a secret in a nearby cave."
+    "chunk_id": 516738686563,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Red_haired_yaksha_fight.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is engaged in combat with an enemy. The enemy appears to be a humanoid figure with glowing blue elements, suggesting a magical or supernatural nature. The environment is a snowy, wooden platform surrounded by stone walls and lit torches, indicating a cold, possibly ancient setting. The user interface shows several key elements: a health bar at the bottom left, which is partially depleted, and various icons that likely represent abilities or items available to the player. On the right side, there is a curved line of red markers, possibly indicating an attack trajectory or enemy targeting. Additionally, there are button prompts for actions, suggesting the player can perform specific moves or abilities during the fight."
 }

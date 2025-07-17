@@ -1,0 +1,28 @@
+{
+    "chunk_id": 622105309112,
+    "source_file": "Tiger_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Tiger_12.jpg",
+    "alt_text": "Wukong Tiger 12.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Tiger 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Tiger_17.jpg)\nFinally, if you try to get too far away from him to rest and heal up, there’s a chance his single blade slash will instead create tornadoes of blood to seek you out! This only seems to happen when you stay at range from him, and he can follow these up with his other blood slashes to keep you from getting close.",
+    "img_below_text": "This will be a tough fight no matter what you do, so the best thing you can do is to learn his moves, and which ones you can afford to hit back with a big charge attack. Certain times you may even be able to stagger him before he can perform a combo, or Immobilize him to shut him down from going on a sword-swinging spree — but if you don’t crash him out of it, he may just pick up where he left off.\n![Wukong Tiger 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Tiger_13.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Tiger_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Tiger 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Tiger_17.jpg)\nFinally, if you try to get too far away from him to rest and heal up, there’s a chance his single blade slash will instead create tornadoes of blood to seek you out! This only seems to happen when you stay at range from him, and he can follow these up with his other blood slashes to keep you from getting close.\"\n            - Following Text: \"This will be a tough fight no matter what you do, so the best thing you can do is to learn his moves, and which ones you can afford to hit back with a big charge attack. Certain times you may even be able to stagger him before he can perform a combo, or Immobilize him to shut him down from going on a sword-swinging spree — but if you don’t crash him out of it, he may just pick up where he left off.\n![Wukong Tiger 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Tiger_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Tiger_12.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the player character engaging in combat with the Tiger Vanguard. The visual highlights the dynamic and challenging nature of the fight, with bright flashes indicating powerful attacks or impacts. The preceding and following text suggests strategies for overcoming the Tiger Vanguard's formidable moves, emphasizing the importance of learning its attack patterns and timing counterattacks effectively to gain an advantage in this difficult encounter."
+}

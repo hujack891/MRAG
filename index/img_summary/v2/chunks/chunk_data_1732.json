@@ -1,0 +1,28 @@
+{
+    "chunk_id": 614402317286,
+    "source_file": "Kang-Jin_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg",
+    "alt_text": "Wukong Snowhill 46.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)\nShe can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.",
+    "img_below_text": "Certain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.\n![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Kang-Jin_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 39.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg)\nShe can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\"\n            - Following Text: \"Certain times, her slamming attacks to create lightning strikes can end with her making a quick spin to emit a blast of lightning from her mouth. She'll pivot slowly to spread the breath in front of her, but this can be avoided by gaining height using the Pillar Stance.\n![Wukong Snowhill 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Wukong_Snowhill_40.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic battle scene from the game \"Black Myth: Wukong,\" showcasing the character Kang-Jin Loong engaged in combat amidst a snowy landscape. The scene is filled with dynamic lightning effects, illustrating the character's powerful attacks that involve lunging and slamming to create lightning strikes. The surrounding environment is charged with energy, emphasizing the intensity of the confrontation. This visual serves to highlight the game's action-packed gameplay and the strategic maneuvers required to avoid the lightning-infused attacks."
+}

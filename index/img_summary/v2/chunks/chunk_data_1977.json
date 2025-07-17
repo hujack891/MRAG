@@ -1,0 +1,28 @@
+{
+    "chunk_id": 871414207884,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Black-myth-wukong-nine-capped-lingzhi-seeds.jpg",
+    "alt_text": "Black-myth-wukong-nine-capped-lingzhi-seeds.jpg",
+    "position_desc": 43,
+    "img_above_text": "![Black-myth-wukong-millenium-ginseng-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg)| Millennium Ginseng Seeds | Rare | Seed | Obtained upon defeating Old Ginseng Guai\n![Black-myth-wukong-monkey-head-fungus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Black-myth-wukong-monkey-head-fungus-seeds.jpg)| Monkey-Head Fungus Seeds | Rare | Seed | Obtained upon defeating Fungiworm",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 43 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-millenium-ginseng-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg)| Millennium Ginseng Seeds | Rare | Seed | Obtained upon defeating Old Ginseng Guai\n![Black-myth-wukong-monkey-head-fungus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Black-myth-wukong-monkey-head-fungus-seeds.jpg)| Monkey-Head Fungus Seeds | Rare | Seed | Obtained upon defeating Fungiworm\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Black-myth-wukong-nine-capped-lingzhi-seeds.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a decorative tray holding small, round, white objects, likely seeds. Based on the preceding text, this image is associated with \"Monkey-Head Fungus Seeds,\" a rare seed item obtained upon defeating the Fungiworm in the game *Black Myth: Wukong*. The image serves to visually represent this in-game collectible."
+}

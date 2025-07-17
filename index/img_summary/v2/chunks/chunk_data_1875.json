@@ -1,0 +1,28 @@
+{
+    "chunk_id": 180225846720,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg",
+    "alt_text": "Wukong Snowhill 19.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!",
+    "img_below_text": "Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_18.jpg)\nDo not be lured in by this gesture, as it's all an act -- as he'll eventually look up and use his tail to bring the blade up in an upward slash with a projectile slice at you!\"\n            - Following Text: \"Finally, if you spend to much time dishing out damage to his face, he'll eventually counter with an unexpected move: puking on you. This will deal an immense amount of poison buildup, so be ready to Immobilize or dodge around behind him.\nWith his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_Snowhill_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" featuring a battle against the Macaque Chief in a snowy environment. The Macaque Chief is engaged in combat, possibly executing a move that involves using his tail to slash upwards or preparing to counter with a poison attack by puking. The image captures the intensity of the encounter, highlighting the player's need to strategize by dodging, immobilizing, or staggering the Macaque Chief with heavy strikes while managing focus through light attack combos."
+}

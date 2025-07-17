@@ -1,0 +1,28 @@
+{
+    "chunk_id": 597888966090,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Mind_Core_-_Squall_Hideout.jpg",
+    "alt_text": "Mind Core - Squall Hideout.jpg",
+    "position_desc": 7,
+    "img_above_text": "### Mind Core Location 6\nThe next Mind Core is located along the Fright Cliff \\- Squall Hideout Shrine path in Yellow Wind Ridge. From the Shrine, on your right, you can find a small hill.",
+    "img_below_text": "Head up it and defeat the enemies to find a chest at the back with the resource.\n![Mind Core - Squall Hideout 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Mind_Core_-_Squall_Hideout_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 6\nThe next Mind Core is located along the Fright Cliff \\- Squall Hideout Shrine path in Yellow Wind Ridge. From the Shrine, on your right, you can find a small hill.\"\n            - Following Text: \"Head up it and defeat the enemies to find a chest at the back with the resource.\n![Mind Core - Squall Hideout 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Mind_Core_-_Squall_Hideout_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Mind_Core_-_Squall_Hideout.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character in a rugged, rocky landscape, likely from the game \"Black Myth: Wukong.\" The character is positioned on a path surrounded by dry vegetation and towering cliffs. The preceding text indicates that this location is along the Fright Cliff - Squall Hideout Shrine path in Yellow Wind Ridge, where players are instructed to head up a small hill to defeat enemies and find a chest containing a Mind Core resource. The image serves to visually guide players on the path they need to take to reach the Mind Core location."
+}

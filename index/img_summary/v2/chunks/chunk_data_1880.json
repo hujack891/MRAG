@@ -1,0 +1,28 @@
+{
+    "chunk_id": 234340984749,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
+    "alt_text": "Wukong Thunderclap 90.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!",
+    "img_below_text": "Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!\"\n            - Following Text: \"Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image:**\n   The image depicts a dramatic battle scene from the game \"Black Myth: Wukong,\" where the player character is engaged in a fight with the Macaque Chief. The environment is richly detailed with a red and gold color scheme, and the Macaque Chief is seen in mid-air, possibly preparing for an attack.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image illustrates a critical moment in the battle against the Macaque Chief. The preceding text explains that the player and their ally can stagger the Macaque Chief with heavy hits, while the following text warns of the Chief's upcoming aerial attack and the appearance of shadow clones. This image serves to visually represent the intensity and strategic elements of the fight, emphasizing the need for the player to adapt and respond to the Chief's evolving tactics."
+}

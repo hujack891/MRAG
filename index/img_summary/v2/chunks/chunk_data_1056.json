@@ -1,0 +1,28 @@
+{
+    "chunk_id": 717414627069,
+    "source_file": "Fine_Gold_Thread.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Fine_Gold_Thread.jpg",
+    "alt_text": "Fine Gold Thread.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Fine Gold Thread\nFine Gold Thread is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.",
+    "img_below_text": "Fine Gold Thread can be found throughout the game's chapters in the following locations from Chapter 4 - The Webbed Hollow onwards:\n* Defeat Cyan Loong in Bitter Lake - Turtle Island in Chapter 3 - The New West",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Fine_Gold_Thread.md'.\n\n            Context:\n            - Preceding Text: \"# Fine Gold Thread\nFine Gold Thread is one of the advanced materials in Black Myth: Wukong. It is used for upgrades like many of the other materials in the game.\"\n            - Following Text: \"Fine Gold Thread can be found throughout the game's chapters in the following locations from Chapter 4 - The Webbed Hollow onwards:\n* Defeat Cyan Loong in Bitter Lake - Turtle Island in Chapter 3 - The New West\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Fine_Gold_Thread.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the inventory screen from the game *Black Myth: Wukong*, showcasing the \"Fine Gold Thread\" item. This material is classified as a legendary general armor material, described as being crafted from delicate gold foil and valuable for crafting armor. The preceding and following text highlights its importance as an advanced upgrade material and mentions locations where it can be found, starting from Chapter 4 onwards, with a notable acquisition in Chapter 3 after defeating Cyan Loong."
+}

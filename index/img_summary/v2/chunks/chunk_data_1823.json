@@ -1,0 +1,28 @@
+{
+    "chunk_id": 525524333280,
+    "source_file": "Lang-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_15.jpg",
+    "alt_text": "Wukong Sandgate 15.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThis particular boss is infused with the power of lightning, and like the Rat Governor you faced, he’ll try to shock you repeatedly until you suffer from a debuff that increases all your damage taken. Luckily, the Shrine’s shop sells a few Shock-Quelling Powder if you find yourself struggling to survive from these attacks.",
+    "img_below_text": "Aside from the familiar hand slaps and ground pound he can perform in quick succession, many of his other attacks now have lightning effects, including his sweeping tongue-lash attack. You can dodge this tongue lash by dashing to the side with Cloud Step, and hit from the side for extra damage. Sometimes the tongue lash will shoot out in a straight line, so always dodge the tongue to the sides instead of backward.\n![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Wukong_Sandgate_14.jpg)\nThis particular boss is infused with the power of lightning, and like the Rat Governor you faced, he’ll try to shock you repeatedly until you suffer from a debuff that increases all your damage taken. Luckily, the Shrine’s shop sells a few Shock-Quelling Powder if you find yourself struggling to survive from these attacks.\"\n            - Following Text: \"Aside from the familiar hand slaps and ground pound he can perform in quick succession, many of his other attacks now have lightning effects, including his sweeping tongue-lash attack. You can dodge this tongue lash by dashing to the side with Cloud Step, and hit from the side for extra damage. Sometimes the tongue lash will shoot out in a straight line, so always dodge the tongue to the sides instead of backward.\n![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_15.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a boss fight against \"Lang-Li-Guhh-Baw\" in *Black Myth: Wukong*. The boss, infused with lightning power, is shown using a tongue-lash attack, which emits lightning effects and can be dodged by dashing to the side with Cloud Step. The surrounding context highlights the importance of avoiding direct hits from this attack and exploiting openings for extra damage. The visual emphasizes the dynamic combat mechanics and the boss's electrified abilities."
+}

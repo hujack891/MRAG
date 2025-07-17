@@ -1,31 +1,6 @@
 {
-    "chunk_id": 7003009005,
-    "source_file": "Agate_Jar.md",
-    "h1_title": "Agate Jar",
-    "h2_title": "",
-    "h3_title": "",
+    "chunk_id": 467247433660,
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Agate_Jar_2.jpg",
-    "alt_text": "Agate Jar 2.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Agate Jar\nThe Agate Jar is one of the Curios items you can find throughout Black Myth: Wukong. It is one of the strongest early-game Curios' thanks to its effect.\nWith the Agate Jar equipped, you will get a flat-out, moderate defense buff, which is incredibly useful early on in the game.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Agate_Jar.md', located under Agate Jar.\n\n                Metadata:\n                - Document Title: Agate Jar\n                - Alt Text: Agate Jar 2.jpg\n\n                Context:\n                - Preceding Text: \"# Agate Jar\nThe Agate Jar is one of the Curios items you can find throughout Black Myth: Wukong. It is one of the strongest early-game Curios' thanks to its effect.\nWith the Agate Jar equipped, you will get a flat-out, moderate defense buff, which is incredibly useful early on in the game.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Agate_Jar_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Agate Jar, a rare item in the game Black Myth: Wukong, shown within the game's equipment menu. The Agate Jar is highlighted as a Curio that provides a moderate defense boost, making it a valuable asset in the early stages of the game. The image visually represents the item's appearance and its role in enhancing the player's defensive capabilities."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays an equipment menu from a video game, specifically focusing on the \"Curios\" section. Two items are highlighted: \"Cat Eye Beads,\" which slightly increase Critical Hit Chance, and \"Agate Jar,\" which moderately increases Defense. Both items are classified as rare. The player's character stats are shown on the right, including health, attack, defense, and other attributes, with some values in green indicating a positive change. The menu options at the top include Self-Advance, Inventory, Journal, and Settings, with the Equipment tab currently selected. A descriptive text at the bottom provides a narrative element related to the Agate Jar."
 }

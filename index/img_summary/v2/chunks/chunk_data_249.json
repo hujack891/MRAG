@@ -1,0 +1,28 @@
+{
+    "chunk_id": 835959142758,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/20240815101010_1.jpg",
+    "alt_text": "20240815101010 1.jpg",
+    "position_desc": 7,
+    "img_above_text": "* Transformation Spells\n## Gourds, Gear, and Key Items",
+    "img_below_text": "There is much treasure to find in Black Myth: Wukong, and much of it can improve your abilities. Find or craft new armor and weapons, upgrade and swap between Gourd Soaks and Drinks, and harness the power of mysterious Key Items with our guides.\n* Weapons",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"* Transformation Spells\n## Gourds, Gear, and Key Items\"\n            - Following Text: \"There is much treasure to find in Black Myth: Wukong, and much of it can improve your abilities. Find or craft new armor and weapons, upgrade and swap between Gourd Soaks and Drinks, and harness the power of mysterious Key Items with our guides.\n* Weapons\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/20240815101010_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image likely depicts a scene from *Black Myth: Wukong* where characters are interacting in a forested environment, possibly engaging in crafting, trading, or discussing key items. The setting and the objects, such as the scroll and a weapon, align with the game's themes of upgrading gear, acquiring key items, and enhancing abilities, as mentioned in the surrounding text."
+}

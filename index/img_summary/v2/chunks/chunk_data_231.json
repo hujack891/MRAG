@@ -1,0 +1,28 @@
+{
+    "chunk_id": 115311568070,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_56.jpg",
+    "alt_text": "Wukong Bitter 56.jpg",
+    "position_desc": 88,
+    "img_above_text": "Continue up the stairway until you find an opening to the left, where you'll enter a hall of statues and a Red-Haired Yaksha blocking your path. He's glowing blue from an empowered spirit, but thankfully with a friend at your side, things should even out in difficulty -- but you should still watch out for their powerful martial arts punches and bicycle kicks.\nDefeating this foe will earn you the Red-Haired Yaksha Spirit, and Zhu Bajie will ask that you go rest at a nearby raised pavilion in a large open area nearby.",
+    "img_below_text": "As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 88 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Continue up the stairway until you find an opening to the left, where you'll enter a hall of statues and a Red-Haired Yaksha blocking your path. He's glowing blue from an empowered spirit, but thankfully with a friend at your side, things should even out in difficulty -- but you should still watch out for their powerful martial arts punches and bicycle kicks.\nDefeating this foe will earn you the Red-Haired Yaksha Spirit, and Zhu Bajie will ask that you go rest at a nearby raised pavilion in a large open area nearby.\"\n            - Following Text: \"As you reach the pavilion, you'll encounter the same strange chubby little monk you may have spotted when first starting this chapter. The enigmatic monk seems interested in a Buddha statue up on the cliffs above with a big belly button, but it seems invisible to your eyes.\nThe monk will suggest \"why not worship around with true hearts, for Buddhas may light your path\", but what he really means is **four** Buddha.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fc/Wukong_Bitter_56.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene at the raised pavilion mentioned in the context, where the enigmatic monk interacts with the protagonist and Zhu Bajie. The monk appears to be gesturing while asking about the Buddha, aligning with the narrative of his interest in a Buddha statue on the cliffs above. Zhu Bajie stands nearby, reinforcing the connection to the preceding events where he suggested resting at this location after defeating the Red-Haired Yaksha. This moment sets up the monk's cryptic guidance about worshiping \"four Buddhas\" to progress in the story."
+}

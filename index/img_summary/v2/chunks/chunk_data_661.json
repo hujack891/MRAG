@@ -1,0 +1,28 @@
+{
+    "chunk_id": 644499783542,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg",
+    "alt_text": "Wukong Bitter 19.jpg",
+    "position_desc": 15,
+    "img_above_text": "![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nWarp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.",
+    "img_below_text": "Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 15 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)\nWarp back to the Yellow Wind Ridge to find the Xu Dog back in the cellar below the Crouching Tiger Temple.\"\n            - Following Text: \"Speak to him here, and he'll pass along a Special-made Bone-Strengthening Pellet for the poor old Loong. You'll also get the formula to make your own Fortifying Medicament for your trouble!\n![Wukong Bitter 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Bitter_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Wukong_Bitter_19.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showing a key interaction between the protagonist and the Xu Dog character inside a dimly lit cellar beneath the Crouching Tiger Temple. The Xu Dog, a humanoid creature, appears to be holding a glowing object and speaking to the protagonist, who is armed with an ornate staff. The dialogue suggests the Xu Dog is defending someone’s temperament, hinting at a narrative moment of understanding or reconciliation. This scene sets up the exchange of the Special-made Bone-Strengthening Pellet and the formula for crafting Fortifying Medicaments, as described in the following text."
+}

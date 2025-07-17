@@ -1,0 +1,28 @@
+{
+    "chunk_id": 498346269672,
+    "source_file": "Lang-Baw-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png",
+    "alt_text": "Foothills Walkthrough \\(34\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.",
+    "img_below_text": "If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Lang-Baw-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(38\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Foothills_Walkthrough_%2838%29.png)\nThe key is to get him out of this state as soon as possible because it can be an annoying fight otherwise. It's easy to be killed when you're being bombarded with rock attacks in this phase. You can perform heavy attacks when he's in this phase, and you'll knock him flat and still do plenty of damage. But the best thing you can do is throw out the Plantain Fan. He'll go back to being red immediately, and be repeatedly pushed back. Stick close to him when the fan is hitting to keep attacking.\"\n            - Following Text: \"If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in a boss fight from *Black Myth: Wukong*, showcasing a large reptilian enemy in a defensive or preparatory stance, facing the player character armed with a staff. The surrounding environment features rocky terrain and a forested backdrop, emphasizing the game's atmospheric setting. Based on the preceding and following text, the image illustrates the phase where the enemy uses rock-based attacks, requiring strategic use of the Plantain Fan to disrupt its state and gain an advantage in combat."
+}

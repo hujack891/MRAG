@@ -1,0 +1,28 @@
+{
+    "chunk_id": 909340853280,
+    "source_file": "Snow_Fox_Brush.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Thunderclap_47.jpg",
+    "alt_text": "Wukong Thunderclap 47.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Felicity 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Felicity_3.jpg)\nWith it, travel to the New Thunderclap Temple entrance and find Non-Void at the top of the temple.",
+    "img_below_text": "Approach as the fox form and defeat him. Once defeated, grab his spirit and then return to the Forest of Felicity in the Valley of Ecstasy. Interact with the fox that is now here to get the Curios item.\n![Wukong Thunderclap 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Snow_Fox_Brush.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Felicity 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Felicity_3.jpg)\nWith it, travel to the New Thunderclap Temple entrance and find Non-Void at the top of the temple.\"\n            - Following Text: \"Approach as the fox form and defeat him. Once defeated, grab his spirit and then return to the Forest of Felicity in the Valley of Ecstasy. Interact with the fox that is now here to get the Curios item.\n![Wukong Thunderclap 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Thunderclap_47.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character approaching the entrance of the New Thunderclap Temple, where they are likely to encounter Non-Void at the top of the temple. This scene sets the stage for a confrontation in which the character, in fox form, must defeat Non-Void, capture his spirit, and then return to the Forest of Felicity in the Valley of Ecstasy to interact with another fox and obtain the Curios item."
+}

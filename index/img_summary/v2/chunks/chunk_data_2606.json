@@ -1,0 +1,28 @@
+{
+    "chunk_id": 861555654681,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
+    "alt_text": "Snow Fox Questline \\(16\\).png",
+    "position_desc": 8,
+    "img_above_text": "Yin Tiger\n## Non-Void",
+    "img_below_text": "The Snow Fox Questline in Chapter 3 will see you track down a monk who has wronged a fox guai. Transform into a fox and confront the monk at New Thunderclap Temple to face Non-Void.\nNon-Void",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Yin Tiger\n## Non-Void\"\n            - Following Text: \"The Snow Fox Questline in Chapter 3 will see you track down a monk who has wronged a fox guai. Transform into a fox and confront the monk at New Thunderclap Temple to face Non-Void.\nNon-Void\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/Snow_Fox_Questline_%2816%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a monk standing before an intricately designed altar or statue within a temple, likely New Thunderclap Temple. This scene is part of the Snow Fox Questline in Chapter 3 of \"Black Myth: Wukong,\" where the monk is confronted for wronging a fox guai, leading to an encounter with the entity known as Non-Void."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 853107568026,
+    "source_file": "Earth_Wolf_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Earth_wolf_power.jpg",
+    "alt_text": "Earth wolf power.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Earth Wolf hits very hard, but winds up a lot of its moves, giving you a chance to dodge out of the way before they hit.\n## Earth Wolf Spirit",
+    "img_below_text": "* **Wild Rapture**\n* Equipped Effect: Grants a small amount of additional Focus on hit.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Earth_Wolf_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Earth Wolf hits very hard, but winds up a lot of its moves, giving you a chance to dodge out of the way before they hit.\n## Earth Wolf Spirit\"\n            - Following Text: \"* **Wild Rapture**\n* Equipped Effect: Grants a small amount of additional Focus on hit.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Earth_wolf_power.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the \"Earth Wolf Spirit\" equipment screen from a game, highlighting its abilities and effects. The spirit's active skill, \"Wild Rapture,\" allows the player to take the form of the Earth Wolf and charge at enemies to make them stumble. Its equipped effect grants a small boost to Focus on hit. The interface includes options to equip, watch a demo, and view stats, emphasizing its role as a powerful and strategic tool in combat."
+}

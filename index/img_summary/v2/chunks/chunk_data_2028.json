@@ -1,0 +1,28 @@
+{
+    "chunk_id": 666238042669,
+    "source_file": "Mother_of_Flamlings.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Field_Fire_Walkthrough_%2835%29.png",
+    "alt_text": "Field Fire Walkthrough \\(35\\).png",
+    "position_desc": 4,
+    "img_above_text": "### Mother of Flamlings Boss Fight and Guide\nThe ground will rumble as the Mother of Flamlings appears, and fireballs will be thrown out as soon as she bursts through the ground. Stand back after delivering the Flame Ores to avoid this attack.",
+    "img_below_text": "These will land on the ground and turn into glowing patches. Unfortunately, these will become Flamlings, so be mindful of these as you run around the arena.\n![Field Fire Walkthrough \\(34\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Field_Fire_Walkthrough_%2834%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Mother_of_Flamlings.md'.\n\n            Context:\n            - Preceding Text: \"### Mother of Flamlings Boss Fight and Guide\nThe ground will rumble as the Mother of Flamlings appears, and fireballs will be thrown out as soon as she bursts through the ground. Stand back after delivering the Flame Ores to avoid this attack.\"\n            - Following Text: \"These will land on the ground and turn into glowing patches. Unfortunately, these will become Flamlings, so be mindful of these as you run around the arena.\n![Field Fire Walkthrough \\(34\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Field_Fire_Walkthrough_%2834%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Field_Fire_Walkthrough_%2835%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, rocky landscape with glowing patches of lava on the ground, suggesting a volcanic or fiery environment. A lone figure stands amidst this scene, possibly the Mother of Flamlings, as described in the context of a boss fight. The glowing patches likely represent the fireballs mentioned in the preceding text, which transform into Flamlings, adding to the challenge of the arena battle. This image visually sets the stage for the intense and hazardous encounter described in the guide."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 894760990966,
+    "source_file": "Buddha%27s_Right_Hand.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_62.jpg",
+    "alt_text": "Wukong MiddleHollow 62.jpg",
+    "position_desc": 7,
+    "img_above_text": "The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.",
+    "img_below_text": "Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"The terrifying creature will lunge down with a scream, and then begin to spew a literal river of poison into a narrow arena. This stream of bile will damage you continuously, and there are only two real ways to avoid it.\nIf you're quick, you can dash under it before it starts spewing poison to get around behind it. If not, quickly get up onto a Pillar Stance to perch above the poison.\"\n            - Following Text: \"Unfortunately, you won't be able to hide up here forever, as the boss will often start to turn its body, and then slam down its hand onto the poison river, but you can slam down first and run for safety.\nNow that its body is now clinging to the walls in front of you, you'll need to aim for its face, and the Pillar or Thrust Stance can help with that.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/84/Wukong_MiddleHollow_62.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment in a boss battle against a massive, grotesque creature named \"Buddha's Right Hand\" in a dark, cavernous environment. The player character, armed and ready, faces the towering enemy, which appears to be preparing an attack. The preceding and following text suggests that the fight involves dodging a poisonous river and strategically using elevated positions to avoid damage and target the boss's face. The image highlights the scale and intensity of the encounter, emphasizing the need for quick reflexes and tactical movement."
+}

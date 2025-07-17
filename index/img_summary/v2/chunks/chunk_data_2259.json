@@ -1,0 +1,28 @@
+{
+    "chunk_id": 673802875344,
+    "source_file": "Old_Rattle-Drum_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+    "alt_text": "Wukong MadTiger 7.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.",
+    "img_below_text": "Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Old_Rattle-Drum_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_MadTiger_6.jpg)\nLook to the **left of that statue altar** , and you’ll find a small field around the back with a concerning amount of skeletons, and a well. Using the Rattle-Drum here one final time will cause the spirit of the boy to appear before you, and invite you to **hop down the well** to meet a “friend”.\"\n            - Following Text: \"Unfortunately, if the dull echoing roars coming from somewhere below are any indication, you’re not going to meet a friendly face down there. You can interact with the well to drop down to a secret area, where you’ll face off against an incredibly tough and dangerous secret boss, the **Mad Tiger**.\n## Yaoguai Chief Battle - Mad Tiger\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_MadTiger_7.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing at the edge of an old, stone well surrounded by skeletons in a desolate, overgrown area. The prompt on the screen indicates the player can \"Jump In\" by pressing the RT button. This scene is part of a questline in the game \"Black Myth: Wukong,\" where the player is invited by a spirit to descend into the well. The context suggests that jumping into the well will lead to a secret area where the player will encounter a challenging boss known as the Mad Tiger."
+}

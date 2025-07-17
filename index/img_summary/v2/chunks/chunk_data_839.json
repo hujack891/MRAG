@@ -1,0 +1,28 @@
+{
+    "chunk_id": 213257257712,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Black-myth-wukong-amber-prayer-beads.jpg",
+    "alt_text": "Black-myth-wukong-amber-prayer-beads.jpg",
+    "position_desc": 31,
+    "img_above_text": "![Black-myth-wukong-preservation-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Black-myth-wukong-preservation-orb.jpg)| Preservation Orb| Epic | For a relatively long duration after resurrection, increases maximum Health, Mana, and Stamina | Found in The Webbed Hollow in a box in the opening area where you gain access to Purple Cloud Mountain\nThis is only accessible after completing Chapter 4, providing you haven't finished the area | Preservation Orb",
+    "img_below_text": "![Black-myth-wukong-white-seashell-waist-chain.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Black-myth-wukong-white-seashell-waist-chain.jpg)| White Seashell Waist Chain| Epic | Slightly increases attack | Found in Woods of Ember randomly dropped from Brutes | White Seashell Waist Chain\n![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 31 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-preservation-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Black-myth-wukong-preservation-orb.jpg)| Preservation Orb| Epic | For a relatively long duration after resurrection, increases maximum Health, Mana, and Stamina | Found in The Webbed Hollow in a box in the opening area where you gain access to Purple Cloud Mountain\nThis is only accessible after completing Chapter 4, providing you haven't finished the area | Preservation Orb\"\n            - Following Text: \"![Black-myth-wukong-white-seashell-waist-chain.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Black-myth-wukong-white-seashell-waist-chain.jpg)| White Seashell Waist Chain| Epic | Slightly increases attack | Found in Woods of Ember randomly dropped from Brutes | White Seashell Waist Chain\n![Black-myth-wukong-gold-button.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Black-myth-wukong-gold-button.jpg)| Gold Button| Epic | Significantly increases your attack power while at full health | Found from one of the Fire Giants in The Emerald Hall in Furnace Valley in Flaming Mountains | Gold Button\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Black-myth-wukong-amber-prayer-beads.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the **Preservation Orb**, an **Epic-tier item** from the game *Black Myth: Wukong*. This item, represented as a bracelet with dark beads and one prominent white bead, provides a significant boost to **maximum Health, Mana, and Stamina** for a limited time after resurrection. It is found in **The Webbed Hollow**, specifically in a box in the opening area of **Purple Cloud Mountain**, accessible after completing Chapter 4 (if the area hasn't been finished)."
+}

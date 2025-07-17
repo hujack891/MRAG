@@ -1,31 +1,6 @@
 {
-    "chunk_id": 562967619256,
-    "source_file": "Man-in-Stone.md",
-    "h1_title": "Man-in-Stone",
-    "h2_title": "Where to Find the Man-in-Stone",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg",
-    "alt_text": "Wukong Fright 20.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Man-in-Stone\nThe Man-in-Stone is a optional Character questline culminating in a boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Located in a crevice of the Fright Cliff, you'll have to help the man trapped in stone recover an item, and then beat him up to earn your reward.\n* **Rewards:** Azure Dust Transformation Spell, 758 Experience, 756 Will\n## Where to Find the Man-in-Stone\n\nAs an optional character you can meet, the Man-in-Stone can easily be missed, but shouldn't if you want to unlock an important spell. He's located in a small crevice of the Fright Cliff, found by heading to the right of the Squall Hideout below a large ruin.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Man-in-Stone.md', located under Where to Find the Man-in-Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone\n                - Section Title: Where to Find the Man-in-Stone\n                - Alt Text: Wukong Fright 20.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone\nThe Man-in-Stone is a optional Character questline culminating in a boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Located in a crevice of the Fright Cliff, you'll have to help the man trapped in stone recover an item, and then beat him up to earn your reward.\n* **Rewards:** Azure Dust Transformation Spell, 758 Experience, 756 Will\n## Where to Find the Man-in-Stone\n\nAs an optional character you can meet, the Man-in-Stone can easily be missed, but shouldn't if you want to unlock an important spell. He's located in a small crevice of the Fright Cliff, found by heading to the right of the Squall Hideout below a large ruin.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Fright_20.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically from the optional character questline \"Man-in-Stone.\" It shows a character standing in front of a rock formation with a fiery top, located in a crevice of the Fright Cliff. The character appears to be interacting with the rock, which is likely the \"Man-in-Stone\" trapped by a spell. The on-screen text reads, \"Some bastard has got me trapped in this rock with his spell!\" This image is part of the section titled \"Where to Find the Man-in-Stone\" in the document \"Man-in-Stone,\" and serves to visually guide players to the location of this optional quest."
+    "chunk_id": 617438871678,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Rat_Governor_power.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays a character equipment screen from a video game, focusing on the \"Rat Governor\" spirit, which is classified as \"Rare\" with a moderate Qi cost. The spirit allows the player to transform into the Rat Governor, enabling them to leap and shoot lightning from a staff, dealing Thunder Damage. The player can activate this ability in combat by pressing the \"F\" key. The equipped effect moderately increases Thunder Damage. The screen also shows a list of spirits available for selection, with various character icons. On the right side, the player's level is 91, with detailed basic attributes such as health (690), mana (380), stamina (310), attack (102), and defense (348). Additionally, there are resistances to different elements, including Chill, Burn, Poison, and Shock. The interface includes options for self-advance, relics, inventory, journal, and settings, with navigation prompts for sorting and examining items."
 }

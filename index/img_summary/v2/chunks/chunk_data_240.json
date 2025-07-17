@@ -1,0 +1,28 @@
+{
+    "chunk_id": 834738563886,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bitter_65.jpg",
+    "alt_text": "Wukong Bitter 65.jpg",
+    "position_desc": 97,
+    "img_above_text": "![Wukong Bitter 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Bitter_64.jpg)\nLook for a path to the right of the pavilion and start heading up the winding stairs that criss-cross along the cliffs filled with statues.",
+    "img_below_text": "Be on the lookout for various green Wisps to absorb as you ascend, and once you make a hard left to a flat area with a giant red-robed statue nearby, keep an eye out on the right for a **Treasure Chest** full of materials hiding in an alcove.\n![Wukong Bitter 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 97 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Bitter_64.jpg)\nLook for a path to the right of the pavilion and start heading up the winding stairs that criss-cross along the cliffs filled with statues.\"\n            - Following Text: \"Be on the lookout for various green Wisps to absorb as you ascend, and once you make a hard left to a flat area with a giant red-robed statue nearby, keep an eye out on the right for a **Treasure Chest** full of materials hiding in an alcove.\n![Wukong Bitter 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Wukong_Bitter_66.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bitter_65.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist, Wukong, navigating a snowy cliffside area filled with ancient statues and structures. A red circle highlights a hidden alcove on the right, suggesting the presence of a **Treasure Chest** containing valuable materials. This scene occurs as part of the ascent along winding stairs, where players are encouraged to explore for collectibles like green Wisps and hidden treasures."
+}

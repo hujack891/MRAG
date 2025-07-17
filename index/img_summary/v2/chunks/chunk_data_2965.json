@@ -1,0 +1,28 @@
+{
+    "chunk_id": 177832313654,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(26\\).png",
+    "position_desc": 18,
+    "img_above_text": "During the first phase of the fight, the Stone Monkey will generally try to attack with a combo of punches. These can be avoided but it's best to use dodges to build up your focus quickly. Speed is key for this first phase, to keep as many of your medicines and Gourd uses available for the second phase.\nHe will also leap up and pound his fists down onto the ground, causing a shockwave of rocks immediately around him. As long as you dive out of the way when he goes to land or step back from him slightly, you can avoid this attack.",
+    "img_below_text": "When his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\n![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"During the first phase of the fight, the Stone Monkey will generally try to attack with a combo of punches. These can be avoided but it's best to use dodges to build up your focus quickly. Speed is key for this first phase, to keep as many of your medicines and Gourd uses available for the second phase.\nHe will also leap up and pound his fists down onto the ground, causing a shockwave of rocks immediately around him. As long as you dive out of the way when he goes to land or step back from him slightly, you can avoid this attack.\"\n            - Following Text: \"When his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\n![Water Curtain Cave Walkthrough \\(25\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a battle against the Stone Monkey in the game \"Black Myth: Wukong.\" The Stone Monkey is shown mid-attack, causing rocks to fly around him, which aligns with the description of his shockwave attack during the first phase of the fight. The player character is seen engaging the Stone Monkey, emphasizing the need for quick dodges and strategic movement to avoid his powerful attacks and conserve resources for the subsequent phases of the battle."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 339040923695,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg",
+    "alt_text": "Wukong Sandgate 49.jpg",
+    "position_desc": 51,
+    "img_above_text": "![Wukong Sandgate 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Sandgate_53.jpg)\nIf you do want to do defeat the King but are worried about incurring the Prince’s wrath, a good idea is to attack the King whenever he’s exposed, but then focus your attention on taking the Prince’s health down to a manageable level so that when you defeat the King, the Prince can’t last long.",
+    "img_below_text": "The Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\n![Wukong Sandgate 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 51 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Wukong_Sandgate_53.jpg)\nIf you do want to do defeat the King but are worried about incurring the Prince’s wrath, a good idea is to attack the King whenever he’s exposed, but then focus your attention on taking the Prince’s health down to a manageable level so that when you defeat the King, the Prince can’t last long.\"\n            - Following Text: \"The Second Prince himself will use basic attacks like a dashing stab with the point of his spiked mace, or slam the ground in front of him repeatedly.\n![Wukong Sandgate 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_50.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Sandgate_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a combat scene from the game \"Black Myth: Wukong,\" featuring a battle between the protagonist and two enemies: the King of Flowing Sands and the Second Rat Prince. The preceding text suggests a strategy for defeating the King while managing the Prince's health, while the following text describes the Prince's basic attack moves. The image visually represents the intense action and strategic gameplay involved in this encounter."
+}

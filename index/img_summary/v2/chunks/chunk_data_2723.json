@@ -1,0 +1,28 @@
+{
+    "chunk_id": 943207457160,
+    "source_file": "Soaks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg",
+    "alt_text": "Celestial Lotus Seeds .jpg",
+    "position_desc": 2,
+    "img_above_text": "---|---|---|---|---|---\n![Gall Gem .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg)| Gall Gem| Uncommon | Using the Gourd moderately increases Poison Resistance for a short duration | Defeat the enemy harassing the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Gall Gem",
+    "img_below_text": "![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds\n![Copper Pill .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Copper_Pill_.jpg)| Copper Pill| Epic | After using the gourd, the next Rock Solid cast costs no mana for a short duration | Found by a statue on the hill after the Tiger Vanguard fight at Crouching Tiger Temple - Temple Entrance in Yellow Wind Ridge| Copper Pill",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Soaks.md'.\n\n            Context:\n            - Preceding Text: \"---|---|---|---|---|---\n![Gall Gem .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg)| Gall Gem| Uncommon | Using the Gourd moderately increases Poison Resistance for a short duration | Defeat the enemy harassing the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Gall Gem\"\n            - Following Text: \"![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds\n![Copper Pill .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Copper_Pill_.jpg)| Copper Pill| Epic | After using the gourd, the next Rock Solid cast costs no mana for a short duration | Found by a statue on the hill after the Tiger Vanguard fight at Crouching Tiger Temple - Temple Entrance in Yellow Wind Ridge| Copper Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a bamboo container holding green buds, which are likely the Laurel Buds mentioned in the following text. In the context of the game \"Black Myth: Wukong,\" these buds are a rare item that moderately increases damage reduction for a short duration when used. The image serves to visually represent the Laurel Buds, providing players with a reference for identifying the item in the game."
+}

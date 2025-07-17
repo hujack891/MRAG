@@ -1,31 +1,6 @@
 {
-    "chunk_id": 195880557937,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Outside the Wheel",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_95.jpg",
-    "alt_text": "Wukong Pagoda 95.jpg",
-    "position_desc": 90,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nFrom the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\n\nOutside the Wheel Luojia Fragrant Vine\n\nAs you exit the cave, you'll find yourself at the bottom of a gorge with more plants to harvest as you proceed.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 90 from the file 'Pagoda_Realm_Walkthrough.md', located under Outside the Wheel.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Outside the Wheel\n                - Alt Text: Wukong Pagoda 95.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Outside the Wheel\nYour journey through the Pagoda Realm isn't done yet however, as there's a large linear mountain pass with a few branching paths to explore as you exit this particular area.\n\nFrom the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd.\n\nOutside the Wheel Luojia Fragrant Vine\n\nAs you exit the cave, you'll find yourself at the bottom of a gorge with more plants to harvest as you proceed.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_95.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a snowy, rocky path within a gorge, featuring a character holding a staff, likely navigating through the area. The path is lined with traditional pagoda-style lanterns, and a red arrow points towards a side path or hidden area on the right. This scene aligns with the \"Outside the Wheel\" section of the document \"The Beguiling Chant of the Pagoda Realm,\" suggesting that the image illustrates a key moment in the journey where the character must explore branching paths and gather resources like the Luojia Fragrant Vine. The image serves to visually guide the reader through this part of the walkthrough, emphasizing exploration and discovery."
+    "chunk_id": 686497940970,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_LowerHollow_85.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a gameplay scene from a video game where the player character is engaged in combat with a large, menacing spider-like enemy named \"Violet Spider.\" The environment is dark and web-covered, suggesting a cave or lair setting. The user interface shows attack options on the left: \"Light Attack 'Sprouting Spring'\" and \"Heavy Attack 'Withering Winter,'\" with descriptions indicating their effects on building Focus. The bottom of the screen displays a health bar for the Violet Spider, indicating its current health status. On the right side, there are icons for abilities or items, with one showing a circular design with red accents, possibly related to the player's health or special abilities. The scene emphasizes strategic combat choices against a formidable enemy."
 }

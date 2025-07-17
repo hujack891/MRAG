@@ -1,0 +1,28 @@
+{
+    "chunk_id": 921635187954,
+    "source_file": "Snake_Herbalist_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Snake_Herbalist_Spirit.jpg",
+    "alt_text": "Snake Herbalist Spirit.jpg",
+    "position_desc": 3,
+    "img_above_text": "The Snake Herbalist has a basket full of poison on its back as well, so keep an eye on your status effects during this fight. Take some Antimiasma Powder when necessary.\n## Snake Herbalist Spirit",
+    "img_below_text": "* **Venom Spray**\n* Equipped Effect: Recovers a small amount of Health when taking Medicines.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Snake_Herbalist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Snake Herbalist has a basket full of poison on its back as well, so keep an eye on your status effects during this fight. Take some Antimiasma Powder when necessary.\n## Snake Herbalist Spirit\"\n            - Following Text: \"* **Venom Spray**\n* Equipped Effect: Recovers a small amount of Health when taking Medicines.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Snake_Herbalist_Spirit.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image shows the in-game equipment menu for a character in a video game, specifically highlighting the \"Snake Herbalist\" spirit. This spirit has a moderate Qi cost and provides the ability \"Venom Spray,\" which creates poisonous pools on the ground that inflict Poison Bane on enemies. Additionally, when equipped, it grants a small health recovery when the player takes medicines. The context suggests that this spirit is useful for managing poison effects during combat."
+}

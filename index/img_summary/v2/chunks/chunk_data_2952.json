@@ -1,0 +1,28 @@
+{
+    "chunk_id": 435335967684,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(1\\).png",
+    "position_desc": 5,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)\nHead toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.",
+    "img_below_text": "Immediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.\n![Water Curtain Cave Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Water_Curtain_Cave_Walkthrough_%283%29.png)\nHead toward the path on the other side of the cave, where the lamp is glowing. Follow this until you reach the next section with a taller waterfall, then turn left.\"\n            - Following Text: \"Immediately, you'll see a giant staff in the center of the room. Make your way over to it and let the cutscene play out.\n![Water Curtain Cave Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Water_Curtain_Cave_Walkthrough_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Water_Curtain_Cave_Walkthrough_%281%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene within a cave where a character, likely the protagonist, stands poised with a staff, gazing toward a glowing, ornate pillar in the center of the cavern. The preceding text suggests the character has navigated through a path past a waterfall, while the following text indicates the discovery of a giant staff, leading to an important cutscene. This image captures a pivotal moment in the narrative, emphasizing exploration and the anticipation of a significant event or revelation within the game's storyline."
+}

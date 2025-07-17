@@ -1,0 +1,28 @@
+{
+    "chunk_id": 166866974561,
+    "source_file": "Charface_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Charface_Cave.png",
+    "alt_text": "Charface Cave.png",
+    "position_desc": 2,
+    "img_above_text": "## Charface Location\nYou will come across Charface naturally as you make your way up the mountain. He can be found lurking inside a cave near the Heart of Ember Keeper's Shrine. To get there, head forward after defeating the Father of Stones Spirit and run through the gate on the right. The cave is at the bottom of the path.",
+    "img_below_text": "## Charface Fight\nCharface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Charface_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Charface Location\nYou will come across Charface naturally as you make your way up the mountain. He can be found lurking inside a cave near the Heart of Ember Keeper's Shrine. To get there, head forward after defeating the Father of Stones Spirit and run through the gate on the right. The cave is at the bottom of the path.\"\n            - Following Text: \"## Charface Fight\nCharface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Charface_Cave.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, ominous cave entrance surrounded by intricately carved stone faces, suggesting a foreboding and mystical atmosphere. A character stands in front of the cave, adorned in ornate armor and wielding a staff-like weapon, preparing to enter. Based on the preceding and following text, this scene represents the approach to Charface's cave near the Heart of Ember Keeper's Shrine, where players will encounter Charface, a challenging enemy wielding a fiery scimitar. The image sets the tone for the upcoming fight and highlights the eerie environment leading to the confrontation."
+}

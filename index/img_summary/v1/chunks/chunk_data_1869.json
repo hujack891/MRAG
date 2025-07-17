@@ -1,31 +1,6 @@
 {
-    "chunk_id": 588572612916,
-    "source_file": "Mad_Tiger.md",
-    "h1_title": "Mad Tiger",
-    "h2_title": "Where to Find the Mad Tiger",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg",
-    "alt_text": "Wukong Rattle 1.jpg",
-    "position_desc": 1,
-    "img_above_text": "# Mad Tiger\nThe Mad Tiger is an optional secret Yaoguai Chief miniboss that you can encounter deep in a well in Chapter 2 of Black Myth Wukong. Not to be confused with his brother, the Tiger Vanguard of the Crouching Tiger Temple, you can only reach this boss by following the trail of a ghostly boy using the Old Rattle-Drum Key Item.\n* Rewards: Mad Tiger Spirit, Blood of the Iron Bull, Yaoguai Core x1, Stone Spirit x1, 1102 Experience, 1023 Will, Plaguebane Gourd (in chest)\n## Where to Find the Mad Tiger\n\nAfter defeating the Tiger’s Acolyte\"), you’ll gain the Old-Rattle Drum, which appears to have belonged to the Acolyte’s son, but no other details are provided. You will need to find three areas where you can use the drum to summon a spirit, in locations all across the Yellow Wind Ridge. The only clue you’ll have is that entering the correct area will cause your vision to warp, and the ghostly voice of a boy calling out to you.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 1 from the file 'Mad_Tiger.md', located under Where to Find the Mad Tiger.\n\n                Metadata:\n                - Document Title: Mad Tiger\n                - Section Title: Where to Find the Mad Tiger\n                - Alt Text: Wukong Rattle 1.jpg\n\n                Context:\n                - Preceding Text: \"# Mad Tiger\nThe Mad Tiger is an optional secret Yaoguai Chief miniboss that you can encounter deep in a well in Chapter 2 of Black Myth Wukong. Not to be confused with his brother, the Tiger Vanguard of the Crouching Tiger Temple, you can only reach this boss by following the trail of a ghostly boy using the Old Rattle-Drum Key Item.\n* Rewards: Mad Tiger Spirit, Blood of the Iron Bull, Yaoguai Core x1, Stone Spirit x1, 1102 Experience, 1023 Will, Plaguebane Gourd (in chest)\n## Where to Find the Mad Tiger\n\nAfter defeating the Tiger’s Acolyte\"), you’ll gain the Old-Rattle Drum, which appears to have belonged to the Acolyte’s son, but no other details are provided. You will need to find three areas where you can use the drum to summon a spirit, in locations all across the Yellow Wind Ridge. The only clue you’ll have is that entering the correct area will cause your vision to warp, and the ghostly voice of a boy calling out to you.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "### Summary of the Image:\n\nThe image depicts a gameplay scene from *Black Myth: Wukong*, showing the player character navigating a grassy, abandoned area with dilapidated structures. A red arrow overlays the image, pointing toward a pathway leading deeper into the environment, suggesting a direction or clue for progression. This visual likely serves as a guide for locating one of the areas where the Old Rattle-Drum can be used to summon a spirit, as described in the section \"Where to Find the Mad Tiger\" of the document *Mad Tiger*. The image aligns with the narrative context of exploring Yellow Wind Ridge to uncover hidden locations tied to the Mad Tiger miniboss encounter."
+    "chunk_id": 697407814807,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Woods_Ember_Walkthrough_%281%29.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a tense combat scene in a dark, desolate environment. Two large, intimidating enemies wielding massive weapons are engaged in battle with a smaller, agile character. The enemies appear to be heavily armored, suggesting they are formidable opponents. The environment is bleak, with barren trees and rocky terrain, indicating a challenging setting for the player. The scene suggests strategic gameplay, requiring the player to navigate the environment carefully and engage in combat with precision and skill."
 }

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 134923159698,
+    "source_file": "Celestial_Taiyi_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black_Mountain_Taiyi.jpg",
+    "alt_text": "Black Mountain Taiyi.jpg",
+    "position_desc": 1,
+    "img_above_text": "## Black Wind Mountain Celestial Taiyi Pill\nBlack Wind Mountain Celestial Taiyi Pill",
+    "img_below_text": "The Celestial Taiyi Pill on Black Wind Mountain is accessible after defeating the Black Wind King. After defeating the boss, explore the wooden platforms in the temple to find the Celestial Taiyi Pill sitting on a wooden bench.\n## Yellow Wind Ridge Celestial Taiyi Pill",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Celestial_Taiyi_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## Black Wind Mountain Celestial Taiyi Pill\nBlack Wind Mountain Celestial Taiyi Pill\"\n            - Following Text: \"The Celestial Taiyi Pill on Black Wind Mountain is accessible after defeating the Black Wind King. After defeating the boss, explore the wooden platforms in the temple to find the Celestial Taiyi Pill sitting on a wooden bench.\n## Yellow Wind Ridge Celestial Taiyi Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Black_Mountain_Taiyi.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a character standing on a wooden platform in a serene, forested area, interacting with a golden bowl placed on a wooden table. The setting includes a multi-tiered stone pagoda, lush greenery, and a waterfall in the background, suggesting a tranquil yet mystical environment.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image likely illustrates the location of the Celestial Taiyi Pill on Black Wind Mountain, as described in the context. It visually represents the moment after defeating the Black Wind King, where the player explores the temple's wooden platforms to discover the pill. The serene and detailed environment emphasizes the reward and exploration aspect of this stage in the narrative."
+}

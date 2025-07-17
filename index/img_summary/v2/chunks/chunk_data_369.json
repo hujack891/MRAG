@@ -1,0 +1,28 @@
+{
+    "chunk_id": 784459545695,
+    "source_file": "Buddha%27s_Right_Hand.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_MiddleHollow_57.jpg",
+    "alt_text": "Wukong MiddleHollow 57.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong MiddleHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg)\nDoing so will often cause the hand to become immobile for a few moments, so be ready to turn around and chase it to follow up some a few attacks.",
+    "img_below_text": "If it curls into a fist but doesn't raise up, watch for a gold glow to empower the hand as it punches around in a wide arch to try and trap you against the wall with.\n![Wukong MiddleHollow 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_54.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Buddha%27s_Right_Hand.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_MiddleHollow_56.jpg)\nDoing so will often cause the hand to become immobile for a few moments, so be ready to turn around and chase it to follow up some a few attacks.\"\n            - Following Text: \"If it curls into a fist but doesn't raise up, watch for a gold glow to empower the hand as it punches around in a wide arch to try and trap you against the wall with.\n![Wukong MiddleHollow 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_54.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_MiddleHollow_57.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" featuring a character engaged in combat with a large, glowing hand referred to as \"Buddha's Right Hand.\" The preceding text suggests that the hand can become immobile temporarily, providing an opportunity for the player to attack. The following text warns of the hand's potential to curl into a fist and execute a powerful punch, indicating a challenging and dynamic battle sequence. The image captures the tense atmosphere of the encounter within a dimly lit cave environment."
+}

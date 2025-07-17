@@ -1,0 +1,28 @@
+{
+    "chunk_id": 586039274805,
+    "source_file": "Lang-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg",
+    "alt_text": "Wukong Sandgate 17.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)\nBe sure not to attack too much from the frog’s rear, as its quick hop mule kick can deal a ton of damage with little warning. If you see his arms cross, he’ll bloat his chest out for a frontal assault.",
+    "img_below_text": "Several of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.\n![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_Sandgate_16.jpg)\nBe sure not to attack too much from the frog’s rear, as its quick hop mule kick can deal a ton of damage with little warning. If you see his arms cross, he’ll bloat his chest out for a frontal assault.\"\n            - Following Text: \"Several of its new electric attacks can deal a flurry of damage if you aren’t prepared to deal with them. The usual tell will be when the frog’s throat swells with electric energy. He will then shoot out dozens of electrified tadpoles — sometimes in a large frontal arc around him, and sometimes he’ll just spew them out and have them scatter around him.\n![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Sandgate_17.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a boss battle against Lang-Li-Guhh-Baw, a frog-like enemy in *Black Myth: Wukong*. The creature is unleashing electrified attacks, with golden energy streaks and electrified tadpoles scattering across the battlefield. The preceding text warns players about the frog's mule kick and frontal assault, while the following text highlights its electric attacks, including the swelling of its throat before releasing electrified tadpoles. The image emphasizes the intensity of the fight and the need for strategic preparation."
+}

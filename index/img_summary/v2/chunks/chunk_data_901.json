@@ -1,0 +1,28 @@
+{
+    "chunk_id": 157515209323,
+    "source_file": "Drunken_Boar_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sahali_4.jpg",
+    "alt_text": "Wukong Sahali 4.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Sahali 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Sahali_7.jpg)\nOther times, his third attack will have him extend his clawed hand back and charge up, before performing a dashing impaling thrust attack that covers a lot of ground quickly, so be ready to react when he lunges at you.",
+    "img_below_text": "Another common attack combo he will perform will be to drag his claws slowly through the ground and pull them upward to attack and spread sand — which you can easily spot and deflect to interrupt him. If you don’t, he’ll charge forward through the sand to stab with his extended claws.\n![Wukong Sahali 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sahali_5.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Drunken_Boar_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Sahali_7.jpg)\nOther times, his third attack will have him extend his clawed hand back and charge up, before performing a dashing impaling thrust attack that covers a lot of ground quickly, so be ready to react when he lunges at you.\"\n            - Following Text: \"Another common attack combo he will perform will be to drag his claws slowly through the ground and pull them upward to attack and spread sand — which you can easily spot and deflect to interrupt him. If you don’t, he’ll charge forward through the sand to stab with his extended claws.\n![Wukong Sahali 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Wukong_Sahali_5.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sahali_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts an intense combat scene from *Black Myth: Wukong*, where the player character, armed with a staff, faces off against a large enemy named \"Yellow-Robed Squire.\" The environment is a rocky, desolate landscape with distant temple structures, emphasizing the game's mythological and atmospheric setting. The preceding and following text suggests the enemy employs aggressive claw-based attacks, including dashing thrusts and sand-spreading moves, requiring precise timing and defensive strategies from the player. The UI elements highlight available consumables and abilities, reinforcing the tactical nature of the encounter."
+}

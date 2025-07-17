@@ -1,0 +1,28 @@
+{
+    "chunk_id": 68245556236,
+    "source_file": "Fungiman_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Fungiman_2.jpg",
+    "alt_text": "Fungiman 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.",
+    "img_below_text": "## Fungiman Fight\nFungiman is armed with a giant staff and plenty of poisonous spores to surround you with. In addition to blunt attacks with the staff, make sure not to step on any of the poison gas on the floor. Making contact with the gas will start to poison you and eat away at your health. When casting Immobilize, wait until the ground is clear of poison so you can really lay it on him without worrying about getting poisoned at the same time.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Fungiman_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Fungiman Location\nFungiman is hidden in one of the cells in the Pagoda Realm. As you're exploring the Pagoda, pluck all the mushrooms you find. One mushroom in a corner by some bars is the Fungiman, who will crawl out of the ground when you try to pick him up.\"\n            - Following Text: \"## Fungiman Fight\nFungiman is armed with a giant staff and plenty of poisonous spores to surround you with. In addition to blunt attacks with the staff, make sure not to step on any of the poison gas on the floor. Making contact with the gas will start to poison you and eat away at your health. When casting Immobilize, wait until the ground is clear of poison so you can really lay it on him without worrying about getting poisoned at the same time.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Fungiman_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene involving Fungiman, a mushroom-like enemy armed with a staff, in a confined area surrounded by bars and red rock walls. The player character is engaged in close-quarters combat, with visible poison gas on the ground, emphasizing the hazardous environment. This visual aligns with the context of the Fungiman fight, highlighting the use of poisonous spores and the need for strategic movement to avoid health damage."
+}

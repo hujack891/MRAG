@@ -1,0 +1,28 @@
+{
+    "chunk_id": 685512657949,
+    "source_file": "Bullguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Wolves_20.jpg",
+    "alt_text": "Wukong Wolves 20.jpg",
+    "position_desc": 5,
+    "img_above_text": "Once you carve out about half of the Bullguard’s health bar, he’ll parry your next strike and move in for the killing blow — until the Keeper intervenes. Using an immobilization spell to lock him in place, the Keeper will pass on the magic spell to the Destined One, giving you your first spell - **Immobilize**!\nImmobilize allows you to bind an enemy in place for a small duration, at which point you’re able to make use of the pause to unload with attacks until the effect breaks. Stronger enemies like this Yaoguai Chief will break out a lot sooner than regular foes, and certain bosses can even resist it entirely, so be wary!",
+    "img_below_text": "Once the Bullguard breaks free and the Keeper vanishes, it will be up to you to finish the fight. Utilize your new Immobilize Spell to bind him when it suits you best — either to ward off an incoming attack, catch your breath so you can heal, or use the moment to hit him from the side, and launch a heavy attack to send him sprawling.\nDon’t get too reckless, as the Immobilize Spell has a moderate cooldown, and uses a bit of your magic meter each time. Unlike your health or stamina, you can’t regenerate magic except by resting at a Shrine.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Bullguard.md'.\n\n            Context:\n            - Preceding Text: \"Once you carve out about half of the Bullguard’s health bar, he’ll parry your next strike and move in for the killing blow — until the Keeper intervenes. Using an immobilization spell to lock him in place, the Keeper will pass on the magic spell to the Destined One, giving you your first spell - **Immobilize**!\nImmobilize allows you to bind an enemy in place for a small duration, at which point you’re able to make use of the pause to unload with attacks until the effect breaks. Stronger enemies like this Yaoguai Chief will break out a lot sooner than regular foes, and certain bosses can even resist it entirely, so be wary!\"\n            - Following Text: \"Once the Bullguard breaks free and the Keeper vanishes, it will be up to you to finish the fight. Utilize your new Immobilize Spell to bind him when it suits you best — either to ward off an incoming attack, catch your breath so you can heal, or use the moment to hit him from the side, and launch a heavy attack to send him sprawling.\nDon’t get too reckless, as the Immobilize Spell has a moderate cooldown, and uses a bit of your magic meter each time. Unlike your health or stamina, you can’t regenerate magic except by resting at a Shrine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Wolves_20.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment where the player uses the newly acquired **Immobilize Spell** to bind the Bullguard, a powerful enemy, during combat. The glowing magical effect surrounds the Bullguard, showcasing the spell's activation. This scene emphasizes the strategic use of Immobilize to temporarily halt the enemy's movements, allowing the player to attack, heal, or reposition. The health bar and magic meter visible in the HUD further highlight the resource management required during this encounter."
+}

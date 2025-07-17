@@ -1,0 +1,28 @@
+{
+    "chunk_id": 959070509485,
+    "source_file": "Baw-Li-Guhh-Lang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bamboo_16.jpg",
+    "alt_text": "Wukong Bamboo 16.jpg",
+    "position_desc": 2,
+    "img_above_text": "### Yaoguai Chief Mini-Boss Fight - Baw-Li-Guhh-Lang\nA gargantuan Yaoguai Toad, Baw-Li-Guhh-Lang will waste no time leaping into battle with a powerful slam attack from the air. While he doesn’t have many moves, they can often land extremely quickly, which means you’ll need to be ready to dodge at any moment.",
+    "img_below_text": "His most standard attack includes a series of swipes with both arms that sends him forward, ending in a small leaping splash attack that allows him to reposition. By dodging the first swipe to the side, you can wait for him to leap back towards you and then use Immobilize to keep in place while you attack. He can also use any of these swipes and slams independently as well as in a three-hit combo, so look for a follow-up attack before deciding to commit to countering with your own attacks.\n![Wukong Bamboo 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Bamboo_15.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Baw-Li-Guhh-Lang.md'.\n\n            Context:\n            - Preceding Text: \"### Yaoguai Chief Mini-Boss Fight - Baw-Li-Guhh-Lang\nA gargantuan Yaoguai Toad, Baw-Li-Guhh-Lang will waste no time leaping into battle with a powerful slam attack from the air. While he doesn’t have many moves, they can often land extremely quickly, which means you’ll need to be ready to dodge at any moment.\"\n            - Following Text: \"His most standard attack includes a series of swipes with both arms that sends him forward, ending in a small leaping splash attack that allows him to reposition. By dodging the first swipe to the side, you can wait for him to leap back towards you and then use Immobilize to keep in place while you attack. He can also use any of these swipes and slams independently as well as in a three-hit combo, so look for a follow-up attack before deciding to commit to countering with your own attacks.\n![Wukong Bamboo 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0c/Wukong_Bamboo_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Bamboo_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the intense mini-boss fight against Baw-Li-Guhh-Lang, a massive Yaoguai Toad, in *Black Myth: Wukong*. The scene captures the creature mid-action, likely during one of its swift attacks, emphasizing its agility and power. The player’s HUD is visible, showing health, abilities, and the boss's name and health bar, reinforcing the gameplay context. This visual complements the preceding and following text, which describe Baw-Li-Guhh-Lang's attack patterns and strategies for countering them during combat."
+}

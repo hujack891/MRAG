@@ -1,0 +1,28 @@
+{
+    "chunk_id": 464048275504,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg",
+    "alt_text": "Wukong Sandgate 59.jpg",
+    "position_desc": 57,
+    "img_above_text": "![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)\nHis new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.",
+    "img_below_text": "His overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.\n![Wukong Sandgate 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 57 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 58.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg)\nHis new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\"\n            - Following Text: \"His overhead slam can similarly raise a line of fissures from the strike, making dodging to the side your best bet.\n![Wukong Sandgate 61.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Sandgate_61.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character named the \"Second Rat Prince\" executing a powerful attack. The attack creates a ring of fissures on the ground, indicating a high-impact move that players need to evade. The context suggests that this is part of a combat sequence where strategic dodging is crucial to avoid damage from the enemy's powerful strikes."
+}

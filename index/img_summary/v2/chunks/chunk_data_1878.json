@@ -1,0 +1,28 @@
+{
+    "chunk_id": 161869000850,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
+    "alt_text": "Wukong Thunderclap 88.jpg",
+    "position_desc": 12,
+    "img_above_text": "Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.",
+    "img_below_text": "Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Even though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\nA lot of the Macaque Chief's attacks should look familiar, which is a good thing as you'll be able to accurately react and avoid his most common attacks.\"\n            - Following Text: \"Expect him to employ his reliable sword stab where the claws out in front of him before grabbing the sword back with his legs to swing at you with, but the range will be greatly increased.\nHe also employs a lot of usual blade swipes, and his multi-hit spinning two-handed swings, which now create large projectiles slashes in front of him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Thunderclap_88.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle against the Macaque Chief, a formidable boss wielding an evil sword in a dark, red-hued environment. The scene highlights the chaotic nature of the fight, with large projectile slashes and glowing effects emphasizing the Chief's powerful attacks. The accompanying text suggests this encounter is challenging, requiring precise reactions to familiar attack patterns, such as sword stabs and spinning multi-hit swings. The quote at the bottom, \"All beings suffer as they heed not the precepts and indulge,\" adds a thematic layer to the fight, underscoring the moral or philosophical undertones of the confrontation."
+}

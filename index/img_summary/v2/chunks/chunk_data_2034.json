@@ -1,0 +1,28 @@
+{
+    "chunk_id": 752759502703,
+    "source_file": "Mother_of_Stones.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
+    "alt_text": "Wukong Fright 28.jpg",
+    "position_desc": 1,
+    "img_above_text": "Once inside the Fright Cliff region, head past the Squall Hideout Shrine and keep left to enter a large cave area, and take a left turn to find the unresponsive boss.\n### Mother of Stones Boss Fight",
+    "img_below_text": "This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stones doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\nWhat will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Mother_of_Stones.md'.\n\n            Context:\n            - Preceding Text: \"Once inside the Fright Cliff region, head past the Squall Hideout Shrine and keep left to enter a large cave area, and take a left turn to find the unresponsive boss.\n### Mother of Stones Boss Fight\"\n            - Following Text: \"This boss battle is an interesting one, simply because the giant crystal-embedded statue known as the Mother of Stones doesn’t actually fight you. It doesn’t really move at all, but it has a lot of health to slowly chip through.\nWhat will fight you, however, is the army of Palestones you can spot embedded in the ground and walls all around you. Make no mistake, this will be an endurance battle, as you’ll need to survive repeated encounters with more and more Palestones.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the boss fight against the Mother of Stones in the Fright Cliff region. The giant crystal-embedded statue, which is the boss, is shown surrounded by glowing crystals. The health bar at the bottom indicates the boss's substantial health that players need to chip away. The image emphasizes the challenging nature of the battle, highlighting the presence of Palestones, which are enemies that will actively fight the player while the Mother of Stones remains stationary."
+}

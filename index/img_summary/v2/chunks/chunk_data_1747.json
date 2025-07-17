@@ -1,0 +1,28 @@
+{
+    "chunk_id": 647268381402,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg",
+    "alt_text": "Wukong Turtle 6.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Turtle 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg)\nOther times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.",
+    "img_below_text": "After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Turtle_5.jpg)\nOther times, watch her hand movements when attacking up close -- if she waves them around with electric energy before holding them at her side, be ready for an extremely quick lightning burst she'll slam down in front of her to block your advance.\"\n            - Following Text: \"After taking a bit of damage, she can teleport away to appear high up in the air. Often times, this will start by turning into a larger electrical dragon resembling Kang-Jin Loong.\nWhen she's far away, she'll roar to create a lightning storm of sorts, causing large spear-like projectiles to hit the ground with an electric explosion, and only a moment's warning for where they'll strike.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_Turtle_6.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game, likely \"Black Myth: Wukong,\" featuring an intense battle sequence. The player character is shown in a snowy, mountainous landscape, seemingly evading or being struck by a powerful lightning attack. This attack is part of a boss fight against an enemy capable of transforming into an electrical dragon, as described in the surrounding text. The image captures the dramatic moment of the lightning storm, emphasizing the dynamic and challenging nature of the encounter."
+}

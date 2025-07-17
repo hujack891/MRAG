@@ -1,0 +1,28 @@
+{
+    "chunk_id": 137816469512,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg",
+    "alt_text": "Wukong Karma 15.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Karma 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg)\nEven with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.",
+    "img_below_text": "Many times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.\n![Wukong Karma 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Karma_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Old_Ginseng_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg)\nEven with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\"\n            - Following Text: \"Many times, he'll end his flailing by spinning around and then falling backward right on top of you. He'll have his own version of Rock Solid when he does this and flash yellow, so it's better to just evade him entirely.\n![Wukong Karma 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Wukong_Karma_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" featuring a battle between the player character and an enemy named \"Old Ginseng Guai.\" The context provided indicates that this enemy, despite its slow speed, is capable of sudden, powerful attacks such as lunges and flailing kicks. The image captures a moment of combat where the player character is on the ground, possibly having been knocked down by one of Old Ginseng Guai's attacks. The snowy, forested environment adds to the atmospheric tension of the encounter."
+}

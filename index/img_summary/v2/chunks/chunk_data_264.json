@@ -1,0 +1,28 @@
+{
+    "chunk_id": 608275693535,
+    "source_file": "Black_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg",
+    "alt_text": "Wukong RedLoong 1.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nOnce you arrive in the large covered valley area, keep to the left to find a large lower platform by a slightly rounded red wall lined with small statues. At this point, if you did not kill the King of Flowing Sand, he’ll summon his other son, the First Rat Prince — otherwise you can use the Pungent Flesh Chunk to summon him yourself.",
+    "img_below_text": "While fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\n![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Black_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\nOnce you arrive in the large covered valley area, keep to the left to find a large lower platform by a slightly rounded red wall lined with small statues. At this point, if you did not kill the King of Flowing Sand, he’ll summon his other son, the First Rat Prince — otherwise you can use the Pungent Flesh Chunk to summon him yourself.\"\n            - Following Text: \"While fighting the First Rat Prince, you can lure him into performing one of his large slam attacks when facing the rounded wall, and it will cause a crack to appear in the wall. If you are unable to lure the boss into forming a crack in the wall, you can even do so yourself by hitting it with a very strong attack - we recommend the Wandering Wight’s Spirit Attack, or the Azure Dust Transformation Spell’s final attack.\n![Wukong RedLoong 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a gameplay moment from *Black Myth: Wukong*, showing an interaction near a rounded red wall in a sandy environment. The player appears to be using combat abilities, including \"Earth Shatter\" and \"Mountain Splitter,\" possibly to damage the wall or engage in combat. The scene aligns with the narrative context of cracking the wall to progress in the game.\n\n2. **Narrative Role**:  \nThe image illustrates the player's efforts to either lure the First Rat Prince into breaking the wall or use their own strong attacks to create a crack in the rounded red wall, facilitating progression in the valley area. It highlights the importance of strategic combat and environmental interaction in the game."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 56810372476,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg",
+    "alt_text": "Wukong Sandgate 39.jpg",
+    "position_desc": 3,
+    "img_above_text": "## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.",
+    "img_below_text": "It will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.\n![Wukong Sandgate 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Earth_Wolf.md'.\n\n            Context:\n            - Preceding Text: \"## Earth Wolf Miniboss Fight and Guide\nThis strange looking yaoguai has a lot of rushing attacks that are hard to get a sense of due to its attack patterns, and you’ll want to utilize your Immobilize spell for help interrupting these when possible.\"\n            - Following Text: \"It will often start the fight with a leaping attack, using its head to ram into you as it rolls when it hits the ground. Wait until it comes crashing down to dodge, then move along with it to keep attacking as it rights itself.\n![Wukong Sandgate 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Sandgate_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Sandgate_39.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Earth Wolf miniboss mid-leap during an intense combat encounter in *Black Myth: Wukong*. The player character is shown preparing to react, emphasizing the guide's advice to dodge the wolf's leaping attack and counter as it recovers. The scene highlights the dynamic and challenging nature of the fight, set in a desolate, atmospheric environment."
+}

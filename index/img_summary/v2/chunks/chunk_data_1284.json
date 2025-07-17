@@ -1,0 +1,28 @@
+{
+    "chunk_id": 609514822402,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+    "alt_text": "Wukong Shigandang 1.jpg",
+    "position_desc": 47,
+    "img_above_text": "![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang",
+    "img_below_text": "If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Fright_43.jpg)\n### Secret - Get Help from the Shigandang\"\n            - Following Text: \"If you find yourself having trouble with the Stone Vanguard, it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\n![Wukong Shigan Secret1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist from *Black Myth: Wukong* interacting with a large rock formation resembling a cluster of human faces, with a prompt labeled \"Deliver\" visible on the screen. Based on the surrounding context, this moment likely involves a secret interaction or mechanic tied to summoning assistance from the Shigandang or another Yaoguai King, potentially aiding in the upcoming boss fight against the Stone Vanguard."
+}

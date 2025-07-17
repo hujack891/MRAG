@@ -1,0 +1,28 @@
+{
+    "chunk_id": 499043112330,
+    "source_file": "Yellow-Robed_Squire.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg",
+    "alt_text": "Wukong Fright 59.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** Snout Mask, 1102 Experience, 1037 Will\n## Where to Find the Yellow-Robed Squire",
+    "img_below_text": "You can find the Drunken Boar while exploring the Fright Cliff region, by heading all the way to the back of the Rockrest Flat beyond the Shrine, to a large open field past where a Spearbone enemy guards a small breakable wooden fence.\n![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Yellow-Robed_Squire.md'.\n\n            Context:\n            - Preceding Text: \"* **Rewards:** Snout Mask, 1102 Experience, 1037 Will\n## Where to Find the Yellow-Robed Squire\"\n            - Following Text: \"You can find the Drunken Boar while exploring the Fright Cliff region, by heading all the way to the back of the Rockrest Flat beyond the Shrine, to a large open field past where a Spearbone enemy guards a small breakable wooden fence.\n![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Wukong_Fright_59.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the protagonist encounters a large, drunken boar-like creature in a rocky, desolate landscape. The text overlay in the image suggests that the creature is requesting the player to find something to sober it up. This encounter is part of the quest to locate the Yellow-Robed Squire, with the Drunken Boar being a notable character found in the Fright Cliff region, specifically in the Rockrest Flat area beyond the Shrine."
+}

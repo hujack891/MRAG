@@ -1,0 +1,28 @@
+{
+    "chunk_id": 12587530273,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_2.jpg",
+    "alt_text": "Wukong Pagoda 2.jpg",
+    "position_desc": 2,
+    "img_above_text": "After winning the battle against Kang-Jin Loong, you'll be swept up and thrown into a jail of sorts, in a new region known as The Pagoda Realm. Thankfully you'll be able to open your cell door without much trouble, but it will be long climb to get out of here.\nStepping out into this eerie dungeon, you'll find that this part of the Pagoda Realm is a prison made up of several circular tiers that comprise both an inner walkway ring, and an outer ring for cells, hallways, and stairs -- all circling a large pagoda (and that's not even the titular one) made to look like a mani wheel (or prayer wheel), as its slowly revolving and featuring large statues on every side.",
+    "img_below_text": "As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"After winning the battle against Kang-Jin Loong, you'll be swept up and thrown into a jail of sorts, in a new region known as The Pagoda Realm. Thankfully you'll be able to open your cell door without much trouble, but it will be long climb to get out of here.\nStepping out into this eerie dungeon, you'll find that this part of the Pagoda Realm is a prison made up of several circular tiers that comprise both an inner walkway ring, and an outer ring for cells, hallways, and stairs -- all circling a large pagoda (and that's not even the titular one) made to look like a mani wheel (or prayer wheel), as its slowly revolving and featuring large statues on every side.\"\n            - Following Text: \"As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Pagoda_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene within a dark, eerie dungeon setting, likely part of the Pagoda Realm's prison area described in the context. A character in tattered clothing stands before a large, ornate gate, with a mysterious purple seal glowing around it, indicating some form of magical barrier. Another figure, possibly a prisoner, is seen inside the cell, leaning against the gate and seemingly interacting with the protagonist. The text at the bottom of the image reads, \"Stay where you are, newcomer,\" suggesting a dialogue or warning from the prisoner to the protagonist about the dangers ahead. This image serves to illustrate the moment when the protagonist encounters a fellow prisoner who provides a cautionary message about the challenges of navigating the prison."
+}

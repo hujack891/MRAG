@@ -1,0 +1,28 @@
+{
+    "chunk_id": 882494138927,
+    "source_file": "Sweet_Ice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg",
+    "alt_text": "Wukong Thunderclap 29.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Sweet Ice Soak can be found in New Thunderclap Temple in The New West, specifically at the Temple Entrance Shrine. From the Shrine, follow the path to the middle-right and through the red building's opening to get to the main plaza.\nContinue onwards, sticking to the right, and head through another red building's opening. Go up the staircase, and take a right, and another right to see a building just in front of you.",
+    "img_below_text": "Behind this building, you can find the Soak within a gazebo.\n![Wukong Thunderclap 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_28.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Sweet_Ice.md'.\n\n            Context:\n            - Preceding Text: \"The Sweet Ice Soak can be found in New Thunderclap Temple in The New West, specifically at the Temple Entrance Shrine. From the Shrine, follow the path to the middle-right and through the red building's opening to get to the main plaza.\nContinue onwards, sticking to the right, and head through another red building's opening. Go up the staircase, and take a right, and another right to see a building just in front of you.\"\n            - Following Text: \"Behind this building, you can find the Soak within a gazebo.\n![Wukong Thunderclap 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Thunderclap_28.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Thunderclap_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing at the top of a snowy staircase, armed with a spear, facing an enemy below. The setting is a winter landscape with traditional architecture, likely within the New Thunderclap Temple area. This image serves to illustrate the player's journey through the temple, providing a visual reference for navigating towards the Sweet Ice Soak location."
+}

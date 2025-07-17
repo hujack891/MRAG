@@ -1,0 +1,28 @@
+{
+    "chunk_id": 305577379198,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg",
+    "alt_text": "Wukong Brook 2.jpg",
+    "position_desc": 42,
+    "img_above_text": "![Wukong Brook 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Brook_1.jpg)\nThere are two easy paths to take down to the Brook of Bliss: one right next to the Forest Shrine, and one a bit further up along the main path. Both paths are lined with various Frozen Corpses and likely a Cyan Bat or two hiding up in the trees.",
+    "img_below_text": "Taking the path by the Shrine, you'll head down the slope and take a right to find the start of the river, which has a green Wisp to absorb and plants to harvest. Leave the other side of the ravine for the moment, and take the closer path on the side of a ravine nearest to where you came down.\n![Wukong Brook 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 42 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Wukong_Brook_1.jpg)\nThere are two easy paths to take down to the Brook of Bliss: one right next to the Forest Shrine, and one a bit further up along the main path. Both paths are lined with various Frozen Corpses and likely a Cyan Bat or two hiding up in the trees.\"\n            - Following Text: \"Taking the path by the Shrine, you'll head down the slope and take a right to find the start of the river, which has a green Wisp to absorb and plants to harvest. Leave the other side of the ravine for the moment, and take the closer path on the side of a ravine nearest to where you came down.\n![Wukong Brook 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Brook_3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts a snowy landscape with a character approaching a green river. The scene is part of a walkthrough for the game \"Black Myth: Wukong,\" showing the Brook of Bliss area with a green Wisp to absorb.\n\n2. **Purpose, Content, or Narrative Role**: The image serves to illustrate the player's journey down to the Brook of Bliss, highlighting the snowy terrain and the presence of a green Wisp in the river, which is an objective for the player to interact with. It provides visual context for the described paths and objectives in the preceding and following text."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 898307219776,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Mindcliff_10.jpg",
+    "alt_text": "Wukong Mindcliff 10.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Mindcliff 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg)\nBefore giving chase, there's a very important secret he's trying to lead you away from! Head out onto the ledge past where you fought him, and you'll find a green Wisp to absorb.",
+    "img_below_text": "It might not look like it, but you can actually fall down a ledge below this spot, and you can then spy a trail of ledges leading down to a fallen pillar with another green Wisp along the middle, meaning you can actually cross it!\n![Wukong Mindcliff 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Mindcliff_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Mindcliff 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Mindcliff_9.jpg)\nBefore giving chase, there's a very important secret he's trying to lead you away from! Head out onto the ledge past where you fought him, and you'll find a green Wisp to absorb.\"\n            - Following Text: \"It might not look like it, but you can actually fall down a ledge below this spot, and you can then spy a trail of ledges leading down to a fallen pillar with another green Wisp along the middle, meaning you can actually cross it!\n![Wukong Mindcliff 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Mindcliff_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Mindcliff_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is positioned on a ledge overlooking a lower area. The image highlights a hidden path that can be accessed by falling down to a lower ledge, which leads to a fallen pillar. A green Wisp, an important collectible in the game, is visible along this path, indicating a secret area that the player is encouraged to explore."
+}

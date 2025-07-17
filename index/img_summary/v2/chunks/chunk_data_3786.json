@@ -1,0 +1,28 @@
+{
+    "chunk_id": 426040532981,
+    "source_file": "Yellow_Wind_Sage.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
+    "alt_text": "Wukong Sandgate 62.jpg",
+    "position_desc": 1,
+    "img_above_text": "* **Rewards:** Samahdi Wind Agate, Cold Iron Leaves x2, Refined Iron Sand x1, Silk x5, Yaoguai Core x2, Mind Core x1, 2583 Experience, 1944 Will\n## Where to Find the Yellow Wind Sage",
+    "img_below_text": "As the main objective of Chapter 2's Yellow Wind Ridge, you'll need to defeat the Yellow Wind Sage to put a stop to the chaos in this region. However, the sage has locked himself within the center of the Yellow Wind Formation area, and each door leading to him is locked requiring two Key Items.\nThe Sterness of Stone can be gained by defeating the Stone Vanguard in the Fright Cliff Region.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Yellow_Wind_Sage.md'.\n\n            Context:\n            - Preceding Text: \"* **Rewards:** Samahdi Wind Agate, Cold Iron Leaves x2, Refined Iron Sand x1, Silk x5, Yaoguai Core x2, Mind Core x1, 2583 Experience, 1944 Will\n## Where to Find the Yellow Wind Sage\"\n            - Following Text: \"As the main objective of Chapter 2's Yellow Wind Ridge, you'll need to defeat the Yellow Wind Sage to put a stop to the chaos in this region. However, the sage has locked himself within the center of the Yellow Wind Formation area, and each door leading to him is locked requiring two Key Items.\nThe Sterness of Stone can be gained by defeating the Stone Vanguard in the Fright Cliff Region.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing before a locked door within the Yellow Wind Formation area, which requires two Key Items, the Sterness of Stone and the Keeness of Tiger, to unlock. The character is prompted to \"Use Tally\" to interact with the door. This scene is part of the main objective in Chapter 2 of the game, where players must defeat the Yellow Wind Sage to end the chaos in the Yellow Wind Ridge region."
+}

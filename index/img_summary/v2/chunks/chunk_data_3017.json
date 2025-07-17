@@ -1,0 +1,28 @@
+{
+    "chunk_id": 17211782405,
+    "source_file": "Tiger%27s_Acolyte_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Tigers_Acolyte_Bridge.jpg",
+    "alt_text": "Tigers Acolyte Bridge.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.",
+    "img_below_text": "## Tiger's Acolyte Fight\nThe Tiger's Acolyte is a significantly powerful foe in his own right, and the battle is even further complicated by the fact that it takes place on a bridge. You can easily fall off the bridge during the fight, causing you to die immediately. That makes it much more tricky than a battle on solid ground.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Tiger%27s_Acolyte_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Tiger's Acolyte Location\nYou will come across the Tiger's Acolyte after defeating the Tiger Vanguard at Crouching Tiger Temple. Follow the path leading out the back of the temple to find yourself in a small settlement. Fight your way through the settlement and turn right to find the Tiger's Acolyte standing in the middle of a bridge.\"\n            - Following Text: \"## Tiger's Acolyte Fight\nThe Tiger's Acolyte is a significantly powerful foe in his own right, and the battle is even further complicated by the fact that it takes place on a bridge. You can easily fall off the bridge during the fight, causing you to die immediately. That makes it much more tricky than a battle on solid ground.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Tigers_Acolyte_Bridge.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where the player character is navigating a rugged terrain towards a bridge, which is the location of an upcoming battle with the Tiger's Acolyte. The setting appears to be a desolate area near the Crouching Tiger Temple, emphasizing the journey and challenges faced before encountering a formidable foe. The image serves to illustrate the environment and path leading to the Tiger's Acolyte, setting the stage for the impending fight described in the context."
+}

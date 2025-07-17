@@ -1,0 +1,28 @@
+{
+    "chunk_id": 427122102723,
+    "source_file": "Water-Wood_Beast.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png",
+    "alt_text": "Foothills Walkthrough \\(70\\).png",
+    "position_desc": 5,
+    "img_above_text": "![Foothills Walkthrough \\(67\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Foothills_Walkthrough_%2867%29.png)\nYou can then detransform and follow up with your own strong attacks and it will continue to burn for a while until it douses itself off with the water.",
+    "img_below_text": "As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Water-Wood_Beast.md'.\n\n            Context:\n            - Preceding Text: \"![Foothills Walkthrough \\(67\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/12/Foothills_Walkthrough_%2867%29.png)\nYou can then detransform and follow up with your own strong attacks and it will continue to burn for a while until it douses itself off with the water.\"\n            - Following Text: \"As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where a player character is engaged in combat with a beast made of wood and foliage in a water setting. The beast is partially submerged, with its fiery body visible above the water's surface, indicating it is burning. The context suggests that the beast will soon dive into the water, similar to another creature named Jiao-Loong of Waves, to surprise the player. The image serves to illustrate the dynamic and strategic nature of the battle, highlighting the beast's behavior and the player's need to anticipate its movements through water ripples."
+}

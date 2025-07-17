@@ -1,0 +1,28 @@
+{
+    "chunk_id": 817324693285,
+    "source_file": "The_Second_Sister.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Lanxi_25.jpg",
+    "alt_text": "Wukong Lanxi 25.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Lanxi 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg)\nShe has a particularly damaging attack where she'll extend both front legs far to the sides, and you'll be able to spot a gleam along them before she thrusts both legs together in a pincer strike. Time it right by using Rock Solid when you spot the legs gleam, and you can knock her back.",
+    "img_below_text": "However, if you don't see the legs gleam when she spreads them wide, it will be a feint attack, and she'll quickly raise a single talon high that will gleam alone, before slamming it down on your position.\n![Wukong Lanxi 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Lanxi_24.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'The_Second_Sister.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Lanxi 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg)\nShe has a particularly damaging attack where she'll extend both front legs far to the sides, and you'll be able to spot a gleam along them before she thrusts both legs together in a pincer strike. Time it right by using Rock Solid when you spot the legs gleam, and you can knock her back.\"\n            - Following Text: \"However, if you don't see the legs gleam when she spreads them wide, it will be a feint attack, and she'll quickly raise a single talon high that will gleam alone, before slamming it down on your position.\n![Wukong Lanxi 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Lanxi_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Lanxi_25.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense moment from the game \"Black Myth: Wukong,\" featuring the player character facing off against a formidable boss named \"The Second Sister.\" The boss appears as a large, spider-like creature with extended front legs, preparing to execute a powerful attack. The preceding text describes a specific move where the boss spreads its legs wide and gleams before striking, while the following text warns of a feint attack involving a single talon. The image serves to illustrate the dangerous nature of \"The Second Sister\" and the critical timing required to counter her attacks effectively."
+}

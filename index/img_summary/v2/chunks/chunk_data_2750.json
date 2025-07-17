@@ -1,0 +1,28 @@
+{
+    "chunk_id": 826110321329,
+    "source_file": "Sobering_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Sobering_Stone_1.jpg",
+    "alt_text": "Sobering Stone 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Sobering Stone is located in a vase in the village at Yellow Wind Formation - Windrest Bridge, to the left as you enter the village. From the Crouching Tiger Temple - Temple Entrance Shrine, take down Tiger Vanguard and continue up the hill. This will take you to the Yellow Wind Formation - Windrest Bridge Shrine.\nFrom the shrine, head across the bridge and stick to the left. You will find a set of buildings in the back left corner of the area, before you pass the rat enemies in the middle.",
+    "img_below_text": "Inside a hut on the back left, you can find the vase and the Sobering Stone.\n![Sobering Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Sobering_Stone_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Sobering_Stone.md'.\n\n            Context:\n            - Preceding Text: \"The Sobering Stone is located in a vase in the village at Yellow Wind Formation - Windrest Bridge, to the left as you enter the village. From the Crouching Tiger Temple - Temple Entrance Shrine, take down Tiger Vanguard and continue up the hill. This will take you to the Yellow Wind Formation - Windrest Bridge Shrine.\nFrom the shrine, head across the bridge and stick to the left. You will find a set of buildings in the back left corner of the area, before you pass the rat enemies in the middle.\"\n            - Following Text: \"Inside a hut on the back left, you can find the vase and the Sobering Stone.\n![Sobering Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Sobering_Stone_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Sobering_Stone_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where a character, possibly the player, is standing at the base of a set of stone steps leading to a rustic building. This setting is part of the journey to find the Sobering Stone, which is located in a vase inside a hut in the village at Yellow Wind Formation. The image serves as a visual guide to help players navigate the environment and locate the Sobering Stone as described in the accompanying text."
+}

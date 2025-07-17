@@ -1,0 +1,28 @@
+{
+    "chunk_id": 376865287692,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Purple_Talismans_Chapter_4_.png",
+    "alt_text": "Purple Talismans Chapter 4 .png",
+    "position_desc": 10,
+    "img_above_text": "Yellow Loong\n## Supreme Inspector",
+    "img_below_text": "Chapter 3 had the purple seals, but Chapter 4 has the Purple Talismans. Collecting all four and getting the final one at the Court of Illumination lets you have an early visit with the Supreme Inspector.\nSupreme Inspector",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Yellow Loong\n## Supreme Inspector\"\n            - Following Text: \"Chapter 3 had the purple seals, but Chapter 4 has the Purple Talismans. Collecting all four and getting the final one at the Court of Illumination lets you have an early visit with the Supreme Inspector.\nSupreme Inspector\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Purple_Talismans_Chapter_4_.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic confrontation between the protagonist and the Supreme Inspector, a formidable boss character in the game \"Black Myth: Wukong.\" The Supreme Inspector, characterized by his dark, imposing wings and elaborate armor, stands in a ritualistic setting, likely indicating a significant battle or encounter. This scene is tied to the narrative of Chapter 4, where collecting Purple Talismans grants an early meeting with this powerful adversary."
+}

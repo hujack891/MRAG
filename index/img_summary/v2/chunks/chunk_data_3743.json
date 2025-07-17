@@ -1,0 +1,28 @@
+{
+    "chunk_id": 188308612964,
+    "source_file": "Yellow_Sand_Formation_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
+    "alt_text": "Wukong Sahali 10.jpg",
+    "position_desc": 38,
+    "img_above_text": "![Wukong Sahali 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg)\nHowever, when you approach the field, you’ll find him off to the right on the stairs leading to the large door. He’ll become angry that you have the gold, and try to fight you for it.",
+    "img_below_text": "Should you manage to best him in combat, he’ll offer to help you unlock this “Realm of Gold”, and open the doorway up the stairs that will lead you to another memory - a Secret Area known as the **Kingdom of Sahali**.\nWe highly recommend checking this place out before taking on the Chapter 2 Boss, as much like Chapter 1, its reward can greatly help you in that battle, and you’ll also find a Meditation Spot in this secret area!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Yellow_Sand_Formation_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sahali 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Sahali_1.jpg)\nHowever, when you approach the field, you’ll find him off to the right on the stairs leading to the large door. He’ll become angry that you have the gold, and try to fight you for it.\"\n            - Following Text: \"Should you manage to best him in combat, he’ll offer to help you unlock this “Realm of Gold”, and open the doorway up the stairs that will lead you to another memory - a Secret Area known as the **Kingdom of Sahali**.\nWe highly recommend checking this place out before taking on the Chapter 2 Boss, as much like Chapter 1, its reward can greatly help you in that battle, and you’ll also find a Meditation Spot in this secret area!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7b/Wukong_Sahali_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a creature encountered in the game \"Black Myth: Wukong.\" This creature is found near the stairs leading to a large door in the Yellow Sand Formation area. Upon approaching, the creature becomes hostile due to the player's possession of gold and engages in combat. Defeating the creature allows the player to access the \"Realm of Gold\" and a secret area called the Kingdom of Sahali, which offers valuable rewards and a Meditation Spot beneficial for the upcoming Chapter 2 Boss battle."
+}

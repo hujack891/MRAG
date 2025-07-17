@@ -1,31 +1,6 @@
 {
-    "chunk_id": 740415504326,
-    "source_file": "Laurel_Buds.md",
-    "h1_title": "Laurel Buds",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Laurel_Buds_2.jpg",
-    "alt_text": "Laurel Buds 2.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Laurel Buds\nLaurel Buds are one of the Soaks you can get for your Gourds in Black Myth: Wukong. Found a little deeper into the game, it has a rather powerful buff, which can save your life in a fight or against a tough enemy.\nWith the Laurel Buds equipped, using the Gourd will moderately increase the damage reduction for a short duration of time. This duration is rather short, but it can be the difference between life and death in a pinch or one of the tougher boss fights in the game.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Laurel_Buds.md', located under Laurel Buds.\n\n                Metadata:\n                - Document Title: Laurel Buds\n                - Alt Text: Laurel Buds 2.jpg\n\n                Context:\n                - Preceding Text: \"# Laurel Buds\nLaurel Buds are one of the Soaks you can get for your Gourds in Black Myth: Wukong. Found a little deeper into the game, it has a rather powerful buff, which can save your life in a fight or against a tough enemy.\nWith the Laurel Buds equipped, using the Gourd will moderately increase the damage reduction for a short duration of time. This duration is rather short, but it can be the difference between life and death in a pinch or one of the tougher boss fights in the game.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Laurel_Buds_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the inventory screen from the game *Black Myth: Wukong*, showcasing the \"Laurel Buds,\" a rare item categorized as a \"Soak.\" The Laurel Buds provide a temporary buff that moderately increases damage reduction when used with the Gourd, making them valuable during challenging fights or boss encounters. The item's description highlights its strategic importance and includes a poetic reference to its origin. This visual complements the preceding text, which explains the item's utility and significance in gameplay."
+    "chunk_id": 651480746950,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Wukong_Pagoda_64.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is facing a large, ominous enemy with a glowing eye on its chest. The environment is a dark, rocky cave, adding to the eerie atmosphere. The player character is equipped with a staff-like weapon and appears to be preparing for combat. The user interface (UI) displays various elements: on the bottom left, there are icons likely representing inventory or abilities, and a health bar with three segments—white, blue, and green. On the bottom right, additional ability icons are visible, with button prompts for actions. The enemy has a small red health bar above it, indicating it is a target for the player. The scene suggests an impending battle, requiring strategic use of the player's abilities and resources."
 }

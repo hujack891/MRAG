@@ -1,0 +1,28 @@
+{
+    "chunk_id": 653016598194,
+    "source_file": "Red_Tides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Black-myth-wukong-red-tides-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg)\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.",
+    "img_below_text": "* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\n![Black-myth-wukong-red-tides-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Red_Tides.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-red-tides-2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg)\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\"\n            - Following Text: \"* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\n![Black-myth-wukong-red-tides-3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay scene from \"Black Myth: Wukong,\" showcasing the character performing the \"Moon Chase\" heavy attack. The character is seen dashing across the screen, executing a powerful strike on an enemy. The preceding and following text describe the mechanics and effectiveness of this attack, highlighting its ability to unleash a series of dash attacks and its role in the game's combat system. The image serves to visually illustrate the \"Moon Chase\" attack in action, emphasizing its dynamic and impactful nature within the game's narrative."
+}

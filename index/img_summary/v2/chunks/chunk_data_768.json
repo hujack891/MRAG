@@ -1,0 +1,28 @@
+{
+    "chunk_id": 480269870725,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg",
+    "alt_text": "Knot Of Voidness .jpg",
+    "position_desc": 36,
+    "img_above_text": "![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 36 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a coiled snake-like artifact, likely a crafting material or upgrade item in the game *Black Myth: Wukong*. Based on the preceding text, it is part of a series of legendary and rare materials used to upgrade rare gourds, found throughout the game chapters. Its intricate design suggests it may hold significant value or rarity within the game's narrative or mechanics."
+}

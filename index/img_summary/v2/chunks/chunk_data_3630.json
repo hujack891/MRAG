@@ -1,0 +1,28 @@
+{
+    "chunk_id": 631225115949,
+    "source_file": "Xu_Dog_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_31.jpg",
+    "alt_text": "Wukong Tiger 31.jpg",
+    "position_desc": 7,
+    "img_above_text": "Fight your way through the tunnel to find a cave path leading outside to a steep one-way slope. Slide down the rest of the way, and you’ll come up to a Shrine for the **Crouching Tiger Temple’s Cellar**. In the far corner of the cellar, you’ll find a familiar friendly face - the Xu Dog you helped get medicine recipes for!\nTalk to him while he’s in front of his large furnace, and the Xu Dog will thank you for your help thus far with a Mind Core. He'll also teach you the art of **crafting your own Celestial Medicines** in addition to the Mortal Medicine consumables you’ve been creating.",
+    "img_below_text": "Celestial Medicines are sort of like **passive buffs** you can apply by trading in **Mind Cores** , which can be found in a variety of places - both by defeating bosses and sometimes regular enemies, or in chests. The buffs range from the familiar ones like health/stamina/mana increases much like the Celestial Pills, but also other stats like Crit Chance or resistance to certain afflictions.\nThe best part of these new passive buffs is that you have the option to reset them like your Skill Tree, which will give you back all the Mind Cores you’ve used thus far, allowing you to come back and reallocate points to suit your needs.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Xu_Dog_Questline.md'.\n\n            Context:\n            - Preceding Text: \"Fight your way through the tunnel to find a cave path leading outside to a steep one-way slope. Slide down the rest of the way, and you’ll come up to a Shrine for the **Crouching Tiger Temple’s Cellar**. In the far corner of the cellar, you’ll find a familiar friendly face - the Xu Dog you helped get medicine recipes for!\nTalk to him while he’s in front of his large furnace, and the Xu Dog will thank you for your help thus far with a Mind Core. He'll also teach you the art of **crafting your own Celestial Medicines** in addition to the Mortal Medicine consumables you’ve been creating.\"\n            - Following Text: \"Celestial Medicines are sort of like **passive buffs** you can apply by trading in **Mind Cores** , which can be found in a variety of places - both by defeating bosses and sometimes regular enemies, or in chests. The buffs range from the familiar ones like health/stamina/mana increases much like the Celestial Pills, but also other stats like Crit Chance or resistance to certain afflictions.\nThe best part of these new passive buffs is that you have the option to reset them like your Skill Tree, which will give you back all the Mind Cores you’ve used thus far, allowing you to come back and reallocate points to suit your needs.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_31.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a game interface where the player can craft Celestial Medicines, specifically the Jade Lotus Pill, which moderately increases maximum health. The crafting requires a Mind Core, an item obtained through various in-game activities. The interface shows the player's current stats and the changes that the Jade Lotus Pill will bring. This scene is part of a narrative where the player learns to craft Celestial Medicines from the Xu Dog character, enhancing their abilities with passive buffs."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 871102731716,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Loongwreathe_Staff_.jpg",
+    "alt_text": "Loongwreathe Staff .jpg",
+    "position_desc": 5,
+    "img_above_text": "• 8 Stone Spirit\n• 8,100 Will | Wind Bear Staff",
+    "img_below_text": "• 1 Thunderbone\n• 4 Refined Iron Sand",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Weapons.md'.\n\n            Context:\n            - Preceding Text: \"• 8 Stone Spirit\n• 8,100 Will | Wind Bear Staff\"\n            - Following Text: \"• 1 Thunderbone\n• 4 Refined Iron Sand\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Loongwreathe_Staff_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a mystical staff, likely the \"Wind Bear Staff,\" mentioned in the preceding text. The staff appears to be ornately crafted with intricate details and a prominent green gem. The context suggests it is part of a list of weapons or magical items, positioned between \"8 Stone Spirit\" and \"1 Thunderbone.\" The staff's elaborate design and the accompanying stats on the right indicate its significance and power within the narrative or game setting."
+}

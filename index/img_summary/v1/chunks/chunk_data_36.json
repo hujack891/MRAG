@@ -1,31 +1,6 @@
 {
-    "chunk_id": 40366138812,
-    "source_file": "Back_Scratcher.md",
-    "h1_title": "Back Scratcher",
-    "h2_title": "",
-    "h3_title": "",
+    "chunk_id": 203038273053,
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Back_Scratcher_1.jpg",
-    "alt_text": "Back Scratcher 1.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Back Scratcher\nThe Back Scratcher is one of the Curios items you can easily miss in Black Myth: Wukong, especially as it is actually located in a chapter you have already completed by the time you have access to it.\nWith the Back Scratcher equipped, you will get a considerable increase to your maximum stamina, making the Back Scratcher one of the best Curios items in the game. You may even end up using it for the entirety of the rest of your through if it fits your build.",
-    "img_below_text": "As with all other Curios items in Black Myth: Wukong, the Back Scratcher can't be upgraded, so you aren't able to increase its power, although it is already quite strong. If you need to switch your Curios item for any reason, you can do this from the Equipment menu.",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Back_Scratcher.md', located under Back Scratcher.\n\n                Metadata:\n                - Document Title: Back Scratcher\n                - Alt Text: Back Scratcher 1.jpg\n\n                Context:\n                - Preceding Text: \"# Back Scratcher\nThe Back Scratcher is one of the Curios items you can easily miss in Black Myth: Wukong, especially as it is actually located in a chapter you have already completed by the time you have access to it.\nWith the Back Scratcher equipped, you will get a considerable increase to your maximum stamina, making the Back Scratcher one of the best Curios items in the game. You may even end up using it for the entirety of the rest of your through if it fits your build.\"\n                - Following Text: \"As with all other Curios items in Black Myth: Wukong, the Back Scratcher can't be upgraded, so you aren't able to increase its power, although it is already quite strong. If you need to switch your Curios item for any reason, you can do this from the Equipment menu.\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Back_Scratcher_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the in-game menu of \"Black Myth: Wukong,\" showcasing the Back Scratcher, a rare Curios item. The Back Scratcher is equipped and is noted for significantly increasing maximum stamina, making it a valuable asset for players. The menu highlights the item's role in enhancing gameplay, while the accompanying text emphasizes its importance and strategic use throughout the game. The Back Scratcher cannot be upgraded, but it remains a strong choice for players seeking to optimize their stamina."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the equipment screen from a video game, focusing on a rare item called the \"Back Scratcher.\" This item is equipped and is described as considerably increasing maximum stamina, which is crucial for gameplay as it likely enhances the player's endurance or ability to perform actions. The screen shows a list of curios obtained, including the Back Scratcher and other items, each represented by an icon. The player's stats are visible on the right, including health, stamina, and various percentages related to gameplay mechanics. The UI includes options for removing, examining, and returning from the equipment screen. A poetic text hint at the bottom suggests the item's calming effect."
 }

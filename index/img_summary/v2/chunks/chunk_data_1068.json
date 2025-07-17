@@ -1,0 +1,28 @@
+{
+    "chunk_id": 650154146327,
+    "source_file": "Flame_Ebongold.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Flame_Ebongold.jpg",
+    "alt_text": "Flame Ebongold.jpg",
+    "position_desc": 1,
+    "img_above_text": "Flame Ebongold is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Flame Ebongold can be used to craft the Wind Bear Staff from the Shrine.",
+    "img_below_text": "To obtain the Flame Ebongold, you need to defeat Black Bear Guai in Black Wind Cave in Black Wind Mountain.\n![Wukong BlackWind 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Flame_Ebongold.md'.\n\n            Context:\n            - Preceding Text: \"Flame Ebongold is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Flame Ebongold can be used to craft the Wind Bear Staff from the Shrine.\"\n            - Following Text: \"To obtain the Flame Ebongold, you need to defeat Black Bear Guai in Black Wind Cave in Black Wind Mountain.\n![Wukong BlackWind 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_BlackWind_32.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Flame_Ebongold.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image displays the in-game inventory screen from *Black Myth: Wukong*, showcasing the \"Flame Ebongold,\" a rare crafting material. The item description highlights its use in crafting weapons and armor, with a poetic quote emphasizing its value. This material is tied to the game's progression, as it can be used to craft unique gear like the Wind Bear Staff after defeating specific bosses. The surrounding context suggests its acquisition involves defeating Black Bear Guai in Black Wind Cave."
+}

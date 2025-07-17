@@ -1,0 +1,28 @@
+{
+    "chunk_id": 158944715527,
+    "source_file": "Chen_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg",
+    "alt_text": "Wukong Bitter 5.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Bitter 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg)\nSometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.",
+    "img_below_text": "Another electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\n![Wukong Bitter 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Chen_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Bitter_8.jpg)\nSometimes, he'll take to the air instead, and fly at you in a divebomb attack which will require you to dodge both the fly-by, and the resulting row of lightning strikes that follow his attack.\"\n            - Following Text: \"Another electric variation will have him performing an underhanded toss of anywhere between one and three small lightning orbs. They'll bounce along the water for a few hops, and then explode in a much wider area to damage you unless you can dodge to the side.\n![Wukong Bitter 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4b/Wukong_Bitter_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_Bitter_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist facing off against a serpent-like boss named \"Chen Loong\" in a snowy, mountainous environment. The boss is unleashing a powerful lightning attack, which aligns with the preceding text describing its divebomb and lightning strike abilities. The following text hints at additional electric attacks, emphasizing the boss's reliance on lightning-based moves. The image visually reinforces the narrative of a challenging encounter requiring precise dodging and strategy to avoid the boss's devastating electric assaults."
+}

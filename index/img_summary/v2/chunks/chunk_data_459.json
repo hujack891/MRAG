@@ -1,0 +1,28 @@
+{
+    "chunk_id": 510674376769,
+    "source_file": "Centipede_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_MiddleHollow_45.jpg",
+    "alt_text": "Wukong MiddleHollow 45.jpg",
+    "position_desc": 7,
+    "img_above_text": "While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.",
+    "img_below_text": "At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Centipede_Guai.md'.\n\n            Context:\n            - Preceding Text: \"While it does move fast, it's also extremely susceptible to a well-timed Rock Solid Deflection, and when done at the right time, will topple it to the ground. Use this period to unleash your focus points for a big hit, and it will struggle to rise and give you more time to Immobilize it and keep it vulnerable to more damage.\nBe sure to stay on guard when it finally does rise, as it can easily feint into a backward slam with its armored hide.\"\n            - Following Text: \"At lower health, it may also curl into a ball but fly up into the air to slam down while still curled up. Be wary when trying to counter this move, as it will start to squirm around before unraveling into a quick two-hit claw swipe as it reorients itself.\nThe one last trick it has up its sleeve will occur after losing half its health. When it starts to emit a large screeching roar, break off your attack and start running in the opposite direction.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Wukong_MiddleHollow_45.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense combat scenario against the \"Centipede Guai,\" a large, menacing creature in a dark, skeletal-strewn environment. The player character is engaged in battle, with glowing weapons and abilities visible, suggesting strategic use of skills. The preceding and following text describes the creature's attack patterns and vulnerabilities, including its susceptibility to well-timed counters and its dangerous moves at lower health, such as curling into a ball for aerial slams and claw swipes. The image visually reinforces the narrative's focus on timing, adaptability, and exploiting openings during the fight."
+}

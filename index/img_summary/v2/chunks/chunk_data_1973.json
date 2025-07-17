@@ -1,0 +1,28 @@
+{
+    "chunk_id": 266532901504,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg",
+    "alt_text": "Golden Lotus Seed .jpg",
+    "position_desc": 39,
+    "img_above_text": "![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears\n![Pearl Tree Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Pearl_Tree_Seed_.jpg)| Pearl Tree Seeds | Uncommon | Seed | Randomly obtained from collecting Tree Pearls",
+    "img_below_text": "![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates\n![Black-myth-wukong-millenium-ginseng-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg)| Millennium Ginseng Seeds | Rare | Seed | Obtained upon defeating Old Ginseng Guai",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 39 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears\n![Pearl Tree Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Pearl_Tree_Seed_.jpg)| Pearl Tree Seeds | Uncommon | Seed | Randomly obtained from collecting Tree Pearls\"\n            - Following Text: \"![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates\n![Black-myth-wukong-millenium-ginseng-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg)| Millennium Ginseng Seeds | Rare | Seed | Obtained upon defeating Old Ginseng Guai\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts a stone bowl containing three spherical, textured seeds, likely representing a specific type of seed from the game *Black Myth: Wukong*. Based on the context, these seeds are part of a collection of rare or uncommon items that players can obtain through in-game activities like gathering or defeating enemies.\n\n2. **Purpose and Narrative Role**: The image serves to visually represent one of the collectible seeds in the game, contributing to the game's lore and item catalog. It fits within a sequence of images showcasing various seeds, each with unique properties and acquisition methods. This particular seed likely has a distinct role in gameplay, such as crafting, trading, or enhancing abilities."
+}

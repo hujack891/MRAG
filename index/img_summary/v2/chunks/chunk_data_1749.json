@@ -1,0 +1,28 @@
+{
+    "chunk_id": 319683873927,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Turtle_8.jpg",
+    "alt_text": "Wukong Turtle 8.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Turtle 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Turtle_7.jpg)\nLater on, Kang-Jin Star will appear much closer above you in her dragon form, and use a familiar tail slam to explode the ground around you. Luckily, not only can you dodge or deflect this, but you can then strafe to the right to attack the dragon's head before she transforms back.",
+    "img_below_text": "Another terrifying attack she can commence when you're at close range comes when she proclaims \"Yield... to your true self!\". Floating in the air, she'll create a large electric dome around her that continues to expand, meaning you'll want to break off the attack and retreat to a safe distance.\nNote that the field will also generate an electric ring along the ground to reach even farther that you'll need to jump or pillar stance over - but it also only moves along a flat horizontal axis, and standing on rocks or slope can often cause it to go under you.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Turtle_7.jpg)\nLater on, Kang-Jin Star will appear much closer above you in her dragon form, and use a familiar tail slam to explode the ground around you. Luckily, not only can you dodge or deflect this, but you can then strafe to the right to attack the dragon's head before she transforms back.\"\n            - Following Text: \"Another terrifying attack she can commence when you're at close range comes when she proclaims \"Yield... to your true self!\". Floating in the air, she'll create a large electric dome around her that continues to expand, meaning you'll want to break off the attack and retreat to a safe distance.\nNote that the field will also generate an electric ring along the ground to reach even farther that you'll need to jump or pillar stance over - but it also only moves along a flat horizontal axis, and standing on rocks or slope can often cause it to go under you.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f1/Wukong_Turtle_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment from the boss battle against Kang-Jin Star in *Black Myth: Wukong*. She is seen creating a large, expanding electric dome attack while floating in the air, as described in the following text. The player character is shown retreating to avoid the dangerous electric field, which also generates an electric ring along the ground. This visual highlights the need for strategic movement and positioning to survive her powerful close-range attack."
+}

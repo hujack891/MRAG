@@ -1,31 +1,6 @@
 {
-    "chunk_id": 338458498762,
-    "source_file": "Cat_Eye_Beads.md",
-    "h1_title": "Cat Eye Beads",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Cat_Eye_Beads_2.jpg",
-    "alt_text": "Cat Eye Beads 2.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Cat Eye Beads\nThe Cat Eye Beads iare one of the Curios items you can find in Black Myth: Wukong. Given its location in the game, it will likely be one of the first ones you find.\nWith the Cat Eye Beads equipped, you will get a slightly increased critical hit chance, which can provide a decent attack boost when you need it.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Cat_Eye_Beads.md', located under Cat Eye Beads.\n\n                Metadata:\n                - Document Title: Cat Eye Beads\n                - Alt Text: Cat Eye Beads 2.jpg\n\n                Context:\n                - Preceding Text: \"# Cat Eye Beads\nThe Cat Eye Beads iare one of the Curios items you can find in Black Myth: Wukong. Given its location in the game, it will likely be one of the first ones you find.\nWith the Cat Eye Beads equipped, you will get a slightly increased critical hit chance, which can provide a decent attack boost when you need it.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Cat_Eye_Beads_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the Cat Eye Beads, a rare item in the game Black Myth: Wukong. This item is categorized under \"Curios\" in the game's equipment menu and is shown as equipped. The Cat Eye Beads slightly increase the player's critical hit chance, offering a modest attack boost. The beads are likely one of the first items players encounter in the game, enhancing their combat effectiveness early on. The document title and metadata confirm the item's name and its visual representation in the game interface."
+    "chunk_id": 130467872982,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Guanyin_7.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player is engaged in combat with a large enemy named \"Elder Jinchi,\" as indicated by the health bar at the bottom of the screen. The environment is a dark, dilapidated courtyard with overgrown grass and a large building in the background. Several smaller, glowing enemies surround the player, suggesting a challenging battle. The user interface displays health and stamina bars in the bottom left corner, along with various icons representing abilities or items. The bottom right corner shows an icon of a character in a combat stance, possibly indicating the player's current action or status."
 }

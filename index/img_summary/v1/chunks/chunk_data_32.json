@@ -1,31 +1,6 @@
 {
-    "chunk_id": 860458295862,
-    "source_file": "Azure_Dust.md",
-    "h1_title": "Azure Dust",
-    "h2_title": "",
-    "h3_title": "",
+    "chunk_id": 836656491005,
     "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-azure-dust-1.jpg",
-    "alt_text": "Black-myth-wukong-azure-dust-1.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Azure Dust\nAzure Dust is one of the more hidden Transformation Spells in Black Myth: Wukong. Unlike some of the other Transformations, Azure Dust doesn't have much flexibility in how you use it. But, it has some powerful attacks even the Transformation is hard to control.\nThe Transformation allows you to transform into a rock guai, immune to all Four Banes. Azure Dust also builds up Might when hit. Azure Dust's moveset is as follows:\n* **Light Attack: Earth Shatter - Strike the enemy three times with your heavy head**. This is a powerful slam on the ground with your head that can be repeated.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Azure_Dust.md', located under Azure Dust.\n\n                Metadata:\n                - Document Title: Azure Dust\n                - Alt Text: Black-myth-wukong-azure-dust-1.jpg\n\n                Context:\n                - Preceding Text: \"# Azure Dust\nAzure Dust is one of the more hidden Transformation Spells in Black Myth: Wukong. Unlike some of the other Transformations, Azure Dust doesn't have much flexibility in how you use it. But, it has some powerful attacks even the Transformation is hard to control.\nThe Transformation allows you to transform into a rock guai, immune to all Four Banes. Azure Dust also builds up Might when hit. Azure Dust's moveset is as follows:\n* **Light Attack: Earth Shatter - Strike the enemy three times with your heavy head**. This is a powerful slam on the ground with your head that can be repeated.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Black-myth-wukong-azure-dust-1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image from the document \"Azure Dust\" depicts a scene from the game Black Myth: Wukong, showcasing the Azure Dust transformation spell. In this transformation, the character becomes a rock guai, executing powerful attacks like \"Earth Shatter\" and \"Mountain Splitter.\" The visual illustrates the character in action, emphasizing the spell's unique combat abilities and its immunity to all Four Banes, as described in the preceding text."
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a rocky, desert-like environment. A creature is visible in the center, appearing to be in motion, possibly executing an attack. The user interface displays two attack options on the left side: \"Light Attack 'Earth Shatter'\" and \"Heavy Attack 'Mountain Splitter',\" with descriptions for each. The light attack involves striking the enemy three times with a heavy head, while the heavy attack involves a forceful dash forward, which can be fully charged for extended range. At the bottom left, a health bar is present, indicating the player's current health status. On the bottom right, there are icons, possibly representing abilities or items, alongside a circular map or radar."
 }

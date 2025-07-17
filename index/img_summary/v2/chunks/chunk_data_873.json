@@ -1,0 +1,28 @@
+{
+    "chunk_id": 755494433278,
+    "source_file": "Dark_Thunder.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Sandgate_45.jpg",
+    "alt_text": "Wukong Sandgate 45.jpg",
+    "position_desc": 2,
+    "img_above_text": "### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.",
+    "img_below_text": "### Horse Guai The New West Location\nAs you progress through the temple, you will eventually meet two mages with a large door behind them. Before heading ahead, take the path along the balcony on the left, to a walkway with a large statue. The Horse Guai is standing by one of these pillars on the walkway.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Dark_Thunder.md'.\n\n            Context:\n            - Preceding Text: \"### Horse Guai Yellow Wind Ridge Location\nWhen at Sandgate Village in Yellow Wind Ridge, loop around to the left and kill the Earth Wolf boss. Just behind it, you can find the Horse Guai tied to the post at the statue.\"\n            - Following Text: \"### Horse Guai The New West Location\nAs you progress through the temple, you will eventually meet two mages with a large door behind them. Before heading ahead, take the path along the balcony on the left, to a walkway with a large statue. The Horse Guai is standing by one of these pillars on the walkway.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Sandgate_45.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a game where the player character, armed with a staff, approaches a Horse Guai tied to a post near a large statue in a desolate outdoor setting. This appears to be part of a quest or encounter, as the preceding text describes finding the Horse Guai at Yellow Wind Ridge after defeating an Earth Wolf boss, while the following text mentions another Horse Guai location in a temple. The image emphasizes exploration and interaction with key elements in the environment, contributing to the narrative progression."
+}

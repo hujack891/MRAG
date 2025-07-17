@@ -1,0 +1,28 @@
+{
+    "chunk_id": 581853186316,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_YellowLoong_5.jpg",
+    "alt_text": "Wukong YellowLoong 5.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong YellowLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_YellowLoong_9.jpg)\nIf he flips his weapon before catching it, he'll quickly thrust it out in your direction, then jump toward you with a small side slash before doing a bigger sweeping spin with an electric wave of force around him, which you'll need to dodge around his side to keep pace with.",
+    "img_below_text": "Finally, he can perform two quick downward slashes with his weapon, and then bring his glaive back across his body in a huge arc that creates an electric wave in front of him.\n![Wukong YellowLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_YellowLoong_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Yellow_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_YellowLoong_9.jpg)\nIf he flips his weapon before catching it, he'll quickly thrust it out in your direction, then jump toward you with a small side slash before doing a bigger sweeping spin with an electric wave of force around him, which you'll need to dodge around his side to keep pace with.\"\n            - Following Text: \"Finally, he can perform two quick downward slashes with his weapon, and then bring his glaive back across his body in a huge arc that creates an electric wave in front of him.\n![Wukong YellowLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/62/Wukong_YellowLoong_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Wukong_YellowLoong_5.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene from the game \"Black Myth: Wukong,\" featuring the character Yellow Loong executing a dynamic attack sequence. Yellow Loong is shown wielding a glaive, generating electric waves of force as he performs a sweeping spin and side slash. This image captures the dramatic moment when Yellow Loong unleashes his powerful electric attack, emphasizing the need for players to strategically dodge and anticipate his moves during the battle."
+}

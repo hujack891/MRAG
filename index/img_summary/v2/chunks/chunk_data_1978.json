@@ -1,0 +1,28 @@
+{
+    "chunk_id": 832880986860,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/The_Arbor_Forest_Meditaion_Shot.jpg",
+    "alt_text": "The Arbor Forest Meditaion Shot.jpg",
+    "position_desc": 1,
+    "img_above_text": "### The Arbor, Forest of Wolves Meditation Spot\nThe Arbor, Forest of Wolves Meditation Spot",
+    "img_below_text": "The first Meditation Spot can be found after you defeat the Bullguard. Pass through the temple behind the Bullguard arena and take the path to the left. You will find the Meditation Spot outside a cave on a large wooden platform overlooking the forest.\n### The Cavern, Bamboo Grove Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Arbor, Forest of Wolves Meditation Spot\nThe Arbor, Forest of Wolves Meditation Spot\"\n            - Following Text: \"The first Meditation Spot can be found after you defeat the Bullguard. Pass through the temple behind the Bullguard arena and take the path to the left. You will find the Meditation Spot outside a cave on a large wooden platform overlooking the forest.\n### The Cavern, Bamboo Grove Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/The_Arbor_Forest_Meditaion_Shot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot located on a large wooden platform overlooking a lush forest and traditional temple structures. This setting, referred to as \"The Arbor, Forest of Wolves Meditation Spot,\" is part of a narrative progression where players reach this area after defeating the Bullguard and navigating through a temple. The scene emphasizes tranquility and serves as a key location for reflection or progression in the context of the game or story."
+}

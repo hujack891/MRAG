@@ -1,0 +1,28 @@
+{
+    "chunk_id": 347910434654,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg",
+    "alt_text": "Wukong Fright 8.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.",
+    "img_below_text": "If you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.\n![Wukong Fright 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Fright_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/90/Wukong_Fright_7.jpg)\nAfter resting at the Shrine, you’ll have two paths - one leading into a darkened area on the left, and the brighter path along the cliffs to the right with a narrow ravine.\"\n            - Following Text: \"If you head left first, you’ll find a small pathway where a Bladebone will spew projectiles at you from a scaffold you can’t reach, but you can duck into and find a green Wisp to absorb in a small room.\n![Wukong Fright 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Fright_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Fright_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts the player character in *Black Myth: Wukong* approaching a darkened area with glowing green lights, likely representing a collectible or interactable object (a green Wisp). The setting includes rocky terrain, a column, and wooden scaffolding, suggesting a small, enclosed pathway. The preceding and following text indicates this area is part of the left-hand path after resting at the Shrine, where players encounter a Bladebone enemy and can absorb the green Wisp in a small room. The image highlights exploration and potential rewards amidst danger."
+}

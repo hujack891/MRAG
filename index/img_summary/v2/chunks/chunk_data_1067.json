@@ -1,0 +1,28 @@
+{
+    "chunk_id": 141616821258,
+    "source_file": "First_Prince_of_Flowing_Sands.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
+    "alt_text": "Wukong RedLoong 3.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.",
+    "img_below_text": "On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'First_Prince_of_Flowing_Sands.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)\nIf you got lucky, the First Prince’s attacks may have formed a giant crack in the slightly rounded wall full of little statues on the side of the boss arena, forming a hole you can slide through. If you weren’t able to trigger this, don't worry. You can crack the wall yourself, but it will require a major attack, much bigger than your little monkey frame can deal out. However, specific transformations will get the job done - like the Wandering Wight’s Spirit headbutt attack, or the Azure Dust transformation spell found elsewhere in this chapter.\"\n            - Following Text: \"On the other side of the crack, you’ll enter a large tomb with a chest by a mural. It holds the Loong Scale - a very important object that allows you to access several secret bosses!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Wukong_RedLoong_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character standing in a dimly lit tomb-like environment, facing a mural on the wall. The setting includes a chest nearby, illuminated by soft light filtering through the cave ceiling. This scene likely represents the moment after the player breaks through the cracked wall in the boss arena, entering the hidden tomb to discover the Loong Scale, a key item for unlocking secret bosses. The mural and chest emphasize the significance of this hidden area in the narrative."
+}

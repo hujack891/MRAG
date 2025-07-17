@@ -1,0 +1,28 @@
+{
+    "chunk_id": 87799647112,
+    "source_file": "Guangzhi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg",
+    "alt_text": "Wukong Wolves 33.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Wolves 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Wolves_30.jpg)\nHead through the large forested area and keep to the left to travel up a hill to where a small guarded bridge is.",
+    "img_below_text": "On the other side of the bridge, head straight to find a small archway between the forest hills, and you'll find Guangzhi's lair.\n### Guangzhi Mini-Boss Fight and Guide",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Guangzhi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Wolves_30.jpg)\nHead through the large forested area and keep to the left to travel up a hill to where a small guarded bridge is.\"\n            - Following Text: \"On the other side of the bridge, head straight to find a small archway between the forest hills, and you'll find Guangzhi's lair.\n### Guangzhi Mini-Boss Fight and Guide\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a forested area with a small archway in the background, likely marking the entrance to Guangzhi's lair. A character, armed with a staff, is seen approaching the area, surrounded by lush vegetation and lit by small flames. This scene serves as a visual guide for players navigating toward the bridge and archway mentioned in the preceding and following text, leading to the upcoming Guangzhi mini-boss fight."
+}

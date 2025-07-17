@@ -1,0 +1,28 @@
+{
+    "chunk_id": 610816538741,
+    "source_file": "Snake_Herbalist_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Snake_Herbalist_pic.jpg",
+    "alt_text": "Snake Herbalist pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Snake Herbalist Fight\n* Snake Herbalist Spirit",
+    "img_below_text": "## Snake Herbalist Location\nThe Snake Herbalist is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Snake_Herbalist_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Snake Herbalist Fight\n* Snake Herbalist Spirit\"\n            - Following Text: \"## Snake Herbalist Location\nThe Snake Herbalist is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Snake_Herbalist_pic.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a battle scene with the Snake Herbalist Spirit, a formidable enemy in the game. The preceding text mentions the Snake Herbalist Fight and Spirit, indicating that the image captures the intense combat with this character. The following text provides context about the location of the Snake Herbalist in Chapter 4, suggesting that this battle is part of the journey to unlock a secret area. The image serves to illustrate the challenging encounter players face with the Snake Herbalist Spirit."
+}

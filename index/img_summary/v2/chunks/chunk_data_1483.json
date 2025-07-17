@@ -1,0 +1,28 @@
+{
+    "chunk_id": 424998172729,
+    "source_file": "Guangmou.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg",
+    "alt_text": "Wukong Bamboo 28.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Bamboo 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Bamboo_26.jpg)\nHe’ll almost always begin the fight by summoning a cluster of homing ghostly projectiles that burst out of him before tracking you down. You can avoid the group by dodging to the side, or holding down your staff spin until they’ve been deflected.",
+    "img_below_text": "However, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.\n![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Guangmou.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Bamboo_26.jpg)\nHe’ll almost always begin the fight by summoning a cluster of homing ghostly projectiles that burst out of him before tracking you down. You can avoid the group by dodging to the side, or holding down your staff spin until they’ve been deflected.\"\n            - Following Text: \"However, Guangmou will usually create these as a distraction, and teleport up close to you while you’re busy trying to dodge his projectiles. Once he’s up close, beware of his poison spitting attack where he sprays in a large area in front of him.\n![Wukong Bamboo 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Bamboo_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_Bamboo_28.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a combat scene from *Black Myth: Wukong*, showcasing the protagonist battling Guangmou, a boss enemy. Guangmou is seen unleashing a poison attack, which spreads in a large area around him, while the player character engages with a glowing staff weapon. The UI elements indicate health bars, abilities, and poison status effects.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates a key moment in the fight against Guangmou, emphasizing his poison-spitting attack as described in the text. This visual serves to complement the gameplay tips, warning players to be cautious of Guangmou's close-range poison abilities while managing his ghostly projectiles."
+}

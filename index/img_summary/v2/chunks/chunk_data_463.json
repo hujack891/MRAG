@@ -1,0 +1,28 @@
+{
+    "chunk_id": 28603269867,
+    "source_file": "Centipede_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Centipede_Guai_Location.jpg",
+    "alt_text": "Centipede Guai Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.",
+    "img_below_text": "## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Centipede_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.\"\n            - Following Text: \"## Centipede Guai Fight\nThe Centipede Guai is a huge armored centipede that has its own boss arena in the Webbed Hollow. It can be tricky to defeat as it's very fast, very strong, has some very hard-hitting attacks, and even has an army of minions on call. You can expect to see lots of belly-flop moves where the beast smashes its huge body into the ground multiple times, a roll-attack where it curls up into a ball and crashes around the arena, and a poison spray move where it spews pools of poison onto the ground.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Centipede_Guai_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character standing at the edge of a rocky ledge, overlooking a dark, eerie pit filled with bones and web-like structures. This setting is likely the Bonevault, a massive pit of skulls described in the preceding text as the location of the Centipede Guai. The image serves to visually establish the ominous environment and prepare the player for the upcoming boss fight detailed in the following text."
+}

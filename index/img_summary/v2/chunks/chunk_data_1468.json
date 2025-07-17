@@ -1,0 +1,28 @@
+{
+    "chunk_id": 892870305391,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg",
+    "alt_text": "Wukong Brook 6.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.",
+    "img_below_text": "This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Karma_7.jpg)\nPerform the Circle of Fire Spell to warm him up, and he'll thank you, while giving you more clues to the location of a secret Melon Field.\"\n            - Following Text: \"This secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\n![Wukong Brook 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "### Summary of the Image:\n\nThe image depicts a snowy, serene landscape featuring a character standing near a reflective lake surrounded by frost-covered trees and rocky cliffs. The character appears to be holding a staff, suggesting they are engaged in exploration or preparation for an action. The metadata \"Gentian x2\" indicates the collection of an item, likely a plant or resource, which ties into the gameplay narrative. Based on the preceding and following text, this scene serves as a transitional point in the quest to uncover the secret Melon Field, with the player likely gathering clues or resources before heading downhill toward the Brook of Bliss."
+}

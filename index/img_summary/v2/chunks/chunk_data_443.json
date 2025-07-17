@@ -1,0 +1,28 @@
+{
+    "chunk_id": 964091531195,
+    "source_file": "Celestial_Nonary_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/The_New_West_Nonary.jpg",
+    "alt_text": "The New West Nonary.jpg",
+    "position_desc": 4,
+    "img_above_text": "## The New West Celestial Nonary Pill\nThe New West Celestial Nonary Pill",
+    "img_below_text": "This Nonary Pill is on the grounds of the New Thunderclap Temple. Once you enter the temple grounds, run straight through the second entrance and take the stairs on the left. Head into the building on the left and run up the stairs inside to reach the second story. Continue up the steps behind the building and turn right. There, you will see a large frozen pond. The pill chest is sitting on a table in the pond.\n## The Webbed Hollow Celestial Nonary Pill",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Celestial_Nonary_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## The New West Celestial Nonary Pill\nThe New West Celestial Nonary Pill\"\n            - Following Text: \"This Nonary Pill is on the grounds of the New Thunderclap Temple. Once you enter the temple grounds, run straight through the second entrance and take the stairs on the left. Head into the building on the left and run up the stairs inside to reach the second story. Continue up the steps behind the building and turn right. There, you will see a large frozen pond. The pill chest is sitting on a table in the pond.\n## The Webbed Hollow Celestial Nonary Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/The_New_West_Nonary.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a snowy, frozen environment with a character standing near a table on a frozen pond. The table holds a chest that can be opened, as indicated by the \"RT Open\" prompt. The character wields a flaming staff, suggesting a mystical or combat-oriented context. The scene aligns with the preceding and following text, which describes the location of the New West Celestial Nonary Pill at the New Thunderclap Temple grounds.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually represents the final destination described in the text for obtaining the New West Celestial Nonary Pill. It serves as a guide or reference for players navigating the temple grounds to locate the pill chest on the frozen pond."
+}

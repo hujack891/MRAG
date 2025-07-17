@@ -1,0 +1,28 @@
+{
+    "chunk_id": 881230272863,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg",
+    "alt_text": "Wukong Thunderclap 112.jpg",
+    "position_desc": 26,
+    "img_above_text": "![Wukong Thunderclap 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg)\nLuckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).",
+    "img_below_text": "Other times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.\n![Wukong Thunderclap 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 26 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 114.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg)\nLuckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\"\n            - Following Text: \"Other times, he can now raise his mace up to trigger a lightning storm all around the arena. These strikes will both track your position and also appear all over the arena, making it tough to evade them all unless you can stagger him out of it.\n![Wukong Thunderclap 110.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_Thunderclap_110.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the game \"Black Myth: Wukong,\" where the character Yellowbrow is using a powerful lightning attack during a boss fight. Lightning strikes are seen all around the arena, making it challenging for the player to evade. The preceding text mentions the opportunity to heal and buff up after Yellowbrow's initial attack, while the following text describes the difficulty of avoiding the lightning storm unless the player can stagger Yellowbrow."
+}

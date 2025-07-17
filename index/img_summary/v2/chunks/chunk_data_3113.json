@@ -1,0 +1,28 @@
+{
+    "chunk_id": 760715726782,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg",
+    "alt_text": "Wukong Brook 12.jpg",
+    "position_desc": 52,
+    "img_above_text": "![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)\nHead back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.",
+    "img_below_text": "Once you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.\n![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 52 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Brook_10.jpg)\nHead back up along the brook and climb up to the middle part of the river. Here you can head upsteam and harvest a variety of materials as you do, just beware of some Croaky enemies hiding in the waters.\"\n            - Following Text: \"Once you've harvested all the plants along the river, return up to the Brook Shrine, and head up the hill taking the road to the left.\n![Wukong Brook 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Brook_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Brook_12.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist facing an enemy in a snowy, mountainous area. The preceding text suggests the player has been harvesting materials along a brook and encountering enemies, while the following text indicates the player should return to the Brook Shrine and proceed up a hill. The image likely serves to illustrate a specific encounter or challenge the player faces in this part of the game, emphasizing the need for strategic combat and exploration in the harsh, wintery environment."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 297279782725,
+    "source_file": "Top_Takes_Bottom,_Bottom_Takes_Top_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Bottom_Takes_Top_Location.jpg",
+    "alt_text": "Bottom Takes Top Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "* Run towards the large gate to the right of the Cooling Slope Keeper's Shrine and defeat the Rusty-Gold Cart.\n* Speak to the Pale-Axe Stalwart once again to open the gate to Bushui Cave.",
+    "img_below_text": "Once you get into Bushui Cave, unlock the Purge Pit Keeper's Shrine and keep following the path deeper into the cave to encounter Top Takes Bottom, Bottom Takes Top.\nYou will not be able to absorb the Spirit immediately after defeating Top Takes Bottom, Bottom Takes Top.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Top_Takes_Bottom,_Bottom_Takes_Top_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Run towards the large gate to the right of the Cooling Slope Keeper's Shrine and defeat the Rusty-Gold Cart.\n* Speak to the Pale-Axe Stalwart once again to open the gate to Bushui Cave.\"\n            - Following Text: \"Once you get into Bushui Cave, unlock the Purge Pit Keeper's Shrine and keep following the path deeper into the cave to encounter Top Takes Bottom, Bottom Takes Top.\nYou will not be able to absorb the Spirit immediately after defeating Top Takes Bottom, Bottom Takes Top.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Bottom_Takes_Top_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where the player character stands at the entrance of Bushui Cave, preparing to venture deeper into the cave. The character is equipped with a staff and various abilities, as indicated by the icons on the screen. The glowing red area in the distance suggests a significant event or battle location, likely related to the upcoming encounter with the entity known as \"Top Takes Bottom, Bottom Takes Top.\" The image serves to illustrate the player's progression to a critical point in the game narrative, just before an important confrontation."
+}

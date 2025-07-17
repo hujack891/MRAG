@@ -1,0 +1,28 @@
+{
+    "chunk_id": 626577334655,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg",
+    "alt_text": "Wukong Sandgate 71.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Sandgate 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg)\nHead through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.",
+    "img_below_text": "Once you arrive in the large covered valley area, keep to the left to find a large lower platform by a slightly rounded red wall lined with small statues. At this point, if you did not kill the King of Flowing Sand, he’ll summon his other son, the First Rat Prince — otherwise you can use the Pungent Flesh Chunk to summon him yourself.\n![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 63.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg)\nHead through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.\"\n            - Following Text: \"Once you arrive in the large covered valley area, keep to the left to find a large lower platform by a slightly rounded red wall lined with small statues. At this point, if you did not kill the King of Flowing Sand, he’ll summon his other son, the First Rat Prince — otherwise you can use the Pungent Flesh Chunk to summon him yourself.\n![Wukong RedLoong 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_RedLoong_1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a menacing creature with a muscular build and animalistic features, likely encountered in the Valley of Despair after defeating the King of Flowing Sand and his Second Rat Prince son. This creature appears to play a significant role in the narrative, possibly being summoned as part of the ongoing challenges in the game \"Black Myth: Wukong.\""
+}

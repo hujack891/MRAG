@@ -1,0 +1,28 @@
+{
+    "chunk_id": 511113888487,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg",
+    "alt_text": "Black-myth-wukong-cosmo-radiance.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Starlit Cloud-Bidden Antler .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Starlit_Cloud-Bidden_Antler_.jpg)| Starlit Cloud-Bidden Antler| Epic | Special crafting material | • Defeat Kang-Jin Loong in Snowhill Path - Mirrormere (mandatory boss) in The New West\n![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)",
+    "img_below_text": "![Black-myth-wukong-buddhas-right-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Black-myth-wukong-buddhas-right-hand.jpg)  3 | Buddha's Right Hand (Material)| Epic | Special crafting material | • Defeat Buddha's Right Hand in The Webbed Hollow\n![Black-myth-wukong-buddhas-left-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Black-myth-wukong-buddhas-left-hand.jpg)  4 | Buddha's Left Hand| Epic | Special crafting material | • Defeat Baw-Li-Guhh-Baw in the Lower Hollow in The Webbed Hollow",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Starlit Cloud-Bidden Antler .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Starlit_Cloud-Bidden_Antler_.jpg)| Starlit Cloud-Bidden Antler| Epic | Special crafting material | • Defeat Kang-Jin Loong in Snowhill Path - Mirrormere (mandatory boss) in The New West\n![Mountain-Shaking Claw .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Mountain-Shaking_Claw_.jpg)| Mountain-Shaking Claw| Legendary | Special crafting material | • Defeat Cyan Loong on the right of Bitter-Lake - Turtle Island in The New West ( Loong Scales required)\"\n            - Following Text: \"![Black-myth-wukong-buddhas-right-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Black-myth-wukong-buddhas-right-hand.jpg)  3 | Buddha's Right Hand (Material)| Epic | Special crafting material | • Defeat Buddha's Right Hand in The Webbed Hollow\n![Black-myth-wukong-buddhas-left-hand.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Black-myth-wukong-buddhas-left-hand.jpg)  4 | Buddha's Left Hand| Epic | Special crafting material | • Defeat Baw-Li-Guhh-Baw in the Lower Hollow in The Webbed Hollow\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black-myth-wukong-cosmo-radiance.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts an intricate and ornate crafting material, likely a rare or legendary item from the game *Black Myth: Wukong*. The object features a spiked, antler-like design with detailed embellishments, suggesting its significance as a special crafting material.\n\n2. **Purpose and Context**: Based on the surrounding text, the image likely represents the \"Mountain-Shaking Claw,\" a legendary crafting material obtained by defeating Cyan Loong in *The New West* area of the game. It serves as a visual reference for players to identify and understand the rarity and importance of this item in crafting or progression."
+}

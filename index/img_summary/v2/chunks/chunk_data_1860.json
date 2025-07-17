@@ -1,0 +1,28 @@
+{
+    "chunk_id": 307184469009,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Longevity_Rd_Luojia_Fragrant_Vine.jpg",
+    "alt_text": "Longevity Rd Luojia Fragrant Vine.jpg",
+    "position_desc": 6,
+    "img_above_text": "### Longevity Road Luojia Fragrant Vine\nLongevity Road Luojia Fragrant Vine",
+    "img_below_text": "Travel to the Longevity Road Keeper's Shrine and pan the camera left to find a path leading through the snow. Follow that path up a set of stairs, continuing through a wooden gate and up a second flight of stairs. The Luojia Fragrant Vine will be waiting on a tree straight ahead.\nAs you approach the tree you will be ambushed by two Falcon Fanmakers. Take them out to collect the Luojia Fragrant Vine.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Longevity Road Luojia Fragrant Vine\nLongevity Road Luojia Fragrant Vine\"\n            - Following Text: \"Travel to the Longevity Road Keeper's Shrine and pan the camera left to find a path leading through the snow. Follow that path up a set of stairs, continuing through a wooden gate and up a second flight of stairs. The Luojia Fragrant Vine will be waiting on a tree straight ahead.\nAs you approach the tree you will be ambushed by two Falcon Fanmakers. Take them out to collect the Luojia Fragrant Vine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Longevity_Rd_Luojia_Fragrant_Vine.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy forest scene where a character is interacting with a tree adorned with glowing orange leaves and vines, marked as \"Gather.\" This aligns with the context of locating the Luojia Fragrant Vine on Longevity Road. The tree is the objective, and players must approach it to collect the vine after defeating two Falcon Fanmakers in an ambush."
+}

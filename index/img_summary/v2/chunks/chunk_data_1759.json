@@ -1,0 +1,28 @@
+{
+    "chunk_id": 965817073999,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Turtle_18.jpg",
+    "alt_text": "Wukong Turtle 18.jpg",
+    "position_desc": 17,
+    "img_above_text": "![Wukong Turtle 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg)\nThe good news is this attack is so powerful it will leave her incredibly drained, and give you plenty of time to retaliate with all your saved up focus points, a Spirit Attack, and anything else you can throw at her!",
+    "img_below_text": "As long as your patient to wait for the right moments to get in close and attack, and make sure you're using shock-quelling medicine, you'll be able to come out on top. Even as Kang-Jin Star tries to flee in her dragon form, the Destined One will see to it that she crashes into the large cymbals, freeing the prisoner inside!\nKang-Jing Star",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_Turtle_17.jpg)\nThe good news is this attack is so powerful it will leave her incredibly drained, and give you plenty of time to retaliate with all your saved up focus points, a Spirit Attack, and anything else you can throw at her!\"\n            - Following Text: \"As long as your patient to wait for the right moments to get in close and attack, and make sure you're using shock-quelling medicine, you'll be able to come out on top. Even as Kang-Jin Star tries to flee in her dragon form, the Destined One will see to it that she crashes into the large cymbals, freeing the prisoner inside!\nKang-Jing Star\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Turtle_18.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the protagonist, likely the Destined One, preparing for battle or recovering after an intense encounter in a snowy, desolate landscape. In the background, a large, ornate cymbal is visible, which plays a key role in the narrative as Kang-Jin Star, the antagonist, crashes into it during her dragon form's attempted escape. The scene symbolizes a pivotal moment in the conflict, where perseverance and strategic retaliation lead to freeing a prisoner trapped within the cymbal."
+}

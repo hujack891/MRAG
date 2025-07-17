@@ -1,31 +1,6 @@
 {
-    "chunk_id": 97098586805,
-    "source_file": "Red_Tides.md",
-    "h1_title": "Red Tides",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg",
-    "alt_text": "Black-myth-wukong-red-tides-3.jpg",
-    "position_desc": 2,
-    "img_above_text": "# Red Tides\nRed Tides is one of the Transformation Spells found within Black Myth: Wukong. It is one of the most powerful Transformations you can find within the game's early chapters, thanks to its extremely strong heavy attacks.\nThe Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.\n\n* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 2 from the file 'Red_Tides.md', located under Red Tides.\n\n                Metadata:\n                - Document Title: Red Tides\n                - Alt Text: Black-myth-wukong-red-tides-3.jpg\n\n                Context:\n                - Preceding Text: \"# Red Tides\nRed Tides is one of the Transformation Spells found within Black Myth: Wukong. It is one of the most powerful Transformations you can find within the game's early chapters, thanks to its extremely strong heavy attacks.\nThe Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.\n\n* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-red-tides-3.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense combat moment from the game *Black Myth: Wukong*, showcasing the \"Red Tides\" Transformation Spell. A fiery explosion surrounds the character, emphasizing the spell's powerful heavy attack capabilities, such as \"Moon Chase,\" which unleashes devastating dash attacks. The visual highlights the spell's ability to inflict significant damage, aligning with its description as one of the strongest early-game transformations. The accompanying UI elements provide details on the moveset, reinforcing the gameplay mechanics described in the preceding text."
+    "chunk_id": 219180022522,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_MiddleHollow_30.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is exploring a cave-like environment filled with large, cocoon-like structures hanging from the ceiling. The character is holding a staff with a glowing red tip, suggesting it might be used for combat or interaction. The environment is detailed with rocky textures and web-like strands, creating a mysterious and possibly dangerous atmosphere. \n\nThe user interface elements visible include a health bar at the bottom left, which is partially depleted, indicating the player's current health status. There are also various icons on the left and right sides of the screen, likely representing abilities, items, or actions available to the player. These include symbols that might correspond to different powers or inventory items. The presence of these UI components suggests that the player may need to use specific abilities or items to navigate or interact with the environment effectively."
 }

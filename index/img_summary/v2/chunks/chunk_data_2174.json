@@ -1,0 +1,28 @@
+{
+    "chunk_id": 951443614450,
+    "source_file": "Non-Able.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Brook_22.jpg",
+    "alt_text": "Wukong Brook 22.jpg",
+    "position_desc": 9,
+    "img_above_text": "![Wukong Brook 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Brook_21.jpg)\nIf you can believe it, this boss still has more kick attacks to show off, and can now unleash a quick three-hit combo after starting to crouch down and angle his head to your left. Watch out for his incredibly fast roundhouse kicks to fly out one after the other, and only after the third will he pause to stretch out his leg and give you room to retaliate.",
+    "img_below_text": "He's even faster at chaining his attacks together, and even after the three-kick combo he can slam the ground with his fist to charge it up, then come at you with a spin, feinting a kick to trick you into dodging before unleashing a blast with his gold glowing fist.\n![Wukong Brook 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Brook_33.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Brook_21.jpg)\nIf you can believe it, this boss still has more kick attacks to show off, and can now unleash a quick three-hit combo after starting to crouch down and angle his head to your left. Watch out for his incredibly fast roundhouse kicks to fly out one after the other, and only after the third will he pause to stretch out his leg and give you room to retaliate.\"\n            - Following Text: \"He's even faster at chaining his attacks together, and even after the three-kick combo he can slam the ground with his fist to charge it up, then come at you with a spin, feinting a kick to trick you into dodging before unleashing a blast with his gold glowing fist.\n![Wukong Brook 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_Brook_33.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Brook_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a fierce battle scene from the game \"Black Myth: Wukong,\" showcasing a boss character named Non-Able in a snowy environment. The boss is seen mid-action, preparing to unleash a powerful attack with his gold glowing fist. This image highlights the boss's aggressive combat style, including his fast three-hit kick combo and subsequent ground slam attack, which sets up a deceptive spin move followed by a devastating fist blast."
+}

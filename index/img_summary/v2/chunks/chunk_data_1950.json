@@ -1,0 +1,28 @@
+{
+    "chunk_id": 103094479999,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg",
+    "alt_text": "Black-myth-wukong-fire-date.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards",
+    "img_below_text": "![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-golden-lotus.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg)| Golden Lotus | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\"\n            - Following Text: \"![Black-myth-wukong-flame-ore.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Black-myth-wukong-flame-ore.jpg)| Flame Ore | Uncommon | Ingredient | Found in the Flaming Mountains from defeating Flamlings Purchased from the Shrine Store\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Evil Repelling Medicament | Uncommon | Formula | Formula bought from the Shrine store after saving the Shen Monkey Vendor in Black Wind Mountain from Lan-Li-Guhh-Baw\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts Flame Ore, an uncommon ingredient in the game \"Black Myth: Wukong.\" This item is found in the Flaming Mountains by defeating Flamlings or can be purchased from the Shrine Store. It is part of a series of ingredients and formulas used within the game's narrative, contributing to the player's ability to craft or purchase items that aid in their journey."
+}

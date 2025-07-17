@@ -1,0 +1,28 @@
+{
+    "chunk_id": 12366579295,
+    "source_file": "Earth_Rakshasa_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Burning_Shield_Guy.png",
+    "alt_text": "Burning Shield Guy.png",
+    "position_desc": 1,
+    "img_above_text": "* Earth Rakshasa Fight\n* Earth Rakshasa Spirit",
+    "img_below_text": "## Earth Rakshasa Location\nEarth Rakshasa is a foe you can find in Furnace Valley in the Flaming Mountains. From the Valley Entrance Keeper's Shrine, run straight ahead until the stone pillars marking the entrance to the Misty Cloud, Cloudy Mist boss arena become visible. Take the path branching off to the left before you enter the boss arena to find Earth Rakshasa guarding a chest.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Earth_Rakshasa_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Earth Rakshasa Fight\n* Earth Rakshasa Spirit\"\n            - Following Text: \"## Earth Rakshasa Location\nEarth Rakshasa is a foe you can find in Furnace Valley in the Flaming Mountains. From the Valley Entrance Keeper's Shrine, run straight ahead until the stone pillars marking the entrance to the Misty Cloud, Cloudy Mist boss arena become visible. Take the path branching off to the left before you enter the boss arena to find Earth Rakshasa guarding a chest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Burning_Shield_Guy.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character engaged in combat with the Earth Rakshasa Spirit, a formidable enemy guarding a chest in a dark, rocky environment. The Earth Rakshasa is a large, armored foe wielding a massive weapon and shield, while the player appears equipped with a staff and various combat abilities visible in the interface. The scene suggests a challenging encounter tied to exploration and treasure acquisition.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves to illustrate the Earth Rakshasa Spirit fight, highlighting the enemy's imposing presence and the context of the encounter. It visually complements the preceding text about the Earth Rakshasa Spirit and the following text describing its location and role as a guardian of a chest in Furnace Valley."
+}

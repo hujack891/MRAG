@@ -1,0 +1,28 @@
+{
+    "chunk_id": 715779197433,
+    "source_file": "Sterness_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg",
+    "alt_text": "Sterness of Stone 3.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Sterness of Stone can be used on the Tallies located in Chapter 2 - Yellow Wind Ridge. They allow you to access the path under the Crouching Tiger Temple, and open the locked doors at Sandgate Village - Valley of Despair and Yellow Sand Formation - Windrest Gate Shrines. You will need to use this with the Keeness of Tiger Key Item, which can be found at the Crouching Tiger Temple upon defeating the Tiger Vanguard.\nThe first Tally is at the Crouching Tiger Temple, within the arena where you fought the Tiger Vanguard.",
+    "img_below_text": "The first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\n![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Sterness_of_Stone.md'.\n\n            Context:\n            - Preceding Text: \"The Sterness of Stone can be used on the Tallies located in Chapter 2 - Yellow Wind Ridge. They allow you to access the path under the Crouching Tiger Temple, and open the locked doors at Sandgate Village - Valley of Despair and Yellow Sand Formation - Windrest Gate Shrines. You will need to use this with the Keeness of Tiger Key Item, which can be found at the Crouching Tiger Temple upon defeating the Tiger Vanguard.\nThe first Tally is at the Crouching Tiger Temple, within the arena where you fought the Tiger Vanguard.\"\n            - Following Text: \"The first gate can be found right next to the Sandgate Village - Valley of Despair Shrine, on the right.\n![Sterness of Stone 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Sterness_of_Stone_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Sterness_of_Stone_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing in front of a large stone structure with intricate carvings and statues, likely within the Crouching Tiger Temple. This location is significant for using the Sterness of Stone to access paths and unlock doors in various areas, including Sandgate Village and Yellow Sand Formation. The image serves to illustrate the environment and the narrative context of the player's journey in the game."
+}

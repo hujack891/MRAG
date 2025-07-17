@@ -1,0 +1,28 @@
+{
+    "chunk_id": 48109373560,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg",
+    "alt_text": "Mind Core .jpg",
+    "position_desc": 33,
+    "img_above_text": "![Black-myth-wukong-kun-steel.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Black-myth-wukong-kun-steel.jpg)  10 | Kun Steel| Mythical | Special weapon material | • Defeat The Duskveil in Purple Cloud Mountain in The Webbed Hollow• Defeat Yellow Loong in The Webbed Hollow (Requires Loong Scales) • Defeat Red Boy and Yaksha King in the Flaming Mountains • Found in a chest at Furnace Valley, Valley Entrance in Flaming Mountains, on a cliff edge amongst the flowing lava • Defeat the secret final boss of the game upon unlocking the secret ending\n![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests",
+    "img_below_text": "![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 33 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-kun-steel.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Black-myth-wukong-kun-steel.jpg)  10 | Kun Steel| Mythical | Special weapon material | • Defeat The Duskveil in Purple Cloud Mountain in The Webbed Hollow• Defeat Yellow Loong in The Webbed Hollow (Requires Loong Scales) • Defeat Red Boy and Yaksha King in the Flaming Mountains • Found in a chest at Furnace Valley, Valley Entrance in Flaming Mountains, on a cliff edge amongst the flowing lava • Defeat the secret final boss of the game upon unlocking the secret ending\n![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests\"\n            - Following Text: \"![Luojia Fragrant Vine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg)| Luojia Fragrant Vine| Legendary | Rare Gourds upgrade material | • Found on trees throughout chapters\n![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a detailed, ornate item resembling a carved, golden-hued material with intricate patterns on its base. Based on the surrounding context, it likely represents a crafting or upgrade material from the game *Black Myth: Wukong*. Positioned between descriptions of other rare materials like \"Kun Steel\" and \"Luojia Fragrant Vine,\" this item is probably a significant resource used for enhancing weapons or equipment, contributing to the game's progression and exploration mechanics."
+}

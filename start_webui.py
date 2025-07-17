@@ -27,7 +27,7 @@ def check_dependencies():
 def check_database_files():
     """检查数据库文件是否存在"""
     text_db_path = Path("./index/text/v3")
-    image_db_path = Path("./index/image/v1")
+    image_db_path = Path("./index/image/v3")
     
     required_files = [
         text_db_path / "text_embedder_index.faiss",
@@ -97,7 +97,6 @@ def main():
             print("✓ Web服务启动成功")
             print("\n" + "=" * 50)
             print("🌐 访问地址: http://localhost:5001")
-            print("📖 使用说明: 请查看 README_WebUI.md")
             print("=" * 50)
             
             # 自动打开浏览器

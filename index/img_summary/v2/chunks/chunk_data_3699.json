@@ -1,0 +1,28 @@
+{
+    "chunk_id": 286570204728,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_YellowLoong_17.jpg",
+    "alt_text": "Wukong YellowLoong 17.jpg",
+    "position_desc": 18,
+    "img_above_text": "Once you take off a good chunk of his health, the second \"phase\" will start, and things get extremely dangerous. It will begin when he stops fighting to charge up and release a blast of electricity around him.\nAfter he does this, he'll immediately fly at you low to the ground with a slash while imbued by electricity that is incredibly quick and hard to dodge -- and it only gets worse from here.",
+    "img_below_text": "He'll spend the next several attacks floating up above you and dive-bombing in his electrified state, and though each dive-bomb looks the same, the timing is slightly different depending on his motions before attacking:\nTwirling his glaive over his head will buy you a second until he finishes the animation before flying at you, but if he holds his glaive pointed behind him, you'll have the smallest of moments to dodge before he charges you. He may also hold his weapon under his other arm, or angle it downward, and each has its own timing.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Yellow_Loong.md'.\n\n            Context:\n            - Preceding Text: \"Once you take off a good chunk of his health, the second \"phase\" will start, and things get extremely dangerous. It will begin when he stops fighting to charge up and release a blast of electricity around him.\nAfter he does this, he'll immediately fly at you low to the ground with a slash while imbued by electricity that is incredibly quick and hard to dodge -- and it only gets worse from here.\"\n            - Following Text: \"He'll spend the next several attacks floating up above you and dive-bombing in his electrified state, and though each dive-bomb looks the same, the timing is slightly different depending on his motions before attacking:\nTwirling his glaive over his head will buy you a second until he finishes the animation before flying at you, but if he holds his glaive pointed behind him, you'll have the smallest of moments to dodge before he charges you. He may also hold his weapon under his other arm, or angle it downward, and each has its own timing.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_YellowLoong_17.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where a character named Yellow Loong, a formidable enemy, is in the midst of an intense battle. The character is shown floating above the ground, preparing to dive-bomb the player with an electrified attack. The surrounding environment is a lush, dense forest at night, adding to the ominous and dangerous atmosphere of the encounter. The preceding and following text describes the various attack patterns and strategies the player must anticipate and counter to survive this challenging phase of the fight."
+}

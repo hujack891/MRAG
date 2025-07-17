@@ -1,0 +1,28 @@
+{
+    "chunk_id": 322770484451,
+    "source_file": "Elder_Armourworm_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Elder_Armourworm_Location.jpg",
+    "alt_text": "Elder Armourworm Location.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Elder Armourworm Location\nThe Elder Armourworm can be found in a small clearing overlooking the forest outside the Webbed Hollow. To get there from the Verdure Bridge Keeper's Shrine, take the path on the left of the Shrine (if you're facing it). Stick to the left and pass through a wooden gate to find a room full of chests. Loot them and continue through the opening on the opposite wall to find a small clearing overlooking the Webbed Hollow. Drop down to find the Elder Armourworm.",
+    "img_below_text": "## Elder Armourworm Fight\nThe Elder Armourworm relies mostly on its large, fat body during the fight. Expect to dodge lots of belly flops and huge swipes with the upper portion of its body. Thankfully, the Elder Armourworm is quite slow, so you should be able to dodge most attacks without too much trouble.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Elder_Armourworm_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Elder Armourworm Location\nThe Elder Armourworm can be found in a small clearing overlooking the forest outside the Webbed Hollow. To get there from the Verdure Bridge Keeper's Shrine, take the path on the left of the Shrine (if you're facing it). Stick to the left and pass through a wooden gate to find a room full of chests. Loot them and continue through the opening on the opposite wall to find a small clearing overlooking the Webbed Hollow. Drop down to find the Elder Armourworm.\"\n            - Following Text: \"## Elder Armourworm Fight\nThe Elder Armourworm relies mostly on its large, fat body during the fight. Expect to dodge lots of belly flops and huge swipes with the upper portion of its body. Thankfully, the Elder Armourworm is quite slow, so you should be able to dodge most attacks without too much trouble.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Elder_Armourworm_Location.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, atmospheric clearing surrounded by rocky cliffs and dense vegetation, with the player character standing in the foreground, equipped with a staff and ornate armor. The setting appears to be the location described in the preceding text, where players encounter the Elder Armourworm near the Webbed Hollow. The eerie environment, scattered eggs, and webbing suggest the presence of the creature and foreshadow the upcoming fight described in the following text. This image serves to visually establish the location and mood for the encounter with the Elder Armourworm."
+}

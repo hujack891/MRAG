@@ -1,0 +1,28 @@
+{
+    "chunk_id": 203644755996,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
+    "alt_text": "Mind Core - Crouching Tiger Temple 1.jpg",
+    "position_desc": 12,
+    "img_above_text": "### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.",
+    "img_below_text": "### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 9\nThe next Mind Core is actually obtained by speaking with Xu Dog in the Crouching Tiger Temple \\- Cellar Shrine area.\"\n            - Following Text: \"### Mind Core Location 10\nAnother Mind Core can be found in a chest on the right side of the Kingdom of Sahali area in Yellow Wind Ridge. This needs to be done before defeating Fuban as the area becomes inaccessible.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/14/Mind_Core_-_Crouching_Tiger_Temple_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dimly lit shrine area within a cave, featuring a character standing before a small altar with the option to \"Offer Incense\" displayed. This setting aligns with the context of the Crouching Tiger Temple - Cellar Shrine area, where players interact with Xu Dog to obtain the ninth Mind Core. The shrine and its atmosphere suggest a ritualistic or spiritual interaction tied to the game's progression."
+}

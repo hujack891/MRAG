@@ -1,0 +1,28 @@
+{
+    "chunk_id": 609238857995,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg",
+    "alt_text": "Wukong Thunderclap 73.jpg",
+    "position_desc": 2,
+    "img_above_text": "No longer the small chubby monk you've seen previously, this much larger giant of a man is an incredibly dangerous and formidable foe, and uses a host of lightning attacks to try and inflict Shock status on you. Taking double damage from any of his attacks is highly inadvisable, so make sure your Shock-Quelling Powder is on your quickbar for this fight.\nYellowbrow chiefly attacks with a large spiked mace while he holds his magic seedbag in the other hand. Be incredibly wary of his weapon, as it has the ability to change its shape, and he can extend the handle at will both in size, length, and flexibility.",
+    "img_below_text": "To start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.\n![Wukong Thunderclap 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Thunderclap_74.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"No longer the small chubby monk you've seen previously, this much larger giant of a man is an incredibly dangerous and formidable foe, and uses a host of lightning attacks to try and inflict Shock status on you. Taking double damage from any of his attacks is highly inadvisable, so make sure your Shock-Quelling Powder is on your quickbar for this fight.\nYellowbrow chiefly attacks with a large spiked mace while he holds his magic seedbag in the other hand. Be incredibly wary of his weapon, as it has the ability to change its shape, and he can extend the handle at will both in size, length, and flexibility.\"\n            - Following Text: \"To start, Yellowbrow will often charge up his spiked mace before thrusting it right at you, increasing its length and size with surprising reach.\n![Wukong Thunderclap 74.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Thunderclap_74.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Thunderclap_73.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" showing a character named Yellowbrow engaging in a fierce battle. Yellowbrow is seen unleashing a powerful lightning attack, with electric currents radiating outward, creating a visually intense and chaotic environment. The setting appears to be a richly detailed, ancient temple-like structure. The image serves to illustrate the formidable nature of Yellowbrow and the high-stakes combat players will face, emphasizing the need for strategic preparation against his lightning-based attacks."
+}

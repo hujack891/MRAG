@@ -1,31 +1,6 @@
 {
-    "chunk_id": 697883960344,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Pagoda_5.jpg",
-    "alt_text": "Wukong Pagoda 5.jpg",
-    "position_desc": 4,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\nIt's around this point that you'll likely get your first taste of the \"beguiling chants\" the prisoner mentioned, and there's a lot going on you'll have to make sense of. A large terrifying sound will echo throughout the realm, the pagoda itself will spin even faster, everyone will start glowing, strange new creatures will appear -- and your health will start lowering!\nLet's break it down: The Pagoda Realm's chanting curse is on a global timer, meaning even if you die or go to different Shines in the realm, or even sit around resting at a shrine, the curse can still trigger and persist. **Every three minutes, the chanting will begin, and last for exactly one minute and thirty seconds before resetting.**",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 4 from the file 'Pagoda_Realm_Walkthrough.md', located under The Beguiling Chant of the Pagoda Realm.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Alt Text: Wukong Pagoda 5.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\nIt's around this point that you'll likely get your first taste of the \"beguiling chants\" the prisoner mentioned, and there's a lot going on you'll have to make sense of. A large terrifying sound will echo throughout the realm, the pagoda itself will spin even faster, everyone will start glowing, strange new creatures will appear -- and your health will start lowering!\nLet's break it down: The Pagoda Realm's chanting curse is on a global timer, meaning even if you die or go to different Shines in the realm, or even sit around resting at a shrine, the curse can still trigger and persist. **Every three minutes, the chanting will begin, and last for exactly one minute and thirty seconds before resetting.**\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_Pagoda_5.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, eerie scene from a game, likely set in the Pagoda Realm, where a player character is engaged in combat with ghostly, glowing enemies. This visual aligns with the described \"beguiling chants\" and the chaotic environment where health decreases, creatures appear, and the pagoda spins faster. The image serves to illustrate the intense and mystical atmosphere of the Pagoda Realm, emphasizing the challenges and supernatural elements players will encounter during the chanting curse."
+    "chunk_id": 548669290912,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_2.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game set in a snowy environment, with a character holding a staff or spear walking towards a body of water. The environment is detailed with snow-covered ground, rocks, and trees. In the upper right corner, a UI element displays \"Will x19\" with a red circle highlighting a point of interest in the water, possibly indicating an objective or collectible. The lower left corner shows the player's health bar and various icons, suggesting available abilities or items. The UI also includes button prompts for actions, indicating gameplay mechanics."
 }

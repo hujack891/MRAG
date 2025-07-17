@@ -1,0 +1,28 @@
+{
+    "chunk_id": 918610194937,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/The_Tree_Middle_Hollow_Temple_Meditation_Spot.jpg",
+    "alt_text": "The Tree Middle Hollow Temple Meditation Spot.jpg",
+    "position_desc": 16,
+    "img_above_text": "### The Tree, Middle of the Hollow Meditation Spot\nThe Tree, Middle of the Hollow Meditation Spot",
+    "img_below_text": "This Meditation Spot is directly opposite the Middle Hollow Keeper's Shrine. Head straight forward to the torches on the right to find the Meditation Spot amongst the grass on the edge of a cliff.\n### Cave Depths, Lower Hollow Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Tree, Middle of the Hollow Meditation Spot\nThe Tree, Middle of the Hollow Meditation Spot\"\n            - Following Text: \"This Meditation Spot is directly opposite the Middle Hollow Keeper's Shrine. Head straight forward to the torches on the right to find the Meditation Spot amongst the grass on the edge of a cliff.\n### Cave Depths, Lower Hollow Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/The_Tree_Middle_Hollow_Temple_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene Meditation Spot located in the Middle Hollow area, near a cliff edge surrounded by grass and trees. A character is positioned near a lit brazier and a stone structure, with the option to \"Meditate\" displayed on-screen. This spot is described as being opposite the Middle Hollow Keeper's Shrine and serves as a tranquil location for reflection or gameplay progression within the context of the environment."
+}

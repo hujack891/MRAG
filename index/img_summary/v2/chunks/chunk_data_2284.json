@@ -1,0 +1,28 @@
+{
+    "chunk_id": 893539098061,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_Pagoda_8.jpg",
+    "alt_text": "Wukong Pagoda 8.jpg",
+    "position_desc": 9,
+    "img_above_text": "If you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.\n## Lower Pagoda (Level 1)",
+    "img_below_text": "Past another sealed cell, you can finally find the Lower Pagoda Shrine to rest at, but remember that resting at it will not affect the timer of this area's curse. It's not a bad idea to rest at it after the beguiling chant ends and your maximum health returns to normal, but resting during the curse won't reset your health.\n![Wukong Pagoda 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"If you see them perform a hand gesture, expect them to disappear, only to reappear from a different angle to try and kick you without warning.\n## Lower Pagoda (Level 1)\"\n            - Following Text: \"Past another sealed cell, you can finally find the Lower Pagoda Shrine to rest at, but remember that resting at it will not affect the timer of this area's curse. It's not a bad idea to rest at it after the beguiling chant ends and your maximum health returns to normal, but resting during the curse won't reset your health.\n![Wukong Pagoda 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Wukong_Pagoda_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the Lower Pagoda level in the game \"Black Myth: Wukong.\" It shows a character navigating through a dimly lit, rocky environment, likely on a quest to reach the Lower Pagoda Shrine. The preceding text suggests the presence of elusive enemies that can disappear and reappear unexpectedly, while the following text indicates the importance of finding the shrine to rest, although resting does not reset the area's curse timer. The image captures the atmospheric and challenging nature of the journey within this level."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 847833269821,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Black-myth-wukong-life-saving-pill.jpg",
+    "alt_text": "Black-myth-wukong-life-saving-pill.jpg",
+    "position_desc": 19,
+    "img_above_text": "• 1 Millennium Ginseng\n• 1 Licorice | Enhanced Ginseng Pellets",
+    "img_below_text": "• 1 Golden Lotus | Life-Saving Pill\n![Black-myth-wukong-loong-aura-amplification-pellets.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Black-myth-wukong-loong-aura-amplification-pellets.jpg)| Loong Aura Amplification Pellets | Legendary | Upon use, massively increases attack, critical hit chance, and critical damage for a long duration | • Formula available from Xu Dog from the start of Chapter 5 • Given by Xu Dog upon requesting medication • Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Monkey-Head Fungus",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"• 1 Millennium Ginseng\n• 1 Licorice | Enhanced Ginseng Pellets\"\n            - Following Text: \"• 1 Golden Lotus | Life-Saving Pill\n![Black-myth-wukong-loong-aura-amplification-pellets.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Black-myth-wukong-loong-aura-amplification-pellets.jpg)| Loong Aura Amplification Pellets | Legendary | Upon use, massively increases attack, critical hit chance, and critical damage for a long duration | • Formula available from Xu Dog from the start of Chapter 5 • Given by Xu Dog upon requesting medication • Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Monkey-Head Fungus\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Black-myth-wukong-life-saving-pill.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the Loong Aura Amplification Pellets, a legendary consumable item from the game \"Black Myth: Wukong.\" This item, when used, significantly boosts attack power, critical hit chance, and critical damage for an extended period. The pellets can be obtained from Xu Dog starting in Chapter 5, requested as medication, or purchased from Xu Dog in the Crouching Tiger Temple - Cellar after completing Chapter 2 - Yellow Wind Ridge."
+}

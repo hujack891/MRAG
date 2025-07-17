@@ -1,0 +1,28 @@
+{
+    "chunk_id": 282880641047,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg",
+    "alt_text": "Wukong Snowhill 22.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Wukong Snowhill 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg)\nWith the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.",
+    "img_below_text": "Climbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.\n![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg)\nWith the area now clear, you're free to continue up the mountain path to a large walled temple in the distance. Once you reach the final set of stairs leading up to the temple, be ready for a Cyan Bat hanging from a nearby tree to ambush you.\"\n            - Following Text: \"Climbing the stairs, be sure to look to the left for some broken wooden platforms you can jump to, and beyond them you'll find a **Treasure Chest** containing items and likely a few Refined Iron Sand.\n![Wukong Snowhill 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Snowhill_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Snowhill_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy mountain path leading up to a large walled temple in the distance. The character is positioned on a set of stairs, ready to ascend further. The preceding text indicates that the area is now clear, allowing the character to continue their journey up the mountain. The following text advises the player to look for broken wooden platforms to the left of the stairs, which lead to a treasure chest containing valuable items. The image serves to illustrate the next stage of the player's progression towards the temple and highlights potential ambushes and hidden treasures along the way."
+}

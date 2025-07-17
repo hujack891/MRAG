@@ -1,0 +1,28 @@
+{
+    "chunk_id": 135307167280,
+    "source_file": "Nine-Capped_Lingzhi_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Field_Fire_Walkthrough_%283%29.png",
+    "alt_text": "Field Fire Walkthrough \\(3\\).png",
+    "position_desc": 3,
+    "img_above_text": "![Field Fire Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Field_Fire_Walkthrough_%282%29.png)\nThe huge Nine-Capped Lingzhi Guai will emerge as soon as you attempt to harvest the mushroom. Immediately, he'll leap up and try to hit you.",
+    "img_below_text": "He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Nine-Capped_Lingzhi_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Field Fire Walkthrough \\(2\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Field_Fire_Walkthrough_%282%29.png)\nThe huge Nine-Capped Lingzhi Guai will emerge as soon as you attempt to harvest the mushroom. Immediately, he'll leap up and try to hit you.\"\n            - Following Text: \"He uses a spiked mace to attack and generally will perform a series of combos where he'll swing the mace, or leap up in the air and smash it down.\nThough these are fairly standard attacks, in the sense that they can be dodged and evaded, the problem with them is the small red mushrooms that appear with each one.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Field_Fire_Walkthrough_%283%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic encounter between a player character and the Nine-Capped Lingzhi Guai, a formidable enemy in a rugged, rocky landscape. The Lingzhi Guai is shown wielding a large spiked mace, poised to attack, emphasizing the imminent danger and action. This scene illustrates the narrative moment when the Lingzhi Guai emerges to confront the player, highlighting the challenge of dodging its powerful combos and the additional threat posed by the appearance of small red mushrooms during the battle."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 244391507019,
+    "source_file": "Celestial_Taiyi_Pill_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/The_Webbed_Hollow_Taiyi.jpg",
+    "alt_text": "The Webbed Hollow Taiyi.jpg",
+    "position_desc": 5,
+    "img_above_text": "## The Webbed Hollow Celestial Taiyi Pill\nThe Webbed Hollow Taiyi Pill",
+    "img_below_text": "After defeating the Buddha's Right Hand in the Webbed Hollow, run across the bridge it creates and turn left as soon as you reach solid ground. The Celestial Taiyi Pill is hidden around the corner.\n## Flaming Mountains Celestial Taiyi Pill",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Celestial_Taiyi_Pill_Locations.md'.\n\n            Context:\n            - Preceding Text: \"## The Webbed Hollow Celestial Taiyi Pill\nThe Webbed Hollow Taiyi Pill\"\n            - Following Text: \"After defeating the Buddha's Right Hand in the Webbed Hollow, run across the bridge it creates and turn left as soon as you reach solid ground. The Celestial Taiyi Pill is hidden around the corner.\n## Flaming Mountains Celestial Taiyi Pill\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/The_Webbed_Hollow_Taiyi.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character standing in a dimly lit cave near a glowing golden object labeled \"Open,\" which appears to be a treasure or container. This scene aligns with the preceding and following text, suggesting that the image represents the location of the Celestial Taiyi Pill in the Webbed Hollow area. The player is likely about to interact with the object to retrieve the pill after defeating the Buddha's Right Hand and crossing the bridge."
+}

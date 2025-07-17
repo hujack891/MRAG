@@ -1,0 +1,28 @@
+{
+    "chunk_id": 131933558504,
+    "source_file": "Keeness_of_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Keeness_of_Tiger_4.jpg",
+    "alt_text": "Keeness of Tiger 4.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Keeness of Tiger 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Keeness_of_Tiger_2.jpg)\nThen, the second can be found at the bottom of the sand hill leading on from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.",
+    "img_below_text": "For an even more detailed walkthrough of these areas beyond the Tallies, be sure to check out our full walkthrough.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Keeness_of_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Keeness of Tiger 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Keeness_of_Tiger_2.jpg)\nThen, the second can be found at the bottom of the sand hill leading on from the Fright Cliff - Rock Clash Platform Shrine, which is just after the Stone Vanguard fight.\"\n            - Following Text: \"For an even more detailed walkthrough of these areas beyond the Tallies, be sure to check out our full walkthrough.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Keeness_of_Tiger_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from *Black Myth: Wukong*, showcasing a detailed environment with a warrior character holding a staff, standing in a rocky, ancient shrine-like area. The setting includes stone lion statues, a lit brazier, and carved walls, suggesting a location of significance. Based on the context, this area is near the sand hill following the Fright Cliff - Rock Clash Platform Shrine, encountered after the Stone Vanguard fight. The image appears to highlight the atmospheric design and serves as a visual reference for navigating this part of the game."
+}

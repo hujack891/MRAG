@@ -1,0 +1,28 @@
+{
+    "chunk_id": 539793549611,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Fright_46.jpg",
+    "alt_text": "Wukong Fright 46.jpg",
+    "position_desc": 10,
+    "img_above_text": "### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.",
+    "img_below_text": "### Mind Core Location 9\nThe next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 8\nThe next Mind Core is also at the Rockrest Flat Shrine in Fright Cliff in Yellow Wind Ridge. This time, from the Shrine, go left and defeat the Stone Vanguard to get one.\"\n            - Following Text: \"### Mind Core Location 9\nThe next Mind Core is at the Windrest Hamlet in Yellow Sand Formation in Yellow Wind Ridge. This can be accessed from the Valley of Despair Shrine in Sandgate Village.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/64/Wukong_Fright_46.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene in a rugged, desert-like environment. A player character is engaged in combat with a large, rock-like enemy named \"Stone Vanguard,\" as indicated by the health bar and name displayed on the screen. This encounter aligns with the preceding text, which describes the process of obtaining a Mind Core by defeating the Stone Vanguard near the Rockrest Flat Shrine in Fright Cliff, Yellow Wind Ridge. The image visually reinforces the narrative's focus on overcoming challenges to acquire Mind Cores in specific locations."
+}

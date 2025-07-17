@@ -1,31 +1,6 @@
 {
-    "chunk_id": 647119989208,
-    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
-    "h1_title": "Secret Bosses in Chapter 2",
-    "h2_title": "Black Loong",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Secrets_Wukong_%282%29.png",
-    "alt_text": "Secrets Wukong \\(2\\).png",
-    "position_desc": 3,
-    "img_above_text": "# Secret Bosses in Chapter 2\nChapter 2 features a variety of secret bosses, with a few requiring Key Items to summon them. The Buddha's Eyeballs, Old-Rattle Drum, and Loong Scales are all important finds if you want to battle each hidden boss.\n## Black Loong\n\nGrab yourself all 6 of the Buddha's Eyes in Fright Cliff and place them into the odd-looking rock near the Stone Vanguard. The result will be the emergence of Shigandang.\n\nShigandang",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 3 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', located under Black Loong.\n\n                Metadata:\n                - Document Title: Secret Bosses in Chapter 2\n                - Section Title: Black Loong\n                - Alt Text: Secrets Wukong \\(2\\).png\n\n                Context:\n                - Preceding Text: \"# Secret Bosses in Chapter 2\nChapter 2 features a variety of secret bosses, with a few requiring Key Items to summon them. The Buddha's Eyeballs, Old-Rattle Drum, and Loong Scales are all important finds if you want to battle each hidden boss.\n## Black Loong\n\nGrab yourself all 6 of the Buddha's Eyes in Fright Cliff and place them into the odd-looking rock near the Stone Vanguard. The result will be the emergence of Shigandang.\n\nShigandang\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Secrets_Wukong_%282%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a gameplay scene from *Black Myth: Wukong*, showcasing a battle against the secret boss \"Black Loong.\" The player character, armed with a staff, faces off against the imposing creature in a rocky, desolate environment. The health bar labeled \"Black Loong\" and various interface elements suggest this is a combat encounter. The preceding text explains that secret bosses in Chapter 2, such as Black Loong, require specific items like Buddha's Eyes to summon. This image visually represents the confrontation with Black Loong, tying into the section's narrative about uncovering hidden challenges in the game."
+    "chunk_id": 163735917776,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Wukong_Yellow_11.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a third-person view of a character in a video game, positioned in a rocky and grassy environment with a dilapidated structure in the background. The character is equipped with a staff-like weapon and is facing an enemy marked by a red dashed circle, indicating a target or point of interest. The user interface displays several icons on the left and right sides of the screen, suggesting available abilities or items. On the bottom left, there is a health bar with three segments, and on the bottom right, icons represent various skills or actions, with one highlighted in yellow. The scene suggests preparation for combat or interaction with the marked enemy."
 }

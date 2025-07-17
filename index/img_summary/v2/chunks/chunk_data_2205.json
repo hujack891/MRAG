@@ -1,0 +1,28 @@
+{
+    "chunk_id": 921263271702,
+    "source_file": "Non-Void.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg",
+    "alt_text": "Wukong Thunderclap 49.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Thunderclap 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg)\nOnce you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.",
+    "img_below_text": "If you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.\n![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Non-Void.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_Thunderclap_52.jpg)\nOnce you've learned the timing of his combo, you can also perform a Rock Solid Deflection on his second strike even when he's incorporeal, and the deflection will knock him backward and out of his transparent form, allowing you to press your attack.\"\n            - Following Text: \"If you take too long to recover and try to rush him, he's likely to fade away and warp backward while immune to damage, so only expend your focus points if you're catching him at the right time.\n![Wukong Thunderclap 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Wukong_Thunderclap_50.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character, likely Wukong, performing a special move or attack called \"Non-Void.\" The character is facing an incorporeal enemy, which is partially transparent, suggesting a phase where the enemy is immune to damage. The glowing, swirling energy effect in the image highlights the action and timing required to counter the enemy's attack, as described in the context. The image serves to illustrate the gameplay mechanics of timing and strategy needed to effectively engage with this type of enemy."
+}

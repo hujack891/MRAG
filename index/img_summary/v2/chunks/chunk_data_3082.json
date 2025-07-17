@@ -1,0 +1,28 @@
+{
+    "chunk_id": 406537926536,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Mindcliff_22.jpg",
+    "alt_text": "Wukong Mindcliff 22.jpg",
+    "position_desc": 21,
+    "img_above_text": "![Wukong Mindcliff 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Wukong_Mindcliff_21.jpg)\nAmong his new attacks, he can quickly launch into two slashes, and then crouch down and pivot to charge in a final dashing strike meant to chase you down if you try and dodge away -- but you can deflect this final move to stop him in his tracks.",
+    "img_below_text": "If you don't deflect, be ready for him to turn around after the charge and launch a barrage of poison daggers in your direction that are much harder to get out of the way of if you aren't ready to start strafing.\n![Wukong Mindcliff 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Mindcliff_23.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 21 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Mindcliff 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Wukong_Mindcliff_21.jpg)\nAmong his new attacks, he can quickly launch into two slashes, and then crouch down and pivot to charge in a final dashing strike meant to chase you down if you try and dodge away -- but you can deflect this final move to stop him in his tracks.\"\n            - Following Text: \"If you don't deflect, be ready for him to turn around after the charge and launch a barrage of poison daggers in your direction that are much harder to get out of the way of if you aren't ready to start strafing.\n![Wukong Mindcliff 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Mindcliff_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Mindcliff_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist, Wukong, in combat against an enemy. Wukong is crouched and poised to deflect an incoming attack, with green poison daggers visible in the air. The preceding text describes Wukong's ability to deflect a final dashing strike from the enemy, while the following text warns of a subsequent barrage of poison daggers if the deflection is not successful. The image illustrates the critical moment of deflection and the imminent threat of poison daggers, emphasizing the need for strategic timing and readiness in the gameplay."
+}

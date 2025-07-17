@@ -1,0 +1,28 @@
+{
+    "chunk_id": 812625604629,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg",
+    "alt_text": "Black-myth-wukong-millenium-ginseng-seed.jpg",
+    "position_desc": 41,
+    "img_above_text": "![Golden Lotus Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg)| Golden Lotus Seeds | Uncommon | Seed | Randomly obtained while defeating Golden Lotus Guai\n![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates",
+    "img_below_text": "![Black-myth-wukong-monkey-head-fungus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Black-myth-wukong-monkey-head-fungus-seeds.jpg)| Monkey-Head Fungus Seeds | Rare | Seed | Obtained upon defeating Fungiworm\n![Black-myth-wukong-nine-capped-lingzhi-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Black-myth-wukong-nine-capped-lingzhi-seeds.jpg)| Nine-Capped Lingzhi Seeds | Rare | Seed | Obtained upon defeating Nine-Capped Lingzhi Guai",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 41 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Golden Lotus Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4c/Golden_Lotus_Seed_.jpg)| Golden Lotus Seeds | Uncommon | Seed | Randomly obtained while defeating Golden Lotus Guai\n![Black-myth-wukong-fire-date-seed.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b8/Black-myth-wukong-fire-date-seed.jpg)| Fire Date Seeds | Rare | Seed | Randomly obtained from collecting Fire Dates\"\n            - Following Text: \"![Black-myth-wukong-monkey-head-fungus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Black-myth-wukong-monkey-head-fungus-seeds.jpg)| Monkey-Head Fungus Seeds | Rare | Seed | Obtained upon defeating Fungiworm\n![Black-myth-wukong-nine-capped-lingzhi-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Black-myth-wukong-nine-capped-lingzhi-seeds.jpg)| Nine-Capped Lingzhi Seeds | Rare | Seed | Obtained upon defeating Nine-Capped Lingzhi Guai\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Black-myth-wukong-millenium-ginseng-seed.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a wooden tray containing several reddish-brown seeds, likely representing an in-game item from *Black Myth: Wukong*. Based on the preceding and following text, it is part of a list detailing collectible seeds within the game, each with unique rarity and acquisition methods. The seeds shown in this image are likely \"Fire Date Seeds,\" categorized as rare and obtained by collecting Fire Dates. The image serves to visually represent this specific item for players."
+}

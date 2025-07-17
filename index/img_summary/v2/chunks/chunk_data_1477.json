@@ -1,0 +1,28 @@
+{
+    "chunk_id": 156865765774,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Martial_8.jpg",
+    "alt_text": "Wukong Martial 8.jpg",
+    "position_desc": 14,
+    "img_above_text": "When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.",
+    "img_below_text": "If you see pretend to vanish but reappear in the same spot, be ready for two clones to appear on either side of him, and they'll all toss their chakram wheels at you all at once that can be difficult to evade quickly.\n![Wukong Martial 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Martial_9.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"When this happens, you'll need to stop focusing on the boss and pay more attention to his weapon, which will keep spinning toward you like a crazed wheel with a fiery trail that can keep criss-crossing for several times before he grabs it again.\nStay close to his weapon, and when he finally appears to grab it, you can launch into an offensive while he's vulnerable to deal some damage.\"\n            - Following Text: \"If you see pretend to vanish but reappear in the same spot, be ready for two clones to appear on either side of him, and they'll all toss their chakram wheels at you all at once that can be difficult to evade quickly.\n![Wukong Martial 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Martial_9.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Martial_8.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "### Summary of the Image:\n\nThe image depicts a combat scene from *Black Myth: Wukong*, featuring the player character facing off against the \"Green-Capped Martialist\" boss. The environment is a rocky, cavernous area with fiery effects dominating the foreground. Three fiery clones of the boss are visible, each wielding chakram-like weapons, suggesting an attack pattern where multiple projectiles are launched simultaneously. The glowing red trail on the ground hints at the danger zones created by the boss's attacks, aligning with the preceding and following text that describe the spinning chakrams and the clone mechanic as key elements of the fight."
+}

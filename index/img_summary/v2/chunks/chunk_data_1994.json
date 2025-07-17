@@ -1,0 +1,28 @@
+{
+    "chunk_id": 211516789118,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Cave_Depths_Lower_Hollow_Meditation_Spots.jpg",
+    "alt_text": "Cave Depths Lower Hollow Meditation Spots.jpg",
+    "position_desc": 17,
+    "img_above_text": "### Cave Depths, Lower Hollow Meditation Spot\nCave Depths, Lower Hollow Meditation Spot",
+    "img_below_text": "Turn right and head into a crack in the wall just before you enter the Hut of Immortality grounds. Follow the path until you find a cavern filled with hanging webs. On the left wall is another crack. Head through there to find the next Meditation Spot.\n### The Height, Forest of Ferocity Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 17 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### Cave Depths, Lower Hollow Meditation Spot\nCave Depths, Lower Hollow Meditation Spot\"\n            - Following Text: \"Turn right and head into a crack in the wall just before you enter the Hut of Immortality grounds. Follow the path until you find a cavern filled with hanging webs. On the left wall is another crack. Head through there to find the next Meditation Spot.\n### The Height, Forest of Ferocity Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Cave_Depths_Lower_Hollow_Meditation_Spots.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts a dark, atmospheric meditation spot located in a cavernous area. A character stands near a glowing circular platform surrounded by scattered bones, candles, and ritualistic objects, with an option to \"Meditate\" displayed. In the background, a stone shrine and a gnarled tree add to the eerie and mystical ambiance, suggesting this is the \"Cave Depths, Lower Hollow Meditation Spot\" mentioned in the preceding text.\n\n2. **Purpose/Role**:  \nThe image serves to visually represent the described meditation spot, emphasizing its somber and ritualistic setting. It likely marks a significant in-game location where players can meditate to progress, save, or gain abilities, aligning with the narrative's focus on exploration and spiritual growth."
+}

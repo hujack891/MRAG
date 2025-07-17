@@ -1,0 +1,28 @@
+{
+    "chunk_id": 891972272921,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Black-myth-wukong-auspicious-lantern.jpg",
+    "alt_text": "Black-myth-wukong-auspicious-lantern.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Fine China Tea Bowl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Fine_China_Tea_Bowl_.jpg)| Fine China Tea Bowl| Rare | Moderately increases stamina recovery rate. | In a box by a statue and a blade-wielding enemy in the Pagoda Realm along the lowest level, at the end of the path from the Pagoda Realm- Lower Pagoda Shrine in The New West | Fine China Tea Bowl\n![Frostspout Twig.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Frostspout_Twig.jpg)| Frostsprout Twig| Rare | Moderately increases Chill resistance | Drop down behind the Pagoda Realm - Upper Pagoda Shrine in The New West and kill Captain Lotus-Vision | Frostspout Twig",
+    "img_below_text": "![Black-myth-wukong-maitreyas-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Black-myth-wukong-maitreyas-orb.jpg)| Maitreya's Orb| Epic | Land enough successful hits on the enemy to avoid the next fatal blow | Found in Mindfullness Cliff in Valley of Ecstasy in The New West, in a box by a statue several rooms along the path up the long staircase ahead from the Shrine | Maitreya's Orb\n![Black-myth-wukong-gold-spikeplate.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Black-myth-wukong-gold-spikeplate.jpg)| Gold Spikeplate| Epic | Considerably increases Defense Deals Damage to surrounding enemies upon taking hits. | Found in Longevity road in Valley of Ecstasy in The New West, by defeating the Dark-faced Overlord along the road. | Gold Spikeplate",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Fine China Tea Bowl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Fine_China_Tea_Bowl_.jpg)| Fine China Tea Bowl| Rare | Moderately increases stamina recovery rate. | In a box by a statue and a blade-wielding enemy in the Pagoda Realm along the lowest level, at the end of the path from the Pagoda Realm- Lower Pagoda Shrine in The New West | Fine China Tea Bowl\n![Frostspout Twig.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Frostspout_Twig.jpg)| Frostsprout Twig| Rare | Moderately increases Chill resistance | Drop down behind the Pagoda Realm - Upper Pagoda Shrine in The New West and kill Captain Lotus-Vision | Frostspout Twig\"\n            - Following Text: \"![Black-myth-wukong-maitreyas-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Black-myth-wukong-maitreyas-orb.jpg)| Maitreya's Orb| Epic | Land enough successful hits on the enemy to avoid the next fatal blow | Found in Mindfullness Cliff in Valley of Ecstasy in The New West, in a box by a statue several rooms along the path up the long staircase ahead from the Shrine | Maitreya's Orb\n![Black-myth-wukong-gold-spikeplate.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Black-myth-wukong-gold-spikeplate.jpg)| Gold Spikeplate| Epic | Considerably increases Defense Deals Damage to surrounding enemies upon taking hits. | Found in Longevity road in Valley of Ecstasy in The New West, by defeating the Dark-faced Overlord along the road. | Gold Spikeplate\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Black-myth-wukong-auspicious-lantern.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a decorative lantern with a lattice design and red markings, likely an in-game collectible or environmental object from *Black Myth: Wukong*. Based on the context, it is part of a curated list of items, similar to the Fine China Tea Bowl and Frostspout Twig, which have specific locations and gameplay effects. While the preceding and following text describe rare and epic items with functional benefits, this lantern might serve as a visual or atmospheric element tied to the narrative or setting, enhancing the immersive environment of the Pagoda Realm or Valley of Ecstasy in *The New West*."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 995177937349,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/The_Ravine_Rock_Clash_Platform_Meditation_Spot.jpg",
+    "alt_text": "The Ravine Rock Clash Platform Meditation Spot.jpg",
+    "position_desc": 5,
+    "img_above_text": "### The Ravine, Rock Clash Platform Meditation Spot\nThe Ravine, Rock Clash Platform Meditation Spot",
+    "img_below_text": "The Rock Clash Platform Meditation Spot is accessible after defeating the Stone Vanguard. Head out of the archway on the left after defeating the boss and activate the Rock Clash Platform Keeper Shrine. Follow the path directly in front of the Shrine to reach the Meditation Spot.\n### The Sculpture, Crouching Tiger Temple Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Ravine, Rock Clash Platform Meditation Spot\nThe Ravine, Rock Clash Platform Meditation Spot\"\n            - Following Text: \"The Rock Clash Platform Meditation Spot is accessible after defeating the Stone Vanguard. Head out of the archway on the left after defeating the boss and activate the Rock Clash Platform Keeper Shrine. Follow the path directly in front of the Shrine to reach the Meditation Spot.\n### The Sculpture, Crouching Tiger Temple Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/25/The_Ravine_Rock_Clash_Platform_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene and rugged environment with a lone character standing at a designated meditation spot, marked by an on-screen prompt to \"Meditate.\" The setting features rocky terrain, sparse vegetation, and a dramatic backdrop of cliffs and a twisted tree, suggesting a location of reflection and tranquility. Based on the context, this is the Ravine, Rock Clash Platform Meditation Spot, accessible after defeating the Stone Vanguard and activating the Rock Clash Platform Keeper Shrine. It serves as a milestone for players to pause, meditate, and progress in their journey."
+}

@@ -1,31 +1,6 @@
 {
-    "chunk_id": 6280567648,
-    "source_file": "Secrets_in_Black_Myth_Wukong.md",
-    "h1_title": "Chapter 6 Secrets",
-    "h2_title": "Giant Shigandang",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-    "alt_text": "Five Skandhas \\(26\\).png",
-    "position_desc": 26,
-    "img_above_text": "# Chapter 6 Secrets\n## Giant Shigandang\n\nAt the end of the Bishui Cave, you can find the second secret boss, which is the Bishui Golden-Eyed Beast.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 26 from the file 'Secrets_in_Black_Myth_Wukong.md', located under Giant Shigandang.\n\n                Metadata:\n                - Document Title: Chapter 6 Secrets\n                - Section Title: Giant Shigandang\n                - Alt Text: Five Skandhas \\(26\\).png\n\n                Context:\n                - Preceding Text: \"# Chapter 6 Secrets\n## Giant Shigandang\n\nAt the end of the Bishui Cave, you can find the second secret boss, which is the Bishui Golden-Eyed Beast.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Five_Skandhas_%2826%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image titled \"Five Skandhas (26).png\" from Chapter 6 Secrets, under the section Giant Shigandang, depicts a dark, imposing rock formation with a large archway, set against a gloomy, mountainous backdrop. A lone warrior, possibly the protagonist, stands in the foreground, suggesting a moment of confrontation or discovery. The preceding text mentions the Bishui Golden-Eyed Beast, implying that the image may represent the location where this secret boss is encountered, adding to the narrative of uncovering hidden challenges in the Bishui Cave."
+    "chunk_id": 425206083408,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Wukong_Yellow_5.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a player character is engaged in combat with a large, spider-like enemy on a grassy, rocky terrain. The enemy is positioned on top of a stone structure, and the player character is shown in a dynamic pose, possibly performing an attack or dodging. The UI elements include a health bar at the bottom left, indicating the player's health status, and various icons representing abilities or items. At the top right, a score or experience point indicator shows \"+40\" and \"38,\" suggesting points gained or current level. The environment features a rugged landscape with stone ruins and tall grass, enhancing the game's immersive atmosphere."
 }

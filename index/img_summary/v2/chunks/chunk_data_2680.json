@@ -1,0 +1,28 @@
+{
+    "chunk_id": 714596061701,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg",
+    "alt_text": "Wukong Snowhill 26.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.",
+    "img_below_text": "There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Snowhill_25.jpg)\nInstead, return to the temple entrance and look for stairs leading upward. Be wary of more Frozen Corpses coming to life as you ascend, and another will try and ambush you from the left as you reach the next landing.\"\n            - Following Text: \"There's another Yaksha Patroller here waiting to challenge you, so try and isolate him first by luring the corpses down the stairs and then take him out. Once again, there's another green Wisp to absorb on the right to get some gourd healing back.\nAs you head to the end of the raised platform, you'll find a snowy sloping path off to the right, and another stairway path going straight ahead.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Snowhill_26.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the player character is engaged in combat with two enemies, likely Frozen Corpses, near the entrance of a temple in a snowy environment. The preceding text advises players to be cautious of these enemies as they ascend the stairs, while the following text suggests tactics for dealing with a Yaksha Patroller and absorbing a green Wisp for healing."
+}

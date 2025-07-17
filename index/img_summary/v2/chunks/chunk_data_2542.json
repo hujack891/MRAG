@@ -1,0 +1,28 @@
+{
+    "chunk_id": 837597740732,
+    "source_file": "Sandgate_Village_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg",
+    "alt_text": "Wukong Sandgate 58.jpg",
+    "position_desc": 56,
+    "img_above_text": "![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\nIt’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!",
+    "img_below_text": "His new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\n![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 56 from the file 'Sandgate_Village_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Sandgate_57.jpg)\nIt’s when you kill the King that you’ll really have to start worrying. He’ll power up with blasts of wind as his mace glows hot, and will now imbue his strikes with fissures that erupt all around the impact site of his weapon!\"\n            - Following Text: \"His new charge attack has a jumping slam that will create a ring fissures all around him, which you’ll need to get away from rather than trying to counter.\n![Wukong Sandgate 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Sandgate_59.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Wukong_Sandgate_58.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing an intense battle between the player character and the Second Rat Prince. The Rat Prince is seen powering up with wind blasts, causing fissures to erupt around the impact site of his weapon. This visual emphasizes the danger and heightened difficulty of the encounter after the King powers up, setting the stage for the player's need to adapt their strategy to avoid the devastating new attacks."
+}

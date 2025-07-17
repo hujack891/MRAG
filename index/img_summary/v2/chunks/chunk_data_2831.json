@@ -1,0 +1,28 @@
+{
+    "chunk_id": 21919796653,
+    "source_file": "Temple_of_Yellow_Flowers_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_YellowFlower_29.jpg",
+    "alt_text": "Wukong YellowFlower 29.jpg",
+    "position_desc": 27,
+    "img_above_text": "![Wukong YellowFlower 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Wukong_YellowFlower_28.jpg)\nHead up the stairs beyond the main gate, but check a small alcove to the left first to find a green Wisp guarded by some Worm Practitioners. Be ready to find many of these enemies around the temple, as more than a few of them hide in the tall grass by lying down until you approach.",
+    "img_below_text": "At the top of the stairs, pass through the gate to enter the first courtyard. This large open area sports a large tree with a **Treasure Chest** straight ahead, while a blood trail leads along the main path to the left.\nFirst, however, we will take the right path to a large gateway along the yellow walls after grabbing the chest.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 27 from the file 'Temple_of_Yellow_Flowers_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 28.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Wukong_YellowFlower_28.jpg)\nHead up the stairs beyond the main gate, but check a small alcove to the left first to find a green Wisp guarded by some Worm Practitioners. Be ready to find many of these enemies around the temple, as more than a few of them hide in the tall grass by lying down until you approach.\"\n            - Following Text: \"At the top of the stairs, pass through the gate to enter the first courtyard. This large open area sports a large tree with a **Treasure Chest** straight ahead, while a blood trail leads along the main path to the left.\nFirst, however, we will take the right path to a large gateway along the yellow walls after grabbing the chest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_YellowFlower_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist standing on a leaf-strewn path near a building and surrounded by lush greenery. This setting is part of a walkthrough where the player is advised to explore a small alcove to the left of the main gate to find a green Wisp guarded by Worm Practitioners. The image serves to illustrate the environment and the player's current position before heading up the stairs to the first courtyard, where further exploration and encounters await."
+}

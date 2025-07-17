@@ -1,0 +1,28 @@
+{
+    "chunk_id": 354520714556,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/The_Cliff_Black_Wind_Cave_Meditation_Spot.jpg",
+    "alt_text": "The Cliff Black Wind Cave Meditation Spot.jpg",
+    "position_desc": 3,
+    "img_above_text": "### The Cliff, Black Wind Cave Meditation Spot\nThe Cliff, Black Wind Cave Meditation Spot",
+    "img_below_text": "Take the path on the left in the cave after defeating the Whiteclad Noble to find the last Meditation Spot in Chapter 1. The spot is right on the edge of the wooden platform looking out over the forest.\n## Yellow Wind Ridge Meditation Spots (Chapter 2)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Cliff, Black Wind Cave Meditation Spot\nThe Cliff, Black Wind Cave Meditation Spot\"\n            - Following Text: \"Take the path on the left in the cave after defeating the Whiteclad Noble to find the last Meditation Spot in Chapter 1. The spot is right on the edge of the wooden platform looking out over the forest.\n## Yellow Wind Ridge Meditation Spots (Chapter 2)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/The_Cliff_Black_Wind_Cave_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene meditation spot located on a wooden platform at the edge of a cliff, overlooking a lush forest. This setting is part of the Black Wind Cave Meditation Spot in Chapter 1, accessible after defeating the Whiteclad Noble. The tranquil environment, with natural elements like trees and rocks, emphasizes the spot's purpose as a place for reflection and relaxation within the narrative."
+}

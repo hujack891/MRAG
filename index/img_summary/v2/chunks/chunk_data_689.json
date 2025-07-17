@@ -1,0 +1,28 @@
+{
+    "chunk_id": 527439726622,
+    "source_file": "Cloudy_Mist,_Misty_Cloud.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png",
+    "alt_text": "Furnace Valley Walkthrough \\(61\\).png",
+    "position_desc": 9,
+    "img_above_text": "![Furnace Valley Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Furnace_Valley_Walkthrough_%2852%29.png)\nThe fight can feel quite fast-paced as they swap in and out to attack, so to put an end to their teamwork and slow things down, make use of spells like Immobilize. You should then aim to build as much Focus as possible and look for opportunities to perform heavy attacks. Both bosses can be staggered by this, giving you a chance to whittle down their health.",
+    "img_below_text": "After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 9 from the file 'Cloudy_Mist,_Misty_Cloud.md'.\n\n            Context:\n            - Preceding Text: \"![Furnace Valley Walkthrough \\(52\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Furnace_Valley_Walkthrough_%2852%29.png)\nThe fight can feel quite fast-paced as they swap in and out to attack, so to put an end to their teamwork and slow things down, make use of spells like Immobilize. You should then aim to build as much Focus as possible and look for opportunities to perform heavy attacks. Both bosses can be staggered by this, giving you a chance to whittle down their health.\"\n            - Following Text: \"After defeating them collect the Spirit they drop, then continue up the stairs toward the palace.\nMisty Cloud, Cloudy Mist Spirit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character standing in a dark, rocky environment, approaching a glowing purple Spirit on the ground. A prompt labeled \"E Take\" indicates the Spirit can be collected, suggesting this is a reward or collectible item following a boss fight.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the moment after defeating the bosses described in the preceding text. The glowing Spirit is the reward dropped by the bosses, which the player collects before continuing toward the palace, as mentioned in the following text."
+}

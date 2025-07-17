@@ -1,0 +1,28 @@
+{
+    "chunk_id": 627016129546,
+    "source_file": "Yellow_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+    "alt_text": "Wukong Sandgate 63.jpg",
+    "position_desc": 2,
+    "img_above_text": "Follow the path up, and you'll reach a Shrine at the Relief of the Fallen Loong, and above will be a pavilion where the boss waits.\nHowever, in order to activate this secret boss, you'll need to obtain the Loong Scales from the Yellow Wind Ridge in Chapter 2.",
+    "img_below_text": "Head through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Yellow_Loong.md'.\n\n            Context:\n            - Preceding Text: \"Follow the path up, and you'll reach a Shrine at the Relief of the Fallen Loong, and above will be a pavilion where the boss waits.\nHowever, in order to activate this secret boss, you'll need to obtain the Loong Scales from the Yellow Wind Ridge in Chapter 2.\"\n            - Following Text: \"Head through the Sandgate Village and defeat the King of Flowing Sand and his Second Rat Prince son. After defeating the pair (or only the son), head left from the boss arena and into the Valley of Despair.\n![Wukong Sandgate 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Sandgate_71.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image:**\n   The image depicts a scene from the game \"Black Myth: Wukong,\" showing the main character navigating through a rocky, arid landscape with dry grass and barren trees. The character is holding a staff and appears to be moving towards a cave or a dark opening in the rock formations.\n\n2. **Purpose, Content, or Narrative Role:**\n   The image serves as a visual representation of the journey the player must undertake in the game. It illustrates the path leading to the Shrine at the Relief of the Fallen Loong, which is part of the quest to activate a secret boss by obtaining the Loong Scales from Yellow Wind Ridge. The barren and challenging terrain underscores the difficulty and adventure of the quest, setting the stage for the upcoming battles and exploration in the Valley of Despair."
+}

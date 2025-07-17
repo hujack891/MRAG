@@ -1,0 +1,28 @@
+{
+    "chunk_id": 747979775543,
+    "source_file": "Yaoguai_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Yaoguai_Core.jpg",
+    "alt_text": "Yaoguai Core.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Stone Spirit is one of the basic materials in Black Myth: Wukong.\nIt is used for upgrades or crafting like many of the other materials in the game. You can craft Armor and Gear with these Cores.",
+    "img_below_text": "Yaoguai Core can be found throughout the game's six chapters in the following locations:\n* Occassionally found in Chests",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Yaoguai_Core.md'.\n\n            Context:\n            - Preceding Text: \"The Stone Spirit is one of the basic materials in Black Myth: Wukong.\nIt is used for upgrades or crafting like many of the other materials in the game. You can craft Armor and Gear with these Cores.\"\n            - Following Text: \"Yaoguai Core can be found throughout the game's six chapters in the following locations:\n* Occassionally found in Chests\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/38/Yaoguai_Core.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the Yaoguai Core, a rare general weapon material. The Yaoguai Core is described as being stained by cruelty and impudence, and is used for crafting weapons. The preceding text mentions the Stone Spirit as a basic material used for upgrades and crafting armor and gear, while the following text lists locations where the Yaoguai Core can be found, including occasionally in chests. This suggests that the image serves to inform players about the importance and usage of the Yaoguai Core in the game."
+}

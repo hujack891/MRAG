@@ -1,0 +1,28 @@
+{
+    "chunk_id": 448029161163,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/The_Altar_Sandgate_Village_Meditation_Spot.jpg",
+    "alt_text": "The Altar Sandgate Village Meditation Spot.jpg",
+    "position_desc": 4,
+    "img_above_text": "### The Altar, Sandgate Village Meditation Spot\nThe Altar, Sandgate Village Meditation Spot",
+    "img_below_text": "Head through the lake at the starting area and around to the left. Drop into the pond below, defeat Lang-Li-Guhh-Baw, and head up the wooden steps on the other side of the pool. Turn right instead of heading into the cave to find the first Meditation Spot in Chapter 2.\n### The Ravine, Rock Clash Platform Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Altar, Sandgate Village Meditation Spot\nThe Altar, Sandgate Village Meditation Spot\"\n            - Following Text: \"Head through the lake at the starting area and around to the left. Drop into the pond below, defeat Lang-Li-Guhh-Baw, and head up the wooden steps on the other side of the pool. Turn right instead of heading into the cave to find the first Meditation Spot in Chapter 2.\n### The Ravine, Rock Clash Platform Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/29/The_Altar_Sandgate_Village_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a serene meditation spot in a rustic, natural setting, likely \"The Altar\" in Sandgate Village, as referenced in the preceding text. The scene shows a character standing before a small altar with a \"Meditate\" prompt, suggesting this is an interactive location in a game where players can pause to meditate, possibly for healing or reflection. The surrounding environment features dry grass, rocky terrain, and a partially buried statue, emphasizing the tranquil yet ancient ambiance. This spot appears to be part of a guided journey through meditation locations in the game."
+}

@@ -1,31 +1,6 @@
 {
-    "chunk_id": 581950396906,
-    "source_file": "Man-in-Stone_Questline.md",
-    "h1_title": "Man-in-Stone Questline",
-    "h2_title": "Where to Find the Man-in-Stone",
-    "h3_title": "Yaoguai Chief Miniboss - Mother of Stone",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
-    "alt_text": "Wukong Fright 28.jpg",
-    "position_desc": 5,
-    "img_above_text": "# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n### Yaoguai Chief Miniboss - Mother of Stone\n\nAt the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 5 from the file 'Man-in-Stone_Questline.md', located under Yaoguai Chief Miniboss - Mother of Stone.\n\n                Metadata:\n                - Document Title: Man-in-Stone Questline\n                - Section Title: Where to Find the Man-in-Stone\n                - Sub-Section Title: Yaoguai Chief Miniboss - Mother of Stone\n                - Alt Text: Wukong Fright 28.jpg\n\n                Context:\n                - Preceding Text: \"# Man-in-Stone Questline\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n## Where to Find the Man-in-Stone\n### Yaoguai Chief Miniboss - Mother of Stone\n\nAt the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/Wukong_Fright_28.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the video game Black Myth Wukong, specifically from the \"Man-in-Stone Questline\" section titled \"Yaoguai Chief Miniboss - Mother of Stone.\" The image shows an intense battle against the miniboss \"Mother of Stones,\" who is surrounded by glowing blue crystals. The player's health and various action icons are visible on the screen, indicating an ongoing combat scenario. This image serves to illustrate the challenging encounter with the miniboss at the end of the cave path, where players must retrieve an item for the Man-in-Stone character."
+    "chunk_id": 424572450247,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Red_Haired_Yaksha_Power.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image is a screenshot from a video game interface, specifically from the \"Equipment\" section. It displays a selection of \"Spirits\" that the player can choose from, each represented by an icon. The highlighted spirit is the \"Red-Haired Yaksha,\" classified as \"Rare,\" with a high Qi cost. Its ability, \"Punishing Arrow,\" allows the player to take the form of Red-Haired Yaksha and shoot an arrow with exceptional power to stagger foes temporarily. The equipped effect moderately increases heavy attack damage. The interface provides options to equip the spirit and watch a demo of its abilities. The player's stats are displayed on the right, including health, attack, defense, and various percentages related to gameplay attributes."
 }

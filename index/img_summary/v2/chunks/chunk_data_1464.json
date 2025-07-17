@@ -1,0 +1,28 @@
+{
+    "chunk_id": 406786243801,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Bitter_18.jpg",
+    "alt_text": "Wukong Bitter 18.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rewards: Spell-Binder Spell, Cold Iron Leaves, Random Materials, 1847 Experience, 1190 Will\n## Where to Find the Green-Capped Martialist",
+    "img_below_text": "To unlock this secret boss fight, you'll first need to encounter a simple-looking Treasure Hunter Human in Chapter 3, at the North Shore of the Bitter Lake in The New West.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Spell-Binder Spell, Cold Iron Leaves, Random Materials, 1847 Experience, 1190 Will\n## Where to Find the Green-Capped Martialist\"\n            - Following Text: \"To unlock this secret boss fight, you'll first need to encounter a simple-looking Treasure Hunter Human in Chapter 3, at the North Shore of the Bitter Lake in The New West.\n![Wukong Bitter 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Bitter_26.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Bitter_18.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy environment with a player character crouching near a bush, seemingly collecting items (e.g., \"Fire Bellflower x2\"). In the background, there is a traditional Chinese-style gate, hinting at a location of significance. Based on the preceding and following text, this area is part of the journey to unlock the secret boss fight, the Green-Capped Martialist, in *Black Myth: Wukong*. The image likely serves to illustrate the setting or provide visual context for the exploration leading up to this encounter."
+}

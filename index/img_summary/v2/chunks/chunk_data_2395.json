@@ -1,0 +1,28 @@
+{
+    "chunk_id": 122246143775,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Pagoda_125.jpg",
+    "alt_text": "Wukong Pagoda 125.jpg",
+    "position_desc": 120,
+    "img_above_text": "Macaque Chief (Warding Temple)\nThis spell can be swapped out with Immobilize, providing a more defensive variant on temporarily neutralizing enemies. With it, you'll be able to create a small limited barrier for yourself, which can be essential when preparing for a tough fight and using consumables and heals, or removing chilling effects.",
+    "img_below_text": "Head around the side of the temple after the Wise Master departs, and you can find a **Treasure Chest** around the side of the temple holding some materials.\n![Wukong Pagoda 126.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_126.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 120 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Macaque Chief (Warding Temple)\nThis spell can be swapped out with Immobilize, providing a more defensive variant on temporarily neutralizing enemies. With it, you'll be able to create a small limited barrier for yourself, which can be essential when preparing for a tough fight and using consumables and heals, or removing chilling effects.\"\n            - Following Text: \"Head around the side of the temple after the Wise Master departs, and you can find a **Treasure Chest** around the side of the temple holding some materials.\n![Wukong Pagoda 126.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_126.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Pagoda_125.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the player character approaching a temple in a snowy environment. The character is heading towards a highlighted treasure chest located around the side of the temple, which contains valuable materials. This image serves to guide players to the location of the treasure chest after the Wise Master departs, as mentioned in the walkthrough."
+}

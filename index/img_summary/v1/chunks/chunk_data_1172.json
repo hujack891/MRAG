@@ -1,31 +1,6 @@
 {
-    "chunk_id": 98032348986,
-    "source_file": "Forest_of_Wolves_Walkthrough.md",
-    "h1_title": "Prologue",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Prologue_1.jpg",
-    "alt_text": "Wukong Prologue 1.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Prologue",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Forest_of_Wolves_Walkthrough.md', located under Prologue.\n\n                Metadata:\n                - Document Title: Prologue\n                - Alt Text: Wukong Prologue 1.jpg\n\n                Context:\n                - Preceding Text: \"# Prologue\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Prologue_1.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image titled \"Wukong Prologue 1.jpg\" depicts a dramatic scene where a warrior, presumably Wukong, stands poised with a staff in a snowy landscape, facing three towering, armored figures. This visual sets an epic and confrontational tone for the \"Prologue\" section of the document, suggesting an impending battle or significant challenge that Wukong must confront at the beginning of the narrative."
+    "chunk_id": 977600576052,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Gall_Gem_2.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from a video game, focusing on the \"Drinks and Soaks\" section. It highlights an item called \"Gall Gem,\" categorized as uncommon and described as a \"Soak.\" The player currently holds 1 out of a possible 3 of this item. The Gall Gem provides a moderate increase in Poison Resistance for a short duration when used. The screen also includes a quote: \"He told me that the most potent pills are those cultivated within oneself; seeking them externally will be futile.\" At the top, navigation options such as Self-Advance, Equipment, Inventory, Journal, and Settings are visible. The player's currency or points total is shown as 5226 in the top right corner. The interface includes options to examine, sort, or return, with corresponding button prompts."
 }

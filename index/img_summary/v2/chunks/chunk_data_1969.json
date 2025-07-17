@@ -1,0 +1,28 @@
+{
+    "chunk_id": 72110589916,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Fragrant_Jade_Flower_Seed_.jpg",
+    "alt_text": "Fragrant Jade Flower Seed .jpg",
+    "position_desc": 35,
+    "img_above_text": "![Black-myth-wukong-jade-lotus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Black-myth-wukong-jade-lotus-seeds.jpg)| Jade Lotus Seeds | Uncommon | Seed | Randomly obtained from collecting Jade Lotus\n![Black-myth-wukong-licorice-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Black-myth-wukong-licorice-seeds.jpg)| Licorice Seeds | Uncommon | Seed | Randomly obtained from collecting Licorice",
+    "img_below_text": "![Fire Bellflower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Fire_Bellflower_Seed_.jpg)| Fire Bellflower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fire Bellflower\n![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 35 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-jade-lotus-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Black-myth-wukong-jade-lotus-seeds.jpg)| Jade Lotus Seeds | Uncommon | Seed | Randomly obtained from collecting Jade Lotus\n![Black-myth-wukong-licorice-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Black-myth-wukong-licorice-seeds.jpg)| Licorice Seeds | Uncommon | Seed | Randomly obtained from collecting Licorice\"\n            - Following Text: \"![Fire Bellflower Seed .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Fire_Bellflower_Seed_.jpg)| Fire Bellflower Seeds | Uncommon | Seed | Randomly obtained from collecting a Fire Bellflower\n![Black-myth-wukong-celestial-pear-seeds.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Black-myth-wukong-celestial-pear-seeds.jpg)| Celestial Pear Seeds | Rare | Seed | Randomly obtained from collecting Celestial Pears\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Fragrant_Jade_Flower_Seed_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a stone bowl containing three brown, textured seed-like objects, likely representing medicinal or collectible seeds from the game *Black Myth: Wukong*. Based on the surrounding context, this image is part of a series showcasing various seeds that players can obtain randomly by collecting specific plants. It is positioned among other seeds like Jade Lotus Seeds, Licorice Seeds, Fire Bellflower Seeds, and Celestial Pear Seeds, suggesting its role as an in-game resource with potential rarity or utility."
+}

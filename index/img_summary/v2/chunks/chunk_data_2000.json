@@ -1,0 +1,28 @@
+{
+    "chunk_id": 925054210866,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/The_Purge_Meditation_Spot.jpg",
+    "alt_text": "The Purge Meditation Spot.jpg",
+    "position_desc": 23,
+    "img_above_text": "### The Crag, Ashen Pass III Meditation Spot\nThe Crag, Ashen Pass III Meditation Spot",
+    "img_below_text": "Make your way to the Ashen Pass III Keeper's Shrine in the Field of Fire and explore the nearby clearing filled with mushrooms. Another small opening on the right will lead you straight to the Meditation Spot.\n### The Screen, Purge Pit Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 23 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Crag, Ashen Pass III Meditation Spot\nThe Crag, Ashen Pass III Meditation Spot\"\n            - Following Text: \"Make your way to the Ashen Pass III Keeper's Shrine in the Field of Fire and explore the nearby clearing filled with mushrooms. Another small opening on the right will lead you straight to the Meditation Spot.\n### The Screen, Purge Pit Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/The_Purge_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a meditation spot located at The Crag, Ashen Pass III, characterized by a rocky landscape with visible lava flows. A figure dressed in traditional attire stands near a meditation circle, suggesting a serene and contemplative setting amidst the rugged terrain. This spot is part of a journey that includes visiting the Ashen Pass III Keeper's Shrine and exploring nearby areas, as indicated by the surrounding context. The image serves to illustrate the mystical and tranquil nature of this meditation location, inviting exploration and reflection in a dramatic natural environment."
+}

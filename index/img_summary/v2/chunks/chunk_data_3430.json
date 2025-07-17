@@ -1,0 +1,28 @@
+{
+    "chunk_id": 577873995170,
+    "source_file": "Webbed_Hollow_-_Middle_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_MiddleHollow_12.jpg",
+    "alt_text": "Wukong MiddleHollow 12.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong MiddleHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_MiddleHollow_9.jpg)\nBeyond this, most of its attacks will come in the form of simply using its weight to thrash about. You'll usually be able to see it coming when the worm twists around to prepare to swing its body toward you -- but a deflection using Rock Solid can stop the worm in its tracks.",
+    "img_below_text": "It can also perform a surprising leap into the air to crash down on you, which is thankfully slow enough that you'll be able to dodge around to the side when it lands.\n![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Webbed_Hollow_-_Middle_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MiddleHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_MiddleHollow_9.jpg)\nBeyond this, most of its attacks will come in the form of simply using its weight to thrash about. You'll usually be able to see it coming when the worm twists around to prepare to swing its body toward you -- but a deflection using Rock Solid can stop the worm in its tracks.\"\n            - Following Text: \"It can also perform a surprising leap into the air to crash down on you, which is thankfully slow enough that you'll be able to dodge around to the side when it lands.\n![Wukong MiddleHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_MiddleHollow_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_MiddleHollow_12.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a player character engaged in combat with a large worm-like creature named \"Elder Armourworm.\" The preceding text explains the creature's attack patterns, such as thrashing its body, which can be countered with a deflection move called Rock Solid. The following text describes another attack where the creature leaps into the air and crashes down, which can be dodged. The image serves to illustrate the intense battle and the strategies players can use to defeat the Elder Armourworm."
+}

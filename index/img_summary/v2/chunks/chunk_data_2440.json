@@ -1,0 +1,28 @@
+{
+    "chunk_id": 31026032213,
+    "source_file": "Rat_Archer_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Rat_Archer_Door.jpg",
+    "alt_text": "Rat Archer Door.jpg",
+    "position_desc": 2,
+    "img_above_text": "The Rat Archer is somewhat tricky to find and doesn't spawn until you defeat the Earth Wolf Spirit in Sandgate Village. From the Sandgate Village Keeper's Shrine, run over the bridge to find several enemies, a few of which are perched on top of an inaccessible roof. You cannot reach them at this point, so head right and work your way around Sandgate Village.\nYou will eventually find yourself in the Earth Wolf's arena. Take down the wolf and open the door to continue onward. As soon as you open the door, the Rat Archer and his minions will jump down and ambush you.",
+    "img_below_text": "## Rat Archer Fight\nThe Rat Archer isn't a boss and fights like any other Rat Archer, so you will be familiar with his move set by the time you encounter him. Choose your times to attack wisely and don't forget to make use of Staff Spin to deflect any incoming projectiles. That is the best way to avoid attacks from any archer.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Rat_Archer_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"The Rat Archer is somewhat tricky to find and doesn't spawn until you defeat the Earth Wolf Spirit in Sandgate Village. From the Sandgate Village Keeper's Shrine, run over the bridge to find several enemies, a few of which are perched on top of an inaccessible roof. You cannot reach them at this point, so head right and work your way around Sandgate Village.\nYou will eventually find yourself in the Earth Wolf's arena. Take down the wolf and open the door to continue onward. As soon as you open the door, the Rat Archer and his minions will jump down and ambush you.\"\n            - Following Text: \"## Rat Archer Fight\nThe Rat Archer isn't a boss and fights like any other Rat Archer, so you will be familiar with his move set by the time you encounter him. Choose your times to attack wisely and don't forget to make use of Staff Spin to deflect any incoming projectiles. That is the best way to avoid attacks from any archer.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Rat_Archer_Door.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a video game where the player character is approaching a door in a stone wall, likely leading to the Earth Wolf Spirit's arena in Sandgate Village. The character is seen in a dynamic pose, suggesting movement or readiness for combat. This image is part of the narrative where the player must defeat the Earth Wolf Spirit to trigger the appearance of the Rat Archer and his minions, who will ambush the player once the door is opened. The subsequent text provides strategies for fighting the Rat Archer."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 895774738190,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_15.jpg",
+    "alt_text": "Wukong Turtle 15.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong Turtle 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Turtle_14.jpg)\nFinally (and possibly most terrifyingly), she can hover high into the air and create a giant group of her electrified spears all around her, sending volleys of them outward in several directions to track you down. Try not to panic, and use Cloud Step to give her the slip, or keep strafing and dodging as much as you can.",
+    "img_below_text": "After the spears have been thrown out from around her, she'll summon one last giant spear in her hand, and leap down towards you to pierce you with it.\n![Wukong Turtle 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Turtle_14.jpg)\nFinally (and possibly most terrifyingly), she can hover high into the air and create a giant group of her electrified spears all around her, sending volleys of them outward in several directions to track you down. Try not to panic, and use Cloud Step to give her the slip, or keep strafing and dodging as much as you can.\"\n            - Following Text: \"After the spears have been thrown out from around her, she'll summon one last giant spear in her hand, and leap down towards you to pierce you with it.\n![Wukong Turtle 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Wukong_Turtle_16.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_15.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a dramatic moment in the boss battle against Kang Jin Star in *Black Myth: Wukong*. The boss is hovering in the air, surrounded by electrified energy, preparing to unleash a powerful attack involving multiple electrified spears. The player character is positioned below, ready to evade or counter the incoming assault.\n\n2. **Narrative Role**:  \nThis image showcases the intensity of Kang Jin Star's aerial attack phase, emphasizing her ability to summon electrified spears and target the player with volleys. It visually represents the need for strategic movement, such as using Cloud Step or dodging, to survive this challenging encounter."
+}

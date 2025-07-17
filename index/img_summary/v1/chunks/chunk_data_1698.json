@@ -1,31 +1,6 @@
 {
-    "chunk_id": 492953722830,
-    "source_file": "Jade_Fang.md",
-    "h1_title": "Jade Fang",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Jade_Fang.jpg",
-    "alt_text": "Jade Fang.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Jade Fang\nJade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Jade_Fang.md', located under Jade Fang.\n\n                Metadata:\n                - Document Title: Jade Fang\n                - Alt Text: Jade Fang.jpg\n\n                Context:\n                - Preceding Text: \"# Jade Fang\nJade Fang is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Jade Fang can be used to craft the Twin Serpents Staff from the Shrine.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Jade_Fang.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the inventory screen from the game Black Myth: Wukong, specifically highlighting the Jade Fang item. The Jade Fang is an uncommon special crafting material used to create weapons and armor, such as the Twin Serpents Staff from the Shrine. The item description notes that the fang was obtained from the Whiteclad Noble, who has paid his blood debt. The image serves to illustrate the in-game appearance and details of the Jade Fang within the player's inventory."
+    "chunk_id": 306494011722,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Thunderclap_103.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts an intense battle scene from a video game, featuring a character named Yellowbrow engaged in combat with an enemy emitting powerful lightning attacks. The environment appears to be a temple-like setting with statues and ornate architecture in the background. The user interface displays health bars at the bottom, with Yellowbrow's health shown as a white bar and the enemy's health as a gray bar. Various icons are present on the left and right sides, likely representing abilities or items available to the player. A text hint at the bottom reads, \"You are at the end of your wits, with no one to turn to. Why persist with this farce?\" suggesting a narrative element or dialogue during the encounter."
 }

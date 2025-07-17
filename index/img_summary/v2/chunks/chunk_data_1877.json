@@ -1,0 +1,28 @@
+{
+    "chunk_id": 16779779537,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg",
+    "alt_text": "Wukong Thunderclap 87.jpg",
+    "position_desc": 11,
+    "img_above_text": "Macaque Chief (Warding Temple)\n### Final Encounter - Mahavira Hall",
+    "img_below_text": "For this last bout with the Macaque Chief, your friend Zhu Bajie will be here to help, but will warn you that the sack's magic draws out evil to empower this foe beyond his normal limits.\nEven though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"Macaque Chief (Warding Temple)\n### Final Encounter - Mahavira Hall\"\n            - Following Text: \"For this last bout with the Macaque Chief, your friend Zhu Bajie will be here to help, but will warn you that the sack's magic draws out evil to empower this foe beyond his normal limits.\nEven though you'll have the help of a friend, don't expect this to be an easy fight, as the Macaque Chief hits harder than ever with his evil sword. On the plus side, your health, mana, and gourd will be fully replenished after the Yellowbrow fight, and if you are defeated here, you can re-enter the temple to skip the first fight and pick up where you left off.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the final encounter with the Macaque Chief in the Mahavira Hall. The setting is bathed in ominous red light, symbolizing the heightened danger and evil magic empowering the foe. The protagonist, armed with a spear, stands ready to face the Macaque Chief, who wields an evil sword. Zhu Bajie, a companion, is visible in the background, offering support in this climactic battle. The caption, \"Join me, let's fight our way out!\" emphasizes the cooperative effort and the intense challenge ahead."
+}

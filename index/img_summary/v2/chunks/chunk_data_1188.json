@@ -1,0 +1,28 @@
+{
+    "chunk_id": 165385834768,
+    "source_file": "Forest_of_Wolves_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Wolves_4.jpg",
+    "alt_text": "Wukong Wolves 4.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Wolves 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Wolves_3.jpg)\nA voice will call out as you defeat the first two enemies, and we’ll be meeting the owner of this voice soon enough. For now, head straight up the woodland path, and you should spot a red plant to the right. Pluck it to gain some **Aged Ginseng** \\- a crafting material that we won’t be able to make use of until Chapter 2, but there’s no reason you can’t start stocking up on them now!",
+    "img_below_text": "When you reach the next Wolf Scout, you’ll be prompted to perform a Heavy Attack. Heavy Attacks work a bit differently here than in most other games: The more you land hits, the more your Focus bar in the bottom right corner grows. When it fills, you’ll gain a Focus Point, which allows you to add a Heavy Attack into your Light Attack Combos for massive damage. While you can still perform a Heavy Attack on its own, it will lack added punch without that Focus Point, and can’t be included in a combo attack without it.\nAlternatively, you can simply hold the Heavy Attack button to begin charging up your Focus, and letting go of the button will unleash the attack, which can be devastating on slow or unsuspecting enemies. It’s important to note that Focus won’t decay from performing light attacks, but you can’t keep the Focus from charging up, so knowing when to use which type of heavy attack can prove useful.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Forest_of_Wolves_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Wukong_Wolves_3.jpg)\nA voice will call out as you defeat the first two enemies, and we’ll be meeting the owner of this voice soon enough. For now, head straight up the woodland path, and you should spot a red plant to the right. Pluck it to gain some **Aged Ginseng** \\- a crafting material that we won’t be able to make use of until Chapter 2, but there’s no reason you can’t start stocking up on them now!\"\n            - Following Text: \"When you reach the next Wolf Scout, you’ll be prompted to perform a Heavy Attack. Heavy Attacks work a bit differently here than in most other games: The more you land hits, the more your Focus bar in the bottom right corner grows. When it fills, you’ll gain a Focus Point, which allows you to add a Heavy Attack into your Light Attack Combos for massive damage. While you can still perform a Heavy Attack on its own, it will lack added punch without that Focus Point, and can’t be included in a combo attack without it.\nAlternatively, you can simply hold the Heavy Attack button to begin charging up your Focus, and letting go of the button will unleash the attack, which can be devastating on slow or unsuspecting enemies. It’s important to note that Focus won’t decay from performing light attacks, but you can’t keep the Focus from charging up, so knowing when to use which type of heavy attack can prove useful.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Wolves_4.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**: The image depicts a combat scene in a forested area where the player character is attacking a wolf-like enemy using a staff. The interface displays a prompt to \"Perform Heavy Attack,\" suggesting this is a tutorial moment introducing the mechanics of heavy attacks in the game.\n\n2. **Purpose, Content, or Narrative Role**: The image aligns with the following text, which explains the mechanics of heavy attacks in *Black Myth: Wukong*. It serves as a visual aid to demonstrate the use of heavy attacks during combat, emphasizing the importance of Focus Points and timing to maximize damage. This tutorial moment helps players understand how to integrate heavy attacks into their combos effectively."
+}

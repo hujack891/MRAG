@@ -1,0 +1,28 @@
+{
+    "chunk_id": 388239071237,
+    "source_file": "Macaque_Chief.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Thunderclap_96.jpg",
+    "alt_text": "Wukong Thunderclap 96.jpg",
+    "position_desc": 20,
+    "img_above_text": "![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)\nAnother new move he can perform when jumping on his blade will be to launch himself into the air instead of slashing with it, which will expel a handful of projectiles feathers from his wings that will fly down at you quickly after hanging in the air for a moment. If you have the time, you can spin your staff, or just simply dodge as they will all reach you at the same moment.",
+    "img_below_text": "After you've defeated his clones and beaten the Macaque Chief one final time, you'll be able to leave the enchanted seed sack and continue your pursuit of Yellowbrow, but not in the way you might expect.\nMacaque Chief (Mahavira Hall)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 20 from the file 'Macaque_Chief.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 94.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Thunderclap_94.jpg)\nAnother new move he can perform when jumping on his blade will be to launch himself into the air instead of slashing with it, which will expel a handful of projectiles feathers from his wings that will fly down at you quickly after hanging in the air for a moment. If you have the time, you can spin your staff, or just simply dodge as they will all reach you at the same moment.\"\n            - Following Text: \"After you've defeated his clones and beaten the Macaque Chief one final time, you'll be able to leave the enchanted seed sack and continue your pursuit of Yellowbrow, but not in the way you might expect.\nMacaque Chief (Mahavira Hall)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Thunderclap_96.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic and intense scene from the game \"Black Myth: Wukong,\" showcasing the protagonist, likely Wukong, in a visually striking environment filled with ornate, red-hued designs. The preceding text describes Wukong's combat abilities, including launching projectiles from his wings, while the following text suggests a pivotal moment in the narrative where the player progresses after defeating the Macaque Chief. The image likely serves to illustrate the climactic battle or significant event involving the Macaque Chief, emphasizing the game's rich visual style and the protagonist's journey."
+}

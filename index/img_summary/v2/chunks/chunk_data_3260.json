@@ -1,0 +1,28 @@
+{
+    "chunk_id": 564103067959,
+    "source_file": "Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Walkthrough3.jpg",
+    "alt_text": "Walkthrough3.jpg",
+    "position_desc": 3,
+    "img_above_text": "* **Chapter 2 Secret - Kingdom of Sahali**\n##  Chapter 3 - White Snow, Ice Cold",
+    "img_below_text": "In Chapter 3, the Destined One arrives in The New West, and must traverse treacherous mountain paths to find Goldenbrow's Temple where the next Sage's Will is hidden.\n* **Snowhill Path**",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"* **Chapter 2 Secret - Kingdom of Sahali**\n##  Chapter 3 - White Snow, Ice Cold\"\n            - Following Text: \"In Chapter 3, the Destined One arrives in The New West, and must traverse treacherous mountain paths to find Goldenbrow's Temple where the next Sage's Will is hidden.\n* **Snowhill Path**\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Walkthrough3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a rugged, snow-covered mountain landscape with a lone figure standing in the foreground, gazing towards a distant temple nestled among the peaks. The scene is likely from Chapter 3 of the narrative, where the protagonist, referred to as the Destined One, must navigate the perilous Snowhill Path in The New West to reach Goldenbrow's Temple in search of the next Sage's Will. The image visually sets the stage for the challenging journey ahead, emphasizing the harsh and treacherous environment the protagonist must overcome."
+}

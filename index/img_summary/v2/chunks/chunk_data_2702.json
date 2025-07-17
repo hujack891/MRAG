@@ -1,0 +1,28 @@
+{
+    "chunk_id": 899429907185,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg",
+    "alt_text": "Wukong Snowhill 48.jpg",
+    "position_desc": 47,
+    "img_above_text": "![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.",
+    "img_below_text": "When you finally deplete the bosses health, you'll send her into the icy depths below the lake.\nKang-Jin Loong",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 47 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f4/Wukong_Snowhill_44.jpg)\nAny time you manage to knock the dragon to the ground, quickly capitalize on the moment with Spirit Attacks and as many hits as you can unleash, using Immobilize to keep her grounded for a long as possible.\"\n            - Following Text: \"When you finally deplete the bosses health, you'll send her into the icy depths below the lake.\nKang-Jin Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image likely depicts a dramatic moment in the game \"Black Myth: Wukong,\" showing the aftermath of a battle where the protagonist has successfully defeated a dragon-like boss. The scene captures the dragon being sent into the icy depths of a lake, symbolizing the player's victory and the culmination of the fight."
+}

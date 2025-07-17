@@ -1,31 +1,6 @@
 {
-    "chunk_id": 752571189378,
-    "source_file": "Mountain-Shaking_Claw.md",
-    "h1_title": "Mountain-Shaking Claw",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Mountain-Shaking_Claw.jpg",
-    "alt_text": "Mountain-Shaking Claw.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Mountain-Shaking Claw\nMountain-Shaking Claw is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Mountain-Shaking Claw can be used to craft the Golden Loong Staff from the Shrine.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Mountain-Shaking_Claw.md', located under Mountain-Shaking Claw.\n\n                Metadata:\n                - Document Title: Mountain-Shaking Claw\n                - Alt Text: Mountain-Shaking Claw.jpg\n\n                Context:\n                - Preceding Text: \"# Mountain-Shaking Claw\nMountain-Shaking Claw is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\nThe Mountain-Shaking Claw can be used to craft the Golden Loong Staff from the Shrine.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Mountain-Shaking_Claw.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts the inventory screen from the game \"Black Myth: Wukong,\" specifically highlighting the \"Mountain-Shaking Claw,\" a legendary crafting material. The claw, resembling gnarled wooden knots, is used to craft unique gear, such as the Golden Loong Staff, after defeating a boss. The description suggests its mysterious power to shake mountains, hinting at its significant role in the game's crafting system."
+    "chunk_id": 520387128039,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Skanda_of_Form_3.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image displays the inventory screen from a video game, highlighting a key item named \"Skandha of Form.\" This item is categorized as \"Uncommon\" and is described with a cryptic text hint: \"Man shrinks at odor, but smiles at beauty, which is only natural.\" It was previously hidden inside the Buddha's head, suggesting it has a secret yet to be revealed. The inventory UI shows one of this item held, with additional slots available for other items. The screen includes navigation options such as \"Examine,\" \"Sorting,\" and \"Return,\" and displays a currency or resource count of 371 in the top right corner."
 }

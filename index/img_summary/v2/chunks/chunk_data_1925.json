@@ -1,0 +1,28 @@
+{
+    "chunk_id": 606287669153,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
+    "alt_text": "Wukong Fright 27.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.",
+    "img_below_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Man-in-Stone_Questline.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Wukong_Fright_22.jpg)\nYou’ll find the cave in question just above the crevice on the left side of the path through the Squall Hideout region. Enter the large tunnel and keep to the left to defeat any Rock Guai you come across.\"\n            - Following Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### Yaoguai Chief Miniboss - Mother of Stone\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Fright_27.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character approaching a large rock formation embedded with glowing blue crystals inside a dark cave. This scene is part of the \"Man-in-Stone\" questline in *Black Myth: Wukong*. The crystals likely mark a significant location along the cave path, leading to the quest's objective—a larger statue with similar crystals. The preceding text mentions defeating Rock Guai enemies, while the following text warns of a Poisestone ambush near the final statue. The image emphasizes exploration and progression within the cave environment."
+}

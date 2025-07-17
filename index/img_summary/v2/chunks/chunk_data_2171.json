@@ -1,0 +1,28 @@
+{
+    "chunk_id": 60373229603,
+    "source_file": "Non-Able.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_Brook_20.jpg",
+    "alt_text": "Wukong Brook 20.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Brook 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Brook_18.jpg)\nWith many of his attacks having severely short range, the Thrust Stance can be incredibly useful to retreat into a heavy attack once you have a focus point. The Pillar Stance can also be useful to gain height over many of his low kicks, but you'll need to make sure you have a lot of spare stamina to soak up his hits.",
+    "img_below_text": "Since things are rarely as easy as they seem, eliminating his health bar will trigger phase two, whereupon he'll break his restraints and not only fight you with his fists, but supercharge his limbs to deal an insane amount of damage!\n![Wukong Brook 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Brook_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Brook_18.jpg)\nWith many of his attacks having severely short range, the Thrust Stance can be incredibly useful to retreat into a heavy attack once you have a focus point. The Pillar Stance can also be useful to gain height over many of his low kicks, but you'll need to make sure you have a lot of spare stamina to soak up his hits.\"\n            - Following Text: \"Since things are rarely as easy as they seem, eliminating his health bar will trigger phase two, whereupon he'll break his restraints and not only fight you with his fists, but supercharge his limbs to deal an insane amount of damage!\n![Wukong Brook 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Brook_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Wukong_Brook_20.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character in chains preparing for battle in a snowy, forested environment. This image likely represents the moment before the character breaks free from restraints to engage in a more intense phase of combat, as described in the following text. The preceding text discusses combat strategies, indicating the character's need for tactical maneuvers and stamina management."
+}

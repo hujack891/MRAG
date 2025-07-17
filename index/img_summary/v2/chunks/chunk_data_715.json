@@ -1,0 +1,28 @@
+{
+    "chunk_id": 176210325124,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Longevity_Decoction_.jpg",
+    "alt_text": "Longevity Decoction .jpg",
+    "position_desc": 12,
+    "img_above_text": "![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets",
+    "img_below_text": "![Black-myth-wukong-evil-tonifying-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Black-myth-wukong-evil-tonifying-decoction.jpg)| Tonifying Decoction | Rare | Upon use, considerably increases maximum stamina for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| • 1 Celestial Peat\n• 1 Licorice | Tonifying Decoction",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Enhanced Tiger Subduing Pellets .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Enhanced_Tiger_Subduing_Pellets_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Upon use, considerably increases damage for a long duration | • Fromula found in Bitter Lake - Percept Corridor in The New West in a container nearby\n• Purchase from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| Not craftable | Enhanced Tiger Subduing Pellets\"\n            - Following Text: \"![Black-myth-wukong-evil-tonifying-decoction.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Black-myth-wukong-evil-tonifying-decoction.jpg)| Tonifying Decoction | Rare | Upon use, considerably increases maximum stamina for a long duration | • Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind RidgeBought from the Shrine Store in The New West| • 1 Celestial Peat\n• 1 Licorice | Tonifying Decoction\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Longevity_Decoction_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a consumable item from the game \"Black Myth: Wukong\" called Tonifying Decoction. This rare item, when used, significantly increases the player's maximum stamina for an extended period. The formula for this decoction can be purchased from Xu Dog in the Crouching Tiger Temple - Cellar after completing Chapter 2 - Yellow Wind Ridge and is also available at the Shrine Store in The New West. Crafting the decoction requires 1 Celestial Peat and 1 Licorice."
+}

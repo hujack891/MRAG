@@ -1,31 +1,6 @@
 {
-    "chunk_id": 685194064128,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Yaoguai King Boss Fight - Captain Wise-Voice",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg",
-    "alt_text": "Wukong Pagoda 79.jpg",
-    "position_desc": 75,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Yaoguai King Boss Fight - Captain Wise-Voice\n\nMuch like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\n\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 75 from the file 'Pagoda_Realm_Walkthrough.md', located under Yaoguai King Boss Fight - Captain Wise-Voice.\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Yaoguai King Boss Fight - Captain Wise-Voice\n                - Alt Text: Wukong Pagoda 79.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Yaoguai King Boss Fight - Captain Wise-Voice\n\nMuch like Captain Lotus-Vision, the second Captain of the Pagoda Realm is a creepy one, with a strange construct-like shape with four legs, housing an golden sphere adorned with dragons that serves as its central core. The rest of the construct is highly resistant to damage, meaning you'll need to stun it so that you can take a shot at its most vulnerable part.\n\nOnly one of its legs is susceptible to attack, where you can see an orange glow emanating from its front right leg, so try to focus your attacks there whenever possible to try and stagger it.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Pagoda_79.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts an intense battle scene from the game \"The Beguiling Chant of the Pagoda Realm,\" specifically during the Yaoguai King Boss Fight against Captain Wise-Voice. The dark, atmospheric setting features a large, multi-legged construct with a glowing central core, surrounded by bright, dynamic light effects and combat indicators. The player character appears to be engaged in combat, with the boss's health bar displayed at the bottom, emphasizing the ongoing fight's critical nature. The image visually represents the challenge of targeting the vulnerable glowing leg to stagger the boss, as described in the preceding text."
+    "chunk_id": 103469104223,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Lanxi_20.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a character in a video game standing in front of a large, wooden door, with an option to \"Knock\" by pressing the RT button. The character is holding a spear and is dressed in a rugged outfit, suggesting a warrior or adventurer role. The environment is dimly lit, with stone and wooden elements, indicating a rustic or ancient setting. The user interface displays various icons on the left and right sides, likely representing abilities or items, and a health bar at the bottom left corner. These elements suggest the player is about to interact with the door, possibly to enter a new area or trigger an event."
 }

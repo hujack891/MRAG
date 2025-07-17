@@ -1,0 +1,28 @@
+{
+    "chunk_id": 654633989633,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Fright_12.jpg",
+    "alt_text": "Wukong Fright 12.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Fright 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Fright_11.jpg)\nLook at the top of the ridge near where the Palestone emerged, and you can find a chest to open above the doorway you came through that holds 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**. Nearby, you can also find a wooden walkway taking you along the scaffolding that leads to the ranged Bladeblone that was harassing you earlier so you can deal with it.",
+    "img_below_text": "The large cave entrance has a few paths, with the outer one on the right leading past another Pitstone to a wooden coffin chest holding 3 **Silk** and some **Will**.\n### The Second Buddha’s Eyeball",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Fright_11.jpg)\nLook at the top of the ridge near where the Palestone emerged, and you can find a chest to open above the doorway you came through that holds 1 **Small Piece of Gold** and 3 **Tiny Piece of Gold**. Nearby, you can also find a wooden walkway taking you along the scaffolding that leads to the ranged Bladeblone that was harassing you earlier so you can deal with it.\"\n            - Following Text: \"The large cave entrance has a few paths, with the outer one on the right leading past another Pitstone to a wooden coffin chest holding 3 **Silk** and some **Will**.\n### The Second Buddha’s Eyeball\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Fright_12.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "### Summary of the Image:\n\nThe image depicts a gameplay moment from *Black Myth: Wukong*, showing the protagonist engaged in combat with a grotesque enemy resembling a humanoid creature with a bulbous, fleshy growth. The environment is a rocky, desolate area with a cave entrance visible in the background. A red-dotted circle highlights a specific point of interest, likely indicating a location or object of importance for exploration or progression. Based on the preceding and following text, this scene occurs near the ridge where treasure chests and paths are mentioned, suggesting the player is navigating through this area to collect items or confront enemies while advancing toward the cave entrance."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 43095373159,
+    "source_file": "How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png",
+    "alt_text": "Secret Loong Bosses \\(1\\).png",
+    "position_desc": 7,
+    "img_above_text": "![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\nFrom here, you should be able to see the waterfall up ahead. This is where you need to head for. Take the path down, and go toward the stream. Then turn left, and you can climb up the green mossy rocks.",
+    "img_below_text": "Jump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.\n![Secret Loong Bosses .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'How_to_Unlock_the_Secret_Loong_Dragon_Bosses.md'.\n\n            Context:\n            - Preceding Text: \"![Secret Loong Bosses \\(3\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Secret_Loong_Bosses_%283%29.png)\nFrom here, you should be able to see the waterfall up ahead. This is where you need to head for. Take the path down, and go toward the stream. Then turn left, and you can climb up the green mossy rocks.\"\n            - Following Text: \"Jump over the tree branch and head toward the waterfall and the enemy waiting outside of it. If you have the Loong Scales, you’ll see an Examine prompt appear, but you’ll need to deal with the nearby enemy first. When the area is clear, press Examine to make the waterfall disappear and a hole in the wall will appear.\n![Secret Loong Bosses .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dd/Secret_Loong_Bosses_.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Secret_Loong_Bosses_%281%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a player character standing in a lush, moss-covered forest environment near a stream, with an arrow pointing toward a climbable path leading to a waterfall in the distance. The image serves as a visual guide for navigating toward the waterfall, which is a key location in the game \"Black Myth: Wukong.\" The preceding and following text explains that players need to head toward the waterfall, climb mossy rocks, and later interact with the area to reveal a hidden passage after defeating nearby enemies."
+}

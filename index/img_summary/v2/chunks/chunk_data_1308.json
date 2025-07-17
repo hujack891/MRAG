@@ -1,0 +1,28 @@
+{
+    "chunk_id": 255915896952,
+    "source_file": "Fuban.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg",
+    "alt_text": "Wukong Yellow 33.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)\n* To locate the stone itself, you’ll need to head through the Yellow Wind Formation to the Windrest Hamlet, which is across the Windrest Bridge up the road past the Crouching Tiger Temple. Once you enter the hamlet, take a left to find a large building guarded by a Rat Soldier and Rat Imperial Guard. On the left side when looking at the large building, defeat a Blazebone monster, and then look to the right for a small alcove, where you can spot a glowing pot. Break the pot, and you’ll find the **Sobering Stone**.",
+    "img_below_text": "When you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off in search of a meaty meal. He doesn’t actually want you to get some for him, and will set off himself to the Crouching Tiger Temple.\n![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Fuban.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Yellow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Yellow_10.jpg)\n* To locate the stone itself, you’ll need to head through the Yellow Wind Formation to the Windrest Hamlet, which is across the Windrest Bridge up the road past the Crouching Tiger Temple. Once you enter the hamlet, take a left to find a large building guarded by a Rat Soldier and Rat Imperial Guard. On the left side when looking at the large building, defeat a Blazebone monster, and then look to the right for a small alcove, where you can spot a glowing pot. Break the pot, and you’ll find the **Sobering Stone**.\"\n            - Following Text: \"When you return it to the Drunken Boar, he’ll thank you, and declare that he’s now off in search of a meaty meal. He doesn’t actually want you to get some for him, and will set off himself to the Crouching Tiger Temple.\n![Wukong Yellow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4f/Wukong_Yellow_34.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Yellow_33.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a player character interacting with the Drunken Boar, a large anthropomorphic boar-like creature, in a rocky outdoor setting. The Drunken Boar stands near a small altar-like setup with a lit candle and other objects. The on-screen text suggests the boar is referencing the Temple of Crouching Tiger, hinting at the next objective or location in the narrative.\n\n2. **Image's Purpose, Content, or Narrative Role**:  \nThe image serves as a visual representation of the player's encounter with the Drunken Boar after retrieving the Sobering Stone. It highlights the boar's dialogue, where he mentions heading to the Temple of Crouching Tiger in search of food, setting up the next stage of the quest or storyline progression."
+}

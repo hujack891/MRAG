@@ -1,31 +1,6 @@
 {
-    "chunk_id": 364156576827,
-    "source_file": "Fuban.md",
-    "h1_title": "Fuban",
-    "h2_title": "Fuban Boss Fight and Guide",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_41.jpg",
-    "alt_text": "Wukong Sahali 41.jpg",
-    "position_desc": 24,
-    "img_above_text": "# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nBy dealing enough damage, the Yellow Wind Sage can also knock Fuban to the ground. Be wary when approaching at first, if you see Fuban start to thrash left and right, it’s better to hang back, and wait until the rat can follow up with another powerful attack to stun Fuban until he lies on his side.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 24 from the file 'Fuban.md', located under Fuban Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Fuban\n                - Section Title: Fuban Boss Fight and Guide\n                - Alt Text: Wukong Sahali 41.jpg\n\n                Context:\n                - Preceding Text: \"# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nBy dealing enough damage, the Yellow Wind Sage can also knock Fuban to the ground. Be wary when approaching at first, if you see Fuban start to thrash left and right, it’s better to hang back, and wait until the rat can follow up with another powerful attack to stun Fuban until he lies on his side.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_41.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically the Fuban boss fight. It shows the player's character engaging in combat with Fuban, a large, formidable creature, in a sandy, desert-like environment. The health bar at the bottom of the screen indicates the ongoing battle's intensity. This image is part of the \"Fuban Boss Fight and Guide\" section, illustrating the challenging encounter with Fuban and providing visual context to the guide's instructions on how to defeat this optional boss."
+    "chunk_id": 486842489365,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Chapter_4_Secret_Area_%288%29.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a dark cave environment from a video game, with a character in the foreground wearing red and gold armor, holding a weapon. The cave is dimly lit, with some light sources visible in the distance. A prominent red arrow is pointing towards a specific area deeper within the cave, suggesting a direction or point of interest for the player to explore. The rocky cave walls and floor are detailed, adding to the immersive atmosphere. The image likely serves as a guide to direct players towards a specific path or objective within the game."
 }

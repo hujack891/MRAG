@@ -1,0 +1,28 @@
+{
+    "chunk_id": 606866237973,
+    "source_file": "Webbed_Hollow_-_Middle_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_MiddleHollow_14.jpg",
+    "alt_text": "Wukong MiddleHollow 14.jpg",
+    "position_desc": 14,
+    "img_above_text": "Exit back to where you saw the mysterious women, and look to the right to find a mural with a green Wisp in front of it, and a pathway leading left. Take the path, and you'll find it leads down below the bridge you crossed earlier and over to the group of houses the other path led to.\n## Middle Hollow",
+    "img_below_text": "Follow the lower path past a Dragonfly Guai archer, and you'll come to find the path below the bridge is covered in hanging cocoons.\nMind the Puppet Tick in the middle as you stab the Clawed Cocoons from afar, and create a path through.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Webbed_Hollow_-_Middle_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Exit back to where you saw the mysterious women, and look to the right to find a mural with a green Wisp in front of it, and a pathway leading left. Take the path, and you'll find it leads down below the bridge you crossed earlier and over to the group of houses the other path led to.\n## Middle Hollow\"\n            - Following Text: \"Follow the lower path past a Dragonfly Guai archer, and you'll come to find the path below the bridge is covered in hanging cocoons.\nMind the Puppet Tick in the middle as you stab the Clawed Cocoons from afar, and create a path through.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_MiddleHollow_14.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, eerie cave environment with a character holding a glowing red object, possibly a weapon or magical item, and facing an enemy creature. The background shows hanging cocoons and a bridge overhead, suggesting a dangerous and mysterious setting. The scene aligns with the narrative context of navigating a lower path beneath a bridge, encountering enemies like the Dragonfly Guai archer and Puppet Tick, and dealing with obstacles such as the hanging cocoons."
+}

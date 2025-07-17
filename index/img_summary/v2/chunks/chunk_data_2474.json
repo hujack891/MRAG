@@ -1,0 +1,28 @@
+{
+    "chunk_id": 734518521371,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg",
+    "alt_text": "Wukong RedLoong 16.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Wukong RedLoong 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg)\nLook for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.",
+    "img_below_text": "For your best chance, we recommend swapping to the Pillar Stance, and unleashing a big charge attack when facing his back. With 2-3 Focus Points banked, you have a good chance of slamming your staff down right on his back and hitting one or more pots. Should you connect, you’ll deal a huge amount of damage to Red Loong in a single burst, causing an explosion in the process.\n![Wukong RedLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_RedLoong_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Wukong_RedLoong_13.jpg)\nLook for the four electric pots that crackle and sparkle on the back of the dragon. You’ll want to aim a large heavy hit directly on these whenever possible. Targeting them isn’t always easy, as you can only really lock on to the center of his body, which may not specifically point you at the pots on his back.\"\n            - Following Text: \"For your best chance, we recommend swapping to the Pillar Stance, and unleashing a big charge attack when facing his back. With 2-3 Focus Points banked, you have a good chance of slamming your staff down right on his back and hitting one or more pots. Should you connect, you’ll deal a huge amount of damage to Red Loong in a single burst, causing an explosion in the process.\n![Wukong RedLoong 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_RedLoong_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wukong_RedLoong_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, showing the protagonist engaged in combat with the boss \"Red Loong.\" The scene highlights the strategy of targeting the electric pots on the dragon's back, as mentioned in the preceding and following text. The visual showcases the dragon's tail and body amidst a dark, rocky environment, with glowing effects indicating damage or interaction with the pots. The player's health bar and abilities are visible, emphasizing the tactical nature of the fight."
+}

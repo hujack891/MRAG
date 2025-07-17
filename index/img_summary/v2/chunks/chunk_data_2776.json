@@ -1,0 +1,28 @@
+{
+    "chunk_id": 314713226376,
+    "source_file": "Stone_Vanguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg",
+    "alt_text": "Wukong Shigan Secret1.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Shigandang 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg)\nIf you find yourself having trouble with the **Stone Vanguard** , it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.",
+    "img_below_text": "If you've collected all six Buddha Eyeballs, you can actually interact with the large rock to the left before engaging the Stone Vanguard. This will summon the mighty Shigandang boss to arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Stone_Vanguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Shigandang 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg)\nIf you find yourself having trouble with the **Stone Vanguard** , it is possible to get some assistance from the most unlikely source: Another Yaoguai King found in the same boss arena.\"\n            - Following Text: \"If you've collected all six Buddha Eyeballs, you can actually interact with the large rock to the left before engaging the Stone Vanguard. This will summon the mighty Shigandang boss to arise and immediately fight with the Stone Vanguard. The good news is he's a lot tougher than the Stone Vanguard, and will perform a flashy finisher to tear the other rock Guai to pieces, giving you all the rewards!\n![Wukong Shigandang 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Shigan_Secret1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character, likely Wukong, facing a large rock-like creature known as the Stone Vanguard in a desolate, rocky landscape. The context suggests that this image illustrates the moment before engaging the Stone Vanguard, where players can summon another powerful entity, Shigandang, to assist in the battle if they have collected all six Buddha Eyeballs. The image emphasizes the game's strategic elements and the dramatic confrontation with formidable foes."
+}

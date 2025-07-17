@@ -1,0 +1,28 @@
+{
+    "chunk_id": 73253482185,
+    "source_file": "Guangzhi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg",
+    "alt_text": "Wukong Wolves 35.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Wolves 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Wolves_34.jpg)\nThe flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.",
+    "img_below_text": "If he starts to whirl his fiery blade in circles around him, be ready but don’t panic as his attack is yet to come — wait for him to raise the blade and twirl it high before swinging it from side to side in two slower hits.\n![Wukong Wolves 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Wolves_36.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Guangzhi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Wolves_34.jpg)\nThe flashing of his fiery weapon may seem impossible to dodge, but the key to this fight is understanding exactly when his attacks actually land so that you can dodge around them. Guangzhi usually starts by charging forth for a combo attack, but each attack will cause him to jump into the air with a flourish before actually attacking with downward swings. Wait to dodge all three swing attacks and then hit him with some of your own while he tries to recover.\"\n            - Following Text: \"If he starts to whirl his fiery blade in circles around him, be ready but don’t panic as his attack is yet to come — wait for him to raise the blade and twirl it high before swinging it from side to side in two slower hits.\n![Wukong Wolves 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Wolves_36.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_Wolves_35.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts the intense combat encounter with Guangzhi in *Black Myth: Wukong*. Guangzhi is shown mid-attack, whirling his fiery blade in a circular motion, creating a dangerous area of effect. The preceding text highlights the importance of timing dodges to avoid his downward swings, while the following text warns players to stay calm and anticipate his slower side-to-side strikes after the blade twirl. The image visually reinforces the need for strategic evasion and attack during this challenging boss fight."
+}

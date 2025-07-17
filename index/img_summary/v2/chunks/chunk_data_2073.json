@@ -1,0 +1,28 @@
+{
+    "chunk_id": 591014165232,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_30.jpg",
+    "alt_text": "Wukong Thunderclap 30.jpg",
+    "position_desc": 29,
+    "img_above_text": "After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).",
+    "img_below_text": "The four-legged creatures can emit fire from several places -- using a large opening on its chest to emit a huge flamethrower you'll need to Immobilize to shut down or stay well away from.\n![Wukong Thunderclap 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Thunderclap_31.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 29 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"After defeating these two mages, turn around and look at the side of the small red building to find a **Treasure Chest** with materials inside.\nNow you can head down the main stairs to encounter this new foe, a Clay Vajra. While he may look like a Yaoguai Chief, this is just a very formidable Yaoguai (that thankfully doesn't respawn).\"\n            - Following Text: \"The four-legged creatures can emit fire from several places -- using a large opening on its chest to emit a huge flamethrower you'll need to Immobilize to shut down or stay well away from.\n![Wukong Thunderclap 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Thunderclap_31.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6f/Wukong_Thunderclap_30.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Image Summary**: The image depicts a tense combat scene in *Black Myth: Wukong*, where the player character faces off against a fiery, centaur-like enemy known as the Clay Vajra. The creature is emitting flames from its chest in a snowy, temple courtyard setting.\n\n2. **Purpose/Narrative Role**: The image illustrates the encounter with the Clay Vajra, a powerful, non-respawning enemy that players must defeat to progress. The preceding and following text highlight its fire-based attacks, emphasizing the need for strategic movement or immobilization to avoid its flamethrower ability."
+}

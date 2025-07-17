@@ -1,0 +1,29 @@
+# Gourds
+
+Gourds are your main source of health regeneration in Black Myth: Wukong. They can be used several times each life to restore a chunk of your health, alongside some other buffs for a brief period, as you upgrade each Gourd. 
+
+They are pretty rare, and there are only a few different ones hidden throughout the game’s chapters, so you will need to keep an eye out to get them all or find the best Gourd to use. 
+
+## Black Myth: Wukong Gourd Locations
+
+### Best Black Myth Wukong Gourds
+
+### Best Black Myth Wukong Gourds
+
+Below you can find a breakdown of each Gourd in the game, where they are located, and the buffs they offer. Over time each link will take you to a dedicated page on where to find the Gourds. You can also use our Walkthrough. Additionally, you can check each one off as you find them. 
+
+Image | Gourd | Rarity | Default Uses Per Life | Special Effect | Location | Collected   
+---|---|---|---|---|---|---  
+![Old Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c2/Old_Gourd_.jpg)| Old Gourd| Common | 4 | N/A | Default Gourd at the start of Chapter 1 - Black Wind Mountain| Old Gourd  
+![Trailblazers Scarlet Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Trailblazers_Scarlet_Gourd_.jpg)| Trailblazer’s Scarlet Gourd| Rare | 5 | When the Gourd is full, the first sip replenishes to full health. | Deluxe Edition exclusive item. Unlocked at the Forest of Wolves - Front Hills Shrine in Black Wind Mountain  
+Also given at Thunderclap Temple in The New West once you meet the Horse Guai if you don't own the Deluxe Edition or Deluxe Edition Upgrade | Trailblazer’s Scarlet Gourd  
+![Jade Lotus Gourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Jade_Lotus_Gourd_.jpg)| Jade Lotus Gourd| Epic | 6 | Recovers a considerable amount of health for nearby duplicates upon using the Gourd. | Found at the Shen Monkey Vendor in Bamboo Grove - Marsh of White Mist in Black Wind Mountain. Requires completion of Chapter 2 - Yellow Wind Ridge | Jade Lotus Gourd  
+![PlaguebaneGourd .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a1/PlaguebaneGourd_.jpg)| Plaguebane Gourd| Rare | 5 | Health recovery is halved, but attack is increased for a short duration after using the gourd | Found from the chest after defeating the Mad Tiger boss in Yellow Wind Ridge. Requires you to defeat the Tiger Acolyte and obtain the Old Rattle-Drum Key Item | Plaguebane Gourd  
+![Black-myth-wukong-xiang-fiery-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Black-myth-wukong-xiang-fiery-gourd.jpg)| Fiery Gourd| Epic | 7 | Using the Gourd grants Chill immunity and increases maximum stamina for a short duration | From the Valley of Ecstasy, Mindfullness Cliff Shrine in The New West, head towards the wooden boards ahead between the cliffs and drop down  
+Walk along the path until you reach a chest with the Gourd | Fiery Gourd  
+![Black-myth-wukong-xiang-river-goddess-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Black-myth-wukong-xiang-river-goddess-gourd.jpg)| Xiang River Goddess Gourd| Legendary | 8 | Using the Gourd grants a moderate amount of Burn Resistance and immunity from lava-covered terrain for a short duration | In The Webbed Hollow at The Verdure Bridge Shrine, follow the path left until you reach a set of lanterns with a gate on your right At this location you can find a group of chests which contain the Gourd | Xiang River Goddess Gourd  
+![Black-myth-wukong-stained-jade-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Black-myth-wukong-stained-jade-gourd.jpg)| Stained Jade Gourd| Epic | 7 | Massively increases drinking speed | Defeat The Scorpionlord in the Chapter 4 secret area, Purple Cloud Mountain in The Webbed HollowThis must be done before defeating Duskveil| Stained Jade Gourd  
+![Black-myth-wukong-immortal-blessing-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Black-myth-wukong-immortal-blessing-gourd.jpg)| Immortal Blessing Gourd| Legendary | 8 | Health recovery is halved, but attack is increased for a short duration after using the Gourd | Bought from the Shen Monkey Vendor in Black Wind Mountain from Chapter 5 onwards. Requires Buddha's Left Hand and Buddha's Right Hand items from The Webbed Hollow| Immortal Blessing Gourd  
+![Black-myth-wukong-supreme-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9c/Black-myth-wukong-supreme-gourd.jpg)| Supreme Gourd| Mythical | 10 | N/A | In Rakshasa Palace within the Flaming Mountains, over the bridge after talking with the Man After talking with him, interact with the fire in the room to upgrade your Gourd to the Supreme Gourd, requires the Old Gourd to be upgraded to 9 healing uses | Supreme Gourd  
+![Black-myth-wukong-multi-glazed-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Black-myth-wukong-multi-glazed-gourd.jpg)| Multi-Glazed Gourd| Mythical | 6 | The Last Sip from the Gourd significantly increases attack for a short duration | Bought from the Shen Monkey Vendor in Black Wind Mountain from Chapter 6 onwards | Multi-Glazed Gourd  
+![Black-myth-wukong-qing-tian-gourd.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/31/Black-myth-wukong-qing-tian-gourd.jpg)| Qing-Tian Gourd| Legendary | 1 | Slowly recovers Gourd uses | Bought from the Shen Monkey Vendor in Black Wind Mountain in New Game Plus after collecting all enemy Portrait information | Qing Tian Gourd

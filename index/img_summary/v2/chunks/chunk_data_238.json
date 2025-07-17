@@ -1,0 +1,28 @@
+{
+    "chunk_id": 58068950998,
+    "source_file": "Bitter_Lake_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Bitter_63.jpg",
+    "alt_text": "Wukong Bitter 63.jpg",
+    "position_desc": 95,
+    "img_above_text": "When the passage finally ends in a small cave-like room, you'll find a Red-Haired Yaksha on the right guarding the final Buddha statue to pray at.\nLuckily, there's an exit to the left that will dump you out on a low wall (with a green Wisp down by a small tree) leading right back to the pavilion!",
+    "img_below_text": "Return to speak with the monk, who ends up teasing Zhu Bajie some more before appearing up on the cliffs above, as a large Buddha statue materializes next to him.\nSadly, Zhu Bajie will send you off alone and promise to meet you at the summit, which will end your jolly cooperation for now.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 95 from the file 'Bitter_Lake_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"When the passage finally ends in a small cave-like room, you'll find a Red-Haired Yaksha on the right guarding the final Buddha statue to pray at.\nLuckily, there's an exit to the left that will dump you out on a low wall (with a green Wisp down by a small tree) leading right back to the pavilion!\"\n            - Following Text: \"Return to speak with the monk, who ends up teasing Zhu Bajie some more before appearing up on the cliffs above, as a large Buddha statue materializes next to him.\nSadly, Zhu Bajie will send you off alone and promise to meet you at the summit, which will end your jolly cooperation for now.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b1/Wukong_Bitter_63.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy, mountainous setting with intricate rock carvings of Buddha statues, emphasizing the spiritual and serene atmosphere of the location. It aligns with the narrative context of the player exiting a cave and approaching a pivotal moment involving a monk and a large Buddha statue, symbolizing progress in the journey and the transition to a new phase of the story."
+}

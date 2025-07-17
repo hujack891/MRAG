@@ -1,0 +1,28 @@
+{
+    "chunk_id": 539278788040,
+    "source_file": "Civet_Sergeant_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Crouching_Tiger_Cellar.jpg",
+    "alt_text": "Crouching Tiger Cellar.jpg",
+    "position_desc": 2,
+    "img_above_text": "## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.",
+    "img_below_text": "This will open a secret door in the pool of blood that leads you to the Civet Sergeant in the Crouching Tiger Temple Cellar.\n## Civet Sergeant Fight",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Civet_Sergeant_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"## Civet Sergeant Location\nThe Civet Sergeant is lurking in the depths of the Crouching Tiger Temple. After defeating both the Tiger Vanguard and Stone Vanguard bosses, head back to the temple with your Keenness of Tiger and Keenness of Stone items and place them in the receptacle near the sculpture at the back of the boss arena.\"\n            - Following Text: \"This will open a secret door in the pool of blood that leads you to the Civet Sergeant in the Crouching Tiger Temple Cellar.\n## Civet Sergeant Fight\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Crouching_Tiger_Cellar.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a blood-filled pool with a grotesque, animalistic sculpture resembling a tiger's maw, likely serving as the receptacle or mechanism mentioned in the preceding text. This structure appears to be the key to unlocking the secret door leading to the Civet Sergeant in the Crouching Tiger Temple Cellar, as described in the context."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 880252303186,
+    "source_file": "Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_NewShop.jpg",
+    "alt_text": "Wukong NewShop.jpg",
+    "position_desc": 5,
+    "img_above_text": "![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.",
+    "img_below_text": "Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Things_Black_Myth_Wukong_Doesn%27t_Tell_You.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bamboo 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_Bamboo_7.jpg)\nYou’ll come across your fair share of NPCs in Black Myth: Wukong, and it pays to talk to them! Skipping these conversations (and some cases side quests) can be the difference between getting hold of key items and crafting abilities or not. Speak to NPCs sooner rather than later to unlock the chance to increase your Gourd’s healing abilities, craft Medicines, and more.\"\n            - Following Text: \"Most NPCs will remain in the area you find them, meaning you'll need to return to speak to them if they provide a service like selling goods or upgrading your Gourd. Other characters may show up in future chapters, provided you met them in previous chapters.\nBe sure to head back at the start of every new chapter to see if a merchant's stock has upgraded with new features!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_NewShop.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character named Shen Monkey from the game Black Myth: Wukong, who appears to be an NPC that offers various services such as upgrading gourds and drinks, brewing, and trading items. This character likely plays a role in enhancing the player's abilities and resources, emphasizing the importance of interacting with NPCs to progress in the game. The surrounding context suggests that NPCs like Shen Monkey are crucial for acquiring key items and crafting abilities, and players should revisit them to access new features and upgrades."
+}

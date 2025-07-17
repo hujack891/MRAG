@@ -1,0 +1,28 @@
+{
+    "chunk_id": 905899768537,
+    "source_file": "Red_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_RedLoong_11.jpg",
+    "alt_text": "Wukong RedLoong 11.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)\nRed Loong will use its electricity imbued attacks to wreak havoc on you, but can also perform a variety of powerful melee attacks. Be wary of his ability to fly over to you and slash at you as he pivots.",
+    "img_below_text": "Other times, he’ll slam down his front claws in quick succession, creating lightning spots that will detonate in the area after a short moment, requiring you to quickly dodge away or risk taking major shock damage. Take too much, and you’ll be taking double damage until you use medication to remove the effect.\n![Wukong RedLoong 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Red_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong RedLoong 8.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_RedLoong_8.jpg)\nRed Loong will use its electricity imbued attacks to wreak havoc on you, but can also perform a variety of powerful melee attacks. Be wary of his ability to fly over to you and slash at you as he pivots.\"\n            - Following Text: \"Other times, he’ll slam down his front claws in quick succession, creating lightning spots that will detonate in the area after a short moment, requiring you to quickly dodge away or risk taking major shock damage. Take too much, and you’ll be taking double damage until you use medication to remove the effect.\n![Wukong RedLoong 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_RedLoong_10.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_RedLoong_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic battle scene from the game \"Black Myth: Wukong,\" featuring the formidable Red Loong. The creature is shown utilizing its powerful, electricity-imbued attacks against the player. The surrounding text highlights Red Loong's combat abilities, including its melee attacks, aerial slashes, and the creation of lightning spots that explode, emphasizing the need for the player to dodge quickly to avoid significant damage. The image serves to illustrate the intensity and danger of the encounter with Red Loong in the game."
+}

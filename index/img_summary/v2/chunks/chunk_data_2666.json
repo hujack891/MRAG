@@ -1,0 +1,28 @@
+{
+    "chunk_id": 123333530206,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
+    "alt_text": "Wukong Snowhill 14.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong Snowhill 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg)\nThe Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.",
+    "img_below_text": "He can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.\n![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Wukong_Snowhill_11.jpg)\nThe Macaque Chief is fairly proficient with the giant curved blade he wields, and begins the fight by slamming it down to send a vacuum slice projectile right at you.\"\n            - Following Text: \"He can also heave his blade around that will send his body spinning, attacking with two quick spinning slice attacks. Often times he'll end up holding the blade with his foot, and perform a final upward slash as he backflips, sending out another projectile slash.\n![Wukong Snowhill 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_Snowhill_12.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Wukong_Snowhill_14.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic battle scene from the game \"Black Myth: Wukong,\" featuring the Macaque Chief, a formidable enemy wielding a giant curved blade. The image captures the moment the Macaque Chief is executing a powerful attack, possibly a vacuum slice projectile, as part of his combat repertoire. The snowy environment adds to the intensity of the encounter, highlighting the game's action-packed narrative and the challenging nature of the fight against this skilled adversary."
+}

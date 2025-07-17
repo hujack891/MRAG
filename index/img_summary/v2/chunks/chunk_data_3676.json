@@ -1,0 +1,28 @@
+{
+    "chunk_id": 487341695083,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg",
+    "alt_text": "Wukong Thunderclap 114.jpg",
+    "position_desc": 25,
+    "img_above_text": "![Wukong Thunderclap 113.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_113.jpg)\nIn his second phase, he'll often throw in more attacks into the mix, including a deadly binding spell that creates a ring of electricity around you. You'll be unable to escape this ring, and he will start tossing projectiles at you that you'll need to spin your staff to get rid of.",
+    "img_below_text": "Luckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\n![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 25 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 113.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fa/Wukong_Thunderclap_113.jpg)\nIn his second phase, he'll often throw in more attacks into the mix, including a deadly binding spell that creates a ring of electricity around you. You'll be unable to escape this ring, and he will start tossing projectiles at you that you'll need to spin your staff to get rid of.\"\n            - Following Text: \"Luckily, he'll usually stand around gloating after this, giving you time to heal up and ingest more consumables to buff up until the ring dissipates (You can also use Wind Tamer to immediately dispel the ring if you don't feel like waiting).\n![Wukong Thunderclap 112.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Wukong_Thunderclap_112.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Wukong_Thunderclap_114.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the boss named Yellowbrow. The player character is surrounded by a ring of electricity, a binding spell cast by Yellowbrow during his second phase. The context suggests that the player must deal with projectiles and find opportunities to heal or use abilities like Wind Tamer to dispel the ring. The image illustrates the intense and visually striking nature of the boss fight, emphasizing the challenge and strategy required to overcome this phase."
+}

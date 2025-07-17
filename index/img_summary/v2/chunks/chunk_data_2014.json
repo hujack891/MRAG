@@ -1,0 +1,28 @@
+{
+    "chunk_id": 533430872994,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+    "alt_text": "Wukong Shigandang 1.jpg",
+    "position_desc": 13,
+    "img_above_text": "### Mind Core Location 11\nAnother Mind Core can be found upon defeating Shigandang at the Rock Clash Platform Shrine in Fright Cliff in Yellow Wind Ridge. The boss is within the Stone Vanguard's arena and you will need to have obtained all the Buddhas Eyeballs to be able to activate the rock in the arena, which is actually a part of Shigandang's body.",
+    "img_below_text": "### Mind Core Location 12\nThe next Mind Core is automatically given to you upon finishing Chapter 2 - Yellow Wind Ridge and defeating the Yellow Wind Sage.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 11\nAnother Mind Core can be found upon defeating Shigandang at the Rock Clash Platform Shrine in Fright Cliff in Yellow Wind Ridge. The boss is within the Stone Vanguard's arena and you will need to have obtained all the Buddhas Eyeballs to be able to activate the rock in the arena, which is actually a part of Shigandang's body.\"\n            - Following Text: \"### Mind Core Location 12\nThe next Mind Core is automatically given to you upon finishing Chapter 2 - Yellow Wind Ridge and defeating the Yellow Wind Sage.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Shigandang_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character interacting with a large rock formation, which is integral to the narrative of acquiring a Mind Core in the game. This rock is part of Shigandang's body, located at the Rock Clash Platform Shrine in Fright Cliff, Yellow Wind Ridge. The preceding text describes the necessity of defeating Shigandang and obtaining all Buddhas Eyeballs to activate this rock, suggesting that the image captures a moment of gameplay where the player is about to engage with the rock to progress in the quest for the Mind Core."
+}

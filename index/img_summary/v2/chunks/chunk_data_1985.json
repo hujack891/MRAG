@@ -1,0 +1,28 @@
+{
+    "chunk_id": 754412582732,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/The_Grotto_Yellow_Wind_Meditation_Spot.jpg",
+    "alt_text": "The Grotto Yellow Wind Meditation Spot.jpg",
+    "position_desc": 8,
+    "img_above_text": "### The Grotto, Yellow Wind Meditation Spot\nThe Grotto, Yellow Wind Meditation Spot",
+    "img_below_text": "Follow the sand tornado to reach the Yellow Wind boss arena near the Windseal Gate Keeper's Shrine. Follow the path opposite the arena to find the next Meditation Spot.\n### The Rock, Sandgate Bound Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Grotto, Yellow Wind Meditation Spot\nThe Grotto, Yellow Wind Meditation Spot\"\n            - Following Text: \"Follow the sand tornado to reach the Yellow Wind boss arena near the Windseal Gate Keeper's Shrine. Follow the path opposite the arena to find the next Meditation Spot.\n### The Rock, Sandgate Bound Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/63/The_Grotto_Yellow_Wind_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a serene outdoor location featuring a collection of statues carved into a rocky wall, suggesting a sacred or meditative setting. This area is likely the \"Grotto, Yellow Wind Meditation Spot,\" referenced in the preceding text, serving as a tranquil waypoint or area of significance in the narrative. The setting appears to be part of a path leading toward the Yellow Wind boss arena, as described in the context."
+}

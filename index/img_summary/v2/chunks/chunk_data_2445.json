@@ -1,0 +1,28 @@
+{
+    "chunk_id": 254032208191,
+    "source_file": "Rat_Imperial_Guard_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Rat_Imperial_Guard_Fight.jpg",
+    "alt_text": "Rat Imperial Guard Fight.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rat Imperial Guard Fight\n* Rat Imperial Guard Spirit",
+    "img_below_text": "## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Rat_Imperial_Guard_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Rat Imperial Guard Fight\n* Rat Imperial Guard Spirit\"\n            - Following Text: \"## Rat Imperial Guard Location\nThe Rat Imperial Guard is accessible after defeating the Tiger Vanguard at Crouching Tiger Temple. After winning that fight, head out the back of Crouching Tiger Temple and work your way through the town that the path winds through. The Rat Imperial Guard is perched on a roof at the end of the town.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Rat_Imperial_Guard_Fight.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dynamic scene from a video game, showcasing the Rat Imperial Guard Spirit in action. The setting appears to be a rustic, ancient town, with the player character engaged in combat against the ethereal, red-clad spirits. This battle is part of the narrative progression, occurring after the player defeats the Tiger Vanguard at Crouching Tiger Temple and navigates through the town to encounter the Rat Imperial Guard. The image captures the intensity and mystical elements of the game, highlighting the player's journey through challenging adversaries."
+}

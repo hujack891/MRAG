@@ -1,0 +1,28 @@
+{
+    "chunk_id": 937058159513,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg",
+    "alt_text": "Tonifying Decoction .jpg",
+    "position_desc": 22,
+    "img_above_text": "![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Tonifying Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Formula | Formula found in Bitter Lake in The New West by The Percept Corridor Shrine, straight ahead in the box on the table",
+    "img_below_text": "![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Body-Fleeting Powder | Epic | Formula | Formula found in Temple Entrance in New Thunderclap Temple in The New West past a small wooden bridge in a box in the building ahead from the Shrine\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Essence Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 3 - The New West",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Tonifying Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Enhanced Tiger Subduing Pellets | Epic | Formula | Formula found in Bitter Lake in The New West by The Percept Corridor Shrine, straight ahead in the box on the table\"\n            - Following Text: \"![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Body-Fleeting Powder | Epic | Formula | Formula found in Temple Entrance in New Thunderclap Temple in The New West past a small wooden bridge in a box in the building ahead from the Shrine\n![Tonifying Decoction .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg)| Essence Decoction | Rare | Formula | Formula bought from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 3 - The New West\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/ba/Tonifying_Decoction_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a formula document related to various medicinal concoctions in the game \"Black Myth: Wukong.\" It serves as a visual representation of in-game items such as the \"Tonifying Decoction,\" \"Enhanced Tiger Subduing Pellets,\" \"Body-Fleeting Powder,\" and \"Essence Decoction.\" These formulas can be acquired through specific locations or characters within the game, such as Xu Dog in the Crouching Tiger Temple or found in designated areas like Bitter Lake and New Thunderclap Temple. The image likely illustrates the appearance of these formula documents, which are integral to the player's progression and strategy in the game."
+}

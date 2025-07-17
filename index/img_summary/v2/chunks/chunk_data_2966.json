@@ -1,0 +1,28 @@
+{
+    "chunk_id": 748317268772,
+    "source_file": "The_Stone_Monkey.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png",
+    "alt_text": "Water Curtain Cave Walkthrough \\(25\\).png",
+    "position_desc": 19,
+    "img_above_text": "![Water Curtain Cave Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png)\nWhen his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.",
+    "img_below_text": "This will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.\n![Water Curtain Cave Walkthrough \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 19 from the file 'The_Stone_Monkey.md'.\n\n            Context:\n            - Preceding Text: \"![Water Curtain Cave Walkthrough \\(26\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Water_Curtain_Cave_Walkthrough_%2826%29.png)\nWhen his health is down to around 70%, he will start to disappear occasionally and quickly reappear to catch you off guard. You can watch the ripples in the water to see where he'll approach from and quickly evade.\"\n            - Following Text: \"This will also be the time when he starts to glow slightly, indicating that his attacks will begin to differ. You'll now see that when he punches down on the ground, shockwaves will be sent out. You can jump or roll over these to dodge them.\n![Water Curtain Cave Walkthrough \\(24\\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d4/Water_Curtain_Cave_Walkthrough_%2824%29.png)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Water_Curtain_Cave_Walkthrough_%2825%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a battle between the protagonist and an enemy in a water-filled area at sunset. The enemy is emerging from the water, creating ripples that can be used to anticipate its movements. This visual accompanies the narrative describing the enemy's behavior when its health is reduced to around 70%, including disappearing and reappearing to catch the player off guard, and later glowing to signal a change in attack patterns."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 872806402510,
+    "source_file": "Lang-Li-Guhh-Baw.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg",
+    "alt_text": "Wukong Sandgate 18.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\nThese can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.",
+    "img_below_text": "If instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\n![Wukong Sandgate 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Lang-Li-Guhh-Baw.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Sandgate 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_Sandgate_19.jpg)\nThese can be incredibly hard to dodge accurately, and is a good case for using the Pillar Stance to gain height off the floor and out of reach of the electric tadpoles.\"\n            - Following Text: \"If instead the frog lets loose a giant croak and raises its body up, it will summon a lightning storm that will rain down around the arena. Look for the signs of an imminent strike to dodge around them as they crash down.\n![Wukong Sandgate 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Sandgate_20.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Sandgate_18.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a battle scene from *Black Myth: Wukong*, showcasing the player character facing off against a large frog-like enemy named \"Lang-Li-Guhh-Baw\" in a watery arena. The frog is unleashing electric attacks, with bolts of lightning striking the ground and illuminating the environment. The player appears to be dodging or preparing to counter the attack, emphasizing the need for strategic movement and positioning.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the challenging mechanics of the boss fight, where the frog enemy uses electric attacks, such as summoning lightning strikes and electric tadpoles, to create hazards for the player. It ties into the preceding and following text, which advises players on using techniques like the Pillar Stance to avoid these attacks and watching for signs of impending lightning strikes to dodge effectively."
+}

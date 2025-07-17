@@ -1,0 +1,28 @@
+{
+    "chunk_id": 330106768910,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Mad_Tiger.jpg",
+    "alt_text": "Mad Tiger.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Mad Tiger Fight\n* Mad Tiger Spirit",
+    "img_below_text": "## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Mad_Tiger_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Mad Tiger Fight\n* Mad Tiger Spirit\"\n            - Following Text: \"## Mad Tiger Location\nThe Mad Tiger is waiting at the bottom of a well in Yellow Wind Ridge, but reaching it is quite the process. To begin the Mad Tiger quest, you must first defeat the Tiger's Acolyte and collect his Spirit along with an item called the Old Rattle Drum.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Mad_Tiger.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from a video game, where the player character is confronting a large, menacing creature labeled \"Mad Tiger\" in a dimly lit, cavernous environment with water on the ground. The preceding and following text suggest that this fight is part of the \"Mad Tiger Spirit\" quest, which involves defeating the Mad Tiger and its acolyte to progress. The image emphasizes the dramatic and challenging nature of the encounter."
+}

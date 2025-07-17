@@ -1,0 +1,28 @@
+{
+    "chunk_id": 808968121216,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Thunderclap_1.jpg",
+    "alt_text": "Wukong Thunderclap 1.jpg",
+    "position_desc": 1,
+    "img_above_text": "The temple is a sprawling complex teeming with Yellowbrow's minions, and is comprised of three main plazas leading to the large pagoda tower in the distance, with additional and optional areas on both sides as you make your way up.\n## Temple Entrance",
+    "img_below_text": "With Captain Kalpa-Wave defeated, you can head through the temple entrance to find the Temple Entrance Shrine to the left. There's a large entry courtyard area here, with another gate straight ahead, and some optional spots to explore on both sides.\n![Wukong Thunderclap 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"The temple is a sprawling complex teeming with Yellowbrow's minions, and is comprised of three main plazas leading to the large pagoda tower in the distance, with additional and optional areas on both sides as you make your way up.\n## Temple Entrance\"\n            - Following Text: \"With Captain Kalpa-Wave defeated, you can head through the temple entrance to find the Temple Entrance Shrine to the left. There's a large entry courtyard area here, with another gate straight ahead, and some optional spots to explore on both sides.\n![Wukong Thunderclap 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_Thunderclap_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_Thunderclap_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing the protagonist approaching the entrance of the Thunderclap Temple. The temple is a large, intricate structure set against a snowy mountainous backdrop, emphasizing its grandeur and the journey ahead. This image serves to illustrate the player's progression after defeating Captain Kalpa-Wave, highlighting the next phase of exploration within the temple complex."
+}

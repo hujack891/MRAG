@@ -1,0 +1,28 @@
+{
+    "chunk_id": 586490893545,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_MadTiger_23.jpg",
+    "alt_text": "Wukong MadTiger 23.jpg",
+    "position_desc": 10,
+    "img_above_text": "He may not have a sword, but the Mad Tiger’s fists work just fine, and can employ many combo attacks. His most common one starts with an uppercut punch, and then a downward strike after a short pause, and is then followed by a huge sweeping claw swipe that spins him around. If you want to try using Rock Solid, save it for the swipe so he doesn’t attack through his first two swings.\nAnnoyingly, he can also employ a similar strike with only the first two hits, but at a much more rapid pace.",
+    "img_below_text": "He also has a different combo strike that often begins with a downward fist punch, followed by two large horizontal claw swipes that spin his body, and ends with him ripping his fist out of the ground in a rising swipe as he leaps backward with the momentum. Immobilize him before he can retreat if you want to retaliate.\n![Wukong MadTiger 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_MadTiger_12.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"He may not have a sword, but the Mad Tiger’s fists work just fine, and can employ many combo attacks. His most common one starts with an uppercut punch, and then a downward strike after a short pause, and is then followed by a huge sweeping claw swipe that spins him around. If you want to try using Rock Solid, save it for the swipe so he doesn’t attack through his first two swings.\nAnnoyingly, he can also employ a similar strike with only the first two hits, but at a much more rapid pace.\"\n            - Following Text: \"He also has a different combo strike that often begins with a downward fist punch, followed by two large horizontal claw swipes that spin his body, and ends with him ripping his fist out of the ground in a rising swipe as he leaps backward with the momentum. Immobilize him before he can retreat if you want to retaliate.\n![Wukong MadTiger 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e3/Wukong_MadTiger_12.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_MadTiger_23.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense battle scene from *Black Myth: Wukong*, showcasing the protagonist engaged in combat with the Mad Tiger, a large, ferocious beast. The Mad Tiger is mid-attack, with sparks and motion effects emphasizing the ferocity of its strikes. The player character, armed with a staff, is positioned to retaliate, while the game's UI displays health bars and abilities, suggesting active gameplay.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image visually complements the preceding and following text, illustrating the Mad Tiger's aggressive combo attacks described in the context. It highlights the dynamic and strategic nature of the fight, where players must time their defenses and counterattacks carefully, especially during the Mad Tiger's sweeping claw swipes and rapid strikes. This serves to immerse players in the game's action-packed combat mechanics and the challenge of facing formidable enemies."
+}

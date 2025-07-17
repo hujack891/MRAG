@@ -1,0 +1,28 @@
+{
+    "chunk_id": 218008829759,
+    "source_file": "Earth_Wolf.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Sandgate_40.jpg",
+    "alt_text": "Wukong Sandgate 40.jpg",
+    "position_desc": 5,
+    "img_above_text": "It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.",
+    "img_below_text": "The Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.\n![Wukong Sandgate 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Earth_Wolf.md'.\n\n            Context:\n            - Preceding Text: \"It can also try to perform a short distance pounce to land on top of you, which moves much quicker than its headbutt leap. If you can evade this one, it will waste time looking around to find that it missed its grab, letting you get your hits in.\nHowever, if you get locked in the grab, you’ll be tossed up in the air and land right on its bony back and horns, taking major damage as it shakes you off. Watch for both of its paws to reach out to know when to dodge this move.\"\n            - Following Text: \"The Earth Wolf can also perform two short lunging bite attacks in fairly quick succession, moving itself forward with each bite to try and lock onto you.\n![Wukong Sandgate 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Wukong_Sandgate_44.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a9/Wukong_Sandgate_40.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts a tense moment from *Black Myth: Wukong*, showcasing a player character evading an attack from the Earth Wolf, a large, menacing creature. The Earth Wolf is mid-motion, likely preparing for a pounce or bite attack, as described in the preceding and following text. The environment features a desolate, autumnal battlefield with traditional Chinese architecture in the background, adding to the game's atmospheric tone.\n\n2. **Purpose/Narrative Role**:  \nThe image visually complements the gameplay mechanics and strategies discussed in the text, illustrating the Earth Wolf's aggressive moves and the player's need to dodge effectively to avoid damage. It serves to immerse the viewer in the game's combat dynamics and the intensity of the encounter."
+}

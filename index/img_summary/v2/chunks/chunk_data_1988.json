@@ -1,0 +1,28 @@
+{
+    "chunk_id": 432303961854,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/The_Bottom_Pagoda_Realm_Meditation_Spot.jpg",
+    "alt_text": "The Bottom Pagoda Realm Meditation Spot.jpg",
+    "position_desc": 11,
+    "img_above_text": "### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot",
+    "img_below_text": "This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Bottom, Pagoda Realm Meditation Spot\nThe Bottom, Pagoda Realm Meditation Spot\"\n            - Following Text: \"This Meditation Spot is somewhat hidden and only accessible after you've completed the Pagoda Realm. Once you've completed the Pagoda and defeated Captain Wise-Voice, follow the path out of the area until you reach a Celestial Taiyi Pill in a chest. Smash the fence behind it and head into a large, open area containing the Meditation Spot.\n### The Statue, Precept Corridor Meditation Spot\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4d/The_Bottom_Pagoda_Realm_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy, secluded Meditation Spot in the Pagoda Realm, accessible only after completing the area and defeating Captain Wise-Voice. The player character stands near a barren tree and a small altar, holding a glowing weapon, with an option to \"Meditate\" visible on the screen. This location serves as a hidden reward area, offering a tranquil moment for reflection and gameplay progression after smashing a fence and discovering the Celestial Taiyi Pill."
+}

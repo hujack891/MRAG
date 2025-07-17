@@ -1,0 +1,28 @@
+{
+    "chunk_id": 516252495057,
+    "source_file": "Red_Tides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-2.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.",
+    "img_below_text": "* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\n![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Red_Tides.md'.\n\n            Context:\n            - Preceding Text: \"The Spell allows you to transform into a wolf guai and inflict Scorch Bane on the enemy with each attack. Red Tides' moveset is as follows:\n* **Light Attack: Moon Dance - Continuously slash at the enemy building up Focus.** This is a fast flurry of swings with Red Tides' blade that can stun-lock an enemy and catch them off guard from behind.\"\n            - Following Text: \"* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\n![Black-myth-wukong-red-tides-1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Black-myth-wukong-red-tides-2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing the character Red Tides in combat. Red Tides is performing the Light Attack \"Moon Dance,\" which involves continuously slashing at an enemy to build up Focus. The image illustrates the dynamic and intense nature of this attack, highlighting the game's combat mechanics and the character's abilities. The preceding and following text provide context for the moveset of Red Tides, emphasizing the strategic use of both Light and Heavy attacks in gameplay."
+}

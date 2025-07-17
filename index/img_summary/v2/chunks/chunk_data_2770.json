@@ -1,0 +1,28 @@
+{
+    "chunk_id": 25366690840,
+    "source_file": "Stone_Essence.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg",
+    "alt_text": "Stone Essence 1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Stone Essence 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Stone_Essence_2.jpg)\nThe Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.",
+    "img_below_text": "However, if you have it, you are probably wondering where you can use it.\n## Where To Use The Stone Essence in Black Myth: Wukong",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Stone_Essence.md'.\n\n            Context:\n            - Preceding Text: \"![Stone Essence 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Stone_Essence_2.jpg)\nThe Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.\"\n            - Following Text: \"However, if you have it, you are probably wondering where you can use it.\n## Where To Use The Stone Essence in Black Myth: Wukong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Stone_Essence_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character standing at the entrance of a cave, which is part of the Fright Cliff - Rockrest Flat area. This location is significant as it leads to the Mother of Stones, a boss character that drops the Stone Essence upon defeat. The image serves to visually guide players to the cave where they can obtain the Stone Essence, an item with a specific use in the game."
+}

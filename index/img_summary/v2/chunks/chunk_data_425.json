@@ -1,0 +1,28 @@
+{
+    "chunk_id": 431199358538,
+    "source_file": "Captain_Wise-Voice.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg",
+    "alt_text": "Wukong Pagoda 87.jpg",
+    "position_desc": 10,
+    "img_above_text": "![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)\nOnce enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.",
+    "img_below_text": "This is your best chance to get in some real damage, but it's worth noting that a big charged heavy strike can sometimes knock it completely out of its dazed state. Instead, build up some more focus with one or two light combos, and then expend all your focus points on a bit charged hit to end its daze, taking off a huge amount of health in the process.\nRepeat the process of damaging its leg, or look for any opportunities to strike at its head -- particularly when it triggers the beguiling chant again to take off a chunk of your maximum HP.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Captain_Wise-Voice.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Wukong_Pagoda_86.jpg)\nOnce enough damage has been sustained to its leg, you'll see its leg start to explode with light, meaning your attacks have successfully staggered the boss. He'll fall to the ground in a heap, with its sphere-like core right in front of you.\"\n            - Following Text: \"This is your best chance to get in some real damage, but it's worth noting that a big charged heavy strike can sometimes knock it completely out of its dazed state. Instead, build up some more focus with one or two light combos, and then expend all your focus points on a bit charged hit to end its daze, taking off a huge amount of health in the process.\nRepeat the process of damaging its leg, or look for any opportunities to strike at its head -- particularly when it triggers the beguiling chant again to take off a chunk of your maximum HP.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_87.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense moment during a boss fight against \"Captain Wise-Voice\" in *Black Myth: Wukong*. The boss, a grotesque creature with tangled, tree-like appendages, is shown in a staggered state, indicated by glowing damage on its leg. This moment aligns with the preceding text, where the player is advised to exploit the staggered state by targeting the exposed core for maximum damage. The following text suggests strategies for dealing significant damage while maintaining the boss's dazed state, emphasizing the importance of timing and focus management during this phase of the battle."
+}

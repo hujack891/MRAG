@@ -1,0 +1,28 @@
+{
+    "chunk_id": 64551532860,
+    "source_file": "Captain_Lotus-Vision.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg",
+    "alt_text": "Wukong Pagoda 46.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.",
+    "img_below_text": "* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Captain_Lotus-Vision.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Wukong_Pagoda_45.jpg)\n* Level 1 - On the path from the first locked cell to the Lower Pagoda Shrine, another locked cell holds a Bandit Chief (like the one you encountered in the Forest of Wolves) that guards a **Treasure Chest** of materials.\"\n            - Following Text: \"* Level 2 - Technically the door is back on level 1, but to reach it you'll need to climb the stairs to level 2 and left to find a pit leading back down to the first floor. Here you'll find a cell you can now open, and inside is a Red-Haired Yaksha guarding a **Treasure Chest** with a Mind Core and materials.\n![Wukong Pagoda 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/db/Wukong_Pagoda_48.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Wukong_Pagoda_46.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts two key moments in a player's progression through the Wukong Pagoda area in *Black Myth: Wukong*. On the left, the protagonist is seen climbing or navigating a rocky pit, likely representing the descent to the first floor. On the right, the protagonist faces a locked cell containing a Red-Haired Yaksha guarding a treasure chest, highlighted by a red circle.\n\n2. **Purpose/Content/Narrative Role**:  \nThe image illustrates the player's journey through the pagoda, emphasizing exploration and combat. The left panel highlights the traversal mechanics required to access the lower level, while the right panel showcases the challenge of defeating the Yaksha to claim the treasure chest containing valuable items like a Mind Core and materials. This provides visual context for the accompanying text's description of Level 2 exploration and rewards."
+}

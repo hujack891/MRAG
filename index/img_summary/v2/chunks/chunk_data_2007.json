@@ -1,0 +1,28 @@
+{
+    "chunk_id": 856791861108,
+    "source_file": "Mind_Core.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Tiger_6.jpg",
+    "alt_text": "Wukong Tiger 6.jpg",
+    "position_desc": 6,
+    "img_above_text": "### Mind Core Location 5\nWithin Chapter 2 - Yellow Wind Ridge, you will reach the Crouching Tiger Temple. At the top of it, you will fight the Tiger Vanguard. Defeating this boss will give you a Mind Core.",
+    "img_below_text": "### Mind Core Location 6\nThe next Mind Core is located along the Fright Cliff \\- Squall Hideout Shrine path in Yellow Wind Ridge. From the Shrine, on your right, you can find a small hill.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Mind_Core.md'.\n\n            Context:\n            - Preceding Text: \"### Mind Core Location 5\nWithin Chapter 2 - Yellow Wind Ridge, you will reach the Crouching Tiger Temple. At the top of it, you will fight the Tiger Vanguard. Defeating this boss will give you a Mind Core.\"\n            - Following Text: \"### Mind Core Location 6\nThe next Mind Core is located along the Fright Cliff \\- Squall Hideout Shrine path in Yellow Wind Ridge. From the Shrine, on your right, you can find a small hill.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_Tiger_6.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a boss fight against the Tiger Vanguard in the Crouching Tiger Temple, located in Yellow Wind Ridge. This encounter is part of the quest to obtain the fifth Mind Core in Chapter 2. The player character is engaged in combat with the tiger-like enemy, emphasizing the intense and challenging nature of this battle. Defeating the Tiger Vanguard rewards the player with a Mind Core, advancing the narrative progression."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 83233235370,
+    "source_file": "First_Prince_of_Flowing_Sands.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+    "alt_text": "Wukong Sandgate 63.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Rewards: Arhat Hold Piece, Silk x2, Yarn x2, 1102 Experience, 1020 Will\n## Where to Find First Prince of Flowing Sands",
+    "img_below_text": "While you can find the First Prince of Flowing Sands in the Valley of Despair beyond the Sandgate Village in Chapter 2's Yellow Wind Ridge. However, depending on how you deal with his father and brother - the King of Flowing Sands and Second Rat Prince - there are a few ways he can appear.\nIf you didn't kill the King during the previous fight and only defeated the Second Rat Prince, the King will have fled -- to this very area in fact. When you approach, he'll summon his son, but meet an untimely demise.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'First_Prince_of_Flowing_Sands.md'.\n\n            Context:\n            - Preceding Text: \"* Rewards: Arhat Hold Piece, Silk x2, Yarn x2, 1102 Experience, 1020 Will\n## Where to Find First Prince of Flowing Sands\"\n            - Following Text: \"While you can find the First Prince of Flowing Sands in the Valley of Despair beyond the Sandgate Village in Chapter 2's Yellow Wind Ridge. However, depending on how you deal with his father and brother - the King of Flowing Sands and Second Rat Prince - there are a few ways he can appear.\nIf you didn't kill the King during the previous fight and only defeated the Second Rat Prince, the King will have fled -- to this very area in fact. When you approach, he'll summon his son, but meet an untimely demise.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character navigating a desolate, rocky terrain in a game environment, likely approaching the Valley of Despair beyond Sandgate Village. This area is tied to the quest involving the First Prince of Flowing Sands, who appears depending on prior interactions with his father, the King of Flowing Sands, and his brother, the Second Rat Prince. The image visually represents the setting where the narrative unfolds, highlighting the rugged landscape and the tension of an impending encounter."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 138961595452,
+    "source_file": "Mad_Tiger.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_MadTiger_16.jpg",
+    "alt_text": "Wukong MadTiger 16.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong MadTiger 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_MadTiger_15.jpg)\nAfter beating on him for bit, you may sometimes hear him yell out in anger, which will be a quick tell that he’s about to perform an ear-shattering roar that can damage you if you’re near him, and will also cause rocks to fall from the ceiling onto you, and will require quick thinking to avoid.",
+    "img_below_text": "In this rage-filled state, he’ll unleash even more leaping attacks, like a foot-first jump ending in a slam with his right arm, before spiraling upward with another rising claw swipe as he propels himself into the air, and back down onto you for a huge slam that will shatter the earth around the point of impact.\n![Wukong MadTiger 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_MadTiger_17.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Mad_Tiger.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong MadTiger 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_MadTiger_15.jpg)\nAfter beating on him for bit, you may sometimes hear him yell out in anger, which will be a quick tell that he’s about to perform an ear-shattering roar that can damage you if you’re near him, and will also cause rocks to fall from the ceiling onto you, and will require quick thinking to avoid.\"\n            - Following Text: \"In this rage-filled state, he’ll unleash even more leaping attacks, like a foot-first jump ending in a slam with his right arm, before spiraling upward with another rising claw swipe as he propels himself into the air, and back down onto you for a huge slam that will shatter the earth around the point of impact.\n![Wukong MadTiger 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_MadTiger_17.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Wukong_MadTiger_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the game \"Black Myth: Wukong,\" showcasing the Mad Tiger in an enraged state. The Mad Tiger is captured mid-action, likely performing a powerful attack, as suggested by the surrounding text. The preceding text describes his roar that causes rocks to fall, while the following text details his aggressive leaping attacks. This image illustrates the intensity and danger of the encounter, emphasizing the player's need for quick reflexes and strategic thinking to survive the Mad Tiger's assault."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 520896379700,
+    "source_file": "Falcon_Hermit_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Falcon_Hermit_2.jpg",
+    "alt_text": "Falcon Hermit 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Falcon Hermit Fight Guide\n* Falcon Hermit Spirit Power",
+    "img_below_text": "## Falcon Hermit Location\nInstead of continuing up the steps to the Warding Temple from the Warding Temple Keeper's Shrine, turn to the side and drop down to the snowy hill below. Start working your way up the hill. The Falcon Hermit will appear on top of a rock on the left.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Falcon_Hermit_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Falcon Hermit Fight Guide\n* Falcon Hermit Spirit Power\"\n            - Following Text: \"## Falcon Hermit Location\nInstead of continuing up the steps to the Warding Temple from the Warding Temple Keeper's Shrine, turn to the side and drop down to the snowy hill below. Start working your way up the hill. The Falcon Hermit will appear on top of a rock on the left.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/15/Falcon_Hermit_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense combat scene involving the Falcon Hermit, a winged humanoid enemy, in a snowy environment. The character is glowing with energy, suggesting the use of special abilities or spirit power during the fight. This visual supports the preceding text about the Falcon Hermit Fight Guide and Spirit Power, and aligns with the following text describing the Falcon Hermit's location near a snowy hill below the Warding Temple Keeper's Shrine."
+}

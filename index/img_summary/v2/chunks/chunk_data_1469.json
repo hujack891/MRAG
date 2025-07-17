@@ -1,0 +1,28 @@
+{
+    "chunk_id": 847193834866,
+    "source_file": "Green-Capped_Martialist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg",
+    "alt_text": "Wukong Brook 11.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nThis secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.",
+    "img_below_text": "When you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.\n![Wukong Martial 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Green-Capped_Martialist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 6.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Brook_6.jpg)\nThis secret spot can be found by going right down the hill from the Forest of Felicity and down to the end of the Brook of Bliss' stream.\"\n            - Following Text: \"When you reach a cliff with some braziers, look down to find a spot to drop into a large open cave with a large Buddha Statue.\n![Wukong Martial 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Wukong_Martial_1.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Brook_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts the player character from *Black Myth: Wukong* standing on a snowy cliff edge, surrounded by rocky terrain and lit braziers. It serves as a visual guide for navigating a specific area in the game, where players are instructed to descend from the Forest of Felicity towards the Brook of Bliss and eventually drop into a large cave with a Buddha statue. The image highlights the precarious cliff environment and the player's position as part of the exploration path."
+}

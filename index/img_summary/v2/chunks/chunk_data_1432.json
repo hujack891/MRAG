@@ -1,0 +1,28 @@
+{
+    "chunk_id": 524963499809,
+    "source_file": "Gold_Ridge_Beast.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg",
+    "alt_text": "Gold Ridge Beast 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "The Gold Ridge Beast is one of the Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the highest rarity of Treasure and there is only one in the game.",
+    "img_below_text": "The Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.\n![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Gold_Ridge_Beast.md'.\n\n            Context:\n            - Preceding Text: \"The Gold Ridge Beast is one of the Treasures in Black Myth: Wukong. Unlike other Crafting Materials, this can be sold as soon as you get it.\nThe item has no practical use, besides giving you some extra Will once sold. This is the highest rarity of Treasure and there is only one in the game.\"\n            - Following Text: \"The Gold Ridge Beast can be found in Chapter 2 - Yellow Wind Ridge within the secret Kingdom of Shahali area. It is located in a chest on the far side of the area. You must open this chest before you defeat Fuban as the area becomes inaccessible once the boss is defeated.\n![Gold Ridge Beast 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8c/Gold_Ridge_Beast_2.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image showcases the \"Gold Ridge Beast,\" an epic treasure item in *Black Myth: Wukong*. It is displayed in the game's inventory screen, emphasizing its rarity and description: \"The gold ridge beast once perched on the roof of a Buddha Hall. Maybe it can be exchanged for something valuable.\" The preceding and following text highlights its role as a unique, sellable treasure found in Chapter 2 within the secret Kingdom of Shahali area, offering extra Will upon sale but having no other practical use."
+}

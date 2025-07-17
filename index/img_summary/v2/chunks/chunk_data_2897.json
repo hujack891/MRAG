@@ -1,0 +1,28 @@
+{
+    "chunk_id": 57616657320,
+    "source_file": "The_Duskveil.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_PurpleCloud_60.jpg",
+    "alt_text": "Wukong PurpleCloud 60.jpg",
+    "position_desc": 8,
+    "img_above_text": "![Wukong PurpleCloud 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_PurpleCloud_59.jpg)\nFinally, the Duskveil can also performing a dashing charge attack, running past you back and forth like a bull up to four times.",
+    "img_below_text": "These charges can be deflected or dodged, and after the fourth charge he'll stumble to the ground where you'll have a big chance to unleash some damage.\nWhen you deplete its health bar, a new phase will begin as a Blood Moon pierces the sky, making things look especially eerie. In reality, not too much will change for this second phase, except some bold new moves where The Duskveil pulls out a skeletal sword from its own mouth!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 8 from the file 'The_Duskveil.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong PurpleCloud 59.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_PurpleCloud_59.jpg)\nFinally, the Duskveil can also performing a dashing charge attack, running past you back and forth like a bull up to four times.\"\n            - Following Text: \"These charges can be deflected or dodged, and after the fourth charge he'll stumble to the ground where you'll have a big chance to unleash some damage.\nWhen you deplete its health bar, a new phase will begin as a Blood Moon pierces the sky, making things look especially eerie. In reality, not too much will change for this second phase, except some bold new moves where The Duskveil pulls out a skeletal sword from its own mouth!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d1/Wukong_PurpleCloud_60.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image:**\nThe image depicts a scene from the game \"Black Myth: Wukong\" where the player character, Wukong, is engaged in combat with a large skeletal creature known as The Duskveil. The creature is sprawled on the ground, seemingly defeated or in a vulnerable state, while Wukong prepares for an attack.\n\n2. **Purpose, Content, or Narrative Role:**\nThe image illustrates a critical moment in the battle against The Duskveil, highlighting the creature's vulnerability after performing a series of dashing charge attacks. This moment provides the player with an opportunity to inflict significant damage before the next phase of the fight begins, marked by a Blood Moon and new, more challenging moves from The Duskveil."
+}

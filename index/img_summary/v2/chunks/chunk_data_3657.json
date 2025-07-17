@@ -1,0 +1,28 @@
+{
+    "chunk_id": 287915731678,
+    "source_file": "Yellowbrow.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_76.jpg",
+    "alt_text": "Wukong Thunderclap 76.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.",
+    "img_below_text": "After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Yellowbrow.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 75.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Thunderclap_75.jpg)\nAt range, he'll often swing his mace upward several times, sending electrical currents along the ground toward you. They aren't too bad to deal with, so long as you strafe to the side as you advance and avoid their paths.\"\n            - Following Text: \"After fighting for a bit, Yellowbrow will often vanish into thin air, but you can get a heads up on where he's going by looking for his shadow on the ground and which direction it darts off to.\n![Wukong Thunderclap 78.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Thunderclap_78.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_Thunderclap_76.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game *Black Myth: Wukong*, showcasing the boss \"Yellowbrow\" in a richly detailed temple environment. The red arrow highlights a shadow on the ground, which serves as a visual cue indicating Yellowbrow's teleportation direction during the fight. This aligns with the preceding and following text, which describes Yellowbrow's combat mechanics, including ranged electrical attacks and his ability to vanish and reappear based on his shadow's movement."
+}

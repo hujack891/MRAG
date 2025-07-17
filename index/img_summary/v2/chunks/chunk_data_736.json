@@ -1,0 +1,28 @@
+{
+    "chunk_id": 624563951311,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg",
+    "alt_text": "Yarn .jpg",
+    "position_desc": 4,
+    "img_above_text": "![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)",
+    "img_below_text": "![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Silk .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg)| Silk| Rare | General armor upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Small Piece of Gold .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Small_Piece_of_Gold_.jpg)| Small Piece of Gold| Rare | Treasure - Sellable | • In chests • Dropped from enemies\n![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\"\n            - Following Text: \"![Stone Spirit .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg)| Stone Spirit| Uncommon | General weapon crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\n![Silk .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg)| Silk| Rare | General armor upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a spool of Silk, a rare crafting material used for upgrading armor in the game \"Black Myth: Wukong.\" Silk can be obtained by defeating Yaoguai Chiefs, Kings, and other enemies. It serves as a crucial resource for players looking to enhance their armor and improve their defensive capabilities."
+}

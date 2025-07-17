@@ -1,0 +1,28 @@
+{
+    "chunk_id": 901029683788,
+    "source_file": "Verdant_Glow_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Verdant_Glow_pic.jpg",
+    "alt_text": "Verdant Glow pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Verdant Glow Fight\n* Verdant Glow Spirit",
+    "img_below_text": "## Verdant Glow Location\nVerdant Glow is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Verdant_Glow_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Verdant Glow Fight\n* Verdant Glow Spirit\"\n            - Following Text: \"## Verdant Glow Location\nVerdant Glow is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Verdant_Glow_pic.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts a scene from a video game where a player character is engaged in combat with a large, tree-like creature known as the Verdant Glow Spirit. The environment is a lush, forested area with autumnal colors.\n\n2. **Purpose, Content, or Narrative Role**: The image serves to illustrate the \"Verdant Glow Spirit\" mentioned in the preceding text, providing a visual representation of the creature the player must fight. It sets the stage for the subsequent section, which describes the location and steps needed to reach the secret area where this encounter takes place."
+}

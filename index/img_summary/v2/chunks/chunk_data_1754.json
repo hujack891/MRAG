@@ -1,0 +1,28 @@
+{
+    "chunk_id": 123961756298,
+    "source_file": "Kang-Jin_Star.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Turtle_13.jpg",
+    "alt_text": "Wukong Turtle 13.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong Turtle 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Turtle_12.jpg)\nExpect her to get more aggressive in this second half, expelling more lightning at the end of some of her close-combat attacks that require more dodging and less room for counters. You can still use Immobilize to keep her from floating away, however.",
+    "img_below_text": "Another move she can now perform in her enhanced state is to expel a bunch of those serpent-like electric projectiles straight up from her body, which will twist in the air before coming back down to track you, and will require you taking some evasive action.\n![Wukong Turtle 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Turtle_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Kang-Jin_Star.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Turtle_12.jpg)\nExpect her to get more aggressive in this second half, expelling more lightning at the end of some of her close-combat attacks that require more dodging and less room for counters. You can still use Immobilize to keep her from floating away, however.\"\n            - Following Text: \"Another move she can now perform in her enhanced state is to expel a bunch of those serpent-like electric projectiles straight up from her body, which will twist in the air before coming back down to track you, and will require you taking some evasive action.\n![Wukong Turtle 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Wukong_Turtle_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/78/Wukong_Turtle_13.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts a dramatic moment from *Black Myth: Wukong*, showcasing the \"Kang-Jin Star\" boss fight. The scene features a dark, stormy environment with lightning streaks emanating across the battlefield, emphasizing the boss's enhanced state and electric attacks. The player character is positioned near a rocky structure, preparing to evade or counter the incoming threats.\n\n2. **Purpose/Narrative Role**:  \nThe image illustrates the escalating intensity of the boss battle, where the \"Kang-Jin Star\" employs more aggressive lightning-based attacks. It visually complements the preceding text about dodging close-combat attacks and the following text describing serpent-like electric projectiles, reinforcing the player's need for strategic evasion and adaptability."
+}

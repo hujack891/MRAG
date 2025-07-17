@@ -1,0 +1,28 @@
+{
+    "chunk_id": 368912095084,
+    "source_file": "Valley_of_Ecstasy_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Karma_23.jpg",
+    "alt_text": "Wukong Karma 23.jpg",
+    "position_desc": 96,
+    "img_above_text": "![Wukong Karma 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Karma_22.jpg)\nNearing a large gate in the distance, look for a clearing on the left near a large tree and small stone monument where you can find a **Treasure Chest** with materials in it. Just beware of a Lesser Apramana Bat lurking in the bushes nearby that will try to pounce on you.",
+    "img_below_text": "Eventually you'll come to a much larger gate manned by two Wolf Guardians who will jump down to stop you from entering. Their attacks can come fast and overwhelming on both sides, so try to isolate one with Immobilize and focus fire the other down to take them on one at a time.\nBeyond this large gate lies the final sub-region leading to the New Thunderclap Temple.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 96 from the file 'Valley_of_Ecstasy_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Karma_22.jpg)\nNearing a large gate in the distance, look for a clearing on the left near a large tree and small stone monument where you can find a **Treasure Chest** with materials in it. Just beware of a Lesser Apramana Bat lurking in the bushes nearby that will try to pounce on you.\"\n            - Following Text: \"Eventually you'll come to a much larger gate manned by two Wolf Guardians who will jump down to stop you from entering. Their attacks can come fast and overwhelming on both sides, so try to isolate one with Immobilize and focus fire the other down to take them on one at a time.\nBeyond this large gate lies the final sub-region leading to the New Thunderclap Temple.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Wukong_Karma_23.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing the protagonist approaching a large, ornate gate set in a snowy landscape. This gate marks a transition point in the game, leading to a new area. The preceding text suggests the player has just encountered a treasure chest and a lurking enemy, while the following text warns of two Wolf Guardians who will challenge the player at this gate. The image captures the moment before this confrontation, emphasizing the game's narrative progression and the challenges that lie ahead."
+}

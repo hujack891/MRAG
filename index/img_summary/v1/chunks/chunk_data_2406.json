@@ -1,31 +1,6 @@
 {
-    "chunk_id": 333307680587,
-    "source_file": "Red_Boy.md",
-    "h1_title": "Red Boy",
-    "h2_title": "How to Find Red Boy",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/FIeld_Fire_Walkthrough_%2846%29.png",
-    "alt_text": "FIeld Fire Walkthrough \\(46\\).png",
-    "position_desc": 0,
-    "img_above_text": "# Red Boy\nRed Boy is one of the Yaoguai Kings you'll need to fight at the end of Chapter 5 in Black Myth: Wukong. This agile fighter will use flames and duplicates to try and overwhelm you during this heated altercation at the end of the chapter.\n## How to Find Red Boy",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Red_Boy.md', located under How to Find Red Boy.\n\n                Metadata:\n                - Document Title: Red Boy\n                - Section Title: How to Find Red Boy\n                - Alt Text: FIeld Fire Walkthrough \\(46\\).png\n\n                Context:\n                - Preceding Text: \"# Red Boy\nRed Boy is one of the Yaoguai Kings you'll need to fight at the end of Chapter 5 in Black Myth: Wukong. This agile fighter will use flames and duplicates to try and overwhelm you during this heated altercation at the end of the chapter.\n## How to Find Red Boy\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/FIeld_Fire_Walkthrough_%2846%29.png",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a dark, rocky landscape with streams of flowing lava, creating a fiery and ominous atmosphere. A character in armor stands in the foreground, facing a path that leads through the treacherous terrain. This scene is likely from the game \"Black Myth: Wukong\" and illustrates the environment players must navigate to find and confront Red Boy, a significant antagonist in Chapter 5. The red arrow in the image indicates the direction players should follow to reach their destination."
+    "chunk_id": 460227773392,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_LowerHollow_65.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is wielding a flaming sword, suggesting readiness for combat or exploration. The character is dressed in detailed armor and carries a glowing orb, indicating possible magical abilities or items. The environment is a dimly lit cave with rocky terrain, enhancing the atmosphere of mystery or danger. The user interface shows various icons, likely representing abilities or items, with labels like \"RT\" suggesting control inputs. A health bar is visible at the bottom left, displaying the character's current health status. A red dashed circle highlights a specific area in the cave, possibly indicating a point of interest or objective."
 }

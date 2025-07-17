@@ -1,0 +1,28 @@
+{
+    "chunk_id": 596161825340,
+    "source_file": "Fright_Cliff_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Fright_33.jpg",
+    "alt_text": "Wukong Fright 33.jpg",
+    "position_desc": 29,
+    "img_above_text": "At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### The Fifth Buddha’s Eyeball",
+    "img_below_text": "Upon reaching the end of the large cave system where you’ll find the Mother of Stones, look for a large opening to the right to exit back outside and onto a cliff edge. There’s a raised platform here, and you’ll find another statue head to harvest its Buddha Eyeball.\n### Yaoguai Chief Mini-Boss Fight - Mother of Stones",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 29 from the file 'Fright_Cliff_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"At the end of the cave path, you’ll find the object of the Man-in-Stone’s quest - an even larger statue embedded with shining blue crystals. Don’t get too enraptured that you miss a Poisestone along the walls trying to ambush you, though.\n### The Fifth Buddha’s Eyeball\"\n            - Following Text: \"Upon reaching the end of the large cave system where you’ll find the Mother of Stones, look for a large opening to the right to exit back outside and onto a cliff edge. There’s a raised platform here, and you’ll find another statue head to harvest its Buddha Eyeball.\n### Yaoguai Chief Mini-Boss Fight - Mother of Stones\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Fright_33.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a cliffside area at the exit of a large cave system, leading to an outdoor platform. This location appears to be significant for progression in the game, as it is where players can harvest a Buddha Eyeball from a statue head. The setting transitions to an open environment, preparing players for the Yaoguai Chief mini-boss fight, \"Mother of Stones,\" mentioned in the following text."
+}

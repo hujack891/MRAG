@@ -1,0 +1,28 @@
+{
+    "chunk_id": 772307981222,
+    "source_file": "Centipede_Guai_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg",
+    "alt_text": "Centipede Guai Pic.jpg",
+    "position_desc": 1,
+    "img_above_text": "* Centipede Guai Fight\n* Centipede Guai Spirit",
+    "img_below_text": "## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Centipede_Guai_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Centipede Guai Fight\n* Centipede Guai Spirit\"\n            - Following Text: \"## Centipede Guai Location\nThe Centipede Guai can be found in a massive pit full of skulls called the Bonevault. To reach the Bonevault, head to the Middle Hollow Keeper's Shrine in the Webbed Hollow. Drop down the wooden platform beside the Shrine and head straight forward to drop into the pit of bones.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character engaging in combat with the Centipede Guai, a large, menacing insect-like boss creature in a dark, eerie environment filled with bones and skulls. The preceding text introduces the Centipede Guai Spirit, suggesting it may play a significant role in the narrative or gameplay, while the following text describes its location in the Bonevault, a pit of bones accessible via the Middle Hollow Keeper's Shrine. The image serves to illustrate the encounter with this formidable enemy within its atmospheric setting."
+}

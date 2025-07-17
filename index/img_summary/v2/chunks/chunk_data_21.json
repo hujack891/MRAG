@@ -1,0 +1,28 @@
+{
+    "chunk_id": 214861498551,
+    "source_file": "Ashen_Slumber.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Ashen_Slumber_1.jpg",
+    "alt_text": "Ashen Slumber 1.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Ashen Slumber.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Ashen_Slumber.jpg)\nYou can then, enter the gate to obtain the Transformation from the rat guai's body.",
+    "img_below_text": "",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Ashen_Slumber.md'.\n\n            Context:\n            - Preceding Text: \"![Ashen Slumber.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Ashen_Slumber.jpg)\nYou can then, enter the gate to obtain the Transformation from the rat guai's body.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Ashen_Slumber_1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player character in the game *Black Myth: Wukong* standing before a gated area with an \"Open\" prompt displayed, suggesting interaction. The preceding text indicates that entering this gate allows the player to acquire a transformation ability from the body of a rat-like enemy, tying the image to a key gameplay moment involving progression and character upgrades."
+}

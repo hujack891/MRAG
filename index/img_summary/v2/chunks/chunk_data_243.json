@@ -1,0 +1,28 @@
+{
+    "chunk_id": 717176599402,
+    "source_file": "black-myth-wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+    "alt_text": "WukongHeader.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Black Myth: Wukong Guide",
+    "img_below_text": "**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'black-myth-wukong.md'.\n\n            Context:\n            - Preceding Text: \"# Black Myth: Wukong Guide\"\n            - Following Text: \"**Released (Platforms)**\nAugust 20, 2024 (PC, PS5)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image serves as the title card for a \"Black Myth: Wukong\" guide, showcasing the game's protagonist in ornate armor. It introduces the guide and sets the tone for the detailed information about the game, including its release date and platform availability."
+}

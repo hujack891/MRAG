@@ -1,0 +1,28 @@
+{
+    "chunk_id": 450452235316,
+    "source_file": "Blade_Monk_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Blade_Monk_Location.png",
+    "alt_text": "Blade Monk Location.png",
+    "position_desc": 1,
+    "img_above_text": "* Blade Monk Fight\n* Blade Monk Spirit",
+    "img_below_text": "## Blade Monk Location\nBlade Monk is a Spirit that lurks in the Pagoda Realm. It's easiest to find him after defeating Captain Wise-Voice and clearing the Pagoda. Once you've done so, head to the Outside the Wheel Keeper's Shrine and turn back to face the Pagoda. Head over to the platform on the right, where you will see a single wooden chest.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Blade_Monk_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Blade Monk Fight\n* Blade Monk Spirit\"\n            - Following Text: \"## Blade Monk Location\nBlade Monk is a Spirit that lurks in the Pagoda Realm. It's easiest to find him after defeating Captain Wise-Voice and clearing the Pagoda. Once you've done so, head to the Outside the Wheel Keeper's Shrine and turn back to face the Pagoda. Head over to the platform on the right, where you will see a single wooden chest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Blade_Monk_Location.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a player-character in a dark, rocky environment, preparing to face a group of spectral enemies. This scene likely represents the \"Blade Monk Spirit\" encounter mentioned in the preceding text, showcasing the combat setup and atmosphere of the fight. The following text suggests this is part of the journey through the Pagoda Realm, leading to the Blade Monk's location after clearing earlier challenges."
+}

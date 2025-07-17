@@ -1,0 +1,28 @@
+{
+    "chunk_id": 725529449417,
+    "source_file": "Charface_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Charface_Spirit.png",
+    "alt_text": "Charface Spirit.png",
+    "position_desc": 3,
+    "img_above_text": "Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit",
+    "img_below_text": "* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Charface_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"Charface fights like all other enemies of his type. His weapon of choice is a large, fiery scimitar. Keep an eye on the massive knife, dodging its swings and going in for your own swipes once the combo is finished. Be careful once you've defeated him, as Charface swings two more times after he's killed.\n## Charface Spirit\"\n            - Following Text: \"* **Magma Forged**\n* Equipped Effect: Moderately increases charging speed.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Charface_Spirit.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image showcases the \"Charface\" spirit in a game’s equipment menu. It is a rare spirit with a moderate Qi cost and the ability \"Magma Forged,\" which allows the player to take the form of Charface and unleash a powerful magma attack that damages nearby enemies. The equipped effect moderately increases charging speed. The interface also displays player stats, other spirits, and an option to equip or view a demo of the ability.\n\n2. **Purpose, Content, or Narrative Role**:  \nThe image serves as a detailed overview of the \"Charface\" spirit, highlighting its abilities, effects, and gameplay utility. It complements the preceding text, which describes Charface as an enemy, and the following text, which elaborates on the spirit's equipped effect, providing players with strategic insight into its use."
+}

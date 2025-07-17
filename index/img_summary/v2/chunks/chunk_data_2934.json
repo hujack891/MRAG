@@ -1,0 +1,28 @@
+{
+    "chunk_id": 761793524113,
+    "source_file": "The_Second_Sister.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Lanxi_22.jpg",
+    "alt_text": "Wukong Lanxi 22.jpg",
+    "position_desc": 2,
+    "img_above_text": "Most of The Second Sister's main attack will come from her two front razor-sharp legs, and will be where you will want to focus the bulk (but not all) of your attention. She may often begin the fight by raising up one talon high up to the side, slice down with her two front legs in quick succession, and then rise up into the air to slam down after a delay.\nAnother move she can use at close range is to raise most of her body up on her back legs, and dance down upon you with her front talons to stab the ground multiple times in quick succession. Since it's hard to evade each blow individually, consider using the Thrust Stance to retreat and strike from a distance.",
+    "img_below_text": "When she follows up her mad dance with a giant leap, roll forward to dodge under her slam, and you'll be able to pivot and unleash an attack of your own.\n![Wukong Lanxi 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'The_Second_Sister.md'.\n\n            Context:\n            - Preceding Text: \"Most of The Second Sister's main attack will come from her two front razor-sharp legs, and will be where you will want to focus the bulk (but not all) of your attention. She may often begin the fight by raising up one talon high up to the side, slice down with her two front legs in quick succession, and then rise up into the air to slam down after a delay.\nAnother move she can use at close range is to raise most of her body up on her back legs, and dance down upon you with her front talons to stab the ground multiple times in quick succession. Since it's hard to evade each blow individually, consider using the Thrust Stance to retreat and strike from a distance.\"\n            - Following Text: \"When she follows up her mad dance with a giant leap, roll forward to dodge under her slam, and you'll be able to pivot and unleash an attack of your own.\n![Wukong Lanxi 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Wukong_Lanxi_23.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Lanxi_22.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment from the game \"Black Myth: Wukong,\" where the player character is engaged in a battle with a giant spider-like boss known as \"The Second Sister.\" The scene is set in a dark, eerie environment with the monstrous spider suspended in the air, preparing to attack. The preceding text describes the spider's attack patterns and strategies for evading and countering its moves, while the following text provides further tactical advice for dodging and counterattacking after the spider's leap. The image serves to illustrate the intense and strategic nature of the boss fight."
+}

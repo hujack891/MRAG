@@ -1,0 +1,28 @@
+{
+    "chunk_id": 539217031994,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg",
+    "alt_text": "Wukong Pagoda 105.jpg",
+    "position_desc": 101,
+    "img_above_text": "![Wukong Pagoda 104.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg)\nCrossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.",
+    "img_below_text": "Be sure to check the right corner first to find Tree Pearls to harvest, and a floating green Wisp in the left corner to absorb.\nMaking your way up the snowfield, the winds will die down as the giant titular pagoda of this realm appears to loom up in front of you. This may seem like the main path to advance, but in reality it's more of a teaser.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 101 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Pagoda 104.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Wukong_Pagoda_104.jpg)\nCrossing a short rope bridge high above the gorge you came in through, you'll reach a large rocky snowfield with low visibility due to snowy winds. Many Frozen Corpses are scattered around this area can be tough to pick out as you advance, so move cautiously.\"\n            - Following Text: \"Be sure to check the right corner first to find Tree Pearls to harvest, and a floating green Wisp in the left corner to absorb.\nMaking your way up the snowfield, the winds will die down as the giant titular pagoda of this realm appears to loom up in front of you. This may seem like the main path to advance, but in reality it's more of a teaser.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4e/Wukong_Pagoda_105.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is navigating a snowy, rocky terrain with low visibility due to snowy winds. The character is advancing cautiously through a snowfield, likely searching for hidden Frozen Corpses and other items. The red-circled area in the image highlights a floating green Wisp, which the player can absorb. This scene sets the stage for the upcoming appearance of the giant pagoda, hinting at the main path ahead."
+}

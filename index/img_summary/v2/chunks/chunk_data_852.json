@@ -1,0 +1,28 @@
+{
+    "chunk_id": 168052825551,
+    "source_file": "Cyan_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg",
+    "alt_text": "Wukong Turtle 29.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Turtle 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Turtle_26.jpg)\nExpect him to also utilize his sword slashes in simple 1 or 2 hit attacks, or use his lightning palm attack on its own. His sword swings aren't too fast, but they can blindside you if you aren't ready to break off your attacks or use up all your stamina.",
+    "img_below_text": "Another dangerous attack he can launch with little warning only comes with a small tell -- when he quickly swaps his sword to hold in a reverse grip behind his back. He'll then quickly launch himself through the air at you with a spinning slash that can take a chunk off your health, and then dive back to your position after a moment for sword slice when he reaches the ground.\n![Wukong Turtle 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Turtle_26.jpg)\nExpect him to also utilize his sword slashes in simple 1 or 2 hit attacks, or use his lightning palm attack on its own. His sword swings aren't too fast, but they can blindside you if you aren't ready to break off your attacks or use up all your stamina.\"\n            - Following Text: \"Another dangerous attack he can launch with little warning only comes with a small tell -- when he quickly swaps his sword to hold in a reverse grip behind his back. He'll then quickly launch himself through the air at you with a spinning slash that can take a chunk off your health, and then dive back to your position after a moment for sword slice when he reaches the ground.\n![Wukong Turtle 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Turtle_30.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" featuring a character named Cyan Loong engaging in combat with an enemy. The enemy is shown in mid-air, preparing to strike with a sword held in a reverse grip, indicating a powerful and potentially dangerous attack. The snowy, mountainous landscape in the background adds to the dramatic and intense atmosphere of the encounter. The preceding and following texts describe the enemy's attack patterns and the need for the player to be vigilant and ready to defend against sudden, powerful moves."
+}

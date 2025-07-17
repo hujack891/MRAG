@@ -1,0 +1,28 @@
+{
+    "chunk_id": 4160851987,
+    "source_file": "Medicine_Ingredients.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg",
+    "alt_text": "Black-myth-wukong-golden-lotus.jpg",
+    "position_desc": 14,
+    "img_above_text": "![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards\n![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards",
+    "img_below_text": "![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 14 from the file 'Medicine_Ingredients.md'.\n\n            Context:\n            - Preceding Text: \"![Celestial Pear .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Celestial_Pear_.jpg)| Celestial Pear | Rare | Ingredient | Found in Snowhill Path - Mirrormere from Celestial Pear trees in The New West and onwards\n![Tree Pearl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/67/Tree_Pearl_.jpg)| Tree Pearl | Uncommon | Ingredient | Found in Pagoda Realm - Outside The Wheel in The New West and onwards\"\n            - Following Text: \"![Black-myth-wukong-withered-silkworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a8/Black-myth-wukong-withered-silkworm.jpg)| Withered Silkworm | Uncommon | Ingredient | Found From Golden Lotus Guai in Bitter Lake - Turtle Island in The New West and onwards\n![Black-myth-wukong-fire-date.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Black-myth-wukong-fire-date.jpg)| Fire Date | Uncommon | Ingredient | Found in The Webbed Hollow and onwards\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Black-myth-wukong-golden-lotus.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a unique and possibly rare ingredient, likely from a fantasy or mythical context, as suggested by its unusual appearance. It is part of a collection of ingredients found in the game \"Black Myth: Wukong,\" as indicated by the surrounding text. The image serves to visually represent one of the game's collectible items, which players can find and use within the game's world. This particular item is positioned between descriptions of other ingredients, suggesting it shares a similar role as a collectible or usable resource in the game's narrative."
+}

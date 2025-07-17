@@ -1,0 +1,28 @@
+{
+    "chunk_id": 969541189778,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Black-myth-wukong-gold-sun-crow.jpg",
+    "alt_text": "Black-myth-wukong-gold-sun-crow.jpg",
+    "position_desc": 29,
+    "img_above_text": "![Black-myth-wukong-Tiger-tendon-belt.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Black-myth-wukong-Tiger-tendon-belt.jpg)| Tiger Tendon Belt| Legendary | For a brief moment after seeing through the enemy, considerably increases Attack. | Found in The Webbed Hollow by defeating Tiger Monks, randomly dropped | Tiger Tendon Belt\n![Black-myth-wukong-celestial-registry-tablet.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-celestial-registry-tablet.jpg)| Celestial Registry Tablet| Epic | Slightly increases the experience points you gain from defeating enemies | Found in The Webbed Hollow in Purple Cloud Mountain in a small gazebo in the initial opening area | Celestial Registry Tablet",
+    "img_below_text": "![Black-myth-wukong-preservation-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Black-myth-wukong-preservation-orb.jpg)| Preservation Orb| Epic | For a relatively long duration after resurrection, increases maximum Health, Mana, and Stamina | Found in The Webbed Hollow in a box in the opening area where you gain access to Purple Cloud Mountain\nThis is only accessible after completing Chapter 4, providing you haven't finished the area | Preservation Orb",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 29 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-Tiger-tendon-belt.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Black-myth-wukong-Tiger-tendon-belt.jpg)| Tiger Tendon Belt| Legendary | For a brief moment after seeing through the enemy, considerably increases Attack. | Found in The Webbed Hollow by defeating Tiger Monks, randomly dropped | Tiger Tendon Belt\n![Black-myth-wukong-celestial-registry-tablet.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Black-myth-wukong-celestial-registry-tablet.jpg)| Celestial Registry Tablet| Epic | Slightly increases the experience points you gain from defeating enemies | Found in The Webbed Hollow in Purple Cloud Mountain in a small gazebo in the initial opening area | Celestial Registry Tablet\"\n            - Following Text: \"![Black-myth-wukong-preservation-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c4/Black-myth-wukong-preservation-orb.jpg)| Preservation Orb| Epic | For a relatively long duration after resurrection, increases maximum Health, Mana, and Stamina | Found in The Webbed Hollow in a box in the opening area where you gain access to Purple Cloud Mountain\nThis is only accessible after completing Chapter 4, providing you haven't finished the area | Preservation Orb\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Black-myth-wukong-gold-sun-crow.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an ornate, circular artifact resembling a metallic disc with intricate carvings. Based on the preceding and following text, it is likely a collectible or equipment item from the game *Black Myth: Wukong*. Positioned between descriptions of legendary and epic items, the artifact may serve a significant role in gameplay, potentially enhancing abilities or providing unique effects. Its design suggests cultural or mystical significance within the game's narrative."
+}

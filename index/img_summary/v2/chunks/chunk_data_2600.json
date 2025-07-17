@@ -1,0 +1,28 @@
+{
+    "chunk_id": 311085279815,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black_Myth_Wukong_Secrets_%282%29.png",
+    "alt_text": "Black Myth Wukong Secrets \\(2\\).png",
+    "position_desc": 2,
+    "img_above_text": "Elder Jinchi\n## Red Loong",
+    "img_below_text": "After collecting the Loong Scales in Chapter 2, return to Chapter 1 to find Red Loong. From the Outside the Forest Keeper's Shrine in Forest of Wolves, head to the nearby waterfalls. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\nRed Loong",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Secret_Bosses_in_Black_Myth_Wukong.md'.\n\n            Context:\n            - Preceding Text: \"Elder Jinchi\n## Red Loong\"\n            - Following Text: \"After collecting the Loong Scales in Chapter 2, return to Chapter 1 to find Red Loong. From the Outside the Forest Keeper's Shrine in Forest of Wolves, head to the nearby waterfalls. With the Scales in your possession, you can now enter the waterfall and fight Red Loong.\nRed Loong\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6e/Black_Myth_Wukong_Secrets_%282%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showing a character preparing to engage in battle with a formidable creature, likely the secret boss Red Loong. This encounter occurs after the player collects Loong Scales in Chapter 2 and returns to Chapter 1, as described in the surrounding text. The dark, atmospheric setting and the character's stance suggest an intense and challenging fight ahead."
+}

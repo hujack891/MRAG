@@ -1,0 +1,28 @@
+{
+    "chunk_id": 981109449279,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg",
+    "alt_text": "Black-myth-wukong-ruyi-scroll.jpg",
+    "position_desc": 16,
+    "img_above_text": "![Black-myth-wukong-evil-fortifying-medicament.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg)| Fortifying Medicament | Rare | Upon use, enhances the Tenacity effect of certain staff abilities making them less susceptilble to interruptions for a short duration | • Given during Chen Loong's quest in The New West when asked to obtain a pill from Xu Dog | • 1 Snake-Head Mushroom\n• 1 Gentian | Fortifying Medicament",
+    "img_below_text": "• Used automatically at Chen Loong to gain access to the Zodiac Village | Not craftable | Ruyi Scroll\n![Black-myth-wukong-body-fleeting-powder.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Black-myth-wukong-body-fleeting-powder.jpg)| Body-Fleeting Powder | Epic | Upon use, all actions cost no stamina for a short duration | • Formula obtained from a container in New Thunderclap Temple by the Horse Guai in The New West• Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Purple Lingzhi",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 16 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"![Black-myth-wukong-evil-fortifying-medicament.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Black-myth-wukong-evil-fortifying-medicament.jpg)| Fortifying Medicament | Rare | Upon use, enhances the Tenacity effect of certain staff abilities making them less susceptilble to interruptions for a short duration | • Given during Chen Loong's quest in The New West when asked to obtain a pill from Xu Dog | • 1 Snake-Head Mushroom\n• 1 Gentian | Fortifying Medicament\"\n            - Following Text: \"• Used automatically at Chen Loong to gain access to the Zodiac Village | Not craftable | Ruyi Scroll\n![Black-myth-wukong-body-fleeting-powder.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5d/Black-myth-wukong-body-fleeting-powder.jpg)| Body-Fleeting Powder | Epic | Upon use, all actions cost no stamina for a short duration | • Formula obtained from a container in New Thunderclap Temple by the Horse Guai in The New West• Purchased from Xu Dog in the Crouching Tiger Temple - Cellar after finishing Chapter 2 - Yellow Wind Ridge| • 1 Purple Lingzhi\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Black-myth-wukong-ruyi-scroll.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts the \"Ruyi Scroll,\" an item featured in the game \"Black Myth: Wukong.\" This scroll is used automatically at Chen Loong to gain access to the Zodiac Village. It is not craftable, indicating its unique and possibly significant role in the game's narrative. The preceding and following text provide context for its use and acquisition, situating it within the broader quest and item system of the game."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 542496811859,
+    "source_file": "Meditation_Spots.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Bushui_Cave_Meditation_Spot.jpg",
+    "alt_text": "Bushui Cave Meditation Spot.jpg",
+    "position_desc": 24,
+    "img_above_text": "### The Screen, Purge Pit Meditation Spot\nThe Screen, Purge Pit Meditation Spot",
+    "img_below_text": "The last Meditation Spot in Chapter 5 is in the secret area called Bushui Cave. Follow these instructions to unlock Bushui Cave:\n* Defeat the Pale-Axe Stalwart at the beginning of Chapter 5. Exhaust all dialogue with him.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 24 from the file 'Meditation_Spots.md'.\n\n            Context:\n            - Preceding Text: \"### The Screen, Purge Pit Meditation Spot\nThe Screen, Purge Pit Meditation Spot\"\n            - Following Text: \"The last Meditation Spot in Chapter 5 is in the secret area called Bushui Cave. Follow these instructions to unlock Bushui Cave:\n* Defeat the Pale-Axe Stalwart at the beginning of Chapter 5. Exhaust all dialogue with him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Bushui_Cave_Meditation_Spot.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark, atmospheric scene featuring a character standing near a glowing meditation spot in a desolate, rocky environment. This location, identified as \"The Screen, Purge Pit Meditation Spot,\" serves as a resting or checkpoint area in the game, allowing players to meditate and likely recover or progress. It is part of Chapter 5 and precedes the discovery of the secret Bushui Cave area."
+}

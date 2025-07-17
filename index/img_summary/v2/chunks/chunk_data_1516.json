@@ -1,0 +1,28 @@
+{
+    "chunk_id": 290518666163,
+    "source_file": "How_to_Claim_Deluxe_Edition_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/How_To_Claim_Deluxe_Edition_Items_%284%29.png",
+    "alt_text": "How To Claim Deluxe Edition Items \\(4\\).png",
+    "position_desc": 5,
+    "img_above_text": "* Folk Opera Leather Bracers\n* Folk Opera Buskins",
+    "img_below_text": "### Curio\n* Wind Chimes",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'How_to_Claim_Deluxe_Edition_Items.md'.\n\n            Context:\n            - Preceding Text: \"* Folk Opera Leather Bracers\n* Folk Opera Buskins\"\n            - Following Text: \"### Curio\n* Wind Chimes\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/How_To_Claim_Deluxe_Edition_Items_%284%29.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character in a rugged, desert-like environment, wearing ornate armor and holding a staff. The preceding text suggests this is part of the \"Folk Opera\" deluxe edition items, specifically showcasing the Leather Bracers and Buskins. The following text transitions to \"Curio\" items, implying the image highlights the aesthetic and thematic design of the Folk Opera gear within the game's context."
+}

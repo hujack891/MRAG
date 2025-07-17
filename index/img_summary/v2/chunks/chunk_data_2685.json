@@ -1,0 +1,28 @@
+{
+    "chunk_id": 314808105373,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg",
+    "alt_text": "Wukong Snowhill 31.jpg",
+    "position_desc": 30,
+    "img_above_text": "![Wukong Snowhill 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg)\nFinally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.",
+    "img_below_text": "With little warning, he'll transform you into a bat, and have you follow him across the mountain pass to take in the sights (unlike your brief transformation into a cicada, you can't control this part).\n## Mirrormere",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 30 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg)\nFinally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.\"\n            - Following Text: \"With little warning, he'll transform you into a bat, and have you follow him across the mountain pass to take in the sights (unlike your brief transformation into a cicada, you can't control this part).\n## Mirrormere\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a snowy mountainous landscape, likely part of the temple ruins mentioned in the context. It serves as a visual representation of the player's transformation into a bat, guided by the Keeper of the New West across the mountain pass. The image captures the expansive and rugged terrain, emphasizing the journey and exploration aspect of the narrative in the game \"Black Myth: Wukong.\""
+}

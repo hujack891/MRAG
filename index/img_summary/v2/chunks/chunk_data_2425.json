@@ -1,0 +1,28 @@
+{
+    "chunk_id": 391991391886,
+    "source_file": "Puppet_Spider_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Puppet_Spider.png",
+    "alt_text": "Puppet Spider.png",
+    "position_desc": 1,
+    "img_above_text": "* Puppet Spider Fight\n* Puppet Spider Spirit",
+    "img_below_text": "## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Puppet_Spider_Spirit.md'.\n\n            Context:\n            - Preceding Text: \"* Puppet Spider Fight\n* Puppet Spider Spirit\"\n            - Following Text: \"## Puppet Spider Location\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Puppet_Spider.png",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a tense battle scene from a video game, where a player character is engaged in combat with a large, menacing spider-like creature known as the Puppet Spider Spirit. The dark, web-filled environment suggests a dangerous and eerie setting. This image serves to illustrate the \"Puppet Spider Fight\" mentioned in the preceding text, providing a visual representation of the encounter players can expect to face. The following text gives detailed instructions on how to locate this enemy within the game, enhancing the narrative by guiding players to this specific challenge."
+}

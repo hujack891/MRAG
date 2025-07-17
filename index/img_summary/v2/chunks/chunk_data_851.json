@@ -1,0 +1,28 @@
+{
+    "chunk_id": 566931550428,
+    "source_file": "Cyan_Loong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Turtle_26.jpg",
+    "alt_text": "Wukong Turtle 26.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Turtle 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_Turtle_25.jpg)\nOne of his most common attacks will have him briefly swim toward you before diving in to perform two standing sword slashes in quick succession. He'll follow up by floating high and charging up lightning in his hand to strike the ground in front of him, requiring you to dodge both the attack and the resulting strike that appears at the point he touches.",
+    "img_below_text": "Expect him to also utilize his sword slashes in simple 1 or 2 hit attacks, or use his lightning palm attack on its own. His sword swings aren't too fast, but they can blindside you if you aren't ready to break off your attacks or use up all your stamina.\n![Wukong Turtle 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Cyan_Loong.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Turtle 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0d/Wukong_Turtle_25.jpg)\nOne of his most common attacks will have him briefly swim toward you before diving in to perform two standing sword slashes in quick succession. He'll follow up by floating high and charging up lightning in his hand to strike the ground in front of him, requiring you to dodge both the attack and the resulting strike that appears at the point he touches.\"\n            - Following Text: \"Expect him to also utilize his sword slashes in simple 1 or 2 hit attacks, or use his lightning palm attack on its own. His sword swings aren't too fast, but they can blindside you if you aren't ready to break off your attacks or use up all your stamina.\n![Wukong Turtle 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Wukong_Turtle_29.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Wukong_Turtle_26.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a gameplay moment from *Black Myth: Wukong*, showcasing a boss fight against \"Cyan Loong\" in a snowy, mountainous environment. The player character is engaged in combat, dodging or preparing to counter an attack, as Cyan Loong appears mid-action, possibly executing a lightning-based strike. The image highlights the boss's use of elemental attacks, such as lightning, which aligns with the preceding and following text describing its combat patterns and strategies."
+}

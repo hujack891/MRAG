@@ -1,31 +1,6 @@
 {
-    "chunk_id": 476526791104,
-    "source_file": "Old_Rattle-Drum.md",
-    "h1_title": "Old Rattle-Drum",
-    "h2_title": "",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Old_Rattle-Drum_2.jpg",
-    "alt_text": "Old Rattle-Drum 2.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Old Rattle-Drum\nThe Old Rattle-Drum is one of the more well-hidden Key Items in Black Myth: Wukong. However, it is one of the more important optional ones, as it unlocks a secret area, a hidden boss, and one of the Gourds in the game.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Old_Rattle-Drum.md', located under Old Rattle-Drum.\n\n                Metadata:\n                - Document Title: Old Rattle-Drum\n                - Alt Text: Old Rattle-Drum 2.jpg\n\n                Context:\n                - Preceding Text: \"# Old Rattle-Drum\nThe Old Rattle-Drum is one of the more well-hidden Key Items in Black Myth: Wukong. However, it is one of the more important optional ones, as it unlocks a secret area, a hidden boss, and one of the Gourds in the game.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Old_Rattle-Drum_2.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image displays the inventory screen from the game \"Black Myth: Wukong,\" highlighting the \"Old Rattle-Drum,\" a legendary key item. The drum, described as worn but still functional, is crucial for unlocking a secret area, a hidden boss, and obtaining one of the Gourds in the game. The item is visually represented with a detailed description, emphasizing its importance despite its tattered appearance."
+    "chunk_id": 48084069336,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Yellow_21.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character is confronting an enemy named \"Tiger's Acolyte\" on a stone bridge surrounded by fog. The player character is wielding a staff and appears to be preparing for combat. The user interface displays health bars at the bottom left, with a white bar indicating health and a blue bar likely representing stamina or mana. On the bottom right, there are icons for abilities or items, each labeled with button prompts such as \"RT\" and \"RB,\" suggesting actions the player can take. A text hint at the bottom of the screen reads, \"Where's my son... I can't find him...,\" indicating a narrative element or quest related to the player's objective."
 }

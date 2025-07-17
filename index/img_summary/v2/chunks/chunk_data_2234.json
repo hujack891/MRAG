@@ -1,0 +1,28 @@
+{
+    "chunk_id": 345394445364,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Karma_11.jpg",
+    "alt_text": "Wukong Karma 11.jpg",
+    "position_desc": 2,
+    "img_above_text": "This hulking brute isn't as deadly as the Non-Able boss fight, but he does has a few tricks up his sleeve. As you might expect, he can deal a lot of damage with poisonous roots much like the lesser Ginsengling, so having antimiasma medicine on hand is a good strategy.\nMany of the Old Ginseng Guai's attacks are slow and hard-hitting, and the guai himself moves at a fairly slow pace, making him the perfect target for hit and run attacks as needed.",
+    "img_below_text": "He can perform a variety of lurching stomp attacks, many of which will create a small area of poisonous roots. Like the ice frog, you'll want to take back control of the battlefield by reorienting yourself, and use the Thrust Stance to hit him with charged strikes while staying out of the poison.\n![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Old_Ginseng_Guai.md'.\n\n            Context:\n            - Preceding Text: \"This hulking brute isn't as deadly as the Non-Able boss fight, but he does has a few tricks up his sleeve. As you might expect, he can deal a lot of damage with poisonous roots much like the lesser Ginsengling, so having antimiasma medicine on hand is a good strategy.\nMany of the Old Ginseng Guai's attacks are slow and hard-hitting, and the guai himself moves at a fairly slow pace, making him the perfect target for hit and run attacks as needed.\"\n            - Following Text: \"He can perform a variety of lurching stomp attacks, many of which will create a small area of poisonous roots. Like the ice frog, you'll want to take back control of the battlefield by reorienting yourself, and use the Thrust Stance to hit him with charged strikes while staying out of the poison.\n![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2a/Wukong_Karma_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a battle scene from the game \"Black Myth: Wukong,\" showing the player character engaged in combat with the Old Ginseng Guai, a formidable boss. The environment is snowy and rugged, emphasizing the harsh conditions of the fight. The Old Ginseng Guai, a large creature with poisonous roots, is attacking while the player character dodges and prepares to strike with a flaming weapon. The preceding and following text describe the strategies needed to defeat this boss, highlighting the importance of avoiding poison and using hit-and-run tactics."
+}

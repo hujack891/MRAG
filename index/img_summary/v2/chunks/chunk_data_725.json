@@ -1,0 +1,28 @@
+{
+    "chunk_id": 855725747992,
+    "source_file": "Consumable_Items.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Black-myth-wukong-ascension-powder.jpg",
+    "alt_text": "Black-myth-wukong-ascension-powder.jpg",
+    "position_desc": 22,
+    "img_above_text": "• 1 Flame Orb\n• 1 Fire Date | Septenary Heartfire Pill",
+    "img_below_text": "• 1 Celestial Pear\n• 1 Fire Date | Ascension Powder",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 22 from the file 'Consumable_Items.md'.\n\n            Context:\n            - Preceding Text: \"• 1 Flame Orb\n• 1 Fire Date | Septenary Heartfire Pill\"\n            - Following Text: \"• 1 Celestial Pear\n• 1 Fire Date | Ascension Powder\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Black-myth-wukong-ascension-powder.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image shows a decorative gourd-shaped container with floral designs, likely used for holding or storing consumable items. Based on the preceding and following text, it appears to be part of a list of mystical or magical consumables, possibly used in a fantasy or mythical context. The image's purpose is to visually represent one of the items from the list, enhancing the narrative of rare and enchanted consumables such as the Flame Orb, Celestial Pear, and Ascension Powder."
+}

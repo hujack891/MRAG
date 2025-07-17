@@ -1,0 +1,28 @@
+{
+    "chunk_id": 989210817857,
+    "source_file": "Luojia_Fragrant_Vine_Locations.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Purple_Mountain_Vine.jpg",
+    "alt_text": "Purple Mountain Vine.jpg",
+    "position_desc": 10,
+    "img_above_text": "### Purple Mountain Luojia Fragrant Vine\nPurple Mountain Luojia Fragrant Vine",
+    "img_below_text": "This Luojia Fragrant Vine is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room around the Temple of Yellow Flowers to unlock the secret area.\nOnce at the Purple Cloud Mountain, run up the hill and over the rope bridge to activate the first Keeper's Shrine in the area. Turn right instead of heading over the bridge and defeat the Verdant Glow Spirit that's guarding the vine.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 10 from the file 'Luojia_Fragrant_Vine_Locations.md'.\n\n            Context:\n            - Preceding Text: \"### Purple Mountain Luojia Fragrant Vine\nPurple Mountain Luojia Fragrant Vine\"\n            - Following Text: \"This Luojia Fragrant Vine is in the secret area in Chapter 4. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room around the Temple of Yellow Flowers to unlock the secret area.\nOnce at the Purple Cloud Mountain, run up the hill and over the rope bridge to activate the first Keeper's Shrine in the area. Turn right instead of heading over the bridge and defeat the Verdant Glow Spirit that's guarding the vine.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Purple_Mountain_Vine.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**: The image depicts a player character standing near a glowing vine on a tree, with an interactive \"Gather\" prompt visible. The setting is a serene, autumnal forest, suggesting the vine is a collectible or quest-related item in the game.\n\n2. **Purpose/Context**: Based on the preceding and following text, this image illustrates the location of the Purple Mountain Luojia Fragrant Vine, a key item in a secret area of Chapter 4. Players must defeat specific enemies and navigate to this hidden spot to gather the vine, which is guarded by a Verdant Glow Spirit."
+}

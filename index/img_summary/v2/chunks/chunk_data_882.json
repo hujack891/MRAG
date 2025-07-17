@@ -1,0 +1,28 @@
+{
+    "chunk_id": 582611442509,
+    "source_file": "Drinks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg",
+    "alt_text": "Black-myth-wukong-bluebridge-romance.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine\n![Lambrew .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg)| Lambrew| Rare | Each sip instantly recovers 20% of maximum health. For a brief moment after, slowly recovers 25% of maximum health | Found behind the Sandgate Village - Village Entrance Shrine, where you first begin Chapter 2 - Yellow Wind RidgeIt is located up the hill on your right from where you spawn in at the beginning of the chapter | Lambrew",
+    "img_below_text": "![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence\n![Black-myth-wukong-pinebrew.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Black-myth-wukong-pinebrew.jpg)| Pinebrew| Epic | Each sip recovers 35% of Maximum Health When Health is below half, using the gourd grants a considerable amount of Focus | Purchased from the Shen Monkey Vendor from the start of Chapter 4 onwards | Pinebrew",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Drinks.md'.\n\n            Context:\n            - Preceding Text: \"![Coconut Wine .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Coconut_Wine_.jpg)| Coconut Wine| Common | Each sip restores 33% of maximum health | Default Drink at the start of Chapter 1 - Black Wind Mountain| Coconut Wine\n![Lambrew .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Lambrew_.jpg)| Lambrew| Rare | Each sip instantly recovers 20% of maximum health. For a brief moment after, slowly recovers 25% of maximum health | Found behind the Sandgate Village - Village Entrance Shrine, where you first begin Chapter 2 - Yellow Wind RidgeIt is located up the hill on your right from where you spawn in at the beginning of the chapter | Lambrew\"\n            - Following Text: \"![Black-myth-wukong-jade-essence.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Black-myth-wukong-jade-essence.jpg)| Jade Essence| Legendary | Each sip recovers 36% of Maximum Health and a moderate amount of Mana | Found at the Valley of Ecstasy, Towers of Karma Shrine, in The New West along the path to the left, behind a monument | Jade Essence\n![Black-myth-wukong-pinebrew.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Black-myth-wukong-pinebrew.jpg)| Pinebrew| Epic | Each sip recovers 35% of Maximum Health When Health is below half, using the gourd grants a considerable amount of Focus | Purchased from the Shen Monkey Vendor from the start of Chapter 4 onwards | Pinebrew\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Black-myth-wukong-bluebridge-romance.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intricately designed green gourd with dragon-like carvings and an ornate handle, likely representing a consumable item from the game *Black Myth: Wukong*. Based on its position and surrounding context, it is part of a series of drinkable items that provide health or other benefits to the player. This particular drink, positioned between \"Lambrew\" and \"Jade Essence,\" is likely a rare or unique item with restorative properties, contributing to the game's strategic resource management."
+}

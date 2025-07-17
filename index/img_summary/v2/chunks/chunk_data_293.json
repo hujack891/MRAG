@@ -1,0 +1,28 @@
+{
+    "chunk_id": 28079421208,
+    "source_file": "Black_Wind_Cave_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg",
+    "alt_text": "Wukong BlackWind 11.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Wukong BlackWind 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_10.jpg)\nHis most frustrating attack will come when he transforms into the Black Wind itself, becoming a wisp-like thing that floats around the arena. You’ll need to look carefully for the small “bursts” emanating from the wisp that denote its charge attack straight at you, and can happen in two quick dashes back and forth.",
+    "img_below_text": "Once you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.\n![Wukong BlackWind 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_BlackWind_14.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Black_Wind_Cave_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_BlackWind_10.jpg)\nHis most frustrating attack will come when he transforms into the Black Wind itself, becoming a wisp-like thing that floats around the arena. You’ll need to look carefully for the small “bursts” emanating from the wisp that denote its charge attack straight at you, and can happen in two quick dashes back and forth.\"\n            - Following Text: \"Once you see the wisp fly up, retreat away from the center of the arena where the Black Wind King will reappear in a large explosion. Take this time to heal up or use any consumable medicines you think might give you an edge.\n![Wukong BlackWind 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wukong_BlackWind_14.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_BlackWind_11.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a gameplay moment from *Black Myth: Wukong*, where the player character is engaged in combat with the Black Wind King. The scene shows the Black Wind King in its wisp-like form, surrounded by swirling dark energy, indicating its transformation into the Black Wind itself. This phase of the fight involves the boss using rapid charge attacks, requiring the player to carefully observe its movements and prepare for evasive maneuvers. The setting is an outdoor arena with scattered foliage and fire effects, adding to the intensity of the battle."
+}

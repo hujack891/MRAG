@@ -1,0 +1,28 @@
+{
+    "chunk_id": 880780845006,
+    "source_file": "Venom_Daoist.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_YellowFlower_50.jpg",
+    "alt_text": "Wukong YellowFlower 50.jpg",
+    "position_desc": 18,
+    "img_above_text": "![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\nHis hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.",
+    "img_below_text": "Much of the rest of this fight will revolve around avoiding his lengthy combo attacks and retaliating after his last hit, or quickly evading or deflecting his charging dash attacks to stop him in his tracks.\n![Wukong YellowFlower 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_YellowFlower_54.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 18 from the file 'Venom_Daoist.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Wukong_YellowFlower_51.jpg)\nHis hardest hitting attack will come when he swaps to a reverse grip with his left sword, before dashing close to unleash three quick hits before flipping high into the air and slamming down for his \"Flood of Blood\" attack. Watch out for when he lands, as he'll also perform a last sweeping attack as he reorients himself.\"\n            - Following Text: \"Much of the rest of this fight will revolve around avoiding his lengthy combo attacks and retaliating after his last hit, or quickly evading or deflecting his charging dash attacks to stop him in his tracks.\n![Wukong YellowFlower 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_YellowFlower_54.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Wukong_YellowFlower_50.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from a boss fight in the game \"Black Myth: Wukong,\" featuring the character Venom Daoist. The Venom Daoist is seen mid-attack, wielding dual swords in a reverse grip, preparing to execute a powerful move. The context provided describes the boss's attack patterns, including a \"Flood of Blood\" attack and a sweeping reorientation strike, emphasizing the need for the player to avoid lengthy combos and counterattack strategically. The image serves to illustrate the intense combat and the specific tactics players must employ to defeat this formidable opponent."
+}

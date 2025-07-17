@@ -1,31 +1,6 @@
 {
-    "chunk_id": 934018830137,
-    "source_file": "Pagoda_Realm_Walkthrough.md",
-    "h1_title": "The Beguiling Chant of the Pagoda Realm",
-    "h2_title": "Lower Pagoda (Level 2)",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg",
-    "alt_text": "Wukong Pagoda 18.jpg",
-    "position_desc": 18,
-    "img_above_text": "# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nNext, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 18 from the file 'Pagoda_Realm_Walkthrough.md', located under Lower Pagoda (Level 2).\n\n                Metadata:\n                - Document Title: The Beguiling Chant of the Pagoda Realm\n                - Section Title: Lower Pagoda (Level 2)\n                - Alt Text: Wukong Pagoda 18.jpg\n\n                Context:\n                - Preceding Text: \"# The Beguiling Chant of the Pagoda Realm\n## Lower Pagoda (Level 2)\n\nNext, head past the stairs to continue along the cell tunnel to find a dead end with one more Blade Monk guarding a **Treasure Chest** with assorted materials inside.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/Wukong_Pagoda_18.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image from the document \"The Beguiling Chant of the Pagoda Realm\" shows a scene from the Lower Pagoda (Level 2). It depicts a character, likely the protagonist, standing in a dimly lit tunnel with rocky walls. The character is holding a large weapon, and there are glowing particles in the air, suggesting a recent or ongoing battle. This scene follows a description of encountering a Blade Monk guarding a treasure chest, indicating that the image likely illustrates the moment after this encounter, emphasizing the dark and mystical atmosphere of the Pagoda Realm."
+    "chunk_id": 889212999923,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Karma_4.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image shows a character in a red robe wading through a shallow, snowy river environment in a video game. The character is holding a large staff and appears to be exploring the area. The user interface displays several elements: a health bar at the bottom left, a set of hexagonal icons possibly representing abilities or items, and a notification on the right indicating the acquisition of \"Jade Lotus x2.\" The snowy landscape features trees and stone structures, suggesting a serene yet potentially mystical setting. The UI also includes icons for various actions or items, with button prompts for interaction, indicating gameplay mechanics related to exploration and item collection."
 }

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 57849447431,
+    "source_file": "Webbed_Hollow_-_Upper_Hollow_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_UpperHollow_10.jpg",
+    "alt_text": "Wukong UpperHollow 10.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong UpperHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_UpperHollow_9.jpg)\nHe's much bigger than the rest, meaning his thrashing does more damage, but you can still attack safely from a distance with the Thrust Stance. Behind the larger worm, you'll find a reward in the form of **Treasure Chest** that holds assorted materials.",
+    "img_below_text": "Finally, you can head up the torch-lit path outside this cave guarded by many Stone Spiders. At the end of the path is a small gap leading to a room that seems to be an entrance pit of some sort, as a large green Wisp floats above a bed of cobwebs. In fact, if you return to the Zhu Estate above and try jumping in the pit again, you'll end up in this very spot!\n![Wukong UpperHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_UpperHollow_11.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Webbed_Hollow_-_Upper_Hollow_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong UpperHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5c/Wukong_UpperHollow_9.jpg)\nHe's much bigger than the rest, meaning his thrashing does more damage, but you can still attack safely from a distance with the Thrust Stance. Behind the larger worm, you'll find a reward in the form of **Treasure Chest** that holds assorted materials.\"\n            - Following Text: \"Finally, you can head up the torch-lit path outside this cave guarded by many Stone Spiders. At the end of the path is a small gap leading to a room that seems to be an entrance pit of some sort, as a large green Wisp floats above a bed of cobwebs. In fact, if you return to the Zhu Estate above and try jumping in the pit again, you'll end up in this very spot!\n![Wukong UpperHollow 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Wukong_UpperHollow_11.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_UpperHollow_10.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character, holding a flaming torch, is about to exit a dark cave. The cave is guarded by Stone Spiders, and the path leads to a room with a large green Wisp floating above cobwebs. This image serves to illustrate the transition from the cave to the torch-lit path and the subsequent encounter with the Wisp."
+}

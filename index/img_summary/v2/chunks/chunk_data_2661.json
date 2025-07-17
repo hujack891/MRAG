@@ -1,0 +1,28 @@
+{
+    "chunk_id": 677024990261,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Snowhill_7.jpg",
+    "alt_text": "Wukong Snowhill 7.jpg",
+    "position_desc": 6,
+    "img_above_text": "Golden Lotus (x5) - 180 Will | Celestial Pear (x5) - 240 Will | |\nFrom the shrine, head up the path through the mountain. Compared to the previous chapter, you'll find this area much more linear like in Chapter 1.",
+    "img_below_text": "As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"Golden Lotus (x5) - 180 Will | Celestial Pear (x5) - 240 Will | |\nFrom the shrine, head up the path through the mountain. Compared to the previous chapter, you'll find this area much more linear like in Chapter 1.\"\n            - Following Text: \"As you reach a group of bodies frozen in the snow, a strange monkey will be alerted to your presence, throwing a piece of fruit at one of the corpses to awaken it from its slumber.\nNot all of the Frozen Corpses you'll find along this path will come alive, but those that do hold either spiked maces or very long blades, and will slowly swat at you or do leaping attacks with them.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Snowhill_7.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character navigating through a snowy path filled with frozen corpses. The context suggests that the character is about to encounter a strange monkey that will awaken some of these corpses, which will then attack the character with spiked maces or long blades. This scene highlights a tense moment in the narrative where the protagonist must be prepared for combat against reanimated enemies."
+}

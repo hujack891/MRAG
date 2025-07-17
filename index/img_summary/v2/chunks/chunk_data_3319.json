@@ -1,0 +1,28 @@
+{
+    "chunk_id": 279123889800,
+    "source_file": "Weapons.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wind_Bear_Staff_.jpg",
+    "alt_text": "Wind Bear Staff .jpg",
+    "position_desc": 4,
+    "img_above_text": "• 8 Stone Spirit\n• 2,700 Will | Twin Serpents Staff",
+    "img_below_text": "• 4 Yaoguai Core\n• 8 Stone Spirit",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Weapons.md'.\n\n            Context:\n            - Preceding Text: \"• 8 Stone Spirit\n• 2,700 Will | Twin Serpents Staff\"\n            - Following Text: \"• 4 Yaoguai Core\n• 8 Stone Spirit\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wind_Bear_Staff_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a menacing figure wielding an intricately designed staff, likely the \"Twin Serpents Staff\" mentioned in the preceding text. The context suggests the image is part of a catalog or list of weapons, highlighting the staff's ornate and possibly mystical attributes. The following text continues listing items, indicating that the image serves to visually represent the Twin Serpents Staff within this collection."
+}

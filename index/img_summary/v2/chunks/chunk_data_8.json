@@ -1,0 +1,28 @@
+{
+    "chunk_id": 377224681115,
+    "source_file": "Apramana_Bat.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Bitter_38.jpg",
+    "alt_text": "Wukong Bitter 38.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Bitter 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Bitter_37.jpg)\nOnce it's tired of staying on the ground, it will often spread its wings wide to create another gust of freezing wind in a huge radius as it propels itself back into the air, where it can perform a number of attacks.",
+    "img_below_text": "It's most common attack in the air is spreading its wings wide before beating them together, creating a cross slash projectile down at your location that requires some quick dodging.\n![Wukong Bitter 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Apramana_Bat.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e9/Wukong_Bitter_37.jpg)\nOnce it's tired of staying on the ground, it will often spread its wings wide to create another gust of freezing wind in a huge radius as it propels itself back into the air, where it can perform a number of attacks.\"\n            - Following Text: \"It's most common attack in the air is spreading its wings wide before beating them together, creating a cross slash projectile down at your location that requires some quick dodging.\n![Wukong Bitter 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_Bitter_38.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic scene from the game \"Black Myth: Wukong,\" featuring the Apramana Bat in mid-air executing a powerful attack. The bat spreads its wings to create a cross slash projectile aimed at the player character, requiring evasive maneuvers to avoid damage. This visual highlights the bat's aerial combat capabilities and the challenging gameplay mechanics involved in confronting this formidable enemy."
+}

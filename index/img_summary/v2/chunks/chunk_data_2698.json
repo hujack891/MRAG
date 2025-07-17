@@ -1,0 +1,28 @@
+{
+    "chunk_id": 314305792376,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg",
+    "alt_text": "Wukong Snowhill 42.jpg",
+    "position_desc": 43,
+    "img_above_text": "![Wukong Snowhill 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg)\nAnother wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.",
+    "img_below_text": "Be wary when Kang-Jin Loong begins to roar and emit lightning all around, as they can perform an attack to summon a series of lightning strikes along the ground. They'll track your position, so keep strafing and dodging to outpace them, and don't worry about fighting while in this evasive mode.\n![Wukong Snowhill 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Snowhill_45.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 43 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Snowhill_47.jpg)\nAnother wild tail slam attack will come when the boss rapidly spins in a front circle while facing you, building up momentum from several rotations to finally slam their tail down from above.\"\n            - Following Text: \"Be wary when Kang-Jin Loong begins to roar and emit lightning all around, as they can perform an attack to summon a series of lightning strikes along the ground. They'll track your position, so keep strafing and dodging to outpace them, and don't worry about fighting while in this evasive mode.\n![Wukong Snowhill 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/eb/Wukong_Snowhill_45.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Wukong_Snowhill_42.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment from the game \"Black Myth: Wukong,\" where the protagonist is seen evading a powerful lightning attack from the boss, Kang-Jin Loong. The preceding text describes a tail slam attack, while the following text warns players about the boss's ability to summon lightning strikes that track the player's position. The image captures the intensity of the battle and the need for strategic dodging to survive the boss's electrical onslaught."
+}

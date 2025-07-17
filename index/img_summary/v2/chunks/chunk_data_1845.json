@@ -1,0 +1,28 @@
+{
+    "chunk_id": 626157253270,
+    "source_file": "Lingxuzi.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Wolves_49.jpg",
+    "alt_text": "Wukong Wolves 49.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong Wolves 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Wolves_48.jpg)\nSometimes, Lingxuzi can dive at you face first, moving his open jaws up before biting down. You need only dodge his face, meaning you can dodge right into his arms and keep attacking.",
+    "img_below_text": "His most threatening attack comes when he disengages from the fight and jump to a nearby rooftop. He’ll jump around a bit, and then leap high into the air to bellyflop onto you, causing a large shockwave that you’ll need to time well and dodge or take a ton of damage.\nHe also has an uppercut grab he can sometimes employ after a dashing strike that’s hard to see coming, which can launch you into the air for a multi-hit attack that can deal a scary amount of damage. This move comes when he’s hunched over and growls, but he won’t raise his claw until it’s too late to dodge!",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Lingxuzi.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Wolves_48.jpg)\nSometimes, Lingxuzi can dive at you face first, moving his open jaws up before biting down. You need only dodge his face, meaning you can dodge right into his arms and keep attacking.\"\n            - Following Text: \"His most threatening attack comes when he disengages from the fight and jump to a nearby rooftop. He’ll jump around a bit, and then leap high into the air to bellyflop onto you, causing a large shockwave that you’ll need to time well and dodge or take a ton of damage.\nHe also has an uppercut grab he can sometimes employ after a dashing strike that’s hard to see coming, which can launch you into the air for a multi-hit attack that can deal a scary amount of damage. This move comes when he’s hunched over and growls, but he won’t raise his claw until it’s too late to dodge!\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_Wolves_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts Lingxuzi, a ferocious enemy in *Black Myth: Wukong*, mid-air during a dramatic attack sequence. Lingxuzi is leaping toward the player character, showcasing his aggressive combat style and aerial capabilities. This moment aligns with the context, where Lingxuzi's dangerous moves, such as diving face-first or bellyflopping from rooftops, are described. The player must time dodges carefully to avoid damage, emphasizing the intensity and challenge of the encounter."
+}

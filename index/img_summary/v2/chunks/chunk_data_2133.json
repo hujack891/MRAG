@@ -1,0 +1,28 @@
+{
+    "chunk_id": 155015056852,
+    "source_file": "New_Thunderclap_Temple_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
+    "alt_text": "Wukong Thunderclap 90.jpg",
+    "position_desc": 89,
+    "img_above_text": "![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!",
+    "img_below_text": "Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 89 from the file 'New_Thunderclap_Temple_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Thunderclap 89.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/95/Wukong_Thunderclap_89.jpg)\nLuckily, the Macaque Chief is just as prone to staggering as he was before, even more-so now thanks to the combined efforts of you and your ally, you can repeatedly knock him out of certain moves with well-times heavy hits that sends him toppling to the ground. A single focus point is you need to poke him off his sword when he stands on it!\"\n            - Following Text: \"Unfortunately, it won't be long before the Macaque Chief makes an effort to rectify this, and takes to the air. He'll then send out two shadow versions of himself to fly down and strike you, but they actually stick around to fight!\nWhile it's tempting to leave the shadows to Zhu Bajie to fight on his own, you're much better off repositioning yourself to take on the clones (and you may even want to summon your own clones if you can find some breathing room.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Wukong_Thunderclap_90.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" showcasing a battle against the Macaque Chief. The player character is engaged in combat, with the Macaque Chief visible in the air, likely preparing to summon shadow versions of himself to attack. The preceding text explains the strategy of staggering the Macaque Chief with heavy hits, while the following text warns of the Chief's aerial attack and advises repositioning to handle the shadow clones effectively."
+}

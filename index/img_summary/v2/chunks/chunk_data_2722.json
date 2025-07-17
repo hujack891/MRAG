@@ -1,0 +1,28 @@
+{
+    "chunk_id": 53513097248,
+    "source_file": "Soaks.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg",
+    "alt_text": "Gall Gem .jpg",
+    "position_desc": 1,
+    "img_above_text": "Image | Soak | Rarity | Effect | Location | Collected\n---|---|---|---|---|---",
+    "img_below_text": "![Celestial Lotus Seeds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg)| Celestial Lotus Seeds| Rare | For a brief moment after using the gourd, slowly recovers a small amount of health | Found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Celestial Lotus Seeds\n![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 1 from the file 'Soaks.md'.\n\n            Context:\n            - Preceding Text: \"Image | Soak | Rarity | Effect | Location | Collected\n---|---|---|---|---|---\"\n            - Following Text: \"![Celestial Lotus Seeds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Celestial_Lotus_Seeds_.jpg)| Celestial Lotus Seeds| Rare | For a brief moment after using the gourd, slowly recovers a small amount of health | Found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain| Celestial Lotus Seeds\n![Laurel Buds .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8d/Laurel_Buds_.jpg)| Laurel Buds| Rare | Using the gourd moderately increases damage reduction for a short duration | Found past the Lang-Li-Guhh-Baw boss by a statue to the left of the Sandgate Village - Village Entrance shrine in Yellow Wind Ridge| Laurel Buds\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ea/Gall_Gem_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a set of black, spherical objects tied with string, placed on a decorative plate. Based on the preceding and following text, this image is likely associated with an item called \"Celestial Lotus Seeds\" from the game \"Black Myth: Wukong.\" The seeds are described as rare and have the effect of slowly recovering a small amount of health when used. They can be found at the Shen Monkey Vendor at Bamboo Grove - Marsh of White Mist Shrine in Black Wind Mountain. The image serves to visually represent these in-game items."
+}

@@ -1,0 +1,28 @@
+{
+    "chunk_id": 201080009576,
+    "source_file": "Apramana_Bat.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg",
+    "alt_text": "Wukong Bitter 42.jpg",
+    "position_desc": 6,
+    "img_above_text": "![Wukong Bitter 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg)\nIf you see its legs extend upwards (similar to the lesser variants) it's preparing to slam down its talons on you in a quick downward slam. However, deflecting with Rock Solid will send it flying backward, only to topple out of the sky and provide you a moment to sprint over and retaliate.",
+    "img_below_text": "If you aren't getting enough time in, consider using Immobilize to keep him grounded, and use the Pillar Stance to extend your height as it tries to take off.\n![Wukong Bitter 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Bitter_41.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 6 from the file 'Apramana_Bat.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Bitter 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Wukong_Bitter_35.jpg)\nIf you see its legs extend upwards (similar to the lesser variants) it's preparing to slam down its talons on you in a quick downward slam. However, deflecting with Rock Solid will send it flying backward, only to topple out of the sky and provide you a moment to sprint over and retaliate.\"\n            - Following Text: \"If you aren't getting enough time in, consider using Immobilize to keep him grounded, and use the Pillar Stance to extend your height as it tries to take off.\n![Wukong Bitter 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Bitter_41.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_Bitter_42.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary**:  \nThe image depicts a combat scene from *Black Myth: Wukong*, where the player character, Wukong, is engaged in a battle against the Apramana Bat, a large, menacing creature. The snowy, rocky environment emphasizes the intensity of the encounter, with Wukong wielding a glowing staff mid-action. The health bar of the Apramana Bat indicates the progress of the fight, and the HUD displays various abilities and resources available to the player.\n\n2. **Purpose/Role in Narrative**:  \nThe image illustrates a critical moment in the fight against the Apramana Bat, emphasizing the creature's aerial attacks and Wukong's defensive and offensive strategies. The preceding text highlights the importance of deflecting its talon slams with the \"Rock Solid\" ability, while the following text suggests using \"Immobilize\" and \"Pillar Stance\" to counter its flight. The image serves to visually reinforce the gameplay mechanics and tactics described in the surrounding context."
+}

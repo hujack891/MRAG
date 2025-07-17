@@ -1,0 +1,28 @@
+{
+    "chunk_id": 471277195537,
+    "source_file": "Non-Able.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg",
+    "alt_text": "Wukong Brook 28.jpg",
+    "position_desc": 13,
+    "img_above_text": "![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)\nAnother can be done at range, so even if you think you're at a safe distance, be ready to dodge if he adopts a stance and then dashes up for a glowing elbow strike attack.",
+    "img_below_text": "By far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.\n![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 13 from the file 'Non-Able.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Brook 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8f/Wukong_Brook_27.jpg)\nAnother can be done at range, so even if you think you're at a safe distance, be ready to dodge if he adopts a stance and then dashes up for a glowing elbow strike attack.\"\n            - Following Text: \"By far his most dangerous move will come when he adopts a martial arts stance, holding a raised fist behind his head while dropping the other arm.\n![Wukong Brook 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ee/Wukong_Brook_24.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Brook_28.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the video game \"Black Myth: Wukong,\" showing a character in a red outfit facing off against an enemy in a snowy landscape. The preceding text describes a ranged attack by the enemy, while the following text warns of a dangerous martial arts stance. The image likely illustrates the tense moment before an attack, emphasizing the need for the player to be prepared for the enemy's moves."
+}

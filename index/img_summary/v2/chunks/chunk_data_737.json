@@ -1,0 +1,28 @@
+{
+    "chunk_id": 614839875575,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg",
+    "alt_text": "Stone Spirit .jpg",
+    "position_desc": 5,
+    "img_above_text": "![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\n![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters",
+    "img_below_text": "![Silk .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg)| Silk| Rare | General armor upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies\n• Purchased from the Secret: Ancient Guanyin Temple Shrine shop in Black Wind Mountain• Occassionally found in chests • Reward for completing chapters",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 5 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Gold Ridge Beast .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Gold_Ridge_Beast_.jpg)| Gold Ridge Beast| Epic | Treasure | • Found in a chest on the far side of the Secret: Kingdom of Sahali - Sandgate Bound shrine area in Yellow Wind Ridge (must obtain this before defeating Fuban)\n![Yarn .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ef/Yarn_.jpg)| Yarn| Uncommon | General armor crafting material | • In chests • Dropped from enemies • Bought from Shrine store • Reward for completing chapters\"\n            - Following Text: \"![Silk .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Silk_.jpg)| Silk| Rare | General armor upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies\n• Purchased from the Secret: Ancient Guanyin Temple Shrine shop in Black Wind Mountain• Occassionally found in chests • Reward for completing chapters\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Stone_Spirit_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a crafting material likely used in the game *Black Myth: Wukong*. Based on the preceding and following text, it is part of a list of materials with varying rarity and uses. Positioned between \"Yarn\" (uncommon crafting material) and \"Silk\" (rare upgrade material), this item is likely another crafting or upgrade material, possibly of moderate rarity. Its inclusion suggests it plays a role in armor or equipment crafting, contributing to the game's progression system."
+}

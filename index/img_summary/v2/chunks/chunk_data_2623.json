@@ -1,0 +1,28 @@
+{
+    "chunk_id": 324540271319,
+    "source_file": "Shigandang.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Eye1.jpg",
+    "alt_text": "Wukong Eye1.jpg",
+    "position_desc": 2,
+    "img_above_text": "![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)\nIt's possible to locate Shigandang without realizing what he is, as this boss is actually hiding in another Yaoguai King's arena. Travel through the Fright Cliff to Rockrest Flat, and enter the archway to the left to where the Vanguard of Stone dwells. As you enter, you may notice a large rock that on closer inspection has many carved heads on it. To activate it, you'll need to seek out six statue heads around the Fright Cliff and retrieve their Buddha's Eyeballs:",
+    "img_below_text": "* Upon first entering the Fright Cliff, travel up the sloping path, and you should spot the smoke trail of the Fright Cliff’s Shrine. Just before it, you can hear ominous chanting. The chanting comes from a large Buddha head statue in the ground, and by interacting with it, you can claim the Buddha’s Eyeball.\n![Wukong Eye2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Eye2.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 2 from the file 'Shigandang.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Fright 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Wukong_Fright_42.jpg)\nIt's possible to locate Shigandang without realizing what he is, as this boss is actually hiding in another Yaoguai King's arena. Travel through the Fright Cliff to Rockrest Flat, and enter the archway to the left to where the Vanguard of Stone dwells. As you enter, you may notice a large rock that on closer inspection has many carved heads on it. To activate it, you'll need to seek out six statue heads around the Fright Cliff and retrieve their Buddha's Eyeballs:\"\n            - Following Text: \"* Upon first entering the Fright Cliff, travel up the sloping path, and you should spot the smoke trail of the Fright Cliff’s Shrine. Just before it, you can hear ominous chanting. The chanting comes from a large Buddha head statue in the ground, and by interacting with it, you can claim the Buddha’s Eyeball.\n![Wukong Eye2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Eye2.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Wukong_Eye1.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is approaching a large Buddha head statue in the Fright Cliff area. This statue is significant as interacting with it allows the player to claim the Buddha’s Eyeball, a necessary item to activate the rock with carved heads mentioned in the preceding text. The image serves to illustrate the location and the visual cue (the Buddha head) that players need to look for to progress in their quest."
+}

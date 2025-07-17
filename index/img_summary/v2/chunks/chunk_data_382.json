@@ -1,0 +1,28 @@
+{
+    "chunk_id": 86985819325,
+    "source_file": "Bullguard.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Wolves_18.jpg",
+    "alt_text": "Wukong Wolves 18.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong Wolves 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Wolves_17.jpg)\nThe Bullguard swings a mean halberd, which he can use to perform devastating overhand slams, and much quicker horizontal slashes that swing twice before a third overhead attack. Luckily, each of these combo hits usually end with him taking a long time to pull his weapon back out of the ground and reset his positioning, which is the perfect time to strike with a light combo or sneak in a heavy attack when he’s recovering.",
+    "img_below_text": "He can also perform multiple overhead swings at once ending with a massive jump attack, so it’s safe to assume that unless he’s charging at you, his swings will almost always come out in multiple hits, and you’ll want to be ready to dodge them all first before you move in and attack.\n![Wukong Wolves 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Wolves_19.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Bullguard.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Wolves 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_Wolves_17.jpg)\nThe Bullguard swings a mean halberd, which he can use to perform devastating overhand slams, and much quicker horizontal slashes that swing twice before a third overhead attack. Luckily, each of these combo hits usually end with him taking a long time to pull his weapon back out of the ground and reset his positioning, which is the perfect time to strike with a light combo or sneak in a heavy attack when he’s recovering.\"\n            - Following Text: \"He can also perform multiple overhead swings at once ending with a massive jump attack, so it’s safe to assume that unless he’s charging at you, his swings will almost always come out in multiple hits, and you’ll want to be ready to dodge them all first before you move in and attack.\n![Wukong Wolves 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Wukong_Wolves_19.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Wolves_18.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "1. **Summary of the Image**:  \nThe image depicts an intense combat moment in *Black Myth: Wukong*, showcasing the player character battling the Bullguard, a large, armored enemy wielding a halberd. The Bullguard is mid-swing, with visible motion blur on his weapon, while the player appears to be dodging or countering the attack. The environment is a lush, forested area with a shallow stream, adding to the immersive setting. The health bar at the bottom indicates the Bullguard has sustained some damage.\n\n2. **Purpose and Narrative Role**:  \nThe image visually supports the preceding and following text by illustrating the Bullguard's aggressive combat style, particularly his halberd attacks. It emphasizes the need for players to time their dodges and counterattacks carefully during his slow recovery windows, reinforcing the strategic gameplay described in the text."
+}

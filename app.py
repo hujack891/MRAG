@@ -21,8 +21,8 @@ text_weight = 0.5
 image_weight = 0.5
 MAX_CONTEXT_LENGTH = 4000
 
-TEXT_DATABASE_PATH = "./index/text/v1"
-IMAGE_DATABASE_PATH = "./index/image/v1"
+TEXT_DATABASE_PATH = "./index/text/v3"
+IMAGE_DATABASE_PATH = "./index/image/v3"
 OUTPUT_DIR = "./result"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 

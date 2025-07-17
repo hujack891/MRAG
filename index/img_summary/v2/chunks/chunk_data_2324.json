@@ -1,0 +1,28 @@
+{
+    "chunk_id": 595660941593,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Pagoda_49.jpg",
+    "alt_text": "Wukong Pagoda 49.jpg",
+    "position_desc": 49,
+    "img_above_text": "## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.",
+    "img_below_text": "If you defeated Captain Lotus-Vision, the first locked cell you encounter on the left will now be unlocked, allowing you to open and loot the **Treasure Chest** within for various materials. Just beware of a much larger Swift Bat hiding above the chest.\n![Wukong Pagoda 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Pagoda_53.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 49 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"## Upper Pagoda (Level 3)\nFrom the Upper Pagoda Shrine, your journey to the top will continue. A singular path will lie on the outdoor ring that you can progress across.\"\n            - Following Text: \"If you defeated Captain Lotus-Vision, the first locked cell you encounter on the left will now be unlocked, allowing you to open and loot the **Treasure Chest** within for various materials. Just beware of a much larger Swift Bat hiding above the chest.\n![Wukong Pagoda 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Pagoda_53.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Pagoda_49.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong,\" where the player character is approaching a treasure chest in a dimly lit, rocky area. Above the chest, a large Swift Bat is hiding, ready to ambush. This scene follows the player's defeat of Captain Lotus-Vision, which unlocks the cell containing the chest, and serves as a warning to players about the lurking danger while looting the chest."
+}

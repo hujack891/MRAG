@@ -1,0 +1,28 @@
+{
+    "chunk_id": 70647854013,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg",
+    "alt_text": "Wukong Snowhill 39.jpg",
+    "position_desc": 38,
+    "img_above_text": "![Wukong Snowhill 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_38.jpg)\nIf she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.",
+    "img_below_text": "She can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\n![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 38 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Wukong_Snowhill_38.jpg)\nIf she starts to rapidly fly in circles, dodge back and you'll avoid a whirlwind attack that has a fairly large range outside of her actual body.\"\n            - Following Text: \"She can also lunge toward you while clawing the ground on both sides of her body as she passes. Each spot she hits will erupt with a bolt of lightning, so you'll need to avoid her charging body without rolling into these spots on accident, and be ready for a secondary charge from above as she does it again.\n![Wukong Snowhill 46.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c3/Wukong_Snowhill_46.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c7/Wukong_Snowhill_39.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts an intense battle scene from the game \"Black Myth: Wukong,\" featuring the protagonist Wukong engaged in combat with a large, serpentine dragon named Kang-Jin Loong in a snowy, icy environment. The preceding and following text provides strategic advice for players on how to avoid the dragon's whirlwind and lightning attacks, emphasizing the need for precise dodging and awareness of the dragon's movements."
+}

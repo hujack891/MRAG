@@ -1,0 +1,28 @@
+{
+    "chunk_id": 506243004298,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg",
+    "alt_text": "Wukong BlackWind 37.jpg",
+    "position_desc": 7,
+    "img_above_text": "![Wukong BlackWind 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_BlackWind_41.jpg)\nThis is also a key moment to use the Fireproof Mantle from defeating the secret boss. It will not only negate a lot of fire damage, but slowly build your focus up over time to unleash more heavy attacks in your combos.",
+    "img_below_text": "Once engulfed in flames, the Black Bear Guai will revert to his old tricks of turning into the black wind wisp and charging at you after a small explosion — only this time it will also deal fire damage. Be ready for him to zip back and forth quickly to catch you off guard.\n![Wukong BlackWind 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_BlackWind_38.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 7 from the file 'Black_Bear_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Wukong_BlackWind_41.jpg)\nThis is also a key moment to use the Fireproof Mantle from defeating the secret boss. It will not only negate a lot of fire damage, but slowly build your focus up over time to unleash more heavy attacks in your combos.\"\n            - Following Text: \"Once engulfed in flames, the Black Bear Guai will revert to his old tricks of turning into the black wind wisp and charging at you after a small explosion — only this time it will also deal fire damage. Be ready for him to zip back and forth quickly to catch you off guard.\n![Wukong BlackWind 38.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_BlackWind_38.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e1/Wukong_BlackWind_37.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the boss fight against the Black Bear Guai in *Black Myth: Wukong*. The scene shows the player character dodging an explosive fire attack, with the environment ablaze and the boss's health bar visible at the bottom. This visual highlights the boss's fiery transformation and aggressive attack pattern, as described in the surrounding text, emphasizing the need for strategic use of the Fireproof Mantle and quick reflexes to evade the boss's fire-based assaults."
+}

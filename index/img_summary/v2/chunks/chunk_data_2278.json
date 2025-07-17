@@ -1,0 +1,28 @@
+{
+    "chunk_id": 663759246740,
+    "source_file": "Pagoda_Realm_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Pagoda_3.jpg",
+    "alt_text": "Wukong Pagoda 3.jpg",
+    "position_desc": 3,
+    "img_above_text": "As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".",
+    "img_below_text": "Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Pagoda_Realm_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"As you begin to step out onto the inner walkway, a voice will call out from the next cell, which has a mysterious purple seal you can't break. You can still speak to the person inside, sitting against a wall next to a dead Rat Captain.\nThey'll warn you against trying to make your own way, but you can't exactly do nothing. Still, it pays to heed their warning -- this place is not going to be easy to traverse, especially with minds \"ebbing away with the tides of chants\".\"\n            - Following Text: \"Be extra wary when exploring this area, as there are many Cyan Bats hiding up on ceilings. They'll divebomb you with little warning, and explode with ice to harass you as you deal with other threats.\nPast the first Cyan Bat, be sure to check the first open cell on the left to find a Wisp to absorb, and a Snake-Head Mushroom to harvest.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Pagoda_3.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dark and ominous scene within the Pagoda Realm, featuring a character holding a staff, standing near a cell with intricate and eerie designs. The setting suggests a challenging environment filled with hidden threats, such as Cyan Bats and other dangers. The preceding text hints at a mysterious voice warning the character about the difficulty of traversing the area, while the following text advises caution due to the presence of explosive Cyan Bats and valuable items like a Wisp and Snake-Head Mushroom in nearby cells. The image serves to illustrate the foreboding atmosphere and the perilous journey ahead in the walkthrough."
+}

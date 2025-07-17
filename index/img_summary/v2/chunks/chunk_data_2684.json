@@ -1,0 +1,28 @@
+{
+    "chunk_id": 667882373591,
+    "source_file": "Snowhill_Path_Walkthrough.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg",
+    "alt_text": "Wukong Snowhill 30.jpg",
+    "position_desc": 29,
+    "img_above_text": "![Wukong Snowhill 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Snowhill_29.jpg)\nLook for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.",
+    "img_below_text": "Finally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.\n![Wukong Snowhill 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 29 from the file 'Snowhill_Path_Walkthrough.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Snowhill 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_Snowhill_29.jpg)\nLook for an open covered platform to the left as you descend, and make a quick detour to inspect this area. A Cyan Bat is hiding in the rafters, and after luring it down and defeating it, you can loot one more **Treasure Chest** for an assortment of items.\"\n            - Following Text: \"Finally, head across the bridge to a large open area in the middle of this temple ruin, and you'll meet your new guide for this region, who calls himself the Keeper of the New West.\n![Wukong Snowhill 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Snowhill_31.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Wukong_Snowhill_30.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a character known as the Keeper of the New West, who appears to be a significant guide in the game \"Black Myth: Wukong.\" This character welcomes the protagonist, referred to as the \"Destined One,\" suggesting a pivotal moment in the narrative where the player is introduced to a new phase or region within the game. The preceding text involves exploration and combat, while the following text introduces the Keeper, indicating that the image serves as a transition to a new area and storyline development."
+}

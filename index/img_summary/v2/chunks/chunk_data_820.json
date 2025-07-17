@@ -1,0 +1,28 @@
+{
+    "chunk_id": 835019081312,
+    "source_file": "Curios.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Frostspout_Twig.jpg",
+    "alt_text": "Frostspout Twig.jpg",
+    "position_desc": 12,
+    "img_above_text": "![Mani Bead.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Mani_Bead.jpg)| Mani Bead| Rare | In Chilled state, moderately increases critical hit chance | Randomly dropped from frozen corpses in The New West | Mani Bead\n![Fine China Tea Bowl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Fine_China_Tea_Bowl_.jpg)| Fine China Tea Bowl| Rare | Moderately increases stamina recovery rate. | In a box by a statue and a blade-wielding enemy in the Pagoda Realm along the lowest level, at the end of the path from the Pagoda Realm- Lower Pagoda Shrine in The New West | Fine China Tea Bowl",
+    "img_below_text": "![Black-myth-wukong-auspicious-lantern.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Black-myth-wukong-auspicious-lantern.jpg)| Auspicious Lantern| Rare | Inflicts chants-beguiled effect to the bearer in Cloud Step Moderately increases Attack, but massively reduces Maximum Health | Kill all 9 Lantern Wardens in the Pagoda Realm in The New West before defeating Captain Wise-Voice| Auspicious Lantern\n![Black-myth-wukong-maitreyas-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Black-myth-wukong-maitreyas-orb.jpg)| Maitreya's Orb| Epic | Land enough successful hits on the enemy to avoid the next fatal blow | Found in Mindfullness Cliff in Valley of Ecstasy in The New West, in a box by a statue several rooms along the path up the long staircase ahead from the Shrine | Maitreya's Orb",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 12 from the file 'Curios.md'.\n\n            Context:\n            - Preceding Text: \"![Mani Bead.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Mani_Bead.jpg)| Mani Bead| Rare | In Chilled state, moderately increases critical hit chance | Randomly dropped from frozen corpses in The New West | Mani Bead\n![Fine China Tea Bowl .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Fine_China_Tea_Bowl_.jpg)| Fine China Tea Bowl| Rare | Moderately increases stamina recovery rate. | In a box by a statue and a blade-wielding enemy in the Pagoda Realm along the lowest level, at the end of the path from the Pagoda Realm- Lower Pagoda Shrine in The New West | Fine China Tea Bowl\"\n            - Following Text: \"![Black-myth-wukong-auspicious-lantern.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Black-myth-wukong-auspicious-lantern.jpg)| Auspicious Lantern| Rare | Inflicts chants-beguiled effect to the bearer in Cloud Step Moderately increases Attack, but massively reduces Maximum Health | Kill all 9 Lantern Wardens in the Pagoda Realm in The New West before defeating Captain Wise-Voice| Auspicious Lantern\n![Black-myth-wukong-maitreyas-orb.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/74/Black-myth-wukong-maitreyas-orb.jpg)| Maitreya's Orb| Epic | Land enough successful hits on the enemy to avoid the next fatal blow | Found in Mindfullness Cliff in Valley of Ecstasy in The New West, in a box by a statue several rooms along the path up the long staircase ahead from the Shrine | Maitreya's Orb\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Frostspout_Twig.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a rare in-game item from *Black Myth: Wukong*, likely a mystical or ceremonial object resembling a whisk or brush. Based on the context, it is part of a curated list of collectible items with unique effects or abilities. Positioned between the \"Fine China Tea Bowl\" and \"Auspicious Lantern,\" this item likely serves a specific gameplay purpose, such as enhancing player stats or providing a unique effect, and is tied to exploration or combat within the game's \"The New West\" or \"Pagoda Realm\" locations."
+}

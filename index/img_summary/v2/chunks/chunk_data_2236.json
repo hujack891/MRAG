@@ -1,0 +1,28 @@
+{
+    "chunk_id": 871475186197,
+    "source_file": "Old_Ginseng_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg",
+    "alt_text": "Wukong Karma 16.jpg",
+    "position_desc": 4,
+    "img_above_text": "![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)\nIf he winds up his hand to slam it down into the ground, he'll sneakily send roots your way, which he can use to lock you down and make you unable to flee from his next attack or if you're already stuck in some poison -- but using the Pillar Stance can help you evade his binds.",
+    "img_below_text": "Even with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\n![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 4 from the file 'Old_Ginseng_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong Karma 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8e/Wukong_Karma_13.jpg)\nIf he winds up his hand to slam it down into the ground, he'll sneakily send roots your way, which he can use to lock you down and make you unable to flee from his next attack or if you're already stuck in some poison -- but using the Pillar Stance can help you evade his binds.\"\n            - Following Text: \"Even with his slow speed, he's capable of using his stumbling lurches to lunge at you, so be ready for him to attack with an elbow drop with surprising reach, or a flailing kick that sends him staggering toward you.\n![Wukong Karma 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Karma_15.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Karma_16.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a scene from the game \"Black Myth: Wukong\" where the character is engaged in a battle against the enemy named \"Old Ginseng Guai.\" The context suggests that this enemy uses roots to immobilize the player and can perform sudden lunging attacks despite its slow speed. The image captures the intensity of the combat, with the player character seemingly in a vulnerable position on the ground, highlighting the challenging nature of the encounter."
+}

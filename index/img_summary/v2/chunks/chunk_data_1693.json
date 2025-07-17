@@ -1,0 +1,28 @@
+{
+    "chunk_id": 270606136954,
+    "source_file": "Hundred-Eyed_Daoist_Master.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_67.jpg",
+    "alt_text": "Wukong YellowFlower 67.jpg",
+    "position_desc": 3,
+    "img_above_text": "![Wukong YellowFlower 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_YellowFlower_66.jpg)\nOnce the fight settles down to a 1v1, you'll get a better idea of his many attacks and how best to avoid them. He has a number of different sword sweep attacks he can do when you try a frontal assault, slicing downwards with a forward and backward slash, then spinning around quickly to perform a third hit.",
+    "img_below_text": "He often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.\n![Wukong YellowFlower 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg)",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 3 from the file 'Hundred-Eyed_Daoist_Master.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong YellowFlower 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_YellowFlower_66.jpg)\nOnce the fight settles down to a 1v1, you'll get a better idea of his many attacks and how best to avoid them. He has a number of different sword sweep attacks he can do when you try a frontal assault, slicing downwards with a forward and backward slash, then spinning around quickly to perform a third hit.\"\n            - Following Text: \"He often follows this up by sending out the three paper talismans that float around his free hand to electrically charge the area in front of him before blasting it with a lightning strike, but by dodging to the side you can score several free hits as he draws out the animation.\n![Wukong YellowFlower 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Wukong_YellowFlower_68.jpg)\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_YellowFlower_67.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image depicts a dramatic moment in the battle against the \"Hundred-Eyed Daoist Master,\" a boss character in *Black Myth: Wukong*. The scene showcases the master towering over the player character in a lush field of yellow flowers, with lightning effects and dynamic combat elements visible. This image highlights the intensity of the fight, emphasizing the master's imposing presence and his ability to use powerful attacks, such as sword sweeps and lightning strikes, as described in the surrounding text."
+}

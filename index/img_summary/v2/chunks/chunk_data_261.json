@@ -1,0 +1,28 @@
+{
+    "chunk_id": 339216678422,
+    "source_file": "Black_Bear_Guai.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_BlackWind_42.jpg",
+    "alt_text": "Wukong BlackWind 42.jpg",
+    "position_desc": 11,
+    "img_above_text": "![Wukong BlackWind 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Wukong_BlackWind_40.jpg)\nThis fight will last awhile, so be sure to be mindful of your stamina and back off when you need to recover, or reposition yourself if you find yourself too close to any fire pits he’s created. It’s much better to wait and find a better avenue of attack than getting too reckless and being burned as a result.",
+    "img_below_text": "When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic.",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 11 from the file 'Black_Bear_Guai.md'.\n\n            Context:\n            - Preceding Text: \"![Wukong BlackWind 40.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/57/Wukong_BlackWind_40.jpg)\nThis fight will last awhile, so be sure to be mindful of your stamina and back off when you need to recover, or reposition yourself if you find yourself too close to any fire pits he’s created. It’s much better to wait and find a better avenue of attack than getting too reckless and being burned as a result.\"\n            - Following Text: \"When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_BlackWind_42.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "The image likely depicts a moment of confrontation or aftermath involving the protagonist in *Black Myth: Wukong*, possibly during or after the battle with the Black Bear Guai. The character appears to be in a dynamic pose, holding a weapon and showcasing a sense of intensity or readiness. This visual emphasizes the narrative's focus on combat, resilience, and the protagonist's journey to obtain the Craving Eyes Relic."
+}

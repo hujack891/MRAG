@@ -1,31 +1,6 @@
 {
-    "chunk_id": 95988617790,
-    "source_file": "Fuban.md",
-    "h1_title": "Fuban",
-    "h2_title": "Fuban Boss Fight and Guide",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Sahali_38.jpg",
-    "alt_text": "Wukong Sahali 38.jpg",
-    "position_desc": 21,
-    "img_above_text": "# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nOnce Fuban starts another charge, he’ll repeat doing several leap attacks in a row that you’ll need to keep avoiding. Luckily, the Yellow Wind Sage will put an end to this by banging the drums more to stun Fuban entirely.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 21 from the file 'Fuban.md', located under Fuban Boss Fight and Guide.\n\n                Metadata:\n                - Document Title: Fuban\n                - Section Title: Fuban Boss Fight and Guide\n                - Alt Text: Wukong Sahali 38.jpg\n\n                Context:\n                - Preceding Text: \"# Fuban\nFuban is a secret optional Yaoguai King boss fight that you can encounter in Chapter 2's secret area in Black Myth Wukong. Located in the Kingdom of Sahali locked away in the past, you'll need to help fulfill a drunken Boar's quest to access this area.\n* **Rewards:** Wind Tamer, Sky-Piercing Horn\n## Fuban Boss Fight and Guide\n\nOnce Fuban starts another charge, he’ll repeat doing several leap attacks in a row that you’ll need to keep avoiding. Luckily, the Yellow Wind Sage will put an end to this by banging the drums more to stun Fuban entirely.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Wukong_Sahali_38.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically during the Fuban boss fight. It shows the character Fuban, a Yaoguai King, in a desert-like environment. The image is part of a guide explaining the strategies to defeat Fuban, who performs leap attacks that players must avoid. The guide also mentions that the Yellow Wind Sage can stun Fuban by banging drums, providing a tactical advantage. The image is intended to visually represent the in-game encounter with Fuban, aiding players in recognizing and understanding the boss fight scenario."
+    "chunk_id": 244113540624,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Chapter_4_Secret_Area_%282%29.png",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where the player character, equipped with a staff-like weapon, stands in a dark, rocky environment with a building featuring traditional Asian architecture. A prominent red arrow points towards a specific area on the right side of the image, suggesting a direction or point of interest for the player to explore or interact with. The environment is dimly lit, with details such as rocky terrain and sparse vegetation visible. The arrow serves as a guide, indicating a potential path or objective in the gameplay."
 }

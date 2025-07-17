@@ -1,0 +1,28 @@
+{
+    "chunk_id": 435569828472,
+    "source_file": "Crafting_Materials.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg",
+    "alt_text": "Luojia Fragrant Vine .jpg",
+    "position_desc": 34,
+    "img_above_text": "![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests\n![Mind Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg)| Mind Core| Epic | Rare stat upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters",
+    "img_below_text": "![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\n![Knot Of Voidness .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg)| Knot of Voidness| Legendary | Rare Spirits upgrade material | • Found in chests and locations upon defeating bosses throughout the game",
+    "summary_promot": [
+        {
+            "role": "user",
+            "content": [
+                {
+                    "type": "text",
+                    "text": "You are given an image and related metadata and context.\n\n            Image Position:\n            - This is 34 from the file 'Crafting_Materials.md'.\n\n            Context:\n            - Preceding Text: \"![Blood Of The Iron Bull .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e0/Blood_Of_The_Iron_Bull_.jpg)| Blood of the Iron Bull| Epic | Rare upgrade material | • Defeat Blue Glowing Enemies ( Spirit locations) • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests\n![Mind Core .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9d/Mind_Core_.jpg)| Mind Core| Epic | Rare stat upgrade material | • Dropped from Yaoguai Chiefs, Kings, and enemies • Occassionally found in chests • Reward for completing chapters\"\n            - Following Text: \"![Awaken Wine Worm .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Awaken_Wine_Worm_.jpg)| Awaken Wine Worm| Legendary | Rare Gourds upgrade material | • Found in vases throughout chapters\n![Knot Of Voidness .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Knot_Of_Voidness_.jpg)| Knot of Voidness| Legendary | Rare Spirits upgrade material | • Found in chests and locations upon defeating bosses throughout the game\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**."
+                },
+                {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Luojia_Fragrant_Vine_.jpg",
+                        "detail": "high"
+                    }
+                }
+            ]
+        }
+    ],
+    "img_summary": "This image depicts a rare crafting material from the game *Black Myth: Wukong*. Based on the context, it likely represents an epic or legendary item used for upgrades, similar to the \"Blood of the Iron Bull\" or \"Awaken Wine Worm\" mentioned in the preceding and following text. The intricate design suggests it is a valuable resource, possibly tied to specific in-game activities such as defeating enemies, finding chests, or exploring unique locations. Its narrative role appears to enhance gameplay by enabling upgrades for weapons, stats, or other items."
+}

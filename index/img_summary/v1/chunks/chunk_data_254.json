@@ -1,31 +1,6 @@
 {
-    "chunk_id": 771156823004,
-    "source_file": "Black_Loong.md",
-    "h1_title": "Black Loong",
-    "h2_title": "Where to Find Black Loong",
-    "h3_title": "",
-    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
-    "alt_text": "Wukong Sandgate 63.jpg",
-    "position_desc": 0,
-    "img_above_text": "# Black Loong\nBlack Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Hidden beyond a waterfall of sand in the Fright Cliff, you won't be able to encounter this boss until you obtain a Key Item elswhere in this chapter, Black Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Tridacna Pendant, Thunderbone, Loong Pearl x1, Refined Iron Sand x2, Mind Core x1\n## Where to Find Black Loong\nMuch like the Red Loong Boss FIght, you will not be able to access and challenge this secret boss until obtaining a special item elswhere in Chapter 2.",
-    "img_below_text": "",
-    "summary_promot": [
-        {
-            "role": "user",
-            "content": [
-                {
-                    "type": "text",
-                    "text": "You are given an image and related metadata and context.\n\n                Image Position:\n                - This is 0 from the file 'Black_Loong.md', located under Where to Find Black Loong.\n\n                Metadata:\n                - Document Title: Black Loong\n                - Section Title: Where to Find Black Loong\n                - Alt Text: Wukong Sandgate 63.jpg\n\n                Context:\n                - Preceding Text: \"# Black Loong\nBlack Loong is an optional secret Yaoguai King boss fight that you can encounter in Chapter 2 of Black Myth Wukong. Hidden beyond a waterfall of sand in the Fright Cliff, you won't be able to encounter this boss until you obtain a Key Item elswhere in this chapter, Black Loong is one of four Loong Dragons that can be defeated to earn powerful weapon crafting materials.\n* **Rewards:** Tridacna Pendant, Thunderbone, Loong Pearl x1, Refined Iron Sand x2, Mind Core x1\n## Where to Find Black Loong\nMuch like the Red Loong Boss FIght, you will not be able to access and challenge this secret boss until obtaining a special item elswhere in Chapter 2.\"\n                - Following Text: \"\"\n\n                Your task:\n                1. Generate a **short, clear, and informative English summary** of the image.\n                2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n                3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated."
-                },
-                {
-                    "type": "image_url",
-                    "image_url": {
-                        "url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/55/Wukong_Sandgate_63.jpg",
-                        "detail": "high"
-                    }
-                }
-            ]
-        }
-    ],
-    "img_summary": "The image depicts a scene from the game \"Black Myth Wukong,\" specifically in Chapter 2 where the player character is exploring a rocky, sandy area known as the Fright Cliff. This location is significant as it is where players can find the secret boss, Black Loong, hidden beyond a sand waterfall. The image shows the character navigating the terrain, likely in search of the special item required to access the boss fight. The section title \"Where to Find Black Loong\" indicates that this image serves as a visual guide to help players locate the boss within the game."
+    "chunk_id": 51143274573,
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b2/Wukong_BlackLoong_6.jpg",
+    "summary_promot": "You are shown an image extracted from a video game walkthrough or guide.\n\n\n        Your task: Provide a short, clear, and informative **English summary** of the image, focusing on its relevance to gameplay. \n        Describe key visual elements such as characters, enemies, UI components (e.g., health bars, icons), environments, or any text hints present. \n        Do **not** speculate beyond the visible content.",
+    "img_summary": "The image depicts a scene from a video game where a player is engaged in combat with a creature named \"Black Loong.\" The environment is a rocky, barren landscape, and the creature is emitting bright, electric-like energy, indicating an attack or special ability. The user interface displays the player's health bar at the bottom left, showing a mix of white, green, and blue segments, suggesting different health or stamina levels. On the bottom right, various icons are visible, possibly representing abilities or items that the player can use, with button prompts for activation. The enemy's health bar is displayed at the bottom center, labeled \"Black Loong,\" indicating the current status of the enemy's health. The presence of these elements suggests a dynamic battle scene where the player must manage resources and abilities to defeat the enemy."
 }
