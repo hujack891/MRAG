@@ -17,9 +17,9 @@ def setup_logging(file_name: str):
     # Log file path
     log_file = os.path.join(log_dir, f"{file_name}.log")
 
-    # If the file already exists, delete the old log file first.
-    if os.path.exists(log_file):
-        os.remove(log_file)
+    # Use append mode instead of deleting the file
+    # if os.path.exists(log_file):
+    #     os.remove(log_file)
 
     if baseconfig.LOGGING_LEVEL == 'DEBUG':
         # Configure the logger

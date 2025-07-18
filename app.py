@@ -171,14 +171,15 @@ def query():
                     'content_type': 'text',
                     'distance': float(distance),
                     'similarity_score': float(similarity_score),
-                    'weighted_score': float(similarity_score) * text_weight,
-                    'chunk_id': chunk_data['chunk_id'],
-                    'source_file': chunk_data['source_file'],
-                    'content_type': chunk_data['content_type'],
-                    'h1_title': chunk_data['h1_title'],
-                    'h2_title': chunk_data['h2_title'],
-                    'paragraph_content': chunk_data['content'],
-                    'promot': chunk_data['promot'],
+                    "weighted_score": float(similarity_score) * text_weight,
+                    "chunk_id": chunk_data['chunk_id'],
+                    "source_file": chunk_data['source_file'],
+                    "content_type": chunk_data['content_type'],
+                    "h1_title": chunk_data['h1_title'],
+                    "h2_title": chunk_data['h2_title'],
+                    "h1_content": chunk_data['h1_content'],
+                    "h2_content": chunk_data['h2_content'],
+                    "promot": chunk_data['promot'],
                 })
         
         # 图片检索
@@ -202,19 +203,20 @@ def query():
                     'content_type': 'image',
                     'distance': float(distance),
                     'similarity_score': float(similarity_score),
-                    'weighted_score': float(similarity_score) * image_weight,
-                    'chunk_id': chunk_data['chunk_id'],
-                    'source_file': chunk_data['source_file'],
-                    'h1_title': chunk_data['h1_title'],
-                    'h2_title': chunk_data['h2_title'],
-                    'h3_title': chunk_data['h3_title'],
-                    'img_url': chunk_data['img_url'],
-                    'alt_text': chunk_data['alt_text'],
-                    'position_desc': chunk_data['position_desc'],
-                    'img_above_text': chunk_data['img_above_text'],
-                    'img_below_text': chunk_data['img_below_text'],
-                    'img_summary': chunk_data['img_summary'],
-                    'embedding_prompt': chunk_data['embedding_prompt']
+                    "weighted_score": float(similarity_score) * image_weight,
+                    "chunk_id": chunk_data['chunk_id'],
+                    "source_file": chunk_data['source_file'],
+                    "h1_title": chunk_data['h1_title'],
+                    "h2_title": chunk_data['h2_title'],
+                    "h3_title": chunk_data['h3_title'],
+                    "img_url": chunk_data['img_url'],
+                    "alt_text": chunk_data['alt_text'],
+                    "position_desc": chunk_data['position_desc'],
+                    "img_above_text": chunk_data['img_above_text'],
+                    "img_below_text": chunk_data['img_below_text'],
+                    "img_summary": chunk_data['img_summary'],
+                    "embedding_prompt": chunk_data['embedding_prompt'],
+                    "generate_prompt": chunk_data['generate_prompt']
                 })
         
         # 合并结果并排序
@@ -237,11 +239,9 @@ def query():
             Requirements:
             1. Integrate text and image information naturally, ensuring logical flow
             2. Use retrieved image URLs exactly as provided
-            3. Create meaningful image descriptions based on AI summaries
-            4. Maintain coherent narrative structure
-            5. Preserve source context and relationships
-            6. Answer the user's question comprehensively using all relevant information
-            7.The retrieved information is sorted by similarity (descending). Prioritize the most relevant items at the top.
+            3. Maintain coherent narrative structure
+            4. Preserve source context and relationships
+            5. The retrieved information is sorted by similarity (descending). 
         """
         
         # 构建用户提示词
@@ -306,4 +306,4 @@ if __name__ == '__main__':
         print("数据库加载成功，启动Web服务...")
         app.run(debug=True, host='0.0.0.0', port=5001)
     else:
-        print("数据库加载失败，请检查数据库文件是否存在") 
+        print("数据库加载失败，请检查数据库文件是否存在")
