@@ -27,7 +27,7 @@ MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
 TEXT_DATABASE_PATH = "./index/text/v3"
 IMAGE_DATABASE_PATH = "./index/image/v3"
-OUTPUT_DIR = "./result"
+OUTPUT_DIR = "./result/level3"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 baseconfig= BaseConfig()
@@ -88,7 +88,7 @@ def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS
             
         elif result["content_type"] == "image":
             context_parts.append(f"Image Segment {i+1}")     
-            context_parts.append(f"{result['embedding_prompt']}")      
+            context_parts.append(f"{result['generate_prompt']}")      
             context_parts.append(f"Image URL: {result['img_url']}")
             context_parts.append("")    
 
@@ -97,8 +97,7 @@ def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS
 
 
 def main():
-
-# 读取数据库
+    # 读取数据库
     try:
         # 加载文本数据库
         if os.path.exists(TEXT_DATABASE_PATH):
@@ -180,7 +179,6 @@ def main():
             
             for i, (distance, idx) in enumerate(zip(text_distances[0], text_indices[0])):
                 # 通过idx获取chunk_id
-                print(idx)
                 chunk_id = text_chunk_id_to_path[str(idx)]
                 # 通过chunk_id获取chunk_path
                 chunk_path = os.path.join(text_chunk_path, chunk_id)
@@ -240,7 +238,8 @@ def main():
                     "img_above_text": chunk_data['img_above_text'],
                     "img_below_text": chunk_data['img_below_text'],
                     "img_summary": chunk_data['img_summary'],   
-                    "embedding_prompt": chunk_data['embedding_prompt']          
+                    "embedding_prompt": chunk_data['embedding_prompt'],     
+                    "generate_prompt": chunk_data['generate_prompt']     
                 })             
 
 

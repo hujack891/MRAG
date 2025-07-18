@@ -26,8 +26,8 @@ image_weight = 0.5
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
 TEXT_DATABASE_PATH = "./index/text/v1"
-IMAGE_DATABASE_PATH = "./index/image/v3"
-OUTPUT_DIR = "./result"
+IMAGE_DATABASE_PATH = "./index/image/v1"
+OUTPUT_DIR = "./result/level1"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 baseconfig= BaseConfig()
@@ -59,17 +59,8 @@ def query_embedding(query):
         logger.error(f"生成查询向量时发生错误: {error_msg}")
         return None
     
-
 def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS:int) -> str:
-    """
-    将检索结果格式化为上下文信息，供后续AI处理
-    
-    Args:
-        search_results: 混合搜索结果
-        
-    Returns:
-        格式化的上下文字符串
-    """
+    """格式化检索内容"""
     if not search_results:
         return "检索失败，无可用上下文信息。"
     
@@ -90,7 +81,7 @@ def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS
             
         elif result["content_type"] == "image":
             context_parts.append(f"Image Segment {i+1}")     
-            context_parts.append(f"{result['embedding_prompt']}")      
+            context_parts.append(f"{result['generate_prompt']}")      
             context_parts.append(f"Image URL: {result['img_url']}")
             context_parts.append("")    
 
@@ -166,7 +157,6 @@ def main():
         except ValueError:
             top_n = TOP_N_RESULTS
 
-
         # 将问题转换为向量
         query_vector = query_embedding(query)
         
@@ -179,7 +169,6 @@ def main():
                 query_vector.reshape(1, -1), top_k
             )
 
-            
             for i, (distance, idx) in enumerate(zip(text_distances[0], text_indices[0])):
                 # 通过idx获取chunk_id
                 print(idx)
@@ -203,6 +192,7 @@ def main():
                     "content_type": chunk_data['content_type'],
                     "h1_title": chunk_data['h1_title'],         # 可留空或使用默认标识
                     "h2_title": chunk_data['h2_title'],
+                    "h3_title": chunk_data['h3_title'],                    
                     "paragraph_content": chunk_data['content'],
                     "promot": chunk_data['promot'],                  
                 })  
@@ -232,16 +222,12 @@ def main():
                     "weighted_score": float(similarity_score) * image_weight,
                     "chunk_id": chunk_data['chunk_id'],
                     "source_file": chunk_data['source_file'],
-                    "h1_title": chunk_data['h1_title'],         
-                    "h2_title": chunk_data['h2_title'],
-                    "h3_title": chunk_data['h3_title'],
                     "img_url": chunk_data['img_url'],
                     "alt_text": chunk_data['alt_text'],
                     "position_desc": chunk_data['position_desc'],
-                    "img_above_text": chunk_data['img_above_text'],
-                    "img_below_text": chunk_data['img_below_text'],
                     "img_summary": chunk_data['img_summary'],   
-                    "embedding_prompt": chunk_data['embedding_prompt']          
+                    "embedding_prompt": chunk_data['embedding_prompt'],  
+                    "generate_prompt": chunk_data['generate_prompt'],  
                 })             
 
 

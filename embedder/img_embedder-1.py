@@ -110,7 +110,6 @@ def main():
     index = faiss.IndexIDMap(index)  # 支持 add_with_ids
 
     # 通过嵌入模型生成向量，保存到索引库中
-
     def process_chunk(chunk_data):
         try:
             response = client.embeddings.create(
@@ -134,8 +133,7 @@ def main():
                 index.add_with_ids(embedding.reshape(1, -1), np.array([chunk_id]))
                 logger.info(f"成功将chunk {i} 的内容与向量建立索引")
 
-    logger.info("\n========== 第六步：保存chunk信息到JOSN文件 ==========")
-
+    # 保存chunk信息到JOSN文件
     # 创建chunks文件夹
     chunks_dir = os.path.join(OUTPUT_DIR, "chunks")
     os.makedirs(chunks_dir, exist_ok=True)
@@ -149,12 +147,13 @@ def main():
         chunk_id_to_path[str(chunk.chunk_id)] = f"chunks/chunk_data_{i}.json"
         logger.info(f"chunk信息已保存到 {output_path}")
 
+    # 构建ID到JSON的路径映射
     mapping_path = os.path.join(OUTPUT_DIR, "chunk_id_to_path.json")
     with open(mapping_path, 'w', encoding='utf-8') as f:
         json.dump(chunk_id_to_path, f, ensure_ascii=False, indent=4)
 
     logger.info(f"chunk_id 映射信息已保存到 {mapping_path}")
-    logger.info("\n========== 第七步：保存向量索引库 ==========")
+
     # 保存向量索引库
     index_path = os.path.join(OUTPUT_DIR, "img_embedder_index.faiss")
     faiss.write_index(index, index_path)

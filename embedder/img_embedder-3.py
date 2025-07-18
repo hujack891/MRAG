@@ -22,6 +22,16 @@ logger = setup_logging(os.path.splitext(os.path.basename(__file__))[0])
 # 初始化tiktoken编码器
 encoding = tiktoken.get_encoding("cl100k_base")
 
+# 读取环境变量和路径 
+baseconfig = BaseConfig()
+INPUT_DIR = "./index/img_summary/v3/chunks"  
+OUTPUT_DIR = "./index/image/v3"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+client = OpenAI(
+    base_url=baseconfig.EMBEDDING_URL,
+    api_key=baseconfig.EMBEDDING_API
+)
 @dataclass
 class SummaryData:
     chunk_id: int
@@ -96,19 +106,10 @@ def load_chunks_to_chunk_data(file_path: str) -> List[SummaryData]:
     return all_chunk_data
 
 def main():
-
-    logger.info("========== 第一步：读取环境变量和路径 ==========")
-    
-    baseconfig = BaseConfig()
-    INPUT_DIR = "./index/img_summary/v3/chunks"  
-    OUTPUT_DIR = "./index/image/v3"
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-    logger.info("\n========== 第二步：加载chunks数据 ==========")
+    # 加载chunks数据
     all_chunk_data = load_chunks_to_chunk_data(INPUT_DIR)
 
-    logger.info("\n========== 第三步：构建提示词 ==========")
-
+    # 构建提示词
     for i in range(len(all_chunk_data)):
         if all_chunk_data[i].h2_title != "":  
             generate_prompt = (
@@ -133,18 +134,12 @@ def main():
         all_chunk_data[i].embedding_prompt = all_chunk_data[i].img_summary
         all_chunk_data[i].generate_prompt = generate_prompt
 
-    logger.info("\n========== 第四步：创建向量索引库 ==========")
+    # 创建向量索引库
     textembedding3largeconfig = TextEmbedding3LargeConfig()
     index = faiss.IndexFlatL2(textembedding3largeconfig.EMBEDDING_DIM)   # 使用 L2 距离的扁平索引（暴力搜索）
     index = faiss.IndexIDMap(index)  # 支持 add_with_ids
 
-    logger.info("\n========== 第五步：将chunk内容转为向量，并保存到向量索引库中 ==========")
-
-    client = OpenAI(
-        base_url=baseconfig.EMBEDDING_URL,
-        api_key=baseconfig.EMBEDDING_API
-    )
-    
+    # 将chunk内容转为向量，保存到向量索引库中
     def process_chunk(chunk_data):
         try:
             response = client.embeddings.create(
@@ -168,8 +163,7 @@ def main():
                 index.add_with_ids(embedding.reshape(1, -1), np.array([chunk_id]))
                 logger.info(f"成功将chunk {i} 的内容与向量建立索引")
 
-    logger.info("\n========== 第六步：保存chunk信息到JOSN文件 ==========")
-
+    # 保存chunk信息到JOSN文件
     # 创建chunks文件夹
     chunks_dir = os.path.join(OUTPUT_DIR, "chunks")
     os.makedirs(chunks_dir, exist_ok=True)
@@ -183,12 +177,13 @@ def main():
         chunk_id_to_path[str(chunk.chunk_id)] = f"chunks/chunk_data_{i}.json"
         logger.info(f"chunk信息已保存到 {output_path}")
 
+    # 构建ID到JSON的路径映射
     mapping_path = os.path.join(OUTPUT_DIR, "chunk_id_to_path.json")
     with open(mapping_path, 'w', encoding='utf-8') as f:
         json.dump(chunk_id_to_path, f, ensure_ascii=False, indent=4)
 
     logger.info(f"chunk_id 映射信息已保存到 {mapping_path}")
-    logger.info("\n========== 第七步：保存向量索引库 ==========")
+    
     # 保存向量索引库
     index_path = os.path.join(OUTPUT_DIR, "img_embedder_index.faiss")
     faiss.write_index(index, index_path)

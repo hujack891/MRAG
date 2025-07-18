@@ -25,9 +25,9 @@ image_weight = 0.5
 
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
-TEXT_DATABASE_PATH = "./index/text/v1"
-IMAGE_DATABASE_PATH = "./index/image/v3"
-OUTPUT_DIR = "./result"
+TEXT_DATABASE_PATH = "./index/text/v2"
+IMAGE_DATABASE_PATH = "./index/image/v2"
+OUTPUT_DIR = "./result/level2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 baseconfig= BaseConfig()
@@ -90,7 +90,7 @@ def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS
             
         elif result["content_type"] == "image":
             context_parts.append(f"Image Segment {i+1}")     
-            context_parts.append(f"{result['embedding_prompt']}")      
+            context_parts.append(f"{result['generate_prompt']}")      
             context_parts.append(f"Image URL: {result['img_url']}")
             context_parts.append("")    
 
@@ -232,16 +232,14 @@ def main():
                     "weighted_score": float(similarity_score) * image_weight,
                     "chunk_id": chunk_data['chunk_id'],
                     "source_file": chunk_data['source_file'],
-                    "h1_title": chunk_data['h1_title'],         # 可留空或使用默认标识
-                    "h2_title": chunk_data['h2_title'],
-                    "h3_title": chunk_data['h3_title'],
                     "img_url": chunk_data['img_url'],
                     "alt_text": chunk_data['alt_text'],
                     "position_desc": chunk_data['position_desc'],
                     "img_above_text": chunk_data['img_above_text'],
                     "img_below_text": chunk_data['img_below_text'],
                     "img_summary": chunk_data['img_summary'],   
-                    "embedding_prompt": chunk_data['embedding_prompt']          
+                    "embedding_prompt": chunk_data['embedding_prompt'],   
+                    "generate_prompt": chunk_data['generate_prompt']          
                 })             
 
 

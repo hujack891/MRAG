@@ -67,7 +67,6 @@ def extract_chunks_from_markdown(content: str, filename: str) -> List[SummaryDat
         ))
 
         position += 1
-
     return summary_chunks
 
 def build_prompt_text(chunk_data:SummaryData):
