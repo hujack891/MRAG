@@ -20,7 +20,7 @@ logger = setup_logging(os.path.splitext(os.path.basename(__file__))[0])
 TOP_K_RESULTS = 5  # 文本检索数量
 TOP_N_RESULTS = 5  # 图片检索数量
 
-text_weight = 0.5  # 弥补文本和图片的差距
+text_weight = 0.5  
 image_weight = 0.5
 
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
@@ -61,15 +61,6 @@ def query_embedding(query):
     
 
 def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS:int) -> str:
-    """
-    将检索结果格式化为上下文信息，供后续AI处理
-    
-    Args:
-        search_results: 混合搜索结果
-        
-    Returns:
-        格式化的上下文字符串
-    """
     if not search_results:
         return "检索失败，无可用上下文信息。"
     
@@ -96,10 +87,7 @@ def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS
 
     return "\n".join(context_parts)
 
-
-
 def main():
-
 # 读取数据库
     try:
         # 加载文本数据库
@@ -270,11 +258,9 @@ def main():
             Requirements:
             1. Integrate text and image information naturally, ensuring logical flow
             2. Use retrieved image URLs exactly as provided
-            3. Create meaningful image descriptions based on AI summaries
-            4. Maintain coherent narrative structure
-            5. Preserve source context and relationships
-            6. Answer the user's question comprehensively using all relevant information
-            7.The retrieved information is sorted by similarity (descending). Prioritize the most relevant items at the top.
+            3. Maintain coherent narrative structure
+            4. Preserve source context and relationships
+            5. The retrieved information is sorted by similarity (descending). 
         """
 
         # 构建用户提示词
@@ -311,7 +297,7 @@ def main():
             
             # 确保生成的答案被保存为Markdown文件
             if answer:
-                filename = f'answer_{datetime.now().strftime("%Y%m_%H%M%S")}.md'
+                filename = f'{query}_answer_{datetime.now().strftime("%Y%m_%H%M%S")}.md'
                 filepath = os.path.join(OUTPUT_DIR, filename)
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(f"Q: {query}\n")

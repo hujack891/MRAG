@@ -20,7 +20,7 @@ logger = setup_logging(os.path.splitext(os.path.basename(__file__))[0])
 TOP_K_RESULTS = 5  # 文本检索数量
 TOP_N_RESULTS = 5  # 图片检索数量
 
-text_weight = 0.5  # 弥补文本和图片的差距
+text_weight = 0.5  
 image_weight = 0.5
 
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
@@ -28,6 +28,7 @@ MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 TEXT_DATABASE_PATH = "./index/text/v1"
 IMAGE_DATABASE_PATH = "./index/image/v1"
 OUTPUT_DIR = "./result/level1"
+QUERY_PATH = "datasets_org"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 baseconfig= BaseConfig()
@@ -190,7 +191,7 @@ def main():
                     "chunk_id": chunk_data['chunk_id'],
                     "source_file": chunk_data['source_file'],
                     "content_type": chunk_data['content_type'],
-                    "h1_title": chunk_data['h1_title'],         # 可留空或使用默认标识
+                    "h1_title": chunk_data['h1_title'],         
                     "h2_title": chunk_data['h2_title'],
                     "h3_title": chunk_data['h3_title'],                    
                     "paragraph_content": chunk_data['content'],
@@ -238,6 +239,7 @@ def main():
 
         # 将结果按相似度分数从高到低排序
         results.sort(key=lambda x: x['weighted_score'], reverse=True)
+
         # 将结果记录到results.json文件中
         with open(os.path.join(OUTPUT_DIR, f'results_text_and_image_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'), 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=4)
@@ -258,11 +260,9 @@ def main():
             Requirements:
             1. Integrate text and image information naturally, ensuring logical flow
             2. Use retrieved image URLs exactly as provided
-            3. Create meaningful image descriptions based on AI summaries
-            4. Maintain coherent narrative structure
-            5. Preserve source context and relationships
-            6. Answer the user's question comprehensively using all relevant information
-            7.The retrieved information is sorted by similarity (descending). Prioritize the most relevant items at the top.
+            3. Maintain coherent narrative structure
+            4. Preserve source context and relationships
+            5. The retrieved information is sorted by similarity (descending). 
         """
 
         # 构建用户提示词
@@ -299,7 +299,7 @@ def main():
             
             # 确保生成的答案被保存为Markdown文件
             if answer:
-                filename = f'answer_{datetime.now().strftime("%Y%m_%H%M%S")}.md'
+                filename = f'{query}_answer_{datetime.now().strftime("%Y%m_%H%M%S")}.md'
                 filepath = os.path.join(OUTPUT_DIR, filename)
                 with open(filepath, 'w', encoding='utf-8') as f:
                     f.write(f"Q: {query}\n")
