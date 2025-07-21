@@ -98,6 +98,21 @@ def generate_report(results, output_file="image_validation_report.csv"):
     df.to_csv(output_file, index=False, encoding='utf-8-sig')
     logger.info(f"验证报告已保存到: {output_file}")
     
+    # 计算总图片数量
+    total_original_images = 0
+    total_cleaned_images = 0
+    valid_files = 0
+    
+    for result in results:
+        original_count = result['原始图片数量']
+        cleaned_count = result['清理后图片数量']
+        
+        # 只统计成功读取的文件
+        if original_count != '读取失败' and cleaned_count != '读取失败':
+            total_original_images += original_count
+            total_cleaned_images += cleaned_count
+            valid_files += 1
+    
     # 打印统计信息
     total_files = len(results)
     consistent_files = len([r for r in results if r['是否一致'] == '✓'])
@@ -105,9 +120,15 @@ def generate_report(results, output_file="image_validation_report.csv"):
     
     logger.info("\n=== 图片数量验证报告 ===")
     logger.info(f"总文件数: {total_files}")
+    logger.info(f"有效文件数: {valid_files}")
+    logger.info(f"原始文件夹总图片数: {total_original_images}")
+    logger.info(f"清理后文件夹总图片数: {total_cleaned_images}")
     logger.info(f"图片数量一致: {consistent_files}")
     logger.info(f"图片数量不一致: {inconsistent_files}")
     logger.info(f"一致率: {consistent_files/total_files*100:.2f}%")
+    
+    if total_original_images > 0:
+        logger.info(f"图片保留率: {total_cleaned_images/total_original_images*100:.2f}%")
     
     # 打印详细表格
     logger.info("\n=== 详细验证结果 ===")
@@ -124,10 +145,10 @@ def main():
     
     # 输入和输出文件夹路径
     input_folder = "./data/doc"
-    output_folder = "./data/doc_cleaned"
+    compare_folder = "./data/doc_cleaned"
     
     # 验证图片数量
-    results = validate_image_counts(input_folder, output_folder)
+    results = validate_image_counts(input_folder, compare_folder)
     
     if results:
         # 生成报告

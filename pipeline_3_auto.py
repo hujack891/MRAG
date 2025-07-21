@@ -27,8 +27,8 @@ image_weight = 0.5
 
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
-TEXT_DATABASE_PATH = "./index/text/v3"
-IMAGE_DATABASE_PATH = "./index/image/v3"
+TEXT_DATABASE_PATH = "./index/text/withcontext"
+IMAGE_DATABASE_PATH = "./index/image/withcontext"
 OUTPUT_DIR = "./result/level3_auto"
 DATASETS_ORG_DIR = "datasets_org"
 
