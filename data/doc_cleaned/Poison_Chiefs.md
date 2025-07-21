@@ -24,13 +24,11 @@ The biggest issue is the poison attacks, and it's essential to interrupt them as
 
 ![Foothills Walkthrough \(129\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)
 
-. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff. 
+From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff. 
 
 ![Foothills Walkthrough \(133\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Foothills_Walkthrough_%28133%29.png)
 
 On the opposite side of the water, there's a clearing, with what appears to be a big rock sitting by the edge of it. This is actually one of the Poison Chiefs in the area, so fly over to it to tackle your next miniboss. 
-
-Poison Chief 1
 
 ## How to Find Poison Chief 2
 
@@ -46,8 +44,6 @@ Facing the Keeper's Shrine, fly up from it and look to the right. Get as high as
 
 In the midst of the trees, there's a small patch of ground with no grass. The Poison Chief can be found here. 
 
-Poison Chief 2
-
 ## How to Find Poison Chief 2
 
 ![Foothills Walkthrough \(138\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Foothills_Walkthrough_%28138%29.png)
@@ -58,12 +54,8 @@ When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of t
 
 As you get close to the edge of the cliff, you'll find another clearing with a rock in the middle. This is the third Poison Chief in the region. 
 
-Poison Chief 3
-
 ## How to Find Poison Chief 4
 
 ![Foothills Walkthrough \(140\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Foothills_Walkthrough_%28140%29.png)
 
 Head back to the Keeper's Shrine once you've defeated the Cloudtreading Deer. Fly up high again, and look straight ahead for another rocky part of the cliff. It'll be hard to see from here, but fly straight forward and you should see a distinctive tall white tree. Next to it is a clearing, where you can find the final Poison Chief. 
-
-Poison Chief 4

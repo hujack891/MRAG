@@ -3,12 +3,12 @@
 The Bamboo Grove is the second main region of Chapter 1's Black Wind Mountain in Black Myth: Wukong. Below you'll find a guide to the progressing through the grove and learning how to cultivate Spirits, accessing a secret realm, as well as how to defeat the many bosses of this area that include Baw-Li-Guhh-Lang, Guangmou, and the Whiteclad Noble. 
 
   * **Jump to A Section:**
-  * **Back Hills**
-  * **Snake Trail**
-    * Yaoguai Chief - Baw-Li-Guhh-Lang
-    * Yaoguai Chief - Guangmo
-  * **Marsh of the White Mist**
-    * Boss FIght - Whiteclad Noble
+* **Back Hills**
+* **Snake Trail**
+  - Yaoguai Chief - Baw-Li-Guhh-Lang
+  - Yaoguai Chief - Guangmo
+* **Marsh of the White Mist**
+  - Boss FIght - Whiteclad Noble
 
 ## Back Hills
 
@@ -21,8 +21,6 @@ Before moving on, be sure to hug the left wall to find a small path leading to a
 ![Wukong Bamboo 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3c/Wukong_Bamboo_2.jpg)
 
 The whip-wielding warrior will offer some interesting insight about the Black Wind King that rules over this mountain, and the greed and lies that have infected him and his people. While you’re here, you can interact with a small pillow in the middle of the cave to rest at a new **Meditation Spot** in front of the altar, granting you a new Skill Point. 
-
-The Cavern, Bamboo Grove Meditation Spot
 
 Back outside, continue on the main path taking out the three lesser wolves and harvesting Jade Lotus from the pond and Gentian on to the right of the path. 
 
@@ -108,8 +106,6 @@ Finally, he can unleash a tongue attack that sweeps back and forth with a large 
 
 When Baw-Li-Guhh-Lang finally falls, he’ll leave behind his purple Spirit and a Tadpole Material. Using your new Blessed Gourd upgrade, you can now absorb the Spirit and add Baw-Li-Guhh-Lang’s power to your own, and temporarily transform to unleash a tongue attack against several enemies. If you decide to commit to cultivating his spirit and upgrading its damage potential, you can use the Tadpole he dropped to further upgrade it later on. 
 
-Baw-Li-Guhh-Lang
-
 ![Wukong Bamboo 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Wukong_Bamboo_20.jpg)
 
 From the mini-boss lair, you can head past where the toad emerged from to the right to find a path with a green wisp Spirit you can absorb for a decent amount of Will. Past this is a Snake-Head Mushroom, and a ledge that will lead down to a larger central area that the main path also leads to. 
@@ -165,8 +161,6 @@ The good news is other than his poison spray, Guangmou doesn’t really have any
 Another good strategy to note is that if you’re in danger of getting close to becoming poisoned, using the Red Tides spell can help you transform out of danger. Any status effects suffered while transformed as Guangzhi will be removed when you regain your regular health bar. As an added bonus, Guangmou will even comment on your transformation. 
 
 Once you’ve learned how to evade his projectiles, the rest of the fight will just boil down to chasing him down and stunning him however you can with Immobilize, your Spirit Attack, and other heavy hits. When he falls, you’ll gain Guangmou’s Spirit to add to your collection, allowing you to summon venomous snakes of your own! 
-
-Guangmou
 
 ## Black Wind Mountain’s Secret - Ringing the Second Bell
 
@@ -258,8 +252,6 @@ Beyond that, the rest of the second phase of this fight will come down to antici
 
 Defeat him to earn a **Jade Fang** , and he’ll concede, revealing he was only feigning loyalty to the king of this mountain to learn more. He’ll also drop a helpful nugget of wisdom as he departs, mentioning though the temple lies in cinders, the Elder’s soul endures, and asks if you’ve seen the three bells. 
 
-Whiteclad Noble
-
 This will finally prompt the Keeper to tell the tale of the three bells — two of which you’ve found guarded by Guangmou and Guangzhi. The third happens to lie not far from this site. Instead of moving forward, look to the left to spot a flooded ravine to travel through. 
 
 ![Wukong Bamboo 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_Bamboo_55.jpg)
@@ -274,5 +266,3 @@ Defeat the Wolves that guard this area, and you can find and ring the last bell 
 If you’re ready for a tough secret boss fight, you can enter the burned temple to face off against Elder Jinchi, and you can view strategies to defeat this boss here. 
 
 Otherwise, return to the marsh and head through the structure the Whiteclad Noble was guarding to leave the Bamboo Grove behind and enter the final area of the Black Wind Mountain - **Black Wind Cave**. 
-
-Bamboo Grove Complete

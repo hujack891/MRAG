@@ -3,8 +3,8 @@
 **Charface** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Charface offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Charface, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Charface Location
-  * Charface Fight
-  * Charface Spirit
+* Charface Fight
+* Charface Spirit
 
 ![Charface.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Charface.png)
 
@@ -26,10 +26,4 @@ Charface fights like all other enemies of his type. His weapon of choice is a la
   * Equipped Effect: Moderately increases charging speed. 
 
 Charface's Spirit allows you to take his form and plunge his large, fiery scimitar into the ground, causing lava to explode out and burn any nearby foes. Charface is a strong enemy, and so is his Spirit. Not only can you deal massive damage to the enemies around you, but having Charface equipped also speeds up your charging speed, allowing you to charge Heavy Attacks faster. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

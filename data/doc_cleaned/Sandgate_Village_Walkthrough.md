@@ -3,12 +3,12 @@
 Black Myth: Wukong's Chapter 2 begins at the outskirts of a Village in the Yellow Wind Ridge, which spreads out to reach multiple areas. Below you'll find a guide for the first major area of Yellow Wind Ridge: Sandgate Village, as well as how to defeat its many bosses that include Lang-Li-Guhh-Baw, the Earth Wolf, the King of Flowing Sands and his First and Second Rat Princes. 
 
   * **Jump to A Section:**
-  * **Village Entrance**
-    * Yaoguai Chief - Lang-Li-Guhh-Baw
-    * Yaoguai Chief - Earth Wolf
-    * Yaoguai Chief - King of Flowing Sands and Second Rat Prince
-  * **Valley of Despair**
-    * Yaoguai Chief - First Prince of Flowing Sands
+* **Village Entrance**
+  - Yaoguai Chief - Lang-Li-Guhh-Baw
+  - Yaoguai Chief - Earth Wolf
+  - Yaoguai Chief - King of Flowing Sands and Second Rat Prince
+* **Valley of Despair**
+  - Yaoguai Chief - First Prince of Flowing Sands
 
 ![Wukong Sandgate 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Sandgate_1.jpg)
 
@@ -49,11 +49,13 @@ Keep following it along some wooden scaffolding above a ravine leading back to t
 Make sure to take the time to view the new additions to the Chapter 2’s Shrines menu. Note that you can still freely fast travel back to any Shrine in Chapter 1’s Black Wind Mountain if you missed out on any secrets. The store is also selling very different items than it was in the previous chapter, and you’ll find that the selection will change based on which chapter you are in: 
 
 Yellow Wind Ridge Shrine Shop   
-Antimiasma Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will |   
-Mind Core (x2) - 720 Will | Silk (x2) - 600 Will | Yaoguai Core (x2) - 450 Will |   
-Licorice (x5) - 120 Will | Aged Ginseng (x5) - 90 Will | Fragrant Jade Flower (x5) - 120 Will | Purple Lingzhi (x5) - 90 Will   
-Fire Bellflower (x5) - 120 Will | Jade Lotus (x5) - 90 Will | |   
-  
+| Yellow Wind Ridge Shrine Shop     | Yellow Wind Ridge Shrine Shop         | Yellow Wind Ridge Shrine Shop        | Yellow Wind Ridge Shrine Shop |
+| --------------------------------- | ------------------------------------- | ------------------------------------ | ----------------------------- |
+| Antimiasma Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will  |                               |
+| Mind Core (x2) - 720 Will         | Silk (x2) - 600 Will                  | Yaoguai Core (x2) - 450 Will         |                               |
+| Licorice (x5) - 120 Will          | Aged Ginseng (x5) - 90 Will           | Fragrant Jade Flower (x5) - 120 Will | Purple Lingzhi (x5) - 90 Will |
+| Fire Bellflower (x5) - 120 Will   | Jade Lotus (x5) - 90 Will             |                                      |                               |
+
 ![Wukong Sandgate 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Sandgate_10.jpg)
 
 In addition, you’ll also have access to crafting a new set of armor since defeating the Black Wind King: The Ebongold Set, which provides better defense and a few bonuses to using your Cloud Step. Also, with the Flame Ebongold from the boss himself, you can use it and other ingredients to craft the Wind Bear Staff! 
@@ -106,13 +108,9 @@ If you’re having trouble dealing with his many lightning attacks, remember to 
 
 Once you defeat this frog boss, he’ll drop the Evil Repelling Medicament formula. Return it to the Xu dog back outside the pit. Not only will he reward you with 2 Evil Repelling Medicament for your trouble, but you’ll also unlock the ability to create all sorts of consumables yourself at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables. 
 
-Lang-Li-Guhh-Baw
-
 ![Wukong Sandgate 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_24.jpg)
 
 Before leaving the area, be sure to look around the rim of the pit past where the Xu Dog was, and you can find a high ledge path leading to a small altar with a giant statue head, and a **Meditation Spot** in front of it, granting you a free Spark Skill Point. 
-
-The Altar, Sandgate Village Meditation Spot
 
 ![Wukong Sandgate 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cd/Wukong_Sandgate_25.jpg)
 
@@ -208,8 +206,6 @@ You can also get an opportune strike after dodging its grab by using that moment
 
 With enough damage dealt, the Earth Wolf will fall, revealing its Spirit to be claimed by you. You can look around the arena to harvest some Jade Lotus in the pond, or check the back of the houses to find other materials like Aged Ginseng. 
 
-Earth Wolf
-
 ![Wukong Sandgate 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Wukong_Sandgate_45.jpg)
 
 Be sure to head on over to the altar with the tiger statue to find the source of the person calling for help — it’s the same friendly Horse Guai you may have met in Chapter 1 by a Meditation Point right after Guanyin Temple. He’ll be thankful for your arrival, but stresses that he’ll be okay and can slip out on his own. Chat him up to learn more about the rats of this region, and then take him at his word and leave him to make his own way out. 
@@ -286,8 +282,6 @@ Another terrifying new move is for him to do a slow spin ending with a weapon to
 
 Ideally, the lower you have his health before killing his father, the less time you’ll have to worry about this phase if you can rush him down. If you don’t kill his dad, he’ll scurry off as soon as the Second Prince falls. If not, you’ll be able to help yourself to the Second Prince’s Spirit, as well as a Pungent Flesh Chunk. 
 
-King of Flowing Sands and Second Rat Prince
-
 ## Valley of Despair
 
 ![Wukong Sandgate 62.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cf/Wukong_Sandgate_62.jpg)
@@ -356,8 +350,6 @@ Even as big as he is with a larger health pool, he’s not as ferocious as the e
 
 Once he’s been defeated, he’ll drop the **Arhat Gold Piece** Key Item. We'll need it for a sidequest elsewhere in this chapter. 
 
-First Prince of Flowing Sands
-
 ### The Loong’s Secret Tomb
 
 ![Wukong RedLoong 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/02/Wukong_RedLoong_2.jpg)  
@@ -389,5 +381,3 @@ Finally, exit the room where the first Swift Bat was to find a canyon path down 
 ![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)
 
 Due to the layout of this area and the progression of a few sidequests, we’ll be coming back here later, and continue by traveling back to where the Second Prince was defeated and crossing the bridge right to the **Fright Cliff**. 
-
-Sandgate Village Complete

@@ -90,8 +90,4 @@ A good tactic to employ for this fight is to use the Thrust Stance’s retreatin
 
 Upon defeat, he’ll relent and offer to let you join him in exploring the Realm of Gold together, before vanishing off behind the giant gate. You’ll also earn the Snout Mask head gear, which has an interesting effect on raising and lowering attack power based on gourd use. 
 
-Yellow-Robed Squire
-
 Once you follow him through the large gate with the small crawlspace, you’ll find yourself overlooking an ancient and forgotten kingdom, and suddenly be transported into the past and into **Chapter 2’s Secret Area: The Kingdom of Sahali**. 
-
-Drunken Boar's Quest

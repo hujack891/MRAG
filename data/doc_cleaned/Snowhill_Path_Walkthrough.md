@@ -3,10 +3,10 @@
 Black Myth: Wukong's Chapter 3 begins in the freezing mountain trail toward The New West. Below you'll find a guide for the first major area of The New West: Snowhill Path, as well as how to win your first encounter with Macaque Chief, and defeat the mighty Kang-Jin Loong. 
 
   * **Jump to a Section:**
-  * **Frost-Clad Path**
-    * Yaoguai Chief - Macaque Chief
-  * **Mirrormere**
-    * Yaoguai Queen - Kang-Jin Loong
+* **Frost-Clad Pat**
+  - Yaoguai Chief - Macaque Chief
+* **Mirrormere**
+  - Yaoguai Queen - Kang-Jin Loong
 
 In Black Myth Wukong's third chapter, the Destined One will travel far from the arid deserts to the snowy mountaintops of The New West, where you'll spy an odd character masquerading as a statue. 
 
@@ -37,11 +37,13 @@ Grab the green Wisp and absorb it as you head up the final tunnel section of thi
 Like the previous chapters, this shrine has a whole new store for you to browse, and you'll also be able to start investing in crafting the Ochre Armor Set and Rat Sage Staff (or possibly the Loongwreathe Staff as well if you defeated the Red Loong and Black Loong in the previous chapters). These weapons will cost a fair amount of Will and other materials, so check your inventory often for when you have enough to upgrade, and also look into stocking up on new items: 
 
 The New West Shrine Shop   
-Body-Warming Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Longevity Decoction (x3) - 270 Will |   
-Mind Core (x4) - 1800 Will | Cold Iron Leaves (x2) - 900 Will | Refined Iron Sand (x1) - 1200 Will |   
-Aged Ginseng (x10) - 90 Will | Fire Bellflower (x10) - 120 Will | Tree Pearl (x10) - 180 Will | Snake-Head Mushroom (x10) - 120 Will   
-Golden Lotus (x5) - 180 Will | Celestial Pear (x5) - 240 Will | |   
-  
+| The New West Shrine Shop            | The New West Shrine Shop              | The New West Shrine Shop            | The New West Shrine Shop             |
+| ----------------------------------- | ------------------------------------- | ----------------------------------- | ------------------------------------ |
+| Body-Warming Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Longevity Decoction (x3) - 270 Will |                                      |
+| Mind Core (x4) - 1800 Will          | Cold Iron Leaves (x2) - 900 Will      | Refined Iron Sand (x1) - 1200 Will  |                                      |
+| Aged Ginseng (x10) - 90 Will        | Fire Bellflower (x10) - 120 Will      | Tree Pearl (x10) - 180 Will         | Snake-Head Mushroom (x10) - 120 Will |
+| Golden Lotus (x5) - 180 Will        | Celestial Pear (x5) - 240 Will        |                                     |                                      |
+
 From the shrine, head up the path through the mountain. Compared to the previous chapter, you'll find this area much more linear like in Chapter 1. 
 
 ![Wukong Snowhill 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Wukong_Snowhill_7.jpg)
@@ -107,8 +109,6 @@ With his small frame, the Macaque Chief is fairly susceptible to being staggered
 ![Wukong Snowhill 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Snowhill_20.jpg)
 
 When he runs out of health, you won't get the traditional "boss defeated" scene, and only earn some Will as the Macaque Chief retreats, turns invisible, and runs off toward the ruins above while taunting you. 
-
-Macaque Chief (Snowhill Path)
 
 ![Wukong Snowhill 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f0/Wukong_Snowhill_21.jpg)
 
@@ -186,8 +186,6 @@ You'll also find a small **Treasure Chest** nearby, and you can loot it for asso
 
 Finally, head to the right of where all the Frozen Corpses were gathered to find a large gnarled tree hanging over the frozen water, and a **Meditation Spot** below it you can rest at for a free Skill Point Spark. 
 
-The Shade, Mirrormere Meditation Spot
-
 That's pretty much all you can do in this area, so now you can head toward the ominous temple in the middle of the lake, only to be surprised by what appears to the lord of this land returning. They've got a back that seems to hold many surprises inside, and will share one with you - a mighty Yaoguai Queen! 
 
 ## Yaoguai Queen Boss Fight - Kang-Jin Loong
@@ -250,8 +248,4 @@ Any time you manage to knock the dragon to the ground, quickly capitalize on the
 
 When you finally deplete the bosses health, you'll send her into the icy depths below the lake. 
 
-Kang-Jin Loong
-
 Unfortunately, you'll also be sent deep down, and after a cutscene, you'll find yourself in a terrifying jail known as **The Pagoda Realm**. 
-
-Snowhill Path Complete

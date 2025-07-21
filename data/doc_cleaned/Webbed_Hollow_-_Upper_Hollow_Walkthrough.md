@@ -3,9 +3,9 @@
 The Webbed Hollow is the second main area of Black Myth: Wukong's Chapter 4, starting with the upper portion of the large underground cave system. Below you'll find a guide for the first upper area of The Webbed Hollow, including where to find your first encounter with the Venom Daoist, and the different ways to reach The Verdure Bridge. 
 
   * **Jump to a Section**
-  * **Upper Hollow**
-  * **Pool of Shattered Jade**
-    * Boss Fight - Venom Daoist
+* **Upper Hollow**
+* **Pool of Shattered Jade**
+  - Boss Fight - Venom Daoist
 
 Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow. 
 
@@ -153,8 +153,6 @@ Continue up the long rounded path luring out the Puppet Spiders one at a time, a
 
 The Pool of Shattered Jade Shrine can be found here, along with a **Meditation Spot** in the middle of the pool. 
 
-The Carvings, Pool of Shattered Jade Meditation Spot
-
 ![Wukong UpperHollow 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_UpperHollow_34.jpg)
 
 Grab the green Wisp on this side of the broken bridge, and then look past the Shrine for a small passageway full of -- you guessed it -- hanging cocoons. 
@@ -204,8 +202,6 @@ When he starts getting low on health, expect him to get more desperate, throwing
 ![Wukong UpperHollow 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2d/Wukong_UpperHollow_43.jpg)
 
 After taking out 2-4 of his extra limbs, he'll likely run out of health, and will beat a hasty retreat. This isn't the last you'll see of him, and in fact he's essential to unlocking a secret area, so we'll look for him again later. At the very least, you'll earn experience and will both for beating him and his cocoon! 
-
-Venom Daoist (Webbed Hollow)
 
 With everything cleared on the top floor of the Webbed Hollow, it's time to make your way down. 
 

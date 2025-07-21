@@ -3,8 +3,8 @@
 The **Commander Beetle** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Commander Beetle offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Commander Beetle, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Commander Beetle Location
-  * Commander Beetle Fight
-  * Commander Beetle Spirit
+* Commander Beetle Fight
+* Commander Beetle Spirit
 
 ![Commander Beetle.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/18/Commander_Beetle.jpg)
 
@@ -28,10 +28,4 @@ When fighting the Commander Beetle, watch out for its two sweeping swords that c
   * Equipped Effect: Moderately increases Poison Resistance. 
 
 The Commander Beetle's Spirit allows you to take the form of the Commander Beetle and slash at your foes with the two long swords it wields. This attack is very powerful initially, but also creates a whirlwind that detonates moments after the first attack, dealing area damage to your enemies. The equipped effect increases Poison Resistance, making the Commander Beetle a great Spirit to channel when exploring the Webbed Hollow. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

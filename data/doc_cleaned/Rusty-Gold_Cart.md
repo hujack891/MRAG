@@ -27,4 +27,3 @@ The way the cart plays with fire will also differ. It will spin around while spe
 Lastly is the difference in punches. The cart will lunge and take swipes at you but also punch the ground like the other carts. To make things trickier, it will also try to grab you. 
 
 When it does go to take a swipe at you, try to roll toward it. You'll either end up going underneath it or to the side of it and dodging the attack. 
-

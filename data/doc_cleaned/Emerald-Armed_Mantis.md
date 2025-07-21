@@ -45,4 +45,3 @@ Along with these attacks, the mantis will sometimes fly up and start to slash it
 Transformations are also useful here, and we found that Red Tides proved handy once again. The mantis is susceptible to burn damage, so it will chip away at its health bar while you follow up with attacks. 
 
 When the mantis is dead, you'll receive Dian-Cui Loong-Soaring Bracers. With all the main bosses finished, for now, it's time to follow Zhu Bajie up the mountain. On the way though, there are just two more optional bosses to capture to wrap up this portion of the Chapter. 
-

@@ -3,17 +3,17 @@
 The Pagoda Realm is the second main region of Chapter 3 in The New West in Black Myth: Wukong. Below you'll find a guide for the Pagoda Realm Region, including how to escape the jail, unlock the purple seals, and defeat the Captains. 
 
   * **Jump to A Section:**
-  * **Lower Pagoda (Level 1)**
-  * **Lower Pagoda (Level 2)**
-    * Yaoguai Chief - Captain Lotus-Vision
-  * **Upper Pagoda (Level 3)**
-  * **Upper Pagoda (Level 4**
-  * **Mani Wheel**
-    * Yaoguai King - Captain Wise-Voice
-  * **Outside the Wheel**
-  * **Snow-Veiled Trail**
-  * **Warding Temple**
-    * Yaoguai Chief - Macaque Chief
+* **Lower Pagoda (Level 1)**
+* **Lower Pagoda (Level 2)**
+  - Yaoguai Chief - Captain Lotus-Vision
+* **Upper Pagoda (Level 3)**
+* **Upper Pagoda (Level 4**
+* **Mani Wheel**
+  - Yaoguai King - Captain Wise-Voice
+* **Outside the Wheel**
+* **Snow-Veiled Trail**
+* **Warding Temple**
+  - Yaoguai Chief - Macaque Chief
 
 ![Wukong Pagoda 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_1.jpg)
 
@@ -235,8 +235,6 @@ Keep building up your Focus with light combos by chasing him down and using Immo
 
 When Captain Lotus-Vision finally falls, you'll gain the **Frostsprout Twig Curio** , and **The Spirit of Captain Lotus-Vision** , which surprisingly cannot be cultivated like other Spirits. 
 
-Captain Lotus-Vision
-
 More importantly, the purple seals on many of the cell doors are now gone in the Pagoda Realm, allowing you to kick them down and access a few secrets. There's some we haven't encountered in the Upper Pagoda, but be sure to go back and check these cells: 
 
 ![Wukong Pagoda 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Pagoda_44.jpg)
@@ -379,8 +377,6 @@ First, look for a Blade Monk surrounded by frozen corpses, and note his blue glo
 
 Just past where the was stationed, you can spot a glowing pot in the corner. Break it open to gain a new **Awaken Wine Worm** , and be sure to travel back to the Shen Monkey to upgrade your Gourd (and make sure you grabbed the new items he sells!). 
 
-Outside the Pagona Awaken Wine Worm
-
 ![Wukong Pagoda 77.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ad/Wukong_Pagoda_77.jpg)
 
 Finally, wait until the distressing chants begin and curse you one last time, and a final Lantern Sentry on this level will appear nearby. If you defeat him (and have defeated all the other Lantern Sentries in the Pagoda Realm), he'll drop the **Auspicious Lantern Curio** , which allows you to trigger the "chant-beguiling" effect of this prison at will when using Cloud Step. 
@@ -465,8 +461,6 @@ To defeat him, stay patient by building up focus points with sustained damage on
 
 When Captain Wise-Voice finally falls to your assault, the Pagoda Realm will at last be free of his beguiling chant. This means you can head down to re-explore if you missed any areas without worrying about the debuff (but it also means any Sentry Lanterns not killed are gone forever). 
 
-Captain Wise-Voice
-
 ![Wukong Pagoda 92.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/35/Wukong_Pagoda_92.jpg)
 
 Like Captain Lotus-Vision, you'll also get The Spirit of Captain Wise-Voice that can't be cultivated. You can now step out through the opposite opening to exit this pagoda, and you can check the rim of the cliff to the left to find a **Treasure Chest** with materials inside. 
@@ -479,15 +473,11 @@ Your journey through the Pagoda Realm isn't done yet however, as there's a large
 
 From the Outside the Wheel Shrine, head through the large cave tunnel devoid of foes where you can harvest some Jade Lotus. Over on the left, look for a lone tree in the cave pool to find a **Luojia Fragrant Vine** to grab, and be sure to revisit the Shen Monkey to upgrade your gourd. 
 
-Outside the Wheel Luojia Fragrant Vine
-
 As you exit the cave, you'll find yourself at the bottom of a gorge with more plants to harvest as you proceed. 
 
 ![Wukong Pagoda 95.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Pagoda_95.jpg)
 
 Absorb the green Wisp in a small tunnel you can pass through, and on the other side you'll see a few stone lanterns marking an area with a small gold pot. Open it, and you'll find a **Celestial Taiyi Pill** inside to boost your maximum mana. 
-
-The New West Celestial Taiyi Pill
 
 ![Wukong Pagoda 96.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Wukong_Pagoda_96.jpg)
 
@@ -506,8 +496,6 @@ He can also lure you in and open his robe, revealing even more tentacles along h
 ![Wukong Pagoda 99.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_Pagoda_99.jpg)
 
 After defeating this abomination, you can find a **Meditation Spot** by a small tree at the base of the frozen falls, earning you a free Spark Skill Point. 
-
-The Bottom, Pagoda Realm Meditation Spot
 
 ![Wukong Pagoda 100.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Wukong_Pagoda_100.jpg)
 
@@ -627,8 +615,6 @@ As an added bonus for this fight, you can actually use the Ancient Master's circ
 
 When you've depleted the Macaque Chief's health yet again, he'll retreat for a second time, but the Wise Master will ask that you hold off your pursuit. In exchange for staying put for a bit, he will impart to you the secret of his **Ring of Fire Spell**! 
 
-Macaque Chief (Warding Temple)
-
 This spell can be swapped out with Immobilize, providing a more defensive variant on temporarily neutralizing enemies. With it, you'll be able to create a small limited barrier for yourself, which can be essential when preparing for a tough fight and using consumables and heals, or removing chilling effects. 
 
 ![Wukong Pagoda 125.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Pagoda_125.jpg)
@@ -638,5 +624,3 @@ Head around the side of the temple after the Wise Master departs, and you can fi
 ![Wukong Pagoda 126.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1b/Wukong_Pagoda_126.jpg)
 
 Head up the stairs to the left and head through the hall lined with more Frozen Corpses to leave this area behind. At the top of the nearby hill, you can spot a large cymbal wedged in the rocks of a high peak overlooking a lake below. By sliding down the slope, you'll enter the new region along the **Bitter Lake**, and slide headfirst into a formidable boss fight! 
-
-Pagoda Realm Complete

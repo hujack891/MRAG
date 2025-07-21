@@ -51,5 +51,3 @@ It will also use projectiles and throw out orbs to chase you down. These can be 
 When you've knocked its health down to almost halfway, it will begin to move quite erratically and cover a large amount of distance across the arena. Use Cloudstep to catch up to it and sneakily attack and Immobilize to temporarily halt it from darting off. 
 
 This is also when it will begin to float up in the air and throw the projectiles down. You'll need to dodge in quick succession to avoid these. 
-
-Keeper of the Flaming Mountains

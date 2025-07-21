@@ -53,4 +53,3 @@ He'll either launch himself at you and then spin the unicycle around until he fl
 ![Foothills Walkthrough \(23\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png)
 
 When his health is down to the last third, he will cover the arena with a red haze, reducing the size of the arena that you'll fight the creature in. He will also begin to use two swords instead of one. This is when you want to throw out the Plantain Fan. It will clear the red haze immediately and continuously stun him, giving you more time to whittle down his health. 
-

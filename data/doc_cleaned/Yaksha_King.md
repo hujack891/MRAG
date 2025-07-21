@@ -43,4 +43,3 @@ There's one particular attack in this second half of the fight where he'll charg
 ![Field Fire Walkthrough \(65\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Field_Fire_Walkthrough_%2865%29.png)
 
 You can approach this fight in a similar way to the Red Boy, in that it's best to save your spells until the second portion. Immobilize works on him, so when he's darting around more in the second half, you can trap him and make it easier to attack. Ebon Flow is also a good spell to use in this fight, as you can block his attacks with the defense option and build up focus to unleash heavy attacks to stagger him. 
-

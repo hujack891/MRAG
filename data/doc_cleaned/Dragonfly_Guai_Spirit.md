@@ -3,8 +3,8 @@
 The **Dragonfly Guai** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Dragonfly Guai offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Dragonfly Guai, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Dragonfly Guai Location
-  * Dragonfly Guai Fight
-  * Dragonfly Guai Spirit
+* Dragonfly Guai Fight
+* Dragonfly Guai Spirit
 
 ![Dragonfly Guai pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Dragonfly_Guai_pic.jpg)
 
@@ -26,10 +26,4 @@ The Dragonfly Guai fights in the air with his bow and poison arrows. The fact th
   * Equipped Effect: Slightly increases Qi gained from hits, but significantly reduces Maximum Health, Mana, and Stamina. 
 
 The Dragonfly Guai's Spirit allows you to take the form of the dragonfly and shoot your foes with poisonous arrows. The attack itself is good, but the equipped effect is a double-edged sword, reducing your health, mana, and stamina in return for increasing your Qi. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

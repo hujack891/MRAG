@@ -3,11 +3,11 @@
 The Black Wind Cave is the final region of Chapter 2's Black Wind Mountain in Black Myth: Wukong. Though it is a short area, it will prove to be a challenging one as you go up against the greedy King of the Mountain. Below you'll find a guide to the progressing through the cave to the mountaintop, as well as how to defeat the boss of this area in his two forms, the Black Wind King and the Black Bear Guai. 
 
   * **Jump to A Section:**
-  * **Cave Interior**
-    * Black Wind King
-  * **Outside the Cave**
-  * **Bodhi Peak**
-    * Black Bear Guai
+* **Cave Interior**
+  - Black Wind King
+* **Outside the Cave**
+* **Bodhi Peak**
+  - Black Bear Guai
 
 ## Black Wind Cave
 
@@ -27,11 +27,7 @@ Head further into the tunnel until it opens up with more light, and you’ll fin
 
 Be sure to head out onto the balcony, as you’ll find the third and final **Meditation Spot** in Black Wind Mountain, earning you another free Spark Skill Point. 
 
-The Cliff, Black Wind Cave Meditation Spot
-
 Next to the Meditation Spot, you can also find a small golden pot that holds a **Celestial Taiyi Pill** , which will greatly increase your maximum mana like the other pill did for your health. 
-
-Black Wind Mountain Celestial Taiyi Pill
 
 ![Wukong BlackWind 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_BlackWind_5.jpg)
 
@@ -98,8 +94,6 @@ After his next Black Wind assault, be ready to transform using the Red Tides Spe
 
 Counter each of his teleports when his attacks complete, and you’ll soon defeat the Yaoguai King, forcing him to retreat as he yells for you to face his true form at the top of the mountain. However, in his retreat, he’ll leave behind some of his Black Wind, which the Keeper of the Mountain will harness and pass onto you, giving you a brand new spell: **Cloud Step**. 
 
-Black Wind King
-
 This spell will allow you to vanish while dashing forward, creating a copy of yourself that enemies will target. While in this mist-like form, you’ll be invisible for a short duration, and attacking will execute an Unveiling Strike for increased damage while catching foes off guard! 
 
 ![Wukong BlackWind 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/19/Wukong_BlackWind_18.jpg)
@@ -149,8 +143,6 @@ Head along the far wooden platforms past where the Bullguard was stationed to fi
 ![Wukong BlackWind 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/53/Wukong_BlackWind_29.jpg)
 
 Before engaging with more Wolf Guai, pause at a small altar along the cliffs. Here you’ll find one last golden pot to open, containing a **Celestial Nonary Pill** , which will greatly increase your maximum stamina — the third and final pill to find in Chapter 1! 
-
-Black Wind Mountain Celestial Nonary Pill
 
 ![Wukong BlackWind 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_BlackWind_30.jpg)
 
@@ -228,8 +220,6 @@ This fight will last awhile, so be sure to be mindful of your stamina and back o
 
 When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic. 
 
-Black Bear Guai
-
 This first Relic of the Great Sage will now appear in your inventory menu, and allow you to choose to awaken one of three passive perks: 
 
   * **Opportune Watcher** \- Considerably increases Focus gained on consecutive successful Light Attack hits.
@@ -239,5 +229,3 @@ This first Relic of the Great Sage will now appear in your inventory menu, and a
 Note that you do actually have the ability to change your decision later, in the Reignite the Sparks Menu, you’ll just need to move to the Relic Tab.
 
 With your business concluded in Black Wind Mountain, you can enjoy the scene and tapestry that unfold after the battle, and then begin your journey into **Chapter 2: Yellow Sand, Desolate Dusk**. 
-
-Black Wind Cave Complete

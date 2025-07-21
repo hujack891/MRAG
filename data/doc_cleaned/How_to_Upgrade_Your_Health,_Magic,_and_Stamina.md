@@ -5,9 +5,9 @@ Keeping an eye on your Health, Mana, and Stamina bars is essential for combat su
 **Jump to:**
 
   * **How to Upgrade Your Health, Magic, and Stamina**
-    * How to Use Skills to Upgrade Health, Mana, and Stamina
-    * How to Use Collectibles to Upgrade Health, Mana, and Stamina
-    * How to Upgrade Health, Mana, and Stamina with Xu Dog
+    - How to Use Skills to Upgrade Health, Mana, and Stamina
+    - How to Use Collectibles to Upgrade Health, Mana, and Stamina
+    - How to Upgrade Health, Mana, and Stamina with Xu Dog
 
 ## How to Upgrade Your Health, Magic, and Stamina
 

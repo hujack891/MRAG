@@ -2,9 +2,9 @@
 
 The **Mother of Flamlings** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Mother of Flamlings offers up her Spirit for you to absorb, allowing you to use some of her powers for a short time. On this page, we will go over everything you need to know about the Mother of Flamlings, including where to find her, how to defeat her, and what power her Spirit gives you. 
 
-  * Mother of Flamlings Location
-  * Mother of Flamlings Fight
-  * Mother of Flamlings Spirit
+* Mother of Flamlings Location
+* Mother of Flamlings Fight
+* Mother of Flamlings Spirit
 
 ![Mother of Flamlings.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Mother_of_Flamlings.jpg)
 
@@ -32,10 +32,3 @@ Make your way around the arena, picking off the Flamlings so you can focus on th
   * Equipped Effect: Moderately reduces the Cooldown for all Spells. 
 
 The Mother of Flamling's Spirit allows you to summon two Flamlings of your own to fight alongside you. These Flamlings can not only deal damage to your enemies but also steal their attention so you can sneak up on them and land some surprise attacks while they're not looking. The equipped effect is excellent, reducing the cooldown of all Spells so you can cast more spells in total. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

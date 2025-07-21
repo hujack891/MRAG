@@ -55,4 +55,3 @@ The one big new move that Daoist Mi can use in this form is spewing a lot more p
 ![Wukong PurpleCloud 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg)
 
 With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison! 
-

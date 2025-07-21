@@ -55,5 +55,3 @@ Time your attacks well to find the gaps in his defenses, and remember to cultiva
 ![Wukong Thunderclap 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Thunderclap_71.jpg)
 
 Before leaving his boss room, be sure to look where he was initially standing to find the last **Meditation Point** in Chapter 3, and gain your free Skill Point. 
-
-The Hall, New Thunderclap Temple Meditation Spot

@@ -3,7 +3,7 @@
 Rice Cocoons are one of the most common Key Items in Black Myth: Wukong, found often within The Webbed Hollow due to the amount of spider cocoons that are everywhere. They are needed for Chen Loong's quest within The New West. 
 
 _"Man designs, but the universe decides."_  
-  
+
 Rice Cocoons can be found randomly from spider cocoons throughout The Webbed Hollow. Simply run around, destroy them, and you should get one or two to drop. If none do, simply rest at a Shrine, respawn the enemies, and try again. 
 
 ## Where to use Rice Cocoons in Black Myth: Wukong

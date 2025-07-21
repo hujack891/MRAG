@@ -33,4 +33,3 @@ The most beneficial thing to you here is the fire from above. He is also impacte
 ![Woods Ember Walkthrough \(38\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/dc/Woods_Ember_Walkthrough_%2838%29.png)
 
 When you've knocked his health bar almost all the way down, he will kneel. To make the area safer, clear out the rest of the fighting Yaoguais, then approach the Pale-Axe Stalwart, who will now become an NPC with his own side quest for you to complete. 
-

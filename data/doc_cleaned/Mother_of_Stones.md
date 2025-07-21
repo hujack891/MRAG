@@ -35,4 +35,3 @@ There’s one last wave of two after this, for a total of six Palestones for the
 ![Wukong Fright 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Fright_32.jpg)
 
 Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores. 
-

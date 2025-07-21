@@ -3,13 +3,13 @@
 Furnace Valley is the second major region in Chapter 5 of Black: Myth Wukong. Below, you'll find a detailed walkthrough of all the possible bosses there are to defeat in this section, along with conclusions to side quests, and key items to collect. 
 
   * **Jump to a Section:**
-  * **Valley Entrance**
-    * Yaoguai Chief - Flint Chief
-    * Yaoguai Chief - Cloudy Mist, Misty Cloud
-  * **Rakshasa Palace**
-  * **The Emerald Hall**
-    * Yaoguai King - Keeper of the Flaming Mountains and Yin-Yang Fish
-    * Yaoguai Chief - Crimson-Silver Cart
+* ** **Valley Entrance
+  - Yaoguai Chief - Flint Chief
+  - Yaoguai Chief - Cloudy Mist, Misty Cloud
+* **Rakshasa Palace**
+* **The Emerald Hall**
+  - Yaoguai King - Keeper of the Flaming Mountains and Yin-Yang Fish
+  - Yaoguai Chief - Crimson-Silver Cart
 
 ![Furnace Valley Walkthrough \(6\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Furnace_Valley_Walkthrough_%286%29.png)
 
@@ -79,8 +79,6 @@ Go left, at the first lava stream you can see running from the ceiling. Take ano
 
 Right at the end of this path, you'll find a Turtle Treasure guarding a chest. This Turtle Treasure holds a Spirit for you to collect once you've beaten it. After grabbing the Turtle Treasure Spirit, open the chest to collect Kun Steel, Knot of Voidness, and Medicines. 
 
-Turtle Treasure Spirit
-
 ![Furnace Valley Walkthrough \(33\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Furnace_Valley_Walkthrough_%2833%29.png)
 
 Backtrack on yourself and go straight up through the path on the left between the rocks. Head for the lava stream running from the ceiling straight up ahead but stop to kill the last Flamling on the right, just behind the rock, and harvest the Fire Date from the tree on the right. 
@@ -115,8 +113,6 @@ There are three areas you can concentrate attacks, which are its body and two ha
 
 When you've beaten it collect the Flint Chief Spirit it drops and the Fire Date from the tree to the right of the lava flowing from the ceiling. 
 
-Flint Chief
-
 Follow the lava path back up the archway, collecting more Fire Dates on the way, and be careful of Scorching and Searing-Fire enemies that will pop out along the way. 
 
 ![Furnace Valley Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Furnace_Valley_Walkthrough_.png)
@@ -124,8 +120,6 @@ Follow the lava path back up the archway, collecting more Fire Dates on the way,
 When you're back up to the arch, continue forward to the top of the slope. The path goes left and right here. Right is the main path, so for now, let's take a look at the left side. As you head over, you'll see an Earth Rakshasa waiting for you that guards a chest. It also has a Spirit for you to collect once you defeat it. 
 
 As soon as you pass by the torch, a Flamling will appear. Take down the Flamling and Rakshasa, then collect the Earth Rakshasa Spirit. After this, open the chest and collect Celestial Ribbon and a Mind Core. 
-
-Earth Rakshasa Spirit
 
 ![Furnace Valley Walkthrough \(45\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Furnace_Valley_Walkthrough_%2845%29.png)
 
@@ -165,13 +159,9 @@ When this happens, you'll want to focus on dodging the fire attacks from Misty C
 
 The fight can feel quite fast-paced as they swap in and out to attack, so to put an end to their teamwork and slow things down, make use of spells like Immobilize. You should then aim to build as much Focus as possible and look for opportunities to perform heavy attacks. Both bosses can be staggered by this, giving you a chance to whittle down their health. 
 
-Cloudy Mist, Misty Cloud
-
 ![Furnace Valley Walkthrough \(61\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png)
 
 After defeating them collect the Spirit they drop, then continue up the stairs toward the palace. 
-
-Misty Cloud, Cloudy Mist Spirit
 
 ![Furnace Valley Walkthrough \(63\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/07/Furnace_Valley_Walkthrough_%2863%29.png)
 
@@ -182,8 +172,6 @@ Open the giant door at the top of the stairs. Go straight ahead and activate the
 ![Furnace Valley Walkthrough \(67\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%2867%29.png)
 
 Just beyond the shrine, there's a small area for you to explore. As you step toward the Keeper's Shrine, you'll likely see the golden box on the log just behind it. Go here to pick up a Celestial Taiyi Pill. 
-
-Flaming Mountains Celestial Taiyi Pill
 
 Then look opposite the golden box to see a treasure chest inside the small building. Open this to pick up Blood of the Iron Bull and some gold pieces. 
 
@@ -222,8 +210,6 @@ Instead, take the path to the left. You'll see a set of stares with the Flame Rh
 ![Furnace Valley Walkthrough \(101\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fe/Furnace_Valley_Walkthrough_%28101%29.png)
 
 Inside here, you'll find the old man who gave you the gourd at the start of the game and an Awaken Wine Worm to the left. 
-
-Rakshasa Palace Awaken Wine Worm
 
 Speak to the old man, and he'll tell you to find yourself a decent gourd (if you haven't already upgraded yours fully) and you can share a drink with him. 
 
@@ -291,8 +277,6 @@ When you've knocked its health down to almost halfway, it will begin to move qui
 
 This is also when it will begin to float up in the air and throw the projectiles down. You'll need to dodge in quick succession to avoid these. 
 
-Keeper of the Flaming Mountains
-
 Once you've beaten the Keeper of the Flaming Mountains and the Yin-Yang Fish, you'll be returned to The Emerald Hall. 
 
 ![Furnace Valley Walkthrough \(114\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Furnace_Valley_Walkthrough_%28114%29.png)
@@ -302,8 +286,6 @@ Turn and face away from the altar. There are two places you'll want to go here t
 ![Furnace Valley Walkthrough \(115\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8b/Furnace_Valley_Walkthrough_%28115%29.png)
 
 Then go back to the stairs and head for the balcony (facing opposite the altar in The Emerald Hall). Turn to the right, and go up the stairs to find the Meditation Spot. 
-
-The Buddha, Emerald Hall Meditation Spot
 
 ![Furnace Valley Walkthrough \(106\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/28/Furnace_Valley_Walkthrough_%28106%29.png)
 
@@ -333,8 +315,6 @@ As soon as you see smoke start to build around it, you'll want to move out of it
 
 To make the fight easier, use Immobilize to keep the cart locked in place. That way, you and the Pale-Axe Stalwart can work together to quickly whittle down its health. 
 
-Crimson-Silver Cart
-
 ![Chapter 5 Secret Area \(5\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/Chapter_5_Secret_Area_%285%29.png)
 
 After the fight, speak to the Pale-Axe Stalwart again and exhaust his dialogue. Then go along the tree trunk near him to collect the green Wisps that sit on it. 
@@ -350,5 +330,3 @@ Continue up the stairs to the left, and follow the rocky path up to the top of t
 ![Furnace Valley Walkthrough \(105\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Furnace_Valley_Walkthrough_%28105%29.png)
 
 If you haven't already, go back to the Valley Entrance to get the Dark Thunder Transformation Spell from Ma Tianba in the dead cart. You'll know when you arrive if you'll get the spell, as he'll tell you to come closer before his soul departs. This time, the option to Pull Forcefully will appear. Pull the whip and you'll receive the Dark Thunder spell.
-
-Furnace Valley Complete

@@ -77,4 +77,3 @@ To defeat him, stay patient by building up focus points with sustained damage on
 ![Wukong Pagoda 91.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/82/Wukong_Pagoda_91.jpg)
 
 When Captain Wise-Voice finally falls to your assault, the Pagoda Realm will at last be free of his beguiling chant. This means you can head down to re-explore if you missed any areas without worrying about the debuff (but it also means any Sentry Lanterns not killed are gone forever). 
-

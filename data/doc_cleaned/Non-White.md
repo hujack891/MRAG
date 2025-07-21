@@ -89,4 +89,3 @@ There's a good chance he'll revert back to his original weapon before the fight 
 ![Wukong Mindcliff 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_Mindcliff_26.jpg)
 
 When Non-White finally falls, you'll be able to claim the Non-White Spirit from him, and also make use of the **Meditation Spot** nearby to claim a free Skill Point. 
-

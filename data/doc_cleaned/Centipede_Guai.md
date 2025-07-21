@@ -61,4 +61,3 @@ The best thing you can do is let them chase you by sprinting in the opposite dir
 Aside from that, there's not too many other moves the Centipede Guai is capable of, so focus on dodging its backward slam, and saving your deflections for when it tries to roll into you, and you'll have no problem finding plenty of time to get your big hits in. 
 
 When the Centipede Guai falls, you'll be able to gain its Centipede Guai Spirit along with a Knot of Voidness and Gold Tree Core. 
-

@@ -83,4 +83,3 @@ Luckily, you can bank a powerful Spirit Attack to stagger him on cue, or bank a 
 You may also want to invest in using Transformation Spells like Hoarfrost or Umbral Abyss to try freezing him which can slow him down and open him up to more hits. 
 
 Expect the fight to take a lot of practice, as one wrong step can easily remove a ton of health or leave you poisoned, and you may not survive the time it takes to cure it. Once the fearsome foe is finally defeated, you'll gain a wealth of treasures, including a Stained Jade Gourd, Sky-Piercing Horn, and Deathstinger Material to complete finally complete the Insect Armor Set. 
-

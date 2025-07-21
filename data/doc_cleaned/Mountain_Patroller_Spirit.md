@@ -2,9 +2,9 @@
 
 The **Mountain Patroller** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Mountain Patroller offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Mountain Patroller, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
-  * Mountain Patroller Location
-  * Mountain Patroller Fight Guide
-  * Mountain Patroller Spirit Power
+* Mountain Patroller Location
+* Mountain Patroller Fight Guide
+* Mountain Patroller Spirit Power
 
 ![Mountain Patroller.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/20/Mountain_Patroller.jpg)
 
@@ -26,10 +26,4 @@ There are a few other enemies to contend with when taking down the Mountain Patr
   * Equipped Effect: Slightly increases Critical Hit Chance of Jump Heavy Attacks.
 
 The Mountain Patroller's Spirit Power allows you to take his form and leap into the air, releasing a flurry of slashes at your foe. It's a decently strong attack, compounded by the equipped effect, which increases your chances of landing a Critical Hit when performing Heavy Jump Attacks. You can make this even stronger in your skill tree by increasing the damage dealt by Critical Hits and further increasing your chances of landing a Critical Hit. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

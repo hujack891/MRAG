@@ -116,4 +116,3 @@ A fully charged heavy thrust with a few focus points built up can also usually s
 ![Wukong Yellow 73.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Wukong_Yellow_73.jpg)
 
 When the giant rat sage finally falls to your weapon, an unexpected twist will happen as the owner of the head suddenly appears to claim that which had been taken. 
-

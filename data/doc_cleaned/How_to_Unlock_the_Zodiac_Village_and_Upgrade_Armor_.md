@@ -3,10 +3,10 @@
 If you're tired of hopping from shrine to shrine to see NPCs, or you're wondering how to upgrade armor in Black Myth: Wukong, then Zodiac Village is the place for you. This central hub for NPCs can be unlocked in Chapter 3 and will introduce a new smithing character to cater to all your armor and weapon needs, along with additional perks from those you've already met. 
 
   * How to Unlock Zodiac Village
-  * How to Upgrade Armor
-  * Challenge Yin Tiger
-  * Request Medicines from Xu Dog
-  * How to Use Seeds and Harvest Ingredients
+* How to Upgrade Armor
+* Challenge Yin Tiger
+* Request Medicines from Xu Dog
+* How to Use Seeds and Harvest Ingredients
 
 ## How to Unlock Zodiac Village in The Painted Realm
 
@@ -52,30 +52,12 @@ Depending on when you reach the village, you might find there are brand-new Weap
 
 Upgrading your armor will, of course, require materials, and you'll need the following depending on rarity: 
 
-Rarity | Materials Required for Upgrade   
+ Rarity        | Materials Required for Upgrade                               
 ---|---  
-**Uncommon**| 
-
-  * Will
-  * Silk
-
-**Rare**| 
-
-  * Will
-  * Silk
-  * Cold Iron Leaves
-
-**Epic**| 
-
-  * Will
-  * Cold Iron Leaves
-  * Fine Gold Thread
-
-**Legendary**| 
-
-  * Will
-  * Fine Gold Thread
-  * Celestial Ribbon
+ **Uncommon**  |Will,  Silk
+**Rare**|Will, Silk, Cold Iron Leaves
+**Epic**|Will, Cold Iron Leaves, Fine Gold Thread
+**Legendary**|Will, Cold Iron Leaves, Fine Gold Thread
 
 ## Challenge Yin Tiger
 

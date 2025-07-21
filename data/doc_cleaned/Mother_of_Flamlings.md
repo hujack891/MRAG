@@ -37,5 +37,3 @@ After hitting her a few times, she'll be frustrated and scream. This is when the
 When you've cleared out the first round of Flamlings, she'll reappear. This round of attacks will repeat until she's been defeated, except she can reappear when Flamlings are still in the arena after the first round. Still, the priority should be to remove them first before focusing on her. 
 
 After the Mother of Flamlings fight, pick up the Mother of Flamlings Spirit and then continue on the path down the Cooling Slope. 
-
-Mother of Flamlings Spirit

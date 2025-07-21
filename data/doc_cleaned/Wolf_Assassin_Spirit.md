@@ -3,8 +3,8 @@
 **The Wolf Assassin** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Wolf Assassin offers up his Spirit that you can absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Wolf Assassin, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Wolf Assassin Location
-  * Wolf Assassin Fight
-  * Wolf Assassin Spirit
+* Wolf Assassin Fight
+* Wolf Assassin Spirit
 
 ![Wolf Assassin Pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Wolf_Assassin_Pic.jpg)
 
@@ -26,10 +26,4 @@ The Wolf Assassin isn't a boss by any means, so the fight won't give you as much
   * Equipped Effect: Slightly increases Critical Hit Chance. 
 
 The Wolf Assassin Spirit allows you to take the form of the Wolf and throw out knives towards your foes. The knives return back to you like a boomerang, damaging anything in their path. The Wolf Assassin also increases your Critical Hit chance. This can be empowered even further in the skill tree to create a formidable combination. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

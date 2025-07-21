@@ -23,4 +23,3 @@ While he technically has a boss health bar and everything, he’s kind of a push
 ![Wukong Fright 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Wukong_Fright_36.jpg)
 
 Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle! 
-

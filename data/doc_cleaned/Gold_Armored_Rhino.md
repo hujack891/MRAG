@@ -41,4 +41,3 @@ Beyond this, expect attacks where it will charge at you. There are rocks you can
 Lastly, you can expect a few projectile attacks from the Rhino as well. When it puts its horn down to the ground and drags along it, it will flick rocks up at you. Usually, these are five rocks at a time and you can move out of the way of them easily if you're not too close to the Rhino. 
 
 The fight is very much a rinse-and-repeat situation, where you'll just want to try and hit the horn as much as you can to try and break it. 
-

@@ -46,15 +46,15 @@ Travel back to the Xu Dog in the Cellar below the Crouching Tiger Temple, and ta
 
 As a reward, Chen Loong will give you a special scroll to visit the Zodiac Village, where several merchants will now permanently reside, including the Xu Dog. You can now return to him periodically to request free medicine, and he'll give you a handful of random consumables each time. 
 
-Xu Dog's Quest
-
 In addition, the Xu Dog will restock his store as you advance further in your adventure, so be sure to visit him each Chapter both to spend more Mind Cores, and buy new recipes and wares: 
 
-Xu Dog's Store - Chapter 2 Stock   
-Longevity Decoction Formula - 2700 Will |   
-Chapter 3 Stock   
-Mirage Pill (x3) - 720 Will | Enhanced Tiger Subduing Pellets (x3) - 900 Will   
-Tonifying Decoction Formula - 2700 Will |   
-Chapter 4 Stock   
-Body Fleeting Powder (x3) - 540 Will | Loong Aura Amplification Pellets (x3) - 1080 Will | Ascension Powder (x3) - 900 Will   
-Essence Decoction Formula - 2700 Will | 
+| Xu Dog's Store - Chapter 2 Stock        | Xu Dog's Store - Chapter 2 Stock                  | Xu Dog's Store - Chapter 2 Stock |
+| --------------------------------------- | ------------------------------------------------- | -------------------------------- |
+| Longevity Decoction Formula - 2700 Will |                                                   |                                  |
+| Chapter 3 Stock                         | Chapter 3 Stock                                   | Chapter 3 Stock                  |
+| Mirage Pill (x3) - 720 Will             | Enhanced Tiger Subduing Pellets (x3) - 900 Will   |                                  |
+| Tonifying Decoction Formula - 2700 Will |                                                   |                                  |
+| Chapter 4 Stock                         | Chapter 4 Stock                                   | Chapter 4 Stock                  |
+| Body Fleeting Powder (x3) - 540 Will    | Loong Aura Amplification Pellets (x3) - 1080 Will | Ascension Powder (x3) - 900 Will |
+| Essence Decoction Formula - 2700 Will   |                                                   |                                  |
+

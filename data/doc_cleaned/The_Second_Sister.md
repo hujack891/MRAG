@@ -53,4 +53,3 @@ Finally, she can also perform a small leap and extend her front legs forward lik
 Her moves can get even more unpredictable when she's low on health, often peppering in quick poison projectiles from her mouth, or somersaulting forward to slash at you. Continue to use the Thrust Stance to keep her talons at bay, and when having trouble, always look for when her front legs subtly shift their shape to become more distinct blades to know when the attack is coming. 
 
 With Zhu Bajie backing you up (and you can always fall back to let him heal you), The Second Sister won't be able to stand against the two of you for long. After she's been defeated, she'll make a mad dash to flee, but not before flinging something at Zhu Bajie, who shrugs it off, and then runs ahead to chase her down. 
-

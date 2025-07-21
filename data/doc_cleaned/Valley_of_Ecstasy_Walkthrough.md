@@ -2,18 +2,18 @@
 
 The Valley of Ecstasy is the fourth main region of Chapter 3 in The New West in Black Myth: Wukong. Below you'll find a guide for the Valley of Ecstasy Region, including how to reach the valley itself by defeating Non-White, and exploring the different parts of the valley to uncover several Yaoguai Chiefs on the path to the New Thunderclap Temple, and completing the Treasure Hunter's Quest and the Pagoda Realm Prisoner's Quest by defeating the final Captain. 
 
-  * **Jump to a Section:**
-  * **Mindfulness Cliff**
-    * Yaoguai Chief - Non-White
-    * Yaoguai Chief - Non-White (Round Two)
-  * **Forest of Felicity**
-    * Yaoguai Chief - Lang-Li-Guhh-Lang
-  * **Brook of Bliss**
-    * Yaoguai Chief - Non-Able
-  * **Towers of Karma**
-    * Yauoguai Chief - Old Ginseng Guai
-  * **Longevity Road**
-    * Yaoguai Chief - Captain Kalpa-Wave
+- **Jump to a Section:**
+- **Mindfulness Cliff**
+  - Yaoguai Chief - Non-White
+  - Yaoguai Chief - Non-White (Round Two)
+- **Forest of Felicity**
+  - Yaoguai Chief - Lang-Li-Guhh-Lang
+- **Brook of Bliss**
+  - Yaoguai Chief - Non-Able
+- **Towers of Karma**
+  - Yauoguai Chief - Old Ginseng Guai
+- **Longevity Road**
+  - Yaoguai Chief - Captain Kalpa-Wave
 
 After you solved the monk's riddle by praying at four Buddha Statues in the Precept Corridor, you'll split up from Zhu Bajie and make your way into the belly button of a large Buddha statue along the cliffs, taking you up a narrow pathway and into the Mindfulness Cliff. 
 
@@ -141,8 +141,6 @@ There's a good chance he'll revert back to his original weapon before the fight 
 
 When Non-White finally falls, you'll be able to claim the Non-White Spirit from him, and also make use of the **Meditation Spot** nearby to claim a free Skill Point. 
 
-Non-White
-
 **Warning** \- Before you proceed, make sure you've defeated the Apramana Bat along the North Shore of the Bitter Lake, and also encountered the Treasure Hunter man before you proceed into the next area!
 
 ![Wukong Mindcliff 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Mindcliff_27.jpg)
@@ -214,8 +212,6 @@ Surviving this can be very tough as he'll try to keep you trapped and locked in 
 As with his other big attack, your Pillar Stance can help keep you away from the blast, but you can also try creating a Ring of Fire to give yourself "holy ground" of sorts to stay safe in from the otherwise chilly prison. 
 
 Defeat this third frog menace, and you'll gain another Tadpole and other materials to upgrade your Spirits and gear. 
-
-Lang-Li-Guhh-Lang
 
 ![Wukong Felicity 11.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Felicity_11.jpg)
 
@@ -385,8 +381,6 @@ You can even try using Pluck of Many to let your summons hit him from behind whi
 
 Once you have finally defeated Non-Able, you'll be able to obtain the Non-Able Spirit, which has a pretty intense effect for raising your stats while lowering your mana. 
 
-Non-Able
-
 ![Wukong Brook 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/01/Wukong_Brook_32.jpg)
 
 There's not much else to loot around the large stone pagoda where you fought Non-Able, so now is a good time to head back to the Forest of Felicity Shrine, and make your way through the canyon where the Frog Guai boss was to enter the next optional area. 
@@ -473,8 +467,6 @@ They behave much in the same way as regular Ginsenglings do, moving slightly fas
 ![Wukong Karma 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Karma_12.jpg)
 
 Stick to staying in safe spots to keep using Thrust Stance out of the range of his roots, or Pillar Stance above him, and look for his many openings when he tumbles to the ground to press the attack, and he'll fall before long, granting you both the **Old Ginseng Guai Spirit** , Millenium Ginseng Seeds to give to Chen Loong, and the **Ginseng Cape** to wear. 
-
-Old Ginseng Guai
 
 ![Wukong Karma 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Wukong_Karma_19.jpg)
 
@@ -564,8 +556,6 @@ What makes them truly dangerous is the more they swing their mace, the more smal
 
 Make use of your spells to keep the foe off-balance and to get away from their explosive attacks, and once they've been defeated, jump and perform a heavy attack to smash the glowing pot on the small wooden platform to gain an Awaken Wine Worm! 
 
-Longevity Road Awaken Wine Worm
-
 ![Wukong Longevity 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Longevity_14.jpg)
 
 If you want something to pair with that worm, keep moving along the lower path as it goes up some stairs, and you'll eventually reach the end of this loop, where a small tree stands at the end of a large field with a Luojia Fragrant Vine. However, you'll need to defeat not one but two Falcon Fan-Makers to claim it! 
@@ -573,8 +563,6 @@ If you want something to pair with that worm, keep moving along the lower path a
 ![Wukong Longevity 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a2/Wukong_Longevity_15.jpg)
 
 Defeating the pair is no easy attacks when you consider their hit-and-run tactics, so you may need to even the odds with A Pluck of Many Spell, or use a combination of Cloud Step and Immobilize to isolate and focus fire one of the Falcons, and then take out the second. 
-
-Longevity Road Luojia Fragrant Vine
 
 ![Wukong Longevity 16.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Wukong_Longevity_16.jpg)
 
@@ -634,8 +622,6 @@ The good news is Kalpa-Wave is extremely susceptible to getting knocked down. So
 
 Beyond this, Kalpa-Wave doesn't have too many other variations on his moves, so as long as you avoid those blood pools, you'll be able to cut him down to size, and gain the Spirit of Captain Kalpa-Wave to add to your collection. 
 
-Captain Kalpa-Wave
-
 There's a Shrine at the start of the next area just beyond the entrance gate, and you can use this as the perfect opportunity to return back to the Pagoda Realm. 
 
 ### Completing the Pagoda Prisoner's Quest
@@ -646,5 +632,3 @@ Head back to the Lower Pagoda Shrine, and revisit the Pagoda Realm Prisoner (aka
 ![Wukong Longevity final.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Longevity_final.jpg)
 
 With the Valley of Ecstasy officially cleared of threats, you can now begin to explore the final region of **New Thunderclap Temple**. 
-
-Valley of Ecstasy Complete

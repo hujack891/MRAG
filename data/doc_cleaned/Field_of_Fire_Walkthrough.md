@@ -3,16 +3,16 @@
 Field of Fire is the third main area of Chapter 5 in Black Myth: Wukong. Below, you'll find a detailed walkthrough of all the possible bosses there are to defeat in this section, along with conclusions to side quests, and key items to collect. 
 
   * **Jump to a Section:**
-  * **Ashen Pass III**
-    * Boss Fight - Nine-Capped Lingzhi Guai
-  * **Cooling Slope**
-    * Yaoguai Chief - Flint Vanguard
-    * Yaoguai Chief - Mother of Flamlings
-    * Yaoguai Chief - Baw-Lang-Lang
-    * Yaoguai Chief - Rusty-Gold Cart
-  * **Fallen Furnace Crater**
-    * Yaoguai King - Red Boy
-    * Yaoguai King - Yaksha King
+* **Ashen Pass III**
+  - Boss Fight - Nine-Capped Lingzhi Guai
+* **Cooling Slope**
+  - Yaoguai Chief - Flint Vanguard
+  - Yaoguai Chief - Mother of Flamlings
+  - Yaoguai Chief - Baw-Lang-Lang
+  - Yaoguai Chief - Rusty-Gold Cart
+* **Fallen Furnace Crater**
+  - Yaoguai King - Red Boy
+  - Yaoguai King - Yaksha King
 
 After defeating the Keeper of the Flaming Mountains, the Yin-Yang Fish, and the Crimson-Silver Cart, you'll have climbed to the top of the Flaming Mountains and be closer to finding out where the Bull King is. 
 
@@ -48,13 +48,9 @@ At times, he will also throw his cap and it acts like a boomerang. This is his o
 
 Once you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind. 
 
-Nine-Capped Lingzhi Guai
-
 ![Field Fire Walkthrough \(8\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Field_Fire_Walkthrough_%288%29.png)
 
 Just beyond the clearing where you'll fight the Nine-Capped Lingzhi Guai, you'll also find The Crag Meditation Spot. You can get this before or after the fight. Just before it, there's another Purple Lingzhi that can be harvested -- don't worry, this won't be another enemy. 
-
-The Crag, Ashen Pass III Meditation Spot
 
 Return to the Ashen Pass III Keeper's Shrine, and continue on the path opposite it. You'll reach a portion of the path where it narrows, and there's a Searing-Fire enemy to the right. However, the bigger problem you'll have is the spiked golden ball you can see straight up ahead. 
 
@@ -111,8 +107,6 @@ As you enter the Cooling Slope for the first time, there are two points of inter
 
 If you hug the rocks to the left, you can collect the Luoija Fragrant Vine safely, but be careful as a Searing-Fire will leap out at you as you get close to it.
 
-Fallen Furnace Crater Luojia Fragrant Vine
-
 Then, you'll want to go over to that collection of rocks. When you approach, it will transform into your first miniboss of the region, which is the Flint Vanguard. 
 
 ### Don't Miss This Spirit!
@@ -147,8 +141,6 @@ Generally, you want to stick close to the Vanguard, dodge the punches, and build
 
 When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing. 
 
-Flint Vanguard
-
 ![Field Fire Walkthrough \(27\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Field_Fire_Walkthrough_%2827%29.png)
 
 After the fight, take the path that slopes down behind the area where you fought the Flint Vanguard. You'll encounter some more of the Searing and Scorching-Flame enemies, as well as a little green Wisp to the right, by the lava lake. 
@@ -181,11 +173,7 @@ After hitting her a few times, she'll be frustrated and scream. This is when the
 
 When you've cleared out the first round of Flamlings, she'll reappear. This round of attacks will repeat until she's been defeated, except she can reappear when Flamlings are still in the arena after the first round. Still, the priority should be to remove them first before focusing on her. 
 
-Mother of Flamlings
-
 After the Mother of Flamlings fight, pick up the Mother of Flamlings Spirit and then continue on the path down the Cooling Slope. 
-
-Mother of Flamlings Spirit
 
 ![Field Fire Walkthrough \(39\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c5/Field_Fire_Walkthrough_%2839%29.png)
 
@@ -219,8 +207,6 @@ Lastly is the difference in punches. The cart will lunge and take swipes at you 
 
 When it does go to take a swipe at you, try to roll toward it. You'll either end up going underneath it or to the side of it and dodging the attack. 
 
-Rusty-Gold Cart
-
 ![Chapter 5 Secret Area \(12\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/51/Chapter_5_Secret_Area_%2812%29.png)
 
 When you've beaten the final cart, you'll receive the Flame Orb Curio. Head over to the area on the right before the doorway and speak to the Pale-Axe Stalwart one final time. 
@@ -250,8 +236,6 @@ You'll then find it uses a leaping attack, where it swipes at you twice and then
 Changes in its attack pattern will begin around the halfway mark, and it will lean up toward the top of the cave and spit fireballs all around it. Hang back as far as you can when this happens to avoid them. 
 
 It will then start to breathe fire from its mouth as a jet, in which case, you'll want to get behind it and attack. Lastly, you'll see a change in its leap attacks. Wherever it jumps, it will send out small waves of fire in a circle around it. As you see it leaping, dodge and create distance between the two of you to avoid the circle of flames. 
-
-Baw-Lang-Lang
 
 When you've defeated Baw-Lang-Lang, approach the tall structure in the center of the room to be transported to Bishui Cave. 
 
@@ -309,8 +293,6 @@ When he's back down on the floor after sending out the duplicates, his attacks w
 
 You can approach the second part of the fight in much the same way you did the first, and if you haven't used too many spells, now is the time to unleash them and get the rest of his health down as soon as possible. 
 
-Red Boy
-
 After being the Red Boy, the Bull King will reveal the stone that was kept in his belly. At the end of the conversation, the Red Boy's body will begin to disappear. But before The Destined One can collect the stone, the Red Boy emerges, showing that he used a False Death Talisman and is actually alive. He consumes the stone and immediately transforms into the Yaksha King. 
 
 ### Yaoguai King - Yaksha King
@@ -353,8 +335,6 @@ There's one particular attack in this second half of the fight where he'll charg
 
 You can approach this fight in a similar way to the Red Boy, in that it's best to save your spells until the second portion. Immobilize works on him, so when he's darting around more in the second half, you can trap him and make it easier to attack. Ebon Flow is also a good spell to use in this fight, as you can block his attacks with the defense option and build up focus to unleash heavy attacks to stagger him. 
 
-Yaksha King
-
 With the Yaksha King defeated, Zhu Bajie will get him to spit out the relic. Chapter 5 comes to an end with Rakshasi appearing and promising to never leave the mountain again, and handing over the Plantain Fan to the Destined One. 
 
 With the chapter's end, you'll earn the Grieved Body, and the talents you can pick from it are: 
@@ -364,5 +344,3 @@ With the chapter's end, you'll earn the Grieved Body, and the talents you can pi
   * **Divine Safeguard -** Considerably increases Four Banes Resistance.
 
 It's time to venture to Mount Huago to start the final chapter of Black Myth: Wukong. 
-
-Field of Fire Complete

@@ -3,8 +3,8 @@
 The **Scorpion Prince** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Scorpion Prince offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Scorpion Prince, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Scorpion Prince Location
-  * Scorpion Prince Fight
-  * Scorpion Prince Spirit
+* Scorpion Prince Fight
+* Scorpion Prince Spirit
 
 ![Scorpion Prince 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9b/Scorpion_Prince_2.jpg)
 
@@ -28,10 +28,4 @@ You will most likely get poisoned during the battle, so you might want to take s
   * Equipped Effect: Moderately increases Poison Damage.
 
 The Scorpion Prince's Spirit allows you to take the form of the scorpion and leap into the air before slamming your tail back down on the ground, catching any enemies that might be in the way and poisoning them to great effect. The equipped effect also boosts Poison Damage, increasing the effectiveness of the move even more. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

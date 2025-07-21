@@ -3,8 +3,8 @@
 The **Flint Vanguard** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Flint Vanguard offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Flint Vanguard, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Flint Vanguard Location
-  * Flint Vanguard Fight
-  * Flint Vanguard Spirit
+* Flint Vanguard Fight
+* Flint Vanguard Spirit
 
 ![Flint Vanguard.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Flint_Vanguard.jpg)
 
@@ -30,10 +30,4 @@ The best way to fight this foe is by sticking behind it. The Flint Vanguard punc
   * Equipped Effect: Moderately increases Scorch Damage and Burn Resistance. 
 
 The Flint Vanguard's Spirit allows you to take the form of the rocky beast and beat your great fists into the ground, inflicting Scorch Bane and dealing Burn Damage to any enemies caught in the blasts. The equipped effect increases Scorch Damage and Burn Resistance, making it a great Spirit to channel while exploring the Flaming Mountains. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

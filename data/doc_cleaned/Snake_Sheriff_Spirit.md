@@ -3,8 +3,8 @@
 The **Snake Sheriff** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Snake Sheriff offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Snake Sheriff, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Snake Sheriff Location
-  * Snake Sheriff Fight
-  * Snake Sheriff Spirit
+* Snake Sheriff Fight
+* Snake Sheriff Spirit
 
 ![Snake shriff picture.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Snake_shriff_picture.jpg)
 
@@ -25,11 +25,5 @@ The Snake Sheriff fights like all other enemies of its type. Watch out for the b
   * **Tiger Roar**
   * Equipped Effect: Moderately increases Attack, but considerably reduces Defense. 
 
-The Snake Sheriff's Spirit allows you to take the form of the tiger and roar into the battlefield, shaking and dealing damage to any nearby enemies. This attack does a moderate amount of damage but has a double-edged sword effect, making it suitable for only some playstyles. The effect boosts your Attack a little bit while massively reducing your Defense. This exchange won't be worth it for all players. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
+The Snake Sheriff's Spirit allows you to take the form of the tiger and roar into the battlefield, shaking and dealing damage to any nearby enemies. This attack does a moderate amount of damage but has a double-edged sword effect, making it suitable for only some playstyles. The effect boosts your Attack a little bit while massively reducing your Defense. This exchange won't be worth it for all players.
 

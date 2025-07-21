@@ -17,9 +17,3 @@ If you encounter Chinese text when starting Black Myth Wukong and want to play i
 
 ![Black myth wukong .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Black_myth_wukong_.jpg)
 
-**For more Black Myth Wukong game help, check out:**
-
-  * Walkthrough
-  * Things Black Myth Wukong Doesn't Tell You
-  * How to Increase Gourd Uses and Healing Amount
-

@@ -33,19 +33,5 @@ Image | Key Item | Rarity | Description | Location | Where To Use It | Collected
 ![Black-myth-wukong-skandha-of-choice.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Black-myth-wukong-skandha-of-choice.jpg)  8 | Skandha of Choice| Legendary | "Once hidden inside the Buddha's head, this treasure has a secret yet to be revealed." | Found in Lower Hollow in The Webbed Hollow by Purifying Spring Shrine Head into the large body of water and to your left to find the Buddha statue head and the item | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Choice  
 ![Black-myth-wukong-violet-hail.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Black-myth-wukong-violet-hail.jpg)  9 | Violet Hail (Key Item)| Rare | "The remains of the deceased Daoists of Petal Fall Hamlet may be just what Daoist Mi outside the temple is seeking." | Found in Purple Cloud Mountain in The Webbed Hollow by Petalfall Hamlet, after talking with Daoist Mi and killing an enemy nearby Item is a random drop from enemies | • Give to Daoist Mi in Purple Cloud Mountain in The Webbed Hollow to fight him | Violet Hail (Key Item)  
 ![Black-myth-wukong-blood-stained-needle.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/Black-myth-wukong-blood-stained-needle.jpg)  10 | Blood Stained Needle| Legendary | "With our hearts entwined, even after a century together, we still yearn for more time." | Defeat Zhu Bajie for a second time in The Lower Hollow in The Webbed Hollow| • Used automatically after fighting The Duskveil in The Webbed Hollow| Blood Stained Needle  
-![Black-myth-wukong-skandha-of-consciousness.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Black-myth-wukong-skandha-of-consciousness.jpg)  11 | Skandha of Consciousness| Mythical | "Adaptability alone uncovers significance in subtlety. Once hidden inside the Buddha’s head, this treasure has a secret yet to be revealed." | Collect the Skandha of Form, Skandha of Feeling, Skandha of Thought, and Skandha of Choice throughout the game to trigger the Giant Shigangang fight in Mount Huaguo  
-Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge| Skandha of Consciousness  
-  
-### From IGN Shopping: Our Favorite Gaming Accessory Right Now
+![Black-myth-wukong-skandha-of-consciousness.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Black-myth-wukong-skandha-of-consciousness.jpg)  11 |  Skandha of Consciousness | Mythical  | "Adaptability alone uncovers significance in subtlety. Once hidden inside the Buddha’s head, this treasure has a secret yet to be revealed." | Collect the Skandha of Form, Skandha of Feeling, Skandha of Thought, and Skandha of Choice throughout the game to trigger the Giant Shigangang fight in Mount Huaguo Dropped by the boss | • Used alongside the other Skandha key items to create the Skandhas Pill from Xu Dog in Yellow Wind Ridge | **Skandha of Consciousness**           
 
-![Wireless Controller](https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg)
-
-### Black Myth: Wukong Wireless Controller
-
-0
-
-This well-reviewed 8Bitdo Ultimate 2C Wireless Controller for PC and Android is compatible with Windows 10 and above and Android 9.0 and above. It has 1000Hz polling rate, remappable L4/R4 bumpers and more special features.
-
-$34.99 at Amazon
-
-_If you buy through our links, IGN may earn an affiliate commission._ _Learn more_ _._

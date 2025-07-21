@@ -3,9 +3,9 @@
 The Crouching Tiger Temple is one of two possible second main regions of Chapter 2 in the Yellow Wind Ridge of Black Myth: Wukong. Below you'll find a guide for the Temple and its main boss fight against the Tiger Vanguard, as well as the secret Cellar beneath it once you have the Keeness of Tiger. 
 
   * **Jump to A Section:**
-  * **Temple Entrance**
-    * Yaoguai King - Tiger Vanguard
-  * **Temple Cellar**
+* **Temple Entrance**
+  - Yaoguai King - Tiger Vanguard
+* **Temple Cellar**
 
 The Crouching Tiger Temple is one of the two sub-regions you’ll need to explore in Chapter 2 of Black Myth Wukong in order to unlock the large sealed doors that lead to the end of the chapter. You can first reach this area by heading through the Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, taking the left path through the Valley of Despair and through a crack in the wall leading to a small canyon. 
 
@@ -26,8 +26,6 @@ Be sure to stop and look to the right as you begin to climb the steps, and you�
 ![Wukong Tiger 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e5/Wukong_Tiger_3.jpg)
 
 Keep heading up, and look left before reaching the top of the stairs. This time, you’ll find a **Meditation Spot** around the corner at the foot of a large tiger statue, and resting at it will award you a free Spark Skill Point. 
-
-The Sculpture, Crouching Tiger Temple Meditation Spot
 
 ![Wukong Tiger 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3f/Wukong_Tiger_4.jpg)
 
@@ -115,8 +113,6 @@ When at last the Tiger Vanguard is finally beaten by your attacks, he’ll turn 
 
 Defeating the Tiger Vanguard will award you a Mind Core, and the Keeness of Tiger, the second Key Item needed along with the Sterness of Stone to finally open the big stone doors in this chapter that lead to the final boss. In fact, there’s one of those tallies in this very arena that can open up a secret path! 
 
-Tiger Vanguard
-
 ![Wukong Tiger 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6b/Wukong_Tiger_22.jpg)
 
 Using the Keeness of Tiger and Sterness of Stone, head up the steps to the large headless statue in the middle of the temple’s blood-soaked plaza. By activating this two-headed tally, you’ll drain the bloody pool, and reveal a large lion mouth that serves as a pit into the cellar below. 
@@ -130,8 +126,6 @@ Drop down into the mouth of the stone tiger, which leads to a very narrow tunnel
 ![Wukong Tiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Tiger_24.jpg)
 
 Once you’ve cleared the hall of Withered Corpses, look where the one hiding behind several large pots was, and you can find an altar with a gold pot. Open it, and you’ll receive a **Celestial Jade Lotus Pill** , massively improving your maximum health! 
-
-Yellow Wind Ridge Celestial Jade Lotus Pill
 
 Past the Celestial Pill, there will be a large pillar decoration, with a passage on the other side leading down to an open cave below the temple. 
 
@@ -172,5 +166,3 @@ The best part of these new passive buffs is that you have the option to reset th
 Before heading out, be sure to also buy the **Longevity Decoction** formula for 2,700 Will. It will allow you to craft a consumable that temporarily raises max health, allowing you to survive a bit longer in deadly boss fights. 
 
 Down past the Shrine, you’ll finally find the way down to the final boss of Chapter 2. However, there’s a lot more to the Yellow Wind Formation sub-region than just the boss, including the path beyond the Crouching Tiger Temple, and the other doors yet to be unlocked. Our next stop will be to explore a large optional part of the **Yellow Wind Formation** above at the Windrest Bridge. 
-
-Crouching Tiger Temple Complete

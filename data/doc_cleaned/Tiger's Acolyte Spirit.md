@@ -3,8 +3,8 @@
 The **Tiger's Acolyte** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Tiger's Acolyte offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Tiger's Acolyte, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Tiger's Acolyte Location
-  * Tiger's Acolyte Fight
-  * Tiger's Acolyte Spirit
+* Tiger's Acolyte Fight
+* Tiger's Acolyte Spirit
 
 ![Tigers Acolyte.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cc/Tigers_Acolyte.jpg)
 
@@ -28,10 +28,4 @@ The Tiger's Acolyte is very fast and very strong. Immobilize will be a big help 
   * Equipped Effect: Moderately increases Critical Damage.
 
 The Tiger's Acolyte is an incredibly strong enemy that lends you an equally strong attack when his Spirit is equipped. It only deals a single instance of damage, but the amount of damage is decent. It also allows you to close the distance between you and your foe much faster than sprinting over there yourself. The Tiger's Acolyte significantly increases your Critical Damage when equipped. To make the most of this effect, head to the skill tree and increase your chances of landing a Critical Hit. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

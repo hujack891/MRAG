@@ -2,11 +2,11 @@
 
 In Black Myth: Wukong the Gourd serves as a multi-purpose item. Not only does it enable you to absorb Spirits and gain larger amounts of Will, but it also acts as your health potion. As you progress through the story, you’ll be able to increase the Gourd’s uses and the healing amount with the help of an NPC. Here’s our guide on how to improve your Gourd and replenish your health faster and more effectively in no time. 
 
-  * How to fix "Cannot Absorb Spirits Without Guidance"
-  * How to Increase Gourd Uses and Healing Amount
-  * How to Upgrade Gourds
-  * How to Upgrade Healing Amount
-  * How to Brew
+* How to fix "Cannot Absorb Spirits Without Guidance"
+* How to Increase Gourd Uses and Healing Amount
+* How to Upgrade Gourds
+* How to Upgrade Healing Amount
+* How to Brew
 
 ## How to Gain Guidance to Absorb Spirits
 

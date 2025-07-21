@@ -95,4 +95,3 @@ When at last the Tiger Vanguard is finally beaten by your attacks, he’ll turn 
 ![Wukong Tiger 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/59/Wukong_Tiger_21.jpg)
 
 Defeating the Tiger Vanguard will award you a Mind Core, and the Keeness of Tiger, the second Key Item needed along with the Sterness of Stone to finally open the big stone doors in this chapter that lead to the final boss. In fact, there’s one of those tallies in this very arena that can open up a secret path! 
-

@@ -32,13 +32,13 @@ Erlang is undoubtedly one of the toughest bosses in the game. To make it harder,
 ![Mount Mei Walkthrough \(5\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Mount_Mei_Walkthrough_%285%29.png)
 
 You can opt for a build where you try to use spells against Erlang, but he's pretty good at countering them all. For example, if you use a Transformation, he will transform as well, and sometimes will just remove your Transformation entirely. If you are going for spells, Immobilize is good but only when you've knocked his shield down. Be mindful that he can use it against you as well. Cloudstep also is useful to evade the more dangerous attacks and sneak up on him. If you do go with Spells, you'll want to get your Plantain Fan back as quickly as possible to keep knocking down his shield.   
-  
+
 However, we'd actually recommend using Spellbinder (fully upgraded), which you'll have picked up from the Treasure Hunter/Green-Capped Martialist side quest in Chapter 3. Equip medicines like the Loong Aura Amplication Pellets and Enhanced Tiger Subduing Pellets to make the most out of your Attacks and Critical Hit chances. It's also worth using Ginseng Pellets to help you with Focus recovery, and if you're finding it very hard, you might want to take the Soul Remigration Pill, which will resurrect you if you die. 
 
 ![Mount Mei Walkthrough \(10\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Mount_Mei_Walkthrough_%2810%29.png)
 
 There are four stages to this fight. You can knock his health down by 25% quickly, by using the Plantain Fan as soon as you enter the fight. Either use Immobilize immediately here if you're going for Spells or throw out Spellbinder.   
-  
+
 You'll want to run about halfway across the field before you throw out the Plantain Fan, but if he goes to perform his attack, it's best to dodge this and then use the fan. Once you've knocked the first shield down, use Spellbinder and go in for the attack. 
 
 ![Mount Mei Walkthrough \(7\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Mount_Mei_Walkthrough_%287%29.png)
@@ -72,5 +72,3 @@ On top of this, you'll start to see him dragging the long sword toward you quick
 As you enter into the last 25% of his health bar, you can approach the fight in the same way. Just focus on knocking his shield down one last time and following up with your heavy attacks, Immobilize, and if you have enough Mana, now is a good time to throw out Pluck of Many. 
 
 When his health bar is depleted, Erlang will turn into a bird and fly off. The Destined One will follow, and you'll soon be clashing in the sky. 
-
-Erlang, the Sacred Divinity

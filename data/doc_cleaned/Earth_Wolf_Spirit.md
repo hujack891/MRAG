@@ -3,8 +3,8 @@
 The **Earth Wolf** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Earth Wolf offers up its Spirit that you can absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Earth Wolf, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Earth Wolf Location
-  * Earth Wolf Fight
-  * Earth Wolf Spirit
+* Earth Wolf Fight
+* Earth Wolf Spirit
 
 ![Earth Wolf Pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Earth_Wolf_Pic.jpg)
 
@@ -32,10 +32,3 @@ The Earth Wolf hits very hard, but winds up a lot of its moves, giving you a cha
   * Equipped Effect: Grants a small amount of additional Focus on hit. 
 
 The Earth Wolf's Spirit allows you to use the wolf's charge ability to ram and stagger enemies. Even big bosses go down after this move, allowing you to get another combo in before they get up. It's an excellent Spirit and one of the best in the game. You can also use the ability to smash the wall in the First Prince of Flowing Sands arena if the boss doesn't destroy it and reveal the secret area itself. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

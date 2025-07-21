@@ -45,5 +45,3 @@ The fight can feel quite fast-paced as they swap in and out to attack, so to put
 ![Furnace Valley Walkthrough \(61\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Furnace_Valley_Walkthrough_%2861%29.png)
 
 After defeating them collect the Spirit they drop, then continue up the stairs toward the palace. 
-
-Misty Cloud, Cloudy Mist Spirit

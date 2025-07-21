@@ -3,8 +3,8 @@
 The **Centipede Guai** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Centipede Guai offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Centipede Guai, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Centipede Guai Location
-  * Centipede Guai Fight
-  * Centipede Guai Spirit
+* Centipede Guai Fight
+* Centipede Guai Spirit
 
 ![Centipede Guai Pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/30/Centipede_Guai_Pic.jpg)
 
@@ -30,10 +30,4 @@ The worst attack of all, however, occurs when the creature lets out a massive sc
   * Equipped Effect: Slightly increases Movement Speed. 
 
 The Centipede Guai's Spirit allows you to take the form of the Centipede and perform the rolling ball move that you will have experienced during your fight. This move hits hard and can easily stagger foes, giving you a chance to land your own combo before they recover. Its equipped effect increases your Movement Speed as well, making it a great Spirit to equip when taking on challenges like the Iron Ball in the Flaming Mountains. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

@@ -48,4 +48,3 @@ After you kill the Centipede Guai, you can continue through a path behind it thr
 The Horse Guai can be found at the Furnace Valley, Valley Entrance area of the Flaming Mountains. However, you will need to kill the Keeper of Flaming Mountains boss towards the end of the chapter before you can do anything here. 
 
 Once the boss is dead, you can then visit the Horse Guai and pull the chain on the cart next to him to obtain the spell. 
-

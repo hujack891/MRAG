@@ -3,8 +3,8 @@
 **Turtle Treasure** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Turtle Treasure offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about Turtle Treasure, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Turtle Treasure Location
-  * Turtle Treasure Fight
-  * Turtle Treasure Spirit
+* Turtle Treasure Fight
+* Turtle Treasure Spirit
 
 ![Turtle Treasure.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/98/Turtle_Treasure.jpg)
 
@@ -32,10 +32,3 @@ While fighting Turtle Treasure, you will want to make sure to look out for the m
 Turtle Treasure's Spirit allows you to take the beast's form and leap up into the air before slamming your massive mallet down onto the ground, creating a fiery explosion that deals epic damage to any enemies unfortunate enough to get caught underneath it. 
 
 This move is powerful, as is the equipped effect, which increases the damage of any Heavy Attack that takes 3 or more Focus Points. Heavy Attacks that cost that many Focus Points are already strong, so to have them boosted even more is a great effect. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

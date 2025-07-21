@@ -3,8 +3,8 @@
 **Wandering Wight** is the first Spirit you will encounter in Black Myth: Wukong and the hardest battle you will face at that point in your adventure. Wandering Wight is a large baby-like boss with a big head and hard-hitting attacks. Here, we will review Wandering Wight's location, attacks, and Spirit Power. 
 
   * Wandering Wight Location
-  * Wandering Wight Fight
-  * Wandering Wight Spirit
+* Wandering Wight Fight
+* Wandering Wight Spirit
 
 ![Wandering Wight .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wandering_Wight_.jpg)
 
@@ -35,10 +35,3 @@ You won't be equipped to absorb this power when you defeat Wandering Wight. This
   * Equipped Effect: Significantly increases Defense.
 
 Wandering Wight's Spirit Power is called **Faithful Kowtow**. Faithful Kowtow allows you to take the form of Wandering Wight and ram his head into enemies, dealing them massive damage. This is one of the best Spirit Powers, and it holds up throughout the entire game. Wandering Wight's Power can also be used to destroy the wall leading to a secret area in the First Prince of Flowing Sands arena. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

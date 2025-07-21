@@ -119,4 +119,3 @@ This is a good time to use your best Transformation Spell to help whittle down h
 The last piece of his health bar is by far the scariest to take down, and you'll need to constantly be watching his electrified talismans to anticipate where his next big blast is coming from. If you have extra mana, you can also try going for the Pluck of Mana, or just focus on more Immobilizations and Rock Solid Deflections. 
 
 Once you've finally defeated the Hundred-Eyed Daoist Master, you'll be treated to the finale of the Spider Sisters and their mother. Note that you'll now gain all the Yaoguai Chief entries for the First, Third, Fourth, and Fifth Sister (despite you not having actually fought against them). 
-

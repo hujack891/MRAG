@@ -51,4 +51,3 @@ Once you’ve got him back on the ground, try utilizing your new Red Waves spell
 Remember you can also employ the Immobilize spell to keep him penned in if he strafes too much to hit, or you can use it to shut down his damaging roar or swipes so that you can interrupt his attack and hit him with a charged strike. 
 
 With his slow attacks, he’ll be easier to read than Guangzhi, making this battle one of patience and getting your hits in where you can before falling back to wait for the next attack you can dodge and punish. Once the mighty Lingxuzi falls, you’ll earn the **Grey Wolf Mask** and a **Mind Core** — a unique upgrade material. 
-

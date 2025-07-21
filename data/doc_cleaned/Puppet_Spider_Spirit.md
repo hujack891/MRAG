@@ -3,8 +3,8 @@
 The **Puppet Spider** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Puppet Spider offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Puppet Spider, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Puppet Spider Location
-  * Puppet Spider Fight
-  * Puppet Spider Spirit
+* Puppet Spider Fight
+* Puppet Spider Spirit
 
 ![Puppet Spider.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/72/Puppet_Spider.png)
 
@@ -26,10 +26,4 @@ The Puppet Spider has most hands tied behind its back, leaving two free that it 
   * Equipped Effect: Moderately slows the decay of Might. 
 
 The Puppet Spider's Spirit allows you to take the form of the spider and use its long fangs to slice and dice your enemies. Sadly, this move doesn't inflict any poison damage, but it can still be very handy in battle. The equipped effect is also pretty good, slowing down the decay of Might so you can use your Transformations for longer. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

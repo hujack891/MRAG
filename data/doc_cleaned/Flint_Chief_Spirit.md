@@ -3,8 +3,8 @@
 The **Flint Chief** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Flint Chief offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Flint Chief, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Flint Chief Location
-  * Flint Chief Fight
-  * Flint Chief Spirit
+* Flint Chief Fight
+* Flint Chief Spirit
 
 ![Flint Chief .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Flint_Chief_.jpg)
 
@@ -32,10 +32,3 @@ Immobilize or A Pluck of Many speeds up the fight significantly if you don't hav
   * Equipped Effect: Slightly increases Four Banes Resistance. 
 
 The Flint Chief's Spirit allows you to turn into a solid rock to avoid taking damage from enemy attacks. This is similar to the Rock Solid spell, but it doesn't stagger the enemy when timed correctly as Rock Solid does. It still deflects damage, though, which is the main drawcard of this Spirit. The equipped effect is also defensive, increasing your resistance to all Four Banes. This makes it a versatile Spirit to channel in the Webbed Hollow, the New West, and the Flaming Mountains. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

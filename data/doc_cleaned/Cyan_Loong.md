@@ -83,4 +83,3 @@ This fight will largely come down to learning his moves enough that you can anti
 ![Wukong Turtle 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/94/Wukong_Turtle_37.jpg)
 
 When he falls, you'll earn some Fine Gold Thread and another Loong Pearl, and can loot a nearby chest that appears for the Mountain-Shaking Claw material and Breath of Fire Soak for your Gourd. This new material will unlock the upgrade path for your Loongwreathe Staff into the Golden Loong Staff, but you'll need to find and defeat the last of the four Loongs to craft it. 
-

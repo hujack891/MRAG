@@ -2,9 +2,9 @@
 
 Black Myth: Wukong doesn't have traditional blocking or parrying techniques, but there _are_ ways to deflect incoming enemy attacks. If you want to be able to deflect melee attacks and stagger enemies, you'll need to unlock a spell in Chapter 2 allowing you to do so. With that in mind, here's everything you need to know from how to get hold of Rock Solid to how and when to use it. 
 
-  * How to Unlock the Rock Solid Spell
-  * How to Parry Enemy Attacks in Black Myth: Wukong
-  * Spells to Unlock to Upgrade Rock Solid
+* How to Unlock the Rock Solid Spell
+* How to Parry Enemy Attacks in Black Myth: Wukong
+* Spells to Unlock to Upgrade Rock Solid
 
 ## How to Unlock the Rock Solid Spell
 
@@ -42,5 +42,5 @@ Nick of Time | Gain Focus when you successfully Deflect | 1 Spark
 Upperhand | Increases Light Start Attack damage after a successful Deflection | 1 Spark   
 Ironclad | Damage Reduction given after a Deflection | 1 Spark   
 Bold Venture | Recover Mana when successfully Deflecting | 2 Sparks (can be upgraded twice)   
-  
+
 Rock Mastery, Ironclad, and Bold Venture are particularly useful. With this combination of skills, when you're successful at Deflecting, you can recover Mana quickly, and take less damage for a short amount of time. With the Mana recovery and the Rock Mastery reducing the cooldown of the spell, you can get more use of Rock Solid in fights. 

@@ -51,4 +51,3 @@ He can also adopt a ready stance and expel projectiles all around him. They'll f
 ![Wukong YellowFlower 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_YellowFlower_25.jpg)
 
 Aside from this, he doesn't have too much else to worry about. As long as you can get rid of his students quickly, and react quickly whenever he swings the bigger sword, you can anticipate and retaliate against most of his moves. When he falls, he'll drop a Knot of Voidness, and you can claim his Commander Beetle Spirit. 
-

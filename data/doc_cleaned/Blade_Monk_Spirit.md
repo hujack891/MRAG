@@ -3,8 +3,8 @@
 **Blade Monk** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Blade Monk offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Blade Monk, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Blade Monk Location
-  * Blade Monk Fight
-  * Blade Monk Spirit
+* Blade Monk Fight
+* Blade Monk Spirit
 
 ![Blade Monk Location.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Blade_Monk_Location.png)
 
@@ -28,10 +28,4 @@ The Blade Monk fights like all other enemies of his kind with a massive sword. T
   * Equipped Effect: Moderately increases Attack for a short duration after defeating an enemy.
 
 The Blade Monk's Spirit Power allows you to take the form of the Monk and land your own combo with the massive sword he wields. Three swings are enough to deal a great amount of damage to your foe. The equipped effect is just as helpful, raising your attack after you've defeated an enemy. This is an excellent skill for crowds. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

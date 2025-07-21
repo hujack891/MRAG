@@ -31,4 +31,3 @@ From there, in The New West, you will need to defeat Captain Lotus-Vision in a s
 You can then, enter the gate to obtain the Transformation from the rat guai's body. 
 
 ![Ashen Slumber 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0f/Ashen_Slumber_1.jpg)
-

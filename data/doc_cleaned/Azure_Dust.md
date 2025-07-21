@@ -21,4 +21,3 @@ The Transformation allows you to transform into a rock guai, immune to all Four 
 The Azure Dust Transformation can be found in Fright Cliff - Squall Hideout in Yellow Wind Ridge. After defeating both the Mother of Stones boss and the Man-In-Stone boss with the Stone Essence in your inventory, you will unlock the Transformation. Our walkthrough and boss guides of the Fright Cliff area will help you complete this side quest. 
 
 ![Azure Dust.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/47/Azure_Dust.jpg)
-

@@ -3,8 +3,8 @@
 The **Crow Diviner** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Crow Diviner offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Crow Diviner, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Crow Diviner Location
-  * Crow Diviner Fight
-  * Crow Diviner Spirit
+* Crow Diviner Fight
+* Crow Diviner Spirit
 
 ![Crow Diviner.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/17/Crow_Diviner.jpg)
 
@@ -26,10 +26,3 @@ The Crow Diviner fights with a sword and deals frost damage. He also uses a skil
   * Equipped Effect: Moderately increases Chill Resistance. 
 
 The Crow Diviner's Spirit Power allows you to embody him for a short time and cover the surrounding area in a blanket of frost. This frost deals Frost Bane to both you and your enemies. Thankfully, the Crow Diviner's equipped effect makes you more resistant to Frost Bane, so it won't affect you as much as it will your foes. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

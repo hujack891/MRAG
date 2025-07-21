@@ -3,10 +3,10 @@
 The Kingdom of Sahali is a Secret Area found in Chapter 2's Yellow Wind Ridge of Black Myth Wukong. Below you'll find a guide to accessing the kingdom of the past by undertaking the Drunk Boar's Questline to find a Sobering Stone, and how to defeat the Tiger Vanguard and secret Yaoguai King Boss, Fuban. 
 
   * Jump to a Section:
-  * **How to Access the Kingdom of Sahali**
-    * Yaoguai Chief - "Tiger Vanguard"
-  * **Sandgate Bound**
-    * Yaoguai King - Fuban
+* **How to Access the Kingdom of Sahali**
+  - Yaoguai Chief - "Tiger Vanguard"
+* **Sandgate Bound**
+  - Yaoguai King - Fuban
 
 This Chapter 2 Secret can only be accessed by meeting the Yellow-Robed Square in Fright Cliff (aka the Drunken Boar), and helping him in his search for the "Realm of Gold" which requires a few steps (and for you to best him in combat). 
 
@@ -63,10 +63,12 @@ Once you follow him through the large gate with the small crawlspace, you’ll f
 Arriving in this realm of the past, you’ll find yourself in a large canyon. Head up to find a Shrine on the left, and be sure to check the shop in this secret realm, as it offers wares not sold in the rest of the Yellow Wind Ridge: 
 
 Kingdom of Sahali Shrine Shop   
-Fortifying Medicament (x3) - 360 Will |   
-Cold Iron Leaves (x2) - 900 Will | Refined Iron Sand (x1) - 1200 Will   
-Licorice (x3) - 120 Will |   
-  
+| Kingdom of Sahali Shrine Shop         | Kingdom of Sahali Shrine Shop      |
+| ------------------------------------- | ---------------------------------- |
+| Fortifying Medicament (x3) - 360 Will |                                    |
+| Cold Iron Leaves (x2) - 900 Will      | Refined Iron Sand (x1) - 1200 Will |
+| Licorice (x3) - 120 Will              |                                    |
+
 ![Wukong Sahali 12.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Sahali_12.jpg)
 
 As you round the corner, you’ll be told to halt by the defender of a large gate: A slightly familiar looking Tiger Guai who calls himself the Vanguard of the Yellow Wind King. If he looks familiar to another Vanguard you’ve faced, that’s because he’s actually the other Vanguard’s father! He’ll ask that you turn around and head home, which seems like such a waste with all you’ve gone through just to get here. 
@@ -117,8 +119,6 @@ Since he’s not as powerful or varied as the Vanguard of the Crouching Tiger Te
 
 Upon defeat, you’ll gain the **Tiger Tally** curio, and he’ll realize your prowess and invite you to meet his king. 
 
-Tiger Vanguard (Kingdom of Sahali)
-
 ## Sandgate Bound
 
 ![Wukong Sahali 22.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1e/Wukong_Sahali_22.jpg)
@@ -136,8 +136,6 @@ If you search the left side when facing the central cliff by the Shrine, you can
 ![Wukong Sahali 45.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Wukong_Sahali_45.jpg)
 
 Further down this left side, avoid falling down the sandy slopes until you reach a rocky area by the very far edge of the lip of this ridgeline. Look carefully, and you can spot the final **Meditation Point** for Chapter 2, granting you a free Spark Skill Point. 
-
-The Rock, Sandgate Bound Mediation Spot
 
 ![Wukong Sahali 25.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a4/Wukong_Sahali_25.jpg)
 
@@ -221,10 +219,6 @@ When following this strategy, you’ll quickly burn through the rest of Fuban’
 
 When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer! 
 
-Fuban
-
 ![Wukong Sahali 44.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Wukong_Sahali_44.jpg)
 
 Just as the Vessel from Chapter 1 proved a huge advantage against the Black Bear King, so too will the Wind Tamer be instrumental in negating the sandstorm attacks of the Yellow Wind Sage boss at the end of Chapter 2. Even outside of that fight, you can utilize it to grant additional damage negation, making it a great addition to your gear. 
-
-Kingdom of Sahali Complete

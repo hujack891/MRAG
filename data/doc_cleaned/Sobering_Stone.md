@@ -19,4 +19,3 @@ Inside a hut on the back left, you can find the vase and the Sobering Stone.
 The Sobering Stone is a part of the boar man's side quest in Chapter 2 - Yellow Wind Ridge. To get him to move from the Fright Cliff - Rockrest Flat Shrine, you need to hand him the Sobering Stone. From there, you can also hand him a Jade Lotus at Crouching Tiger Temple - Temple Entrance. Finally, returning to his original location with the Arhat Gold Piece in your inventory will cause him to attack you, and defeating him will open up the Kingdom of Sahali and the boss fights: Tiger Vanguard (Kingdom of Sahali) and Fuban. 
 
 You can find a full video walkthrough of this side quest below: 
-

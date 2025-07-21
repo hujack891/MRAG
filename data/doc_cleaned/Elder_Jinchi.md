@@ -71,4 +71,3 @@ So long as you deny him opportunities to restore his health, and watch out for w
 ![Wukong Guanyin 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/aa/Wukong_Guanyin_13.jpg)
 
 Once Elder Jinchi is defeated, you’ll automatically be returned back to the third bell in the Marsh of the White Mist. You can now interact with the Wolf Guai hanging from the tree, causing it to turn to dust, and rewarding you with the Fireproof Mantle Vessel, and 2,000 Will. 
-

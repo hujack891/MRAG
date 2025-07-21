@@ -44,4 +44,3 @@ In the Zodiac Village, you can talk to Yin Tiger, who is a blacksmith sitting am
 ![Wukong Yin 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Wukong_Yin_1.jpg)
 
 Upon talking to Yin Tiger, you can choose to have a duel, which starts a boss battle. Our breakdown of the Yin Tiger boss has a detailed overview of the moves to watch out for and tips to succeed. If you are successful at taking down Yin Tiger, you will obtain the Ebon Flow Transformation.
-

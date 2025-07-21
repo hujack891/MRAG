@@ -3,8 +3,8 @@
 **Earth Rakshasa** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Earth Rakshasa offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about Earth Rakshasa, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Earth Rakshasa Location
-  * Earth Rakshasa Fight
-  * Earth Rakshasa Spirit
+* Earth Rakshasa Fight
+* Earth Rakshasa Spirit
 
 ![Burning Shield Guy.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Burning_Shield_Guy.png)
 
@@ -30,10 +30,4 @@ To defeat the Earth Rakshasa, hang back and wait until the enemy charges you. Do
 The Earth Rakshasa's Spirit allows you to take the form of the creature and charge forward before smashing its giant shield into the ground, creating a barrier between you and your enemies. This not only damages foes but also creates a blockade, protecting you from enemy attacks while the shield remains. This can be an excellent way to block yourself from your enemy for a moment to take a sip from your Gourd or take some Medicine in relative safety. 
 
 The equipped effect is also defensive, increasing your Damage Reduction after you get hit. This allows you to take less damage when experiencing a bombardment of attacks. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

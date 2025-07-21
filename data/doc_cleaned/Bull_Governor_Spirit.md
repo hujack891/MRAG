@@ -3,8 +3,8 @@
 The **Bull Governor** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Bull Governor offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Bull Governor, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Bull Governor Location
-  * Bull Governor Fight
-  * Bull Governor Spirit
+* Bull Governor Fight
+* Bull Governor Spirit
 
 ![Bull Governor.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/87/Bull_Governor.jpg)
 
@@ -39,10 +39,4 @@ The Bull Governor is armed with a giant, flaming halberd that he uses to stab, s
   * Equipped Effect: Moderately increases Scorch Damage.
 
 The Bull Governor's Spirit allows you to take the form of the bull and charge forward with your lava-infused halberd, dealing Scorch Damage to any enemies caught in your path. It's a strong move that is even further boosted by the equipped effect that increases any Scorch Damage you inflict on your foes. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

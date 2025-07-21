@@ -31,4 +31,3 @@ The other attack that the Shigandang does is to punch both fists down and send o
 ![Five Skandhas \(25\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/71/Five_Skandhas_%2825%29.png)
 
 After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness. 
-

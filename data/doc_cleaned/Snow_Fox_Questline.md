@@ -83,5 +83,3 @@ When he's down, you'll earn 1x Tonifying Decoction, 2x Cold Iron Leaves, Blood o
 ## How to Complete the Snox Fox Mission
 
 When you've beaten Non-Void, return to the fox guai near the Forest of Felicity Keeper's Shrine. Examine the body and the spirit of the fox can finally be free. By completing the mission, you'll earn the Snow Fox Brush Curio. 
-
-Snow Fox's Quest

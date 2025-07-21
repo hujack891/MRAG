@@ -3,15 +3,15 @@
 The Temple of Yellow Flowers is the final main area of Black Myth: Wukong's Chapter 4, located high above the Webbed Hollow on. Below you'll find a guide for the final area of The Webbed Hollow, including how to track down the Violet Spider and defeat the Hundred-Eyed Daoist Master, as well as getting a rematch with the Venom Daoist to unlock a Secret Area, and finding the last Purple Talisman Altar. 
 
   * **Jump to a Section**
-  * **Mountain Trail**
-  * **Forest of Ferocity**
-    * Yaoguai Chief - Commander Beetle
-  * **Temple Entrance**
-    * Yaoguai Chief - Fungiwoman
-    * Boss Fight - Venom Daoist
-  * **Court of Illumination**
-    * Boss Fight - Supreme Inspector
-    * Yaoguai King - Hundred-Eyed Daoist Master
+* **Mountain Trail**
+* **Forest of Ferocity**
+  - Yaoguai Chief - Commander Beetle
+* **Temple Entrance**
+  - Yaoguai Chief - Fungiwoman
+  - Boss Fight - Venom Daoist
+* **Court of Illuminatio**
+  - Boss Fight - Supreme Inspector
+  - Yaoguai King - Hundred-Eyed Daoist Master
 
 After defeating the Violet Spider, you'll have to escape her spider swarm as she retreats, but luckily you'll be plucked to safety by the one Spider Sister that seems to be on your side. 
 
@@ -24,8 +24,6 @@ When you untangle yourself from the webbing, you'll find yourself high above the
 ![Wukong YellowFlower 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Wukong_YellowFlower_2.jpg)
 
 Waiting for you just above the ridge where you start is a tree that holds a **Luojia Fragrant Vine** , and the Mountain Trail Shrine lies not far after. 
-
-Temple of the Yellow Flowers Luojia Fragrant Vine
 
 While resting at the Shrine, note that you can now craft the Spider Celestial Staff, which boasts an odd additional effect against enemies if you're currently poisoned. In fact, you can actually make this into an effective build by intentionally poisoning yourself with the Deathclaw Soak, and further boosting your skills by equipping the Elder Amourworm Spirit to increase critical hit chance when poisoned, but it is a bit of a risky tradeoff. 
 
@@ -74,8 +72,6 @@ After resting at the Forest of Ferocity Shrine, you'll see a group of Daoists of
 ![Wukong YellowFlower 13.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/52/Wukong_YellowFlower_13.jpg)
 
 First, you should head left to defeat a Snake Herbalist, and then explore a far cliff where a small ledge holds a **Meditation Spot** where you can get a free Skill Point. 
-
-The Height, Forest of Ferocity Meditation Spot
 
 ![Wukong YellowFlower 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Wukong_YellowFlower_14.jpg)
 
@@ -133,8 +129,6 @@ He can also adopt a ready stance and expel projectiles all around him. They'll f
 
 Aside from this, he doesn't have too much else to worry about. As long as you can get rid of his students quickly, and react quickly whenever he swings the bigger sword, you can anticipate and retaliate against most of his moves. When he falls, he'll drop a Knot of Voidness, and you can claim his Commander Beetle Spirit. 
 
-Commander Beetle
-
 Before you leave this area and continue on the main path, be sure to check the building where the Commander Beetle was standing, and you'll find a small **Treasure Chest** box that holds the **Tablet of the Three Supremes Curio**. 
 
 ![Wukong YellowFlower 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_YellowFlower_26.jpg)
@@ -167,8 +161,6 @@ This inner hall is teeming with tons of Worm Practitioners all over the lower wa
 
 Whether you want to kill every last one or not, be sure to at least clear out the far left side of the lower pathway first, and behind a tree you can find the final **Meditation Spot** for this temple area. If you remove all the enemies on the opposite side, you can grab a green Wisp and absorb it. 
 
-The Pines, Temple of Yellow Flowers Meditation Spot
-
 ![Wukong YellowFlower 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_YellowFlower_32.jpg)
 
 Expect the lion-headed enemy to be tougher than the rest as you climb the first set of stairs, but defeating it will earn you the Snake Sheriff Spirit. 
@@ -176,8 +168,6 @@ Expect the lion-headed enemy to be tougher than the rest as you climb the first 
 ![Wukong YellowFlower 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3b/Wukong_YellowFlower_33.jpg)
 
 At the top of the other stairs, you'll find a small enclosed area where the Ancient Master sits alone, playing an instrument called the guqin. While you can talk to him about the Violet Spider, the more important item here is located just behind him in a glowing pot - an **Awaken Wine Worm** to add to your Gourds! 
-
-Temple of Yellow Flowers Awaken Wine Worm
 
 ![Wukong YellowFlower 35.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_YellowFlower_35.jpg)
 
@@ -216,8 +206,6 @@ Another move they share is their rapid spin attack that will seek you out. Keep 
 For all their extra health, they don't have too many more moves than a regular enemy, so keep on the offensive so they don't have a chance to sprout more spore projectiles, using Immobilize to lock them down and Rock Solid when they try to swipe at you with their staff. 
 
 Once defeated, you'll gain a Knot of Voidness, and a Monkey-Head Fungus Seed to take back to the Zodiac Village, as well as their Fungiwoman Spirit to absorb. 
-
-Fungiwoman
 
 ![Wukong YellowFlower 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/75/Wukong_YellowFlower_42.jpg)
 
@@ -277,8 +265,6 @@ Much of the rest of this fight will revolve around avoiding his lengthy combo at
 
 Once the Daoist is defeated for good, he'll impart a mysterious message, telling you to "find the needle on Purple Cloud Mountain". As he departs, he mural will form on the nearby wall, which you can now interact with to travel to **Chapter 4's Secret Area: Purple Cloud Mountain**. As with other Secret Areas, we recommend exploring it before you proceed to the final boss of this chapter, as it will be instrumental in helping to defeat the final boss of this area. 
 
-Venom Daoist (Temple of Yellow Flowers)
-
 ![Wukong YellowFlower 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/49/Wukong_YellowFlower_55.jpg)
 
 Before you do, you should also head through the nearby gateway to find a large field with a giant tree in the middle. Off on the right, you can find a wooden ledge overlooking the mountains with a **Treasure Chest** full of random materials and a Soul Remigration Pill. 
@@ -324,8 +310,6 @@ If he tries to shoot out various wing-tip projectiles at you, don't panic and ju
 Once the battle comes to a conclusion, a Heron Noble will intervene, calling his attack... hand, off. He'll reprimand you (or Wukong) for your foolish acts, and despite destroying the altars, it seems they are set on keeping the Spider Sister who has been helping you from breaking free of her life in the Webbed Hollow. 
 
 That's all you can do with him for now, but at the very least, you can now approach the table behind where the purple talisman altar was placed to find a **Celestial Nonary Pill** , increasing your stamina by a bit more! 
-
-The Webbed Hollow Celestial Nonary Pill
 
 ![Wukong YellowFlower 64.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e8/Wukong_YellowFlower_64.jpg)
 
@@ -441,8 +425,6 @@ The last piece of his health bar is by far the scariest to take down, and you'll
 
 Once you've finally defeated the Hundred-Eyed Daoist Master, you'll be treated to the finale of the Spider Sisters and their mother. Note that you'll now gain all the Yaoguai Chief entries for the First, Third, Fourth, and Fifth Sister (despite you not having actually fought against them). 
 
-Hundred-Eyed Daoist Master
-
 ![Wukong YellowFlower 88.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1f/Wukong_YellowFlower_88.jpg)
 
 With a bittersweet ending to this chapter, you'll gain the next piece of the Great Sage's Senses - the Envious Tongue, which has some interesting talents you can pick from: 
@@ -452,5 +434,3 @@ With a bittersweet ending to this chapter, you'll gain the next piece of the Gre
   * **Tongue of a Connoisseur** \- Each equipped Soak slightly increases the Health recovery of the Drink.
 
 Leaving the Webbed Hollow behind, your next stop will take you to the fiery wasteland of the **Flaming Mountains** in search of the fifth relic. 
-
-Temple of Yellow Flowers Complete

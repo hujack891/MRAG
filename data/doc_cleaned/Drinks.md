@@ -6,10 +6,6 @@ These Gourd Drinks are rare in the game, and there are only a few different opti
 
 ## Black Myth: Wukong Drinks Locations
 
-### Best Black Myth Wukong Gourd Drinks
-
-### Best Black Myth Wukong Gourd Drinks
-
 Below you can find a full list of the Drinks in the game and where they can be found. Additionally, you can check each one off as you find them. Each link will take you to a dedicated page for each Drink, or you can use our walkthrough. 
 
 Image | Drink | Rarity | Effect | Location | Collected   

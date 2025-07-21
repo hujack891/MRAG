@@ -67,4 +67,3 @@ Any time you manage to knock the dragon to the ground, quickly capitalize on the
 ![Wukong Snowhill 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Snowhill_48.jpg)
 
 When you finally deplete the bosses health, you'll send her into the icy depths below the lake. 
-

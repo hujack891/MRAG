@@ -43,4 +43,3 @@ In this phase, you'll need to avoid the pools of blood. There are also some proj
 ![Foothills Walkthrough \(63\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3d/Foothills_Walkthrough_%2863%29.png)
 
 This part of the fight is more about managing how long you can stand in the blood for, and jumping back out when you're about to be completely poisoned. Try to bait the deer to run out of the patches of blood, and into the ice where you can attack it freely. You can also use the Wind Vessel in this phase to down the deer temporarily. 
-

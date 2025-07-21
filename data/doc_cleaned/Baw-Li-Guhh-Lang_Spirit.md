@@ -3,8 +3,8 @@
 **Baw-Li-Guhh-Lang** is a large frog Spirit you will encounter on Black Wind Mountain in Black Myth: Wukong. On this page, we will go over everything you need to know about Baw-Li-Guhh-Lang, including where to find it, how to defeat it, and what Spirit Powers it grants you. 
 
   * Baw-Li-Guhh-Lang Location
-  * Baw-Li-Guhh-Lang Fight
-  * Baw-Li-Guhh-Lang Spirit
+* Baw-Li-Guhh-Lang Fight
+* Baw-Li-Guhh-Lang Spirit
 
 Baw-Li-Guhh-Lang can be fully upgraded using Tadpoles to unlock the Baw-Baw-Lang-Lang Spirit!
 
@@ -34,10 +34,3 @@ The main thing to remember when fighting Baw-Lu-Guhh-Lang or any other frog boss
   * Equipped Effect: Moderately reduces the Stamina cost for Jumps and Jump Attacks.
 
 Baw-Li-Guhh-Lang's Spirit Power allows you to take the form of the massive frog and perform a sweeping strike with it's long tongue. This attack can deal some decent damage and has great reach. Having Baw-Li-Guhh-Lang equipped as your Spirit also reduces Stamina cost for jumping, including jump attacks, which is a nice bonus.   
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

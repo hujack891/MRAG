@@ -5,13 +5,9 @@ Black Myth: Wukong is full of collectibles that you can seek out to empower your
 Click the links below to find out more information about each type of collectible! 
 
 Black Myth Wukong Collectibles   
-Spirit Locations| Meditation Spots| Luojia Fragrant Vine Locations  
-Awaken Wine Worm Locations| Celestial Jade Lotus Pill Locations| Celestial Nonary Pill Locations  
-Celestial Taiyi Pill Locations| |   
-  
-Check out our other helpful Black Myth: Wukong guides! 
 
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-
+| Black Myth Wukong Collectibles                               | Black Myth Wukong Collectibles                               | Black Myth Wukong Collectibles                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Spirit Locations | Meditation Spots | Luojia Fragrant Vine Locations |
+| Awaken Wine Worm Locations | Celestial Jade Lotus Pill Locations | Celestial Nonary Pill Locations |
+| Celestial Taiyi Pill Locations |                                                              |                                                              |

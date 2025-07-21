@@ -18,4 +18,3 @@ Below you will find a list of all known Questlines, how to start them, and what 
 ## Chapter 3 Side Questlines
 
   * Snow Fox Questline
-

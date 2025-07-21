@@ -3,8 +3,8 @@
 **Guangmou** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Guangmou offers up his Spirit that you can absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Guangmou, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Guangmou Location
-  * Guangmou Fight
-  * Guangmou Spirit
+* Guangmou Fight
+* Guangmou Spirit
 
 ![Guangmo.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg)
 
@@ -37,10 +37,4 @@ You can also keep track of your status effects by checking the symbols underneat
   * Equipped Effect: Moderately increases Poison Damage and Poison Resistance.
 
 Guangmou's Spirit Power allows you to take his form and summon two snakes to the battlefield. These snakes will shoot poison projectiles at your foe, damaging them and inflicting them with poison. The equipped effect boosts your poison damage and poison resistance, which is extremely handy in places like the Webbed Hollow. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

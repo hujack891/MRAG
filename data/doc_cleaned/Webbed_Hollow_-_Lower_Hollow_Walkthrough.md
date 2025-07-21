@@ -3,14 +3,14 @@
 The Webbed Hollow is the second main area of Black Myth: Wukong's Chapter 4, concluding with the lower portion of the large underground cave system. Below you'll find a guide for the third and final lower area of The Webbed Hollow, including where to find the secret Yellow Loong and frog boss, and rescue Zhu Bajie from the clutches of the Violet Spider. 
 
   * **Jump to a Section**
-  * **Relief of the Fallen Loong**
-  * **Lower Hollow**
-    * Yaoguai Chief - Baw-Li-Guhh-Baw
-  * **Hut of Immortality**
-    * Boss Fight - Zhu Bajie
-  * **The Purifying Spring**
-  * **The Gathering Cave**
-    * Yaoguai Queen - Violet Spider
+* **Relief of the Fallen Loong**
+* **Lower Hollow**
+  - Yaoguai Chief - Baw-Li-Guhh-Baw
+* **Hut of Immortality**
+  - Boss Fight - Zhu Bajie
+* **The Purifying Spring**
+* **The Gathering Cave**
+  - Yaoguai Queen - Violet Spider
 
 Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow. 
 
@@ -23,8 +23,6 @@ Now that you've defeated Buddha's Right Hand and created a path with its corpse,
 ![Wukong LowerHollow 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_LowerHollow_2.jpg)
 
 Before you drop down the ledge after crossing the corpse of the boss, look for a little ledge leading left, leading to a small cliff area with a small golden pot that contains a **Celestial Taiyi Pill** , increasing your maximum mana. 
-
-The Webbed Hollow Taiyi Pill
 
 ![Wukong LowerHollow 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f9/Wukong_LowerHollow_3.jpg)
 
@@ -59,8 +57,6 @@ The area is chock-full of various plants to harvest, but you'll also find a bunc
 ![Wukong LowerHollow 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/be/Wukong_LowerHollow_9.jpg)
 
 Off on the right side, there's a larger tree where you can find a **Luojia Fragrant Vine** above a pool of water, and then find a path leading up to the left. 
-
-Relief of the Fallen Loong Luojia Fragrant Vine
 
 Climbing up the path, there's more Beetle Captains on the side of the road, before it curves to the left. 
 
@@ -134,8 +130,6 @@ As a Dragonfly Guai begins to rain arrows down you from a ledge above, check the
 
 On the other side, you'll find a path upward, and you can head right to find a **Meditation Point** for this part of the Hollow, and a smaller opening on the left to ambush the archer on his walkway. 
 
-Cave Depths, Lower Hollow Meditation Spot
-
 ![Wukong LowerHollow 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Wukong_LowerHollow_24.jpg)
 
 Past the archer, you'll find a high alternate route that sidesteps the area below lined with Clawed Cocoons, and a ledge you can drop down with a green Wisp on it to reach the Lower Hollow Shrine. 
@@ -187,8 +181,6 @@ This will cause his tongue-hand to shoot out and carry you upwards, fill you wit
 It may take a bit to learn and anticipate all of his surprises, and you can try using the Thrust Stance to get some distance away from his close-range moves. Make the most of your deflections or Immobilize to press your attack and augment it with Spirits and Transformations to keep the boss staggered so that you can finish him off. 
 
 When Baw-Li-Guhh-Baw is defeated, you'll gain another Tadpole to upgrade your frog Spirit, as well as the Left Hand of Buddha! This means you can now use both hands to craft and purchase a special Immortal Blessing Gourd when you visit the Shen Monkey in the Zodiac Village! 
-
-Baw-Li-Guhh-Baw
 
 ![Wukong LowerHollow 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Wukong_LowerHollow_37.jpg)
 
@@ -330,8 +322,6 @@ This will be a tough fight to survive, and may take more than a few tries to und
 
 Once you manage to burn down the rest of his health, you'll finally be able to free Zhu Bajie from the bewitching effect of the needle that was stabbed into his head, thanks to the mirror you found on the Right Hand of Buddha. 
 
-Zhu Bajie
-
 Unfortunately, the spiders aren't done with him, and he'll be whisked away, leaving you with his **Blood-Stained Needle** and the **Jade Moon Rabbit Curio**. 
 
 ## The Purifying Spring
@@ -438,8 +428,6 @@ Her eyes will stop glowing after you've been mesmerized once, so once the room i
 
 When the queen of spiders finally falls to your assault, she'll beat a hasty retreat to return to wherever she's hidden the Sage's Relic. You'll need to follow quickly, because a literal spider army will appear to give chase! 
 
-Violet Spider
-
 ![Wukong LowerHollow 86.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_LowerHollow_86.jpg)
 
 Quickly run toward the cave entrance on the far side, and don't stop sprinting for anything. 
@@ -449,5 +437,3 @@ Quickly run toward the cave entrance on the far side, and don't stop sprinting f
 When you reach the other side of the cave tunnel, you can spot a large sloping mountain path toward a big tree. Even though you may see spiders appearing ahead of you, keep running straight regardless and they'll dip to the side. 
 
 Eventually, the road will crumble, but you'll be saved by that one mysterious spider sister who seems to be on your side. This will take you high above the Webbed Hollow, and onto the mountain trail toward the **Temple of Yellow Flowers**. 
-
-Webbed Hollow Complete

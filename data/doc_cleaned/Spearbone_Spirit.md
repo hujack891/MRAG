@@ -3,8 +3,8 @@
 **Spearbone** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Spearbone offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Spearbone, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Spearbone Location
-  * Spearbone Fight
-  * Spearbone Spirit
+* Spearbone Fight
+* Spearbone Spirit
 
 ![Spearbone 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ce/Spearbone_3.jpg)
 
@@ -26,10 +26,3 @@ Spearbone fights like all of the other enemies of his kind in Yellow Wind Ridge.
   * Equipped Effect: Slightly increases Damage Reduction. 
 
 Spearbone's Spirit Power allows you to embody him for just long enough to use his iconic shield charge move. This is likely to stagger most enemies after, leaving you free to land another combo before they recover. The equipped effect Spearbone offers increases Damage Reduction, but only by a very marginal amount. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

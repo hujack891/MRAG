@@ -35,4 +35,3 @@ Once the Bullguard breaks free and the Keeper vanishes, it will be up to you to 
 Don’t get too reckless, as the Immobilize Spell has a moderate cooldown, and uses a bit of your magic meter each time. Unlike your health or stamina, you can’t regenerate magic except by resting at a Shrine. 
 
 When the beast finally falls, you’ll likely get a ton of experience, which you can invest in more skill trees that include a new one for your spells like Immobilize. The path forward is now clear to tread, but it’s still a little ways to the next Shrine. If you’re low on health, you can always head back to the Shrine and rest, as enemies like the Bullguard won’t respawn. 
-

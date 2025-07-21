@@ -3,8 +3,8 @@
 The **Enslaved Yaksha** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Enslaved Yaksha offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Enslaved Yaksha, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Enslaved Yaksha Location
-  * Enslaved Yaksha Fight
-  * Enslaved Yaksha Spirit
+* Enslaved Yaksha Fight
+* Enslaved Yaksha Spirit
 
 ![Enslaved Yaksha 2.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/86/Enslaved_Yaksha_2.png)
 
@@ -30,10 +30,4 @@ The Enslaved Yaksha is armed with a massive metal spike, and he's not afraid to 
   * Equipped Effect: Grants a moderate amount of Focus when hit. 
 
 The Enslaved Yaksha's Spirit Power allows you to take his form and stab your enemy with the long spike he wields. This deals initial impact damage while also staggering the enemy so you can land another combo before they get up. The equipped effect allows you build Focus when you take damage, so getting hit doesn't sting quite so bad. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

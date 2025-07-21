@@ -99,4 +99,3 @@ Be sure to experiment using your spells to their fullest. Rock Solid can sometim
 You can even try using Pluck of Many to let your summons hit him from behind while you distract his largely single-target attacks. 
 
 Once you have finally defeated Non-Able, you'll be able to obtain the Non-Able Spirit, which has a pretty intense effect for raising your stats while lowering your mana. 
-

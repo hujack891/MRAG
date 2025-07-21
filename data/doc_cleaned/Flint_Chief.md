@@ -29,4 +29,3 @@ There are three areas you can concentrate attacks, which are its body and two ha
 ![Furnace Valley Walkthrough \(44\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Furnace_Valley_Walkthrough_%2844%29.png)
 
 When you've beaten it collect the Flint Chief Spirit it drops and the Fire Date from the tree to the right of the lava flowing from the ceiling. 
-

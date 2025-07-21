@@ -45,4 +45,3 @@ You can also get an opportune strike after dodging its grab by using that moment
 ![Wukong Sandgate 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ac/Wukong_Sandgate_42.jpg)
 
 With enough damage dealt, the Earth Wolf will fall, revealing its Spirit to be claimed by you. You can look around the arena to harvest some Jade Lotus in the pond, or check the back of the houses to find other materials like Aged Ginseng. 
-

@@ -21,4 +21,3 @@ Head straight up the narrow path, and when you're close to the cart, look to the
 ![Chapter 5 Secret Area \(9\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png)
 
 You can expect the same moveset from each of the carts, so again, the Fireproof Mantle Vessel works wonders here. For this one, though, you won't be able to get close to the feet and stay there without being hit with the fire attacks. So, stick close during the fist slam (without the fire) and dodge this. But when it rears up, jump back into the alcove to protect yourself from any fire attacks. 
-

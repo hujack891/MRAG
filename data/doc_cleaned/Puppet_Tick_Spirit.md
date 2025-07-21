@@ -3,8 +3,8 @@
 The **Puppet Tick** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Puppet Tick offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Puppet Tick, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Puppet Tick Location
-  * Puppet Tick Fight
-  * Puppet Tick Spirit
+* Puppet Tick Fight
+* Puppet Tick Spirit
 
 ![Puppet Tick .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Puppet_Tick_.jpg)
 
@@ -30,10 +30,4 @@ The Puppet Tick fights with its staff like all other enemies of its type. There 
   * Equipped Effect: Considerably reduces the Mana cost for A Pluck of Many.
 
 The Puppet Tick's Spirit allows you to take the form of the hunched-over beetle and summon two spider minions to attack your enemies alongside you. These spiders explode into a puff of poison, inflicting any foes who were standing a little too close. The equipped effect is very good in this case, reducing the Mana cost for A Pluck of Many. A Pluck of Many uses a good chunk of Mana, more than many other spells. If you use it a lot, this Spirit could be very useful. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

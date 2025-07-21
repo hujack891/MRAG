@@ -5,11 +5,11 @@ Just like in Chapter 1, Chapter 2 of Black Myth: Wukong has a secret area for yo
 **Jump to:**
 
   * How to Find the Yellow-Robed Squire (Drunken Boar NPC)
-  * How to Get the Sobering Stone Method 1
-  * How to Get the Sobering Stone Method 2
-  * Take the Sobering Stone to the Yellow-Robed Squire
-  * How to Find the Boar at Crouching Tiger Temple
-  * How to Find the Boar After the Crouching Tiger Temple
+* How to Get the Sobering Stone Method 1
+* How to Get the Sobering Stone Method 2
+* Take the Sobering Stone to the Yellow-Robed Squire
+* How to Find the Boar at Crouching Tiger Temple
+* How to Find the Boar After the Crouching Tiger Temple
 
 ## How to Find the Yellow-Robed Squire (Drunken Boar NPC)
 

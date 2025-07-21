@@ -29,4 +29,3 @@ When its health has been knocked down past the halfway mark, it will start to di
 It will dive in and out a few times, then its huge tail will appear from the water to try and hit you. This will appear almost tentacle-like, and there can be overlap which means you're dodging more than one at once. 
 
 Thankfully, with a limited range of attacks and a fairly straightforward way to avoid them, Jiao-Loong of Waves shouldn't require too much to take it down. Don't feel the need to conserve your spells during this fight; take advantage of them to quickly take down this miniboss. 
-

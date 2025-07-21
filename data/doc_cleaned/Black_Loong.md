@@ -96,4 +96,3 @@ Learning the electric ring dance is arguably the hardest part of this fight, as 
 ![Wukong BlackLoong 15.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/26/Wukong_BlackLoong_15.jpg)
 
 When the Black Loong falls, you’ll earn plenty of rewards, including a Loong Pearl, Mind Core, 2 Refined Iron Sand, 1576 Will, and 2770 Experience. In addition to this, you can find a gold chest nearby that contains a Tridacna Pendant curio, and a Thunderbone weapon material — one of two Loong materials needed to craft the Loongwreathe Staff! 
-

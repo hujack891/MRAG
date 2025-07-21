@@ -3,11 +3,11 @@
 Bishui Cave is a Secret Area found in Chapter 5 of Black Myth: Wukong. Below you'll find a guide to accessing the cave by defeating the Five Element Carts and information on the bosses you'll find inside, including the ferocious Bishui Golden-Eyed Beast. 
 
   * **Jump to a Section:**
-  * **Purge Pit**
-    * Yaoguai Chief - Top Takes Bottom, Bottom Takes Top
-  * **Cave Depths**
-  * **Corridor of Fire and Ice**
-    * Yaoguai King - Bishui Golden-Eyed Beast
+* **Purge Pit**
+  - Yaoguai Chief - Top Takes Bottom, Bottom Takes Top
+* **Cave Depths**
+* **Corridor of Fire and Ice**
+  - Yaoguai King - Bishui Golden-Eyed Beast
 
 After being transported to Bishui Cave, head forward and clear out the two bull guards. Absorb the green Wisp by the water on the left, then head right and follow the ashen path up. 
 
@@ -24,8 +24,6 @@ To your left, immediately as you enter the room, you'll find the Purge Pit Keepe
 ![Bishui Cave Walkthrough \(10\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Bishui_Cave_Walkthrough_%2810%29.png)
 
 After activating the first of the Keeper's Shrines, face away from it and head to the right. Go down the stairs and to the end of the path to find a Meditation Spot. 
-
-The Screen, Purge Pit Meditation Spot
 
 Return to the Keeper's Shrine and continue past it, following the path to the right. Head down to the slope, collecting the green Wisp on the left and into the center of the room. As you reach the middle, you'll be met by the first of the bosses in this secret area. 
 
@@ -57,8 +55,6 @@ When her health bar is also knocked down slightly, they will start to swap in an
 
 After successfully wounding them both enough, you'll see them merge together and form the golden spiked ball. They'll use this to jump up in the air, pull back, and spin to launch themselves toward you. They will keep rolling around the room, and it's just a case of dodging this. However, when they're about to finish, they become significantly more aggressive and will leap up in the air again, slamming the ball down and causing explosions on impact. You'll need to dodge or jump to avoid this. Then the cycle will repeat again until you're able to put an end to them. 
 
-Top Takes Bottom, Bottom Takes Top
-
 ![Bishui Cave Walkthrough \(24\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Bishui_Cave_Walkthrough_%2824%29.png)
 
 After defeating Top Takes Bottom, Bottom Takes Top, go up the stairs. Take out the bull guard on the right as you enter the next section, and collect the green Wisp it stands near. 
@@ -66,8 +62,6 @@ After defeating Top Takes Bottom, Bottom Takes Top, go up the stairs. Take out t
 ![Bishui Cave Walkthrough \(25\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Bishui_Cave_Walkthrough_%2825%29.png)
 
 Continue down the path and look to your left to find a small Buddha statue. Behind it is a small alcove where you'll find a gold pot that has a Celestial Nonary Pill inside. 
-
-Flaming Mountains Celestial Nonary Pill
 
 ![Bishui Cave Walkthrough \(23\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/22/Bishui_Cave_Walkthrough_%2823%29.png)
 
@@ -86,8 +80,6 @@ It's best to clear the room out first and return to this chest to collect The Bu
 ![Bishui Cave Walkthrough \(26\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fd/Bishui_Cave_Walkthrough_%2826%29.png)
 
 The last thing to note in this corridor is you'll get a Bull Governor Spirit from the Bull Governor guarding the door. 
-
-Bull Governor Spirit
 
 Head through the door when the area is clear and follow the winding path until you can see a green Wisp on the left, and two bull guards on the right. 
 
@@ -139,8 +131,6 @@ When you enter the arena, on the other side, you'll see another frozen-over arch
 
 Head up the stairs in this section and on the right, you'll be able to harvest a Fire Date. On the left, you can find an Awaken Wine Worm, and straight up ahead before the stairs, you'll see a green Wisp on the left. 
 
-Bishui Cave Awaken Wine Worm
-
 ![Bishui Cave Walkthrough \(43\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Bishui_Cave_Walkthrough_%2843%29.png)
 
 Continue up the stairs, and you'll see the beast leaping around the rooftops. Go along the corridor, where you'll come to a frozen room with a doorway that has fire blocking it. 
@@ -153,10 +143,6 @@ The best will appear again, and this time use freezing variations of the previou
 
 He'll be back to his fire attacks here but they'll be much more amped up, so you'll want to knock as much of his health down in the first two rounds as you can. 
 
-Bishui Golden-Eyed Beast
-
 ![Bishui Cave Walkthrough \(48\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1c/Bishui_Cave_Walkthrough_%2848%29.png)
 
 Let the cutscene play, and you'll be returned to the start of Bishui Cave, where you entered after defeating the last cart. 
-
-Bishui Cave Complete

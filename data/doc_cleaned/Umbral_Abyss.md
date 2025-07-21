@@ -15,4 +15,3 @@ The Umbral Abyss Transformation Spell can be obtained from the Mahavira Hall Shr
 ![Wukong Thunderclap 87.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ed/Wukong_Thunderclap_87.jpg)
 
 You will get the Spell and be able to use it from the start of Chapter 4. If you are struggling with both of these fights, our detailed boss breakdowns on Yellowbrow and the Macaque Chief can give you some valuable tips to succeed in these final boss fights within Chapter 3. 
-

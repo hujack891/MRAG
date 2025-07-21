@@ -26,16 +26,3 @@ Black Myth: Wukong hides plenty of mysteries, but not all of its secrets and mec
 
 Looking for even more hidden bosses and areas? See our Secrets in Black Myth Wukong page!
 
-### From IGN Shopping: Our Favorite Gaming Accessory Right Now
-
-![Wireless Controller](https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg)
-
-### Black Myth: Wukong Wireless Controller
-
-0
-
-This well-reviewed 8Bitdo Ultimate 2C Wireless Controller for PC and Android is compatible with Windows 10 and above and Android 9.0 and above. It has 1000Hz polling rate, remappable L4/R4 bumpers and more special features.
-
-$34.99 at Amazon
-
-_If you buy through our links, IGN may earn an affiliate commission._ _Learn more_ _._

@@ -41,4 +41,3 @@ If he uses it to jump at you, he'll use his appendages to stab down as he lands,
 ![Wukong Thunderclap 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9a/Wukong_Thunderclap_24.jpg)
 
 Defeating this Yaoguai Chief will boast an unexpected reward: Hoarfrost. With this, you'll be able to utilize a new Transformation Spell to become a Monk from the Sea, and inflict your own frost damage on enemies to chill them! 
-

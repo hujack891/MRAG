@@ -8,7 +8,8 @@
 
 These pills can be found in small golden chests scattered about the land in each chapter. They are usually presented as a sort of reward for defeating a challenging foe. Click the links below to see the locations of each type of Celestial Pill so you can have the best stats possible! 
 
-Black Myth Wukong Celestial Pill Locations   
-Celestial Jade Lotus Pill Locations| Celestial Nonary Pill Locations| Celestial Taiyi Pill Locations  
-  
+| **Black Myth Wukong Celestial Pill Locations**               | **Black Myth Wukong Celestial Pill Locations**               | **Black Myth Wukong Celestial Pill Locations**               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Celestial Jade Lotus Pill Locations | Celestial Nonary Pill Locations | Celestial Taiyi Pill Locations |
+
 These pages are a work in progress! Check back in regularly to find even more Celestial Pill locations. 

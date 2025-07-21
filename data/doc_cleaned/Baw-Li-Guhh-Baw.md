@@ -53,4 +53,3 @@ This will cause his tongue-hand to shoot out and carry you upwards, fill you wit
 It may take a bit to learn and anticipate all of his surprises, and you can try using the Thrust Stance to get some distance away from his close-range moves. Make the most of your deflections or Immobilize to press your attack and augment it with Spirits and Transformations to keep the boss staggered so that you can finish him off. 
 
 When Baw-Li-Guhh-Baw is defeated, you'll gain another Tadpole to upgrade your frog Spirit, as well as the Left Hand of Buddha! This means you can now use both hands to craft and purchase a special Immortal Blessing Gourd when you visit the Shen Monkey in the Zodiac Village! 
-

@@ -3,9 +3,9 @@
 Black Myth: Wukong is a challenging action game with some RPG elements, and whether you consider yourself a combat expert or not, there's a lot of essential tips and tricks to learn as you follow in the footsteps of Sun Wukong. Below you'll find important tips for both exploration and combat to start you on the right foot. 
 
   * **Jump to:**
-  * **General Tips**
-  * **Combat Tips**
-  * Exploration Tips**
+* **General Tips**
+* **Combat Tips**
+* **Exploration Tips**
 
 ## General Tips
 
@@ -60,24 +60,3 @@ Black Myth: Wukong is a challenging action game with some RPG elements, and whet
   * **There are treasure chests and boxes to find along the way.** Some treasure chests are golden and obvious, while others are harder to find and look like wooden logs. On top of this, you'll find smaller boxes near altars where you can collect essential upgrade items, Gourds, Soaks, and more.
 
   * **Look for gaps and holes in the walls.** It's not always easy to see all the hidden paths and places that you can explore in Black Myth: Wukong, but if you see a crack in the wall, it's worth investigating. Sometimes, these will lead you to hidden treasures, key items, and spirits that would otherwise be out of reach.
-
-Looking for more Black Myth: Wukong guides? Check out these pages: 
-
-  * Walkthrough
-  * Things Black Myth Wukong Doesn't Tell You
-  * Boss List and Guides
-  * Collectibles
-
-### For Fans: Shop Black Myth: Wukong Gaming Accessories
-
-![Wireless Controller](https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg)
-
-### Black Myth: Wukong Wireless Controller
-
-0
-
-This well-reviewed 8Bitdo Ultimate 2C Wireless Controller for PC and Android is compatible with Windows 10 and above and Android 9.0 and above. It has 1000Hz polling rate, remappable L4/R4 bumpers and more special features.
-
-$34.99 at Amazon
-
-_If you buy through our links, IGN may earn an affiliate commission._ _Learn more_ _._

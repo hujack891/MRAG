@@ -27,4 +27,3 @@ You can then detransform and follow up with your own strong attacks and it will 
 ![Foothills Walkthrough \(70\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png)
 
 As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you. 
-

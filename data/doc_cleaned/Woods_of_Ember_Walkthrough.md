@@ -3,15 +3,15 @@
 Chapter 5 of Black Myth: Wukong begins in the Woods of Ember, with The Destined One and Zhu Bajie jumping straight into a fight. Below, you'll find a Walkthrough for the first major area of The Flaming Mountains called Woods of Ember, as well as information on the bosses you'll encounter along the way and items of interest. 
 
   * **Jump to a Section:**
-  * **Ashen Pass I**
-    * Boss Fight - Pale-Axe Stalwart
-    * Yoaguai Chief - Brown-Iron Cart
-  * **Camp of Seasons**
-  * **Height of Ember**
-    * Yoaguai Chief - Father of Stones
-    * Yoaguai Chief - Gray-Bronze Cart
-    * Yoaguai Chief - Quick as Fire, Fast as Wind
-  * **Ashen Pass II**
+* ** **Ashen Pass I
+  - Boss Fight - Pale-Axe Stalwart
+  - Yoaguai Chief - Brown-Iron Cart
+* **Camp of Seasons**
+* **Height of Ember**
+  - Yoaguai Chief - Father of Stones
+  - Yoaguai Chief - Gray-Bronze Cart
+  - Yoaguai Chief - Quick as Fire, Fast as Wind
+* **Ashen Pass II**
 
 ##  Ashen Pass I
 
@@ -33,11 +33,12 @@ Go straight up once you regain control and through the large door. On the other 
 
 Be sure to check the Shrine Shop while you're here, and revisit the Zodiac Village to see what new items everyone has to offer. 
 
-The Flaming Mountain Shrine Shop   
-Evil Repelling Medicament (x5) - 270 Will | Body-Cooling Powder (x9) - 180 Will | |   
-Mind Core (x6) - 2800 Will | Find Gold Thread (x2) - 3000 Will | Gold Tree Core (x1) - 4500 Will |   
-Purple Lingzhi (x10) - 90 Will | Fire Bellflower (x10) - 120 Will | Flame Ore (x5) - 180 Will | Fire Date (x3) - 360 Will   
-  
+| The Flaming Mountain Shrine Shop          | The Flaming Mountain Shrine Shop    | The Flaming Mountain Shrine Shop | The Flaming Mountain Shrine Shop |
+| ----------------------------------------- | ----------------------------------- | -------------------------------- | -------------------------------- |
+| Evil Repelling Medicament (x5) - 270 Will | Body-Cooling Powder (x9) - 180 Will |                                  |                                  |
+| Mind Core (x6) - 2800 Will                | Find Gold Thread (x2) - 3000 Will   | Gold Tree Core (x1) - 4500 Will  |                                  |
+| Purple Lingzhi (x10) - 90 Will            | Fire Bellflower (x10) - 120 Will    | Flame Ore (x5) - 180 Will        | Fire Date (x3) - 360 Will        |
+
 ![Woods Ember Walkthrough \(17\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Woods_Ember_Walkthrough_%2817%29.png) Directly ahead of the Keeper's Shrine, you'll see the area is ablaze and a solitary Revenant stands by the edge. There's not much to do in this area but just before the Revenant, you can find a **Purple Lingzhi** to pull from the ground. There's also a green Wisp to absorb just to the left of the field. 
 
 ![Woods Ember Walkthrough \(18\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a0/Woods_Ember_Walkthrough_%2818%29.png)
@@ -70,8 +71,6 @@ The most beneficial thing to you here is the fire from above. He is also impacte
 
 When you've knocked his health bar almost all the way down, he will kneel. To make the area safer, clear out the rest of the fighting Yaoguais, then approach the Pale-Axe Stalwart, who will now become an NPC with his own side quest for you to complete. 
 
-Pale-Axe Stalwart
-
 Speak to the Pale-Axe Stalwart, who will be pleased you've not been harmed. Keep prompting him to talk so you exhaust all of his dialogue. Eventually, he'll tell you about the five element carts and ask you to destroy them. 
 
 He'll also hint that the coffin carts are guarding more than just the passes across the mountains, but we'll revisit that once the side quest is concluded. 
@@ -101,8 +100,6 @@ Dash up the broken steps and run along the small path to get behind the cart. Dr
 The Brown-Iron Cart doesn't have much variation in attacks. If you approach it head-on, you'll want to use the Fireproof Mantle to help with its continuous fire attacks. But, you can also avoid these by sticking close to its arms. You'll just need to watch out for when it rears slightly up and slams its fists down. Thankfully, this attack can be dodged. 
 
 If you've taken the small path to get behind it as we suggested, and got to the Keeper's Shrine, you have the advantage. The cart can't turn around considering it's on such a small path, so you can ignore the fist-slamming attacks entirely and focus just on when it blows out fire all around it. Use the Fireproof Mantle and watch out for when it blows fire. As soon as it dies down, drop down and hit it relentlessly with combos. When it starts to get ready to unleash the fire, jump back up the little ledge to completely avoid it. 
-
-Brown-Iron Cart
 
 With the first of the five element carts down, go and activate the Camp of Seasons Keeper's Shrine. Rest here, then go back on yourself to see the Pale-Axe Stalwart again. 
 
@@ -144,8 +141,6 @@ Turn and face the opposite direction and deal with the archer on the stairs to t
 
 ![Woods Ember Walkthrough \(43\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/34/Woods_Ember_Walkthrough_%2843%29.png)
 
-The Relief, Camp of Seasons Meditation Spot
-
 ![Woods Ember Walkthrough \(46\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0e/Woods_Ember_Walkthrough_%2846%29.png)
 
 Go back down the stairs, and when you're almost at the bottom, look to the right to find another **Purple Lingzhi y** ou can harvest. Continue on, then turn right and follow the path. 
@@ -161,8 +156,6 @@ Take out the Revenant Charface and Charbone guarding the chest, then open it to 
 ![Woods Ember Walkthrough \(50\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Woods_Ember_Walkthrough_%2850%29.png)
 
 Now return and head up the long set of stairs. Clear the area of the Revenant Charface and the Revenant Charbones on either side. When it's safe, go into the small building on the right to pick up the Mount Lingtai Seedlings Soak from the golden turtle. 
-
-Mount Lingtai Seedlings
 
 ![Woods Ember Walkthrough \(49\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c6/Woods_Ember_Walkthrough_%2849%29.png)
 
@@ -206,8 +199,6 @@ The way to approach this fight is to build up your combos and then land a finish
 
 When you've bested him, collect the Father of Stones Spirit he leaves behind. 
 
-Father of Stones
-
 ![Woods Ember Walkthrough \(77\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/96/Woods_Ember_Walkthrough_%2877%29.png)
 
 From here, the path splits in two different directions. There is a door near the wall where the Father of Stones climbed over, but ignore that for now. Instead, go straight up past it. 
@@ -236,8 +227,6 @@ Go straight first, then look for the archer on the lower level to the right. Onc
 
 Pick up the Fire Bellflower on the left at the bottom of the wooden path before you head toward the Revenants and the vine. 
 
-Height of Ember Luojia Fragrant Vine
-
 ![Woods Ember Walkthrough \(84\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/73/Woods_Ember_Walkthrough_%2884%29.png)
 
 Turn back on yourself and go back up the stairs and the path. Turn to the right now and grab the Purple Lingzhi by the tree. This will turn into an enemy, but once you beat it, you'll receive a Purple Lingzhi and Nine-Capped Lingzhi. 
@@ -262,8 +251,6 @@ The cave is very dark, but you'll be able to see the faint glow of a green Wisp 
 
 Go out here and toward the statues to collect the Amber Prayer Beads curio from the box. 
 
-Amber Prayer Beads
-
 ![Woods Ember Walkthrough \(97\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Woods_Ember_Walkthrough_%2897%29.png)
 
 Go back inside the cave and now turn right to collect the green Wisp. Take out the Revenant near it, then go forward. 
@@ -277,8 +264,6 @@ The path splits here, and you'll probably notice the green Wisp on the right fir
 Collect the Wisp, then grab the Purple Lingzhi just beyond it that will turn into another enemy. Once you've got the Purple and Nine-Capped Lingzhi, turn right and collect another couple of green Wisps that sit at a dead end. 
 
 Turn around and go straight ahead to where the enemy holds the spirit. Defeat this enemy to get Blood of the Iron Bull and collect the Charface Spirit. 
-
-Charface Spirit
 
 ![Woods Ember Walkthrough \(100\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/42/Woods_Ember_Walkthrough_%28100%29.png)
 
@@ -297,8 +282,6 @@ Head straight up the narrow path, and when you're close to the cart, look to the
 ![Chapter 5 Secret Area \(9\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/93/Chapter_5_Secret_Area_%289%29.png)
 
 You can expect the same moveset from each of the carts, so again, the Fireproof Mantle Vessel works wonders here. For this one, though, you won't be able to get close to the feet and stay there without being hit with the fire attacks. So, stick close during the fist slam (without the fire) and dodge this. But when it rears up, jump back into the alcove to protect yourself from any fire attacks. 
-
-Gray-Bronze Cart
 
 ![Woods Ember Walkthrough \(96\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Woods_Ember_Walkthrough_%2896%29.png)
 
@@ -332,8 +315,6 @@ When Quick as Fire is down, the intensity of Fast as Wind's attacks will increas
 
 Be ready to follow him and hit him as soon as this happens. Even when he pulls his tusks out from the ground, he'll be temporarily stunned, giving you enough time to attack. He will continue to chase you, blowing wind on you, but will also start to spit gusts of wind out. These will turn into small tornados but they're extremely short-lived, so as long as you can dodge the initial gust, you should be able to quickly get out of the way of the tornado. 
 
-Quick as Fire, Fast as Wind
-
 ## Ashen Pass II
 
 After defeating them, the fox gaui will transform into Pingping the Bull King's daughter, and thank you for saving her. Once the cutscene is over, you'll receive your rewards for defeating Quick as Fire, Fast as Wind and the next Keeper's Shrine will be available to you, if you follow the path to the left and up the stairs. 
@@ -341,8 +322,6 @@ After defeating them, the fox gaui will transform into Pingping the Bull King's 
 ![Woods Ember Walkthrough \(102\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Woods_Ember_Walkthrough_%28102%29.png)
 
 Once you've activated the shrine, look opposite it to find a small area where a chest sits. Open this to collect a **Celestial Jade Lotus Pill**. 
-
-Flaming Mountains Celestial Jade Lotus Pill
 
 ![Woods Ember Walkthrough \(105\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/fb/Woods_Ember_Walkthrough_%28105%29.png)
 
@@ -353,5 +332,3 @@ Return to the path and go right to follow the fox guai through a tunnel in the m
 The fox will go right, but take a left first to collect a green Wisp up the slope. Then head in the direction that the fox went, to get to the edge of the cliff. She'll transform back into a human, and the next thing for you to do is to jump from the cliff and down into Furnace Valley. 
 
 ![Woods Ember Walkthrough \(104\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Woods_Ember_Walkthrough_%28104%29.png)
-
-Woods of Ember Complete

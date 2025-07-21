@@ -28,8 +28,6 @@ You need to defeat this boss before you defeat the optional boss in the Chapter 
 
 This technically counts as one of the Blood of the Iron Bull's you get from the blue glowing enemies, as you get the Wandering Wight Spirit here. But, it is worth mentioning on its own. 
 
-Blood of the Iron Bull (Wandering Wight)
-
 ![Wandering Wight .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6a/Wandering_Wight_.jpg)
 
 ### Blood of the Iron Bull Location 3

@@ -53,4 +53,3 @@ The good news is Kalpa-Wave is extremely susceptible to getting knocked down. So
 ![Wukong Longevity 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b5/Wukong_Longevity_27.jpg)
 
 Beyond this, Kalpa-Wave doesn't have too many other variations on his moves, so as long as you avoid those blood pools, you'll be able to cut him down to size, and gain the Spirit of Captain Kalpa-Wave to add to your collection. 
-

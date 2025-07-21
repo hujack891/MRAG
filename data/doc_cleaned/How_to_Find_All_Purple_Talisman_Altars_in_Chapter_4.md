@@ -12,13 +12,13 @@ There are 4 Purple Talismans to find. You can pick up 3 of them throughout the W
 
 Do this **before** you complete the Chapter and beat the final boss. Otherwise, you might be locked out from fighting the hidden boss. 
 
-Talisman | Nearest Keeper's Shrine   
+ Talisman                                                     | Nearest Keeper's Shrine        
 ---|---  
-**Talisman 1**| **Middle Hollow**  
-**Talisman 2**| **Cliff of Oblivion**  
-**Talisman 3**| **Relief of the Fallen Loong**  
-**Talisman 4**| **Court of Illumination**  
-  
+ **Talisman 1** | **Middle Hollow**              
+ **Talisman 2** | **Cliff of Oblivion**          
+ **Talisman 3** | **Relief of the Fallen Loong** 
+ **Talisman 4** | **Court of Illumination**      
+
 ###  Purple Talisman 1 - Middle Hollow
 
 ![Purple Talismans Chapter 4 \(6\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f8/Purple_Talismans_Chapter_4_%286%29.png)

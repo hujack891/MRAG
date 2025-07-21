@@ -3,7 +3,7 @@
 Plantain Fan is one of the Vessels you can find in Black Myth: Wukong. Vessels give you unique, powerful abilities that can significantly affect your gameplay and how you play. 
 
 Upon equipping the Plantain Fan your stamina recovery rate will moderately increase. When you activate it, you can conjure up a huge tornado that can track and immobilize enemies, dealing immense damage in the later chapters of the game, when this Vessel becomes available.   
-  
+
 Vessels are strong, allowing you to tackle tough challenges. Additionally, they can save you in a tight spot thanks to their immense power. As such, they can't be upgraded. There are only a few of them in the game, however. Finding Black Myth: Wukong's secrets and killing some of the Black Myth: Wukong secret bosses will lead you to them. 
 
 ## Black Myth: Wukong Plantain Fan Location

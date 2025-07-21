@@ -3,8 +3,8 @@
 The **Snake Herbalist** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Snake Herbalist offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Snake Herbalist, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Snake Herbalist Location
-  * Snake Herbalist Fight
-  * Snake Herbalist Spirit
+* Snake Herbalist Fight
+* Snake Herbalist Spirit
 
 ![Snake Herbalist pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/8a/Snake_Herbalist_pic.jpg)
 
@@ -32,10 +32,4 @@ The Snake Herbalist has a basket full of poison on its back as well, so keep an 
 The Snake Herbalist's Spirit allows you to take the form of the Snake and launch a volley of poison from the basket on its back. This poison pools on the ground and inflicts enemies with Poison Bane if they step into it. Thankfully, these pools don't damage you, so you don't have to worry about watching your step after launching the attack. 
 
 The equipped effect replenishes Health when you take any sort of Medicine, which can be handy in the Webbed Hollow and other places where you are likely to get status afflictions. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

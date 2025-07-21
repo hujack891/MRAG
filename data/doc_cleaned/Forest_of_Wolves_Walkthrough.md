@@ -3,12 +3,12 @@
 Black Myth: Wukong's Chapter 1 begins with a prologue that takes place during a pivotal scene in the story of the Monkey King, Sun Wukong. Below you'll find a guide to the tutorial, and for the first major area of Black Wind Mountain: The Forest of Wolves, as well as how to defeat its many bosses that include the Bullguard, Gaugnzhi and Yaoguai King Lingxuzi. 
 
   * **Jump to A Section:**
-  * **Front Hills**
-    * Yaoguai Chief - Bullguard
-  * **Outside the Forest**
-    * Yaoguai Chief - Guangzhi
-  * **Guanyin Temple**
-    * Yaoguai King - Lingxuzi
+* **Front Hills**
+  - Yaoguai Chief - Bullguard
+* **Outside the Forest**
+  - Yaoguai Chief - Guangzhi
+* **Guanyin Temple**
+  - Yaoguai King - Lingxuzi
 
 # Prologue
 
@@ -122,7 +122,7 @@ Going left should lead you to another Wolf Swordsworn behind a rock sculpture, a
 
 Further down by the stream, you can spy a curious sight - a small Rat Guai will be looking around a small stone statue head at the end of the stream, before scurrying out of sight. If you go to check out what he was interacting with, you can touch the stone head to gain the **Skandha of Form** Key Item. Its purpose isn’t known just yet, but might be worth hanging onto… 
 
-Head upstream to find another Purple**Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant. 
+Head upstream to find another Purple **Lingzhi** by a broken tree, and two Wolf Scouts off to the right of the stream guarding a **Gentian** plant. 
 
 ![Wukong Wolves 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/04/Wukong_Wolves_14.jpg)
 
@@ -164,8 +164,6 @@ Don’t get too reckless, as the Immobilize Spell has a moderate cooldown, and u
 
 When the beast finally falls, you’ll likely get a ton of experience, which you can invest in more skill trees that include a new one for your spells like Immobilize. The path forward is now clear to tread, but it’s still a little ways to the next Shrine. If you’re low on health, you can always head back to the Shrine and rest, as enemies like the Bullguard won’t respawn. 
 
-Bullguard
-
 ![Wukong Wolves 21.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/10/Wukong_Wolves_21.jpg)
 
 Past the wooden gate the Bullguard was blocking, you’ll find another forested area with a sloping path up to the left. If you want to explore a bit first, head to the right to find a Wolf and some **Purple Lingzhi** , and a small pool of water where two Croaky enemies wait alongside some **Jade Lotus**. 
@@ -176,8 +174,6 @@ Taking the path up to the left, be ready to deal with a few more Wolf Scouts and
 
 Past another Wolf, you’ll come upon the top of the path where a large wooden balcony overlooks the temple below. There’s a small orange pillow you can interact with to activate a **Meditation Spot**. Each chapter has a few of these, and resting at one will grant you a **free Spark Skill Point**
 
-The Arbor, Forest of Wolves Meditation Spot
-
 ![Wukong Wolves 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f3/Wukong_Wolves_23.jpg)
 
 Be sure to also look around near the wooden balcony for pots to smash for free Will, and a **Gentian** plant to gather. 
@@ -187,11 +183,13 @@ Be sure to also look around near the wooden balcony for pots to smash for free W
 Opposite the balcony, you can spot some torches marking a tunnel passage into the rocks. Delve inside to find a familiar golden trail leading to the next Shrine. Now that you’ve grown, so to has the Shrine’s options, as you’ll be able to set Spells to your quickbar, reset your Skill Tree if you wish to experiment, and start buying and selling things at the store: 
 
 Black Wind Mountain Shrine Store   
-Evil Repelling Medicament (x3) - 270 Will | Body-Cooling Powder (x6) - 180 Will | Antimiasma Powder (x6) - 180 Will |   
-Yarn (x4) - 300 Will | Stone Spirit (x4) - 450 Will | |   
-Aged Ginseng (x5) - 90 Will | Purple Lingzhi (x5) - 90 Will | Gentian (x5) - 90 Will | Jade Lotus (x5) - 90 Will   
-Snake-Head Mushroom (x5) - 120 Will | | |   
-  
+| Black Wind Mountain Shrine Store          | Black Wind Mountain Shrine Store    | Black Wind Mountain Shrine Store  | Black Wind Mountain Shrine Store |
+| ----------------------------------------- | ----------------------------------- | --------------------------------- | -------------------------------- |
+| Evil Repelling Medicament (x3) - 270 Will | Body-Cooling Powder (x6) - 180 Will | Antimiasma Powder (x6) - 180 Will |                                  |
+| Yarn (x4) - 300 Will                      | Stone Spirit (x4) - 450 Will        |                                   |                                  |
+| Aged Ginseng (x5) - 90 Will               | Purple Lingzhi (x5) - 90 Will       | Gentian (x5) - 90 Will            | Jade Lotus (x5) - 90 Will        |
+| Snake-Head Mushroom (x5) - 120 Will       |                                     |                                   |                                  |
+
 Since you can’t craft medicine yet, you probably don’t need to be buying ingredients, but the medicines offered here are fairly rare to find in this chapter, so it won’t hurt to buy a few of each, and then sell any Pieces of Gold you’ve found. 
 
 ## Outside the Forest
@@ -268,8 +266,6 @@ Another quick moving attack has a lengthy start up, as he’ll keep somersaultin
 
 Remember to apply your Immobilize spell when it serves you best — interrupting his charged up attacks or after a combo when he’s not up in the air so you can lay into him, and use it whenever the spell recharges. With enough damage dealt, the boss will fall, leaving his weapon embedded in the ground nearby. 
 
-Guangzhi
-
 ![Wukong Wolves 41.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b0/Wukong_Wolves_41.jpg)
 
 Pick up the fiery blade, and you’ll learn a Transformation Spell: **Red Tides**. Now you’ll be able to transform into the very boss you defeated, and use his own abilities in combat against your enemies. 
@@ -343,8 +339,6 @@ Remember you can also employ the Immobilize spell to keep him penned in if he st
 
 With his slow attacks, he’ll be easier to read than Guangzhi, making this battle one of patience and getting your hits in where you can before falling back to wait for the next attack you can dodge and punish. Once the mighty Lingxuzi falls, you’ll earn the **Grey Wolf Mask** and a **Mind Core** — a unique upgrade material. 
 
-Lingxuzi
-
 ![Wukong Wolves 55.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/50/Wukong_Wolves_55.jpg)
 
 The Keeper will encourage you to look around now that he’s been defeated, and aside from more mushrooms and jade lotus to harvest in one corner, you can check the far right corner from the entrance to the arena to find a large chest that houses 2 **Tiny Piece of Gold** , and 3 **Yarn**. 
@@ -353,8 +347,4 @@ The Keeper will encourage you to look around now that he’s been defeated, and 
 
 The biggest reward waits up the stairs in the main building. Look to the left for a small gold pot placed before an altar with a large statue, and open it to find a **Celestial Jade Lotus Pill**. This is a collectible upgrade that will greatly increase your Maximum Health much more than investing a skill point! 
 
-Black Wind Mountain Celestial Jade Lotus Pill
-
 When you’re ready to move on, exit through the back of the building to find a new Shrine at the start of Chapter 1’s next region: **The Bamboo Grove**. 
-
-Forest of Wolves Complete

@@ -119,5 +119,3 @@ After defeating the boss, climb the arm that touches the ground and you'll meet 
 ![Five Skandhas .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_.png)
 
 With all five in your inventory, go to Xu Dog and deliver the Skandhas. You'll then have the option to tell Xu Dog to make the Five Skandhas Pill. Receiving this will boost your health, mana, and stamina. 
-
-The Five Skandhas

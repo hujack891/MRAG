@@ -3,24 +3,24 @@
 Chapter 6 of Black Myth: Wukong begins in the Foothills of Mount Huago with Zhu Bajie and the Destined One starting their ascent up the mountain after acquiring five of the Great Sage's relics. Below, you'll find a Walkthrough of the first major area of Mount Huaguo as well as information on the bosses you'll encounter along the way and items of interest. 
 
   * **Jump to a Section:**
-  * **Verdant Path**
-    * Yaoguai Chief - Supreme Inspector
-    * Yaoguai Chief - Jiao-Loong of Waves
-    * Yaoguai Chief - Poison Chief 1
-    * Yaoguai Chief - Feng-Tail General
-  * **Rhino Watch Slope**
-    * Yaoguai Chief - Poison Chief 2
-    * Yaoguai Chief - Gold Armored Rhino
-    * Yaoguai Chief - Lang-Baw-Baw
-    * Yaoguai Chief - Poison Chief 3
-  * **Deer Sight Forest**
-    * Yaoguai Chief - Cloudtreading Deer
-    * Yaoguai Chief - Poison Chief 4
-    * Yaoguai Chief - Water-Wood Beast
-  * **Mantis-Catching Swamp**
-    * Yaoguai Chief - Emerald-Armed Mantis
-    * Yaoguai Chief - Son of Stones
-    * Yaoguai King - Giant Shigandang
+* **Verdant Path**
+  - Yaoguai Chief - Supreme Inspector
+  - Yaoguai Chief - Jiao-Loong of Waves
+  - Yaoguai Chief - Poison Chief 1
+  - Yaoguai Chief - Feng-Tail General
+* **Rhino Watch Slope**
+  - Yaoguai Chief - Poison Chief 2
+  - Yaoguai Chief - Gold Armored Rhino
+  - Yaoguai Chief - Lang-Baw-Baw
+  - Yaoguai Chief - Poison Chief 3
+* **Deer Sight Forest**
+  - Yaoguai Chief - Cloudtreading Deer
+  - Yaoguai Chief - Poison Chief 4
+  - Yaoguai Chief - Water-Wood Beast
+* ** **Mantis-Catching Swamp
+  - Yaoguai Chief - Emerald-Armed Mantis
+  - Yaoguai Chief - Son of Stones
+  - Yaoguai King - Giant Shigandang
 
 The beginning of Chapter 6 is a linear path, so proceed down the slope from where you spawn. As you make your way along this road, you'll be intercepted by the last of the Lesser Yoaguais you need to complete your journal. 
 
@@ -33,9 +33,11 @@ As you get closer to the first Keeper's Shrine of the area, you'll see a large g
 Be sure to check the Shrine Shop while you're here, and revisit the Zodiac Village to see what new items everyone has to offer. 
 
 Mount Huaguo Shrine Shop   
-Body-Cooling Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will |   
-Mind Core (x6) - 3000 Will | Find Gold Thread (x2) - 3000 Will | Celestial Ribbon (x1) - 9000 Will | Gold Tree Core (x1) - 4500 Wil   
-  
+| Mount Huaguo Shrine Shop            | Mount Huaguo Shrine Shop              | Mount Huaguo Shrine Shop            | Mount Huaguo Shrine Shop       |
+| ----------------------------------- | ------------------------------------- | ----------------------------------- | ------------------------------ |
+| Body-Cooling Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will |                                |
+| Mind Core (x6) - 3000 Will          | Find Gold Thread (x2) - 3000 Will     | Celestial Ribbon (x1) - 9000 Will   | Gold Tree Core (x1) - 4500 Wil |
+
 ## Verdant Path
 
 ![Foothills Walkthrough \(8\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/44/Foothills_Walkthrough_%288%29.png)
@@ -85,8 +87,6 @@ He'll either launch himself at you and then spin the unicycle around until he fl
 ![Foothills Walkthrough \(23\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Foothills_Walkthrough_%2823%29.png)
 
 When his health is down to the last third, he will cover the arena with a red haze, reducing the size of the arena that you'll fight the creature in. He will also begin to use two swords instead of one. This is when you want to throw out the Plantain Fan. It will clear the red haze immediately and continuously stun him, giving you more time to whittle down his health. 
-
-Supreme Celestial Inspector
 
 After defeating the Supreme Inspector, he'll pick you up and fly off with you. This will lead to The Destined One learning to use Wukong's Somersault Cloud. To activate it, **press Down on the D-Pad or G if using a keyboard**. 
 
@@ -138,8 +138,6 @@ It will dive in and out a few times, then its huge tail will appear from the wat
 
 Thankfully, with a limited range of attacks and a fairly straightforward way to avoid them, Jiao-Loong of Waves shouldn't require too much to take it down. Don't feel the need to conserve your spells during this fight; take advantage of them to quickly take down this miniboss. 
 
-Jiao-Loong of Waves
-
 ![Foothills Walkthrough \(129\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5a/Foothills_Walkthrough_%28129%29.png)
 
 With your first optional miniboss defeated, it's time to work on clearing out the rest of the Foothills. From the area where you fought Jiao-Loong of Waves, ascend and look to the left. You should be able to see another body of water here, on a higher part of the cliff. 
@@ -168,8 +166,6 @@ Its charges can be avoided, by dashing out of the way just before it reaches you
 
 The biggest issue is the poison attacks, and it's essential to interrupt them as often as you can. The Plantain Fan can prove invaluable here once again, especially if you deploy it just before a poison attack. It will push the Poison Chief back and allow you to follow up with attacks. Use Immobilize when the Plantain Fan has stopped working, to keep it in place and deplete its health as quickly as possible. 
 
-Poison Chief 1
-
 ![Foothills Walkthrough .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d3/Foothills_Walkthrough_.png)
 
 When the Poison Chief is down, fly up and continue left toward the water. Go almost to the end of the water, where you should see a giant creature. When you get close to it, it will leap in the air and jump to a nearby rock. Fly over to it, then land on its head. 
@@ -190,8 +186,6 @@ The second test will be on your health bar, and particularly test your fire resi
 
 If you're able to hang on without dying, you'll snap the antennae from the insect and receive the Golden Feng-Tail Crown. 
 
-Feng-Tail General
-
 ![Foothills Walkthrough \(29\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Foothills_Walkthrough_%2829%29.png)
 
 Now drop down from the Feng-Tail General and activate the nearby Keeper's Shrine. You'll see a field straight in front of you that's strewn with soldiers and fire. Before you head here, let's go find the second optional Poison Chief miniboss that's nearby. 
@@ -209,8 +203,6 @@ In the midst of the trees, there's a small patch of ground with no grass. The Po
 ### Yaoguai Chief - Poison Chief 2
 
 Thankfully, each of the Poison Chief fights is pretty much the same. You can expect the same moveset and should prepare for them in the same way. 
-
-Poison Chief 2
 
 When the second Poison Chief is down, return to the Rhino Watch Slope and then head into the area with the flames on the ground. A cutscene will play out as you get there, and the Gold Armored Rhino will appear. 
 
@@ -247,8 +239,6 @@ Beyond this, expect attacks where it will charge at you. There are rocks you can
 Lastly, you can expect a few projectile attacks from the Rhino as well. When it puts its horn down to the ground and drags along it, it will flick rocks up at you. Usually, these are five rocks at a time and you can move out of the way of them easily if you're not too close to the Rhino. 
 
 The fight is very much a rinse-and-repeat situation, where you'll just want to try and hit the horn as much as you can to try and break it. 
-
-Gold Armored Rhino
 
 After defeating the Golden-Armored Rhino you'll gain the Gold Suozi Armor, which is the second part of Wukong's Set. 
 
@@ -290,8 +280,6 @@ The key is to get him out of this state as soon as possible because it can be an
 
 If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red. 
 
-Lang-Baw-Baw
-
 ![Foothills Walkthrough \(138\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b3/Foothills_Walkthrough_%28138%29.png)
 
 When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of the water. You'll see red trees in the distance, but it's the area on the right you'll want to go to first. 
@@ -299,8 +287,6 @@ When you've beaten Lang-Baw-Baw, fly up again and look to the opposite side of t
 ### Yaoguai Chief - Poison Chief 3
 
 As you get close to the edge of the cliff, you'll find another clearing with a rock in the middle. This is the third Poison Chief in the region. 
-
-Poison Chief 3
 
 When you've beaten the third Poison Chief, head over to the start of the red trees. As you enter the clearing with the lightning, you'll find the next Keeper's Shrine on the left. 
 
@@ -344,8 +330,6 @@ In this phase, you'll need to avoid the pools of blood. There are also some proj
 
 This part of the fight is more about managing how long you can stand in the blood for, and jumping back out when you're about to be completely poisoned. Try to bait the deer to run out of the patches of blood, and into the ice where you can attack it freely. You can also use the Wind Vessel in this phase to down the deer temporarily. 
 
-Cloudtreading Deer
-
 Once the Cloudtreading Deer is down, you'll receive the Lotus Silk Cloudtreaders, and it's time to continue the sweep of the mountain. 
 
 ![Foothills Walkthrough \(140\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e2/Foothills_Walkthrough_%28140%29.png)
@@ -355,8 +339,6 @@ Head back to the Keeper's Shrine once you've defeated the deer. Fly up high agai
 ### Yaoguai Chief - Poison Chief 4
 
 You know the drill with the Poison Chiefs at this stage, where heavy attacks, Immobilize, and the Plantain Fan can all help to make short work of it. Once you're done with the final one, hop back onto the Somersault Cloud. 
-
-Poison Chief 4
 
 Fly up and face toward the water. You'll be heading right along the river, to reach the next main boss. But before you go there, there's another optional boss to take care of. 
 
@@ -387,8 +369,6 @@ You can then detransform and follow up with your own strong attacks and it will 
 ![Foothills Walkthrough \(70\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Foothills_Walkthrough_%2870%29.png)
 
 As its health starts to get low, it will dive into the water and behave similarly to Jiao-Loong of Waves, where it will try to dive up and catch you by surprise. You'll see it emerge and peek up before it disappears again and the ground begins to rumble. You'll be able to see ripples in the water, that show you the exact path the beast is taking to reach you. 
-
-Water-Wood Beast
 
 ![Foothills Walkthrough \(143\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Foothills_Walkthrough_%28143%29.png)
 
@@ -436,8 +416,6 @@ Transformations are also useful here, and we found that Red Tides proved handy o
 
 When the mantis is dead, you'll receive Dian-Cui Loong-Soaring Bracers. With all the main bosses finished, for now, it's time to follow Zhu Bajie up the mountain. On the way though, there are just two more optional bosses to capture to wrap up this portion of the Chapter. 
 
-Emerald-Armed Mantis
-
 ![Foothills Walkthrough \(142\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Foothills_Walkthrough_%28142%29.png)
 
 From the Mantis-Catching Swamp, fly up and back toward the area where you fought the Gold Armored Rhino and Cloudtreading Deer. We now want to stop on the left, to get the Son of Stones, which is the boss sitting at the edge of the cliff on the left with the neon blue glow. 
@@ -461,8 +439,6 @@ When the lighting attacks begin, get as far away from them as possible. He will 
 ![Foothills Walkthrough \(71\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Foothills_Walkthrough_%2871%29.png)
 
 When he gets back up, use the Plantain Fan to stagger him and remove the lightning attacks and then folow up. 
-
-Son of Stones
 
 ![Foothills Walkthrough \(73\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6c/Foothills_Walkthrough_%2873%29.png)
 
@@ -496,8 +472,6 @@ The other attack that the Shigandang does is to punch both fists down and send o
 
 After defeating the boss, climb the arm that touches the ground and you'll meet the monkey again. Let the cutscene play and you'll get the Skandha of Consciousness. 
 
-Giant Shigandang
-
 ## How to Use the Five Skandhas
 
 ![Five Skandhas .png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2e/Five_Skandhas_.png)
@@ -511,5 +485,3 @@ Now it's time to head back to almost where you fought the Son of Stones. We ment
 ![Foothills Walkthrough \(145\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/2b/Foothills_Walkthrough_%28145%29.png)
 
 You'll see a waterfall in the distance and an archway just before it. Go down to this archway and head inside, where you'll automatically dismount from the cloud. This will take you into Water Curtain Cave, which is the final area of the game. 
-
-Foothills Complete

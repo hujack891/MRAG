@@ -19,10 +19,3 @@ Yarn can be obtained right from the start of the game in Black Wind Mountain. Un
 
 Thankfully, the material is so common you can farm it anywhere by resting at Shrines and respawning the enemies in the area. But, Black Wind Mountain and Yellow Wind Ridge are where you will find it most. 
 
-For even more resources and guides, check out some of our other breakdown pages for materials to upgrade your gear and stats: 
-
-  * Blood of the Iron Bull
-  * Mind Core
-  * Luojia Fragrant Vine Locations
-  * Awaken Wine Worm Locations
-

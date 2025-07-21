@@ -2,7 +2,7 @@
 
 Black Myth Wukong still has a bit of optimization to be done by the team at Game Science, but by pushing and pulling a few levers you can get the most out of this game as it stands today. There are some simple tweaks you can make to get the most out of the performance of this game on PC and PlayStation 5, and we’ve gone over each. This will net a 59% performance boost on PC and a bit smoother experience on PS5 so you’ll want to give these settings a shot. 
 
-Starting on PC, there are a ton of options you can dive into to get the most out of the visuals and frames from Black Myth Wukong. If you have a mid-tier or lower GPU you can get the easiest performance boosts by simply turning **ray tracing off.** You will need to restart the game completely when turning ray tracing on or off for it to take effect.**If you still are having issues, look into turning down Shadow Quality, Visual Effects, and Hair** as your first stop as these will net you the highest performance boost when turned down. More on those in a moment. 
+Starting on PC, there are a ton of options you can dive into to get the most out of the visuals and frames from Black Myth Wukong. If you have a mid-tier or lower GPU you can get the easiest performance boosts by simply turning **ray tracing off.** You will need to restart the game completely when turning ray tracing on or off for it to take effect. **If you still are having issues, look into turning down Shadow Quality, Visual Effects, and Hair** as your first stop as these will net you the highest performance boost when turned down. More on those in a moment. 
 
 For now let’s go through each setting and talk a bit about what kind of impact you’ll see from each. And before we go into settings, if you’d like to turn off Motion Blur, like I do it’s under the display settings. You’ll also find Camera Shake here if you’d like it turned down a bit. 
 
@@ -56,17 +56,3 @@ Overall our settings are just slightly different than those our friends at Digit
 
 And that leaves the **PlayStation 5.** Performance mode is the setting I’d normally recommend simply due to the fact that it has the most stable framerate, but because the game uses Frame Generation, I have to recommend **Balanced mode. Balanced mode** gives you a lower input latency, and because this game requires a faster response time that is the mode I'd recommend starting with. 
 
-###   
-For Fans: Shop Black Myth: Wukong Gaming Accessories
-
-![Wireless Controller](https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg)
-
-### Black Myth: Wukong Wireless Controller
-
-0
-
-This well-reviewed 8Bitdo Ultimate 2C Wireless Controller for PC and Android is compatible with Windows 10 and above and Android 9.0 and above. It has 1000Hz polling rate, remappable L4/R4 bumpers and more special features.
-
-$34.99 at Amazon
-
-_If you buy through our links, IGN may earn an affiliate commission._ _Learn more_ _._

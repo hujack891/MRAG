@@ -12,6 +12,4 @@ The Golden Carp Curios item can be found in The Webbed Hollow upon defeating Yel
 
 ![Wukong YellowLoong 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e7/Wukong_YellowLoong_9.jpg)
 
-Goldflora Hairpin
-
 For even more guides and tips on finding all the items, be sure to check out our other guides. These include a breakdown of the Drinks locations, Soaks locations, where to find new Weapons, and all the Armor and Gear sets in the game. 

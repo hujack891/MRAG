@@ -3,13 +3,13 @@
 The Webbed Hollow is the second main area of Black Myth: Wukong's Chapter 4, continuing with the middle portion of the large underground cave system. Below you'll find a guide for the second middle area of The Webbed Hollow, including where to find an optional encounter against the Elder Amourworm, and how to get past the Centipede Guai and Right Hand of Buddha to reach the Lower Hollow. 
 
   * **Jump to a Section**
-  * **Verdure Bridge**
-    * Yaoguai Chief - Elder Amourworm
-  * **Middle Hollow**
-  * **Bonevault**
-    * Yaoguai Chief - Centipede Guai
-  * **Cliff of Oblivion**
-    * Yaoguai Chief - Buddha's Right Hand
+* ** **Verdure Bridge
+  - Yaoguai Chief - Elder Amourworm
+* **Middle Hollow**
+* **Bonevault**
+  - Yaoguai Chief - Centipede Guai
+* **Cliff of Oblivion**
+  - Yaoguai Chief - Buddha's Right Hand
 
 Due to the length, complexity, and number of bosses scattered throughout the Webbed Hollow section of Chapter 4, this particular region walkthrough will be split up into three parts with each section largely covering a major floor level of the hollow. 
 
@@ -83,8 +83,6 @@ When the Amourworm is defeated, you'll gain a **Proto-Amourworm Key Item**. It m
 You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow.   
 Once all three have been given, rest and return to find a Spirit has replaced the little worm, and you'll be able to absorb the **Elder Amourworm Spirit**!
 
-Elder Amourworm
-
 Exit back to where you saw the mysterious women, and look to the right to find a mural with a green Wisp in front of it, and a pathway leading left. Take the path, and you'll find it leads down below the bridge you crossed earlier and over to the group of houses the other path led to. 
 
 ## Middle Hollow
@@ -110,8 +108,6 @@ This particular foe is imbued with extra spirit power, so he'll be even tougher 
 ![Wukong MiddleHollow 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/56/Wukong_MiddleHollow_17.jpg)
 
 Dodge his multiple tail strikes and deflect his charging claw attacks to wait for opportunities to counter attack. Defeat him, and you'll gain the Scorpion Prince Spirit (as well as a **Deathstinger Soak**... in case you want to poison yourself on purpose), and can then harvest the **Luojia Fragrant Vine** on the large tree. 
-
-Middle Hollow Luojia Fragrant Vine
 
 From here, you'll again have two diverging paths - one leading up to the left of the large tree in the village area, and a lower path down to the right. Annoyingly, both paths will lead to the same spot where the next boss is, and both routes have a Shrine, plus items worth getting. 
 
@@ -154,8 +150,6 @@ Be wary of one of the mushrooms you can harvest here, as its actually a powerful
 ![Wukong MiddleHollow 26.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Wukong_MiddleHollow_26.jpg)
 
 As you drop down, be sure to look to the right for a **Meditation Spot** , and over to the left you'll find the Middle Hollow Shrine guarded by an archer and Puppet Spider. 
-
-The Tree, Middle of the Hollow Meditation Spot
 
 ![Wukong MiddleHollow 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/65/Wukong_MiddleHollow_33.jpg)
 
@@ -248,8 +242,6 @@ The best thing you can do is let them chase you by sprinting in the opposite dir
 Aside from that, there's not too many other moves the Centipede Guai is capable of, so focus on dodging its backward slam, and saving your deflections for when it tries to roll into you, and you'll have no problem finding plenty of time to get your big hits in. 
 
 When the Centipede Guai falls, you'll be able to gain its Centipede Guai Spirit along with a Knot of Voidness and Gold Tree Core. 
-
-Centipede Guai
 
 ## Cliff of Oblivion
 
@@ -352,8 +344,6 @@ Since it won't have too much health left, focus on avoiding its attacks and try 
 ![Wukong MiddleHollow 66.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Wukong_MiddleHollow_66.jpg)
 
 Once you have finally depleted its health, it will try to flee the tunnel and fly away, only to be shot down violently -- forming a bridge with its "hand". Your mysterious lady friend will return to urge you onward before she disappears. 
-
-Buddha's Right Hand
 
 You'll now be able to cross the corpse of the boss to proceed onward, and gain the **Past-Echo** Key Item and actual **Buddha's Right Hand** , which the Shen Monkey can eventually use to craft a new Gourd for you! 
 

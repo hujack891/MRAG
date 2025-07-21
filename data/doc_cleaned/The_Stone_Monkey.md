@@ -153,4 +153,3 @@ When the Stone Monkey's health bar has been depleted, he'll face off still again
 ![Water Curtain Cave Walkthrough \(35\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/cb/Water_Curtain_Cave_Walkthrough_%2835%29.png)
 
 As it staggers back and breaks down into stone, electricity will form around it and the Great Sage's Broken Shell will appear. Despite going straight into this fight from the Stone Monkey, all your Spells, Gourd uses, and health will be replenished. 
-

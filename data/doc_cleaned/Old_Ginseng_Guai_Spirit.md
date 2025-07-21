@@ -3,8 +3,8 @@
 **Old Ginseng Guai** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Old Ginseng Guai offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Old Ginseng Guai, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Old Ginseng Guai Location
-  * Old Ginseng Guai Fight
-  * Old Ginseng Guai Spirit
+* Old Ginseng Guai Fight
+* Old Ginseng Guai Spirit
 
 ![Old Ginseng Guai.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/00/Old_Ginseng_Guai.jpg)
 
@@ -26,10 +26,4 @@ The Old Ginseng Guai battles similarly to the regular Ginseng enemies you will h
   * Equipped Effect: Moderately increases the Maximum Health of summoned minions. 
 
 Old Ginseng Guai's Spirit Power allows you to take his form and summon a few Ginsenlings to fight alongside you. These Ginsenlings deal more damage to the enemy while also providing a welcome distraction to take some heat off you. The equipped effect makes the Ginsenlings even stronger. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

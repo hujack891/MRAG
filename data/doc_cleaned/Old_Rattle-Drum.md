@@ -16,8 +16,6 @@ To get to the bridge with the Tiger Acolyte, you simply need to head across the 
 
 Here is where you will find the Tiger's Acolyte and get the Old Rattle-Drum. 
 
-Old Rattle Drum
-
 ## Where To Use The Old Rattle-Drum in Black Myth: Wukong
 
 The Old-Rattle Drum can be used in the following spots: 

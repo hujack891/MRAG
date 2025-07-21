@@ -3,8 +3,8 @@
 **Gore-Eye Daoist** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Gore-Eye Daoist offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Gore-Eye Daoist, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Gore-Eye Daoist Location
-  * Gore-Eye Daoist Fight
-  * Gore-Eye Daoist Spirit
+* Gore-Eye Daoist Fight
+* Gore-Eye Daoist Spirit
 
 ![Gore eye daoist.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Gore_eye_daoist.png)
 
@@ -37,10 +37,4 @@ The Gore-Eye Daoist can also shoot solidified shards of blood at you from its ma
   * Equipped Effect: Moderately increases Maximum Mana. 
 
 If you don't mind becoming the nightmare-fuel that is the Gore-Eye Daoist, you can embody him for a moment to erect the poison blood staff on the battlefield. As the staff activates, it begins to emit a red glow. Staying inside the glow will empower your attack for as long as it remains there. This ability is akin to the Ring of Fire spell but designed to enhance attack rather than healing. Having the Gore-Eye Daoist equipped also boosts your maximum Mana, allowing you to cast more spells. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

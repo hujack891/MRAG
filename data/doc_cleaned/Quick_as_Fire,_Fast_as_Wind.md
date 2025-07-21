@@ -35,4 +35,3 @@ When Quick as Fire is down, the intensity of Fast as Wind's attacks will increas
 ![Woods Ember Walkthrough \(111\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5f/Woods_Ember_Walkthrough_%28111%29.png)
 
 Be ready to follow him and hit him as soon as this happens. Even when he pulls his tusks out from the ground, he'll be temporarily stunned, giving you enough time to attack. He will continue to chase you, blowing wind on you, but will also start to spit gusts of wind out. These will turn into small tornados but they're extremely short-lived, so as long as you can dodge the initial gust, you should be able to quickly get out of the way of the tornado. 
-

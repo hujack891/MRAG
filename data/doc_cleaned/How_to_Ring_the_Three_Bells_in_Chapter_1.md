@@ -3,9 +3,9 @@
 Black Myth: Wukong has plenty of secrets to uncover throughout the game, starting from the very first chapter. In Chapter 1, you’ll be asked if you’ve seen the three bells, but if you haven’t rung them yet and you’re stuck on how to find them all, here’s our guide on how to find and ring the three bells. 
 
   * How to Find the First Bell
-  * How to Find the Second Bell
-  * How to Find the Third Bell
-  * What Happens When You Ring the Three Bells?
+* How to Find the Second Bell
+* How to Find the Third Bell
+* What Happens When You Ring the Three Bells?
 
 ## How to Find the Three Bells
 
@@ -60,5 +60,3 @@ Instead, go to the left and through the small cave to find the final bell. It'll
 ## What Happens When You Ring the Three Bells?
 
 Once you’ve rung them all, you’ll be transported to the Secret: Ancient Guanyin Temple, where you can fight Elder Jinchi. 
-
-Enduring Echoes

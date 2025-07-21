@@ -32,10 +32,11 @@ Activate the shrine in the entrance plaza, and then be sure to look around this 
 
 You will also find that unlike the rest of Chapter 1, the Keeper's Shrine here sells a unique selection in the shop only purchasable at this Secret Area, and it's worth stocking up on the items since they're pretty rare for this point in the game: 
 
-Ancient Guanyin Temple Shrine Shop   
-Evil Repelling Medicament (x2) | Longevity Decoction (x2)   
-Silk (x2) | Yaoguai Core (x2)   
-  
+| Ancient Guanyin Temple Shrine Shop | Ancient Guanyin Temple Shrine Shop |
+| ---------------------------------- | ---------------------------------- |
+| Evil Repelling Medicament (x2)     | Longevity Decoction (x2)           |
+| Silk (x2)                          | Yaoguai Core (x2)                  |
+
 Note - Before facing this boss, be sure to defeat the optional **Wandering Wight** that is found in the Forest of Wolves region of Black Wind Mountain if you haven’t faced him already. Not only does he share many attacks with this secret boss, but defeating this one will cause the Wandering Wight to disappear, and you will not be able to gain the Curio and Spirit that the Wight drops.
 
 ## Yaoguai King Boss Battle - Elder Jinchi
@@ -88,10 +89,6 @@ So long as you deny him opportunities to restore his health, and watch out for w
 
 Once Elder Jinchi is defeated, you’ll automatically be returned back to the third bell in the Marsh of the White Mist. You can now interact with the Wolf Guai hanging from the tree, causing it to turn to dust, and rewarding you with the Fireproof Mantle Vessel, and 2,000 Will. 
 
-Elder Jinchi
-
 ![Wukong Guanyin 14.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/Wukong_Guanyin_14.jpg)
 
 Vessels are extremely rare and special items that not only provide a passive bonus, but can be activated when you’ve built up Ki from attacking enemies. Most Vessels are gained from completing a Secret Area’s boss fight, and will give you a huge situational advantage on the boss of that same chapter. The Fireproof Mantle allows you to negate fire damage attacks, which is what the final boss of this chapter will try to use against you! 
-
-Ancient Guanyin Temple Complete

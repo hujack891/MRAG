@@ -71,4 +71,3 @@ Expect his swings to hit harder and move faster, often hitting twice in a row in
 Another terrifying new move is for him to do a slow spin ending with a weapon toss right at you. He’ll quickly follow up with a leaping dive attack to reach his mace, and then pull it out of the ground and swing it forth, which should quell any thoughts of trying to attack at this point. 
 
 Ideally, the lower you have his health before killing his father, the less time you’ll have to worry about this phase if you can rush him down. If you don’t kill his dad, he’ll scurry off as soon as the Second Prince falls. If not, you’ll be able to help yourself to the Second Prince’s Spirit, as well as a Pungent Flesh Chunk. 
-

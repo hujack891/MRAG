@@ -31,5 +31,3 @@ You'll then find it uses a leaping attack, where it swipes at you twice and then
 Changes in its attack pattern will begin around the halfway mark, and it will lean up toward the top of the cave and spit fireballs all around it. Hang back as far as you can when this happens to avoid them. 
 
 It will then start to breathe fire from its mouth as a jet, in which case, you'll want to get behind it and attack. Lastly, you'll see a change in its leap attacks. Wherever it jumps, it will send out small waves of fire in a circle around it. As you see it leaping, dodge and create distance between the two of you to avoid the circle of flames. 
-
-Baw-Lang-Lang

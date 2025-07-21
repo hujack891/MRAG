@@ -174,4 +174,3 @@ You'll need to play things very smart and cautious now, and don't be afraid to p
 If you've run out of juice from your gourd, consider consuming medicine to increase your max health, or swap to a Transformation Spell to survive attacks you may not otherwise live through. 
 
 With enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake. 
-

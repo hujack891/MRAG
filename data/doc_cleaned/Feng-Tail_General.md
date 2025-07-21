@@ -23,4 +23,3 @@ Firstly, it will test your stamina. When you approach it near the Mantis-Catchin
 The second test will be on your health bar, and particularly test your fire resistance. When the insect stops jumping, you'll be expected to interact with its flaming antennae. Before you do this, equip your Fireproof Mantle, and ensure you've maxed out your Bane Mitigation skill. Check to see if you have any other gear you can equip that helps with burn resistance, and see if you've missed any Celestial Jade Lotus Pill Locations. 
 
 If you're able to hang on without dying, you'll snap the antennae from the insect and receive the Golden Feng-Tail Crown. 
-

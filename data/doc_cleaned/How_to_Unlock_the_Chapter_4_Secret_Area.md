@@ -3,7 +3,7 @@
 The secrets continue into Chapter 4 of Black Myth: Wukong, with an entire hidden area called the Purple Cloud Mountain to discover. If you want to be able to access this, there are actions you'll need to take early on in the level, which involve defeating the Venom Doaist mini-boss. Want to know the right path to follow in the Webbed Hollow to get started? Here's how to do it. 
 
   * How to Find the Venom Daoist
-  * How to Find the Venom Daoist for the Second Time
+* How to Find the Venom Daoist for the Second Time
 
 ## How to Find the Venom Daoist
 
@@ -80,9 +80,4 @@ As you head into the middle, the Venom Daoist will appear again. In this fight, 
 ![Chapter 4 Secret Area \(17\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0a/Chapter_4_Secret_Area_%2817%29.png)
 
 Once you've beaten him, he'll reference Purple Cloud Moutain and you'll see a wall appear nearby. Interact with this to enter Purple Cloud Mountain. 
-
-Looking for a detailed walkthrough for this section of the game? See these guides: 
-
-  * Chapter 4 - Rosy Cheeks, Gray Hair
-  * Webbed Hollow - Upper Hollow Walkthrough
 

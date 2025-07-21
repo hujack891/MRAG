@@ -3,8 +3,8 @@
 Black Myth: Wukong's Chapter 4 begins in the darkened outskirts of the Village of Lanxi where the mysterious Webbed Hollow is rumored to be. Below you'll find a guide for the first major area of The Webbed Hollow: the Village of Lanxi, as well as how to navigate the town and defeat the Second Sister. 
 
   * **Jump to a Section**
-  * **Estate of the Zhu**
-    * Yaoguai Chief - The Second Sister
+* **Estate of the Zhu**
+  - Yaoguai Chief - The Second Sister
 
 ## The Webbed Hollow
 
@@ -90,7 +90,7 @@ Ahead will be a large field full of cobwebs strung from various trees. You can f
 
 Just outside the shack, there's a small garden area with yet more Stone Spiders, and a Mushroom you can try to harvest only to reveal a formidable Fungiman instead. 
 
-![Wukong Lanxi 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Lanxi_17.jpg)
+![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Lanxi_17.jpg)
 
 To the right, another Dragonfly Guai will try to pepper you with arrows from a high ledge, but you'll also want to check the far left corner past the archway for the Estate of the Zhu Shrine. 
 
@@ -99,12 +99,14 @@ When resting at this shrine, it's a good time to remind yourself that you can st
 Finally, with the start of a new chapter, the Shrines here hold new items to buy in the shop: 
 
 Webbed Hollow Shrine Shop   
-Antimiasma Powder (x6) - 180 Will | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will |   
-Mind Core (x4) - 2400 Will | Cold Iron Leaves (x4) - 900 Will | Fine Gold Thread (x2) - 3000 Will | Refined Iron Sand (x2) - 1200 Will   
-Gold Tree Core (x1) - 4500 Will | | |   
-Licorice (x5) - 120 Will | Fragrant Jade Flower (x5) - 120 Will | Gentian (x5) - 90 Will | Withered Silkworm (x3) - 240 Will   
-Snake-Head Mushroom (x10) - 120 Will | | |   
-  
+| Webbed Hollow Shrine Shop            | Webbed Hollow Shrine Shop             | Webbed Hollow Shrine Shop           |
+| ------------------------------------ | ------------------------------------- | ----------------------------------- |
+| Antimiasma Powder (x6) - 180 Will    | Shock-Quelling Powder (x6) - 180 Will | Tonifying Decoction (x3) - 360 Will |
+| Mind Core (x4) - 2400 Will           | Cold Iron Leaves (x4) - 900 Will      | Fine Gold Thread (x2) - 3000 Will   |
+| Gold Tree Core (x1) - 4500 Will      |                                       |                                     |
+| Licorice (x5) - 120 Will             | Fragrant Jade Flower (x5) - 120 Will  | Gentian (x5) - 90 Will              |
+| Snake-Head Mushroom (x10) - 120 Will |                                       |                                     |
+
 ![Wukong Lanxi 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/81/Wukong_Lanxi_20.jpg)
 
 Just up the stairs from the Shrine is a door, so once you've made all your purchases, upgraded gear, and given the Zodiac Village another visit, you can try knocking on the door. 
@@ -155,8 +157,6 @@ Her moves can get even more unpredictable when she's low on health, often pepper
 
 With Zhu Bajie backing you up (and you can always fall back to let him heal you), The Second Sister won't be able to stand against the two of you for long. After she's been defeated, she'll make a mad dash to flee, but not before flinging something at Zhu Bajie, who shrugs it off, and then runs ahead to chase her down. 
 
-The Second Sister
-
 Before you decide to give chase, let the little pig go and instead be sure to inspect the arena where you fought. 
 
 ![Wukong Lanxi 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/09/Wukong_Lanxi_30.jpg)
@@ -171,10 +171,6 @@ You can find some Fragrant Jade Flower to harvest in the corner of the arena, as
 
 There's a large pit in the middle of this courtyard, but before you follow Zhu Bajie down, check the large altar on the other side of the pit, and you'll be able to claim a **Celestial Jade Lotus Pill** to increase your maximum health! 
 
-The Webbed Hollow Celestial Jade Lotus Pill
-
 ![Wukong Lanxi 32.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f6/Wukong_Lanxi_32.jpg)
 
 When you're ready to move to the next area, jump into the pit, only to find yourself taking a one way trip down to the true **Webbed Hollow** of this realm. 
-
-Village of Lanxi Complete

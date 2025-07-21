@@ -14,9 +14,9 @@ Once defeated, the Macaque Chief will flee, only to appear later on in the Pagod
 
 After a second defeat, you'll face him one last time near the end of the chapter, in-between two bouts that you'll have with the end boss, Yellowbrow. 
 
-  * First Encounter
-  * Second Encounter
-  * Final Encounter
+* First Encounter
+* Second Encounter
+* Final Encounter
 
 ### Macaque Chief Mini-Boss Fight and Guide
 
@@ -60,15 +60,11 @@ Finally, if you spend to much time dishing out damage to his face, he'll eventua
 
 With his small frame, the Macaque Chief is fairly susceptible to being staggered with charged up heavy strikes. Build up your focus from light attack combos when dodging him, and then knock him down with big hits or after deflecting his moves. 
 
-Macaque Chief (Snowhill Path)
-
 ### Second Encounter - Warding Temple
 
 ![Wukong Pagoda 123.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_Pagoda_123.jpg)
 
 When you fight him a second time, he'll largely have the same moves, but as an added bonus for this fight, you can actually use the Ancient Master's circle of fire to your own advantage, as the Macaque Chief can't move through it. If you ever see him preparing for a big series of slashes or need to get away and heal simply move to the opposite side of the circle, and his attacks won't reach you. 
-
-Macaque Chief (Warding Temple)
 
 ### Final Encounter - Mahavira Hall
 
@@ -121,5 +117,3 @@ Another new move he can perform when jumping on his blade will be to launch hims
 ![Wukong Thunderclap 96.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e4/Wukong_Thunderclap_96.jpg)
 
 After you've defeated his clones and beaten the Macaque Chief one final time, you'll be able to leave the enchanted seed sack and continue your pursuit of Yellowbrow, but not in the way you might expect. 
-
-Macaque Chief (Mahavira Hall)

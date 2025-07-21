@@ -2,11 +2,13 @@
 
 ![WukongHeader.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/WukongHeader.jpg)
 
-**Released (Platforms)**  
-August 20, 2024 (PC, PS5)  
-TBA (Xbox Series S|X   
-**Developer**| **Publisher**  
-Game Science |  Game Science   
+| **Released (Platforms)**  |
+| ------------------------- |
+| August 20, 2024 (PC, PS5) |
+
+| **Developer** | **Publisher** |
+| ------------- | ------------- |
+| Game Science  | Game Science  |
 
 Welcome to IGN's Guide to Black Myth: Wukong, an Action RPG by developer Game Science set in the ancient realm of the classic Chinese tale, Journey to the West. As a Monkey Warrior destined to follow in the footsteps of the legendary Sun Wukong, you'll journey across ancient China and face off against countless fearsome Yaoguai creatures. 
 
@@ -74,7 +76,7 @@ Click the links below to find a specific Walkthrough Section by Chapter and Regi
 
 As you follow the main story, you'll also encounter a number of NPCs that have side quests to complete. Doing so will reward you with unique items, special Spirits, and even reveal hidden areas in chapters. 
 
-  *  **Side Questlines**
+  * **Side Questlines**
     * Shen Monkey Questline
     * Xu Dog Questline
     * Man-in-Stone Questline

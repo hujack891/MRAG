@@ -3,11 +3,11 @@
 Fright Cliff is one of two possible second main regions of Chapter 2 in the Yellow Wind Ridge of Black Myth: Wukong. Below you'll find a guide for the Fright Cliff Region and its side quests for the Man-in-Stone and Yellow-Robed Squire, as well as how to defeat its many bosses that include the Mother of Stones and Stone Vanguard to get the Sterness of Stone. 
 
   * **Jump to A Section:**
-  * **Squall Hideout**
-    * Yaoguai Chief - Mother of Stones
-  * **Rockrest Flat**
-    * Yaoguai King - Stone Vanguard
-  * **Rock Crash Platform**
+* **Squall Hideout**
+  - Yaoguai Chief - Mother of Stones
+* **Rockrest Flat**
+  - Yaoguai King - Stone Vanguard
+* **Rock Crash Platform**
 
 ![Wukong Sandgate 81.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Wukong_Sandgate_81.jpg)
 
@@ -157,8 +157,6 @@ There’s one last wave of two after this, for a total of six Palestones for the
 
 Once all six Palestones are down, there’s nothing left that the Mother of Stones can do, so keep smacking it until the boss breaks apart. You’ll be awarded the **Stone Essence** Key Item, as well as some Stone Spirits and Yaoguai Cores. 
 
-Mother of Stones
-
 Rest up, and then return to the Man-in-Stone. You may want to also clear out the Bladebones above him just so they don’t harass you as you try to turn in the Stone Essence. 
 
 ![Wukong Fright 34.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_Fright_34.jpg)
@@ -173,18 +171,18 @@ While he technically has a boss health bar and everything, he’s kind of a push
 
 Realizing the error of his ways, the Man-in-Stone will promptly burrow right back in the ground and plead for mercy. You’ll then be able to re-harvest the Stone Essence from him, which will turn into the **Azure Dust Transformation Spell**! Finally, the slow yet sturdy power of the Rock Guai is yours to command in battle! 
 
-Man-in-Stone
-
 Unlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return! 
 
 As an added bonus, if you keep hassling the Man-in-Stone, he’ll promise to prepare wares to sell the next time you visit. Be sure to take him up on this offer, as he’ll have a decent selection of (very high-priced) goods! 
 
 Man-in-Stone's Shop   
-Blood of the Iron Bull - 3280 Will | Gold Ridge Beast - 12800 Will   
-Iron Pellet - 6480 Will |   
-Goldflora Hairpin - 12800 Will |   
-Sobering Stone - 6480 Will |   
-  
+| Man-in-Stone's Shop                | Man-in-Stone's Shop           |
+| ---------------------------------- | ----------------------------- |
+| Blood of the Iron Bull - 3280 Will | Gold Ridge Beast - 12800 Will |
+| Iron Pellet - 6480 Will            |                               |
+| Goldflora Hairpin - 12800 Will     |                               |
+| Sobering Stone - 6480 Will         |                               |
+
 ## Rockrest Flat
 
 The area of Rockrest flat is wide with three major branches from the open area around the Shrine, and all directions are worth noting. 
@@ -212,8 +210,6 @@ In this large open field, you’ll find a friendly boar-like Guai resting on a r
 ![Wukong Fright 60.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bd/Wukong_Fright_60.jpg)
 
 Be sure to look around the vast field for items to gather like Fire Bellflower and Fragrant Jade Flowers. If you travel to the edge of the cliff past the field, you can find a **Meditation Point** by a large curved tree, giving you a free Skill Point! 
-
-Deadwood Forest, Rockrest Flat Meditation Spot
 
 The only other part of this field has a large gate that can’t currently be opened, so instead it’s time to return to the Shrine. 
 
@@ -271,8 +267,6 @@ You can also try transforming into the Rock Guai yourself with the Azure Dust. J
 
 Defeating the Stone Vanguard will reward you with the Sterness of Stone, one half of the items you need to activate the tallies that unlock the large door to the chapter’s main boss. 
 
-Stone Vanguard
-
 Note - This arena is actually home to more than one boss, and it’s hiding in plain sight. Near the entrance you came in through the large archway, there’s a large stone on the side, and on closer inspection has many heads carved into it. Draw close, and you’ll be able to interact with it, inserting the six Buddha Eyeballs you gained from the statue heads around the Fright Cliff. Doing so will unlock the Shigandang secret boss battle. It’s a much tougher fight than the Stone Vanguard, and we recommend saving it for the tail end of this chapter, either after you’ve cleared it or are close to doing so.
 
 ## Rock Clash Platform
@@ -293,13 +287,9 @@ Further down the main path, you’ll find a large terrace overlooking a ravine b
 
 Just beyond where the Rat Governor was guarding, you can find a **Meditation Spot** down a short flight of stairs that overlooks the ravine, granting you a free Skill Point for resting here. 
 
-The Ravine, Rock Clash Platform Meditation Spot
-
 ![Wukong Fright 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/05/Wukong_Fright_54.jpg)
 
 To proceed, head back up the stairs and take a left where a group of braziers are. In the middle of this path is a small altar with a yellow pot, and inside you’ll find a **Celestial Taiyi Pill** , raising your maximum Mana once more by a considerable amount! 
-
-Yellow Wind Ridge Celestial Taiyi Pill
 
 Past this upgrade, the path will begin to slope down, and quite suddenly you may find yourself slipping and sliding down a one way sandy slope into a new sub-region. It’s worth getting the Shrine at the bottom of this area, but you’ll also need to dodge a lot of Rat Archers that you won’t be able to reach. 
 
@@ -322,5 +312,3 @@ Hop back onto the sands and slide past the rest of the Rat Archers until you rea
 The good news is that as you approach, the headless musician will appear once more, and this time he has a gift for you: **The Pluck of Many**. You may have been able to try it out during the Prologue — this spell allows you to summon several copies of yourself to fight alongside you for a short duration. The copies don’t have much health and it costs a lot of mana to use, but they’ll help you overwhelm enemies in a pinch! 
 
 After resting at the Windseal Gate Shrine, it’s time to fight the other Vanguard at the **Crouching Tiger Temple**, and we’ll return back to the Yellow Wind Formation area soon enough. 
-
-Fright Cliff Complete

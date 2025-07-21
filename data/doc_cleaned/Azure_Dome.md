@@ -23,4 +23,3 @@ The Azure Dome transformation is obtained upon unlocking the secret ending of Bl
   7. Beat the final boss
 
 This quest requires you to practically complete every side quest and optional area in the game, which is a tall order. Our written wiki page on how to unlock the secret ending takes you through each and every step. You can also watch a video guide below: 
-

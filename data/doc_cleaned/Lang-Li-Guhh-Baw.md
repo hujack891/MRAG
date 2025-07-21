@@ -47,4 +47,3 @@ If you’re having trouble dealing with his many lightning attacks, remember to 
 ![Wukong Sandgate 23.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/27/Wukong_Sandgate_23.jpg)
 
 Once you defeat this frog boss, he’ll drop the Evil Repelling Medicament formula. Return it to the Xu dog back outside the pit. Not only will he reward you with 2 Evil Repelling Medicament for your trouble, but you’ll also unlock the ability to create all sorts of consumables yourself at any Shrine. With all the materials you’ve been harvesting, you can stock up on defensive, offensive, and status reducing consumables. 
-

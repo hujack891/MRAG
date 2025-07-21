@@ -3,8 +3,8 @@
 **Red-Haired Yaksha** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Red-Haired Yaksha offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Red-Haired Yaksha, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Red-Haired Yaksha Location
-  * Red-Haired Yaksha Fight Guide
-  * Red-Haired Yaksha Spirit Power
+* Red-Haired Yaksha Fight Guide
+* Red-Haired Yaksha Spirit Power
 
 ![Red haired yaksha fight.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f7/Red_haired_yaksha_fight.jpg)
 
@@ -26,10 +26,4 @@ The Red-Haired Yaksha is a relatively strong foe armed with a long-bow and flowi
   * Equipped Effect: Moderately increases Heavy Attack Damage. 
 
 The Red-Haired Yaksha's Spirit Power allows you to embody the Yaksha and release one strong arrow in your enemy's direction. The arrow deals a healthy amount of damage and can stagger the target, leaving you free to land another combo before they recover. Having the Red-Haired Yaksha equipped increases your Heavy Attack moderately, which is decent considering your Heavy Attack is already quite powerful. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

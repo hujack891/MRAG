@@ -131,4 +131,3 @@ Because of this, its often better to rely on building your focus with light atta
 Expect this fight to take a lot of attempts as you learn the different ways he can string his combos together, when the best times are to catch him off guard, and - most importantly - practice dodging his lightning dive-bomb attacks that can kill your attempt in an instant. Try to get rid of the Shocked status effect any time you get inflicted, so long as you don't leave yourself open while doing so. 
 
 Once Yellow Loong is finally revealed, his fate will be sealed, as the Ancient Master whose garment he was hiding in will convince the ancient dragon to relinquish his power, channeling it into his polearm, which you can grab to obtain the Golden Lining Transformation Spell to become a Loong yourself! You'll also finally get the last ingredient types to craft the ultimate Loong Staff Weapon! 
-

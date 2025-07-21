@@ -25,4 +25,3 @@ The only real difference between this fight and the one with the previous carts 
 As soon as you see smoke start to build around it, you'll want to move out of its way, because this is when the fire is coming. Beyond that, you'll also notice tweaks to the punching attacks. Rather than just slamming its fists down once, it will try to land a combo of punches. 
 
 To make the fight easier, use Immobilize to keep the cart locked in place. That way, you and the Pale-Axe Stalwart can work together to quickly whittle down its health. 
-

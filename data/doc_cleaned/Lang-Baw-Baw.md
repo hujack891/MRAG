@@ -41,4 +41,3 @@ The key is to get him out of this state as soon as possible because it can be an
 ![Foothills Walkthrough \(34\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Foothills_Walkthrough_%2834%29.png)
 
 If he goes back into this state when you don't have the fan available, it's just a matter of hanging back and avoiding attacks until he changes back to red. 
-

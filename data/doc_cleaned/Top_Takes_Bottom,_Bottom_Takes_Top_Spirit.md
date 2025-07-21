@@ -3,8 +3,8 @@
 **Top Takes Bottom, Bottom Takes Top** are foes that you will face off against in Black Myth: Wukong. Once defeated, Top Takes Bottom and Bottom Takes Top offer up their Spirit for you to absorb, allowing you to use some of their powers for a short time. On this page, we will go over everything you need to know about Top Takes Bottom, Bottom Takes Top, including where to find them, how to defeat them, and what power their Spirit gives you. 
 
   * Top Takes Bottom, Bottom Takes Top Location
-  * Top Takes Bottom, Bottom Takes Top Fight
-  * Top Takes Bottom, Bottom Takes Top Spirit
+* Top Takes Bottom, Bottom Takes Top Fight
+* Top Takes Bottom, Bottom Takes Top Spirit
 
 ![Bottom Takes Top.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/21/Bottom_Takes_Top.jpg)
 
@@ -47,10 +47,4 @@ The foes will also use each half of the iron ball as a shield of sorts. You will
 The Top Takes Bottom, Bottom Takes Top Spirit allows you to take the form of both enemies, who stick together to form the entire iron ball before smashing directly into your enemies three times over. The iron ball is extremely powerful, and the three full hits make the Spirit move even stronger. 
 
 The equipped effect is a double-edged sword, however. It boosts your Defense but at the cost of your Attack. This could be worth it for you, depending on your play style and how boosted your Attack is via the Skill Tree and your equipped weapon. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

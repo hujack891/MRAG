@@ -119,5 +119,3 @@ Keep practicing against dodging his moves, finding the right times to deflect th
 ![Wukong MadTiger 24.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/6d/Wukong_MadTiger_24.jpg)
 
 When at last the Mad Tiger falls before you, he’ll release his Mad Tiger Spirit for you to absorb, and drop a Blood of the Iron Bull, Yaoguai Core, Stone Spirit, and 1,023 Will. Be sure to also search the bottom of the well carefully, and you can find a large wooden chest that holds the Plaguebane Gourd! 
-
-Old Rattle-Drum Quest

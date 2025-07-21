@@ -71,4 +71,3 @@ He will also leave behind the Wandering Wight Spirit — a purple glowing wisp �
 ![20240815101010 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c9/20240815101010_1.jpg)
 
 Luckily, you don't have too far to go gain this upgrade. This can only be done once you’ve met the Ancient Master in the Bamboo Grove who will upgrade your Gourd. If you haven’t done this yet, don’t worry — the Spirit will appear in your Shrine menu when attempting to Cultivate Spirits after the gourd has been upgraded. 
-

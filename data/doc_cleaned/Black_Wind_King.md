@@ -55,4 +55,3 @@ After his next Black Wind assault, be ready to transform using the Red Tides Spe
 ![Wukong BlackWind 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/df/Wukong_BlackWind_17.jpg)
 
 Counter each of his teleports when his attacks complete, and you’ll soon defeat the Yaoguai King, forcing him to retreat as he yells for you to face his true form at the top of the mountain. However, in his retreat, he’ll leave behind some of his Black Wind, which the Keeper of the Mountain will harness and pass onto you, giving you a brand new spell: **Cloud Step**. 
-

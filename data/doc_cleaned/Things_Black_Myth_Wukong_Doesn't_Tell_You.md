@@ -4,19 +4,19 @@ Black Myth: Wukong comes with an in-game journal with some hints and tips but ev
 
 **Jump to:**
 
-  * 1\. Keepers Shrines Will Keep Expanding
-  * 2\. Always Speak to NPCs
-  * 3\. It’s Really Easy to Reset Your Skills
-  * 4\. Additional Combat Styles Can Be Unlocked in the Skills Menu
-  * 5\. You Can Pick Up Missed Spirits at Keepers Shrines
-  * 6\. There’s No Penalties for Dying
-  * 7\. Not All Items Are What They Appear to Be
-  * 8\. Look for Enemies With Blue Glowing Outlines
-  * 9\. It Pays to Backtrack
-  * 10\. Meditation Spots Grant Skill Points
-  * 11\. Heavy Attacks Work Differently
-  * 12\. Enter Photo Mode in Alternate Ways
-  * 13\. Get Permanent Upgrades with Celestial Medicines
+  * 1. Keepers Shrines Will Keep Expanding
+* 2. Always Speak to NPCs
+* 3. It’s Really Easy to Reset Your Skills
+* 4. Additional Combat Styles Can Be Unlocked in the Skills Menu
+* 5. You Can Pick Up Missed Spirits at Keepers Shrines
+* 6. There’s No Penalties for Dying
+* 7. Not All Items Are What They Appear to Be
+* 8. Look for Enemies With Blue Glowing Outlines
+* 9. It Pays to Backtrack
+* 10. Meditation Spots Grant Skill Points
+* 11. Heavy Attacks Work Differently
+* 12. Enter Photo Mode in Alternate Ways
+* 13. Get Permanent Upgrades with Celestial Medicines
 
 ### 1\. Keepers Shrines Will Keep Expanding
 
@@ -145,11 +145,4 @@ After reaching Chapter 2 and defeating the lightning frog in the small pool of w
 ![Wukong Tiger 31.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Wukong_Tiger_31.jpg)
 
 Celestial Medicines give permanent boosts to different stats, such as health, mana, stamina, and even certain Bane resistances. You consume Mind Cores to create these medicines, but can refund all of them at any time. You must return to Xu Dog every time you want to either create Celestial Medicines, or refund your Mind Cores. 
-
-Looking for more Black Myth: Wukong guides? Check out these pages: 
-
-  * Walkthrough
-  * Essential Tips and Tricks
-  * Boss List and Guides
-  * Collectibles
 

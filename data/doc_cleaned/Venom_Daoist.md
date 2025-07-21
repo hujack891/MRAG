@@ -52,8 +52,6 @@ When he starts getting low on health, expect him to get more desperate, throwing
 
 After taking out 2-4 of his extra limbs, he'll likely run out of health, and will beat a hasty retreat. This isn't the last you'll see of him, and in fact he's essential to unlocking a secret area, so we'll look for him again later. At the very least, you'll earn experience and will both for beating him and his cocoon! 
 
-Venom Daoist (Webbed Hollow)
-
 ## Venom Daoist Boss Fight and Guide - Second Encounter
 
 In your last encounter with the Venom Daoist, he sported quite a bit of arms -- some of which you may have lopped off during the course of the fight. This time, he only has two extra arms, but the same rules still apply for this fight -- at least part of it. 
@@ -103,5 +101,3 @@ Much of the rest of this fight will revolve around avoiding his lengthy combo at
 ![Wukong YellowFlower 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_YellowFlower_54.jpg)
 
 Once the Daoist is defeated for good, he'll impart a mysterious message, telling you to "find the needle on Purple Cloud Mountain". As he departs, he mural will form on the nearby wall, which you can now interact with to travel to **Chapter 4's Secret Area: Purple Cloud Mountain**. As with other Secret Areas, we recommend exploring it before you proceed to the final boss of this chapter, as it will be instrumental in helping to defeat the final boss of this area. 
-
-Venom Daoist (Temple of Yellow Flowers)

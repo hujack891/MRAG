@@ -51,4 +51,3 @@ Surviving this can be very tough as he'll try to keep you trapped and locked in 
 As with his other big attack, your Pillar Stance can help keep you away from the blast, but you can also try creating a Ring of Fire to give yourself "holy ground" of sorts to stay safe in from the otherwise chilly prison. 
 
 Defeat this third frog menace, and you'll gain another Tadpole and other materials to upgrade your Spirits and gear. 
-

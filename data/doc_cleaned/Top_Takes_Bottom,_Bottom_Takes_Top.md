@@ -41,5 +41,3 @@ After successfully wounding them both enough, you'll see them merge together and
 ### Don't Miss This Spirit!
 
 Once the golden spiked ball has flown off the edge of the Ashen Pass, return to The Emerald Hall. Go past the altar and up the path toward the Ashen Pass. Once you've climbed the first set of stairs, you'll see the golden ball wedged into a rock next to the Flame Rhino Master. ![Field Fire Walkthrough \(23\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/23/Field_Fire_Walkthrough_%2823%29.png) Go all the way up to it and you'll be able to take the Top Takes Bottom, Bottom Takes Top Spirit from inside. 
-
-Top Takes Bottom, Bottom Takes Top Spirit

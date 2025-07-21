@@ -3,8 +3,8 @@
 **Verdant Glow** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Verdant Glow offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about Verdant Glow, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Verdant Glow Location
-  * Verdant Glow Fight
-  * Verdant Glow Spirit
+* Verdant Glow Fight
+* Verdant Glow Spirit
 
 ![Verdant Glow pic.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Verdant_Glow_pic.jpg)
 
@@ -30,10 +30,4 @@ Thankfully, Verdant Glow is so large that it is rather slow. This gives you plen
   * Equipped Effect: Slowly recovers a small amount of Health. 
 
 Verdant Glow's Spirit allows you to turn into a small sapling and slowly regain Health. If you activate tree-mode in water, you gain even more Health. The equipped effect is also designed to work in tandem with this and allows you to constantly and slowly regain a small amount of Health. This can be very handy for defensive builds. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

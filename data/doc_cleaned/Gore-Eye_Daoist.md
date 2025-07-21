@@ -49,4 +49,3 @@ Try to keep him boxed in if possible — getting his back stuck to a wall can se
 ![Wukong Yellow 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d8/Wukong_Yellow_47.jpg)
 
 Defeating him will earn you his Gore-Eye Daoist Spirit to absorb, and you can also help yourself to the second Luojia Fragrant Vine in this chapter to boost your gourd yet again! 
-

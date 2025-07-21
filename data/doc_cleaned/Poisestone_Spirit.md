@@ -3,8 +3,8 @@
 **Poisestone** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Poisestone offers up her Spirit for you to absorb, allowing you to use some of her powers for a short time. On this page, we will go over everything you need to know about Poisestone, including where to find her, how to defeat her, and what power her Spirit gives you. 
 
   * Poisestone Location
-  * Poisestone Fight
-  * Poisestone Spirit
+* Poisestone Fight
+* Poisestone Spirit
 
 ![Poisestone.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/ff/Poisestone.png)
 
@@ -26,10 +26,4 @@ Poisestone fights like all of the other enemies of her type in Black Myth: Wukon
   * Equipped Effect: Moderately increases the Damage of Jump Light Attacks and reduces the Stamina cost of Sprinting. 
 
 Poisestone's Spirit is quite a good one for multiple reasons. For one, it is a double-pronged attack that deals damage both with an initial kick to the chest as well as inflicting area damage when you land. The equipped effect is also excellent and both increases Light Attack damage while reducing Sprinting Stamina cost. Even when you're not actively using the Poisestone's skill, you are still getting those two equip buffs which can make a big difference in both combat and exploration. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

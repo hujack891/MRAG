@@ -14,7 +14,7 @@ Wandering Wight| Guangmou| Tiger's Acolyte
 ---|---|---  
 Blade Monk| Non-White| Falcon Hermit  
 Clay Vajra| Flint Vanguard| Baw-Li-Guhh-Lang (Upgraded)  
-  
+
 Remember that Spirits can be upgraded! At any Keeper's Shrine, you can choose to Cultivate Spirits from the Self-Advance menu. This will allow you to upgrade your Spirits using a combination of Will and items like Blood of the Iron Bull and Tadpoles. If you like a Spirit, cultivate them so you can max out their buffs. 
 
 ### Wandering Wight

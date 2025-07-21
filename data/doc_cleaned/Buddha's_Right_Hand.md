@@ -1,6 +1,17 @@
-Q:How to defeat the Buddha's Right Hand Boss?
+# Buddha's Right Hand
 
-A:
+The Buddha's Right Hand is a required Yaoguai Chief boss fight that you can find during Chapter 4 of Black Myth Wukong. Located in the middle section of The Webbed Hollow, this creepy long hand is more than it seems, and blocks the passage down to the Lower Hollow. 
+
+  * Rewards: Buddha's Right Hand (Key Item), Past-Echo, Fine Gold Thread, Cold Iron Leaves, 2274 Experience, 1933 Will
+
+## Where to Find the Buddha's Right Hand
+
+The Buddha's Right Hand is an main boss and non-missable encounter that you'll find exploring the massive Webbed Hollow Portion of Chapter 4. After descending down to the Vedure Bridge Shrine and defeating the Centipede Guai in the Bonevault, follow the linear path up to the Cliff of Oblivion. 
+
+Just past the Shrine, you'll find a narrow passageway with a creepy hand holding a mirror, but this is actually the boss fight you seek! 
+
+## Buddha's Right Hand Boss Fight and Guide
+
 When you try to interact with the strange mirror, it will disappear as the hand attached to a very long disturbing arm decides to attack you. This fight is a fairly unorthodox one, and you'll need to expect the unexpected as you face this foe in a very narrow hallway with limited room to dodge. 
 
 ![Wukong MiddleHollow 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Wukong_MiddleHollow_53.jpg)
@@ -68,5 +79,3 @@ Since it won't have too much health left, focus on avoiding its attacks and try 
 Once you have finally depleted its health, it will try to flee the tunnel and fly away, only to be shot down violently -- forming a bridge with its "hand". Your mysterious lady friend will return to urge you onward before she disappears. 
 
 Defeating this monster will award you an actual Buddha's Right Hand Key Item. Once you locate the Buddha's Left Hand deeper into the Webbed Hollow, you'll be able to bring both to the Shen Monkey in the Zodiac Village to craft a unique Gourd! 
-
-Buddha%27s_Right_Hand.md

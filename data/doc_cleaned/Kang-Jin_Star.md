@@ -89,5 +89,3 @@ The good news is this attack is so powerful it will leave her incredibly drained
 ![Wukong Turtle 18.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Wukong_Turtle_18.jpg)
 
 As long as your patient to wait for the right moments to get in close and attack, and make sure you're using shock-quelling medicine, you'll be able to come out on top. Even as Kang-Jin Star tries to flee in her dragon form, the Destined One will see to it that she crashes into the large cymbals, freeing the prisoner inside! 
-
-Kang-Jing Star

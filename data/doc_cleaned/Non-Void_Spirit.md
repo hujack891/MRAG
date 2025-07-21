@@ -2,9 +2,9 @@
 
 **Non-Void** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Non-Void offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Non-Void, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
-  * Non-Void Location
-  * Non-Void Fight
-  * Non-Void Spirit
+* Non-Void Location
+* Non-Void Fight
+* Non-Void Spirit
 
 ![Non Void 2.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Non_Void_2.jpg)
 
@@ -32,10 +32,4 @@ Non-Void doesn't fight with a weapon, preferring to use spells to deal damage to
   * Equipped Effect: Recovers a moderate amount of Stamina when being hit. 
 
 Non-Void's Spirit Power allows you to take his form and use the invisibility move he wields in combat. You are invincible when invisible, so you can use the move to escape any pickle you might find yourself in. The equipped effect Non-Void offers allows you to recover Stamina when taking damage, making him a more defensive Spirit. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

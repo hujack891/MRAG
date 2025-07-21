@@ -86,4 +86,3 @@ It’s not a bad idea to use the Azure Dust Transformation on him too, as your R
 With a lot of health and defense, it will take some time to chip away at this massive stone monster, but if you can avoid or deflect his big attacks and conserve your gourd uses, you’ll be able to win this endurance battle. 
 
 Defeating the Shigandang will earn you a Mind Core, 2 Yaoguai Core, 1371 Will, and a Heart of Stone material, allowing you to craft a new weapon, the Cloud-Patterned Stone Staff! You’ll also gain the Skandha of Feeling, which is the second mysterious Skandha Key Item you can find in the game after the Skandha of Form early in Chapter 1. 
-

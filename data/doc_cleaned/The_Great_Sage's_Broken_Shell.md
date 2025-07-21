@@ -63,4 +63,3 @@ Using Gingseng Pellets and Ring of Fire will get your Focus up in no time, and S
 Once the fight is over, The Great Sage's Broken Shell will be vanquished, and a cutscene will begin. The Great Sage will stumble in the water and the relics will leave his body as golden orbs. 
 
 Each one will land inside the Destined One as the Great Sage crumbles, and his crown lands in the water. As the Old Monkey appears again, he'll place the crown upon the Destined One's head and finish the tale of Sun Wukong. 
-

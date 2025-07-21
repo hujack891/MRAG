@@ -3,7 +3,7 @@
 **Baw-Baw-Lang-Lang** is a Spirit that you can channel in Black Myth: Wukong. This is one of the more unique Spirits in the game, deviating from the usual defeat-and-collect tactics that you typically engage in to collect Spirits. On this page, we will go over everything you need to know about Baw-Baw-Lang-Lang, including how to get its Spirit and what power it gives you. 
 
   * How to Get the Baw-Baw-Lang-Lang Spirit
-  * Baw-Baw-Lang-Lang Spirit
+* Baw-Baw-Lang-Lang Spirit
 
 ![Baw-Baw-Lang-Lang ice.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/92/Baw-Baw-Lang-Lang_ice.jpg)
 
@@ -29,10 +29,4 @@ Spirits can be upgraded at any Keeper's Shrine by selecting _Cultivate Spirits_!
   * Equipped Effect: Moderately reduces the Stamina cost for Jumps and Jump Attacks. 
 
 Baw-Baw-Lang-Lang's Spirit allows you to embody one of five frogs, each with their own elemental attack. There is a poison frog, a thunder frog, a fire frog, an ice frog, and a stone frog. You won't know what frog you are going to get each time you use the move, but each frog has an excellent attack that deals a fair amount of damage. Channeling Baw-Baw-Lang-Lang also reduces the Stamina cost for Jumping, including Jump Attacks. The Jump Heavy Attack is a quick and effective way to land a strong hit, and this Spirit makes that move even less demanding. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

@@ -3,8 +3,8 @@
 The **Father of Stones** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Father of Stones offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Father of Stones, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Father of Stones Location
-  * Father of Stones Fight
-  * Father of Stones Spirit
+* Father of Stones Fight
+* Father of Stones Spirit
 
 ![Father of Stones.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7f/Father_of_Stones.jpg)
 
@@ -28,10 +28,4 @@ The Father of Stones hits hard but is also rather slow. Stick to his back and pr
   * Equipped Effect: Slightly increases Critical Hit Chance and Critical Damage.
 
 The Father of Stone's Spirit allows you to take the form of the beast and release two loud roars that both damage and cause any enemies within range to fly backward. This is a great attack to pull out if you're getting overwhelmed by a lot of enemies and need some space to sip from your Gourd or take any Medicine. The equipped effect is also good, increasing both your Critical Hit Chance and Critical Damage. You can boost this even further in the Skill Tree. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

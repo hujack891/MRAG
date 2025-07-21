@@ -11,19 +11,17 @@ In Chapter 2, you’ll come to the Fright Cliff and the Squall Hideout Keeper’
 Here’s how to find them all: 
 
   * Buddha’s Eyes 1
-  * Buddha’s Eyes 2
-  * Buddha’s Eyes 3
-  * Buddha’s Eyes 4
-  * Buddha’s Eyes 5
-  * Buddha’s Eyes 6
+* Buddha’s Eyes 2
+* Buddha’s Eyes 3
+* Buddha’s Eyes 4
+* Buddha’s Eyes 5
+* Buddha’s Eyes 6
 
 ### Buddha’s Eyes 1
 
 ![Buddhas Eye Secret Boss \(2\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/79/Buddhas_Eye_Secret_Boss_%282%29.png)
 
 As you enter Fright Cliff from Sandgate Village, make your way up the hill toward the Squall Hideout Keeper’s Shrine. Before you reach it, you’ll go past the chanting Buddha Head on your right. Each one of the Buddha Heads has glowing yellow eyes. Interact with it to remove the Buddha’s Eyeball. 
-
-Buddha’s Eyeball 1
 
 ### Buddha’s Eyes 2
 
@@ -35,15 +33,11 @@ From the Squall Hideout Keeper’s Shrine, go right. If you look immediately to 
 
 Go over to the other side and climb up the stairs. Take out the enemies using ranged attacks, and climb to the very top of the structure to find the Buddha Head. 
 
-Buddha’s Eyeball 2
-
 ### Buddha’s Eyes 3
 
 ![Wukong Eye3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Eye3.jpg)
 
 Look down from the top of the structure where you found the Buddha’s Eyeball 2, and you’ll see the third one waiting for you down below.
-
-Buddha’s Eyeball 3
 
 ### Buddha’s Eyes 4
 
@@ -62,8 +56,6 @@ On the other side, you’ll see a wooden structure, and a path that goes into a 
 
 ![Buddhas Eye Secret Boss \(5\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/70/Buddhas_Eye_Secret_Boss_%285%29.png)
 
-Buddha’s Eyeball 4
-
 ### Buddha’s Eyes 5
 
 ![Buddhas Eye Secret Boss \(10\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/54/Buddhas_Eye_Secret_Boss_%2810%29.png)
@@ -76,15 +68,11 @@ Head right up to the top, and look for an opening where the sunlight comes in on
 
 ![Buddhas Eye Secret Boss \(12\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/11/Buddhas_Eye_Secret_Boss_%2812%29.png)
 
-Buddha’s Eyeball 5
-
 ### Buddha’s Eyes 6
 
 ![Buddhas Eye Secret Boss \(9\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/1d/Buddhas_Eye_Secret_Boss_%289%29.png)
 
 Go back down the stairs to the body of water, and take the left out to the Rockrest Flat where you’ll find another Keeper’s Shrine. From the Keeper’s Shrine, go left and you’ll see the final Buddha Head. When you have all 6, chanting will begin letting you know you have everything you need. 
-
-Buddha’s Eyeball 6
 
 ## How to Use the Buddha’s Eyeballs to Unlock the Secret Boss
 
@@ -97,8 +85,6 @@ If you haven’t got all 6 of the Buddha Eyes, when you go toward it and examine
 When you have all 6 of the Budda Eyes, the prompt for Deliver will appear. Doing so will enter the Buddha’s Eyeballs into the rock and a secret boss Shigandang will appear. 
 
 ![Buddhas Eye Secret Boss \(13\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Buddhas_Eye_Secret_Boss_%2813%29.png)
-
-Om Mani Padme Hum
 
 ### Secret - Defeat the Stone Vanguard with the Shigandang
 

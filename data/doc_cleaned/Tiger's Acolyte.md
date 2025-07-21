@@ -63,4 +63,3 @@ On rare occasions, he may even go for a varied combo of his own using all the we
 If your health is dropping fast, remember you can use a Transformation Spell to rely on a secondary health bar to stay alive. Either the Red Tides or Azure Dust can work well in this fight, depending on if you want to match his agility in your wolf form, or tank his hits and then smash into him when he stops attacking. It’s also not a bad idea to try the Pluck of Many, as his smaller size makes him vulnerable to getting overwhelmed and staggered on all sides. 
 
 When the Tiger’s Acolyte falls, he’ll drop a curious Key Item, the **Old-Rattle Drum** , as well as leaving behind the Tiger’s Acolyte Spirit to absorb. The child’s toy actually serves an important purpose to unlock another boss. You’ll need it to commune with a child’s spirit in various spots around the Yellow Wind Ridge. 
-

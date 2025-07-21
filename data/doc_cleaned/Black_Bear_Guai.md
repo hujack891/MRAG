@@ -62,4 +62,3 @@ This fight will last awhile, so be sure to be mindful of your stamina and back o
 ![Wukong BlackWind 42.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/33/Wukong_BlackWind_42.jpg)
 
 When he’s finally defeated, the Black Bear Guai will try and flee with the sense of the Great Sage, only for it to reject his escape attempt. As he realizes your true purpose, he’ll plead for mercy, blaming the Celestial Palace. It matters little, as the true object of your quest in the Black Wind Mountain is now yours - The Craving Eyes Relic. 
-

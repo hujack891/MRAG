@@ -64,12 +64,12 @@ Realizing the error of his ways, the Man-in-Stone will promptly burrow right bac
 
 Unlike the Red Waves wolf transformation, you’ll be extremely slow, unable to dodge, and overall be a pretty big target. On the plus side, you’ll be immune to all status effects while transformed, and deal incredible damage that staggers most enemies. Instead of Might building on attack, you’ll build it while taking damage, allowing you to soak blows and unleash a powerful jump attack spell in return! 
 
-Man-in-Stone's Quest
-
 As an added bonus, if you keep hassling the Man-in-Stone, he’ll promise to prepare wares to sell the next time you visit. Be sure to take him up on this offer, as he’ll have a decent selection of (very high-priced) goods! 
 
-Man-in-Stone's Shop   
-Blood of the Iron Bull - 3280 Will | Gold Ridge Beast - 12800 Will   
-Iron Pellet - 6480 Will |   
-Goldflora Hairpin - 12800 Will |   
-Sobering Stone - 6480 Will | 
+| Man-in-Stone's Shop                | Man-in-Stone's Shop           |
+| ---------------------------------- | ----------------------------- |
+| Blood of the Iron Bull - 3280 Will | Gold Ridge Beast - 12800 Will |
+| Iron Pellet - 6480 Will            |                               |
+| Goldflora Hairpin - 12800 Will     |                               |
+| Sobering Stone - 6480 Will         |                               |
+

@@ -3,8 +3,8 @@
 The **Rat Imperial Guard** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Rat Imperial Guard offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Rat Imperial Guard, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Rat Imperial Guard Location
-  * Rat Imperial Guard Fight
-  * Rat Imperial Guard Spirit
+* Rat Imperial Guard Fight
+* Rat Imperial Guard Spirit
 
 ![Rat Imperial Guard Fight.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f2/Rat_Imperial_Guard_Fight.jpg)
 
@@ -26,10 +26,3 @@ The Rat Imperial Guard fight is difficult, not because the foe himself is partic
   * Equipped Effect: Moderately increases Focus granted from Perfect Dodges.
 
 The Rat Imperial Guard's Spirit allows you to take the form of the Rat and lunge at your foes with razor-sharp scythes. Having the Rat Imperial Guard equipped also increases the amount of Focus you earn while Perfect Dodging. Perfect Dodging is a priceless skill in Black Myth: Wukong, as is Focus, which allows you to deliver stronger blows. Having both work together like that can be extremely helpful in combat. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
-

@@ -3,10 +3,10 @@
 Chapter 1 of Black Myth: Wukong has more than one secret boss for you to find, and one of these is a Dragon that's tucked away behind a waterfall. Getting to the boss, however, requires finding a key item that you can't get until Chapter 2. This isn't the only Loong boss you can find in the game, so if you want to access the secret area, and know the whereabouts of the Loong Dragon Bosses, here's everything you need to know. 
 
   * How to Get the Loong Scales
-  * How to Find the Chapter 1 Secret Dragon Boss
-  * How to Find the Chapter 2 Secret Boss
-  * How to Find Chapter 3 Dragon Boss
-  * How to Find the Chapter 4 Secret Boss
+* How to Find the Chapter 1 Secret Dragon Boss
+* How to Find the Chapter 2 Secret Boss
+* How to Find Chapter 3 Dragon Boss
+* How to Find the Chapter 4 Secret Boss
 
 ## How to Get the Loong Scales
 
@@ -50,8 +50,6 @@ Jump over the tree branch and head toward the waterfall and the enemy waiting ou
 
 Go toward it and through it to enter the secret Loong Claw Grove area to fight Red Loong. 
 
-Red Loong
-
 ## How to Find Black Loong - Chapter 2 Secret Boss
 
 ![Secret Loong Bosses \(17\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d9/Secret_Loong_Bosses_%2817%29.png)
@@ -61,8 +59,6 @@ For Chapter 2, you'll want to wait until you've got to the Rockrest Flat Keeper'
 ![Secret Loong Bosses \(14\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/41/Secret_Loong_Bosses_%2814%29.png)
 
 Beyond this enemy, you'll see a sandfall. Head toward it and you can interact with it to remove the sand and enter a secret area Hidden Loong Cavern, where you'll fight Black Loong. 
-
-Black Loong
 
 ## How to Find Cyan Loong - Chapter 3 Dragon Boss
 
@@ -77,8 +73,6 @@ You'll need to wait until you can interact with the Shrine, but when you can, tu
 ![Secret Loong Bosses \(22\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/e6/Secret_Loong_Bosses_%2822%29.png)
 
 As you approach the statue, it will come to life and you'll be thrown into a fight against Cyan Loong. When you've beaten him, a Treasure Chest will appear in the nearby waterfall, which contains Breath of Fire Soak and Mountain-Shaking Core. You'll also unlock the crafting recipe for the mythical Golden Loong Staff. 
-
-Cyan Loong
 
 ## How to Find Yellow Loong - Chapter 4 Secret Boss
 
@@ -111,5 +105,3 @@ The path will start to wind back up, and there will be stairs on the left and a 
 From here, continue up the stairs to the right and you'll see a figure waiting by the shelter. As you approach, a cutscene will begin and you'll be thrown into the fight against Yellow Loong. 
 
 ![How To Find Yellow Loong \(4\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/How_To_Find_Yellow_Loong_%284%29.png)
-
-Yellow Loong

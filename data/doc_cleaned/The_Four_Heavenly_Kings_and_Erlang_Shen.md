@@ -22,8 +22,6 @@ Use Rock Solid when it's available and when one of the four giants will launch t
 
 About halfway through the fight, you'll also be able to start using Ice Bath. When you use the Ice Bath Spell, the Stone Monkey's arms will be covered in frost, and when you punch, you'll inflict frost damage. 
 
-The Four Heavenly Kings
-
 When the Four Heavenly Kings have been taken down, there's just one more giant to deal with, which is Erlang Shen. 
 
 ## Erlang Shen Boss Fight and Guide
@@ -41,5 +39,3 @@ Around the halfway mark, Erlang Shen will grab you and breath fire on you. Your 
 ![Mount Mei Walkthrough \(18\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/0b/Mount_Mei_Walkthrough_%2818%29.png)
 
 Just keep pummelling away at Erlang Shen and making use of all the Spells until he's defeated. 
-
-Erlang Shen

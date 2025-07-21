@@ -8,10 +8,10 @@ This page is currently in progress, so we'll keep adding secrets along the way! 
 
 **Click on the links below to jump to:**
 
-Chapter 1 Secrets| Chapter 2 Secrets| Chapter 3 Secrets  
+ Chapter 1 Secrets | Chapter 2 Secrets | Chapter 3 Secrets 
 ---|---|---  
-Chapter 4 Secrets| Chapter 5 Secrets| Chapter 6 Secrets  
-  
+ Chapter 4 Secrets | Chapter 5 Secrets | Chapter 6 Secrets 
+
 # Chapter 1 Secrets
 
 The secrets start from the very first chapter of the game, and there's not one but two hidden bosses to uncover as you explore. The first is Elder Jinchi and the second is Red Loong. There are also Transformation Spells and missable Spirits that you'll want to bag before you wrap up the chapter. 
@@ -153,7 +153,7 @@ When you've got the Loong Scales, you can also access the secret boss in Chapter
 ## The Druken Boar and the Kindgom of Sahali
 
 The drunken boar (or the Yellow-Robed Squire as he's officially known) can be tricky to find, tucked away at the back of Rockrest Flat. But if you want to unlock the chapter's hidden area, you must complete his side quest. The questline has multiple steps, which start with you needing to bring him a Sobering Stone, either from the Windrest Hamlet or from the Man-in-Stone (once he becomes a merchant).   
-  
+
 When he's sobered up, find him again at the Crouching Tiger Temple and bring him a Jade Lotus. After one more interaction with him, back at Rockrest Flat, you'll have to fight him to enter the secret Kingdom of Sahali. 
 
 ### Relevant Guide Pages
@@ -394,16 +394,3 @@ Yes, The Great Pagoda is actually available in Chapter 3 but you won't want to d
 
 More Coming Soon!
 
-### For Fans: Shop Black Myth: Wukong Gaming Accessories
-
-![Wireless Controller](https://assets-prd.ignimgs.com/2024/09/13/8bitdo-wirless-controller-black-myth-wukong-1726259079610.jpg)
-
-### Black Myth: Wukong Wireless Controller
-
-0
-
-This well-reviewed 8Bitdo Ultimate 2C Wireless Controller for PC and Android is compatible with Windows 10 and above and Android 9.0 and above. It has 1000Hz polling rate, remappable L4/R4 bumpers and more special features.
-
-$34.99 at Amazon
-
-_If you buy through our links, IGN may earn an affiliate commission._ _Learn more_ _._

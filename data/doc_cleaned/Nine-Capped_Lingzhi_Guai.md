@@ -29,4 +29,3 @@ When they land in areas of the clearing, they will explode into a red mist. This
 At times, he will also throw his cap and it acts like a boomerang. This is his only ranged attack, and it will try to hit you from behind, so again, keep moving to avoid this. 
 
 Once you've beaten him, be sure to collect the Nine-Capped Lingzhi Guai Spirit that he leaves behind. 
-

@@ -3,8 +3,8 @@
 **Clay Vajra** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Clay Vajra offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Clay Vajra, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Clay Vajra Location
-  * Clay Vajra Fight
-  * Clay Vajra Spirit
+* Clay Vajra Fight
+* Clay Vajra Spirit
 
 ![Clay Vajra.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Clay_Vajra.jpg)
 
@@ -30,10 +30,4 @@ In addition to its knees and belly, the Clay Vajra is also armed with a fork-lik
   * Equipped Effect: Moderately increases Burn Resistance.
 
 Clay Vajra's Spirit Power allows you to take his form and use the signature flaming knee move that you will have experienced during your fight with him. This move hits enemies from all sides, so you can even damage foes behind you. Having the Clay Vajra equipped also boosts your Burn Resistance, which can be extremely handy in areas like the Flaming Mountains. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

@@ -3,8 +3,8 @@
 The **Elder Armourworm** is a foe that you will face off against in Black Myth: Wukong. Once you complete the tasks necessary to cultivate the Spirit, the Elder Armourworm will allow you to use some of its powers for a short time. On this page, we will go over everything you need to know about the Elder Armourworm, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
   * Elder Armourworm Location
-  * Elder Armourworm Fight
-  * How to Get the Elder Armourworm Spirit
+* Elder Armourworm Fight
+* How to Get the Elder Armourworm Spirit
 
 ![Elder Armorworm.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a3/Elder_Armorworm.jpg)
 
@@ -38,10 +38,4 @@ You can get Rice Cocoons from egg sacks throughout the Webbed Hollow!
   * Equipped Effect: Slightly increases Critical Hit Chance when in Poisoned state. 
 
 The Elder Armourworm's Spirit allows you to take the form of the great worm and flail about the arena, spraying poison everywhere. These poisonous pools deal Poison Bane to any enemies who make contact with them. They don't do any damage to you, though, so you don't have to worry about watching your step after the move is complete. If you do become poisoned for any other reason, however, the Elder Armourworm's equipped effect increases your Critical Hit Chance until the effect has worn off. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

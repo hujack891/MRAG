@@ -2,17 +2,17 @@
 
 The New Thunderclap Temple is the final main region of Chapter 3 in The New West in Black Myth: Wukong. Below you'll find a guide for the New Thunderclap Temple Region, including how to navigate the temple, complete the Snow Fox Questline and defeat all of Yellowbrow's disciples, and finally face Yellowbrow himself. 
 
-  * **Jump to a Section:**
-  * **Temple Entrance**
-    * Yaoguai Chief - Monk from the Sea
-  * **Temple Main Plaza**
-    * Yaoguai Chief - Non-Void
-  * **Temple Inner Courtyard**
-    * Yaoguai Chief - Non-Pure
-  * **Mahavira Hall**
-    * Yaoguai King - Yellowbrow
-    * Yaoguai Chief - Macaque Chief
-    * Yaoguai King - Yellowbrow (Round Two)
+* **Jump to a Section:**
+* **Temple Entrance**
+  - Yaoguai Chief - Monk from the Sea
+* **Temple Main Plaza**
+  - Yaoguai Chief - Non-Void
+* **Temple Inner Courtyard**
+  - Yaoguai Chief - Non-Pure
+* **Mahavira Hall**
+  - Yaoguai King - Yellowbrow
+  - Yaoguai Chief - Macaque Chief
+  - Yaoguai King - Yellowbrow (Round Two)
 
 Now that you've made your way through the Valley of Ecstasy (and hopefully accepted the Snow Fox's request in the Forest of Felicity), the grand New Thunderclap Temple awaits. 
 
@@ -295,8 +295,6 @@ Similarly, any Transformation can deal good damage here, but be sure not to expe
 
 When Non-Void finally falls to your assault, you'll be able to absorb the Non-Void Spirit. 
 
-Non-Void
-
 ### Completing the Snow Fox Questline
 
 ![Wukong Thunderclap 68.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/ca/Wukong_Thunderclap_68.jpg)  
@@ -309,8 +307,6 @@ Exiting Non-Void's temple room, head back down the stairs and take a left to fin
 ![Wukong Thunderclap 56.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/80/Wukong_Thunderclap_56.jpg)
 
 Head along the outer path past a Supporter Monk to a far building past the frozen waterfall. You can find a small gold pot at the base of the frozen falls here, but there are two Guardian Wolves overlooking it that you'll need to lure out and take care of first. Be wary you don't pull too far back down the frozen river and alert a Thunder Rhino Master on top of some rocks. After defeating them, open the pot to find a **Celestial Nonary Pill** to increase your stamina. 
-
-The New West Celestial Nonary Pill
 
 ![Wukong Thunderclap 57.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/4a/Wukong_Thunderclap_57.jpg)
 
@@ -380,13 +376,9 @@ The one thing his powered up gauntlet isn't great at deflecting is Transformatio
 
 Time your attacks well to find the gaps in his defenses, and remember to cultivate your Spirits and upgrade your Transformation Spell abilities as needed. When Non-Pure is finally defeated, you'll be able to absorb the last disciples spirit, the Non-Pure Spirit. 
 
-Non-Pure
-
 ![Wukong Thunderclap 71.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c0/Wukong_Thunderclap_71.jpg)
 
 Before leaving his boss room, be sure to look where he was initially standing to find the last **Meditation Point** in Chapter 3, and gain your free Skill Point. 
-
-The Hall, New Thunderclap Temple Meditation Spot
 
 ## Mahavira Hall
 
@@ -524,8 +516,6 @@ Another new move he can perform when jumping on his blade will be to launch hims
 
 After you've defeated his clones and beaten the Macaque Chief one final time, the Destined One will stand victorious, but the evil energies of the seed sack will warp your mind, transforming you into that which you have sought to defeat! 
 
-Macaque Chief (Mahavira Hall)
-
 ### Floating Sculpture
 
 Yellowbrow will then scoop you out of the sack and place your tiny form into his Floating Sculpture with all his other "disciples". 
@@ -632,8 +622,6 @@ If you've run out of juice from your gourd, consider consuming medicine to incre
 
 With enough patience and practice, and dodging his particularly deadly attacks, you'll at last cut Yellowbrow down to size. He'll try to flee the temple back onto the frozen lake at Mirrormere, only to be swallowed up by the Sage's Relic under the lake. 
 
-Yellowbrow
-
 ![Wukong Thunderclap 115.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/9e/Wukong_Thunderclap_115.jpg)
 
 The true mischievous lord that you've met beforehand will finally take his rightful place, and bestow upon you the third Sage's Relic: the Hubris Nose. You'll be able to reveal one of three perks with it: 
@@ -643,5 +631,3 @@ The true mischievous lord that you've met beforehand will finally take his right
   * Hold Breath - Moderately extends Dodge invincibility duration.
 
 At last, your journey through The New West is at an end. With three relics obtained, there's only three more to go, and both you and Zhu Bajie will be traveling to the darkened forests of the **Webbed Hollow** next. 
-
-New Thunderclap Temple Complete

@@ -3,12 +3,12 @@
 Water Curtain Cave is the second area of Chapter 6 of Black Myth: Wukong, while Birthstone is the final section of the game. After conquering a variety of bosses and obtaining Wukong's special armor, The Destined One is ready to complete his journey. Below, you'll find a Walkthrough of the final areas of Mount Huaguo as well as information on the bosses you'll encounter along the way. 
 
   * **Jump to a Section:**
-  * Water Curtain Cave**
-  * Return Path**
-  * Peak of Innocence**
-  * Birthstone - Heart of Birthstone**
-    * Stone Monkey
-    * The Great Sage's Broken Shell
+* **Water Curtain Cave**
+* **Return Path**
+* **Peak of Innocence**
+* **Birthstone - Heart of Birthstone**
+  - Stone Monkey
+  - The Great Sage's Broken Shell
 
 ## Water Curtain Cave
 
@@ -154,8 +154,6 @@ When the Stone Monkey's health bar has been depleted, he'll face off still again
 
 As it staggers back and breaks down into stone, electricity will form around it and the Great Sage's Broken Shell will appear. Despite going straight into this fight from the Stone Monkey, all your Spells, Gourd uses, and health will be replenished. 
 
-The Stone Monkey
-
 ### The Great Sage's Broken Shell
 
 Now comes your final challenge, and just like before, if you die, you'll be sent back to the Heart of Birthstone Keeper's Shrine. You won't need to fight the Stone Monkey again, however. 
@@ -216,13 +214,9 @@ Once the fight is over, The Great Sage's Broken Shell will be vanquished, and a 
 
 Each one will land inside the Destined One as the Great Sage crumbles, and his crown lands in the water. As the Old Monkey appears again, he'll place the crown upon the Destined One's head and finish the tale of Sun Wukong. 
 
-The Great Sage's Broken Shell
-
 Congratulations on completing Black Myth: Wukong! Now that you've finished the game, we'd recommend experiencing the secret ending by accessing Mount Mei in The Great Pagoda (Chapter 3). To see both endings, make sure you choose "Continue Journey" rather than "Enter a New Cycle" and then return to The Great Pagoda to access a secret area. 
 
 For more guidance on unlocking the secret ending and what it means for The Destined One, see our pages How to Unlock the Secret Ending (True Ending) and Endings Explained.
-
-Water Curtain Cave Complete
 
 ## Beginning a New Cycle
 

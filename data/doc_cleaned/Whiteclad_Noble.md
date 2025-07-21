@@ -61,4 +61,3 @@ Beyond that, the rest of the second phase of this fight will come down to antici
 ![Wukong Bamboo 54.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/48/Wukong_Bamboo_54.jpg)
 
 Defeat him to earn a **Jade Fang** , and he’ll concede, revealing he was only feigning loyalty to the king of this mountain to learn more. He’ll also drop a helpful nugget of wisdom as he departs, mentioning though the temple lies in cinders, the Elder’s soul endures, and asks if you’ve seen the three bells. 
-

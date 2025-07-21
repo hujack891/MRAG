@@ -67,9 +67,9 @@ In Chapter 4, the Destined One journeys to The Webbed Hollow, where a Violet Spi
 ##  Chapter 5 - Golden Child, Crimson Blood
 
   * **Woods of Ember**
-  * **Furnace Valley**
-  *  **Field of Fire**
-  *  **Chapter 5 Secret - Bishui Cave**
+* **Furnace Valley**
+* **Field of Fire**
+* **Chapter 5 Secret - Bishui Cave**
 
 ##  Chapter 6 - Unfinished
 

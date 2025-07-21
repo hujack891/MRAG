@@ -2,13 +2,13 @@
 
 The Bitter Lake is the third main region of Chapter 3 in The New West in Black Myth: Wukong. Below you'll find a guide for the Bitter Lake Region, including how to defeat Kang-Jin Star and the Cyan Loong on Turtle Island, and how to navigate the North Shore to unlock the Zodiac Village and defeat the Apramana Bat -- plus where to find the four Buddha Statues. 
 
-  *     * Yaoguai King - Kang-Jin Star
-  * **Turtle Island**
-    * Yaoguai King - Cyan Loong
-  * **North Shore of the Bitter Lake**
-    * Boss Fight - Chen Loong
-    * Yaoguai Chief - Apramana Bat
-  * **Precept Corridor**
+* Yaoguai King - Kang-Jin Star
+* **Turtle Island**
+  - Yaoguai King - Cyan Loong
+* **North Shore of the Bitter Lake**
+  - Boss Fight - Chen Loong
+  - Yaoguai Chief - Apramana Bat
+* **Precept Corridor**
 
 Leaving the Warding Temple where you learned the Ring of Fire Spell from the Ancient Master, you'll have to slide down a long slope to reach a mountaintop where a giant pair of cymbals have been wedged into a mountain peak. 
 
@@ -100,8 +100,6 @@ The good news is this attack is so powerful it will leave her incredibly drained
 
 As long as your patient to wait for the right moments to get in close and attack, and make sure you're using shock-quelling medicine, you'll be able to come out on top. Even as Kang-Jin Star tries to flee in her dragon form, the Destined One will see to it that she crashes into the large cymbals, freeing the prisoner inside! 
 
-Kang-Jing Star
-
 This imprisoned Pig Guai is none other than Zhu Bajie, who traveled with Sun Wukong during his adventures in Journey to the West! 
 
 ## Turtle Island
@@ -113,8 +111,6 @@ Back at the Turtle Island Shrine below where you faced Kang-Jin Star, be sure to
 ![Wukong Turtle 19X.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/f/f5/Wukong_Turtle_19X.jpg)
 
 There's many ledges along this ridge you can explore. Many of them have a couple of Frozen Corpses lying in wait, but be on the lookout for a small altar with a gold pot on display. You can open it and find another **Celestial Jade Lotus Pill** to increase your maximum health. 
-
-The New West Celestial Jade Lotus Pill
 
 ![Wukong Turtle 20.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/39/Wukong_Turtle_20.jpg)
 
@@ -196,8 +192,6 @@ This fight will largely come down to learning his moves enough that you can anti
 
 When he falls, you'll earn some Fine Gold Thread and another Loong Pearl, and can loot a nearby chest that appears for the Mountain-Shaking Claw material and Breath of Fire Soak for your Gourd. This new material will unlock the upgrade path for your Loongwreathe Staff into the Golden Loong Staff, but you'll need to find and defeat the last of the four Loongs to craft it. 
 
-Cyan Loong
-
 Once you've had your fill of exploring the "Turtle Island", you can head to the front where the small Pig Guai stands waiting, and interact with him for the turtle to finally make its landing at the next part of the Bitter Lake. 
 
 ## North Shore of the Bitter Lake
@@ -273,8 +267,6 @@ Remember that you also have Zhu Bajie as an ally in this fight, and while he won
 Since Chen Loong doesn't have a whole lot of health or armor, use everything in your arsenal to keep him staggered and unable to hit back whenever possible, and you can rush him down before the fight goes on too long and you start taking double damage too often. 
 
 When he's defeated, Chen Loong will throw a bit of a tantrum, and you'll find he's not such a bad guy. He also seems to know Xu Dog, and claims only one of his celestial resurrection pills can ease his pains. 
-
-Chen Loong
 
 ![Wukong Bitter 17.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d5/Wukong_Bitter_17.jpg)
 
@@ -384,8 +376,6 @@ Zhu Bajie can be a big boon for this fight, as the bat will largely focus on you
 
 Once defeated, you'll gain a journal entry, experience, and some materials for your victory, but the Apramana Bat itself will retreat, and fly off into the distance. This won't be the last you see of it... 
 
-Apramana Bat
-
 ![Wukong Bitter 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/Wukong_Bitter_43.jpg)
 
 Now that the bat is gone, return to the skull of the Serpent General and interact with it. You'll then see Turtle General look over and mourn his fallen friend, causing a giant glowing green tear to fall. 
@@ -405,8 +395,6 @@ Head up the path toward a series of stone stairs, but be ready to deal with a ne
 As you head up the stone stairs, look for a small pathway on the left where Zhu Bajie will point out a small enclosure. Be ready to deal with both a Falcon Fan-Maker and Cyan Bat. Shut down the Falcon with Immobilize so you can quickly remove the bat, and then focus your attention on defeating the stronger falcon enemy. 
 
 With both of them down, you'll find that they were guarding a **Luojia Fragrant Vine** , which you can now bring back to the Zodiac Village instead of going all the way back to Chapter 1! 
-
-North Shore of the Bitter Lake Luojia Fragrant Vine
 
 ![Wukong Bitter 47.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/89/Wukong_Bitter_47.jpg)
 
@@ -435,8 +423,6 @@ From the Precept Corridor Shrine, you'll be able to traverse a new path across a
 ![Wukong Bitter 53.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/3e/Wukong_Bitter_53.jpg)
 
 Along this road are several important things to take note of: There's a lone Wolf Guardian patrolling this road, but you can also find a **Meditation Spot** just off to the left in front of a statue where two Frozen Corpses can come alive to attack. 
-
-The Statue, Precept Corridor Meditation Spot
 
 Just beyond the Meditation Point, look at the base of the fallen stone slab blocking your path, and you'll find that someone has placed an altar in front of it, which a small **Treasure Chest** holding the formula for the Enhanced Tiger Subduing Pellets, along with a few free samples! 
 
@@ -503,5 +489,3 @@ Deal with any shambling Frozen Corpses you'll find along this ledge, and keep he
 ![Wukong Bitter 67.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Wukong_Bitter_67.jpg)
 
 As you climb up, you'll find yourself right in front of the Buddha Statue in the cliffs, and an opening has appeared right through his belly button! You now need only shimmy through the opening, and take the steep pathway up to leave the Bitter Lake behind and start finding the entrance to the **Valley of Ecstacy**. 
-
-Bitter Lake Complete

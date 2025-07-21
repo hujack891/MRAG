@@ -25,4 +25,3 @@ This is an optional boss, and with him being accessible so early in the game, yo
 ![Wukong Wolves 33.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/91/Wukong_Wolves_33.jpg)
 
 With the Transformation, you can equip it and switch to it at any point from the Shrine. Simply choose 'Reignite The Sparks' and 'Set Spells'. 
-

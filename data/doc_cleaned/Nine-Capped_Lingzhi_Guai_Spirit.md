@@ -2,9 +2,9 @@
 
 **Nine-Capped Lingzhi Guai** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Nine-Capped Lingzhi Guai offers up its Spirit for you to absorb, allowing you to use some of its powers for a short time. On this page, we will go over everything you need to know about Nine-Capped Lingzhi Guai, including where to find it, how to defeat it, and what power its Spirit gives you. 
 
-  * Nine-Capped Lingzhi Guai Location
-  * Nine-Capped Lingzhi Guai Fight
-  * Nine-Capped Lingzhi Guai Spirit
+* Nine-Capped Lingzhi Guai Location
+* Nine-Capped Lingzhi Guai Fight
+* Nine-Capped Lingzhi Guai Spirit
 
 ![Nine-Capped .jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7c/Nine-Capped_.jpg)
 
@@ -28,10 +28,4 @@ Once defeated, the Nine-Capped Lingzhi Guai provides both its Spirit and the Ear
   * Equipped Effect: Moderately reduces the Mana cost of Mysticism Spells. 
 
 The Nine-Capped Lingzhi Guai's Spirit allows you to take his form and don his cap. Upon doing so, little red mushrooms will appear in the ground around you, bursting and dealing Poison Damage to nearby enemies. Channeling this Spirit also reduces the Mana cost for Mysticism Spells. Mysticism Spells include Immobilize and Ring of Fire. Immobilize is the best skill in the game, so if you use it a lot, The Nine-Capped Lingzhi Guai could be a great Spirit for you to channel. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

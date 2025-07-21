@@ -5,14 +5,14 @@ There are a huge number of skills to unlock in Black Myth Wukong, and it can be 
 **Jump to:**
 
   * How to Unlock Skills in Black Myth: Wukong
-  * How to Understand the Early Game Skills Trees
-  * How to Understand the Mid-to-Late Game Skills Trees
-  * Best Foundation Skills to Unlock
-  * Best Staff Stances Skills to Unlock
-  * Best Mysticism Skills to Unlock
-  * Best Alteration Skills to Unlock
-  * Best Strand Skills to Unlock
-  * Best Transformations Skills to Unlock
+* How to Understand the Early Game Skills Trees
+* How to Understand the Mid-to-Late Game Skills Trees
+* Best Foundation Skills to Unlock
+* Best Staff Stances Skills to Unlock
+* Best Mysticism Skills to Unlock
+* Best Alteration Skills to Unlock
+* Best Strand Skills to Unlock
+* Best Transformations Skills to Unlock
 
 ## How to Unlock Skills in Black Myth: Wukong
 
@@ -62,7 +62,7 @@ Skill Name | Description
 **Effortless Finisher**|  More Focus when the Second move on Light Attack combo hits an enemy   
 **Punishing Downpour**|  Light Attack Finisher deals extra Damage after six successful hits   
 **Composure**|  Dodging doesn't interrupt Light Attack Combo   
-  
+
 Foundation Skills are full of useful abilities and we'd recommend focusing your Sparks in this category, especially at the start of the game. 
 
 Robust Constitution and Rampant Vigor will give you boosts to your health and stamina respectively, helping you in those early fights. Similan Agility works well with Rampant Vigor, reducing the stamina cost of dodging, while you're already benefiting from an increase to max stamina. Being able to dodge consistently and worry less about stamina will get you out of some sticky situations. 
@@ -80,7 +80,7 @@ Skill Name | Description
 **Invigoration**|  Grants massive Focus when performing Resolute Strike   
 **Exhilaration**|  Increases the Health recovery when consuming a Focus Point based on talent level   
 **Versatility**|  Increases damage of Varied Combos   
-  
+
 The skills you choose in this category will depend on your stance preference but we'd argue that Smash Stance is the best. With the suggested skills, you'll unlock a new Heavy Attack at the end of a Light Attack combo. Adding Invigoration to the chain of Resolute Counterflow and Skyfall Strike will ensure you're building plenty of focus while completing those combos. 
 
 The aim for the Staff Stances category is to get 20 points in there at least to eventually unlock Focus Attack IV and have 4 Focus Points you can build up at a time. 
@@ -93,7 +93,7 @@ Skill Name | Description
 **Evanescence**|  When enemies attack after being Immobilized, the duration increases along with the damage they take   
 **Raging Flames**|  Focus generates each second you're within the Ring of Fire   
 **Consolidation**|  Slowly recover health while in the Ring of Fire.   
-  
+
 You'll unlock Mysticism early on and be able to use Immobilize to stop enemies in their tracks. Skills like Stagnation, where you extend the duration of Immobilization the next time you use the spell are invaluable especially as they stack. 
 
 Team this with Evanescence and you can extend the Immobilization once again, but also increase the damage they take once they try to attack. The goal for this category should be to try and do as much damage as possible and have the spell last as long as you can. 
@@ -111,7 +111,7 @@ Skill Name | Description
 **Rock Mastery**|  Reduces the cooldown of the spell   
 **Ironclad**|  Damage Reduction given after a Deflection   
 **Bold Venture**|  Recover Mana when successfully Deflecting |   
-  
+
 Alteration consists of spells like Cloud Step and Rock Solid. For Cloud Step, we'd suggest focusing on skills such as Concealed Observation and Thunder Strike. These will increase the damage you can do when performing an Unveiling Strike, where you can take an enemy by surprise. 
 
 ![Best Skills to Unlock \(4\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/45/Best_Skills_to_Unlock_%284%29.png)
@@ -124,7 +124,7 @@ Skill Name | Description
 ---|---  
 **Harmony**|  Gain Focus for each attack by Duplicates   
 **Volition**|  Duplicates can use other spells like Ring of Fire, Rock Solid, and Immobilize   
-  
+
 You'll want to spend Sparks increasing the duration, health, and attack power of your Duplicates first and then try to make them as useful as possible. 
 
 To do this, we'd suggest getting Harmoy and Volition. This will allow them the freedom to perform spells and have an effect on enemies, and also grant you Focus while they attack. 
@@ -136,7 +136,7 @@ Skill Name | Description
 **Moon Roam**|  Damage is increased after a Perfect Dodge   
 **Evergreen**|  Might decay is reduced   
 **Ferocious Form**|  Attack is increased while Transformed   
-  
+
 Transformations add some spice to combat and can be hugely beneficial, especially as they have completely different health and status bars to your character. 
 
 ![Best Skills to Unlock \(2\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bc/Best_Skills_to_Unlock_%282%29.png)

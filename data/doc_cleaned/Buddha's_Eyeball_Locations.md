@@ -21,15 +21,11 @@ The first Buddha statue with the Buddha's Eyeball is easy to find in Black Myth:
 
 ![Buddhas Eyeball 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/e/ec/Buddhas_Eyeball_1.jpg)
 
-Buddha's Eyeball 1
-
 ### Black Myth: Wukong Buddha's Eyeball 2 Location
 
 The next Buddha's statue can be found along the right path in Squall Hideout. Along the right side of the area, you will find some rafters with Blazebones enemies. Pass the chest, head up, and kill them. Interact with the Buddha statue at the top. 
 
 ![Buddhas Eyeball 4.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Buddhas_Eyeball_4.jpg)
-
-Buddha's Eyeball 2
 
 ### Black Myth: Wukong Buddha's Eyeball 3 Location
 
@@ -41,15 +37,11 @@ Once you reach the statue on your left, take a left and head towards the shaded 
 
 ![Buddhas Eyeball 7.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Buddhas_Eyeball_7.jpg)
 
-Buddha's Eyeball 3
-
 ### Black Myth: Wukong Buddha's Eyeball 4 Location
 
 Head back to the Shrine once again and take the path through the centre of Squall Hideout. You will spot the Buddha's Eyeball statue along it. 
 
 ![Buddhas Eyeball 5.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/7a/Buddhas_Eyeball_5.jpg)
-
-Buddha's Eyeball 4
 
 ### Black Myth: Wukong Buddha's Eyeball 5 Location
 
@@ -59,21 +51,15 @@ A little further on, on the left side of the area, you will see a covered area o
 
 Continue up the hill and you will find the Mother of Stones boss. Either fight her, or leave her for later. Take a right where the light is shining through the cave at the top, and you will find the Buddha statue with the eyeball on the cliff edge. 
 
-Buddha's Eyeball 5
-
 ![Buddhas Eyeball 9.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a6/Buddhas_Eyeball_9.jpg)
 
 ### Black Myth: Wukong Buddha's Eyeball 6 Location
 
 The final Buddha's Eyeball statue can be found directly on your left from the Rockrest Flat shrine in Fright Cliff. It is practically impossible to miss. 
 
-Buddha's Eyeball 6
-
 ![Buddhas Eyeball 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/76/Buddhas_Eyeball_10.jpg)
 
 For a more detailed run-through of the entirety of Yellow Wind Ridge, check out our walkthrough. 
-
-Buddha's Eyeball
 
 ## Where to Use the Buddha's Eyeball in Black Myth: Wukong
 

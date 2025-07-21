@@ -27,4 +27,3 @@ When the lighting attacks begin, get as far away from them as possible. He will 
 ![Foothills Walkthrough \(71\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Foothills_Walkthrough_%2871%29.png)
 
 When he gets back up, use the Plantain Fan to stagger him and remove the lightning attacks and then folow up. 
-

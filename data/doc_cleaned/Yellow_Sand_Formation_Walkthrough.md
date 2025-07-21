@@ -3,12 +3,12 @@
 The Yellow Sand Formation is final main region of Chapter 2 in the Yellow Wind Ridge of Black Myth: Wukong. Below you'll find a guide both for exploring the optional area of the Windrest Hamlet and the Tiger's Acolyte, as well as the final main boss fight against the Yellow Wind Sage. 
 
   * **Jump to A Section:**
-  * **Windrest Bridge**
-  * **Windrest Hamlet**
-    * Yaoguai Chief - Tiger's Acolyte
-  * **Windseal Gate**
-    * Yaoguai Chief - Gore-Eye Daoist
-    * Yaoguai King - Yellow Wind Sage
+* **Windrest Bridge**
+* **Windrest Hamlet**
+  - Yaoguai Chief - Tiger's Acolyte
+* **Windseal Gate**
+  - Yaoguai Chief - Gore-Eye Daoist
+  - Yaoguai King - Yellow Wind Sage
 
 The Yellow Wind Formation is the final sub-region you’ll need to explore in Chapter 2 of Black Myth Wukong to reach the Chapter Boss, but also includes a large optional village area of Windrest, and several paths leading to the boss from sealed stone doors. With multiple entrances and exits to this area, we’ll start with the first Shrine on the other side of the Crouching Tiger Temple. 
 
@@ -156,8 +156,6 @@ If your health is dropping fast, remember you can use a Transformation Spell to 
 
 When the Tiger’s Acolyte falls, he’ll drop a curious Key Item, the **Old-Rattle Drum** , as well as leaving behind the Tiger’s Acolyte Spirit to absorb. The child’s toy actually serves an important purpose to unlock another boss. You’ll need it to commune with a child’s spirit in various spots around the Yellow Wind Ridge, with the first being a short backtrack away. 
 
-Tiger's Acolyte
-
 ![Wukong Rattle 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg)
 
 Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses. A visual cue will appear along with the voice of a child beckoning you, and you’ll be able to use the Rattle-Drum in front of the house. Be warned, as doing so will provoke all the nearby corpses to attack you, but you’ll also get some interesting dialogue from the child. 
@@ -278,8 +276,6 @@ Try to keep him boxed in if possible — getting his back stuck to a wall can se
 
 Defeating him will earn you his Gore-Eye Daoist Spirit to absorb, and you can also help yourself to the second Luojia Fragrant Vine in this chapter to boost your gourd yet again! 
 
-Gore-Eye Daoist
-
 Beyond a Lingzhiling hiding in the corner of this area, there’s not much else, so with the miniboss defeated you can find a path heading down past a green Wisp to absorb, leading you back to the Windseal Gate. This is the same spot you slid down to after defeating the Stone Vanguard, and gained the Pluck of Many spell, and can now open the gate with the Sterness of Stone and Keeness of Tiger. 
 
 ![Wukong Yellow 48.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/46/Wukong_Yellow_48.jpg)
@@ -293,8 +289,6 @@ To the left, you can find a path leading to a grotto and a familiar face, the Wi
 ![Wukong Yellow 50.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/69/Wukong_Yellow_50.jpg)
 
 He’ll have a few more wise words to impart (hinting at the existence of the Loong Scale we picked up in the Valley of Despair), and you can also find a Meditation Spot near him to gain one last free Skill Point. 
-
-The Grotto, Yellow Wind Meditation Spot
 
 ![Wukong Yellow 51.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/83/Wukong_Yellow_51.jpg)
 
@@ -399,8 +393,6 @@ A fully charged heavy thrust with a few focus points built up can also usually s
 
 When the giant rat sage finally falls to your weapon, an unexpected twist will happen as the owner of the head suddenly appears to claim that which had been taken. 
 
-Yellow Wind Sage
-
 As thanks for reuniting the head with its owner, you’ll be able to claim the next of the Great Sage’s Relic: Fuming Ears. Like the other Relic, you can select one of three passive talents to awaken (and can re-select them later in the respec menu if you wish): 
 
   * **All Ears** \- Slightly extends invincibility duration of the first move of all Varied Combos.
@@ -408,5 +400,3 @@ As thanks for reuniting the head with its owner, you’ll be able to claim the n
   * **Whistling Wind** \- Temporarily increases Attack after a Perfect Dodge.
 
 With your business concluded in Yellow Wind Ridge, you can enjoy the scene and tapestry that unfold after the battle, and then begin your journey into **Chapter 3: White Snow, Ice Cold**. 
-
-Yellow Sand Formation Complete

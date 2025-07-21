@@ -125,4 +125,3 @@ When following this strategy, you’ll quickly burn through the rest of Fuban’
 ![Wukong Sahali 43.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5b/Wukong_Sahali_43.jpg)
 
 When he’s finally out of health, the battle will be won, and the Yellow Wind Sage will valiantly land the final blow. It’s a shame we’ll have to beat him up in the future. For your part in the battle, you’ll earn a Sky-Piercing Horn weapon material, and a new Vessel: The Wind Tamer! 
-

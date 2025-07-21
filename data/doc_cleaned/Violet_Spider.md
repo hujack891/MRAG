@@ -77,4 +77,3 @@ The good news is this phase doesn't last forever, but you will need to survive i
 Her eyes will stop glowing after you've been mesmerized once, so once the room is back to normal, continue to dodge her projectiles and get your hits in after her violent stabs and slam attacks. 
 
 When the queen of spiders finally falls to your assault, she'll beat a hasty retreat to return to wherever she's hidden the Sage's Relic. You'll need to follow quickly, because a literal spider army will appear to give chase! 
-

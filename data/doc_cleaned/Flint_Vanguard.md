@@ -35,4 +35,3 @@ Generally, you want to stick close to the Vanguard, dodge the punches, and build
 ![B1 19 09 2024 16 00 13 copy.png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/32/B1_19_09_2024_16_00_13_copy.png)
 
 When the Flint Vanguard is down, be sure to collect the Flint Vanguard Spirit it drops. There's also a green Wisp you can pick up, that's just to the left of the clearing. 
-

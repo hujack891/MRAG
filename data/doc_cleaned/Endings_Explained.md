@@ -2,7 +2,7 @@
 
 Black Myth: Wukong has two endings and you can experience both in one playthrough if you complete them in the right order. One is the ending that happens naturally at the end of the game but is considered the bad ending, while the other is a secret ending only achieved by finding and completing several hidden areas and a side quest. On this page, we'll detail what both of the endings mean for The Destined One. 
 
-## Spoiler Warning
+### Spoiler Warning
 
 As we discuss the endings of the game, this page will naturally contain spoilers. Just in case you've ended up on this page by accident, now is your warning and your chance to click away!
 

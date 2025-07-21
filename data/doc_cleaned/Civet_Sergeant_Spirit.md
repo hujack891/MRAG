@@ -3,8 +3,8 @@
 The **Civet Sergeant** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Civet Sergeant offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Civet Sergeant, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Civet Sergeant Location
-  * Civet Sergeant Fight
-  * Civet Sergeant Spirit
+* Civet Sergeant Fight
+* Civet Sergeant Spirit
 
 ![Civet Fight.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/61/Civet_Fight.jpg)
 
@@ -28,10 +28,4 @@ The Civet Sergeant fight is no walk in the park. There are around five Civet Ser
   * Equipped Effect: Slightly increases Attack.
 
 The Civet Sergeant's Spirit allows you to embody him long enough to hurl two blades straight into your foe's chest. This is a pretty decent attack that's further bolstered by the Civet Sergeant's equipped effect that increases your attack power. Having more attack power is always helpful in Black Myth: Wukong, making the Civet Sergeant a worthwhile Spirit to pour resources into upgrading. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

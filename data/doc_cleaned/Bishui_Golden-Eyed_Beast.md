@@ -42,8 +42,6 @@ When you enter the arena, on the other side, you'll see another frozen-over arch
 
 Head up the stairs in this section and on the right, you'll be able to harvest a Fire Date. On the left, you can find an Awaken Wine Worm, and straight up ahead before the stairs, you'll see a green Wisp on the left. 
 
-Bishui Cave Awaken Wine Worm
-
 ![Bishui Cave Walkthrough \(43\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/da/Bishui_Cave_Walkthrough_%2843%29.png)
 
 Continue up the stairs, and you'll see the beast leaping around the rooftops. Go along the corridor, where you'll come to a frozen room with a doorway that has fire blocking it. 

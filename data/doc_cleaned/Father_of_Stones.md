@@ -35,4 +35,3 @@ The way to approach this fight is to build up your combos and then land a finish
 ![Woods Ember Walkthrough \(76\).png](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ab/Woods_Ember_Walkthrough_%2876%29.png)
 
 When you've bested him, collect the Father of Stones Spirit he leaves behind. 
-

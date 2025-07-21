@@ -10,8 +10,6 @@ You’ll first meet the Shen Monkey halfway into Chapter 1 in the Bamboo Grove o
 
 Heading down the path from the shrine, you’ll encounter a Snake Patroller harassing a monkey hanging from a ceiling, and requesting your aid. Defeat the snake, and the **Shen Monkey** will offer his thanks, and usher you into a nearby cave where he resides. 
 
-Shen Monkey's Quest
-
 ## Shen Monkey Upgrades and Shop
 
 ![20240815103517 1.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b6/20240815103517_1.jpg)
@@ -32,8 +30,11 @@ Travel back to the Xu Dog in the Cellar below the Crouching Tiger Temple, and ta
 As a reward, Chen Loong will give you a special scroll to visit the Zodiac Village, where several merchants will now permanently reside, including the Shen Monkey. Since he stays at this location, be sure to visit him often to keep on top of upgrades and new purchases: 
 
 Chapter 1 Stock   
-Celestial Lotus Seeds (Soak) - 2400 Will | | |   
-Chapter 3 Stock   
-Jade Lotus Gourd - 7200 Will | Awaken Wine Worm - 1500 Will | Luojia Fragrant Vine - 2000 Will | Thunderbolt Horn (Soak) - 3600 Will   
-Chapter 4 Stock   
-Pinebrew (Drink) - 6000 Will | Awaken Wine Worm - 2500 Will | Luojia Fragrant Vine - 3000 Will | 
+| Chapter 1 Stock                          | Chapter 1 Stock              | Chapter 1 Stock                  | Chapter 1 Stock                     |
+| ---------------------------------------- | ---------------------------- | -------------------------------- | ----------------------------------- |
+| Celestial Lotus Seeds (Soak) - 2400 Will |                              |                                  |                                     |
+| Chapter 3 Stock                          | Chapter 3 Stock              | Chapter 3 Stock                  | Chapter 3 Stock                     |
+| Jade Lotus Gourd - 7200 Will             | Awaken Wine Worm - 1500 Will | Luojia Fragrant Vine - 2000 Will | Thunderbolt Horn (Soak) - 3600 Will |
+| Chapter 4 Stock                          | Chapter 4 Stock              | Chapter 4 Stock                  | Chapter 4 Stock                     |
+| Pinebrew (Drink) - 6000 Will             | Awaken Wine Worm - 2500 Will | Luojia Fragrant Vine - 3000 Will |                                     |
+

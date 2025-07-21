@@ -45,4 +45,3 @@ Otherwise, you can also try keeping your distance and strafing during initial po
 When the Amourworm is defeated, you'll gain a Proto-Amourworm Key Item. It may seem mysterious, but it does have a use. Bring it to Chen Loong at the Zodiac Village, and then return later to find the tiny Amourworm in a little basket outside his shack. You'll need to feed the Proto-Amourworm three Rice Cocoons, which are randomly found by breaking apart small cocoons in the Webbed Hollow. 
 
 Once all three have been given, rest and return to find a Spirit has replaced the little worm, and you'll be able to absorb the Elder Amourworm Spirit! 
-

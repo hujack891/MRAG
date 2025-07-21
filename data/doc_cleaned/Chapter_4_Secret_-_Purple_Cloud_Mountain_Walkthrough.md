@@ -3,14 +3,14 @@
 The Purple Cloud Mountain is a Secret Area found in Chapter 4's Webbed Hollow of Black Myth Wukong. Below you'll find a guide to accessing the mountain by defeating the Venom Daoist, and how to complete Hong Yi the Snake Guai's quest to defeat the Daoist Mi and Duskveil, as well as the formidable Scorpionlord. 
 
   * **Jump to a Section:**
-  * How to Access Purple Cloud Mountain
-  * **Valley of Blooms**
-  * **Bounds of Deity's Abode**
-    * Yaoguai King - The Scorpionlord
-  * **Petalfall Hamlet**
-    * Yaoguai Chief - Daoist Mi
-  * **Cloudnest Peak**
-    * Yaoguai King - The Duskveil
+* How to Access Purple Cloud Mountain
+* **Valley of Blooms**
+* **Bounds of Deity's Abode**
+  - Yaoguai King - The Scorpionlord
+* **Petalfall Hamlet**
+  - Yaoguai Chief - Daoist Mi
+* **Cloudnest Peak**
+  - Yaoguai King - The Duskveil
 
 This Chapter 4 Secret can only be accessed by finding and defeating the Venom Daoist in two different locations, and will transport you to a different location to fight a secret Yaoguai King and repair a Vessel that is instrumental in defeating the Hundred-Eyed Daoist Master. 
 
@@ -57,10 +57,12 @@ Head across the bridge to the right and grab a green Wisp, and go through the ar
 Head along the path to the right to reach the Valley of Blooms Shrine. As with previous Secret Areas, this one has its own separate shop where you can purchase things not found in the rest of the Webbed Hollow, which can help you toward crafting better weapons and armor: 
 
 Purple Cloud Mountain Shrine Shop   
-Tiger Subduing Pellets (x3) - 360 Will | Antimiasma Powder (x6) - 180 Will | |   
-Cold Iron Leaves (x2) - 900 Will | Fine Gold Thread (x2) - 3000 Will | Refined Iron Sand (x4) - 1200 Will | Gold Tree Core (x1) - 4500 Will   
-Gentian (x5) - 90 Will | Tree Pearl (x3) - 180 Will | Jade Lotus (x3) - 90 Will | Snake-Head Mushroom (x3) - 120 Will   
-  
+| Purple Cloud Mountain Shrine Shop      | Purple Cloud Mountain Shrine Shop | Purple Cloud Mountain Shrine Shop  | Purple Cloud Mountain Shrine Shop   |
+| -------------------------------------- | --------------------------------- | ---------------------------------- | ----------------------------------- |
+| Tiger Subduing Pellets (x3) - 360 Will | Antimiasma Powder (x6) - 180 Will |                                    |                                     |
+| Cold Iron Leaves (x2) - 900 Will       | Fine Gold Thread (x2) - 3000 Will | Refined Iron Sand (x4) - 1200 Will | Gold Tree Core (x1) - 4500 Will     |
+| Gentian (x5) - 90 Will                 | Tree Pearl (x3) - 180 Will        | Jade Lotus (x3) - 90 Will          | Snake-Head Mushroom (x3) - 120 Will |
+
 ![Wukong PurpleCloud 3.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Wukong_PurpleCloud_3.jpg)
 
 The area before you is larger than you might expect, and a little confusing to navigate at first. One of two large peaks lies across the bridge near the Shrine, with paths to the left and right. 
@@ -102,8 +104,6 @@ You'll find another Lushleaf among the bushes here by a Tree Pearl, with multipl
 As you might expect, this one will take a lot longer to kill with its strengthened spirit, so expend your big hits and spirit attacks, making sure to stop and take out whatever minions he summons. When he finally falls, you'll get the Verdant Glow Spirit, which allows you to heal rather than invoke an attack. 
 
 Be sure to also look at the normal tree near where the Lushleaf was meditating. It has a **Luojia Fragrant Vine** wrapped around it that you can claim. 
-
-Purple Mountain Luojia Fragrant Vine
 
 ## Bounds of Deity's Abode
 
@@ -187,8 +187,6 @@ You may also want to invest in using Transformation Spells like Hoarfrost or Umb
 
 Expect the fight to take a lot of practice, as one wrong step can easily remove a ton of health or leave you poisoned, and you may not survive the time it takes to cure it. Once the fearsome foe is finally defeated, you'll gain a wealth of treasures, including a Stained Jade Gourd, Sky-Piercing Horn, and Deathstinger Material to complete finally complete the Insect Armor Set. 
 
-The Scorpionlord
-
 ![Wukong PurpleCloud 27.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_27.jpg)
 
 You can also now loot the **Treasure Chest** he was guarding, though it may only contain a rare consumable like a single Loong Aura Amplification Pellet. 
@@ -200,8 +198,6 @@ Exit the area through the top path, and note that you can find a slope up to a s
 ![Wukong PurpleCloud 29.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/58/Wukong_PurpleCloud_29.jpg)
 
 At the end of the rope bridge, the central peak has the final **Meditation Spot** you can interact with to gain a free Skill Point. 
-
-The Ledge, Purple Cloud Mountain Meditation Spot
 
 ![Wukong PurpleCloud 30.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/85/Wukong_PurpleCloud_30.jpg)
 
@@ -234,8 +230,6 @@ There's a lengthy moat nearby leading under a bridge, but aside from several Cro
 ![Wukong PurpleCloud 36.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/06/Wukong_PurpleCloud_36.jpg)
 
 Near the man who gave you the quest, there's a large stone wall with an entrance through it, but be sure and turn left as you pass through to find stairs leading up to a high ledge. Here you'll find several pots -- one of which glows and holds an **Awaken Wine Worm** inside! 
-
-Purple Cloud Mountain Awaken Wine Worm
 
 ![Wukong PurpleCloud 37.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c1/Wukong_PurpleCloud_37.jpg)
 
@@ -310,8 +304,6 @@ The one big new move that Daoist Mi can use in this form is spewing a lot more p
 ![Wukong PurpleCloud 52.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Wukong_PurpleCloud_52.jpg)
 
 With Antimiasma powder on hand, the Daoist Mi won't last long against your superior skills. When you finally defeat him, the snake woman will appear and take the egg back from the fallen Daoist, before giving it to you, in the hopes you can make true use of its power. You'll gain the **Violet Hail Transformation Spell** , allowing you to temporarily turn into a Worm Practitioner yourself and become immune to poison! 
-
-Daoist Mi
 
 ## Cloudnest Peak
 
@@ -411,12 +403,8 @@ The good news is that his loud crow leaves enough time for you to interrupt the 
 
 Once you know where and when his sword will appear, the rest of the fight will come down to waiting for openings after his big attack to hit him hard, using your Spirit Attacks and Transformation Spells in this phase to speed things up. With all of his attacks being fairly visible to spot coming, it shouldn't take too long to get the hang of and send this demon rooster to the abyss. 
 
-The Duskveil
-
 ![Wukong PurpleCloud 70.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/ae/Wukong_PurpleCloud_70.jpg)
 
 After the Yaoguai King falls, Hong Yi the snake woman will appear to thank you for your part in putting The Duskveil to rest. The broken needle you pull out of Zhu Bajie will appear -- much to the surprise of Hong Yi -- who will offer to repair it, and grant you the **Weaver's Needle Vessel**. 
 
 This new Vessel can aid you greatly in defeating the final boss of Chapter 4's Temple of Yellow Flowers. You'll also gain a **Double-Combed Rooster Blood Soak** for your Gourd, and both Kun Steel and The Duskveil's Horn, which will finally allow you to complete both the Iron-Tough Armor Set, and craft the Golden Loong Staff! 
-
-Purple Cloud Mountain Complete

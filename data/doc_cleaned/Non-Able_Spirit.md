@@ -2,9 +2,9 @@
 
 **Non-Able** is a foe that you will face off against in Black Myth: Wukong. Once defeated, Non-Able offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about Non-Able, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
-  * Non-Able Location
-  * Non-Able Fight
-  * Non-Able Spirit
+* Non-Able Location
+* Non-Able Fight
+* Non-Able Spirit
 
 ![Non-Able.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/66/Non-Able.jpg)
 
@@ -28,10 +28,4 @@ The timing of Non-Able's punches follows the same pattern as his kicks. Watch cl
   * Equipped Effect: Slightly increases Attack, Critical Hit Chance, and Critical Damage, but massively reduces Maximum Mana. 
 
 Non-Able's Spirit Power is a very situational one. It allows you to take the form of Non-Able and deliver a flurry of blows on your foe. The attack itself is fine, but the equipped effect is quite harsh and will render Non-Able more or less unusable, depending on your playstyle. Non-Able's equipped effect raises your Attack, Critical Hit Chance, and Critical Damage but massively reduces your Maximum Mana. And when they say massively, they mean it. If you use magic a lot, Non-Able might not be a good Spirit for you. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

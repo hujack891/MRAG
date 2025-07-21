@@ -3,8 +3,8 @@
 The **Mad Tiger** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Mad Tiger offers up his Spirit for you to absorb, allowing you to use some of his powers for a short time. On this page, we will go over everything you need to know about the Mad Tiger, including where to find him, how to defeat him, and what power his Spirit gives you. 
 
   * Mad Tiger Location
-  * Mad Tiger Fight
-  * Mad Tiger Spirit
+* Mad Tiger Fight
+* Mad Tiger Spirit
 
 ![Mad Tiger.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/7/77/Mad_Tiger.jpg)
 
@@ -54,10 +54,4 @@ Stock up on all medicines before heading into the fight to boost your stats, and
 The Mad Tiger's Spirit allows you to take the form of the tiger and release an earth-shattering roar that deals damage and causes nearby enemies to fly backward. This is an excellent move to pull out if you're getting overwhelmed and need a bit of space on the battlefield but also want to deal some damage while you're getting it. 
 
 The equipped effect is an all-or-nothing sort of deal that isn't for the faint of heart. It moderately increases your Attack at the expense of a massive chunk of your Health. This effect is situational, and its success depends on your ability to avoid damage. Thankfully, you will have had plenty of practice with Perfect Dodging after defeating the Mad Tiger. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

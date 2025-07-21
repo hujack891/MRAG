@@ -35,4 +35,3 @@ Finally, he can unleash a tongue attack that sweeps back and forth with a large 
 ![Wukong Bamboo 19.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a5/Wukong_Bamboo_19.jpg)
 
 When Baw-Li-Guhh-Lang finally falls, he’ll leave behind his purple Spirit and a Tadpole Material. Using your new Blessed Gourd upgrade, you can now absorb the Spirit and add Baw-Li-Guhh-Lang’s power to your own, and temporarily transform to unleash a tongue attack against several enemies. If you decide to commit to cultivating his spirit and upgrading its damage potential, you can use the Tadpole he dropped to further upgrade it later on. 
-

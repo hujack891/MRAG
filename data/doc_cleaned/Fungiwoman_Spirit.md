@@ -3,8 +3,8 @@
 The **Fungiwoman** is a foe that you will face off against in Black Myth: Wukong. Once defeated, the Fungiwoman offers up her Spirit for you to absorb, allowing you to use some of her powers for a short time. On this page, we will go over everything you need to know about the Fungiwoman, including where to find her, how to defeat her, and what power her Spirit gives you. 
 
   * Fungiwoman Location
-  * Fungiwoman Fight
-  * Fungiwoman Spirit
+* Fungiwoman Fight
+* Fungiwoman Spirit
 
 ![Funghi Woman.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d7/Funghi_Woman.jpg)
 
@@ -30,10 +30,4 @@ This is bad enough already, but she also has an attack where she shoots spores o
   * Equipped Effect: Significantly increases Maximum Health but considerably reduces Maximum Stamina. 
 
 The Fungiwoman's Spirit allows you to take the form of the Fungiwoman and float through the air, releasing spores as you go. These spores can potentially replenish your health as well as deal massive damage to your foes. Since you float through the air for the majority of the attack, you can also avoid taking damage from moves that can't reach you. The equipped effect increases your Health while slightly decreasing your Stamina. Depending on your playstyle, this might be a fair exchange. 
-
-Check out our other helpful Black Myth: Wukong guides! 
-
-  * How-To Guides
-  * Key Items
-  * Walkthrough
 

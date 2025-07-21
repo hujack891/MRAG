@@ -26,15 +26,8 @@ def clean_folder(folder_path):
         except Exception as e:
             logger.error(f"删除失败: {file_path}，错误信息: {e}")
 
-def remove_play_lines(content):
-    """删除只包含'Play'的行"""
-    lines = content.split('\n')
-    # 过滤掉只包含'Play'的行（去除前后空白后判断）
-    filtered_lines = [line for line in lines if line.strip() != 'Play']
-    return '\n'.join(filtered_lines)
-
 def remove_text_links(content):
-    """删除文本链接的简化处理：
+    """删除文本链接：
     1. 匹配到文本链接后将括号内容删掉
     2. 将[]去掉，并且添加一个空格
     3. 检测到4个连续*，则直接删掉
@@ -187,56 +180,25 @@ def remove_markdown_hr(content: str) -> str:
 
     return '\n'.join(cleaned_lines)
 
-def clean_content(content):
-    # 获得该文件的一级标题
-    lines = content.split('\n')
-    one_line = lines[0]
-    stripped = one_line.strip()
-    if stripped.startswith("# "):
-        current_h1 = stripped[2:].strip()    
-    # 遍历全部行，如果一行中只有标题的内容则删除该行
-    # 删除与 current_h1 相同的行
-    lines = [line for line in lines if line.strip() != current_h1]
-    content = '\n'.join(lines)
-    return content
-
 def clean_markdown_content(content):
     """
     对markdown内容进行完整的清理
     """
-    # 删除只包含'Play'的行
-    content = remove_play_lines(content)
-    
-    # 删除文字链接
     content = remove_text_links(content)
-    
-    # 清理图片链接
-    content = clean_markdown_image_links(content)
-    
-    # 去除横线
     content = remove_markdown_hr(content)
-
-    # 去除掉文字中的重复标题信息
-    content = clean_content(content)
-    
-    # 删除多余的空行
     content = re.sub(r'\n\s*\n\s*\n', '\n\n', content)
-    
     return content
 
 def process_markdown_files(input_folder, output_folder):
     """
     处理输入文件夹中的所有markdown文件，清理后保存到输出文件夹
     """
-    # 确保输出文件夹存在
+
     os.makedirs(output_folder, exist_ok=True)
-    
-    # 清理输出文件夹
     logger.info(f"开始清理输出文件夹: {output_folder}")
     clean_folder(output_folder)
     logger.info(f"输出文件夹已清理: {output_folder}")
     
-    # 获取所有markdown文件
     if not os.path.exists(input_folder):
         logger.error(f"输入文件夹不存在: {input_folder}")
         return
@@ -249,14 +211,11 @@ def process_markdown_files(input_folder, output_folder):
             output_file_path = os.path.join(output_folder, filename)
             
             try:
-                # 读取原始文件
                 with open(input_file_path, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                # 清理内容
                 cleaned_content = clean_markdown_content(content)
                 
-                # 保存清理后的文件
                 with open(output_file_path, 'w', encoding='utf-8') as f:
                     f.write(cleaned_content)
                 
@@ -271,11 +230,9 @@ def process_markdown_files(input_folder, output_folder):
 def main():
     logger.info("开始清理markdown文件!")
     
-    # 输入和输出文件夹路径
     input_folder = "./data/doc"
     output_folder = "./data/doc_cleaned"
     
-    # 处理所有markdown文件
     process_markdown_files(input_folder, output_folder)
     
     logger.info("markdown文件清理完成!")

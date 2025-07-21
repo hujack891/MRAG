@@ -28,4 +28,3 @@ With these three fights completed, you now need to wait until you enter Chapter 
 ![Wukong LowerHollow 10.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_LowerHollow_10.jpg)
 
 Once defeated, the boss will drop the Golden Lining Transformation spell. For some key tips on how to defeat Yellow Loong, our page on the boss has a list of key tips and a breakdown of every move and how to counter it. 
-

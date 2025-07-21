@@ -15,4 +15,3 @@ Hoarfrost can be found in The New West, from the New Thunderclap Temple - Temple
 ![Black-myth-wukong-hoarfrost.jpg](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/a/a7/Black-myth-wukong-hoarfrost.jpg)
 
 This boss isn't too tricky compared to the harder boss fights in the game, but the boss' speed can be a major hurdle. You can find a full boss guide on our wiki page on the Monk From The Sea. Generally, you want to deflect his attacks and also have high Chill resistance armor and gear if possible. Focusing on repositioning to avoid attacks is also key to success. 
-
