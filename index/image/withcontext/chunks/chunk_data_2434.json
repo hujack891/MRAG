@@ -1,0 +1,11 @@
+{
+    "chunk_id": 594086958667,
+    "source_file": "Verdant_Glow_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/4/43/Verdant_Glow_.jpg",
+    "alt_text": "Verdant Glow .jpg",
+    "position_desc": 2,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Verdant Glow Spirit\n            - Section Title: Verdant Glow Location\n\n            Context:\n            - Preceding Text: \"# Verdant Glow Spirit\n\n## Verdant Glow Location\n\nVerdant Glow is in the secret area in Chapter 4 called Purple Cloud Mountain. To reach this area, you must first defeat the Venom Daoist in the chamber to the right of the Pool of Shattered Jade Keeper's Shrine. From there, revisit him again in an empty room on a path branching off to the right of the Temple of Yellow Flowers. Defeat him to unlock the secret area.\n\nOnce you're on Purple Cloud Mountain, head down the path, past the snake, and to the right to find Verdant Glow. It is standing in front of a tree with a Luojia Fragrant Vine growing on it.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Verdant_Glow_Spirit.md', This is the 2th image in the document, "
+}

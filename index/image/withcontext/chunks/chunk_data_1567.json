@@ -1,0 +1,11 @@
+{
+    "chunk_id": 792946685903,
+    "source_file": "Puppet_Spider_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/03/Puppet_Spider_Location.png",
+    "alt_text": "Puppet Spider Location.png",
+    "position_desc": 2,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Puppet Spider Spirit\n            - Section Title: Puppet Spider Location\n\n            Context:\n            - Preceding Text: \"# Puppet Spider Spirit\n\n## Puppet Spider Location\n\nHead to the Verdure Bridge Keeper's Shrine and take the green bridge on the left of it. Head right and drop down the wooden platforms to reach the ground below. Instead of climbing the stairs to enter the village, turn right and head into a webbed corridor. Turn left at the illuminated spot in the corridor to find a secret entrance covered in cocoons. Destroy the cocoons to fight your way inside and find the Puppet Spider waiting for you there.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Puppet_Spider_Spirit.md', This is the 2th image in the document, "
+}

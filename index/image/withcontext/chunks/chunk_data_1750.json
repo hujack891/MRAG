@@ -1,0 +1,11 @@
+{
+    "chunk_id": 195104797080,
+    "source_file": "Secrets_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/d/d2/Chapter_5_Secret_Area_%288%29.png",
+    "alt_text": "Chapter 5 Secret Area \\(8\\).png",
+    "position_desc": 21,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Chapter 5 Secrets\n            - Section Title: The Five Carts and Bishui Cave\n\n            Context:\n            - Preceding Text: \"# Chapter 5 Secrets\n\n## The Five Carts and Bishui Cave\"\n            - Following Text: \"At the start of Chapter 5, you’ll encounter the Pale-Axe Stalwart. He’ll ask you to destroy the Five Carts in Chapter 5, but you’ll only actually need to tackle 4 of them. 3 of these can be found along the main path, but one can be found if you double back on yourself after the rolling spiked ball has gone toward the end of the chapter and enter the Cooling Slope.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Secrets_in_Black_Myth_Wukong.md', This is the 21th image in the document, "
+}

@@ -1,0 +1,11 @@
+{
+    "chunk_id": 54470245378,
+    "source_file": "Vessels.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/3/36/Black-myth-wukong-weavers-needle.jpg?width=42&format=jpg&auto=webp&quality=80",
+    "alt_text": "Black-myth-wukong-weavers-needle.jpg",
+    "position_desc": 3,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Vessels\n            - Section Title: Black Myth: Wukong Vessels Locations\n\n            Context:\n            - Preceding Text: \"# Vessels\n\nVessels in Black Myth: Wukong are a unique piece of equipment that offers both a passive and active ability when equipped. They are exceptionally strong and should be used when facing off against bosses or when you are in a spot of trouble during a fight. These Vessels are rare, and you will have to go out of your way to find them.\n\nThe passive ability usually provides a general stat boost in an area, while the active ability can be activated to provide a much stronger buff that can change the tide of a fight.\n\n## Black Myth: Wukong Vessels Locations\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Vessels.md', This is the 3th image in the document, "
+}

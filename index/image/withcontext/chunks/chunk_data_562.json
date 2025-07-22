@@ -1,0 +1,11 @@
+{
+    "chunk_id": 482270032852,
+    "source_file": "Heart_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/16/Heart_of_Stone.jpg",
+    "alt_text": "Heart of Stone.jpg",
+    "position_desc": 1,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Heart of Stone\n\n            Context:\n            - Preceding Text: \"# Heart of Stone\n\nHeart of Stone is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\n\nThe Heart of Stone can be used to craft the Cloud-Patterned Stone Staff from the Shrine.\"\n            - Following Text: \"To obtain the Heart of Stone, you need to defeat Shigandang in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need all six Buddhas Eyeball items to be able to trigger this fight.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Heart_of_Stone.md', This is the 1th image in the document, "
+}

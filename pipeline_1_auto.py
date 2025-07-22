@@ -8,9 +8,12 @@ from datetime import datetime
 from openai import OpenAI
 import sys
 from config import BaseConfig, TextEmbedding3LargeConfig, MLLMConfig
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Tuple
+import re
+import math
+from collections import Counter
 
-# Implementation: Question → Embedding Vector → Vector Database Retrieval → GPT-4o Answer
+# Implementation: Hybrid Search (Dense + Sparse BM25) → GPT-4o Answer
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from logs.log_config import setup_logging
@@ -22,14 +25,19 @@ logger = setup_logging(os.path.splitext(os.path.basename(__file__))[0])
 TOP_K_RESULTS = 5  # 文本检索数量
 TOP_N_RESULTS = 5  # 图片检索数量
 
-text_weight = 0.5  
-image_weight = 0.5
+# Hybrid search weights
+DENSE_WEIGHT = 0.6      # Dense embedding similarity weight
+SPARSE_WEIGHT = 0.4     # Sparse (BM25) similarity weight
+
+# BM25 parameters
+BM25_K1 = 1.2
+BM25_B = 0.75
 
 MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
 TEXT_DATABASE_PATH = "./index/text/withcontext"
 IMAGE_DATABASE_PATH = "./index/image/nocontext"
-OUTPUT_DIR = "./result/level1_auto"
+OUTPUT_DIR = "./result/level1_auto_hybrid"
 DATASETS_ORG_DIR = "datasets_org"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -48,7 +56,233 @@ client_gpt4o = OpenAI(
     api_key=baseconfig.MLLM_API
 )
 
+class BM25Retriever:
+    def __init__(self, k1=BM25_K1, b=BM25_B):
+        self.k1 = k1
+        self.b = b
+        self.corpus = []
+        self.doc_freqs = []
+        self.idf = {}
+        self.doc_len = []
+        self.avgdl = 0
+        self.text_chunk_data = []
+        
+    def _tokenize(self, text: str) -> List[str]:
+        """Simple tokenization"""
+        # Convert to lowercase and split by whitespace and punctuation
+        text = re.sub(r'[^\w\s]', ' ', text.lower())
+        return text.split()
+        
+    def fit(self, corpus: List[str], chunk_data: List[Dict]):
+        """Train BM25 model"""
+        self.text_chunk_data = chunk_data
+        self.corpus = [self._tokenize(doc) for doc in corpus]
+        
+        # Calculate document frequencies
+        df = {}
+        for doc in self.corpus:
+            for word in set(doc):
+                df[word] = df.get(word, 0) + 1
+                
+        # Calculate IDF
+        for word, freq in df.items():
+            self.idf[word] = math.log((len(self.corpus) - freq + 0.5) / (freq + 0.5))
+            
+        # Calculate document lengths
+        self.doc_len = [len(doc) for doc in self.corpus]
+        self.avgdl = sum(self.doc_len) / len(self.doc_len)
+        
+    def search(self, query: str, top_k: int) -> List[Dict]:
+        """Search using BM25"""
+        query_tokens = self._tokenize(query)
+        scores = []
+        
+        for i, doc in enumerate(self.corpus):
+            score = 0
+            doc_len = self.doc_len[i]
+            
+            for token in query_tokens:
+                if token in self.idf:
+                    tf = doc.count(token)
+                    idf = self.idf[token]
+                    score += idf * (tf * (self.k1 + 1)) / (tf + self.k1 * (1 - self.b + self.b * doc_len / self.avgdl))
+                    
+            scores.append(score)
+            
+        # Get top-k results
+        top_indices = sorted(range(len(scores)), key=lambda i: scores[i], reverse=True)[:top_k]
+        
+        results = []
+        for rank, idx in enumerate(top_indices):
+            if scores[idx] > 0:
+                chunk_data = self.text_chunk_data[idx].copy()
+                chunk_data.update({
+                    'rank': rank + 1,
+                    'content_type': 'text',
+                    'bm25_score': float(scores[idx]),
+                    'search_type': 'sparse'
+                })
+                results.append(chunk_data)
+                
+        return results
 
+class HybridSearcher:
+    def __init__(self):
+        self.bm25_retriever = BM25Retriever()
+        self.text_chunk_data = []
+        self.image_chunk_data = []
+        
+    def build_sparse_index(self, text_chunks: List[Dict]):
+        """Build BM25 sparse index for text chunks"""
+        logger.info("Building sparse BM25 index...")
+        
+        # Prepare text corpus
+        corpus = []
+        for chunk in text_chunks:
+            # Combine different text fields for comprehensive search
+            text_content = f"{chunk.get('h1_title', '')} {chunk.get('h2_title', '')} {chunk.get('h3_title', '')} {chunk.get('content', '')} {chunk.get('promot', '')}"
+            corpus.append(text_content)
+            
+        self.text_chunk_data = text_chunks
+        
+        # Build BM25 index
+        self.bm25_retriever.fit(corpus, text_chunks)
+        logger.info(f"Built BM25 index with {len(corpus)} documents")
+        
+    def sparse_search(self, query: str, top_k: int) -> List[Dict]:
+        """Perform sparse retrieval using BM25"""
+        return self.bm25_retriever.search(query, top_k)
+        
+    def dense_search(self, query_vector: np.ndarray, text_index, image_index, 
+                    text_chunk_id_to_path: Dict, image_chunk_id_to_path: Dict,
+                    text_chunk_path: str, image_chunk_path: str, 
+                    top_k: int, top_n: int) -> Tuple[List[Dict], List[Dict]]:
+        """Perform dense retrieval using FAISS"""
+        text_results = []
+        image_results = []
+        
+        # Dense text search
+        if text_index is not None:
+            text_distances, text_indices = text_index.search(
+                query_vector.reshape(1, -1), top_k
+            )
+
+            for i, (distance, idx) in enumerate(zip(text_distances[0], text_indices[0])):
+                chunk_id = text_chunk_id_to_path[str(idx)]
+                chunk_path = os.path.join(text_chunk_path, chunk_id)
+                with open(chunk_path, 'r', encoding='utf-8') as f:
+                    chunk_data = json.load(f)
+                similarity_score = 1 / (1 + distance)
+            
+                chunk_data.update({
+                    'rank': i + 1,
+                    'content_type': 'text',
+                    'distance': float(distance),
+                    'dense_score': float(similarity_score),
+                    'search_type': 'dense'
+                })
+                text_results.append(chunk_data)
+                
+        # Dense image search  
+        if image_index is not None:
+            image_distances, image_indices = image_index.search(
+                query_vector.reshape(1, -1), top_n
+            )
+            
+            for i, (distance, idx) in enumerate(zip(image_distances[0], image_indices[0])):
+                chunk_id = image_chunk_id_to_path[str(idx)]
+                chunk_path = os.path.join(image_chunk_path, chunk_id)
+                with open(chunk_path, 'r', encoding='utf-8') as f:
+                    chunk_data = json.load(f)
+                similarity_score = 1 / (1 + distance)
+            
+                chunk_data.update({
+                    'rank': i + 1,
+                    'content_type': 'image',
+                    'distance': float(distance),
+                    'dense_score': float(similarity_score),
+                    'search_type': 'dense'
+                })
+                image_results.append(chunk_data)
+                
+        return text_results, image_results
+    
+    def hybrid_fusion(self, dense_text_results: List[Dict], sparse_text_results: List[Dict], 
+                     dense_image_results: List[Dict]) -> List[Dict]:
+        """Fuse results from dense and sparse search strategies"""
+        
+        # Create a dictionary to store combined scores
+        combined_results = {}
+        
+        # Process dense text results
+        for result in dense_text_results:
+            key = result.get('chunk_id', f"text_{result.get('rank', 0)}")
+            if key not in combined_results:
+                combined_results[key] = result.copy()
+                combined_results[key]['dense_score'] = result.get('dense_score', 0)
+                combined_results[key]['bm25_score'] = 0
+            else:
+                combined_results[key]['dense_score'] = result.get('dense_score', 0)
+        
+        # Process sparse text results (BM25)
+        for result in sparse_text_results:
+            # Try to match with dense results by content similarity
+            key = None
+            for existing_key in combined_results.keys():
+                if (combined_results[existing_key]['content_type'] == 'text' and 
+                    combined_results[existing_key].get('content', '') == result.get('content', '')):
+                    key = existing_key
+                    break
+            
+            if key:
+                combined_results[key]['bm25_score'] = result.get('bm25_score', 0)
+            else:
+                # Add as new result if not found in dense results
+                new_key = f"sparse_{result.get('rank', 0)}"
+                combined_results[new_key] = result.copy()
+                combined_results[new_key]['dense_score'] = 0
+                combined_results[new_key]['bm25_score'] = result.get('bm25_score', 0)
+        
+        # Process dense image results
+        for result in dense_image_results:
+            key = result.get('chunk_id', f"image_{result.get('rank', 0)}")
+            if key not in combined_results:
+                combined_results[key] = result.copy()
+                combined_results[key]['dense_score'] = result.get('dense_score', 0)
+                combined_results[key]['bm25_score'] = 0
+            else:
+                combined_results[key]['dense_score'] = result.get('dense_score', 0)
+        
+        # Calculate hybrid scores
+        final_results = []
+        for key, result in combined_results.items():
+            # Normalize scores to [0, 1] range
+            dense_norm = min(result.get('dense_score', 0), 1.0)
+            # Normalize BM25 scores (typically range from 0 to ~10+)
+            bm25_norm = min(result.get('bm25_score', 0) / 10.0, 1.0)
+            
+            # Calculate hybrid score
+            hybrid_score = (
+                DENSE_WEIGHT * dense_norm + 
+                SPARSE_WEIGHT * bm25_norm
+            )
+            
+            result['hybrid_score'] = hybrid_score
+            result['score_breakdown'] = {
+                'dense': dense_norm,
+                'bm25': bm25_norm
+            }
+            
+            result['final_score'] = hybrid_score
+                
+            final_results.append(result)
+        
+        # Sort by final score
+        final_results.sort(key=lambda x: x['final_score'], reverse=True)
+        return final_results
+
+# Initialize hybrid searcher
+hybrid_searcher = HybridSearcher()
 
 def load_questions_from_datasets(datasets_dir: str) -> List[Dict[str, str]]:
     """从datasets_org文件夹中读取所有md文件的问题"""
@@ -87,112 +321,70 @@ def query_embedding(query):
         logger.error(f"生成查询向量时发生错误: {error_msg}")
         return None
     
-def format_retrieval_context(search_results:list,TOP_K_RESULTS:int,TOP_N_RESULTS:int) -> str:
+def format_retrieval_context(search_results: list, TOP_K_RESULTS: int, TOP_N_RESULTS: int) -> str:
     """格式化检索内容"""
     if not search_results:
         return "检索失败，无可用上下文信息"
     
     context_parts = []
     
-
-    context_parts.append(f"=== Retrieved Relevant Information ===")
+    context_parts.append(f"=== Retrieved Relevant Information (Hybrid Search) ===")
     context_parts.append(f"Text Segments: {TOP_K_RESULTS}")
     context_parts.append(f"Related Images: {TOP_N_RESULTS}")
+    context_parts.append(f"Search Strategy: Dense + Sparse BM25 Fusion")
     context_parts.append("")
     
     for i, result in enumerate(search_results):
         if result["content_type"] == "text":
-            context_parts.append(f"Text Segment {i+1}")
-            context_parts.append(f"{result['promot']}")
+            context_parts.append(f"Text Segment {i+1} (Score: {result.get('final_score', 0):.3f})")
+            context_parts.append(f"Search Methods: Dense={result.get('score_breakdown', {}).get('dense', 0):.3f}, "
+                                f"BM25={result.get('score_breakdown', {}).get('bm25', 0):.3f}")
+            context_parts.append(f"{result.get('promot', result.get('content', ''))}")
             context_parts.append("")  
-
             
         elif result["content_type"] == "image":
-            context_parts.append(f"Image Segment {i+1}")     
-            context_parts.append(f"{result['generate_prompt']}")      
-            context_parts.append(f"Image URL: {result['img_url']}")
+            context_parts.append(f"Image Segment {i+1} (Score: {result.get('final_score', 0):.3f})")   
+            context_parts.append(f"Search Methods: Dense={result.get('score_breakdown', {}).get('dense', 0):.3f}")
+            context_parts.append(f"{result.get('generate_prompt', '')}")      
+            context_parts.append(f"Image URL: {result.get('img_url', '')}")
             context_parts.append("")    
 
     return "\n".join(context_parts)
 
 def process_single_question(query: str, text_index, image_index, text_chunk_id_to_path, image_chunk_id_to_path, text_chunk_path, image_chunk_path, top_k: int, top_n: int) -> Dict[str, Any]:
-    """处理单个问题并返回结果"""
-    logger.info(f"开始处理问题: {query}")
+    """处理单个问题并返回结果 - 使用混合搜索"""
+    logger.info(f"开始处理问题 (混合搜索): {query}")
     
     # 将问题转换为向量
     query_vector = query_embedding(query)
     if query_vector is None:
         return {"error": "向量生成失败"}
     
-    # 文本向量数据库检索
-    text_results = []
-    image_results = []
+    # 1. Dense search (original FAISS search)
+    logger.info("执行密集向量搜索...")
+    dense_text_results, dense_image_results = hybrid_searcher.dense_search(
+        query_vector, text_index, image_index, text_chunk_id_to_path, 
+        image_chunk_id_to_path, text_chunk_path, image_chunk_path, top_k, top_n
+    )
     
-    if text_index is not None:
-        logger.info(f"正在搜索文本数据库... (top_k={top_k})")
-        text_distances, text_indices = text_index.search(
-            query_vector.reshape(1, -1), top_k
-        )
-
-        for i, (distance, idx) in enumerate(zip(text_distances[0], text_indices[0])):
-            chunk_id = text_chunk_id_to_path[str(idx)]
-            chunk_path = os.path.join(text_chunk_path, chunk_id)
-            with open(chunk_path, 'r', encoding='utf-8') as f:
-                chunk_data = json.load(f)
-            similarity_score = 1 / (1 + distance)
-        
-            text_results.append({
-                'rank': i + 1,
-                'content_type': 'text',
-                'distance': float(distance),
-                'similarity_score': float(similarity_score),
-                "weighted_score": float(similarity_score) * text_weight,
-                "chunk_id": chunk_data['chunk_id'],
-                "source_file": chunk_data['source_file'],
-                "content_type": chunk_data['content_type'],
-                "h1_title": chunk_data['h1_title'],         
-                "h2_title": chunk_data['h2_title'],
-                "h3_title": chunk_data['h3_title'],                    
-                "paragraph_content": chunk_data['content'],
-                "promot": chunk_data['promot'],                  
-            })  
-            
-    if image_index is not None:
-        logger.info(f"正在搜索图片数据库... (top_n={top_n})")
-        image_distances, image_indices = image_index.search(
-            query_vector.reshape(1, -1), top_n
-        )
-        
-        for i, (distance, idx) in enumerate(zip(image_distances[0], image_indices[0])):
-            chunk_id = image_chunk_id_to_path[str(idx)]
-            chunk_path = os.path.join(image_chunk_path, chunk_id)
-            with open(chunk_path, 'r', encoding='utf-8') as f:
-                chunk_data = json.load(f)
-            similarity_score = 1 / (1 + distance)
-        
-            image_results.append({
-                'rank': i + 1,
-                'content_type': 'image',
-                'distance': float(distance),
-                'similarity_score': float(similarity_score),
-                "weighted_score": float(similarity_score) * image_weight,
-                "chunk_id": chunk_data['chunk_id'],
-                "source_file": chunk_data['source_file'],
-                "img_url": chunk_data['img_url'],
-                "alt_text": chunk_data['alt_text'],
-                "position_desc": chunk_data['position_desc'],
-                "img_summary": chunk_data['img_summary'],   
-                "embedding_prompt": chunk_data['embedding_prompt'],  
-                "generate_prompt": chunk_data['generate_prompt'],  
-            })             
-
-    # 合并结果并排序
-    results = text_results + image_results
-    results.sort(key=lambda x: x['weighted_score'], reverse=True)
+    # 2. Sparse search (BM25 based)
+    logger.info("执行BM25稀疏搜索...")
+    sparse_text_results = hybrid_searcher.sparse_search(query, top_k)
+    
+    # 3. Hybrid fusion
+    logger.info("融合密集和稀疏搜索结果...")
+    results = hybrid_searcher.hybrid_fusion(
+        dense_text_results, sparse_text_results, 
+        dense_image_results
+    )
+    
+    # Limit to desired number of results
+    total_results = min(len(results), top_k + top_n)
+    results = results[:total_results]
 
     # 保存检索结果
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    results_file = os.path.join(OUTPUT_DIR, f'results_{timestamp}.json')
+    results_file = os.path.join(OUTPUT_DIR, f'hybrid_results_{timestamp}.json')
     with open(results_file, 'w', encoding='utf-8') as f:
         json.dump(results, f, ensure_ascii=False, indent=4)
 
@@ -200,7 +392,7 @@ def process_single_question(query: str, text_index, image_index, text_chunk_id_t
     context = format_retrieval_context(results, top_k, top_n)
 
     # 构建提示词
-    system_prompt = """Based on the retrieved text segments, image content, and their associated metadata (such as source document sections and image URLs) relevant to the user's question, generate content that conforms to the following Markdown format specification, while preserving the global logical sequence and contextual relationships.
+    system_prompt = """Based on the retrieved text segments, image content, and their associated metadata (obtained through hybrid search combining dense embeddings and sparse BM25 keyword matching) relevant to the user's question, generate content that conforms to the following Markdown format specification, while preserving the global logical sequence and contextual relationships.
 
         The format is as follows:
         Text Paragraph 1  
@@ -214,11 +406,12 @@ def process_single_question(query: str, text_index, image_index, text_chunk_id_t
         2. Use retrieved image URLs exactly as provided
         3. Maintain coherent narrative structure
         4. Preserve source context and relationships
-        5. The retrieved information is sorted by similarity (descending). 
+        5. The retrieved information is ranked by hybrid relevance score (combining multiple search strategies)
+        6. Consider the search method breakdown when integrating information
     """
 
     user_prompt = f"""Question: {query}
-        retrieved information:
+        Retrieved information (Hybrid Search):
         {context}
     """
     
@@ -251,11 +444,11 @@ def process_single_question(query: str, text_index, image_index, text_chunk_id_t
         # 保存答案
         if answer:
             safe_query = "".join(c for c in query if c.isalnum() or c in (' ', '-', '_')).rstrip()[:50]
-            filename = f'{safe_query}_answer_{timestamp}.md'
+            filename = f'{safe_query}_hybrid_answer_{timestamp}.md'
             filepath = os.path.join(OUTPUT_DIR, filename)
             with open(filepath, 'w', encoding='utf-8') as f:
                 f.write(f"Q: {query}\n")
-                f.write(f"A:\n")
+                f.write(f"A (Hybrid Search):\n")
                 f.write(f"{answer}\n")
             logger.info(f"答案已保存到: {filepath}")
             
@@ -264,7 +457,8 @@ def process_single_question(query: str, text_index, image_index, text_chunk_id_t
                 "answer": answer,
                 "results_file": results_file,
                 "answer_file": filepath,
-                "retrieval_results": results
+                "retrieval_results": results,
+                "search_type": "hybrid"
             }
         else:
             logger.warning("生成的答案为空")
@@ -274,6 +468,26 @@ def process_single_question(query: str, text_index, image_index, text_chunk_id_t
         error_msg = f"生成答案时出错: {str(e)}"
         logger.error(error_msg)
         return {"error": error_msg}
+
+def load_all_chunks_for_sparse_index(text_chunk_path: str, text_chunk_id_to_path: Dict):
+    """Load all text chunks for building BM25 sparse index"""
+    logger.info("Loading text chunks for BM25 indexing...")
+    
+    # Load text chunks
+    text_chunks = []
+    for chunk_id in text_chunk_id_to_path.values():
+        chunk_path = os.path.join(text_chunk_path, chunk_id)
+        try:
+            with open(chunk_path, 'r', encoding='utf-8') as f:
+                chunk_data = json.load(f)
+                text_chunks.append(chunk_data)
+        except Exception as e:
+            logger.error(f"Error loading text chunk {chunk_id}: {str(e)}")
+    
+    logger.info(f"Loaded {len(text_chunks)} text chunks")
+    
+    # Build BM25 sparse index for text chunks
+    hybrid_searcher.build_sparse_index(text_chunks)
 
 def main():
     # 读取数据库
@@ -312,6 +526,9 @@ def main():
         logger.error(f"加载数据库时出错: {str(e)}")
         return
     
+    # Load all text chunks for BM25 indexing
+    load_all_chunks_for_sparse_index(text_chunk_path, text_chunk_id_to_path)
+    
     # 读取所有问题
     logger.info(f"正在从 {DATASETS_ORG_DIR} 读取问题...")
     questions = load_questions_from_datasets(DATASETS_ORG_DIR)
@@ -322,17 +539,40 @@ def main():
     
     # 问答循环
     while True:
-        print("\n=== 自动批量处理模式 ===")
+        print("\n=== 混合搜索批量处理模式 ===")
         print("1. 处理所有问题")
         print("2. 随机处理指定数量的问题")
         print("3. 手动输入问题")
-        print("4. 退出")
+        print("4. 调整搜索权重")
+        print("5. 退出")
         
-        choice = input("请选择模式 (1-4): ").strip()
+        choice = input("请选择模式 (1-5): ").strip()
         
-        if choice == '4':
+        if choice == '5':
             logger.info("感谢使用！")
             break
+        elif choice == '4':
+            # 调整搜索权重
+            print(f"\n当前权重设置:")
+            print(f"Dense Weight: {DENSE_WEIGHT}")
+            print(f"Sparse BM25 Weight: {SPARSE_WEIGHT}")
+            
+            try:
+                new_dense = float(input(f"新的Dense权重 (当前: {DENSE_WEIGHT}): ") or DENSE_WEIGHT)
+                new_sparse = float(input(f"新的Sparse BM25权重 (当前: {SPARSE_WEIGHT}): ") or SPARSE_WEIGHT)
+                
+                # Normalize weights
+                total_weight = new_dense + new_sparse
+                if total_weight > 0:
+                    DENSE_WEIGHT = new_dense / total_weight
+                    SPARSE_WEIGHT = new_sparse / total_weight
+                    
+                    logger.info(f"权重已更新: Dense={DENSE_WEIGHT:.3f}, Sparse BM25={SPARSE_WEIGHT:.3f}")
+                else:
+                    print("权重总和必须大于0")
+            except ValueError:
+                print("无效的权重值")
+            continue
         elif choice == '3':
             # 手动输入问题模式
             query = input("请输入您的查询问题: ").strip()

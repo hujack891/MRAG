@@ -29,7 +29,7 @@ MAX_CONTEXT_LENGTH = 4000  # Maximum context length
 
 TEXT_DATABASE_PATH = "./index/text/nocontext"
 IMAGE_DATABASE_PATH = "./index/image/withcontext"
-OUTPUT_DIR = "./result/level2_auto"
+OUTPUT_DIR = "./result/level2_auto_hybrid"
 DATASETS_ORG_DIR = "datasets_org"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

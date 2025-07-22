@@ -1,0 +1,11 @@
+{
+    "chunk_id": 285121251508,
+    "source_file": "Man-in-Stone_Questline.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/9/97/Wukong_Fright_1.jpg",
+    "alt_text": "Wukong Fright 1.jpg",
+    "position_desc": 1,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Man-in-Stone Questline\n            - Section Title: Where to Find the Man-in-Stone\n\n            Context:\n            - Preceding Text: \"# Man-in-Stone Questline\n\nThe Man-in-Stone is a character, boss, and later merchant you can meet in Chapter 2 of Black Myth Wukong. This character will ask you to retrieve an item from a nearby cave, and if defeated in a fight, will grant you a Transformation Spell, and then begin to sell you items later on.\n\n## Where to Find the Man-in-Stone\"\n            - Following Text: \"You can first encounter the Man-in-Stone in the Fright Cliff area of Chapter 2’s Yellow Wind Ridge. You can reach it by traveling through Sandgate Village and defeating the King of Flowing Sands and Second Rat Prince, and then taking the path across a rope bridge to the right from the large sealed stone door.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Man-in-Stone_Questline.md', This is the 1th image in the document, "
+}

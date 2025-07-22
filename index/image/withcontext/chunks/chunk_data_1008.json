@@ -1,0 +1,11 @@
+{
+    "chunk_id": 80353415977,
+    "source_file": "Mad_Tiger_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Wukong_Rattle_1.jpg",
+    "alt_text": "Wukong Rattle 1.jpg",
+    "position_desc": 3,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Mad Tiger Spirit\n            - Section Title: Mad Tiger Location\n\n            Context:\n            - Preceding Text: \"# Mad Tiger Spirit\n\n## Mad Tiger Location\n\nYou will need to find three areas across Yellow Wind Ridge where you can use the drum to summon a spirit. The only clue you’ll have is that entering the correct area will cause your vision to warp, and you will hear the ghostly voice of a boy calling out to you.\"\n            - Following Text: \"* The first location is further back in the Windrest Hamlet. Return across the bridge to the Windrest Hamlet Shrine and pass back through the large gate, immediately taking a left to the large house surrounded by sitting Withering Corpses.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Mad_Tiger_Spirit.md', This is the 3th image in the document, "
+}

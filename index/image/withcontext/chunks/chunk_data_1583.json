@@ -1,0 +1,11 @@
+{
+    "chunk_id": 169325586134,
+    "source_file": "Rat_Archer_Spirit.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/5/5e/Rat_Archer_Door.jpg",
+    "alt_text": "Rat Archer Door.jpg",
+    "position_desc": 2,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Rat Archer Spirit\n            - Section Title: Rat Archer Location\n\n            Context:\n            - Preceding Text: \"# Rat Archer Spirit\n\n## Rat Archer Location\n\nThe Rat Archer is somewhat tricky to find and doesn't spawn until you defeat the Earth Wolf Spirit in Sandgate Village. From the Sandgate Village Keeper's Shrine, run over the bridge to find several enemies, a few of which are perched on top of an inaccessible roof. You cannot reach them at this point, so head right and work your way around Sandgate Village.\n\nYou will eventually find yourself in the Earth Wolf's arena. Take down the wolf and open the door to continue onward. As soon as you open the door, the Rat Archer and his minions will jump down and ambush you.\"\n            - Following Text: \"\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Rat_Archer_Spirit.md', This is the 2th image in the document, "
+}

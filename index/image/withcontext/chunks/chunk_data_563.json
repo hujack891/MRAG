@@ -1,0 +1,11 @@
+{
+    "chunk_id": 226233707684,
+    "source_file": "Heart_of_Stone.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/6/60/Wukong_Shigandang_2.jpg",
+    "alt_text": "Wukong Shigandang 2.jpg",
+    "position_desc": 2,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Heart of Stone\n\n            Context:\n            - Preceding Text: \"# Heart of Stone\n\nTo obtain the Heart of Stone, you need to defeat Shigandang in Fright Cliff in Rockrest Flat in Yellow Wind Ridge. You need all six Buddhas Eyeball items to be able to trigger this fight.\"\n            - Following Text: \"For even more guides and tips on finding all the items in the game, be sure to check out our guide on all the Black Myth: Wukong Weapons locations and Armor and Gear locations, as well as the Gourds, Curios, Vessels, and Transformation Spells locations. You can also find a library of all the Medicine Ingredients and Consumable Items in the game.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Heart_of_Stone.md', This is the 2th image in the document, "
+}

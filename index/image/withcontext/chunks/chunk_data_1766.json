@@ -1,0 +1,11 @@
+{
+    "chunk_id": 790930992099,
+    "source_file": "Secret_Bosses_in_Black_Myth_Wukong.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b7/How_To_Find_Yellow_Loong_%284%29.png",
+    "alt_text": "How To Find Yellow Loong \\(4\\).png",
+    "position_desc": 9,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Secret Bosses in Chapter 4\n            - Section Title: Yellow Loong\n\n            Context:\n            - Preceding Text: \"# Secret Bosses in Chapter 4\n\nChapter 4 brings a conclusion to the run of secret Loong bosses, but is also packed with plenty of hidden bosses, including 3 in a secret area.\n\n## Yellow Loong\"\n            - Following Text: \"As you make your way through the Webbed Hollow, you'll start to work toward the bottom of the area, past the Cliff of Oblivion. This is where you can find the Relief of the Fallen Loong, and Yellow Loong waiting at the edge of the nearby cliff.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Secret_Bosses_in_Black_Myth_Wukong.md', This is the 9th image in the document, "
+}

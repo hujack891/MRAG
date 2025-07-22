@@ -1,0 +1,11 @@
+{
+    "chunk_id": 914928457262,
+    "source_file": "How-to_Guides.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/1/13/How-To-Guides-.png",
+    "alt_text": "How-To-Guides-.png",
+    "position_desc": 1,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: How-to Guides\n            - Section Title: General How-to Guides\n\n            Context:\n            - Preceding Text: \"# How-to Guides\n\nBlack Myth: Wukong hides plenty of mysteries, but not all of its secrets and mechanics are easy to figure out. That's why we've compiled a list of how-to guides to help you figure out everything from upgrading your healing to finding secret areas, and unlocking special bosses\n\n## General How-to Guides\"\n            - Following Text: \"* How to Change Default Chinese Text to English\n* How to Claim Deluxe Edition Items\n* How to Increase Gourd Uses and Healing Amount\n* How to Upgrade Your Health, Magic, and Stamina\n* How to Parry\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n\n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'How-to_Guides.md', This is the 1th image in the document, "
+}

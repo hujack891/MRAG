@@ -1,0 +1,11 @@
+{
+    "chunk_id": 270415713316,
+    "source_file": "Rat_Sage_Staff.md",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/0/08/Rat_Sage_Staff_2.jpg",
+    "alt_text": "Rat Sage Staff 2.jpg",
+    "position_desc": 1,
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Rat Sage Staff\n\n            Context:\n            - Preceding Text: \"# Rat Sage Staff\n\nThe Rat Sage Staff Staff is an Epic weapon in Black Myth: Wukong. It comes with solid stats, damage, and a decent, albeit easily outbeaten unique effect compared to the other Weapons in the game.\n\nThe weapon comes with a respectable 66 damage, and the unique effect of making the fourth move of a light attack combo and the mobile staff spin stir up a whirlwind of sands, increasing attack range and damage.\"\n            - Following Text: \"## Black Myth: Wukong Rat Sage Staff Location\n\nThe Rat Sage Staff can be found in Chapter 2 - Yellow Wind Ridge upon defeating Yellow Wind Sage at the end of the chapter. This is a mandatory boss that is at the end of the chapter, so you can't miss him.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": "",
+    "embedding_prompt": "",
+    "generate_prompt": "This is an image from the file 'Rat_Sage_Staff.md', This is the 1th image in the document, "
+}

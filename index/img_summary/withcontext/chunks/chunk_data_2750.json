@@ -1,0 +1,14 @@
+{
+    "chunk_id": 864923971990,
+    "source_file": "Stone_Essence.md",
+    "h1_title": "Stone Essence",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b9/Stone_Essence_2.jpg",
+    "alt_text": "Stone Essence 2.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Stone Essence\n\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.",
+    "img_below_text": "The Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.",
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Stone Essence\n\n            Context:\n            - Preceding Text: \"# Stone Essence\n\nThe Stone Essence is one of the more hidden Key Items in Black Myth: Wukong. It is dropped by a secret boss found in Fright Cliff and you will need it to help the Man-In-Stone within the same area.\"\n            - Following Text: \"The Stone Essence can be found at Fright Cliff - Rockrest Flat. Just before the Shrine, you will see a small pathway leading into a cave. At the end of this cave, you can find the Mother of Stones. Defeating her will cause her to drop the Stone Essence.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": ""
+}

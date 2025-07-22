@@ -1,0 +1,13 @@
+Q: How to Change Default Chinese Text to English
+A (Hybrid Search):
+When starting the game Black Myth: Wukong, some players might find that the text defaults to Chinese. If you wish to change the language to English, follow these steps: First, launch the game and press any button to access the main menu. Select the top option to start or continue a game, then pause the game and navigate to the last tab on the right in the pause menu. Choose the last option in this menu, then the first submenu option, and select the left option to return to the main menu. From there, select the second to last menu option, pick the fifth menu option with a chat box icon, and use the top drop-down menu to choose English or your preferred language.
+
+![The image shows a language selection menu from a video game. The menu offers options for text language, with Simplified Chinese currently selected. Other available languages include Traditional Chinese, English, French, and German.](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/8/88/Black_myth_wukong_.jpg)
+
+In addition to changing the language settings, Black Myth: Wukong offers a variety of gameplay elements and guides to enhance your experience. The game is set in the ancient realm of the classic Chinese tale, Journey to the West, and follows the Monkey Warrior as he embarks on a quest to find and collect all six of Sun Wukong's Sage Relics. Players will need to master the art of the staff and Sun Wukong's magical abilities to overcome various challenges and face fearsome creatures across diverse landscapes, including forests, deserts, and snowy mountains.
+
+![The image depicts a scene set in a dense forest environment, featuring a character wearing a traditional outfit with a straw cape. The character is holding a bow, suggesting a role related to hunting or combat.](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/c/c8/Guangmo.jpg)
+
+For those interested in exploring more about the game, there are guides available that cover a wide range of topics, such as upgrading health, magic, and stamina, claiming deluxe edition items, and unlocking secret areas and bosses. The game also features a central hub called Zodiac Village, which can be unlocked in Chapter 3, providing a place to upgrade armor and interact with NPCs.
+
+![The image shows a scene from a video game where a character named Xu Dog is offering various options related to medicine. The options listed include "Request Medicine," "Make Medicines," "Remake Celestial Medicines," and more.](https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/b4/Zodiac_Village_%2836%29.png)

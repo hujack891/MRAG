@@ -380,6 +380,8 @@ def main():
     # 对数据结构列表通过ID去重
     all_summary_data = deduplicate_data(all_summary_data)
     
+    logger.info(f'去重后有{len(all_summary_data)}个chunk')
+    
     # 生成图像摘要 
     with ThreadPoolExecutor(max_workers=20) as executor:
             futures = []

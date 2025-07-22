@@ -7,15 +7,15 @@ Awaken Wine Worms can be rather difficult to find but are always contained in po
 You can use your Awaken Wine Worms at the Monkey's cave in the Marsh of the White Mist.
 
   * Black Wind Cave Awaken Wine Worm
-* Marsh of the White Mist Awaken Wine Worms
-* Yellow Wind Ridge Awaken Wine Worm
-* Outside the Pagoda Awaken Wine Worm
-* Longevity Road Awaken Wine Worm
-* The Estate of the Zhu Awaken Wine Worm
-* Temple of the Yellow Flowers Awaken Wine Worm
-* Purple Cloud Mountain Awaken Wine Worm
-* Rakshasa Palace Awaken Wine Worm
-* Bishui Cave Awaken Wine Worm
+  * Marsh of the White Mist Awaken Wine Worms
+  * Yellow Wind Ridge Awaken Wine Worm
+  * Outside the Pagoda Awaken Wine Worm
+  * Longevity Road Awaken Wine Worm
+  * The Estate of the Zhu Awaken Wine Worm
+  * Temple of the Yellow Flowers Awaken Wine Worm
+  * Purple Cloud Mountain Awaken Wine Worm
+  * Rakshasa Palace Awaken Wine Worm
+  * Bishui Cave Awaken Wine Worm
 
 ## Black Wind Cave Awaken Wine Worm
 

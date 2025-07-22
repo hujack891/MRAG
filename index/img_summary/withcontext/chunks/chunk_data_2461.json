@@ -1,0 +1,14 @@
+{
+    "chunk_id": 102717354098,
+    "source_file": "Red_Tides.md",
+    "h1_title": "Red Tides",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/2/24/Black-myth-wukong-red-tides-1.jpg",
+    "alt_text": "Black-myth-wukong-red-tides-1.jpg",
+    "position_desc": 2,
+    "img_above_text": "# Red Tides\n\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.",
+    "img_below_text": "* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.",
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Red Tides\n\n            Context:\n            - Preceding Text: \"# Red Tides\n\n* **Heavy Attack: Moon Chase - Unleash a series of dash attacks.** This attack can be performed with or without focus to dash across an area, performing a potent strike as you do so.\"\n            - Following Text: \"* **Follow Dodge With Heavy Attack - Perform a powerful set of slams after dodging.** This is Red Tides' strongest move, consisting of a slam. Several vertical slams can devastate an opponent's or boss' health bar and can be performed by repeatedly performing a Heavy Attack after using the first one following a dodge.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": ""
+}

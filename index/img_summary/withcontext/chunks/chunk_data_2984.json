@@ -1,0 +1,14 @@
+{
+    "chunk_id": 449652008313,
+    "source_file": "Thunder_Tail.md",
+    "h1_title": "Thunder Tail",
+    "h2_title": "",
+    "h3_title": "",
+    "img_url": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/black-myth-wukong/b/bf/Thunder_Tail.jpg",
+    "alt_text": "Thunder Tail.jpg",
+    "position_desc": 1,
+    "img_above_text": "# Thunder Tail\n\nThunder Tail is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\n\nThe Thunder Tail can be used to craft the Loongwreathe Staff from the Shrine.",
+    "img_below_text": "To obtain the Thunder Tail, you need to defeat Red Loong in Forest of Wolves in Black Wind Mountain. You need the Loong Scales to be able to trigger this fight.",
+    "summary_promot": "You are given an image and related metadata and context.\n\n            Metadata:\n            - Document Title: Thunder Tail\n\n            Context:\n            - Preceding Text: \"# Thunder Tail\n\nThunder Tail is one of the unique materials in Black Myth: Wukong. It is used for weapon and armor crafting to craft unique gear unlocked upon defeating a boss.\n\nThe Thunder Tail can be used to craft the Loongwreathe Staff from the Shrine.\"\n            - Following Text: \"To obtain the Thunder Tail, you need to defeat Red Loong in Forest of Wolves in Black Wind Mountain. You need the Loong Scales to be able to trigger this fight.\"\n\n            Your task:\n            1. Generate a **short, clear, and informative English summary** of the image.\n            2. Focus primarily on the **preceding and following text** to infer the image's **purpose, content, or narrative role**.\n            3. Incorporate any relevant metadata (e.g., section or document titles) to improve coherence, **but do not assume any domain-specific knowledge** unless explicitly stated.\n            4. Do **not** speculate beyond the visible content.\n\n\n            \n            Output Format:\n            Preceding Text Summary:\n            Provide a concise summary of the preceding text that gives context to the image.\n            Image Summary:\n            Provide a summary of the image, describing its purpose and content based on the context.\n            Following Text Summary:\n            Provide a concise summary of the following text that elaborates on the information related to the image.",
+    "img_summary": ""
+}
